@@ -1,0 +1,196 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"description": "Games Metadata Scheme",
+	"type": "object",
+	"properties": {
+		"acronyms": {
+			"type": "array",
+			"items": { "type": "string" }
+		},
+		"aliases": {
+			"type": "array",
+			"items": { "type": "string" }
+		},
+		"developers": {
+			"type": "array",
+			"items": { "type": "string" }
+		},
+		"genres": {
+			"type": "array",
+			"items": { "type": "string" }
+		},
+		"languages": {
+			"type": "array",
+			"items": {
+				"anyOf": [
+					{
+						"const": "RU",
+						"description": "Russian"
+					}
+				]
+			}
+		},
+		"name": {
+			"type": "string"
+		},
+		"publishers": {
+			"type": "array",
+			"items": { "type": "string" }
+		},
+		"ratings": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "The name of the rating organization or system."
+					},
+					"rating": {
+						"type": "string",
+						"description": "The rating value associated with the game."
+					}
+				},
+				"required": ["name", "rating"],
+				"additionalProperties": false
+			},
+			"description": "An array of rating objects, each containing a name and rating value."
+		},
+		"regions": {
+			"type": "array",
+			"items": {
+				"anyOf": [
+					{
+						"const": "NTSC",
+						"description": "NTSC: Was used in most of the Americas (except Argentina, Brazil, Paraguay, and Uruguay), Myanmar, South Korea, Taiwan, Philippines, Japan, and some Pacific Islands nations and territories"
+					},
+					{
+						"const": "NTSC-U",
+						"description": "NTSC-U: United States, Canada, Mexico (Standard NTSC for North America)"
+					},
+					{
+						"const": "NTSC-J",
+						"description": "NTSC-J: Japan (Specific NTSC for Japan with unique video specifications)"
+					},
+					{
+						"const": "NTSC-K",
+						"description": "NTSC-K: South Korea (NTSC format used in South Korea)"
+					},
+					{
+						"const": "NTSC-M",
+						"description": "NTSC-M: Central & South America, Caribbean (NTSC format used in these regions)"
+					},
+					{
+						"const": "NTSC-T",
+						"description": "NTSC-T: Taiwan (Specific NTSC version for Taiwan)"
+					},
+					{
+						"const": "NTSC-C",
+						"description": "NTSC-C: China (NTSC used in China)"
+					},
+					{
+						"const": "NTSC-KO",
+						"description": "NTSC-KO: North Korea (NTSC version for North Korea)"
+					},
+					{
+						"const": "PAL",
+						"description": "PAL: Was adopted by most European countries, by several African countries, by Argentina, Brazil, Paraguay, Uruguay, and by most of Asia Pacific (including the Middle East and South Asia)."
+					},
+					{
+						"const": "PAL-B",
+						"description": "PAL-B: Western Europe (France, Belgium, Netherlands, Spain)"
+					},
+					{
+						"const": "PAL-D",
+						"description": "PAL-D: Germany, Austria, Eastern Europe"
+					},
+					{
+						"const": "PAL-G",
+						"description": "PAL-G: Greece, Cyprus"
+					},
+					{
+						"const": "PAL-H",
+						"description": "PAL-H: India, Bangladesh, Sri Lanka, parts of Africa"
+					},
+					{
+						"const": "PAL-I",
+						"description": "PAL-I: United Kingdom, Ireland, Western Europe"
+					},
+					{
+						"const": "PAL-M",
+						"description": "PAL-M: Brazil (Unique PAL format for Brazil)"
+					},
+					{
+						"const": "PAL-N",
+						"description": "PAL-N: Argentina, Uruguay"
+					},
+					{
+						"const": "PAL-NC",
+						"description": "PAL-NC: Chile (A variant of PAL for Chile)"
+					},
+					{
+						"const": "SECAM",
+						"description": "SECAM: General SECAM format used for broadcasting in parts of Eastern Europe, Russia, and Africa"
+					},
+					{
+						"const": "SECAM-D",
+						"description": "SECAM-D: Eastern Europe (e.g., Bulgaria, Hungary)"
+					},
+					{
+						"const": "SECAM-K",
+						"description": "SECAM-K: Russia, Kazakhstan, parts of the former USSR"
+					},
+					{
+						"const": "SECAM-L",
+						"description": "SECAM-L: France (specific to mainland France)"
+					},
+					{
+						"const": "SECAM-V",
+						"description": "SECAM-V: Middle East (Iran, Iraq)"
+					}
+				]
+			}
+		},
+		"release_date": {
+			"type": "string",
+			"pattern": "^(January|February|March|April|May|June|July|August|September|October|November|December) \\d{1,2}, \\d{4}$",
+			"description": "Game release date"
+		},
+		"reviews": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "The name of the review source or platform."
+					},
+					"url": {
+						"type": "string",
+						"format": "uri",
+						"description": "The URL to the review or review platform."
+					},
+					"score": {
+						"type": "number",
+						"minimum": 0,
+						"maximum": 100,
+						"description": "The score given by the review platform (e.g., from 0 to 100)."
+					},
+					"max_score": {
+						"type": "number",
+						"description": "Max score given by the review platform (e.g., 5, 10 or 100)"
+					}
+				},
+				"required": ["name", "url", "score"],
+				"additionalProperties": false
+			},
+			"description": "An array of review objects, each containing a review platform name, URL, and score."
+		},
+		"synopsis": {
+			"type": "string",
+			"description": "Comprehensive but concise description of the main elements of the content without excessive detail."
+		}
+	},
+	"required": ["name"],
+	"additionalProperties": false
+}
