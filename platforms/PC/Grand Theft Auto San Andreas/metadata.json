@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games"],
+	"genres": ["Action", "Open World", "Shooter"],
+	"name": "Grand Theft Auto: San Andreas",
+	"publishers": ["Rockstar Games"],
+	"release_date": "June 6, 2006",
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/grand-theft-auto-san-andreas/critic-reviews/?platform=pc",
+			"score": 93
+		}
+	],
+	"synopsis": "Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers. Now, it's the early 90s. Carl's got to go home."
+}
