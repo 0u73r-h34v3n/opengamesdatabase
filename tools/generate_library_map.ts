@@ -1,5 +1,9 @@
 import { readdir, exists } from "node:fs/promises";
 
+type GameMap = {
+	folder: string;
+};
+
 async function hasGameRegionsInformation(
 	route: string,
 	regions?: Array<string>,
@@ -8,7 +12,7 @@ async function hasGameRegionsInformation(
 		return {};
 	}
 
-	const regionsInformationState = {};
+	const regionsInformationState: Record<string, boolean> = {};
 
 	for (const region of regions) {
 		const hasFolder = await exists(`${route}/${region}`);
@@ -31,7 +35,7 @@ async function hasGameRegionsInformation(
 
 (async () => {
 	const platformsList = await readdir("./platforms", { withFileTypes: true });
-	const platforms = {};
+	const platforms: Record<string, Record<string, GameMap>> = {};
 
 	for (const platform of platformsList) {
 		if (!platform.isDirectory()) {
@@ -40,7 +44,7 @@ async function hasGameRegionsInformation(
 
 		const { path, name } = platform;
 
-		if (!platforms[platform]) {
+		if (!platforms[name]) {
 			platforms[name] = {};
 		}
 
