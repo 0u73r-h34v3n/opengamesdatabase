@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coyote Console"],
+	"genres": ["Racing"],
+	"name": "Yamaha Supercross",
+	"publishers": ["DSI Games (US)", "Zoo Digital Publishing (EU, AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Riding for Team Yamaha in place of your injured brother, you must work your way through the Championships to reach the Finals. Get there? And your foe is the man who crippled your brother! Beat him as a promising young rider and become a World Champion!"
+}

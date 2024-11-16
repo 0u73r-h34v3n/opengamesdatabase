@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team Ninja"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dead or Alive 2",
+	"publishers": ["Tecmo (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The world has become a very chaotic and disoriented place ever since the tragic murder of Fame Douglas, the sponsor of the legendary \"Dead or Alive 1 World Combat Championship\". We must now rely on you to ensure that the world returns back to a state of peace! With multiple characters to choose from, your mission is to win the championship and save the world. Your ability to battle using various fighting techniques will determine your characters fate. Will you fight for life or fight to the death?"
+}

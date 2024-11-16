@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zipper Interactive"],
+	"genres": ["Action", "Shooter"],
+	"name": "SOCOM II: U.S. Navy SEALs",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (JP)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/552/552397.html",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/socom-ii-us-navy-seals",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Terrorists threaten America and her allies. As an elite SEAL commander, you must lead your team in striking important targets in 12 intense international missions and protect freedom across the globe.  Overcome the obstacles in single player mode or connect to up to 16 players online in five mission types, clan challenges and 22 playable maps. Communicate with your SEALs and other special operations forces via the PS2 USB headset.  Failure is not an option."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["RPG"],
+	"name": "King's Field: The Ancient City",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Metro3D (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/kings-field-the-ancient-city",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An accursed idol responsible for the destruction of an ancient race has resurfaced to wreak havoc once again among the kingdoms of man. You must return the idol to the Ancient City to break its curse, but monsters of unspeakable horror haunt the ruins. There is a palpable fear in the air of the Ancient City - even the monsters themselves fear the evil that has returned. Treasures beyond imagination await the warrior bold enough to attempt the journey, strong enough to face the minions of death, and wise enough to follow the path that leads to the essence of light! Use your sword arm well to rid the land of a potent curse! Be aware that should the sword fail, you have the magical arts to serve you in your quest."
+}

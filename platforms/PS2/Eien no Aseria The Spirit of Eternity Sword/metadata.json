@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Xuse"],
+	"genres": ["RPG", "Visual Novel"],
+	"name": "Eien no Aseria: The Spirit of Eternity Sword",
+	"publishers": ["Nippon Ichi Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Yuuto has been taking care of his step-sister Kaori since the passing of both of their parents. Their life is hard, but they are happy together - at least until the day they are transported to a parallel world that they will later come to call Phantasmagoria. In this world where he can't even understand a single spoken word, his sister is taken prisoner and her captors, calling him an 'Etranger', force him to fight wielding a sword that tries to control his mind instead. Although he first accepts this fate only to protect Kaori, with passing time Yuuto starts to care for the fate of the 'spirits', the girls that fight alongside him, and other inhabitants of this world as well."
+}

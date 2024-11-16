@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Street Fighter III: 3rd Strike",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/street-fighter-iii-3rd-strike/",
+			"score": 7.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "This amazing fighter stars 18 brawlers from the STREET FIGHTER III universe and introduces the new Leap Attack. Plus, a new Grade Judge system evaluates player performance at the end of each match. Huge characters and an innovative Hit-Frame system team up with the return of the Super Arts Fighting Styles. Experience totally seamless animation in the newest chapter of the greatest arcade series ever!"
+}

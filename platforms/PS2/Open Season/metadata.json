@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Open Season",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Link",
+			"url": "http://ps2.ign.com/objects/726/726615.html",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/open-season",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as Boog and Elliot in this outrageous game based on the new movie Open Season. Team up with all your favorite characters to put Timberline Forest back under nature's control!"
+}

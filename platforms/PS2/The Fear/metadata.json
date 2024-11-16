@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Frontier"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "The Fear",
+	"publishers": ["Square Enix|Enix Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Enix's second PS2 full-motion video title known as The Fear (the first was the slightly better received [[0 Story]]) is a horror adventure game in which players assume the role of a cameraman who must guide a group of actresses out of a mansion where something has gone horribly wrong. Gameplay is reliant on both puzzle solving and NPC character interaction with more than 1200 clips of FMV."
+}

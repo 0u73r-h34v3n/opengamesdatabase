@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA LA"],
+	"genres": ["Action", "Shooter"],
+	"name": "Medal of Honor: Rising Sun",
+	"publishers": ["Electronic Arts|EA Games (US, EU)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/medal-of-honor-collection/ps2-535885",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/medal-of-honor-rising-sun",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The epic saga of World War II continues with Medal of Honor Rising Sun.  Play as Marine Corporal Joseph Griffin in a far-reaching tale of two brothers trying to prevent Japanese forces from dominating the Pacific.  Rising Sun features real-life historical battles like Pearl Harbor and Guadalcanal, over 20 authentic WWII weapons, highly intelligent enemies, and a heroic cast of characters that fight on your side from level to level.  Battle other soldiers in ten multiplayer levels and an all-new two-player co-op mode."
+}

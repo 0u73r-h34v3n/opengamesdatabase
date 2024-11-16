@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FUN Labs"],
+	"genres": ["Sports"],
+	"name": "Cabela's African Safari",
+	"publishers": ["Activision|Activision Value (US)", "Activision (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-african-safari",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players discover Africa's untamed wild as they hunt a variety of African big game in pursuit of the ultimate hunting challenge - the feared Big Five - leopards, lions, elephants, rhinos and Cape buffalo. In Cabela's African Safari, players choose from seven, 10 or 14 day safaris including open safari, game tracking, baiting and herd hunting missions. The game features over 30 exotic species of animals including sable, kudu, gemsbok, eland, waterbuck, impala and much more, as well as all new African waterfowl and upland bird hunting. Cabela's African Safari also features an unlockable Big Five Trophy level where gamers can experience the world's most dangerous animals at their fiercest. Hunters also have access to an arsenal of authentic firearms including big caliber weapons they will need to bring down charging rhinos and thundering elephants. In addition, all-new shooting controls and features including Adrenaline Mode, Hunter Sense and Shot Cam, allow gamers to hone in on their prey with more accuracy and ease."
+}

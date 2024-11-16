@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Chicago"],
+	"genres": ["Sports"],
+	"name": "Fight Night Round 3",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/fight-night-round-3/ps2-787973",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fight-night-round-3",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can build a boxer and take him into the ring in Fight Night Round 3. The game features improved graphics, which let you see in detail the effect of your punches on licensed boxers who fight in a variety of boxing styles. You can generate rivalries leading up to a fight by trash-talking and also by fighting during weigh-ins and press conferences. Fight Night Round 3 also includes ESPN footage of classic boxing rivalries. You can challenge other gamers in online multiplayer matches."
+}

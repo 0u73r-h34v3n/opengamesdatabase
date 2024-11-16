@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Harry Potter and the Prisoner of Azkaban",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/harry-potter-and-the-prisoner-of-azkaban-review/1900-6099905/",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/harry-potter-and-the-prisoner-of-azkaban",
+			"score": 70,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/06/03/harry-potter-and-the-prisoner-of-azkaban-10",
+			"score": 6.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Dementors are coming, and this time Harry needs his friends. From the opening scene on the Hogwarts Express to the climatic finale on the shore of the great lake at Hogwarts, Harry Potter and the Prisoner of Azkaban immerses you in the world of Harry Potter. As Harry, Ron, and Hermione, you'll face the dreaded Azkaban guards, fly the Hippogriff around towers, and explore Hogwarts with the Marauder's Map. Learn spells that allow you to freeze creatures, control dragons, and conjure a Patronus. New two-player minigames include Flying Seahorse Fishing and Dueling Club minigames."
+}

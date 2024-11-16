@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ty the Tasmanian Tiger",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ty-the-tasmanian-tiger",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Meet TY, a fearless Tasmanian tiger in the wild and untamed Australian wilderness. Skilled in the art of boomerang combat, TY not only survives the dangerous Australian Outback, he runs, jumps, swims, and glides through it. As TY, you'll encounter more than 50 wild characters based on real-life indigenous animals of Australia. Not all of them are nice--so give your enemies a taste of eight different boomerangs. When you're not busy in combat, you'll solve puzzles, collect items, and participate in races."
+}

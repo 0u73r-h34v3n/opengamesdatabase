@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Action", "Fighting"],
+	"name": "Superman Returns",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/11/27/superman-returns-review-3",
+			"score": 4.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "True to the fiction in every respect, this is the game based on the Superman universe that fans have been anticipating for decades. From excited citizens to the traffic on the streets every detail of this vibrant city has a mind of its own. These 80 square miles are brought to life for the first time in a videogame. Go anywhere and do anything in Metropolis as Superman. Non-linear gameplay allows you to explore and play the game exactly how you want to at your own pace. Where and how you fly: to the top of skyscrapers or dodging elevated trains is completely up to you since gameplay is designed as a true open world experience."
+}

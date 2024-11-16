@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Action", "Adventure"],
+	"name": "Aeon Flux",
+	"publishers": ["Majesco"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/aeon-flux",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game is set in the year 2415, after disease has wiped out the majority of the Earth's population except for one walled and protected city-state, Bregna. The city is ruled by the congress of scientists who discovered the vaccine for the disease. When Æon Flux, the player character and top operative in the underground \"Monican\" rebellion, is sent on a mission to kill a government leader (Trevor Goodchild) she uncovers a world of secrets which make her doubt her mission and question everything she thought she knew."
+}

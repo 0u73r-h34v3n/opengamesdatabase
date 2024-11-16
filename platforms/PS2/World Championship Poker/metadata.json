@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coresoft"],
+	"genres": ["Gambling"],
+	"name": "World Championship Poker",
+	"publishers": ["Crave (US)", "Play It! (EU)", "System 3 (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-championship-poker",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the fast and freewheeling world of high-stakes poker with World Championship Poker. From Texas Hold'em to Seven-Card Stud and Omaha High-Low, you can play more than 18 different poker games, each with in-game tutorials. Once you're ready, you can travel to six tournament locations, ranging from a TV studio to a Mississippi riverboat, to compete for the championship. Every good poker player needs a solid poker face; mold your character's look with more than 80 different options."
+}

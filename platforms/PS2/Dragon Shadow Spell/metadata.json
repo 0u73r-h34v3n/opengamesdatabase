@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flight-Plan"],
+	"genres": ["Turn-based strategy", "RPG"],
+	"name": "Dragon Shadow Spell",
+	"publishers": ["Flight-Plan"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The setting of this game is none other then Earth in the year 2007, just under different circumstances. In this alternate present world, an ancient power known as 'Matrix' has been discovered and its study and use has spread throughout the world. 'Matrix' brings magic into the world, and with this newfound power that humans once believed to be pure fantasy, civilization has advanced to a new era. However, all good things come with a price. Following the discovery of 'Matrix', deadly creatures called Daemons have appeared and coincidentally, they can only be defeated by weapons created using 'Matrix.' These weapons are called 'Matrix Gear' and those able to wield them have come to be known as Variants."
+}

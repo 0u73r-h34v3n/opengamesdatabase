@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zono Incorporated|Zono Inc."],
+	"genres": ["RTS"],
+	"name": "Aliens Versus Predator: Extinction",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/aliens-versus-predator-extinction",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "On a cold distant planet, the war against extinction begins, and your command skills will determine its outcome. Lead an Alien hive, a Predator clan, or an elite squad of Colonial Marines to victory in 21 single-player missions. Each race has its own characteristics, abilities, weapons, and vehicles to suit your style of play. The survival of your species depends on your ability to use powerful resources and strategies, including pulse rifles, exosuits, and air strikes."
+}

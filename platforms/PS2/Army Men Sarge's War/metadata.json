@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tactical Development"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Army Men: Sarge's War",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL"],
+	"synopsis": "A new enemy, Colonel Malice, threatens the very existence of the Green nation. Now, with his squad destroyed, Sarge becomes a one-man army out to stop Colonel Malice and the Tan army at all costs. Guide Sarge through 12 dangerous levels, which span both the real world and the world of toys. Sarge can wield authentic weapons such as assault rifles, shotguns, bazookas, time bombs, and more. Be careful--enemies can now duck, cover, flank your positions, and generally try to kill you as intensely as you try to kill them."
+}

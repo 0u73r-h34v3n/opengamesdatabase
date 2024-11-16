@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ncaa-football-2005",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kick off the football season with NCAA Football 2005, a game that brings you closer to the players, stadiums, and atmosphere of college football. For the first time in the series, the game-day atmosphere directly affects players' on-field performance. Create mismatches with the new Match-Up Stick, and then celebrate big plays with new fan celebrations, like the Gator Chomp and the Texas Hook 'Em Horns. NCAA Football 2005 also features online tournaments, a deeper Dynasty mode, and a host of other gameplay enhancements."
+}

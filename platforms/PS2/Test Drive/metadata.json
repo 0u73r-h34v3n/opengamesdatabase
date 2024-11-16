@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pitbull Syndicate"],
+	"genres": ["Racing"],
+	"name": "Test Drive",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/test-drive",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Raw power versus legendary performance in high-impact street racing mayhem.  Test Drive is reborn with more racing action and thrills than anything before.  Get behind the wheels of over 20 of the hottest exotic sports cars and all-American muscle cars.  Rocket through crowded cities, opponents and the law on your tail, in a fast paced test of man and machine.  Race against the AI or your friend in two-player mode.  You can take the wheel but can you take the challenge?"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action", "RPG"],
+	"name": "Evergrace",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/evergrace",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter a world of intense magic and thunderous battles - where your survival is determined on collecting powerful artifacts and fashioning them to your armour and weaponry. Two complete adventures await Darius and Sharline - heroes who must face an evil reborn. Begin your journey as either hero and discover unique characters and monsters for each adventurer. Master the art of arming yourself with items of incredible might and untold magical abilities to thwart the powers of darkness that have swept into your once peaceful land."
+}

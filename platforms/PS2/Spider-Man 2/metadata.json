@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treyarch"],
+	"genres": ["Action", "Adventure"],
+	"name": "Spider-Man 2",
+	"publishers": ["Activision (US, EU, AU)", "Taito Corporation (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/06/29/spider-man-2-8",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/spider-man-2",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The city is at risk and only you can save it from the evil clutches of an old enemy: the powerful Electro. He has a mysterious new device that makes his million volts of destruction even deadlier. But now Spider-Man has Insulated Armor which makes him impervious to electricity in addition to new powers such as Ice and Taser-Webbing. With your new bag of tricks you can stop Electro, Sandman and other villains' nefarious schemes to bring the city to its knees."
+}

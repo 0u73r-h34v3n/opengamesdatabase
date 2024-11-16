@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vivendi Games|Vivendi Universal Games"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Scorpion King: Rise of the Akkadian",
+	"publishers": [
+		"Vivendi Games|Vivendi Universal Games (US)",
+		"Universal Interactive (US, EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-scorpion-king-rise-of-the-akkadian",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In an original story inspired by the blockbuster film, The Scorpion King, the Akkadians were a tribe of warriors unparalleled in the deadly art of assassination. Their skill is put to the ultimate test when a dark lord named Magus is determined to harness the powers of the Underworld.  Play as The Scorpion King using all of your wits, training, and weapons to defeat Magus before he unleashes an army of bloodthirsty creatures on mankind."
+}

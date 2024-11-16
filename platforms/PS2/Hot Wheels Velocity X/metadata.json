@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Beyond Games"],
+	"genres": ["Racing"],
+	"name": "Hot Wheels Velocity X",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/482/482145.html",
+			"score": 4.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hot-wheels-velocity-x",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Can you handle a typical Hot Wheels day filled with criminal racing gangs, huge loops, fast speeds, brutal crashes, and an arsenal of weapons? Hot Wheels Velocity X tests your driving skills in dangerous missions spanning five destructible levels. You must do whatever it takes to complete the missions--speed through loops, pull off wild stunts, catch big air off a jump, drive up walls and buildings, find hidden shortcuts, or simply just run your opponents off the road."
+}

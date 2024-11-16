@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2005",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Capture all the speed, finesse, and action of professional hockey with NHL 2005. The game's new EA Sports Open Ice Control lets you execute offensive plays, such as a give-and-go and a breakaway pass, and you can also call for defensive double-teams. Dynasty mode has been enhanced with more interactive GM/owner relationships, including a new e-mail system. NHL 2005 also delivers all the action of the World Cup of Hockey with International Teams and venues from North America and Europe."
+}

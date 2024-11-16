@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Simulation"],
+	"name": "Star Wars: Jedi Starfighter",
+	"publishers": ["LucasArts (US)", "Activision (EU)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-jedi-starfighter",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Star Wars: Jedi Starfighter reveals the events that lead into the Star Wars: Episode II film. As a secessionist movement threatens to expand, Mace Windu dispatches one of the Council's top Jedi--Adi Gallia--to investigate disturbances in the Karthakk system. Take the role of Adi as she maneuvers a prototype Jedi starfighter through the evil Captain Toth's massive fleet. Either solo or with a friend, you must use your Force powers against enemies that threaten the very foundation of the Galactic Republic."
+}

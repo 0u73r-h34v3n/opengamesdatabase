@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEO"],
+	"genres": ["Sports"],
+	"name": "ESPN X Games Skateboarding",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-x-games-skateboarding",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN X Games Skateboarding lets gamers compete at the largest action sports event in the world. Drop into the half pipe and pull a heelflip 360 as you soar over the crowd. Or grind rails in the park course where every part of the real X Games courses have been re-created. Master over 40 tricks and signature moves on six action stages, ranging from the streets of L.A. to the deck of a passenger ship! ESPN X Games Skateboarding combines the authentic competition, music and lifestyle of the X Games with the rush of intense skateboarding."
+}

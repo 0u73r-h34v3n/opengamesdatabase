@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Star Wars: Battlefront",
+	"publishers": ["LucasArts (US, EU, JP)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/star-wars-battlefront",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Star Wars Battlefront puts you in the heat of the action as you relive all of the intense battles from the classic and prequel eras of the Star Wars universe. You'll fight in more than 15 environments across 10 diverse planets, including Hoth, Geonosis, Yavin, Tatooine, and Naboo. You can play as one of more than 20 different soldier types from four factions, as well as take control of 15 diverse ground and air vehicles, such as the AT-ST, X-Wing, and speeder bike."
+}

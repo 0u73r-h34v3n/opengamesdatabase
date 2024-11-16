@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NFL 2K3",
+	"publishers": ["Sega (US, JP)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-2k3",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NFL 2K3 upgrades Sega Sports' football series with realistic player animations, play-calling intelligence, and an on-the-fly audible system. With Franchise mode, you get total team control as player, coach, and general manager. A new ESPN broadcast system lets you review all the highlights from your games. Now you can track the best players, make the smartest trades, and build the most dominant team in the league. NFL 2K3 also brings you closer to the action with updated rosters and authentic stadiums."
+}

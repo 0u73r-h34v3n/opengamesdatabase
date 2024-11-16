@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Street Racing Syndicate",
+	"publishers": ["Namco (US)", "Codemasters (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/street-racing-syndicate",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From fancy cars to beautiful import models, Street Racing Syndicate delivers the fast-paced world of street racing. You can race for money, pink slips, and more through the streets of LA, Philadelphia, and Miami. With each win, you'll earn cash, respect, and the affections of real-world street racing models. Use your cash to customize vehicles with licensed parts and graphic upgrades. Showcase your vehicle in online races, but be ready to drive off track if the police come."
+}

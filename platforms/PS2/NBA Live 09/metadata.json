@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NBA Live 09",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-live-09",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA Live 09 is back with new features like Pick and Roll Control, Defensive Lockdown Control, Signature Playcalling and Quickstrike Ankle-Breakers. For those in need of some extra coaching, NBA Live 09 takes you to training camp with the NBA Academy that gives you a chance to hone your skills. Now featuring 24 authentic FIBA teams with realistic team play styles and rosters, NBA Live 09 features a FIBA World Championship Mode using FIBA tournament structure, rules and court dimensions. Take your game online with 5 vs.5 team play, where 10 people can play together on 10 different consoles around the world."
+}

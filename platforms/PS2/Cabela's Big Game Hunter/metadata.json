@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Big Game Hunter",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-big-game-hunter",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hunters can sharpen their skills with the latest addition to the Big Game Hunter series.  Cabela's Big Game Hunter delivers a compelling hunting game with 24 different North American big game animals, advanced animal behavior, and detailed landscapes.  Play Career Hunt or jump right into the action with Quick Hunt for immediate satisfaction.  Special features include bullet-cam, x-ray scopes, custom log cabin with a trophy room, and an advanced scoring system.  Play the game as any good hunter must study his prey."
+}

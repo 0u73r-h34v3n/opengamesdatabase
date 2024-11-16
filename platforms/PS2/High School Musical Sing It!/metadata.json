@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Puzzle"],
+	"name": "High School Musical: Sing It!",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/high-school-musical-sing-it!",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get those vocal cords ready! Based on the phenomenally successful Disney Channel original movie \"High School Musical,\" Disney's High School Musical: Sing It! features songs, sets and characters from the original film. this karaoke video game allows fans to interact with the movies' stars for the first time on any gaming console. With 30 songs to choose from, along with 30 minutes of \"High School Musical\" bonus footage and cast interviews, High School Musical: Sing It! will be the karaoke game of choice for fans, kids, tweens and families."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Z-Axis|Z-Axis", "Ltd."],
+	"genres": ["Sports"],
+	"name": "Aggressive Inline",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/aggressive-inline",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Aggressive Inline pushes your inline skating skills to the limit with a new Juice Meter, challenging objectives, and expansive levels. You can choose from an array of professional inline skaters--including Jaren Grob, Chris Edwards, and Shane Yost--and showcase your talent in various interactive skate parks. Perform a variety of manuals, grinds, big-air tricks, wall flips, hand plants, and more, to build up your Juice Meter and avoid elimination. Aggressive Inline also includes a Park Editor that lets you design your own skate park, complete with rails, ramps, and pipes."
+}

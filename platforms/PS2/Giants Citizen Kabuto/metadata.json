@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Mayhem"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Giants: Citizen Kabuto",
+	"publishers": ["Interplay"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/giants-citizen-kabuto/ps2-15945",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/giants-citizen-kabuto",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare yourself for some of the most outrageous battles ever in this multi-award winning action game! Bust out the heavy artillery as the Meccs, fighting for their right to party. Unleash powerful magical spells as the mysterious and seductive Delphi. Then flatten everything in sight and eat it for dinner as the unstoppable hulking tower of pain known as Kabuto. It's an insane free-for-all where attacks come from the land, sea or air. Giants: Citizen Kabuto is action gaming on an epic scale!"
+}

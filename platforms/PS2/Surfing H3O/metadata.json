@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Opus"],
+	"genres": ["Sports"],
+	"name": "Surfing H3O",
+	"publishers": ["ASCII Entertainment (JP)", "Rockstar Games (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/surfing-h3o",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Surrounded in beautiful scenery, you must master hardcore surfing techniques to handle epic waves. As real as you can get...without getting wet.  Before the present 128-bit days, surfing was limited to crude, two-dimensional mock-ups of the real thing. Because of the complex nature of water, a powerful system is needed to accurately render the oceanic environs. With the powerful capabilities of the PlayStation 2, Take 2's Surfing H30 ups the level of surfing games with its visual splendor and water physics. With six different locales full of sun and surf, 11 characters to ride the waves (all with their separate strengths and weaknesses), and a custom X-Board controller to more accurately reproduce the action with your Dual Shock 2, Surfing H30 aims to be the closest thing to surfing short of waxing up your own board and hitting the beach."
+}

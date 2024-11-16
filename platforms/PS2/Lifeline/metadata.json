@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEJ"],
+	"genres": ["Action", "Adventure"],
+	"name": "Lifeline",
+	"publishers": ["Sony|SCEI (JP)", "Konami (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/lifeline",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Lifeline, you'll battle deadly creatures, solve puzzles, and escape from a space station--all with the sound of your voice. Trapped in the station's control room after a massive attack, you must use verbal communication--through the USB headset--to guide a female survivor, named Rio, around a hostile hotel environment. Voice commands, such as \"shoot and reload,\" \"dodge to the left,\" \"look behind you,\" and others, will come in handy as you battle vicious aliens."
+}

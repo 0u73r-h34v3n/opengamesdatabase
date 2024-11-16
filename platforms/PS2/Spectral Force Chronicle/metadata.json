@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Xpec"],
+	"genres": ["RPG"],
+	"name": "Spectral Force Chronicle",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The Spectral Force series takes place in the land of Neverland, where a great fight has erupted between a set of heroes and Janus, the demon king. In Chronicle, you play as Janus' daughter and must assemble an army of demons to fight off your enemies. Battles are turn-based simulation, with players moving about on a 3D map and calling upon super moves in order to defeat opponents. During batlte, you make use of AP (action points); you can continue making moves and attacks until your AP is completely depleted. Between battle, you view event scenes and raise your characters by distributing experience. The storyline branches off based on the decisions you make following battle."
+}

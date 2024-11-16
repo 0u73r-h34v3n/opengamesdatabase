@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "World War Zero",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_worldwarzero_ps2",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Ironstorm storyline is set in an alternative reality where the First World War didn’t conclude in 1918, but continued for 5 decades until 1964. The key character is a Western Force officer attempting to infiltrate the Mad Baron's Research facility within a decimated Germany."
+}

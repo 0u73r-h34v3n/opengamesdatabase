@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Melbourne House"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Men in Black II: Alien Escape",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/477/477797.html",
+			"score": 4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/men-in-black-ii-alien-escape",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Equipped with an arsenal of unearthly ammo, it's up to Agents Jay and Kay to save the Earth from the scum of the universe. As part of this covert team, you'll wield stylish weapons while fighting off aliens, such as Shark Guy and Jarra. Enlist the aid of Zed and clean up the planet in multiple New York City locations, including a nuclear station and the alien space hulk. Both familiar and new characters from the movie appear in the game, but it's up to you to decide which ones are on your side."
+}

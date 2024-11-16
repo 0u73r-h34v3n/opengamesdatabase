@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broccoli"],
+	"genres": ["Collection"],
+	"name": "Galaxy Angel Anime Commemoration Rune Box",
+	"publishers": ["Broccoli"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Broccoli Best Quality Edition of [[Galaxy Angel]], Broccoli Best Quality Edition of [[Galaxy Angel: Moonlit Lovers]], [[Galaxy Angel: Eternal Lovers]] and [[Galaxy Angel II: Zettairyouiki no Tobira]].}}"
+}

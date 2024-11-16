@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cavia|Cavia Inc."],
+	"genres": ["Action", "RPG"],
+	"name": "Drakengard 2",
+	"publishers": ["Square Enix (JP)", "Ubisoft (US, EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/drakengard-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drakengard 2 is the sequel to the original Drakengard, which was brought to America by Square Enix. This addition to the series continues the action-focused role-playing gameplay as you continue to explore and protect the red dragons. The game combines 3D flying and shooting aspects, as well as ground combat. Drakengard 2 adds new features, such as the ability to switch among characters and to use magic."
+}

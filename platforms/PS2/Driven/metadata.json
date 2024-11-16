@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bam Entertainment"],
+	"genres": ["Racing"],
+	"name": "Driven",
+	"publishers": ["Bam Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/driven",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players will immerse themselves in the dangerous, yet seductive world of open wheel racing. DRIVEN is based on Franchise Pictures and Warner Bros.' recently released film, DRIVEN, starring Sylvester Stallone. Surrounded by fast cars, fame, money, and women, drive as Jimmy Bly and Joe Tanto of Team Spirit. Pitted against their archrivals, Beau Brandenburg and Max Manley, gamers will fight for survival. Do you have what it takes to enter 'the zone' and then push on to the \"ragged edge\"? Will you grasp the victory from the others and take your place on the champion's podium?"
+}

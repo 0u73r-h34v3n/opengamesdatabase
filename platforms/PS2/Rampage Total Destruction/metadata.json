@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pipeworks Software|Pipeworks Software", "Inc."],
+	"genres": ["Action"],
+	"name": "Rampage: Total Destruction",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rampage-total-destruction",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rampage: Total Destruction offers a fresh take on an arcade classic complete with everyone's favorite monsters: George, Lizzie, and Ralph, along with a variety of new monsters to collect and play. Virtually everything in the environment can be damaged, broken, and utterly destroyed with plenty of hilarious results. Aided by power-ups, the Rampage: Total Destruction monsters are capable of acquiring a number of upgrades throughout the course of a single campaign. Players can annihilate cities all over the world in either one or two player mode in this reinvention of the Midway classic."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crave"],
+	"genres": ["Puzzle"],
+	"name": "Mojo!",
+	"publishers": ["Crave (US)", "Mindscape|Mindscape Inc. (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mojo!",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Test your mind and reflexes with Mojo!--a challenging puzzle game for both casual and hard-core gamers. The object of the game is to successfully collect all of the colored cubes in a level and use them to solve the puzzle. Because each move you make slowly drains your Mojo energy, you must carefully weigh each action as you maneuver through increasingly difficult puzzle stages. Only the most shrewd and skillful players will be able to navigate Mojo!'s unique chain of puzzles in order to survive to the legendary 100th stage."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA LA"],
+	"genres": ["Action", "Shooter"],
+	"name": "Medal of Honor: European Assault",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/925053-medal-of-honor-european-assault/index.html",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/medal-of-honor-european-assault",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Medal of Honor: European Assault, you'll join the effort to liberate Europe in 1942. As US Army Lieutenant William Holt, you must take command of a group of soldiers through battlefields based on actual WWII locations. In both single-player and multiplayer modes, your survival depends on your ability to master weapons, gather intelligence for future missions, and make smart choices."
+}

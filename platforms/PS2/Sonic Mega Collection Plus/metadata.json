@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Compilation"],
+	"name": "Sonic Mega Collection Plus",
+	"publishers": ["Sega (US, JP, AU, EU)", "Sega|Sega Europe (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/682/682134.html",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sonic-mega-collection-plus",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sonic has appeared in many games in the last decade, and now you can relive seven of them from Sonic Mega Collection Plus. This compilation includes the first three Sonic the Hedgehog titles, plus Sonic & Knuckles, Sonic 3D Flickies' Island, Sonic the Hedgehog Spinball, and Dr. Robotnik's Mean Bean Machine. The Plus version also adds more content, such as illustrations and movies, to Sonic Mega Collection ."
+}

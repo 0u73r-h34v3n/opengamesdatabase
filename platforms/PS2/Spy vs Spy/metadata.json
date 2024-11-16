@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WayForward"],
+	"genres": ["Action"],
+	"name": "Spy vs Spy",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spy-vs-spy",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's Heckel and Jackel, those MAD, zany, black and white spies from everyone's favorite magazine! This time, they're on missions that will provide you and a friend with hours of fun. Five important items have been hidden in a series of rooms. One spy must get the items and escape to the airport... before the timer runs out! Catch the other spy and knock him silly with powerful punches and kicks. Or use the spy traps to booby trap doors, pictures and bookcases. If the other spy hits the trap... Kaboom! It's espionage, intrigue and madcap fun... only from Sega!"
+}

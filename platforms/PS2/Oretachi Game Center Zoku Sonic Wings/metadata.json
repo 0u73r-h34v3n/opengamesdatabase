@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Oretachi Game Center Zoku: Sonic Wings",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The world's hope hinges on your combat skills and sheer determination as an \"aero fighter\". Defend the world from unknown alien forces that are attempting to take over the world. You must extract these unknown forces before they can execute their plot for dominance. After conquering the unknown forces, the battle continues into space where the \"controlling intellect\" dictated the take-over attempt. You must seek and destroy this evil force to prevent it from seizing other worlds."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Fighting"],
+	"name": "Tekken Tag Tournament",
+	"publishers": ["Namco (JP, US, KO)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tekken-tag-tournament",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Twenty fighters from the Tekken series return in Tekken Tag Tournament. The game offers two-on-two tag-team matches for up to four players, but it also includes single-player one-on-one, time attack, and survival modes. You can even play Tekken Bowling, a minigame in which the fighters use only a ball to strike down Heihachi-headed pins. Although based on the arcade game, the console version of Tekken Tag Tournament features revamped graphics, more moves, and new modes."
+}

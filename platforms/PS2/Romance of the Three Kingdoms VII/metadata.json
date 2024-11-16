@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Turn-based strategy"],
+	"name": "Romance of the Three Kingdoms VII",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/romance-of-the-three-kingdoms-vii",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drawing on over 15 years of experience, RTK VII introduces a number of dramatic improvement to the series, such as the ability to play as any character in the game, as well as a variety of character roles/positions. Additionally, the power of the Playstation 2 allows for an even more realistic portrayal of the turbulent Three Kingdoms world and the field of battle."
+}

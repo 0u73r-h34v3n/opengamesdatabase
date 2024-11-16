@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "The Fast and the Furious",
+	"publishers": [
+		"Bandai|Namco Bandai Games (US, EU)",
+		"Electronic Arts|EA Games (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-fast-and-the-furious",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by the events of Universal Pictures' upcoming film, \"The Fast & The Furious: Tokyo Drift,\" this game immerses players in the underground world of drift racing. Set in a world related to, yet separate from, the movie, the game features a drift mechanic that makes drifting accessible to both beginning and veteran racing game drivers. Gameplay features revolutionary new systems like the Drift Indicator. Turn on the assists and feel like a pro, or turn them off and hone your drift skills. Focusing on the \"next big thing\" in underground street racing this video game utilizes Universal-s extensive sound library, an incredible context based camera code, a revolutionary context based rumble system that gives players the feeling of driving city streets at break neck speeds like no other. Immerse yourself in the world of the game. 10,000+ polygon model cars, cinematic camera angles straight from the movie, unique boss challenges, stunning visuals and an Advanced Rubber Band AI system. Tune your ride with a hundred licensed wheels, and over 500 body kits from real JDM companies. Tune your ride like never before from performance to appearance, and for the first time ever swap out your engine to truly push the limits of your vehicle."
+}

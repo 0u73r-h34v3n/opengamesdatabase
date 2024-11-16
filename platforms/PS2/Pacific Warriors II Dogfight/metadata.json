@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["InterActive Vision Games"],
+	"genres": ["Simulation"],
+	"name": "Pacific Warriors II: Dogfight",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "The fate of the world will be decided 10,000 feet above ground and in turbulent waters. In Dogfight: Battle for the Pacific, you'll battle through 50 missions as either an American or Japanese fighter pilot. Missions include defending aircraft carriers, protecting radar stations, and escorting your country's bombers. You must master the controls of the SBD Dauntless, the F6F Hellcat, the Japanese B5N2, and the A6M3. Only your piloting skills can keep you alive as you strafe the war-torn islands of the Pacific."
+}

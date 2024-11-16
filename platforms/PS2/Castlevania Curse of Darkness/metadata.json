@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Adventure"],
+	"name": "Castlevania: Curse of Darkness",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/castlevania-curse-of-darkness",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Castlevania series gets a new protagonist in the form of Hector, a Devil Forgemaster. Hector left Dracula's service to lead a normal life, leaving Dracula vulnerable to attack by the Belmonts. Now that Dracula has been vanquished you must fight back the unholy curse that has spread across Europe. You can use your skills as a Devil Forgemaster to craft familiars that will help you during your travels. Castlevania: Curse of Darkness provides role-playing game and adventure elements, letting your character grow as he progresses through the story."
+}

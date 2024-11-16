@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Fisherman's Challenge",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fishermans-challenge",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Whether you consider yourself an expert angler or a fishing beginner, you'll learn plenty of fishing techniques with Fisherman's Challenge. For experts, Fisherman's Challenge offers five lakes, seven species of game fish, and over 110 lures, plus over 100 rod-and-reel combinations. For beginners, Fish Mood Indicators give insight into why fish are biting and how they feel about your offering. Take what you've learned from fish feedback, AI opponents, and minigames all the way to the fishing championship."
+}

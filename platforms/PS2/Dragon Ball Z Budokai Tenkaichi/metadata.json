@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spike"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Budokai Tenkaichi",
+	"publishers": ["Bandai (JP, KO)", "Atari (US, EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dragon-ball-z-budokai-tenkaichi",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dragon Ball Z: Budokai Tenkaichi lets you play as more than 60 characters from the Dragon Ball Z TV series. You can battle using authentic special attacks of each character as you run, fly, and swim through fully destructible and free-roaming levels. Design your own character by assigning and upgrading 10 different attributes. Dragon Ball Z: Budokai Tenkaichi has multiple game modes for both one and two players."
+}

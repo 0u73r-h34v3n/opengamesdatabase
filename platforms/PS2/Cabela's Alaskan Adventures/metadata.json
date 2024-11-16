@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FUN Labs"],
+	"genres": ["Sports"],
+	"name": "Cabela's Alaskan Adventures",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-alaskan-adventures",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Cabela's Alaskan Adventures is the ultimate hunting and fishing adventure to North America's last frontier. Experience all that Alaska has to offer, as you go on 38 hunting and fishing adventures across vast tundra. For the first time in one game, you will be able to hunt trophy animals, fish, bird hunt, dog sled through the Alaskan Artic, and compete in various outdoor-themed contests. It will take every ounce of skill and strategy to hunt or catch that record-breaking trophy. It's as true-to-life as it gets! Go exploring or get to your next hunting spot in a snowmobile, truck or ATV All new shooting features and controls including Hunter's Sense, Gun Sway and Drop Dot Incredibly realistic terrain including vast tundra, dense forests, river deltas, rocky slopes and more."
+}

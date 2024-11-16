@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "ATV Offroad Fury 4",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCE Australia (AU)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atv-offroad-fury-4",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Select your favorite ATV, or for the first time in franchise history, MX Bikes, Buggies, and Trophy Trucks to race through 72 tenacious tracks on six different continents en route to the checkered flag. Featuring an all-new story mode, players will be able to live the life of a rookie rider and earn a path to the ranks of professional racer. Players will experience the drama and intensity of realistic offroad racing with increasingly difficult race challenges and events all tied together with engaging, story-driven Full Motion Videos (FMVs). ATV Offroad Fury 4 adds cross communication capabilities with ATV Offroad Fury Pro for the PSP (PlayStationPortable) system, including vehicle exchanges and upgrades, shared online communities, and the ability to share user created circuits. Adding to the selection of classic ATVs, more than 30 new vehicles are available to race including MX bikes, buggies, and trophy trucks. Extensive vehicle customization provides players the chance to upgrade a vehicle's suspension, engine, gearbox, exhaust, intake, and brakes. New Cross-Connection Compatibility with ATV Offroad Fury Pro for PSP - Players are now able to share customized circuits, exchange and upgrade vehicles, and access chat rooms and newsgroups with the upcoming ATV Offroad Fury Pro for PSP."
+}

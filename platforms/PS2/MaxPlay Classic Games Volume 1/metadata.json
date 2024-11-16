@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Datel"],
+	"genres": ["Arcade", "Compilation"],
+	"name": "MaxPlay Classic Games Volume 1",
+	"publishers": ["Datel"],
+	"regions": ["PAL"],
+	"synopsis": "Classic games volume 1 is packed with 10 retryo style arcade games. Whether you're a retro junkie or simply enjoy great gameplay you're guaranteed hours of classic gaming action... They're addictive!!"
+}

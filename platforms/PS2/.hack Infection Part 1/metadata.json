@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//Infection Part 1",
+	"publishers": ["Bandai"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/551240-hackinfection-part-1/index.html",
+			"score": 77,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackinfection-part-1",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As the outlaw player, Kite, you're on a mission of truth.  In the virtual world of ''.hack Part 1: Infection'', anything is possible and nothing is as it appears.  Fight your way through contaminated levels of cyberspace as you take on and eliminate enemies, and unlock codes that will allow you to gate travel to even more environments.  Gather clues about the mysterious ''.hack'' from the included Anime DVD in an effort to ultimately  discover who or what's behind \"The World.\""
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Fiction"],
+	"genres": ["Action", "Fighting"],
+	"name": "Yu Yu Hakusho: Dark Tournament",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/yu-yu-hakusho-dark-tournament",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Yu Yu Hakusho: Dark Tournament brings the action of the animated series' Dark Tournament Saga to the interactive realm through a fast-paced fighting game. The game features several different ways to play, including a story mode based on exciting moments in the Dark Tournament Saga. In arcade and survival mode, you can fight your way through a series of increasingly difficult AI-controlled opponents. A card game mode lets you use cards earned in battle to face off in an all-new strategy game."
+}

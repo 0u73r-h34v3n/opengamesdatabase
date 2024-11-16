@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Action", "Adventure"],
+	"name": "RTX Red Rock",
+	"publishers": ["LucasArts (US)", "Activision (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/06/19/rtx-red-rock-2",
+			"score": 5.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/rtx-red-rock",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The year is 2103 and Mars needs your help. As E.Z. Wheeler, a biomechanically enhanced soldier, you'll fight a one-man war against aliens who have captured your Mars colony. Plunge into battle on the Red Planet armed with deadly alien weapons, your own superpowers, and a digital sidekick named Iris. Fight your way across the frozen deserts, through Earth's ruined colony, and into the exotic interiors of alien ships in ten single-player and four- multiplayer levels. On the farthest frontiers of space,it's your mission to exterminate the brutal aliens before they attack Earth."
+}

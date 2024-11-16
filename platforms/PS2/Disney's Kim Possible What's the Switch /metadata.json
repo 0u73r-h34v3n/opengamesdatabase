@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Platformer"],
+	"name": "Disney's Kim Possible: What's the Switch?",
+	"publishers": [
+		"Buena Vista Games (US)",
+		"Disney Interactive Studios (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disneys-kim-possible-whats-the-switch",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kim Possible and her perennial nemesis Shego must grudgingly team up to bring everything back to normal when the minds of Dr. Drakken and Ron Stoppable are switched in this action-packed adventure exclusively for Playstation 2. It's now up to Kim and Shego to save the day - together."
+}

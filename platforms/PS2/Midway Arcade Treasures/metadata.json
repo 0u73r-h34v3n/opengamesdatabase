@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Arcade", "Compilation"],
+	"name": "Midway Arcade Treasures",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/midway-arcade-treasures/ps2-569664",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/midway-arcade-treasures",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Midway Arcade Treasures is jam-packed with over 20 classic arcade games.  Take a trip down memory lane as you relive the fast-paced action of SpyHunter, the cooperative multiplayer of Gauntlet, the space age adventure of Defender, the charm of Paperboy, the destructive monsters of Rampage, and the dueling combat of Joust. While you rest your fingers, check out the DVD content with game histories, creator interviews, and top secrets from videogaming's early days."
+}

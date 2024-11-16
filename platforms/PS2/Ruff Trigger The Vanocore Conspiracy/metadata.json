@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Playstos Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ruff Trigger: The Vanocore Conspiracy",
+	"publishers": ["Natsume Inc. (US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ruff-trigger-the-vanocore-conspiracy",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Vanocore Corporation is about to invade the Tyke System's marketplace with a new genetic engineering marvel: the Piglot, a tender little pet destined to replace dogs and cats in every home. But before the Piglots can reach their final destination, the Vanocore cargo ships are forced to make an emergency landing on the hostile planet of Endust. Ruff Trigger, the top bounty hunter for the Boss PI Agency, has just been assigned the delicate task of rescuing the Piglots, as well as the large supply of VPD (Vanocore Power Drink) accompanying them. As Ruff searchers for the lost Piglots he will start to discover this is more than a simple rescue mission...he has stumbled onto a shocking conspiracy to take over the Tyke system."
+}

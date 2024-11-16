@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atari"],
+	"genres": ["Collection"],
+	"name": "Dragon Ball Z: Trilogy",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"synopsis": "{{Collection| [[Dragon Ball Z: Budokai Tenkaichi]], [[Dragon Ball Z: Budokai Tenkaichi 2]] and [[Super Dragon Ball Z]].}}"
+}

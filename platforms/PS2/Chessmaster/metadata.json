@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Romania"],
+	"genres": ["Board"],
+	"name": "Chessmaster",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/chessmaster",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Chessmaster includes plenty of features to improve your chess skills, no matter what level you are. In Chess School, you can learn basic and advanced tactics before challenging computer-controlled opponents in single-player or multiplayer modes. The game includes a variety of gameplay modes, such as Quick Game, Rated Play, Handicap, Setup Position, and Puzzle. Watch as each piece attacks each other on the checkered battlefield. This immersive environment also features information about your opponent, tournament notifications, and evolving chess personalities."
+}

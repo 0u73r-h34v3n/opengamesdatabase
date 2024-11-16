@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Pirates of the Caribbean: The Legend of Jack Sparrow",
+	"publishers": ["Bethesda Softworks (US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pirates-of-the-caribbean-the-legend-of-jack-sparrow",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A sequel to the original Pirates of the Caribbean, Pirates of the Caribbean: The Legend of Jack Sparrow features a blend of fast-paced action and adventure that captures the entertaining characters, settings, and spirit of the first movie. Piracy, smuggling, buried treasure (not to mention kidnapping, sword fighting looting, pilfering, and other acts of villainy)...what's not to love about Captain Jack Sparrow? Jack Sparrow is the ultimate video game character - with his cocky swagger and his offbeat personality - and players are be able to experience his adventures first hand in this action game. Gamers slash and hack their way through a dozen locations, with fully interactive levels and varied gameplay. The action takes place in a variety of lush, immersive settings, including burning buildings, wrecked ships, and misty moonlit caves. The gameplay experience finds gamers fighting hordes of their enemies one minute, while in the next they're evading capture by the Royal Navy. Gamers learn new moves and combos as the game progresses, allowing even more spectacular, and deadly attacks during combat."
+}

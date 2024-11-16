@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "Shin Onimusha: Dawn of Dreams & Okami Demo Disc",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a demo disc bundled with Famitsu Capcom Vol. 2 Magazine. There was a video DVD along with the demo disc. The disc contains two demos: [[Onimusha: Dawn of Dreams]] and [[Okami]]."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["MumboJumbo"],
+	"genres": ["Puzzle"],
+	"name": "7 Wonders of the Ancient World",
+	"publishers": ["MumboJumbo (US)", "Funsta (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/7-wonders/ps2-958601",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/7-wonders-of-the-ancient-world",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players take the task of reconstructing the 7 Wonders of the Ancient World."
+}

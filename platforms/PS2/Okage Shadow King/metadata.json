@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zener Works", "Sony|SCEI"],
+	"genres": ["RPG"],
+	"name": "Okage: Shadow King",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/10/15/okage-shadow-king",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/okage-shadow-king",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In an unexpected twist of fate, the spirit of an evil king is unleashed and possesses the shadow of an innocent young boy named Ari. While wielding the burden of an evil being, Ari and his friends must journey across a wonderfully animated, whimsical world. You'll discover new environments, solve puzzles, and battle more than 100 enemies. Engage in action-packed battle sequences where allies and enemies fight simultaneously and in real-time. In this struggle between good and evil, you must manage your team carefully or forever be held captive by the evil king's spirit."
+}

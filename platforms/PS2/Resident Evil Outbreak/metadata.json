@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Resident Evil Outbreak",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/502/502098p1.html",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/resident-evil-outbreak",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The terror of Resident Evil returns and spreads online.  Resident Evil Outbreak puts you in the role as one of eight survivors of an outbreak caused by a secret biological weapon.  With situations spanning the first three Resident Evil games, the choices you make during the game dictate your abilities and scenarios.  Play cooperatively or competitively offline in single-player mode or online with up to four players.  But be extra careful--once you die, you join the zombie ranks."
+}

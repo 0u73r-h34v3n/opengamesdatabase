@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Surreal Software"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "The Suffering: Ties That Bind",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/the-suffering-ties-that-bind/ps2-724939",
+			"score": 8.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-suffering-ties-that-bind",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Suffering: Ties That Bind is the sequel to the action horror game The Suffering. This time, you must defeat a host of abominable creatures through spooky 3D environments set in a prison in Baltimore. The game lets you choose to be good or evil, and your choice affects your abilities as well as the storyline. Ties that Bind also features vehicle combat and more combat controls."
+}

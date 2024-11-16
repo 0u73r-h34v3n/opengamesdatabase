@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Racing"],
+	"name": "Sega Rally 2006",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_segarally2006_ps2",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "''Sega Rally 2006'' is an rally racing game featuring a career, arcade, and a time attack mode."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coyote Developments"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Vietcong: Purple Haze",
+	"publishers": ["Gathering"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/vietcong-purple-haze",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Vietcong: Purple Haze contains all missions and multiplayer modes from the original Vietcong and its expansion pack, Fist Alpha. Now you can penetrate deeper into the deadly jungles of Vietnam to fight Vietcong guerillas and the North Vietnamese Army as they work their ways into Cambodia. In addition to pushing back the VC charge, you must gather intelligence on secret weapons factories hidden deep below ancient temples, safely return downed US fighter pilots back to base, and avoid and disarm lethal booby traps. You can fight with all-new weapons, call in an air strike, and jump in a Huey to unload several thousand rounds behind a mounted M60."
+}

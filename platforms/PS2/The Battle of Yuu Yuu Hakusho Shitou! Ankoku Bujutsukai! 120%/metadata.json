@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120%",
+	"publishers": ["Banpresto"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ankoku Bujutsukai is based on the manga Yū Yū Hakusho, which tells the story of a young delinquent named Yusuke Urameshi who dies and becomes reincarnated as a reward for a good deed he committed, further serving as an \"underworld detective\" and solving demon-related mysteries. This adaptation of the manga follows the \"Dark Tournament\" story arc, where members of Yusuke's team confront the powerful demon Toguro."
+}

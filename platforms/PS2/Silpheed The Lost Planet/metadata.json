@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treasure"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Silpheed: The Lost Planet",
+	"publishers": [
+		"Capcom (JP, KO)",
+		"Working Designs (US)",
+		"Swing! Deutschland (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/silpheed-the-lost-planet",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In a distant future, a plague of parasitic monsters is sweeping across the known universe, devouring all the resources in its path - including the distant outposts humanity calls home. The only chances for mankind's survival are a top-secret starship class known as Silpheed and the hyper-skilled pilots at the controls. Blast through eight levels of intense combo-driven gameplay, utilizing nine blazing weapon types that are unlocked as the player reaches new scoring plateaus. The design deities at Game Arts and Treasure (the developers of Guardian Heroes, LUNAR: Silver Star Story COMPLETE, and Radiant Silvergun) have come up with the perfect combination of deep, flexible gameplay and dazzling visual imagery. Destroy the terrifying invaders before they devour Mother Earth!"
+}

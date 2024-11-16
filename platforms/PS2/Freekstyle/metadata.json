@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Page 44 Studios"],
+	"genres": ["Racing"],
+	"name": "Freekstyle",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/freekstyle",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Picture flying through rugged terrain performing massive jumps at more than 70 mph, hitting a 40-foot jump at the ledge of a 200-foot cliff, and pulling off a backflip, a Tsunami, and a 360 all before you land. In Freekstyle, you can perform these tricks on nine different tracks. Choose from any of eight different riders with their own unique attitude and style, and then fly high in Circuit, Race, Freestyle, and Freeride game modes. If this sounds like your idea of a good time, then you're ready for the extreme lifestyle of motoX racing."
+}

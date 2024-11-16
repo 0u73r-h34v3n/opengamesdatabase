@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Music"],
+	"name": "Dance: UK eXtra Trax",
+	"publishers": ["Bigben Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Dance:UK eXtra Trax delivers twelve new chart hits to further enhance Dance:UK. Featured artists include Rachel Stevens, Blue, Liberty X, Atomic Kitten and Girls Aloud. In addition to the twelve new tunes, Dance:UK eXtra Trax also adds a number of cosmetic improvements such as more textures in the studio sets, better character animation, enhanced cameras and improved dynamic and animated lighting movements. Gameplay has been enhanced too with the inclusion of a new beginner level and difficulty ratings for each track."
+}

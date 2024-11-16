@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 2001",
+	"publishers": [
+		"Electronic Arts|EA Sports (US)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madden-nfl-2001",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for a dose of bone-crunching football action on the PlayStation 2 with Madden NFL 2001. Madden NFL 2001 features an all-new and exclusive NFL Coaches Club license, which means you'll see coaches on the sidelines and hear them yelling encouragement, comments and criticisms. Madden 2001 also features individualized details, easy-to-use interface, dynamically enhanced audio and play-by-play recorded with John Madden and his broadcast partner, Pat Summerall, and more!"
+}

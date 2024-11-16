@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Edge of Reality"],
+	"genres": ["Simulation"],
+	"name": "The Sims",
+	"publishers": ["Electronic Arts|EA Games (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/017/017231.html",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-sims",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Build, buy, and live.  The Sims give you the chance to create simulated people and build their homes, then help your Sims pursue careers, earn money, make friends, and find romance--or totally mess up their lives.  Keep your Sims happy by decorating your home with over 150 objects in the game and downloadable ones from TheSims.com.  Test your \"people skills\" as you deal with family, friends, careers, and chaos.  There is no right or wrong way to play the game."
+}

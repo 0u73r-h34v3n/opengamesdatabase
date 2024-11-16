@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Melbourne House"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Transformers",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/512/512473p1.html",
+			"score": 7.5,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/transformers",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The war between the Autobots and Decepticons rages on in this intense action game. With defeat at hand, the last hope for the Autobots lies with the powerful Mini-Con robots, the lost Transformers race stranded on the Earth. To retrieve the Mini-Con, the Autobots must head into battle against the Decepticon leaders and their massive new Decepticlone Army. Transformers features fast-paced action with numerous power-ups, challenging enemies, action-packed battles, and intense boss fights against the legendary Decepticon leaders."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Sports"],
+	"name": "Shaun White Snowboarding",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/shaun-white-snowboarding/reviews/",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shaun-white-snowboarding",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter a snowboarding world of total freedom. Create your own experience and choose when, where, how, and with whom you want to ride. Developed in close collaboration with Olympic Gold Medalist Shaun White--the most successful snowboarder in the history of the sport--Shaun White Snowboarding is the next-gen game that redefines the action sports genre."
+}

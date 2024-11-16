@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 10",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-10",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can settle who has the most school pride once and for all with NCAA® Football 10. Whether you're playing head-to-head online, in Dynasty Mode against the CPU, or earning extra credits through skill, strategy, and sportsmanship, the all-new Season Showdown ensures that everything you do counts toward your goal of helping your school become the best in the nation. From all-new risk-reward strategic gameplay options to the revolutionary online create-a-school feature TeamBuilder, make a historic run for the national championship with NCAA Football 10."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Inland Productions"],
+	"genres": ["Racing"],
+	"name": "Arctic Thunder",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/arctic-thunder/ps2-15488",
+			"score": 3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/arctic-thunder",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Are you ready for the ultimate battle on snow? You get proximity missiles, atomic snowballs, and snow bombs to use against your opponents as you battle your way to the finish line. If those don't do the trick, you've always got your fists for those up close and personal encounters. Choose one of 19 different characters and sleds, each one giving you different capabilities, and prepare to wage battle on one of 12 outlandish tracks, from the Swiss Alps to Atlantis. Master your snowmobile and perform any of 62 different tricks, or lure your friends into one of the special battle arenas for a duel."
+}

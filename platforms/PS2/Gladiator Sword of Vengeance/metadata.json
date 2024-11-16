@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Manchester"],
+	"genres": ["Action", "Fighting"],
+	"name": "Gladiator: Sword of Vengeance",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gladiator-sword-of-vengeance",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the year 106, the Roman Empire is in terrible decline due to badly fought wars, famine, and plague. As herald to this age of degradation, the despotic Emperor Arruntius has destroyed large portions of the city of Rome to create the battleground for the bloodiest gladiator event ever staged. You are but an enslaved combatant in this bloodsport; but with gory kills, fantastic stunts, and finishing moves, you can become a hero to the crowd. From the streets of Rome to the paradise of Elysium, become the champion of all gladiators and win your freedom."
+}

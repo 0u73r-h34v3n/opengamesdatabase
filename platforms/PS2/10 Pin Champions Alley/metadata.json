@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Liquid Games"],
+	"genres": ["Sports"],
+	"name": "10 Pin: Champions Alley",
+	"publishers": ["OG International|OG International Ltd"],
+	"regions": ["PAL"],
+	"synopsis": "A bowling game that allows you to play with up to 7 other players. This game includes game types such as Practice and Full Tournament. Each opponent has their own strengths and weaknesses. "
+}

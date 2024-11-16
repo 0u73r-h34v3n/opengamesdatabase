@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jester Interactive"],
+	"genres": ["Racing"],
+	"name": "Suzuki TT Superbikes",
+	"publishers": [
+		"Jester Interactive (EU)",
+		"Valcon Games (US)",
+		"Taito Corporation (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/suzuki-tt-superbikes-review/1900-6139518/",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/suzuki-tt-superbikes",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "TT Superbikes is an Official License from the Isle of Man Government, with further Official support from the Auto Cycle Union, the motorcycle racing governing organization for the TT Races. The game features licensed motorcycle manufacturer support, such as Honda, Suzuki, Kawasaki, Yamaha, Aprilia and Triumph. Related motorcycle product manufacturers also provide additional licensed support with major brands, Castrol, Dunlap, Avon and Bridgestone Tyres, Alpinestars Leathers, Arai and Shoei Helmets, Dymag and Marchesini Wheels along with Ohlins suspension and Arrow Exhausts to name a few. Containing more than 40 miles of beautifully recreated true to life real road racing circuits with data from the Isle of Man Government and the game's own road surveying crew means every vital bump, wall, tree and house included in the game, just like real life."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Inland Productions"],
+	"genres": ["Racing"],
+	"name": "Monster Jam Maximum Destruction",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-jam-maximum-destruction",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pilot 26 licensed crunch-mobiles--stomping the competition in arenas throughout the world! Unleash the fury of your weapons as you battle the big boys in Exhibition and Championship modes. You will be king of the monsters."
+}

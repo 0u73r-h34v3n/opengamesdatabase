@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Grasshopper Manufacture"],
+	"genres": ["Action", "Fighting"],
+	"name": "Samurai Champloo: Sidetracked",
+	"publishers": ["Bandai (JP, KO)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/samurai-champloo-sidetracked",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Samurai Champloo steps out of the hack-and-slash action genre and offers a new way to swing a finely-honed samurai blade. Set in Japan with hip hop feel from the hit TV series by the same name, this title allows gamers to breathe life to a \"lost episode\" as one of three playable characters - Mugen, a reckless samurai with break-dancing fighting style, calculated Jin who abides by the decorum of Bushido, and a mysterious new character exclusive to the video game. Stranded in northern land of Ezo (current day Hokkaido) in search of the samurai who smells of sunflowers, the player must face foreign mercenaries, master swordsmen, diabolical assassins, mythical beasts, and gangster monkeys. The core of the game's unique combat system lies in the innovative integration of music and linked attacks. The players can choose an array of combos based on the different hip hop grooves that they can swap at will. Music tracks become collectible, opening an extensive assortment of linked attacks that can be implemented tactically during combat."
+}

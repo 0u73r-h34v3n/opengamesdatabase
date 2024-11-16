@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WinkySoft"],
+	"genres": ["RPG"],
+	"name": "Shinseiki Yuusha Taisen",
+	"publishers": ["Atlus"],
+	"regions": ["NTSC-J"],
+	"synopsis": "One of the first Takara-developed titles to be published under the Atlus gaming label, Shinseiki Yusha Taisen is a simulation RPG featuring robots who appeared in numerous Sunrise and Takara anime properties. Playing as main character Chouta Nayuta, you warp between various worlds, teaming up with heroes along the way to defeat enemy robots. Battles are set up in overhead strategy style, similar to Super Robot Wars. You make use of a number of robots, using long and short distance attacks to defeat the enemy. Some of the more powerful attacks make use of CG video scenes. Between missions, the game's storyline progresses through voiced conversation sequences."
+}

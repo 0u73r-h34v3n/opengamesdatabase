@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Surreal Software"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Drakan: The Ancients' Gates",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/451207-drakan-the-ancients-gates/index.html",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/drakan-the-ancients-gates",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the decaying world of Drakan, the immortal Spirit Dragons are held captive. Now it's up to Rynn--a brave female warrior--and her dragon Arokh to save these spiritual leaders and the last remnants of humankind. Together with Rynn and Arokh, you'll need magical spells, resourcefulness, and powerful weapons to survive the vast environments. You'll gain skills as a fighter, an archer, or a mage as you fight ruthless enemies from the arctic tundra to the swamplands. The mysterious world of Drakan is filled with magical creatures, interesting characters, and challenging puzzles."
+}

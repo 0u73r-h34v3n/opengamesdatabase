@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Naps Team"],
+	"genres": ["Simulation"],
+	"name": "WWI: Aces of the Sky",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Fire up your engine and take your biplane to the skies for some intense dog fighting action. As a true flying ace you must take the battle to the enemy and help bring victory in the war to end all wars! Using your biplane's machine guns, bombs and aerial acrobatics you are charged with keeping enemy forces at bay, giving your ground troops time to make the big push."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Collection"],
+	"name": "Shin Sangoku Musou 4 Super Premium Box",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Dynasty Warriors 5|Shin Sangoku Musou 4]], [[Dynasty Warriors 5 Empires|Shin Sangoku Musou 4 Empires]], [[Dynasty Warriors 5: Xtreme Legends|Shin Sangoku Musou 4 Moushouden]], a save data collection disc and a toy sword.}}"
+}

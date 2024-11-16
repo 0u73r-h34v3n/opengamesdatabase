@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Shoot 'em up"],
+	"name": "Zero no Tsukaima: Fantasy Force",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Players control Louise as she flies through and shoots down a barrage of enemies in this 2D horizontal shooter inspired by games of the 8 bit era.  Collect powerups, use screen clearing magic and try to make it to the end of each stage."
+}

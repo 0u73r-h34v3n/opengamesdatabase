@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action"],
+	"name": "Beverly Hills Cop",
+	"publishers": ["Blast! Entertainment|Blast! Entertainment Ltd"],
+	"regions": ["PAL"],
+	"synopsis": "Join Axel Foley as he makes his long-awaited return in this thrilling all-new action adventure, based on the Beverly Hills Cop movie from Paramount Pictures! Have you got what it takes to survive on the mean streets of Los Angeles?"
+}

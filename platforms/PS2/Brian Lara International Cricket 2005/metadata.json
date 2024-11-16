@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Sports"],
+	"name": "Brian Lara International Cricket 2005",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/925855-brian-lara-international-cricket-2005/index.html",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The strongest batting in any cricket game. The most authentic bowling yet seen. Play as international stars including Lara, Ponting, Flintoff, & many more in ICC events... Hawkeye ball tracking as seen on TV. All players, kits and real crisket stadia feature in Official ICC events: ICC Champions Trophy and ICC World Cup."
+}

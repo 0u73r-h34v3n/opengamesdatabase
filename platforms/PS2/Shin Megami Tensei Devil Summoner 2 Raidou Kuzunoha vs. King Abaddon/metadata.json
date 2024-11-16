@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon",
+	"publishers": ["Atlus (JP, US)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A new threat to Japan's Capital calls for the return of its case-solving, tube-slinging Devil Summoner: Raidou Kuzunoha the 14th. When a woman walks into the Narumi Detective Agency and asks to find a man, Raidou's boss is reluctant to accept, but soon it's clear there's more to the case than it seems on the surface. It isn't long before Raidou is on the trail of crooked gamblers, masked ninja, and strange insects... a trail leading him inexorably to the mysterious King Abaddon."
+}

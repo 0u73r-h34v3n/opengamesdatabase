@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai"],
+	"genres": ["RPG"],
+	"name": "Saiyuki Reload",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The player is an original character who journeys with Genjyo Sanzo, Son Goku, Sha Gojyo and Cho Hakkai. The player commands the four in menu-based battles that allow for attacks, special attacks, and combination attacks. The game tells an original story, and Bandai included a bonus Saiyuki Reload voice CD for those who pre-ordered.  "
+}

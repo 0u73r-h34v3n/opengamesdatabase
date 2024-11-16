@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nexus Interact"],
+	"genres": ["Turn-based strategy"],
+	"name": "Robot Warlords",
+	"publishers": ["Dazz (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Japan - August 2002: Rogue factions within the armed forces have taken control of the latest in weapons technology (BULLETS) and have declared a state of martial law. Fearing civilian casualties from an all out counterattack, the existing government hires a band of mercenaries to crush the rebels, equipping its members with the few Bullets that remain. With seven days to stop the rebellion and bring order to the streets of Tokyo, the mercenaries face all out battle. The future of the nation depends on these Robot Warlords."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Argonaut Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Catwoman",
+	"publishers": ["Electronic Arts|EA Games (US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/catwoman",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A classic story of betrayal and revenge unravels in Catwoman, which is based on the film from Warner Bros. Pictures. You'll control Catwoman, a woman brought back to life by a rare Egyptian cat, as she sets out to discover the truth about herself and her murderer. With Catwoman's catlike skills, you can leap across roofs, run up walls, pounce on prey, and avoid enemy bullets. In addition, your can use her whip to swing through the air and use the interactive environments to knock your foes unconscious."
+}

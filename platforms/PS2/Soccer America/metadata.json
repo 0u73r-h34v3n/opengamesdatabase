@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["Sports"],
+	"name": "Soccer America",
+	"publishers": [
+		"Taito Corporation (JP)",
+		"EON Digital Entertainment (EU)",
+		"Hot B (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/soccer-america",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For realistic footie action, strap on your cleats for Soccer America: International Cup. The latest to challenge FIFA and MLS for the crown of soccer champ, this rookie drives down the field and puts a few through their nets. The first in its series, Soccer America is coached by ten-year soccer gaming vets, and it shows in the sophisticated AI and blistering graphics. The full power of the PlayStation 2 is on show in 60-frames-per-second motion with motion-captured players animated down to their hair and shadows, all shown in action with nearly 50 different camera positions for soccer action right out of broadcast TV. 18 International teams and 32 American squads line up and shoot hard with bicycle kicks, fakes, and headers. Soccer America features a balanced Easy Play mode to let beginners get into the game, while pro fielders will find the sharp AI more responsive to your fancy moves on the turf than the average soccer sim. With a Multi-Tap (for PlayStation 2), up to four players can call their formations and drive to the net, so limber up and spit out your orange rind--soccer action is calling."
+}

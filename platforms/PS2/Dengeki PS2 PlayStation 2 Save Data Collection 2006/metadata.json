@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Media Works"],
+	"genres": ["Demo", "Tools"],
+	"name": "Dengeki PS2: PlayStation 2 Save Data Collection 2006",
+	"publishers": ["Media Works"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is the first catalog that contains save data of the latest PS2 games recorded by Dengeki PS2 by December 2005 and the latest tricks and glitches for PS, PS2 and PSP games. The book also includes PS2, PSP's all software catalog, which is the continuation of [[10th Anniversary PlayStation & PlayStation 2 All Soft Catalogue Special SaveData Collection]] released last year!"
+}

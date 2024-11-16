@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Killer Game"],
+	"genres": ["Sports"],
+	"name": "NCAA Final Four 2003",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-final-four-2003",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With NCAA Final Four 2003, you don't have to be in college to experience the spirit, pageantry, and overall atmosphere of college basketball. This year's NCAA Final Four features realistic players, more game modes, and new play analysis and player evaluations. Now, you can perform more than 30 new dunks, including reverses, follow-ups, and 360-degree jams, and sharpen your skills in Practice, Dynasty, Career, or Tournament modes. There are more than 300 Division I teams from every big and small conference--including the Pac-10, Big 12, SEC, and ACC--and this is your chance to lead one of them to the championship."
+}

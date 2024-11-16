@@ -1,0 +1,41 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Santa Monica"],
+	"genres": ["Action", "Adventure"],
+	"name": "God of War",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (KO)",
+		"Capcom (JP)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/03/18/god-of-war",
+			"score": 9.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/god-of-war",
+			"score": 94,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/god-of-war/reviews/god-of-war-review-6120758/",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_GodOfWar_ps2",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In God of War, the dark world of Greek mythology comes to life right before your eyes. As you take the role of Kratos, a story unfolds with various plot twists and multiple endings that take you through traps, stunts and puzzles. With a deep combat system built around double chain blade weapons, the game places you in a variety of environments where you must fight challenging enemies, swing on ropes, scale mountain cliffs, swim through rivers and slide down zip lines."
+}

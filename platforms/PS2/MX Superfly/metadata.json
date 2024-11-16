@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pacific Coast Power & Light"],
+	"genres": ["Racing"],
+	"name": "MX Superfly",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mx-superfly",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The excitement of motocross racing and freestyle is now available in MX Superfly. The game features expanded career modes, all-new minigames, top-notch pros, and unbelievable stunts including a freestyle track editor. Reap the rewards of racing through an entire season of intense motocross action while upgrading your gear and bike along the way. For free ride action, you can compete in the new freestyle career mode, dazzling the crowd with new tricks and dangerous maneuvers. Or simply ride the open terrain searching for secret areas without the burden of competition."
+}

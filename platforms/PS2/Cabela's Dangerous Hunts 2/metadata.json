@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Dangerous Hunts 2",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-dangerous-hunts-2",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The latest title in Cabela's best-selling franchise, Cabela's Dangerous Hunts 2 features savage animal encounters and a true adrenaline-pumping experience. Expert regional guides lead you on 12 epic adventures to exotic locations around the globe in search of the world's most dangerous animals. Through a traumatic change of events, the hunters become the hunted, and you must use your skills and survival instincts. Watch out, not everyone is going to make it back to the lodge alive!"
+}

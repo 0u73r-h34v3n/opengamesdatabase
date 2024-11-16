@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 08",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-08",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Feel the fervor for your college team -- and the bragging rights that come from victory with NCAA March Madness 08. Think strategically and execute flawlessly through Dynamic Post Control, a new feature where you take complete control over running your offense through the post, and defending your opponent in the paint. For the first time, you have complete control over dozens of new offensive and defensive post moves, from up-and-unders, to hook spins, pump fakes, and every combo in between."
+}

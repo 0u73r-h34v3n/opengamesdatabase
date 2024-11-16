@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neversoft Entertainment"],
+	"genres": ["Music"],
+	"name": "Guitar Hero: Van Halen",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guitar-hero-van-halen",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Guitar Hero: Van Halen lets you stand in the shoes of this Rock and Roll Hall of Fame band as you perform 25 epic Van Halen tracks, three signature Eddie Van Halen solos and 19 guest act tracks. Get the crowd roaring with your arena rock stylings on Van Halen hits like Jump, Hot for Teacher, Ain't Talkin' 'Bout Love and Dance the Night Away, as well as songs like Billy Idol's White Wedding, Foo Fighters' Best of You and Blink-182's First Date. Experience the excitement of playing as this ultimate party band as you rock out to dozens of enduring hits and prove you have the talent and the style to live up to the Van Halen legend."
+}

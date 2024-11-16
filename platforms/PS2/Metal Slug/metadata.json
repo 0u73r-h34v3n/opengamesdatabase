@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Metal Slug",
+	"publishers": ["SNK Playmore (JP)", "Ignition Entertainment (EU)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "SNK Playmore's shoot 'em up series METAL SLUG enters the 3D world with METAL SLUG 3D for the PS2. No longer a side scrolling game, the new third person perspective will give fans of the series a new look at the world of METAL SLUG. The core component of the game, however, is still the same: shoot everything that gets in the way. Now that it's 3D, gamers will have to worry about enemies sneaking up behind them, moving beside them, and dropping down from above. Fortunately, the game has a lock on system that instantly locks on to the closest enemy at the touch of a button. The familiar METAL SLUG characters have returns, including Marco. Players have four different characters they can select from, and there are many different weapons they can find and customize in the different levels. Extra ammo and health are also scattered about each level, and gamers will want to be sure to collect every one of them. For the first time ever, METAL SLUG goes 3D, and gamers won't want to miss this remarkable change to the series. METAL SLUG 3D takes the challenge and fun gameplay to a whole new level. "
+}

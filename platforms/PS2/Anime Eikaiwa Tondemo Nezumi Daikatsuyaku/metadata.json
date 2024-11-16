@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Success"],
+	"genres": ["Tools", "Visual Novel"],
+	"name": "Anime Eikaiwa: Tondemo Nezumi Daikatsuyaku",
+	"publishers": ["Success"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a \"learn English\" anime about a mouse with Japanese and English subtitles."
+}

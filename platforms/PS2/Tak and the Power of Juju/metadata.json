@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Tak and the Power of Juju",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/tak-and-the-power-of-juju/critic-reviews/?platform=playstation-2",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tak and the Power of Juju tells a tale of good versus evil, set in an ancient world where magic really works. You'll take on the role of Tak, a shaman's apprentice, as he sets off on an action-filled journey to save his village from an evil Juju Man. Tak's inventory of tools include the pole vault, spirit rattle, blowpipe, and explosive eggs. Through 10 different environments, you must use your wits, your environment, and the power of the Juju gods to complete your quest."
+}

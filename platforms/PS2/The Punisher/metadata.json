@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Volition|Volition Inc."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "The Punisher",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-punisher",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the mind of The Punisher, a vigilante driven by more than just revenge. In a world marked by corruption, you serve as judge, jury and executioner as you terrorize criminals with their own ruthless methods. Use a combination of physical force and character interaction to coerce criminals into coughing up valuable information and then put them out of their misery with your arsenal of realistic weapons. The Punisher War Journal lets you relive in-game moments, collect items from Marvel's Punisher history, unlock bonus DVD footage and more."
+}

@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Z-Axis|Z-Axis", "Ltd."],
+	"genres": ["Sports"],
+	"name": "BMX XXX",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/11/13/bmx-xxx-2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bmx-xxx",
+			"score": 54,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/bmx-xxx-review/1900-2897290/",
+			"score": 5.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "BMX XXX combines outrageous Hollywood humor and characters, beautiful women from New York's famous Scores club, incredible arcade action, and a dynamic soundtrack from current recording artists into one interactive entertainment experience. Laced with mature content, the game features Create-a-Rider mode, over 2,000 different tricks, eight massive levels, and a split-screen multiplayer mode for up to four players. The version for the PlayStation 2 has been edited to eliminate the topless nudity, while versions for the Xbox and the Nintendo GameCube do contain nudity."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|SquareSoft"],
+	"genres": ["Action", "RPG"],
+	"name": "Kingdom Hearts Final Mix",
+	"publishers": [
+		"Square Enix|SquareSoft (JP, US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Square Enix (US, JP)"
+	],
+	"regions": ["NTSC-J"],
+	"synopsis": "For the first time ever, Disney films come together in one game, but it's up to you make it their world the happiest place on Earth.  Kingdom Hearts follows Sora in his quest to find his friends and Court Wizard Donald and Captain Goofy as they set out to find the missing King Mickey.  The three searchers meet and embark on a magnificent, but dangerous, journey across familiar Disney worlds filled with monsters.  Over 100 characters appear in the game including Jafar, Tarzan, and Hercules."
+}

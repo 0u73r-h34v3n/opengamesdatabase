@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Magical Company|Magical Company (Mahou)"],
+	"genres": ["Sports"],
+	"name": "Hard Hitter 2",
+	"publishers": [
+		"Magical Company|Magical Company (Mahou) (JP)",
+		"Midas Interactive Entertainment (EU)",
+		"Eolith (KO)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Hard Hitter 2 improves on the original with excellent ball physics, stylish, smoothly animated characters and a host of game modes for one to four players. Guide your chosen tennis ace through the many worldwide Opens, competing to win the most prize money throughout the year. Alternatively, simply create your own unique character for a more personal challenge. Crazy mini-games and a host of multi-player options."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEI"],
+	"genres": ["Action"],
+	"name": "Finny the Fish & the Seven Waters",
+	"publishers": ["Sony|SCEI (JP)", "Natsume Inc. (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/finny-the-fish-the-seven-waters",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Something sinister churns in the darkest depths of the water. That's why the wise old Kappa enlisted you in a quest to find the Master Statues and restore calm to these once-placid waters. To succeed you'll have to swim with the sharks and think like a fish!"
+}

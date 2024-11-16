@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Simulation"],
+	"name": "Disney Hannah Montana: Spotlight World Tour",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disney-hannah-montana-spotlight-world-tour",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Hannah Montana: Spotlight World Tour for the PS2, players tour the world as the pop princess herself and live the dream of rock stardom."
+}

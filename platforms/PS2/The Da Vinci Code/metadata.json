@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["The Collective"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Da Vinci Code",
+	"publishers": ["2K|2K Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-da-vinci-code",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Da Vinci Code game is based on the \"The Da Vinci Code\" film by director Ron Howard, which is based on Dan Brown's novel -- the best-selling novel of all time which has spent more than two years on the New York Times best-seller list. It has also been translated into 42 languages. To date, there are more than 38.6 million copies of the novel in print, averaging more than two million copies sold each month. The characters in the game do not resemble nor sound like their filmic counterparts. The game also changes some aspects of the story."
+}

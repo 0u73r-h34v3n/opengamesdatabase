@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "X-Men Origins: Wolverine",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/x-men-origins-wolverine",
+			"score": 51,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2009/05/04/x-men-origins-wolverine-review-3",
+			"score": 4.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Unleash the razor sharp adamantium claws, feral instincts and mutant regeneration powers of the world's fiercest superhero in X-Men Origins: Wolverine. Uncage the story of how the ultimate weapon was created. The team at Raven Software has dedicated Wolverine's development to unstoppable, true-to-character authenticity. Take on impossible odds and exact vicious revenge in the year's most satisfying action game."
+}

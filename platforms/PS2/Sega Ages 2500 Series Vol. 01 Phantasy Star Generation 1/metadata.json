@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["RPG"],
+	"name": "Sega Ages 2500 Series Vol. 01: Phantasy Star: Generation:1",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Phantasy Star is set in Algol, a solar system consisting of three planets. There is the lush and green Palma, the arid and barren Motavia and finally, the icy and desolate Dezoris. As the story begins, Algol is ruled by King Lassic who while originally benevolent and becomes a cruel dictator after converting to a new religion. After a string of harsh political changes, small pockets of rebellion emerge but are mostly ineffective against Lassic's iron rule. When Nero, the leader of one such rebellion is killed by Lassic's robot-cops, his sister Alis swears revenge."
+}

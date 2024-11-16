@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Adventure"],
+	"name": "Babe",
+	"publishers": ["Blast! Entertainment|Blast! Entertainment Ltd"],
+	"regions": ["PAL"],
+	"synopsis": "It's a very special day for Babe! The brave little sheep-pig has been invited to take part in a grand tournament, where the best sheep-herders from around theworld will compete for ultimate glory. But there's one problem: the tournament is many miles away in the big city! Can you guide Babe and his sheep safely to the city and win the competition?"
+}

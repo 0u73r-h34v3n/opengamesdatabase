@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ|THQ Australia"],
+	"genres": ["Action", "Adventure"],
+	"name": "Avatar: The Last Airbender - The Burning Earth",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/avatar-the-last-airbender----the-burning-earth",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Avatar: The Burning Earth continues the epic adventure of Aang and his courageous fight against the evil Fire Nation in order to restore balance in his war-torn world. Based on the second season of the Avatar animated series, players will join Aang and his friends as they master their skills and fight their way to defend the greatest Earth Kingdom city against a deadly Fire Nation invasion."
+}

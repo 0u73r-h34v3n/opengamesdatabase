@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Action", "RPG"],
+	"name": "Phantasy Star Universe: Ambition of the Illuminus",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN User score",
+			"url": "http://www.ign.com/games/phantasy-star-universe-ambition-of-the-illuminus/ps2-890126",
+			"score": 7.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/phantasy-star-universe-ambition-of-the-illuminus",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Phantasy Star Universe: Ambition of the Illuminus'' is the enhanced edition of [[Phantasy Star Universe]], bringing a more personalized and interactive universe to the series. The online multiplayer world has been expanded, enriching the battle experience for up to six players with additional new maps and levels and lobbies. Gamers now have more customization options for their characters with additional weapons, armor and clothing, and they can bring this greater level of customization into their rooms, with the new room grid system that allows full customization of their personal space."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team 17"],
+	"genres": ["Turn-based strategy"],
+	"name": "Worms Forts: Under Siege",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/worms-forts-under-siege",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Worms Forts: Under Siege! puts you in command of a team of up to four fort-dwelling worms. The game is set in the cartoon environments, and you direct your worm garrison to quickly construct defenses to maximize your strategic advantage, you direct the worms to expand your castle to seize valuable resources, and you have them build weapons of mass destruction to destroy your opponents' fortifications. Test yourself against the single-player game by battling through the 20 missions. When you finish, take on three of your friends in Fort vs. Fort mode."
+}

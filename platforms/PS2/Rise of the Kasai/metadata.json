@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BottleRocket Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Rise of the Kasai",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/rise-of-the-kasai/ps2-640602",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rise-of-the-kasai",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to The Mark of Kri, Rise of the Kasai builds upon the original action game with new storylines, characters, weapons, and gameplay features. This time, you can team up with your AI-controlled characters to fight through 10 expansive levels. You can play as Rau, Tati, Griz, or Baumusu--each with unique weapons, combos, and animations. As the last of the Rakus, you and your team must scout, strategize, and fight through magical environments, where you'll discover the truth about the family's dark secret and the origins of the Kasai."
+}

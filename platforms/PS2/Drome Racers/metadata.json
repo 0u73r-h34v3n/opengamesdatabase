@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Attention To Detail"],
+	"genres": ["Racing"],
+	"name": "Drome Racers",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/drome-racers",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drome Racers mixes all-terrain racing with futuristic environments. In high-tech racing machines based on Lego toys, you'll race through a city, a mountain, and a canyon, while earning money for car upgrades. Each track features special pick-ups, including a shield to avoid challengers, speed boost to grab that checkered flag, and mines and hatchets to slow down your opponents. Dominate the competition in gameplay modes such as Arcade, Time Trial, and Career, or challenge a friend to a one-on-one multiplayer race."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "ESPN NBA 2Night",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nba-2night",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EA Sports' Live series isn't the only game in town anymore. Konami and ESPN have teamed up to deliver ESPN NBA 2Night. The ESPN license is being tapped for more than just a name. The game will feature authentic camera angles and the wry humor of SportsCenter's Stuart Scott and Brent Musberger. Konami claims it will have the full NBA roster and that its detailed graphics engine means you'll have no problem distinguishing your favorite player. From the superhuman dunking ability of Kevin..."
+}

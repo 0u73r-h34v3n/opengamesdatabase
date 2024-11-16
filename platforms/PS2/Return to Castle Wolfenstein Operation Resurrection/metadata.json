@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Raster"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Return to Castle Wolfenstein: Operation Resurrection",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2003/05/28/return-to-castle-wolfenstein-operation-resurrection-3",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/return-to-castle-wolfenstein-operation-resurrection",
+			"score": 66,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_rtcw_ps2",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/return-to-castle-wolfenstein-operation-resurrectio/1900-6029541/",
+			"score": 4.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "You are U.S. Army Ranger B.J. Blazkowicz.  As World War II rages across Europe, the Office of Secret Actions has assigned you to investigate strange rumors of occult activity and genetic engineering.  You are about to embark on a journey deep into the heart of the Third Reich to battle the most horrific creatures ever unleashed.  You must face zombies brought back from the dead through dark magic and destroy mutants created through twisted science.  All the while there'll be legions of Nazi soldiers battling to win the war."
+}

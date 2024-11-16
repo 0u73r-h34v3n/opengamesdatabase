@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Adventure"],
+	"name": "Harvey Birdman: Attorney at Law",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/harvey-birdman-attorney-at-law",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Harvey Birdman: Attorney at Law is a fully animated interactive adventure game that merges the fun and mayhem of the popular Adult Swim TV show with Capcom's unique style of gameplay. Players step into the shiny wingtips of Harvey Birdman, a third-rate superhero turned third-rate defense attorney charged with exonerating parodied classic cartoon characters. Over the course of the game, players must guide Harvey through a series of odd and comical cases."
+}

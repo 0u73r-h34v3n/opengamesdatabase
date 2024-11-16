@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["K2 LLC"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tenchu: Fatal Shadows",
+	"publishers": ["From Software (JP, AS, KO)", "Sega (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/919027-tenchu-fatal-shadows/index.html",
+			"score": 61,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tenchu-fatal-shadows",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In search of her mentor the ninja Ayame stumbles upon a burning village. Along with fellow ninja Rin, Ayame must employ ancient skills such as supervision, wall-running and enemy freeze to determine who is responsible for this crime. In Fatal Shadows you can play as either Ayame or Rin in three gameplay modes. This time you can kill multiple enemies at once as well as move bodies and hide underwater to avoid detection. Additionally you can pick up a variety of new weapons and items. In a time of feudal wars, Rikimaru and Ayame, two ninja of the Azuma clan, served Lord Gohda by returning his precious daughter, Kiku, from the hands of Lord Mei-Oh. Unfortunately, Rikimaru was caught in a disastrous rockfall during his escape in an attempt to save Ayame and Kiku and is still missing. The land of Gohda remained peaceful after Mei-Oh's attack and Ayame as an agent of Gohda continued to patrol the expansive territory. One day in her travels, Ayame came across a destroyed ninja village. She hoped to find survivors but arrived too late. The ninja of Hagakure died whispering the \"Kuroya\" with their final breaths. As Ayame was about to leave, a young female ninja stood in her way. Her name was Rin, back from her training and devastated to see her village in ruins. She sees Ayame as the only person alive and blames her for the destroying of her village. Eventually, Rin sees that it was not Ayame that destroyed her village. The two team up to find the people responsible."
+}

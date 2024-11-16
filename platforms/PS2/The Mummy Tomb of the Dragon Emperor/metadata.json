@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Mummy: Tomb of the Dragon Emperor",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-mummy-tomb-of-the-dragon-emperor",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Mummy: Tomb of the Dragon Emperor is an action adventure game based on the movie of the same name."
+}

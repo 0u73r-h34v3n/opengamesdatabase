@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Karaoke Revolution Volume 3",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/karaoke-revolution-volume-3",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment in the Karaoke Revolution series is the first to support duets. Now you and your friends can use two microphones to sing together in harmony, in unison, or head-to-head for bragging rights. The revolution continues with more than 35 new songs, ranging from classics such as \"Love Shack\" and \"New York, New York\" to current hits such as \"Burn\" and \"The Reason.\" With new songs, locations, characters, and bonus items, Karaoke Revolution Volume 3 keeps the party alive on your PlayStation 2."
+}

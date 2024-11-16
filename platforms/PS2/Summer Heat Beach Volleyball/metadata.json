@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Cheltenham"],
+	"genres": ["Sports"],
+	"name": "Summer Heat Beach Volleyball",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/summer-heat-beach-volleyball",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The only beach volleyball game available for the PlayStation 2, Summer Heat Beach Volleyball takes you on a journey to the world's hottest summer spots to face off in fast-paced two-on-two arcade action.  Select from fourteen beautiful characters, each with player-specific attributes and abilities, and then play in twelve different locations around the world, including Venice Beach Stadium and Silver Sands Beach.   Earn special moves, spikes, speed-ups, and unlock characters and hidden features on your way to becoming the best player on the sand.  Summer Heat Beach Volleyball serves up a dose of sun, fun, and sand right into your living room."
+}

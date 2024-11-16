@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Matrix Software"],
+	"genres": ["Action", "RPG"],
+	"name": "Dual Hearts",
+	"publishers": ["Sony|SCEI (JP)", "Atlus (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/dual-hearts/",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dual-hearts",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rumble has come to Sonno Island in search of the legendary Dream Stone, but first he needs the help of Tumble to unlock a mysterious temple. Together, they'll travel by land, air, and sea through fantastic--and sometimes twisted--dreamscapes to find magical orbs that can break the temple's seal. In Dual Hearts, you'll join their search for lost keys as they fight with swords, solve challenging puzzles, and perform devastating combination attacks."
+}

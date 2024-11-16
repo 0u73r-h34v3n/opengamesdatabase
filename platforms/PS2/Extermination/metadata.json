@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Deep Space"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Extermination",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/extermination-review/1900-2798858/",
+			"score": 7.1,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/07/27/extermination",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/extermination",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As a Marines Special Forces Recon operative, you respond to a distress signal sent from a secret military base in Antarctica. Upon entry, you learn that a rampaging virus has mutated all life within the base, and nothing is safe from its toxic grasp. Although equipped with an assault rifle that has many shot variations, you'll need more than just firepower to survive. With limited resources and few means to stay warm in the below-zero frigid environments, you'll have to withstand an onslaught of weather and creature assaults in an attempt to unravel what mysteries lie at the heart of this threat."
+}

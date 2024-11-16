@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Indi"],
+	"genres": ["Simulation"],
+	"name": "Simple 2000 Series Vol. 39: Boku no Machi Zukuri: Machi-ing Maker++",
+	"publishers": [
+		"Media Factory (JP)",
+		"Natsume Inc. (US)",
+		"Ubisoft (EU)",
+		"D3Publisher (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/metropolismania",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You've been given the job to create and maintain an entire city. In the effort to attract new residents and increase your approval rating, you must interact with every member of your city. Each resident has a different name, personality, and issue to solve. Communication is the key to successful leadership as you'll talk about various topics, take quizzes, and find clues on how to help accommodate the other people in town. Metropolismania lets you build a wide range of establishments ranging from hospitals and apartment complexes to restaurants and night clubs."
+}

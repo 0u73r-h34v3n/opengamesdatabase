@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["Action", "Fighting"],
+	"name": "Crouching Tiger, Hidden Dragon",
+	"publishers": ["Ubisoft (US, EU)", "ESP Software (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/crouching-tiger-hidden-dragon",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Relive the epic story from the film in the game of Crouching Tiger, Hidden Dragon.  By stepping into the roles of each of the main characters--Li Mu Bai, Yu Shu Lien, Jen, and \"Dark Cloud\" Lo--you can unleash a variety of fighting techniques, weapons, stunts, and moves against brutally gifted enemies.  Characters improve in skill throughout the game, learn new moves, and earn bonuses and rewards as they master the art of Wudan-style fighting."
+}

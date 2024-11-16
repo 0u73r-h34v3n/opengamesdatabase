@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gearbox Software"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Brothers in Arms: Earned in Blood",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/brothers-in-arms-earned-in-blood",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can play as Sergeant Joe Hartsock during the liberation of Normandy in Brothers in Arms: Earned in Blood. This sequel to Brothers in Arms: The Road to Hill 30 includes new single- and multiplayer missions, as well as new competitive and cooperative multiplayer game modes. You can also employ new weapons and vehicles against the game's improved AI."
+}

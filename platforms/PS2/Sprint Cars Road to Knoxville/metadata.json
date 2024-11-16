@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Big Ant Studios"],
+	"genres": ["Racing"],
+	"name": "Sprint Cars: Road to Knoxville",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sprint-cars-road-to-knoxville",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Racing at speeds over 170 MPH on dirt, this is the proving ground for NASCAR drivers. Shoulder to shoulder sprint car racing makes for spectacular crashes, and white-knuckle driving. Start as a small town star and work your way up through the ranks to become a national legend."
+}

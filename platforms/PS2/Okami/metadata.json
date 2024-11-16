@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Clover Studio"],
+	"genres": ["Action", "Adventure"],
+	"name": "Okami",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/okami",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Okami, the player takes the role of the mythical sun goddess Amaterasu, in the form of a wolf. Her task is to restore color (or 'life') to the world by destroying the monsters who have stolen it. Since Amaterasu is a diety, there are naturally people who worship her and people who don't. The more people who worship her (as a result of her restoring color and doing other good deeds for them), the more powerful she becomes."
+}

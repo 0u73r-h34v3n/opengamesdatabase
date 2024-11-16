@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Music"],
+	"name": "Dance Dance Revolution Extreme",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is the arcade version of Dance Dance Revolution Extreme ported to PlayStation 2."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Paris"],
+	"genres": ["Racing"],
+	"name": "187 Ride or Die",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/187-ride-or-die",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "187 Ride or Die is a racing game set in Los Angeles's infamous South Central region. In order to become \"top dog\" of the game, the player must race and defeat opponents through a variety of different stages."
+}

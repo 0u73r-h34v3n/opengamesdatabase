@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Fighting"],
+	"name": "Sega Ages 2500 Series Vol. 26: Dynamite Deka",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot (Arcade 1997 review)",
+			"url": "https://www.gamespot.com/reviews/die-hard-arcade-review/1900-2533889/",
+			"score": 7.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "They've got the president's daughter, trained killers, and heavy artillery. The odds aren't in your favor. Your mission is to wax hordes of maniacal cut throats, dodge endless gunfire, and personally see to it that the young Missie Herrington is returned to daddy. It's another million-to-one shot, McClane, YIPPEE-KI-YAY! Relentless in-your-face game design, direct from the arcade. Over 1,000 different moves. Furious pace will keep you bug-eyed, blistered and begging for more. Over 15 different weapons to grab - assault rifles, furniture, robot parts, gasoline, anything you can get your hands on! Need back-up? Grab a buddy and double-team 'em in 2-player mode."
+}

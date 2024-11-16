@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradigm Entertainment"],
+	"genres": ["Racing"],
+	"name": "Spy Hunter",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/164/164896p1.html",
+			"score": 8.9,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/spy-hunter",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The evil NOSTRA Corporation prepares to unleash havoc on the world, and only the SpyHunter is equipped to stop them. Get behind the wheel of the powerful G-6155 Interceptor, a vehicle that can transform into a boat, Jet Ski, or motorcycle. With an arsenal of both offensive and defensive weapons, you must elude NOSTRA spies, henchmen, and assassins at any cost. Hordes of air, ground, and water enemies pursue you as you try to save the world from the mind of a madman."
+}

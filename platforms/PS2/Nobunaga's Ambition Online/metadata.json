@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["MMO", "RPG"],
+	"name": "Nobunaga's Ambition Online",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "An MMORPG based on the Nobunaga's Ambition series. Nobunaga's Ambition Online allows players to choose from several classes such as samurai and mage, select a faction, and become one of many inhabitants in the virtual world set in 16th century feudal Japan."
+}

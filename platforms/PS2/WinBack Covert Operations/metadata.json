@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "WinBack: Covert Operations",
+	"publishers": [
+		"Koei (JP, US)",
+		"Midas Interactive Entertainment (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/winback-covert-operations/ps2-15475",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/winback-covert-operations",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The first blast wiped out your space center, and in just three hours, the high-tech weapons satellite is going to strike again--unless you stop it. You are Jean-Luc Couger, a special operative for the government's Strategic Covert Actions Team. As the terrorists count down to a second attack, you must duck, sneak, and crawl through enemy-infested environments. And when the situation calls for a more aggressive approach, you'll have a wide variety of weapons to choose from."
+}

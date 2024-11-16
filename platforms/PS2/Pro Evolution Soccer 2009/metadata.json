@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Pro Evolution Soccer 2009",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pro-evolution-soccer-2009",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pro Evolution Soccer is back for 2009! The terms \"PES\" and \"Winning Eleven\" have always been synonymous with realism and superior gameplay, but this year PES will further narrow the gap between the game, and the real thing! New stadiums, players motions and gameplay modes will bolster a game already focused on providing an exciting soccer experience. In 2009, Pro Evolution will once again push the limits of soccer gaming. If it were any more real, you'd be on the field!"
+}

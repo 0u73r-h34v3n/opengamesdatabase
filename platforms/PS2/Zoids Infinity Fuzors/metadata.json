@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shoeisha"],
+	"genres": ["Action"],
+	"name": "Zoids Infinity Fuzors",
+	"publishers": ["Tomy Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Based on the popular television show, Zoids Infinity allows you to take control of the Zoid machines for battle. It features many different modes of play, including story mode, a mission-based survivial mode and a two player battle mode. The story mode follows a pilot named Lance in his quest to become the ultimate Zi-Fighter. "
+}

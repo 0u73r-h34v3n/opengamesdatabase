@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["RPG", "Adventure"],
+	"name": "Juuni Kokuki: Guren no Shirube, Koujin no Michi",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Juuni Kokuki is a video game based on Fuyumi Ono's work, The Twelve Kingdoms. Juuni Kokuki: Guren no Shirube, Koujin no Michi is the prequel to [[Juuni Kokuki: Kakukakutaru Oudou, Kouryoku no Uka]]. The game follows the adventures of Youko Nakajima, an ordinary high school student who is taken from Japan to the Twelve Kingdoms by a mysterious man named Keiki. Upon arriving in the Twelve Kingdoms, Youko struggles to survive and realize her destiny. "
+}

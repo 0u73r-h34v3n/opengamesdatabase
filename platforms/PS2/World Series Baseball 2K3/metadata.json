@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Shift"],
+	"genres": ["Sports"],
+	"name": "World Series Baseball 2K3",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/world-series-baseball-2k3",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "World Series Baseball 2K3 marks the multi-platform debut of last year's must have Xbox baseball title.  The \"King Of Diamonds\" returns stronger than ever and poised to make a run at a Yankee-like dynasty as it heads to the PlayStation 2.  And, just like the Bronx Bombers, WSB 2K3 spent the offseason improving what was already THE baseball franchise by adding an all-new ESPN broadcast presentation, more classic uniforms for every team, player-specific batting stances and pitching styles for Hall of Fame players, and historic ballparks.  WSB 2K3's unrivaled gameplay gives you what you've asked for, including: a jump button for home run-robbing snatches and line drive-snaring grabs, user-controlled leadoffs, broken bats, drag bunts, improved double play animations, power swings, and more."
+}

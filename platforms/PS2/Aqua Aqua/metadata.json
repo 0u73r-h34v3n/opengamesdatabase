@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zed Two Limited"],
+	"genres": ["Puzzle"],
+	"name": "Aqua Aqua",
+	"publishers": ["Imagineer (JP)", "3DO (EU, US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/014/014413.html",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/aqua-aqua",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "AquaAqua&trade; is an addictive, fast-action, water-based puzzle game of strategy and control set in a liquid landscape. Trap water by positioning pieces as fast as they fall to form dams and lakes. Watch the weather; if it rains too much your lake will overflow and your valuable water goes down the drain. If you lose too much water it's \"game over.\""
+}

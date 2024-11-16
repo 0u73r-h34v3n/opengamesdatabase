@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Naruto: Ultimate Ninja",
+	"publishers": [
+		"Bandai (JP, US, KO)",
+		"Bandai|Namco Bandai Games (US)",
+		"Atari (AU, EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/06/27/naruto-ultimate-ninja-review",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naruto-ultimate-ninja",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join Naruto and his friends on their Ninja Academy quests as they battle the best in the land. Perfect your ninja skills to earn money and unlock tons of bonus content. Do you have what it takes to become the ultimate ninja? Be your favorite ninja: Fight as one of over 12 playable characters including Naruto, Sasuke, Sakura, Kakashi, Rock Lee and many more. Switch between 12 interactive stages mid-combat to gain a tactical advantage while performing powerful ninjutsu moves as seen in the hit television series. Lethal super attacks: Increase your chakra and unleash multi-level super attacks to ascend the ranks and become a full-fledged ninja."
+}

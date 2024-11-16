@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision"],
+	"genres": ["Racing"],
+	"name": "DreamWorks Shrek Smash n' Crash Racing",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shrek-smash-n-crash-racing",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Smash N' Crash through the Shrek universe atop a mount with a personality all its own! Play as your favorite Shrek character and pit your racing and combat skills against an assortment of twisted fairy-tale opponents. Grab your mount and bump, crash and slide your way across 12 fairy-tale locations. If you fall behind, don't worry - use magical pick-ups to even the odds or battle your way back by knocking your opponents off their mounts. Beat your friends to the finish line in this fun and funny smash & crash twisted fairy-tale adventure!"
+}

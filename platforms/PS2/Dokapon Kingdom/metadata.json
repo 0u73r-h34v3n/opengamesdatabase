@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sting"],
+	"genres": ["RPG"],
+	"name": "Dokapon Kingdom",
+	"publishers": ["Examu (JP)", "Atlus (US)", "BigBen Interactive (EU)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dokapon-kingdom",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Grab your soon-to-be-ex-friends and charge into a true contest of strategy, wit, and beating each other senseless in this addictive party-RPG! Up to four players can join in the mayhem as you race to win a kingdom and edge out your competition along the way."
+}

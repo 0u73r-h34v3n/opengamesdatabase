@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Silverback Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Made Man: Confessions of the Family Blood",
+	"publishers": ["Mastertronic (EU)", "Aspyr (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/made-man",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on real events, Interview With a Made Man lets you assume the role of Joey Verola as he rises through the ranks of organized crime. In 20 fully destructible environments, you must play your part in mafia-inspired scenarios, including bookmaking, racketeering, loan sharking, hijacking, assassinations, numbers running, and family wars. With your arsenal of Berettas, shotguns, and machine guns, you can expect the body count to be high. Also at your disposal is a variety of melee weapons, including chairs, pool cues and balls, bats, and telephones."
+}

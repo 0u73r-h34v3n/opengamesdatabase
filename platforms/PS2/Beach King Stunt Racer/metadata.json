@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Davilex"],
+	"genres": ["Racing"],
+	"name": "Beach King Stunt Racer",
+	"publishers": ["Davilex"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/beach-king-stunt-racer/",
+			"score": 5.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Get ready for total action on the world's hottest beaches!  Sit behind the wheel of an ultra-cool vehicle, and get ready for heart-stopping, jaw-dropping, stomach-churning maneuvers.  Perform killer stunts like the Hurricane Combo, Solar Kick-flip and Twisted Impossible.  Take control, play it cool and show that you have what it takes to be crowned \"King of the Beach\"!"
+}

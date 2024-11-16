@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Oretachi Game Center Zoku: Time Pilot",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Prepare for fierce aerial combat with aircraft that span the years since the dawn of aviation. Your timeship's first encounter is with ancient 1910 biplanes; you're outnumbered, but your weapons are superior. Eliminate the entire air fleet; then knock out a mighty zeppelin and you'll progress to the next stage: 1940 monoplanes. These World War II fighters present a tougher challenge, and if you can defeat them, you'll move on to 1970 helicopters. Down the choppers and warp ahead to meet 1983 super jets. If you find a way to beat them, you'll cross the final barrier and head into the future for a deep-space duel with deadly flying saucers from the year 2001!"
+}

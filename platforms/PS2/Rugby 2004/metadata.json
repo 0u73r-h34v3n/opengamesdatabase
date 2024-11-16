@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["HB Studios Multimedia"],
+	"genres": ["Sports"],
+	"name": "Rugby 2004",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rugby-2004",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EA Sports Rugby 2004 gives you a complete Rugby experience.   Choose from 20 international, all Super 12, and other domestic teams, then take your team to victory in the World Cup, Tri nations, Super 12 Series, Domestic, Master League, and more.  More than 65 authentic stadiums from around the world--including every Rugby World Cup Stadium--are packed with dynamic crowds that support the home team.  Varying pitch types--normal, hard, soggy, and muddy--plus real-time pitch wear and weather conditions bring you closer to the body-ramming action."
+}

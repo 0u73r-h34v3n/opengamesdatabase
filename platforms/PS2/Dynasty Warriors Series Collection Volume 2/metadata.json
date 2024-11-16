@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors Series Collection Volume 2",
+	"publishers": ["KOEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Dynasty Warriors 4: Empires]] (Shin Sangoku Musou 3 Empires), [[Dynasty Warriors 5]] (Shin Sangoku Musou 4), [[Dynasty Warriors 5: Xtreme Legends]] (Shin Sangoku Musou 4 Moushouden) and [[Dynasty Warriors 5 Empires]] (Shin Sangoku Musou 4 Empires). The package also includes a CD with save data collection and a poster.}}"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["49Games"],
+	"genres": ["Sports"],
+	"name": "Winter Sports 2008: The Ultimate Challenge",
+	"publishers": ["RTL"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/winter-sports-2008-the-ultimate-challenge",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Break world records in diverse single player modes and challenge your friends and family to taxing multiplayer matches. Captivating sports such as Figure skating or Skeleton demand high skills and fast reactions. Experience the fascination of Winter Sports: The Ultimate Challenge with stunning graphics and an exciting soundtrack."
+}

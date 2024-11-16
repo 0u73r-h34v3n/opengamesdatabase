@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Dragon Rage",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/dragon-rage/ps2-16639",
+			"score": 6.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dragon-rage",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In a world of myth and magic, only one being stands between the powers of darkness and the extinction of an entire race. Orcs plague his kind and destroy their land. Only Cael Cyndar dares to challenge their power, swooping and soaring high above the land.  He must battle for freedom in a world where his kind are enslaved. He is a hero like no other. Only he can stop the end of the world. He is a Dragon. And the end of the world has just begun."
+}

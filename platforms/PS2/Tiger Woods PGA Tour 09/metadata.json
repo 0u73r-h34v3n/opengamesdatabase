@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 09",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-09",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tiger Woods PGA Tour 09 is a highly adaptable game that allows both the rookie and the seasoned veteran the ability to have a personalized and customized day on the links. This year's game also features enhancements to the online experience with a highly integrated EA Sports GamerNet experience as well as an all-new online engine powering Simultaneous Play."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Swordfish Studios"],
+	"genres": ["Sports"],
+	"name": "World Championship Rugby",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL"],
+	"synopsis": "Play through a league with your choice of six of the ten featured international teams. Featuring ten 15-a-side international teams including England, France and Australia. Intelligent opposition and team-mates for compelling game-play. Full featured Rugby Union game with scrums, mauls, line-outs, penalties, drop-outs, tries and conversions. World Championship Rugby is developed under license by Juice Games Ltd for Acclaim Entertainment Inc."
+}

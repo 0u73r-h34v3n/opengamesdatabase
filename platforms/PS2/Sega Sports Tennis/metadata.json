@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hitmaker"],
+	"genres": ["Sports"],
+	"name": "Sega Sports Tennis",
+	"publishers": ["Sega (US, JP)", "Acclaim (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_virtuatennis2_ps2",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sega-sports-tennis",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Choose from 16 internationally ranked men's and women's tennis players and compete in singles, doubles, and even mixed doubles matches with four players (requires Multitap accessory). The World Tour mode lets you create and train your players, sign unique doubles partners, and enter a host of prestigious tournaments. Lob, slice, and smash your way to victory with intuitive pick-up-and-play controls designed to cater to all levels of gamers."
+}

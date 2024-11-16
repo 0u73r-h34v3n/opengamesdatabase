@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Naughty Dog"],
+	"genres": ["Action", "Platformer"],
+	"name": "Jak and Daxter: The Precursor Legacy",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEI (JP, KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jak-and-daxter-the-precursor-legacy",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A new world of magic, adventure, exploration, and discovery awaits you in Jak & Daxter: The Precursor Legacy.  A magical substance called Dark Eco transforms Daxter into a furry Ottsel, so Jak and his rodent friend Daxter go on a journey to look for a cure.  You'll solve puzzles, collect power cells, meet exotic characters, and battle sinister enemies in enormous vistas.  Discover the story behind the mysterious Eco and unleash the hero within."
+}

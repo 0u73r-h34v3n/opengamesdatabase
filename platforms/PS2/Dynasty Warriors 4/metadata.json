@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 4",
+	"publishers": ["Koei (JP, US, EU, KO)", "Koei|Koei Tecmo Games (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/563592-dynasty-warriors-4/index.html",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-4",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dynasty Warriors 4 takes battlefield action to the next level, allowing players to experience the thrill of taking on multiple opponents at once and fighting against impossible odds. A host of new features add greater depth to the gameplay, as well as more insight into the characters and turbulent events of the Three Kingdoms era. The concepts of Honor and Loyalty in the face of adversity serve as the main theme for the game. The obligations of generals to their Lords and Allies guide the paths of these warriors as the fight to unify a divided empire."
+}

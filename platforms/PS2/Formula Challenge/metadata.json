@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Racing"],
+	"name": "Formula Challenge",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Test your driving skills to the limit in Formula Challenge, a compelling, heart stopping, authentic homage to the pinnacle of Motor Sport. Hone your abilities in Practice mode before vying for Pole Position in Qualifying. Then compete for the ultimate prize, the World Driver's Championship. Choose to race in the Championship or head to head against friends. Engaging gameplay will require ultimate concentration in order to fend off your tenacious competitors and risk all to execute amazing overtaking manoeuvres."
+}

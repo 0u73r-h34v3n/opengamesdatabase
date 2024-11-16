@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Adventure"],
+	"name": "The Chronicles of Narnia: Prince Caspian",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-chronicles-of-narnia-prince-caspian",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Chronicles of Narnia: Prince Caspian takes players throughout Narnia and includes a level, which is unique from both the novel and the film. The level, which is set between the events of \"The Lion, The Witch and The Wardrobe\" and Prince Caspian, takes place at the castle of Cair Paravel and tells the story of how Narnia fell to the Telmarine hordes. In Prince Caspian, Cair Paravel is seen only as abandoned ruins the Pevensies discover hundreds of years later. The action/adventure game offers gameplay for one or two players on the same system and drop-in/drop-out features, allowing either player to join the game and leave. With combat, exploration and puzzle solving that extends beyond the film, The Chronicles of Narnia: Prince Caspian is the ideal complement to the movie-going experience. The game features more than 20 playable characters including the ability to play as Prince Caspian."
+}

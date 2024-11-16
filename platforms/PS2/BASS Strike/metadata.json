@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ"],
+	"genres": ["Sports"],
+	"name": "BASS Strike",
+	"publishers": ["THQ (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bass-strike",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the thrills and action of Bass fishing for the first time on the PlayStation 2 computer entertainment system. Continuing THQ's strong tradition of premiere B.A.S.S. Inc. licensed fishing games, Bass Strike brings the sport of fishing to life like never before. Dynamic camera action, realistic fish behavior and beautiful graphics immerse players in \"hawg\" heaven. But if you want to experience thrilling tournament action, the Bass Masters Tournament Trail is the one for you.  Bass Strike features the only Tournament Trail that leads to the premiere world championship--the Bass Masters Classic. Whether you're a weekend angler deep water cranking for quality lunkers or a seasoned pro chugging the lake-top in anticipation of a water-churning strike, Bass Strike promises to deliver exhilaration, excitement and top tournament competition in one action-packed fishing game. And with Dynamic Camera Action, for the first time ever on PlayStation 2, follow all the action both above and below the water."
+}

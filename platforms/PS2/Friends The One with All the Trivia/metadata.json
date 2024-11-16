@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artech Studios"],
+	"genres": ["Trivia"],
+	"name": "Friends: The One with All the Trivia",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/friends-the-one-with-all-the-trivia",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Relive your favorite moments with Rachel, Ross, Joey, Phoebe, Monica and Chandler in the only videogame that asks you, \"How well do you know your FRIENDS?\"  Featuring hundreds of unforgettable clips, classic FRIENDS humor and never-before-seen content, FRIENDS: THE ONE WITH ALL THE TRIVIA&trade; will keep you guessing and laughing!"
+}

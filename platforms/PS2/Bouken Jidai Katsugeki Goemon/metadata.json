@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEK"],
+	"genres": ["Action", "RPG"],
+	"name": "Bouken Jidai Katsugeki Goemon",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/bouken-jidai-katsugeki-goemon/ps2-15401",
+			"score": 9.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "the player assumes the role of Goemon, who is set once again to save Japan. Goemon is able to use a large variety of weapons (including his trademark pipe), as well as equip sub-weapons, items and magic, which can be assigned in 4 hexagons for quick use. Another twist is the addition of a white tiger known as Kotora, whom Goemon can use to attack enemies when he locks on them."
+}

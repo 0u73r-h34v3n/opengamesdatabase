@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradox Development"],
+	"genres": ["Sports"],
+	"name": "Backyard Wrestling: Don't Try This at Home",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/backyard-wrestling-dont-try-this-at-home/ps2-499362",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/backyard-wrestling-dont-try-this-at-home",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Backyard Wrestling allows you to step out of the wrestling genre and into a new world of open-ended gameplay. Punish your opponent in interactive environments using weapons such as thumbtacks, barbed wire, lightbulbs, stop signs, baseball bats, tables, fire, and other objects. Prepare to take incredible risks and endure cuts, bruises, and gashes, as you leap from breathtaking heights to beat your opponent and be crowned The King of Hardcore."
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Open Sesame"],
+	"genres": ["Sports"],
+	"name": "Reel Fishing III",
+	"publishers": [
+		"Victor Interactive Software (JP)",
+		"Ubisoft (EU)",
+		"Natsume Inc. (US)",
+		"Marvelous (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/reel-fishing-iii",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Reel Fishing III is a return to nature fishing.  Whether you a seasoned veteran or have yet to cast your first line, Reel Fishing III will make it possible to experience fishing as it was meant to be--as it should be--in mother nature.  The game gives you all the tackles you need to catch that big fish and all the tranquil sounds of nature you need to relax.  Experience a realistic 3D fishing adventure with beautiful environments, lifelike fish, and soothing environmental sounds."
+}

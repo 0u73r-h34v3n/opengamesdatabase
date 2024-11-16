@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Asobo Studio"],
+	"genres": ["Action", "Platformer"],
+	"name": "Sitting Ducks",
+	"publishers": ["LSP (EU)", "Hip Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sitting-ducks",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to the world of Sitting Ducks, where life is good, food is plentiful, and alligators are lurking in the neighboring Swampwood. You can play as one alligator, Aldo, and his friend, Bill the Duck, as they take on a variety of challenges. In more than 20 different missions, you'll do everything from racing Vespa scooters and ice-skating to playing soccer and water polo. With each event, crowds of ducks (each duck with its own personality) may form around you--but try not to become nervous."
+}

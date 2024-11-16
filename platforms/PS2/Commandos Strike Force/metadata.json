@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pyro Studios"],
+	"genres": ["Action", "Shooter"],
+	"name": "Commandos Strike Force",
+	"publishers": ["Eidos Interactive (EU, US)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/commandos-strike-force",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "See if you have what it takes to join an elite team of commandos. Commandos Strike Force is a new WWII shooter that puts you in control of the three members of the Strike Force unit. During the game, you play as a Green Beret (an expert in combat and the use of heavy weaponry), a sniper (an expert marksman), and a spy (an expert in stealthy attacks)."
+}

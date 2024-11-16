@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Digital Devil Saga",
+	"publishers": ["Atlus (JP, US, KO)", "Ghostlight (EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/04/05/shin-megami-tensei-digital-devil-saga?",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shin-megami-tensei-digital-devil-saga",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Shin Megami Tensei: Digital Devil Saga'' follows Serf and his four companions as they set out for Nirvana, a land that can only be reached by the champions of Junkyard. A mysterious object awakens demonic powers within the group, allowing each member to transform into a deadly beast. As one of these characters, you can devour your enemies and absorb their powers and special abilities. Defeat opposing tribes by protecting yourself from enemy attacks, deflecting their blows, and performing linked attacks."
+}

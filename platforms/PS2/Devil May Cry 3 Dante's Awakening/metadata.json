@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Devil May Cry 3: Dante's Awakening",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/02/26/devil-may-cry-3-dantes-awakening",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/devil-may-cry-3-dantes-awakening",
+			"score": 84,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_devilmaycry3_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Devil May Cry 3 reintroduces the mysterious hero, Dante, in a new game featuring a new storyline, more weapons, and intense action. Set before the original Devil May Cry, the game follows Dante's journey as he battles his evil twin brother in a final confrontation. Along the way, you'll encounter both formidable foes and unusual characters. When attacking, you can choose to use short-range, long-range, defensive, or evasive play styles. Each system has its own range of gameplay features, and you can choose to power up your favorite style for increased special attack abilities."
+}

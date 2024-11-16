@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Microids"],
+	"genres": ["Adventure"],
+	"name": "Syberia II",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL"],
+	"synopsis": "An unlikely pair--young Kate Walker and old Hans Voralberg--must now set off on a journey together in search of the last of the fabled Syberian mammoths. Guide Hans and Kate as they face dangerous obstacles that test their courage and determination. You'll encounter new characters in a variety of environments. Each puzzle you solve brings you closer to the heart of a long-forgotten universe. It's now up to you to solve the mysteries behind Syberia."
+}

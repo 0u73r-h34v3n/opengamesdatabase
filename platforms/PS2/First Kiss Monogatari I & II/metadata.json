@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Compilation", "Adventure"],
+	"name": "First Kiss * Monogatari I & II",
+	"publishers": ["Broccoli"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This compilation includes two games ported from Dreamcast: ''First Kiss * Monogatari I'' and ''First Kiss * Monogatari 2''. "
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "Splashdown",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/splashdown",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Speed through the water while busting freestyle tricks on a Sea-Doo. Splashdown is a high quality visual experience associated with realistic water physics and Sea-Doo handling. 18 lush real-world environments and 8 wild characters with their own signature tricks complete the game play."
+}

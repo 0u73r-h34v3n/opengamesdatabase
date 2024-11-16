@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Relentless Software"],
+	"genres": ["Trivia"],
+	"name": "Buzz! The Hollywood Quiz",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/buzz!-the-hollywood-quiz",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to the hottest show in Tinseltown! The red carpet has been rolled out, the biggest starts in the world are here and they're ready to play Buzz!: The Hollywood Quiz. Thousands of movie questions are waiting for you so get those buzzer-fingers ready. Up to 8 people can go head-to-head in one game, so now's your chance to find out who really knows their movies."
+}

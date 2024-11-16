@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NFL GameDay 2004",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-gameday-2004",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With NFL GameDay 2004, the NFL experience comes to life with new player models, pressure-sensitive controls, and all the best players in professional football. Each of the 180 players accurately reflects his real-life height, weight, body proportions, and accessories such as tinted visors and breathe strips. The game updates the playbooks with the latest trends on offense and defense. On offense, you have new features that allow better pass protection and the ability to change receiver routes; while on defense, you can shift your defensive lines and use new spin moves and swim techniques."
+}

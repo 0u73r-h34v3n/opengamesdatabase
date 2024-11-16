@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arika", "Chunsoft", "Matrix Software"],
+	"genres": ["RPG"],
+	"name": "The Nightmare of Druaga",
+	"publishers": ["Arika (JP)", "Namco (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-nightmare-of-druaga",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the classic 1984 arcade game known as The Tower of Druaga, The Nightmare of Druaga: Fushigino Dungeon continues the story of Gilgamesh and the kingdom of Babylim. Arranged to marry Princess Ki , Gil is forced to change his ambitions of becoming King when a group of mysterious monsters attack the country. While he is gone, a mysterious enchantress captures Ki and Gil must now arm himself with the finest weapons and armor in order to get her back"
+}

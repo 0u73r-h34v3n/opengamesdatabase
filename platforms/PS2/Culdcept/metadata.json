@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["NEC Interchannel"],
+	"genres": ["Board"],
+	"name": "Culdcept",
+	"publishers": ["Sega (JP)", "NEC Interchannel (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/culdcept",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fate of the universe depends on who gains control of Culdcept, a book that has the power to create and destroy. Cepters, who can summon power from within the book, fight for control of its godlike powers. Culdcept combines the strategic factors of a collectible card game with elements from a tabletop board game. With up to three other players, you'll encounter fantastical creatures, powerful items and spells, and over 480 collectible cards, illustrated by famous Japanese artists."
+}

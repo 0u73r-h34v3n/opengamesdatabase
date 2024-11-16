@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rage Software"],
+	"genres": ["Racing"],
+	"name": "Global Touring Challenge: Africa",
+	"publishers": ["Rage Software (EU)", "Majesco (US)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/global-touring-challenge-africa",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "GTC: Africa combines the endurance of rally-style driving with the rush of competitive circuit racing. Journey through the most exotic locations on the African continent in officially licensed vehicles from Ford, Mitsubishi, Subaru, and Pontiac. The game features 19 different circuits in locales ranging from safari treks and lagoons to countryside vistas and jungles. In both single-player and multiplayer modes, you must powerslide through rugged terrain, climb towering hills, and improve your track times to achieve victory."
+}

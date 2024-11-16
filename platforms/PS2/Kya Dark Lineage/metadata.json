@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eden Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Kya: Dark Lineage",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/kya-dark-lineage",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Plunged into a mysterious world, Kya must seek her way through multiple dangers to find her brother and a way back home. She discovers the Nativs, a peaceful tribe, oppressed by the Wolfens - the menacing army of the evil Brazul. Kya must lead the rebellion of the Nativs for their freedom. Mastering magical powers, Kya can liberate the Wolfens from their mystical imprisonment and restore their true Nativ identity. Steal your way through or fight head-to-head with hordes of Wolfens using original combat moves and magical strikes. Soar against various vertiginous wind currents on breathtaking flights. Slide down extreme entwined turbulent tracks, through challenging obstacles and lush environments. Journey through unbelievable acrobatic freefalls as you get closer to Kya's quest to save her brother and defeat the Fortress of Brazul."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Racing"],
+	"name": "Paris-Dakar Rally",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/paris-dakar-rally",
+			"score": 36,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Each year, the world's bravest drivers come together to compete in the Paris-Dakar Rally, a grueling 7,000 mile trek across every imaginable terrain. They do battle in trucks, cars, motorbikes and ATVs, all striving for the honor of being called the ultimate off-road champion. Only the strong will durvive this battle of mude, sweat and gears!"
+}

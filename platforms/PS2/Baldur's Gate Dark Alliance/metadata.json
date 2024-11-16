@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Snowblind Studios"],
+	"genres": ["Action", "RPG"],
+	"name": "Baldur's Gate: Dark Alliance",
+	"publishers": [
+		"Vivendi Games|Vivendi Universal Games (US)",
+		"Virgin Interactive (EU)",
+		"Pacific Century Cyber Works (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/baldurs-gate-dark-alliance",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Baldur's Gate: Dark Alliance is an action RPG with an epic tale of intrigue, explosive spell effects and highly detailed creatures and environments.  You play a one of three customizable characters who returns to Baldur's Gate and joins the fight against the darkness that threatens its peace.  Take on the monsters solo or with a friend in co-op mode.  Baldur's Gate: Dark Alliance is the first game to feature the real time application of the Dungeons & Dragons 3rd Edition rules."
+}

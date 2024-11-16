@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montpellier"],
+	"genres": ["Action", "Adventure"],
+	"name": "Peter Jackson's King Kong: The Official Game of the Movie",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/peter-jacksons-king-kong-the-official-game-of-the-movie",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as man or beast in Peter Jackson's King Kong: The Official Game of the Movie. You can be King Kong or Jack Driscoll as you follow a story based on the movie. Peter Jackson, the director of the 2005 movie, also took an active role in developing the game, which expands upon the movie's storyline, adding new creatures and locations. The game employs a cinematic style that makes the game more immersive and less like a traditional video game."
+}

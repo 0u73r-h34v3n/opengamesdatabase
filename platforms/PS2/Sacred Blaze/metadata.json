@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flight-Plan"],
+	"genres": ["Simulation"],
+	"name": "Sacred Blaze",
+	"publishers": ["Flight-Plan"],
+	"regions": ["NTSC-J"],
+	"synopsis": "As the God of light, you are to rescue the world from darkness. Giving power to the player characters as your agents, help them win battles and answer their calls for miracles."
+}

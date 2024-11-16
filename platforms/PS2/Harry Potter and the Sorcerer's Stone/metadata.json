@@ -1,0 +1,32 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warthog"],
+	"genres": ["Action", "Adventure"],
+	"name": "Harry Potter and the Sorcerer's Stone",
+	"publishers": [
+		"Electronic Arts|EA Games (US, EU, JP)",
+		"Electronic Arts (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2003/12/10/harry-potter-and-the-sorcerers-stone",
+			"score": 6.4,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/harry-potter-and-the-sorcerers-stone-review/1900-6086012/",
+			"score": 6.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/harry-potter-and-the-sorcerers-stone",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Leave the nonmagical world behind and enroll in Hogwarts School of Witchcraft and Wizardry in Harry Potter and The Sorcerer's Stone.  As Harry Potter, you will hone your magical skills and advance through three terms of study during Harry's first year at Hogwarts.  Each term will challenge you to meet a number of objectives, such as collecting and mixing potions with Professor Snape or piloting a flying broom through the Forbidden Forest in search of Neville Longbottom's Remembrall.  In order to pass the first year of study, players must complete over 29 different objectives, while avoiding enemies and obstacles."
+}

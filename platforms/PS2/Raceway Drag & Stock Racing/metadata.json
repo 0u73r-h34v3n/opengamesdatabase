@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Brain in a Jar"],
+	"genres": ["Racing"],
+	"name": "Raceway: Drag & Stock Racing",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Fire up your engines and get ready to tear up the track in the world's fastest and most dangerous of all motorsports! Launch your funny car, top fueller, or stock car down quarter-mile straights, banked ovals and a host of other wild circuits. With plenty of game modes and insane stunts to master, RACEWAY: Drag & Stock Racing offers all the high-speed, tyre blistering action."
+}

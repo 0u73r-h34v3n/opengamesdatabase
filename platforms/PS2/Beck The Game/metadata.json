@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flagship"],
+	"genres": ["Music"],
+	"name": "Beck: The Game",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This adventure game is based on the Beck anime, which focuses heavily on hard rock music. Playing as main character Yukio Tanaka, you lead your band, Beck, to success. The game's storyline is based on the anime, but with some new additions. In the adventure part, you move to different areas of the stage and speak to other characters. Also included is a mini game called Groove where you press buttons in time with music. All music is original and made for the game."
+}

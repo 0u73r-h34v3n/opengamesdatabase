@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Irem"],
+	"genres": ["Gambling", "Adventure"],
+	"name": "PachiPara 14: Fuu to Kumo to Super Umi in Okinawa",
+	"publishers": ["Irem"],
+	"regions": ["NTSC-J"],
+	"synopsis": "PachPara 14 is the last PS2 release in Irem's long-running pachinko simulation series. It features faithful 3D recreations of two pachinko machines made by Sanyo Bussan: CR Super Umi Monogatari in Okinawa MTA and CR Super Umi Monogatari in Okinawa SAD. There are two modes available: Normal mode allows the player to modify a wide range of settings for each machine, while Battle mode challenges the player to win as many balls as possible on the default settings with a limited starting pool and time limit. There is also a View mode where the various animations that play on the in-game display can be freely viewed, and a customization mode where different picture combinations can be placed in the menu background."
+}

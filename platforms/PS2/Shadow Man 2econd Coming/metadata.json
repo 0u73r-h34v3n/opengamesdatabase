@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shadow Man: 2econd Coming",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2002/03/11/shadow-man-2econd-coming",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/shadow-man-2econd-coming-review/1900-2854290/",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shadow-man-2econd-coming",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mike Leroi is Shadow Man - undead demon hunter and protector of the world. Follow him on a twisted voodoo journey through the darkest recesses of the soul as he battles the Grigori, a group of sadistic demons bent on returning their monstrous leader, Osmodeus, from the pit. If they succeed, darkness and destruction will befall humanity - only the power of Shadow Man can stop them now..."
+}

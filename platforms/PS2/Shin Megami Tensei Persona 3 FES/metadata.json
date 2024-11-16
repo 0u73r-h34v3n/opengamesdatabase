@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Persona 3 FES",
+	"publishers": ["Atlus (JP, KO, US, EU)", "Koei (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/937269-shin-megami-tensei-persona-3-fes/index.html",
+			"score": 88,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shin-megami-tensei-persona-3-fes",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Lead a group of high school students with a dangerous extracurricular activity: exploring the mysterious tower Tartarus and fighting the sinister Shadows during the Dark Hour, a frozen span of time imperceptible to all but a select few. However, the end of their quest is no longer the end of the story--witness for the first time the aftermath of the final battle and the students' struggle to find meaning in their new lives."
+}

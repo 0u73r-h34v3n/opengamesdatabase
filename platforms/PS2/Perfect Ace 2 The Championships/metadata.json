@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Sports"],
+	"name": "Perfect Ace 2: The Championships",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Perfect Ace 2 takes you on a complete World tour for singles, Doubles and mixed Doubles as well as the option of a quick match anywhere in the world, incl. multi-player options for up to 4 players. Featuring new stadiums, new player models, full player editor, new game mechanics and new animations, Perfect Ace 2: The Championships offers the finest tennis simulation yet."
+}

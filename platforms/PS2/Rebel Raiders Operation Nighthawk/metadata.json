@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kando Games"],
+	"genres": ["Simulation"],
+	"name": "Rebel Raiders: Operation Nighthawk",
+	"publishers": ["Nobilis (EU)", "XS Games (US)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/03/31/rebel-raiders-operation-nighthawk",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rebel-raiders-operation-nighthawk",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rebel Raiders: Operation Nighthawk is an arcade style air combat, set in a futuristic universe. The game is designed to quickly immerse players in scenarios of non stop combat. Pilot a wide variety of aircraft and earn points for a chance to fly top secret planes equipped with devastating weapons. Your missions will all be unique and challenging so you'll need the right stuff to be a true Rebel Raider."
+}

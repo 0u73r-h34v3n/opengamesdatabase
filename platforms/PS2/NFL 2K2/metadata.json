@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NFL 2K2",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-2k2",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sega Sports NFL 2K2 hits the Gridiron on the PlayStation 2 computer entertainment system with the look and feel of a champion. With all-new gameplay and PlayStation 2-specific features, NFL 2K2 combines flash and substance in a football game that is as exciting to watch as it is to play."
+}

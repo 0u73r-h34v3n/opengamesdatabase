@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Silicon Dreams"],
+	"genres": ["Action"],
+	"name": "Island Xtreme Stunts",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/island-xtreme-stunts/ps2-488278",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/island-xtreme-stunts",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When movie moguls choose LEGO Island as the location for a new action adventure film, naturally they pick you, Pepper Roni, to be the lead stuntman.  Drive, fly, jump, and skate through five extreme stunt games that take you all over the vast LEGO Island.  Dash from shoot to shoot on your skateboard or in any one of the vehicles - providing you've passed the test of course!  The mischievious Brickster might try to crash the scene, so pull off your best stunts and show him who the real action hero is!"
+}

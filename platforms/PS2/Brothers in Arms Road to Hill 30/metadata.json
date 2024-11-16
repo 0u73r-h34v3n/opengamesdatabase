@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gearbox Software"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Brothers in Arms: Road to Hill 30",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/brothers-in-arms-road-to-hill-30",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set during the famous airdrop before the invasion at Normandy, Brothers in Arms tells the story of Sgt. Matt Baker and his squad of 101st Airborne paratroopers, who were scattered over the French countryside. As Baker, you must use real military tactics to flank and kill your foes. During the game, you must choose between the success of your mission and the lives of your men. Brothers in Arms boasts authentic battlefields and equipment, multiplayer gameplay, and a cast of more than 20 distinct soldiers."
+}

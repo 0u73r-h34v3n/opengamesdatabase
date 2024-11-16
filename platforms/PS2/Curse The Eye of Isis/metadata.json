@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Asylum Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Curse: The Eye of Isis",
+	"publishers": ["Wanadoo"],
+	"regions": ["PAL"],
+	"synopsis": "Someone has stolen an artifact from the British Museum - a sacred (and CURSED) Egyptian statuette called the \"Eye of Isis\". You are called in to investigate its disappearance, find and return it to the pyramid where it once resided. The deadly curse must be stopped, and time is of the essence!"
+}

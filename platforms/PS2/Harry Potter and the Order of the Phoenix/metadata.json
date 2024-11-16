@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Harry Potter and the Order of the Phoenix",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/harry-potter-and-the-order-of-the-phoenix",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Harry Potter and the Order of the Phoenix, Harry returns for his fifth year of study at Hogwarts and discovers that much of the wizarding community has been denied the truth about the teenager's recent encounter with the evil Lord Voldemort. Meeting secretly with a small group of students who name themselves \"Dumbledore's Army,\" Harry teaches them how to defend themselves against the Dark Arts, preparing the courageous young wizards for the extraordinary battle that lies ahead. With the ability to play multiple characters, including Harry Potter, Dumbledore and Sirius Black, the videogame of Harry Potter and the Order of the Phoenix offers fans the opportunity to wield a wand, explore all around Hogwarts, and experience one of the most exciting and dangerous years in the life of the Boy Who Lived."
+}

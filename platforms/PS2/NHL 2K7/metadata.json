@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "NHL 2K7",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2k7",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hundreds of new skating animations have been captured for NHL 2K7. Not only will skating look much more natural, players will also experience the true momentum of skating whenever players dig into the ice to accelerate or carve the ice to make sudden stops. In addition to the numerous new skating animations, several new checking, passing, and shooting animations have been added, making all the action in NHL 2K7 flow with amazing detail. New gameplay enhancements have been added to Pro Control, giving users offensive and defensive tools to utilize on the ice. While on offense, players now have the ability to execute drop passes, allowing users to setup new screen plays and create new scoring opportunities to catch the goalie off-guard. Pressure Control brings a tactical element to defensive hockey as players now can instruct teammates to defend opposing players while on the ice. Varying degrees of pressure can be selected - whether it's telling your teammate to shadow a selected opponent or deliver a big check - allowing players new defensive options on the fly. Pro Control in NHL 2K7 delivers the offensive and defensive options hockey fans have been asking for, truly delivering the next generation of hockey."
+}

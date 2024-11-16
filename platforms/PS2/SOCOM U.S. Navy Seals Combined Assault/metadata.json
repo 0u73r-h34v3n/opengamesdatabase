@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zipper Interactive"],
+	"genres": ["Action", "Shooter"],
+	"name": "SOCOM: U.S. Navy Seals: Combined Assault",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/socom-us-navy-seals-combined-assault",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Protect America and freedom from enemy forces in urban and rural warfare in SOCOM: U.S. Navy SEALs Combined Assault, which features all-new 4-player cooperative play, improved enemy behavior and tactics, and new vehicles and weapons for campaign mode. Command the most feared Special Forces team ever assembled through a single, massive Area of Operation with varied missions spanning across multiple diverse regions. Players can experience the campaign mode in single player or in 4-player online cooperative mode. Additionally, players have the option to select an individual tactical mission area that was previously completed, and play it as a stand-alone, or 'Instant Action', mission in 4-player online cooperative play. Players can then customize these Instant Action missions for nearly endless replay. SOCOM: U.S. Navy SEALs Combined Assault also contains the full \"SOCOM 3: U.S. Navy SEALs\" multiplayer online game with all maps, patches and updates included and it is completely compatible with SOCOM 3 Online multiplayer. In addition it features new competitive 32-player maps, exclusive to SOCOM: U.S. Navy SEALs Combined Assault. Improved Crosstalk functionality between SOCOM: U.S. Navy SEALs Fireteam Bravo 2 and SOCOM: U.S. Navy SEALs Combined Assault allows each game to have even more dramatic effects on the progression of the other, in addition to unlocking special features across the titles."
+}

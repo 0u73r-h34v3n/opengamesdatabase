@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Sports"],
+	"name": "World Soccer Winning Eleven 8 International",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-soccer-winning-eleven-8-international",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Winning Eleven 8 once again raises the bar with in-depth gameplay, improved realism and increased control. The game now features all the teams from the Italian, Spanish and Dutch leagues under the official license. Featuring 136 club teams and 57 national teams, Winning Eleven 8 offers gamers control of up to 4,500 of the world's greatest soccer players. The game introduces a wealth of new moves and tricks including new free kick and penalty kick techniques, an innovative indirect free kick move and a new dribbling system that offers more control as gamers go one-on-one and try to pass opposing players. Also featured is the first-ever on-screen referee in the history of the series. Boasting an enhanced ref AI, the referee will run up and down the field reacting realistically and instinctively to fouls, giving advantage for minor infringements and even stepping in to calm things down when the action gets heated. Winning Eleven 8 also features improvements to the popular Master League, which now has more strategy through player development and injury, and a new 'My Best Eleven' option so fans can save their greatest teams."
+}

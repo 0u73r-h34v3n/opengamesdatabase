@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Shooter"],
+	"name": "Time Crisis II",
+	"publishers": ["Namco (US, JP)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/016/016293.html",
+			"score": 8.7,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/time-crisis-ii",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Agents Keith Martin and Robert Baxter have been sent to find a missing agent. Christy Ryan was last heard from while uncovering a deceptive plan by Neodyne Industries to launch a network of military satellites. The world is in trouble, your fellow agent is in danger, and only you and a friend can stop this threat. Time Crisis 2, the arcade hit, is ready to deliver maximum impact!"
+}

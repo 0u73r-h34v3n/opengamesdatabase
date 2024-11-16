@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Alpha Unit"],
+	"genres": ["Visual Novel"],
+	"name": "Futakoi: Koi to Mizugi no Survival",
+	"publishers": ["Media Works"],
+	"regions": ["NTSC-J"],
+	"synopsis": "You find yourself thrown into a quest for survival on this island during the middle of summer. Joining you are six pairs of twins who seem to have an affinity for skimpy, two piece bathing suits."
+}

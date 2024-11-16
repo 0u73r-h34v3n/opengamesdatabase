@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Sports"],
+	"name": "Smash Court Tennis Pro Tournament 2",
+	"publishers": ["Sony|SCEE (EU)", "Namco (US, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/smash-court-tennis-pro-tournament-2",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Whether you want to play through a career or go head-to-head with your friends, Smash Court Tennis Pro Tournament 2 offers a complete set of modes and features. Pick your favorite pro player or create your own and progress through the professional tennis rankings. You can compete in actual Grand Slam tournaments, including Wimbledon, US Open, and Australian Open. The game features such pro players as Andy Roddick, James Blake, Lleylton Hewitt, Serena Williams, and Ana Kournikova."
+}

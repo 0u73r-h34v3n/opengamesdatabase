@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["HuneX"],
+	"genres": ["Visual Novel", "Simulation"],
+	"name": "Dear My Sun!! Musk * Ikusei * Capriccio",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a simulation / Visual Novel game aimed at female players. "
+}

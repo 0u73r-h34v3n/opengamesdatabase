@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Haunting Ground",
+	"publishers": ["Capcom (JP, EU, AU, US)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/haunting-ground",
+			"score": 67,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_hauntingground_ps2",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/haunting-ground-review/1900-6126551/",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2005/05/26/haunting-ground",
+			"score": 7.7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Step into the shoes of Fiona Belli, an 18-year-old girl who's the sole survivor of a tragic car accident that claimed both her parents. You'll wake up in a mysterious castle rife with strange inhabitants, puzzles, and cunning enemies. As you explore the castle, you'll befriend a white shepherd dog that can help you attack enemies, uncover the castle's secrets, and survive a variety of challenges."
+}

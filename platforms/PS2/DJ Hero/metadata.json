@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FreeStyleGames"],
+	"genres": ["Music"],
+	"name": "DJ Hero",
+	"publishers": ["Activision|Activision Blizzard"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dj-hero",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be the life of the party! The makers of Guitar Hero introduce an entirely fresh and innovative way to experience your favorite music. With DJ Hero you will be the life of the party as you spin and scratch more than 100 songs into unique mixes. Get ready for a whole new phenomenon in music."
+}

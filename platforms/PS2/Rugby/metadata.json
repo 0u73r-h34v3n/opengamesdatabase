@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Creative Assembly"],
+	"genres": ["Sports"],
+	"name": "Rugby",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rugby",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Whether you're a longtime rugby fan or you just wanted to learn the game before braving a scrum, you'll enjoy Electronic Arts's action-packed Rugby 2002. The sequel to EA's Rugby 2000 edition lets you choose from 20 international rugby teams ranked across several categories. You can play in all the usual modes, including a tournament mode that contains two international championships and a world championship featuring every rugby-playing nation."
+}

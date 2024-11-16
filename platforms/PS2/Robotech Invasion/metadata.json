@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vicious Cycle"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Robotech: Invasion",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/robotech-invasion",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the 21st century, humankind was freed from the confines of the solar system through the discovery of an alien technology known as Robotech. Now it's time to put that technology to good use as human survivors make one last attempt to liberate Earth from invaders. Jump into a mech suit or inside a Cyclone vehicle, and then maneuver your way through hive raids, gang confrontations, protoculture searches, and more. Complete various objectives in single-player mode, or showcase your skills in two-player split-screen or online modes."
+}

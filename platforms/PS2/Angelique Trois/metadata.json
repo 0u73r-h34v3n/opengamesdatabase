@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei|Koei/Inis"],
+	"genres": ["Simulation"],
+	"name": "Angelique Trois",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is the third installment in the series. Angelique Collet is now queen of the cosmos. She is drawn into a pocket cosmos, Arcadia, with the rest of the Angelique Special 2 cast. She develops the wilderness of Arcadia in order to free Elda, a strange creature she finds there."
+}

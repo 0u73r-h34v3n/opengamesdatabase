@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Global A"],
+	"genres": ["Action"],
+	"name": "Akudaikan 2: Mousouden",
+	"publishers": ["Global A"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This game plays 40 years after the events of the first game. You are still an evil magistrate in historic Japan taking bribes. Now you are trying to overthrow the government. Again, you hire fighters and lay traps against the forces of justice."
+}

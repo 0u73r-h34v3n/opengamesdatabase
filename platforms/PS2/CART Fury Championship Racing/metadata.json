@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gratuitous Games"],
+	"genres": ["Racing"],
+	"name": "CART Fury Championship Racing",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/cart-fury/ps2-14532",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cart-fury-championship-racing",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the zipping arcade rush to your home system, C.A.R.T. FURY is exactly what gamers crave from a Midway game, which is breakneck speed, boatloads of flash and glitz, and hardcore arcade thrills. The company that slammed you with NBA Jam and brutalized you with NFL Blitz has turned yet another sport into a livid reckoning of gameplay. This time, it's racing, and in this game, the hits mean rubbing wheels with the most unforgiving professional racers on the road, and the slams mean..."
+}

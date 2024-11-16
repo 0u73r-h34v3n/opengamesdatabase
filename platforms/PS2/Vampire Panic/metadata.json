@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Alfa System"],
+	"genres": ["Action"],
+	"name": "Vampire Panic",
+	"publishers": ["Sammy Studios"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Vampire Panic is a third-person action game with minor adventure and stealth elements. Controlling one of the three ISLA agents, the player must eliminate the vampire infestation in Insel and escort as many residents as possible to safety outside the town. Vampires can attack by biting either the player or friendly villagers, causing them to start turning; if the transformation completes before the affliction can be healed, villagers will turn into enemies and can no longer be saved, while the player turning results in an immediate game over. The game's story will change depending on which and how many villagers the player is able to rescue."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Torus Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Scooby-Doo! and the Spooky Swamp",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/scooby-doo-and-the-spooky-swamp/reviews/",
+			"score": 6.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In Scooby Doo! and the Spooky Swamp, Scooby-Doo, Shaggy, Daphne, Velma and Fred are on an all-new adventure to uncover the mystery behind a strange swamp girl and her peculiar cauldron of brew. Kids and their friends can travel beyond the swamp and into other haunted locales such as the snow covered Alpine village and the Southwestern ghost town to uncover more clues and solve the mystery of the strange brew."
+}

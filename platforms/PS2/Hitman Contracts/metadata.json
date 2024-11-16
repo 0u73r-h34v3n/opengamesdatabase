@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Io Interactive"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Hitman: Contracts",
+	"publishers": ["Eidos Interactive (US, EU, AU, JP)", "Square Enix (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hitman-contracts",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Explore the dark psychology of killing for a living as you delve into the mind of a ruthless and efficient contract killer. Hitman: Contracts delivers more action-packed missions that require you to eliminate targets from England to China. Now you have a greater variety of ways to make the perfect hit and an increased arsenal of firearms and close-combat weapons at your disposal. Pick up objects like meat hooks, pool cues, shovels, and pillows to use as weapons, and then admire your \"work\" showcased in brutal detail."
+}

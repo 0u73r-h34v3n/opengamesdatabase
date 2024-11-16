@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monster Games|Monster Games Inc."],
+	"genres": ["Racing"],
+	"name": "Test Drive: Eve of Destruction",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/test-drive-eve-of-destruction",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Having the fastest car doesn't guarantee you success in Test Drive: Eve of Destruction. If you can take out your opponents while minimizing damage to your own vehicle, you'll be the last one standing in 25 events, including Demo Derby, Suicide Race, and Figure 8 Race. Choose from more than 12 racing venues and a variety of vehicles, such as buses, hearses, and ambulances, and fight to the finish in single-player races or split-screen multiplayer battles."
+}

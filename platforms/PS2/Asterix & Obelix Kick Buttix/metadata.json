@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Etranges Libellules"],
+	"genres": ["Action", "Fighting"],
+	"name": "Asterix & Obelix: Kick Buttix",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/asterix-obelix-kick-buttix/ps2-653857",
+			"score": 6.7,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/asterix-obelix-kick-buttix",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take a wild adventure around the Roman Empire to free the villagers held captive by Caesar's vast army. You'll join two heroes, Asterix and Obelix, as they use powerful combinations and attack moves to battle hordes of enemies. Your attacks include twister fusion, power hammer, earthquake, atomic magic potion, and more. In addition to fighting, you can race and ride vehicles, solve puzzles, and use different devices. You'll need all the resources you can find to rescue your friends, who are triple locked to carts and guarded by legions of Romans."
+}

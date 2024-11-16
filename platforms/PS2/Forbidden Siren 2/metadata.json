@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Japan Studio"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Forbidden Siren 2",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEE (AU, EU)", "Sony|SCE Korea (KO)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_forbiddensiren2_ps2",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "VideoGamer.com",
+			"url": "https://www.videogamer.com/reviews/forbidden-siren-2-review",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Forbidden Siren 2 is a haunting tale set on the island of Yamijima. The story starts as a group of characters are washed up on the island's shore after their boat is caught in a violent storm. Unbeknownst to them, 29 years earlier, all the inhabitants of the island mysteriously disappeared in a black-out. Up until now, the events of that ill-fated night remain unsolved. But as the chilling sound of a warning siren rings out over the island, the castaways are faced with the awakening of the Shibito (living dead) and the Yamibito (people of the dark).<br>"
+}

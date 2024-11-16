@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Tongue Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "Nicktoons: Attack of the Toybots",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nicktoons-attack-of-the-toybots",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The evil Professor Calamitous is at it again! But this time he's gone too far. He has created evil robots that look just like our Nicktoons heroes! Now, SpongeBob, Jimmy Neutron, Danny Phantom, Timmy Turner, and Tak must stop them and the Professor no matter what it takes. By using new attacks, and awesome mech suits, now you can help our heroes stop the evil professor before he wreaks havoc everywhere!"
+}

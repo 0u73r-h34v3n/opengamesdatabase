@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Platformer", "Compilation"],
+	"name": "Mega Man Anniversary Collection",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mega-man-anniversary-collection",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For 15 years, Mega Man games have appeared on consoles, and now you can play ten of them on one disc.  Mega Man Anniversary Collection includes the first eight Mega Man games plus two that were never-before-released in the U.S.  See how Mega Man has crossed into other media by watching unlockable bonus features, including footage from the original Mega Man TV Series, over 30 original artwork selections, and remixed music tracks inspired by the series."
+}

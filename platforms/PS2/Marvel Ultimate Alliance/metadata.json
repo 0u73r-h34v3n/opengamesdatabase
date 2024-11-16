@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Raven Software"],
+	"genres": ["Action", "RPG"],
+	"name": "Marvel: Ultimate Alliance",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/marvel-ultimate-alliance",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Marvel: Ultimate Alliance is an action/RPG that features the largest roster of comic book characters ever seen in a video game. Players assume the roles of more than 20 Marvel Super Heroes including Spider-Man, Wolverine, Blade and Captain America, and through their actions determine the fate of both planet Earth and the Marvel universe - revealed in one of multiple epilogues. Marvel: Ultimate Alliance offers total team customization, where players create their own team name, icon and vehicle, as well as establish their team reputation as they play throughout the story."
+}

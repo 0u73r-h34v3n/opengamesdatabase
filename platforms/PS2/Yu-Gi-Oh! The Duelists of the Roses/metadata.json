@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Turn-based strategy"],
+	"name": "Yu-Gi-Oh! The Duelists of the Roses",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/yu-gi-oh-the-duelists-of-the-roses/",
+			"score": 5.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/yu-gi-oh!-the-duelists-of-the-roses",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The lineage of Yugi and Kaiba clash again.  Choose your side in the final Rose War in England and fight to collect the opposing army's rose cards to overthrow the enemy.  Attack with your powerful deck, including three exclusive game cards, in order to defeat duelists seen in the animated series.  An all-new card movement system allows full control of over 600 different monsters and introduces advanced strategies never before seen in the Yu-Gi-Oh! world."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Action", "Fighting"],
+	"name": "Samurai Warriors 2: Xtreme Legends",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/samurai-warriors-2-xtreme-legends",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Samurai Warriors 2 takes you back in time, to an era where honor and swordplay defined everything. Long before the twilight of the samurai, Japan was ruled by powerful leaders hungry to unite the land under one banner. The samurai and ninja who defended their land and honor became legends. If you prove yourself worthy and honorable, you can join them."
+}

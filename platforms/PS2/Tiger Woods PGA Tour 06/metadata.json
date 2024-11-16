@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 06",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-06",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tiger Woods 06 pits you against Tiger Woods in a battle to be the best golfer of all time. You can play golf greats in their own eras on their terms to prove that you are the best ever. Tiger Woods 06 includes greater shot control and a \"gamebreaker\" meter that models the momentum of professional golf competition. You can play on 15 courses, both licensed and fantastical. \"Game face\" features return to let you customize a character and take him or her through an entire 52-week PGA season. Tiger Woods 06 also adds more multiplayer modes and capabilities."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Arts"],
+	"genres": ["RPG"],
+	"name": "Grandia Xtreme",
+	"publishers": ["Square Enix|Enix Corporation (JP, US)", "Game Arts (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/grandia-xtreme/ps2-17157",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/grandia-xtreme",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Grandia Xtreme enhances the Grandia series with faster-paced exploration and discovery. The combat system returns with improved special moves and smarter AI. Create new and stronger spells, each with unique effects, as you venture into an enchanting, yet dangerous world. With over 130 different types of monsters and eight elemental lands standing between you and victory, the future of the world looks desperate. Can you avert the disaster rising from the ancient ruins?"
+}

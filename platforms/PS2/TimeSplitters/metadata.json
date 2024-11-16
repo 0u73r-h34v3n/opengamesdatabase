@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Free Radical Design"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "TimeSplitters",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2000/10/24/timesplitters",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/timesplitters",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the hundred years spanning the millennium (1935 - 2035), a disparate bunch of heroes and villains battle against their own challenges. Although each is unaware of the others, they all share an ageless common spirit of adventure - but unknown to them, their daring actions have attracted the attention of the TimeSplitters.   The TimeSplitters - an evil race dwelling outside of time and space. For eons they have manipulated the fate of humanity for their own malign ends - with cursed shards of crystal they have sown fear, greed and conflict throughout history. Now, roused from an ancient sleep, the TimeSplitters cross the threshold from their shadowy dimension - ripping through the fabric of time itself to confront our heroes.  Can our heroes unite against a common enemy to realize a greater destiny? Or will humanity be consigned forever to a realm ruled under the shadow of the TIMESPLITTERS?"
+}

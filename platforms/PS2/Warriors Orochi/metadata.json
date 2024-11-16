@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Warriors Orochi",
+	"publishers": [
+		"Koei (JP, KO, US, EU, AU)",
+		"Koei|Koei Tecmo Games (JP, EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/warriors-orochi",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Without warning, the Serpent King Orochi descended from the heavens. Using his unworldly powers to shatter time and space, Orochi kidnapped the strongest, wisest and most courageous warriors from Ancient China and Feudal Japan to test his might against the heroes of these ages. Most of the great armies of these two periods would succumb to the might of Orochi. Yet powerful warriors remain and are ready to continue the fight. Now, the greatest showdown in history is about to take place."
+}

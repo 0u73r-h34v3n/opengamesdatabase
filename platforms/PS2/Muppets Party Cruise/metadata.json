@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mass Media"],
+	"genres": ["Action"],
+	"name": "Muppets Party Cruise",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/muppets-party-cruise",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kermit, Miss Piggy, Animal, plus all your other favorite Muppets are going on a cruise and you can go with them. In Muppet Party Cruise, you'll play 30 fast minigames to help earn the Muppets a place on the first- class deck. Other Muppet characters appear as you compete in minigames, such as Rhythm Mayhem, Shuffle Chalk, and Bunsen's Burners. Whether you play the full interactive board game, or just jump aboard into the minigames, Muppet Party Cruise delivers plenty of four-player fun."
+}

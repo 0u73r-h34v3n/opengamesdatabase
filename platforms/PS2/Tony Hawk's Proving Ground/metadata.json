@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Page 44 Studios"],
+	"genres": ["Sports"],
+	"name": "Tony Hawk's Proving Ground",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tony-hawks-proving-ground",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tony Hawk's Proving Ground features deeper customization than ever before, including a Video Editor with full-featured editing tools and visual effects for creating epic skate videos, and a fully customizable online Skate Lounge where players can skate with friends in the ultimate pad. In addition, players will have the freedom to skate from single player to online seamlessly, as well as utilize new gameplay mechanics such as skateable terrain altering and building, and Bowl Carving, delivering the most empowered skating experience ever. Tony Hawk-s Proving Ground also features even more Nail the Trick moves such as Nail the Grab and Nail the Manual intensifying the thrill of pulling off big tricks."
+}

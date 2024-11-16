@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-07",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The golden age of console hockey returns with NHL 07, featuring gameplay innovations that make players feel like they are actually on the ice. Featuring an unmatched level of freedom and control, NHL 07 allows hockey purists and casual fans alike to feel like they can play like a pro."
+}

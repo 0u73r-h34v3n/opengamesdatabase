@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["InterActive Vision Games"],
+	"genres": ["Simulation"],
+	"name": "Operation Air Assault",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Operation Air Assault is a fast-paced 3D attack helicopter game that takes place in a conflict not unlike those presently faced around the world. Follow a unique storyline through many dangerous missions to victory - provided you have the skills and courage of an elite chopper pilot!"
+}

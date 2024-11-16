@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Racing"],
+	"name": "Burnout 3: Takedown",
+	"publishers": [
+		"Electronic Arts|EA Games (US)",
+		"Electronic Arts (EU, AU, JP, US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/burnout-3-takedown",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Burnout 3 challenges you to crash into (and through) busy intersections, while creating as much damage as possible. You can battle your way to the front of the pack by taking down rivals and causing spectacular crashes. For those who thirst for crashes, the game includes a crash mode that rewards you for creating massive pileups. With multiplayer gameplay, more than 100 events, and 40 tracks, Burnout 3 provides intense speed and action."
+}

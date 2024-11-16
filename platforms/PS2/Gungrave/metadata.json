@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["RED Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Gungrave",
+	"publishers": ["Sega (JP, US)", "Activision (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gungrave",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gungrave casts you in the role of Grave, a long-dead assassin sent to annihilate a mysterious criminal organization. The tools at your disposal: a gun in each hand and a coffin full of hardware strapped to your back. Gungrave features an intuitive control system that lets you perform a variety of graceful moves, all while unloading more bullets than in a John Woo flick."
+}

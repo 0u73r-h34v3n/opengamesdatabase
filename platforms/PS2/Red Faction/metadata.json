@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Volition|Volition Inc."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Red Faction",
+	"publishers": ["THQ (US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/015/015003.html",
+			"score": 9.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/red-faction",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A revolution has begun on Mars, and you are at the forefront. As part of a rebellious organization known as Red Faction, you must battle through 20 levels that feature deep seas, natural caves, Ultor Corporation's bases, and more. Hijack five land, sea, and air vehicles--each equipped with weapons--including an ATV, a submarine, and a high-flying fighter. Help yourself to 15 weapons of mass destruction, such as railguns, rocket launchers, riot sticks, and heavy explosives. Stealth, cooperation, and action are all important to achieve success."
+}

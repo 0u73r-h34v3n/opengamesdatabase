@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team Ico"],
+	"genres": ["Action", "Adventure"],
+	"name": "ICO",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEI (JP)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/ico/ps2-14833",
+			"score": 9.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ico",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Solve the puzzles or join the tormented souls forever. You are Ico, a boy ostracized and entombed for being born with horns, as he solves a variety of puzzles to escape from a dangerous castle. Ico can leap over precipices and battle shadow wraiths and ethereal creatures with a swing of his walking staff. With the help of his friend Yorda, Ico encounters many mysteries in his quest but one daunting question always remains: Is there ever a way out of this strange place?"
+}

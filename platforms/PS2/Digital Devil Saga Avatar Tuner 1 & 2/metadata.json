@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["Collection"],
+	"name": "Digital Devil Saga: Avatar Tuner 1 & 2",
+	"publishers": ["Atlus"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Korean editions of [[Shin Megami Tensei: Digital Devil Saga]] and [[Shin Megami Tensei: Digital Devil Saga 2]].}}"
+}

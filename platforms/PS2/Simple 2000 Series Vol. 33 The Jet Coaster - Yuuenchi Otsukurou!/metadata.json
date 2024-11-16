@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bimboosoft"],
+	"genres": ["Simulation"],
+	"name": "Simple 2000 Series Vol. 33: The Jet Coaster - Yuuenchi Otsukurou!",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Create insane courses that stretch hundreds of metres into the sky, then send them plummeting back down to earth via the craziest vertical drops, corkscrews and loops imaginable. And all this at well over 100mph!    Once you've created your coaster, drop it into your own amusement park where YOU control everything from the attractions and facilities on offer to the marketing spend and fast food menu. Use the unique Free Walk system to discuss the park with visitors, try out your own facilities and sample all your rides in real time!"
+}

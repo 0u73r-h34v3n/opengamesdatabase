@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Roxor Games"],
+	"genres": ["Music"],
+	"name": "In the Groove",
+	"publishers": ["RedOctane"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/in-the-groove",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get your groove on with the home version of the next generation arcade dance game. In The Groove was designed from the ground up by hardcore dance game fans and represents an incredible leap forward in the genre. While maintaining the same addictive game play of popular dance titles, In The Groove features exclusive, never before seen features like modifiers that make the game arrows spin, change speeds, and boomerang, and move in 3D along with over 60 other amazing effects that create additional challenges and endless customization for dance game fans. Over 70 brand new songs from proven talent and new independent artists, covering a wide variety of genres. Over 550 new step patterns from step artists in the dance community. Unlockable songs and courses. 3 Styles of play: One Player, Two Player, or Double Pad. Up to 5 difficulty levels per song to accommodate all players from beginners to experts. Fast menu navigation and 2 minute songs- spend more time playing. Innovations in step choreography- mines, hands, and quads will have you making new kinds of moves."
+}

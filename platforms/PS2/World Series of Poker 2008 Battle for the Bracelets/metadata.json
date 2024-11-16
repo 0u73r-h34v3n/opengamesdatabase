@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Left Field Productions"],
+	"genres": ["Gambling"],
+	"name": "World Series of Poker 2008: Battle for the Bracelets",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-series-of-poker-2008-battle-for-the-bracelets",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In World Series of Poker 2008: Battle for the Bracelets, players challenge over 30 of the world's top poker champions. With intense heads-up tournament play, expansive poker tutorials, and strategy clips from Phil Hellmuth's Ultimate White to Black Belt Course, players can learn from the very best in the industry and take on all opponents in real-world locations such as Las Vegas and New Orleans. The game features Phil \"The Poker Brat\" Hellmuth Jr. -- owner of a world record eleven WSOP bracelets -- in a special Beat The Brat Heads-Up mode and thrusts players deep into the high-stakes world of tournament poker to face off against other A-list pros such as Johnny Chan, Chris \"Jesus\" Ferguson, and Mike \"The Mouth\" Matusow on the quest to win the championship bracelet for the $10,000 Main Event and over $60MM in total prize money."
+}

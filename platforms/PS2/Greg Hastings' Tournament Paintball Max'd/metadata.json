@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision|Activision Value"],
+	"genres": ["Action", "Shooter"],
+	"name": "Greg Hastings' Tournament Paintball Max'd",
+	"publishers": ["Activision|Activision Value"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/greg-hastings-tournament-paintball-maxd",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Build Your Field - Design and play your own custom fields with the Field Editor. Selecting from three field sizes, thirty-seven different object/bunker types, and ten object textures/skins just gets you started. Now feature yourself in your own MAX'D world by placing your bunkers in an almost infinite number of positions and layouts on the field. You're the MAX'D designer, and the field is your gaming universe. Take the opportunity to angle your bunkers using the Rotate feature, tap the Mirror feature for the quick ability to add bunker symmetry to both sides of the field, and use the Size Editor to bring each bunker to your desired scale. Control Your Team - Mastermind your teammates' movements at the start of the game with the ground-breaking FPS feature - Breakout Manager. You can direct your AI teammates to break for specific bunkers, select teammates to ether run or shoot, and identify the critical Sweet Spot for your Break Shooters to target the other team and take them out early. Career Mode Co-Op lets you join with friends to bust up the pros. Or make them bow to your skills first-hand by taking them on head-to-head."
+}

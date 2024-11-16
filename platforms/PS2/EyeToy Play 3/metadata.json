@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Action"],
+	"name": "EyeToy: Play 3",
+	"publishers": [
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEA (US)",
+		"Sony|SCEI (KO)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-play-3",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The greatest party series around is back for another bout of intensely entertaining family fun and amazing EyeToy innovations, once again courtesy of SCEE London Studio. EyeToy: Play 3 is packed with 12 new and exciting games, stunningly inventive PlayRoom experiments, and a vastly enhanced multiplayer mode that now allows four players to battle it out simultaneously. Whether you want to play alone, or have a great time with your friends and family, EyeToy: Play 3 is guaranteed to get your bodies moving and the party started!"
+}

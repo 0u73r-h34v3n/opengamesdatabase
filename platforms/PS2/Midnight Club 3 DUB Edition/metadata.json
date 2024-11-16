@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar San Diego"],
+	"genres": ["Racing"],
+	"name": "Midnight Club 3: DUB Edition",
+	"publishers": ["Rockstar Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/midnight-club-3-dub-edition",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment in the Midnight Club series arrives with more speed, choices, and chrome than in previous editions. Midnight Club 3: DUB Edition delivers fast, open-city racing in Atlanta, San Diego, and Detroit, complete with eight-player online competition and vehicle customization. Now you can drive authentic SUVs, import tuners, muscle cars, choppers, and luxury rides, and upgrade their rims, trims, and more."
+}

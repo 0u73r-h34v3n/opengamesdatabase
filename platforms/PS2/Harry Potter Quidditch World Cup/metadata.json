@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Magic Pockets"],
+	"genres": ["Sports", "Action"],
+	"name": "Harry Potter: Quidditch World Cup",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2003/11/08/harry-potter-quidditch-world-cup-review",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/harry-potter-quidditch-world-cup",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/harry-potter-quidditch-world-cup-review/1900-6083405/",
+			"score": 6.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Take to the air in a game that allows players to fully experience the magical speed, power, and competition of Quidditch, the favorite sport of witches and wizards.  In Harry Potter: Quidditch World Cup, you'll experience the full complexity and exciting challenge of Quidditch, which involves two teams of seven players who fly on broomsticks, playing four balls simultaneously.  You control every position on a team, including three Chasers who try to score with the Quaffle, two Beaters who control the dangerous Bludgers, the Keeper who protects the goal, and the Seeker who chases the elusive Golden Snitch that must be caught to end the match."
+}

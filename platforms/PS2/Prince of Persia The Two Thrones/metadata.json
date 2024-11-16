@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montreal"],
+	"genres": ["Action", "Adventure"],
+	"name": "Prince of Persia: The Two Thrones",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/12/02/prince-of-persia-the-two-thrones-3",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/prince-of-persia-the-two-thrones",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Prince of Persia returns to his kingdom to find it decimated by war and turned against him in Prince of Persia: The Two Thrones. You can play as the time-bending prince or his evil alter-ego as he tries to return to the throne that is rightfully his. Now there are two distinct characters, each with their own abilities and backgrounds, as you explore the urban setting of Babylon. Prince of Persia: The Two Thrones adds new Sands of Time abilities and an all-new setting for the third chapter in the Prince of Persia story."
+}

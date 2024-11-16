@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NFL Street 3",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-street-3",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With NFL Street 3 you can play your style of football both on the ground and in the air in this newest iteration of the popular NFL Street franchise. Show off your style and boost your score by performing stunning aerial moves, jumping into the air and collecting special items and game modifiers that hover above the playing field. You will also have the ability to control your Gamebreaker and pull off new Power moves that are available to both the offense and the defense."
+}

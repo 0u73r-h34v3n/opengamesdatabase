@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Platformer"],
+	"name": "Frogger: The Great Quest",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/frogger-the-great-quest",
+			"score": 32,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Frogger returns with a brand-new look, style of gameplay, and attitude. Enter Firefly pond and join a magical adventure where an all-new Frogger searches for the princess of his dreams. In 15 expansive environments, Frogger explores dark caverns, goblin trails, swirling streams, perilous swamps, and large castles. You can travel through this fairy tale landscape by jumping platforms or driving vehicles. The game features more than 80 different characters that will help or hinder you in your quest to become a prince."
+}

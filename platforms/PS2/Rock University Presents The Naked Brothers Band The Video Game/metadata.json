@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ"],
+	"genres": ["Music"],
+	"name": "Rock University Presents: The Naked Brothers Band The Video Game",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "The Naked Brothers Band: The Videogame is based on the highly popular Nickelodeon TV show of the same name. This music-based video game allows players to live the superstar life of The Naked Brothers Band. Playing as the band, players will embark on a nationwide tour where they can experience all aspects of being in the band: singing, playing multiple instruments, controlling such stage effects as lighting and pyrotechnics, and even creating live concert videos. Featuring 25 of The Naked Brothers Band's greatest hits."
+}

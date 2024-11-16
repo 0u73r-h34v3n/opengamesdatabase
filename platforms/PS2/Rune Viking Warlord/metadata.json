@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Human Head Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Rune: Viking Warlord",
+	"publishers": ["Take-Two Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rune-viking-warlord",
+			"score": 53,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/07/27/rune-viking-warlord",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/rune-viking-warlord-review/1900-2800307/",
+			"score": 4.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Enter the world of Ragnar, a Viking warrior from a time long past. As a hero handpicked by the gods to defend the Viking nation from the evil god Loki, your task is to dole out justice on the bloodstained edge of your massive battle axe. It is you that is charged with stopping the shadowy warlords from wiping out the Viking bloodline."
+}

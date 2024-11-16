@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Oxygen Interactive"],
+	"genres": ["Sports"],
+	"name": "PDC World Championship Darts 2008",
+	"publishers": ["Oxygen Interactive (EU, AU)", "O-Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pdc-world-championship-darts-2008",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Go head-to-head with the greatest PDC Champions and be part of the years most fierce console Championship with PDC World Championship Darts 2008. Starring even more Champions, the full line up of electrifying tournaments, exceptional graphic enhancements, even more play modes and additional formats - PDC World Championship Darts is back for 2008. The first ten to be announced include Phil The Power Taylor, the greatest player ever to throw a dart, winning his 13th World Championship title in 2006. Raymond The Man van Barneveld, the current World Champion who defeated Taylor in the greatest ever final in January 2007. Also starring in the game are Colin Jaws Lloyd, the number one player in the world in 2004 and 2005, winning two major titles along the way, Peter One Dart Manley, double World Champion John Darth Maple Part from Canada and the ever-popular Wayne Hawaii 501 Mardle."
+}

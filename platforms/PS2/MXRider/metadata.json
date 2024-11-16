@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradigm Entertainment"],
+	"genres": ["Racing"],
+	"name": "MXRider",
+	"publishers": ["Atari (EU)", "Infogrames (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mxrider",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MX Rider is motorbike simulation racing at its best. With more than 50 Officially licensed Motocross World Championship (FIM: Federation Internationale Motocycliste) riders and 16 World Championship circuit tracks spread over 13 countries, MXrider combines Motocross, Supercross and Freestyle for a complete motocross gaming experience that will appeal to both video game racing fans, as well as moto-racing fans. MXrider will place special emphasis on physics for superior handling, along with animated riders, dynamic tracks, team sponsorship offers and active background environments."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Action", "RPG"],
+	"name": "Bomberman Land 3",
+	"publishers": ["Hudson"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Bomberman Land 3 is a spin-off of the popular ''Bomberman'' series and the 3rd game in the ''Bomberman Land'' series. Like the other games in the series, it features minigame-based gameplay. In classic Bomberman Land fashion, the player has to collect various zone pieces by beating minigames in order to open up other zones and progress through the theme park."
+}

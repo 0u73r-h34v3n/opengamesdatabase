@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sims"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Sega Ages 2500 Series Vol. 10: After Burner II",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "You scream off the carrier, there's no time to think! You're caught in a swarm of enemy aircraft and more are dead ahead. They're closing at Mach 5, as your machine guns start blasting. Burn through a sky of flying metal! Radar-lock on the frontal attackers and respond with missiles. Your enemies are specks on the horizon, then instantly they're in your face, launching even faster missiles! Nothing can prepare you for the incredible speed of the attack. Hit your afterburner! Dive and twist! Throw your plane into a 360 roll as the enemy spins by so close you almost touch wing tips. Day or night, dog fight or missile duel - the terrifying speed of battle never lets up. The sky shrieks with metal menace. The intercept officer is screaming \"Look out!\""
+}

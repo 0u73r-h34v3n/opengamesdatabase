@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Hyper Street Fighter II: The Anniversary Edition",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The undisputed champion has returned. Hyper Street Fighter II The Anniversary Edition celebrates 15 years of the greatest beat-em-up of all time by including every character, every move and every combo from the entire Street Fighter II series in one massive game. Settle old scores and long standing arguments as you find out who is the ultimate street fighting warrior in videogame history."
+}

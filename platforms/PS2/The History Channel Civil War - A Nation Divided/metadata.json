@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cauldron|Cauldron Ltd."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "The History Channel: Civil War - A Nation Divided",
+	"publishers": ["Activision"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-history-channel-civil-war---a-nation-divided",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "History Channel: Civil War brings you into America's bloodiest war. Carnage and chaos are everywhere, and withering fire cuts down your best regiments. The screams of the wounded are deafening, but the destiny of a country is in your hands. Rally the troops and organize a counterattack -- Your strategic decision and talent as a commander will decide if the Union is preserved or if Dixie wins its independence."
+}

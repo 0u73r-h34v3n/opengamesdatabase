@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Luxoflux|Luxoflux", "Inc."],
+	"genres": ["Action", "Adventure"],
+	"name": "True Crime: Streets of LA",
+	"publishers": ["Activision (US, EU, JP)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/true-crime-streets-of-la/ps2-481884",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/true-crime-streets-of-la",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As Nick Kang, your brutal reputation and lethal skills have landed you a nasty job:  heading up an undercover task force to stop the Chinese and Russian gangs from terrorizing Los Angeles.  Drive, fight, and blast your way through a massive array of unpredictable missions, using stealth techniques, martial arts moves, and an ask-questions-later arsenal.  True Crime features a branching storyline that gives you the freedom to complete missions as you choose and face the consequences later.  The hardcore streets of L.A.  have met their match."
+}

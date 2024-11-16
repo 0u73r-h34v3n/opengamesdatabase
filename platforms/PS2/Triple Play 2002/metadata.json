@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Sports"],
+	"name": "Triple Play 2002",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/triple-play-2002",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step up to the plate and swing for the fences with Triple Play 2002 for the Xbox. The action on the field comes to life with real player models and dramatic out-of-play sequences, giving players the chance to experience big game moments such as a game-winning hit or a key strikeout."
+}

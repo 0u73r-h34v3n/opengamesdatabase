@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FUN Labs"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "NPPL Championship Paintball 2009",
+	"publishers": ["Activision|Activision Blizzard"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nppl-championship-paintball-2009",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NPPL Championship Paintball 2009 will feature multiple game modes, officially-licensed gear, and authentic tournament locations and field layouts from the NPPL, the Millennium European Paintball Series, and the XPSL. Players can perfect their skills as they progress from a rookie to pro in career mode and take on the best paintball teams in the world, or get online for an adrenaline rush of intense, cutthroat multiplayer action."
+}

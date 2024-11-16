@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spike"],
+	"genres": ["Racing"],
+	"name": "Riding Spirits",
+	"publishers": ["Spike (JP)", "Bam Entertainment (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/riding-spirits",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hit the road on 200 fast motorcycles from companies like Yamaha, Honda, and Suzuki. Now is your chance to sit astride these racing rockets and speed to victory, winning cash along the way. Spend your winnings on new bikes and all the racing gear you'll need to make you look as good as you ride. Visit the shop where you can add better wheels, tighter suspension, and bigger engines to your bike. Anyone can wheel a bike out of a dealership, but can you tune yours to be a winner?"
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Fighting", "Arcade", "Compilation"],
+	"name": "Art of Fighting Anthology",
+	"publishers": ["SNK Playmore (JP, US)", "Crave (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/939059-art-of-fighting-anthology/index.html",
+			"score": 65,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/art-of-fighting-anthology",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Art Of Fighting Anthology brings together all 3 of the popular Art Of Fighting games, for epic one-on-one fighting action. Face off against the world's best martial artists in best two out of three matches. Use punches, kick and Super Attacks to take out colorful and dangerous opponents. While doing this, you'll also open up the story of crooked cops and bloodthirsty killers that sets the stage for the later \"Fatal Fury\" games."
+}

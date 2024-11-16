@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "The King of Fighters NeoWave",
+	"publishers": ["SNK Playmore (JP, AU, US)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-fighters-neowave",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "KOF Neowave features 12 three-man teams made up of some of the greatest characters from SNK's 11-year history, including the Women Fighters Team (Mai, King and Yuri) and the Fatal Fury Team (Terry, Joe, and Andy). NEOWAVE features three modes of play - Super Cancel, Guard Break, and Max2. A new \"Heat Mode\" lets players power up their attacks in exchange for a gradual loss of health. Xbox Live support featuring head-to-head fighting and Tournament Mode. A total of 43 characters including 7 Bonus characters. 12 of the most dangerous fighting teams ever assembled. Pick your team and fight it out in the original 3-on-3 battle format. Beautifully rendered background graphics. Activate \"Heat Mode\" to power-up your attacks. Revives the evacuation rolling maneuver and thrust attacks. Over-the-top Super Special Moves. 3 modes of play: Super Cancel, Guard Break and Max2. Link a Special Move with a Super Attack in the Super Cancel Mode to cause extreme damage."
+}

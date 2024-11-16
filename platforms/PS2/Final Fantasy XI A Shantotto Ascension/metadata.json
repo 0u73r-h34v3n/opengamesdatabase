@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: A Shantotto Ascension",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-U"],
+	"synopsis": "The third and final expansion scenario for [[Final Fantasy XI]] bringing along with it new quests, items, rewards, and agumentations."
+}

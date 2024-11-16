@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "Dengeki PlayStation D89",
+	"publishers": ["Media Works"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{DengekiInfo}} This DVD-video only disc was issued with Dengeki PlayStation 343-th edition. Contains trailers, game guides and game footage for games ''Pop'n Music'', ''Disgaea 2: Cursed Memories'', ''Monster Hunter 2'' and many more."
+}

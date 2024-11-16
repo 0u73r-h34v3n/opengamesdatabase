@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "Charlie and the Chocolate Factory",
+	"publishers": ["Global Star Software (US)", "2K|2K Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/charlie-and-the-chocolate-factory",
+			"score": 35,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step inside the magical world of Willy Wonka's famous chocolate factory. Based on the Warner Bros. film and the classic novel by Roald Dahl, Charlie and the Chocolate Factory lets you delve deep inside the factory to relive the classic story as Charlie Bucket. Find a golden ticket and, along with four other children, win a personal tour of Willy Wonka's factory as guided by the notorious and reclusive candy maker himself. Discover what happens after the other children, greed-driven and unrestrained, wreak havoc throughout the factory."
+}

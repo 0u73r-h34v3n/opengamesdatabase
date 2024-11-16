@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Tools", "Action", "Adventure"],
+	"name": "The Document of Metal Gear Solid 2",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"synopsis": "The Document of Metal Gear Solid 2 gives a behind-the-scenes look at Metal Gear Solid 2: Sons of Liberty. You'll receive a thorough education on all aspects of Sons of Liberty, including original concept plans, rare video footage and trailers, and even programming secrets. Also included are playable VR training missions from Metal Gear Solid 2: Substance. With in-depth footage and insider information, The Document of Metal Gear Solid 2 is a complete resource guide for Metal Gear Solid fans."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["i4 Corporation|i4 Corporation / David Fotland"],
+	"genres": ["Board"],
+	"name": "AI Igo 2003",
+	"publishers": ["GeneX"],
+	"regions": ["NTSC-J"],
+	"synopsis": "AI Go is a computer Go program written by David Fotland and adapted for the PS2 by i4 Corporation."
+}

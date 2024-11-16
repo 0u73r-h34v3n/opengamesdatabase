@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Star Wars: Battlefront II",
+	"publishers": ["LucasArts (EU, US)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-battlefront-ii",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This sequel to Star Wars Battlefront improves upon its predecessor with a variety of gameplay enhancements, such as upgraded AI, more than 16 new battlegrounds, and greater story emphasis. In addition to the rebel, clone, and droid warriors from the original game, you can play as a Jedi, complete with lightsaber attacks and force powers. Take part in land and space battles from the Star Wars movie series, and pilot a variety of new aircraft, including X-Wings, TIE fighters, and Jedi Starfighters. Star Wars Battlefront also includes online multiplayer modes for battling other gamers."
+}

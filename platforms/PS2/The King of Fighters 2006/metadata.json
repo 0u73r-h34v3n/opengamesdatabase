@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "The King of Fighters 2006",
+	"publishers": [
+		"SNK Playmore (JP, US, KO, AU)",
+		"Ignition Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-fighters-2006",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enhanced 3D graphics and game play mechanics. The King of Fighters 2006 takes the fighting genre to a whole new level. Several new KOF characters, as well as returning favorites and hidden bonus characters. Classic SNK characters Kula Diamond and Billy Kane, for the first time in 3D. Beautiful background stages including NEOGEO Land. In-depth storyline featuring a different ending for each character. All-new mini-games. English and Japanese voice options."
+}

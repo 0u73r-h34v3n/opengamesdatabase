@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Kuon",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Nobilis (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kuon",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An experience like no other - this timeless, Japanese horror story creeps into your soul. The tune of Japanese Taiko Drums and the Dark Hymns of children are heard throughout the night. Residents wander like ghosts, and hungry demons creep in the darkness. The Heian-kyo Period of Ancient Japan where mysticism and magic will require you to reach deep within your soul to uncover the mysteries of the undead. A dark 3D adventure that comes to life in stunning detail with atmospheric lighting,..."
+}

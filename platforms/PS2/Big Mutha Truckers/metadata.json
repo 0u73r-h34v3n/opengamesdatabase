@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Big Mutha Truckers",
+	"publishers": ["Empire Interactive (EU)", "THQ (US)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/big-mutha-truckers",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's a redneck family fight to see who inherits the family trucking business.  As one of four zany characters in Big Mutha Truckers including Bobbie-Sue, Cletus, Earl, and Rawkus, you have 60 days to earn the most money by hauling cargo.  Drive various massive 18-wheelers around five cities as you battle bikers, avoid truck-jackers, outrun the corrupt police force, and discover new routes and bonuses.  The race to the finish is full of obstacles--don't let anything get in your way."
+}

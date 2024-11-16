@@ -1,0 +1,41 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DMA Design"],
+	"genres": ["Action", "Adventure"],
+	"name": "Grand Theft Auto III",
+	"publishers": [
+		"Rockstar Games (US, JP)",
+		"Take-Two Interactive (EU, AU)",
+		"Capcom (JP)",
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_gta3_ps2",
+			"score": 10,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/grand-theft-auto-iii",
+			"score": 97,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/10/22/grand-theft-auto-iii-3",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/grand-theft-auto-iii-review/1900-2820025/",
+			"score": 9.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Crime does pay.  The highly controversial Grand Theft Auto franchise moves into 3D in the dark and seedy underworld of Liberty City.  You play a crook with link to the Mafia.  A man named 8-Ball assigns you tasks ranging from delivering an item to killing the leaders of rival gangs.  But you don't have to take that route, as Grand Theft Auto III gives you the freedom to go anywhere and cause your own trouble.  Some of your activities might consist of jacking people's cars, beating pedestrians, and testing out your huge arsenal of weapons--including assault rifles, shotguns, rocket launchers, and flamethrowers--on the police."
+}

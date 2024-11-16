@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kalisto"],
+	"genres": ["Racing"],
+	"name": "NYR: New York Race",
+	"publishers": ["Wanadoo"],
+	"regions": ["PAL"],
+	"synopsis": "Throw yourself headlong into a frenetic race at 500 mph through New York of the \"Fifth Element\"! Take nosedives into the dizzying maze of streets to pick up speed, attack your opponents with fire bonuses, zip past both static and moving obstacles, leaving destruction in your wake. Take your pick from more than 25 airborne vehicles, including the famous taxi and the Police car."
+}

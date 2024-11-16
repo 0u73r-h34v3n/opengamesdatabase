@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 2003",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU)"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-2003",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA Football 2003 delivers the tradition and spirit of college football's storied programs with intense rivalries, authentic stadium atmospheres, and realistic gameplay. You'll choose from 117 Division 1-A and 27 Division 1-AA schools across the country, or create your own, and then coach your school through a variety of game modes. In Dynasty mode, you can recruit the best athletes, redshirt your developing players, and use TV exposure to gain status as you build a dominating force in the NCAA. NCAA Football 2003 also features a variety of new moves--including play fakes, spins, and one-foot toe drag--which you must master in order to reach the championship."
+}

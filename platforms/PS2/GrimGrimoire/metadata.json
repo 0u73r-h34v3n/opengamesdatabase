@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vanillaware"],
+	"genres": ["RTS"],
+	"name": "GrimGrimoire",
+	"publishers": [
+		"Nippon Ichi Software (JP, KO)",
+		"Nippon Ichi Software|NIS America (US)",
+		"Koei (AU, EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/grimgrimoire",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Lillet Blan is a young magician admitted to a prestigious magic school, the Tower of Silver Star. Though she attends normal classes for the first four days and meets the various professors and students, on the fifth day Lillet awakens to learn that everyone in the tower is dead. Before she is killed as well, she is suddenly propelled back in time to her first night at school. Lillet then proceeds to relive the five days before the tragedy over and over again, retaining the knowledge of magic she learns in those five days and desperately trying to solve the mystery to prevent the same events (or worse) from taking place on the fifth day. Over the course of the plot, Lillet discovers dark secrets about her classmates, teachers, and even the academy itself, all of which will lead her to the truth."
+}

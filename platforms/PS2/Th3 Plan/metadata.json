@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eko Software"],
+	"genres": ["Action", "Shooter"],
+	"name": "Th3 Plan",
+	"publishers": ["Ghostlight (EU)", "Crave (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/th3-plan",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Th3 Plan sees sly mastermind Robert Taylor surround himself with some of most devious and highly skills professionals with one objective in mind - steal two famous Rembrandt paintings and sell them on for a nice profit. The fact that one of the paintings is held by Taylor's old partner who sold him down the river on a previous job adds extra spice and incentive to the task."
+}

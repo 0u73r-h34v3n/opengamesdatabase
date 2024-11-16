@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Silent Hill: Shattered Memories",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/silent-hill-shattered-memories",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Re-imagine of the first game with new gameplay, plot and characters, Shattered Memories promises to be more terrifying than ever. The choices the players make will shape Harry Mason, as well as the people he meets and the places he visits.  The enemies evolve as well, taking the form of the player's deepest fears."
+}

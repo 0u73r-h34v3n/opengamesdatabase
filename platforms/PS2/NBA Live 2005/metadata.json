@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NBA Live 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-live-2005",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Elevate your game on both ends of the court with NBA Live 2005. Create new dribble moves, flashy dunks, and tenacious defensive plays that express your individual style--all with a touch of the right analog stick. The new 10-man Freestyle implementation enhances individual player movements and floor spacing, putting you in the middle of the action. Enhanced player graphics reproduce NBA players with realistic faces, hairstyles, jerseys, and shoes. NBA Live 2005 also offers a deeper Dynasty mode, where you can watch your franchise flourish for 25 seasons."
+}

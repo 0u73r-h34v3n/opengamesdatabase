@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ignition Entertainment"],
+	"genres": ["Puzzle"],
+	"name": "Mercury Meltdown Remix",
+	"publishers": ["Ignition Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mercury-meltdown-remix",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mercury Meltdown is a brain-teasing puzzle game that challenges players to immerse themselves in a colorful world of sci-fi machines, crazy characters and bubbling test tubes. Players take control of a liquid mercury 'blob', guiding it around traps, door switches, spikes, moving floors and other hazardous elements in order to complete the level. Over 200 thought provoking levels - more than any previous Mercury title. Two never-before seen Labs. Dual analog control with Rumble feedback. State-of-the-art blob physics including normal mercury, solid, cold and hot forms. Freeform game progression. Hidden features to unlock."
+}

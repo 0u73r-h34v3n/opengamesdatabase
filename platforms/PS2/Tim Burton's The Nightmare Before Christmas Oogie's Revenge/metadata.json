@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tim Burton's The Nightmare Before Christmas: Oogie's Revenge",
+	"publishers": [
+		"Capcom (JP)",
+		"Buena Vista Interactive (JP, EU)",
+		"Buena Vista Games (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tim-burtons-the-nightmare-before-christmas-oogies-revenge",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the animated movie, Tim Burton's The Nightmare Before Christmas: Oogie's Revenge continues the story of Jack Skellington, Oogie Boogie, and other familiar favorites. In the game, you'll assume the role of Jack Skellington, the Pumpkin King of Halloween Town, who must help reclaim the town from the mischievous Oogie Boogie and his henchmen. Jack has a variety of attack options, including his trusty \"rubber soul\" attack, and real-time costume changes."
+}

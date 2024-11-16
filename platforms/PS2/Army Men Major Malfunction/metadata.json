@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team 17"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Army Men: Major Malfunction",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/army-men-major-malfunction/",
+			"score": 3.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Army Men series is back in Army Men: Major Malfunction. The game features over 30 missions, 23 different enemy toys, over 16 lethal weapons, and different games modes."
+}

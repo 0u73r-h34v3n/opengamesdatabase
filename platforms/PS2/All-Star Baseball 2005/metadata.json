@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Sports"],
+	"name": "All-Star Baseball 2005",
+	"publishers": ["Acclaim"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/all-star-baseball-2005",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As the baseball season gets into full swing, immerse yourself in the game with All-Star Baseball 2005, which features online head-to-head play and a deeper Franchise mode. Realistic views from the new FielderCam and BroadcastCam bring you closer to plays. Find the perfect swing with analog-control batting, and then show your slugging skills either online or in the deep Franchise mode. All-Star Baseball 2005 also features extra challenges, create-a-player, and over 80 stadiums--including current MLB parks, legendary stadiums, spring training stadiums, and fantasy parks."
+}

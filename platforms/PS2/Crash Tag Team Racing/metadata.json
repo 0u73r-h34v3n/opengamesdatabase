@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Radical Entertainment"],
+	"genres": ["Racing"],
+	"name": "Crash Tag Team Racing",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/927300-crash-tag-team-racing/index.html",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crash-tag-team-racing",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For the first time ever in a racing game, players will be able to fuse two cars together on the fly to form a super vehicle with the all-new \"clashing\" technology. In Crash Tag Team Racing, players can combine their car with an opponent's mid-race to make a super-car equipped with a powerful turret gun. When clashed, players can either get behind the wheel and drive or fire an onboard weapon. Each character has his or her own uniquely deadly 360˚ rotating turret. Players can continue the action out of the car where they can explore the entire world on foot and collect upgrades for their cars and unlock bonus tracks."
+}

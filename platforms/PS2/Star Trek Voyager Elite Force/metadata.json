@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pipe Dream Interactive"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Star Trek: Voyager Elite Force",
+	"publishers": ["Majesco (US)", "Codemasters (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/star-trek-voyager-elite-force",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "One blast from destruction, the U.S.S. Voyager is mysteriously transported into a null space infested with danger. As part of Voyager's elite Hazard Team, you must defend it from a host of scavenging aliens, then infiltrate a Borg cube and derelict vessels to eradicate your deadly foes. The Quake III Arena&trade; engine powers the dynamic gameplay as you fight for survival through ultra-intense single-player missions and over 30 multiplayer arenas. It's fight-person shooter action that won't quit. But, be prepared - if Voyager is destroyed, humanity won't be far behind..."
+}

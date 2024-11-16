@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Adventure"],
+	"name": "Lego Indiana Jones: The Original Adventures",
+	"publishers": ["LucasArts (US, AU, EU)", "Activision (JP)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lego-indiana-jones-the-original-adventures",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "LEGO Indiana Jones: The Original Adventures takes the fun and creative construction of LEGO and combines it with the wits, daring and non-stop action from the original cinematic adventures that enthralled audiences everywhere (Indiana Jones and the Raiders of the Lost Ark, Indiana Jones and the Temple of Doom and Indiana Jones and the Last Crusade)."
+}

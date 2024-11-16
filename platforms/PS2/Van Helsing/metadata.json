@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Saffire"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Van Helsing",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/van-helsing",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Deep within the mysterious land of Transylvania, monsters that inhabit man's deepest nightmares take form. One man's destiny, and curse, is to vanquish evil and destroy the lethal and powerful Count Dracula. Descend into the murky depths of the Carpathian Mountains as legendary monster hunter Van Helsing. As Van Helsing you'll battle Dracula, The Frankenstein Monster, The Wolf Man and other fiendish creatures with an array of deadly weapons and special abilities."
+}

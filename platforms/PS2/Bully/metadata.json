@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar Vancouver"],
+	"genres": ["Action", "Adventure"],
+	"name": "Bully",
+	"publishers": [
+		"Rockstar Games (US, EU, AU, JP)",
+		"Bethesda Softworks (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/746/746536.html",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/bully",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rockstar Games brings their unique storytelling to the perils of the schoolyard in Bully. As a troubled schoolchild at Bullworth Academy, you can to stand up to bullies, deal with malicious teachers, play pranks on other schoolchildren, and try to get the girl in this story-driven action game. Bully adds humorous tongue-in-cheek storylines and situations to the schoolyard hi-jinks."
+}

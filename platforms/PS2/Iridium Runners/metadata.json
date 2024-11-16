@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Playstos Entertainment"],
+	"genres": ["Racing"],
+	"name": "Iridium Runners",
+	"publishers": ["SouthPeak Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/iridium-runners",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in the year 2050, the Iridium Championship is a series of athletic on-foot races sponsored by futuristic mega corporations, where pure speed isn't necessarily the only route to winning on the game's wildly inventive tracks. Combinations of collectable power-ups and weapons add to the frenetic pace, opening up a wide range of options for securing victory over the other contestants. Iridium Runners will feature several game modes, from full championship to single race, with the highlight being split-screen multiplayer."
+}

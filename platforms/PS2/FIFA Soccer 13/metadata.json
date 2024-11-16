@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 13",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "FIFA 13 captures all the drama and unpredictability of real-world soccer, and is driven by five game-changing innovations which revolutionize artificial intelligence, dribbling, ball control and physical play. It is the largest and deepest feature set in the history of the franchise. These innovations create a true battle for possession across the entire pitch, deliver freedom and creativity in attack, and capture all the drama and unpredictability of the real-world game."
+}

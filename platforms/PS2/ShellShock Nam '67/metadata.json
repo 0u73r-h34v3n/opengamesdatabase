@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Guerrilla"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "ShellShock: Nam '67",
+	"publishers": ["Eidos Interactive (EU, US)", "Square Enix (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shellshock-nam-67",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As a rookie soldier on your first tour of duty, you'll experience all the fear, chaos, and atrocities of the Vietnam War. From the napalm bombardments of civilian villages and the gruesome Viet Cong booby traps to the permanent threat of invisible foes and deadly ambushes, ShellShock: Nam '67 puts you in the middle of brutal warfare. Fight your way through a variety of missions ranging from large-scale battlefield encounters with the North Vietnamese Army to stealth-based missions such as assassinating a Viet Cong general. You can use not only a range of U.S. weaponry, but also the enemies' own weapons."
+}

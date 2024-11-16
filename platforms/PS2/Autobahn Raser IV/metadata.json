@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Davilex"],
+	"genres": ["Racing"],
+	"name": "Autobahn Raser IV",
+	"publishers": ["Davilex"],
+	"regions": ["PAL"],
+	"synopsis": "Race through Berlin, Munich and Hamburg, then try your luck in Paris, London, and Vegas in this off-shoot of the A2/London Racer series of games from Davilex. The fourth edition introduces a two-player mode, five selectable characters, and matching rides."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Best Media", "ALU"],
+	"genres": ["Collection"],
+	"name": "The Bushidou & The Sniper 2",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Simple 2000 Series Vol. 28: The Bushido - Tujigiri Ichidai]] and [[Simple 2000 Series Vol. 16: The Sniper 2]].}}"
+}

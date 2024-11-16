@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ"],
+	"genres": ["Sports"],
+	"name": "WWE All Stars",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/wwe-all-stars/ps2-77296",
+			"score": 7.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "WWE All Stars will deliver one of the greatest rosters ever assembled in a wrestling-centric videogame.  Renowned WWE Legends will align with today's most prominent Superstars, inviting players to generate fantasy matches and ultimately determine the greatest competitors of all time.  In addition, each Legend and Superstar will boast a distinctive and highly stylized appearance, adding to the overall atmosphere and intrepid attitude exuding from the on-screen action."
+}

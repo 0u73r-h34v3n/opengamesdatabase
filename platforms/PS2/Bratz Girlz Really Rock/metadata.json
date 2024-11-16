@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action"],
+	"name": "Bratz: Girlz Really Rock",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/bratz-girlz-really-rock",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This is your chance to be a superstar! Practice lead guitar, keyboard, or dance and rock out live on stage. Check out the Fashion Designer Suite to create wicked outfits, apply killer make-up and try out some fabulous hairstyles. Take five and catch some air skydiving, or hit the mini-golf course in single or multiplayer modes."
+}

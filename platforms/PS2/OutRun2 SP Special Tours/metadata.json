@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sumo Digital"],
+	"genres": ["Racing"],
+	"name": "OutRun2 SP Special Tours",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is an upgrade version of Outrun 2 with 15 all-new courses which are predominantly based around a New World theme. <br> All new courses, songs and game elements now appear (alongside the originals and new content) in the home video-game [[OutRun 2006: Coast 2 Coast]]."
+}

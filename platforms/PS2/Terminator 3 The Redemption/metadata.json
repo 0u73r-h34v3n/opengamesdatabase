@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradigm Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Terminator 3: The Redemption",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/terminator-3-the-redemption",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the shoes of the Terminator in a postapocalyptic universe. With machines and vehicles straight from the Terminator films, you'll engage enemies in ground and air combat. As humanity's most powerful weapon, you can perform a variety of actions--including ripping out opposing Terminators' power cells and using them as high-powered explosive devices, using dismantled Endoskeletons as shields, and smashing opponents to pieces with metal-bending hand-to-hand moves. Fight for the cause through three distinct timelines across massive worlds."
+}

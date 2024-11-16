@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Toka"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Hidden Invasion",
+	"publishers": ["Swing! Deutschland (EU)", "Conspiracy Entertainment (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hidden-invasion",
+			"score": 39,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When mysterious aliens attack the world, your special operations unit is called into action. As the leader of your team, you must coordinate an attack on the alien threat. Along the way, the mystery behind the invasion unravels as enemies become friends and friends become enemies. You can uncover the government cover-up alone or cooperatively with a friend. With 16 levels spanning interactive 3D environments, you'll need all the help you can get."
+}

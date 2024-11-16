@@ -1,0 +1,40 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Fighting"],
+	"name": "Tekken 5",
+	"publishers": [
+		"Namco (JP, US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (KO)",
+		"Sony|SCE Korea (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/02/26/tekken-5/",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/tekken-5-reviews/1900-6119171/",
+			"score": 9.2,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_tekken5_ps2",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tekken-5",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "After the death of Heihachi Mishima, the fifth King of Iron Fist Tournament began. Tekken 5 lets you join this battle as one of many characters, including three fighters who are new to the Tekken series. This time, the environments feature destructible objects and dangerous obstacles. Customize your character with a variety of accessories, such as beanies, glasses, and costumes. Beat the game with each character to learn his or her story."
+}

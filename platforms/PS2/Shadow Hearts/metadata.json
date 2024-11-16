@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sacnoth"],
+	"genres": ["RPG"],
+	"name": "Shadow Hearts",
+	"publishers": ["Aruze Corp (JP)", "Midway (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shadow-hearts",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With a mix of turn-based strategy and role-playing game elements, Shadow Hearts presents a magical quest within a deep storyline. The story comes to life with complex characters, intense battle sequences, and unique gameplay mechanics that give you complete control of the action. You play Yuri--the son of a Chinese war hero--as he attempts to uncover an evil scheme and unravel the many mysteries surrounding Shadow Hearts. <br/>"
+}

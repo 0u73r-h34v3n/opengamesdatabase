@@ -1,0 +1,30 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["RED Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Gungrave: Overdose",
+	"publishers": [
+		"RED Entertainment (JP)",
+		"Mastiff (US)",
+		"Play It! (EU)",
+		"DreamCatcher Interactive (EU)",
+		"System 3 (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/gungrave-overdose/ps2-614676",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/gungrave-overdose",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Delve into this action-packed sequel to Gungrave. This time, you can choose to play as the wrathful swordsman Juju Kabane, the rock star Rocketbilly Redcadillac, or the undead hero Beyond the Grave. Each character has a different set of attacks and high-powered weapons. With your arsenal of weapons and moves, you'll fight your way through nine stages of challenging enemies. Kill with elegance to gain points and unlock hidden movies."
+}

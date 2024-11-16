@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["RPG"],
+	"name": "Ephemeral Fantasia",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ephemeral-fantasia",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ephemeral Fantasia puts you in the role of Mouse, a traveling musician and part-time thief, who was hired to sing at a royal wedding. An evil sorcerer, however, casts a spell on the island, causing the day before the wedding to repeat over and over again. With ten characters--each with different abilities and characteristics--you must break this spell and bring peace and harmony back to the island. You'll face 160 types of foes, including goblins and dragons, in colorful fantasy environments. The clock keeps ticking whether you play or not, as night and daytime cycles affect in-game events."
+}

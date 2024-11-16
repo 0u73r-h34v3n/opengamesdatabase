@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pacific Century Cyber Works"],
+	"genres": ["Action"],
+	"name": "Raging Blades",
+	"publishers": ["Pacific Century Cyber Works (JP)", "Wanadoo (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/raging-blades/reviews/",
+			"score": 5.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Are you ready to fight against an evil god and 7 dark races from hell? In the role of the Iria the Valkyrie, Gray the Knight, Ray the Wzard, Tina the Monk or Bud the Warrior use your sword or magic skills to prevent an age of darkness from sweeping their homeland."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Music"],
+	"name": "PopStar Guitar",
+	"publishers": ["XS Games"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/popstar-guitar",
+			"score": 40,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jam to the hottest hits!   STEP UP TO THE CHALLENGE - Get a quick blast with single player & multi-player mini games.  GLAMORIZE - Form a band and customize by shopping for the latest fashions and raddest instruments.  FIND FAME AND FORTUNE - Perform over 50 Pop Hits on your way to stardom."
+}

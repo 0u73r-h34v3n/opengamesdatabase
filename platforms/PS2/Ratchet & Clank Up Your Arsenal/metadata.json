@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Insomniac Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ratchet & Clank: Up Your Arsenal",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEI (JP, AS, KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ratchet-clank-up-your-arsenal",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Ratchet & Clank: Up Your Arsenal, Ratchet and Clank once again team up for an all-new adventure that combines diverse gameplay with elements of action, exploration, adventure, puzzle-solving, strategy, and role-playing into one experience. Together with the Q-Force, Ratchet and Clank set off to uncover the schemes of the sinister Dr. Nefarious and keep the galaxy safe for organic life. As one of three characters, you can now wield new weapons and gadgets, gain access to an array of vehicles, and master all-new abilities. The game also features both single-player and multiplayer (offline and online) gameplay."
+}

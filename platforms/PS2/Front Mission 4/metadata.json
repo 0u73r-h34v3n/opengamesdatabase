@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Turn-based strategy"],
+	"name": "Front Mission 4",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/front-mission-4/ps2-573997",
+			"score": 6.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/front-mission-4",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Front Mission series makes its debut on the PlayStation 2 with an enhanced battle system, new Link System, and dramatic voice-overs. Set in 2096, Front Mission 4 takes place six years after the Second Huffman Conflict, the stage for the original Front Mission. Your point of view switches between two separate characters, who find themselves trapped within a dangerous global conspiracy. As in the previous games, you can fully customize your wanzers--or mech units--with a variety of powerful weaponry and parts. In addition, new tactical features, such as the Link System, bring a new dimension of strategy to the game."
+}

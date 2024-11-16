@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Shooter"],
+	"name": "Police 24/7",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "In Police 24/7 instead of merely standing in one place and shooting enemies before you are shot, the game uses camera to determine a player's location; through this, the player is able to dodge around, duck to avoid bullets (and reload), and lean out to maximize cover and get a better shot. This is not foolproof, however; enemies will continue to shoot while the player is hiding, so it is possible to rise up and immediately get shot if the player is not careful. Also, like Time Crisis, the timer is continually running down, so one cannot hide for very long."
+}

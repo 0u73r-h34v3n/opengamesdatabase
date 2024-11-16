@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tenky"],
+	"genres": ["Adventure"],
+	"name": "Full House Kiss 2",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Mugi Suzuhara, who found her disappeared sister and returned to a peaceful life in the previous game, is back at the Shokei Gakuen school - as a student this time."
+}

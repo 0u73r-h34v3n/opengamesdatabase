@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["4J Studios"],
+	"genres": ["Sports"],
+	"name": "Breeders' Cup World Thoroughbred Championships",
+	"publishers": ["Bethesda Softworks"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/breeders-cup-world-thoroughbred-championships",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the only game officially licensed by the NTRA: Breeders' Cup World Thoroughbred Championships. With thousands of horses, the ability to race your own thoroughbred, play the ponies, and even build your own stable, Breeders' Cup is the horse racing game with something for everyone. Perform well enough and maybe you can race against some of the greatest thoroughbreds of all time. Breed and train your own custom horses in Stable mode - even create your own silks. Race at top racetracks from all over North America, including Del Mar, Belmont Park, Keeneland and many more. Dynamic weather system including rain, wind, and heat, that can drastically change the track conditions - and the outcome of a race. TV-style coverage of all the racing action including race calling by Breeders' Cup announcer, Tom Durkin. Sophisticated wagering system provides accurate odds on the race by incorporating all the factors that professional handicappers use."
+}

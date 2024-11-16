@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Rock Band Track Pack Volume 1",
+	"publishers": ["MTV Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "A fully functional game with all the great features of Rock Band, including: Solo and Band Tour Mode, Quickplay, Tug of War, Score Dual, and song unlock progression."
+}

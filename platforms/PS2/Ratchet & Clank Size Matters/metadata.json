@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Impact Games"],
+	"genres": ["Action", "Shooter", "Arcade", "Platformer"],
+	"name": "Ratchet & Clank: Size Matters",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (KO, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ratchet-clank-size-matters",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "While on a much needed vacation, Ratchet and Clank's rest and relaxation time is suddenly cut short as they soon find themselves lured into a mysterious quest. Following the trail of a kidnapped girl, Ratchet and Clank rediscover a forgotten race of genius inventors known as the Technomites. They soon uncover a plot more dangerous than they could have imagined."
+}

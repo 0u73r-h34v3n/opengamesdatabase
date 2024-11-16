@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 5",
+	"publishers": ["Koei (JP, US, EU)", "Koei|Koei Tecmo Games (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/925558-dynasty-warriors-5/index.html",
+			"score": 70,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dynasty-warriors-5",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Dynasty Warriors 5, you can become a hero in feudal Japan. Combat enemy armies using weapons, mounts, and special attacks. Dynasty Warriors 5 adds new playable characters, weapons, combos, maps, and game modes. Now, maps are larger, and the enemies are smarter. Dynasty Warriors 5 also adds animal teammates and a revamped weapon system to your arsenal to help you conquer 38 newly-designed maps."
+}

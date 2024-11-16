@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Guitar Hero Encore: Rocks the 80s",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guitar-hero-encore-rocks-the-80s",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fans can once again whip out their Gibson-shaped SG guitar controllers and shred to their favorite rock tracks. PS2-exclusive Guitar Hero: Rocks the 80s features retro rock venues and hipster characters, unlockable guitars, intense game play modes, and most importantly 30 awesome new songs to experience the ultimate rock star fantasy."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Play It!"],
+	"genres": ["Arcade", "Compilations"],
+	"name": "Arcade Classics Volume 1",
+	"publishers": ["Play It! (EU)", "System 3 (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/04/28/snk-arcade-classics-vol-1-review",
+			"score": 6.7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "A port of 16 Neo-Geo games. Some notable games include \"Metal Slug\" and \"Shock Troopers\""
+}

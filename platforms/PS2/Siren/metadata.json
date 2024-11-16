@@ -1,0 +1,40 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Japan Studio"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Siren",
+	"publishers": [
+		"Sony|SCEI (JP, KO)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/04/13/siren-2",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/siren",
+			"score": 72,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_forbiddensiren_ps2",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/siren-review/1900-6094610/",
+			"score": 6.7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Resist the Call!   0:00, Midnight. A Siren calls and a sea of red water mysteriously surrounds the mountain village Hanuda. Slowly, a terrible force transforms the inhabitants into Shibito, undead husks of their old selves, fueled by evil and hate.  Play as one of ten characters caught in a living nightmare. You have three days to learn how their paths intersect as they try to stay alive. Survival depends on your ability to \"Sightjack\" or the power to see through the eyes of friends and foes. There is no lone hero, there is little hope.  Will you resist the call of the Siren?"
+}

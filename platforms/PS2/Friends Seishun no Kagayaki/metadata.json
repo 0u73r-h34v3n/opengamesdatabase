@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["F&C FC01"],
+	"genres": ["Adventure"],
+	"name": "Friends: Seishun no Kagayaki",
+	"publishers": ["NEC Interchannel (JP)", "Interchannel (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "One day an invitation arrives from a friend who was with you in the tennis club when you were in middle school. It is an invitation to the reunion of the tennis club members. You have one week. You can either go for your first love, or find another love, or become a cupid for others..."
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Irem"],
+	"genres": ["Action", "Adventure"],
+	"name": "Raw Danger!",
+	"publishers": [
+		"Irem (JP)",
+		"Agetec (EU, US)",
+		"Granzella|Granzella Inc. (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/703/703781.html",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/raw-danger!",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players must think on their feet and utilize creative survival skills to have any hope of seeing their family again. Body temperature and health decrease when players are wet or in cold weather too long - they must find places to warm themselves and scrap together meals from whatever they can find. In the end, players must run, climb, jump, and crawl their way out of this devastated city, while constantly trying to piece together information from emergency broadcasts and other victims of the disaster."
+}

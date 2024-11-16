@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Visual Novel", "Turn-based strategy"],
+	"name": "Sakura Taisen: Atsuki Chishio Ni",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a remake of the first Sakura Wars game, with updated game script, LIPS system, combat, and various cinematics. The game features a visual novel parts of building the relationships with the party members, as well as the tactical combat parts of defending various parts of Tokyo from the forces of evil."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artdink"],
+	"genres": ["Simulation"],
+	"name": "A-Train 6",
+	"publishers": ["Artdink (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "A-Train is a series of train simulation video games that were originally developed and published by Japanese game developer Artdink in Japan. The first game in the series was published in 1985. A-Train 6 was released in March 2000 for the PS2 in Japan and later released in Europe in 2004. Features improved graphics over A-Train 5 and A-Train Z. It only has 6 \"stages\" and the user is given a number (like stage one is reach 40000 population) to reach, there is no time limit, you don't even need to make a profit, you start off with ¥10 trillion that decreases when a train moves."
+}

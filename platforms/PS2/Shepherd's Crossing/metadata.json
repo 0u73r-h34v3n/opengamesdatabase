@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Success"],
+	"genres": ["Simulation"],
+	"name": "Shepherd's Crossing",
+	"publishers": ["Success (JP)", "Valcon Games (US)", "Hamster (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"synopsis": "Shepherd's Crossing is a farm based simulation game. Despite its similar theme, it is very different from Harvest Moon in gameplay, visuals, and mechanics, as well as being made by a different company. Unlike Harvest Moon's focuses of expanding the farm, marriage, and making money; Shepherd's Crossing focuses on trading, hunting, and management of your farm. "
+}

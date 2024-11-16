@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Turn-based strategy", "RPG", "Adventure"],
+	"name": "La Pucelle: Tactics",
+	"publishers": [
+		"Nippon Ichi Software (JP, KO)",
+		"Mastiff (US)",
+		"Koei (EU, AU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/la-pucelle-tactics",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "La Pucelle: Tactics is the tactical RPG from Nippon Ichi, creators of \"Disgaea.\" La Pucelle: Tactics is a tale of betrayal and double cross, monsters in human form and humans in monster form, set in an alternate medieval Europe. The unlikely hero is a smart mouthed and undisciplined sixteen year old who just passed her exorcism exams and her comrades in La Pucelle, a demon hunting squad. Features Dark Portals and Purification: Brand new to the RPG world, use your powers to purify defiled ground and enemies. If pulled off right the effect is like having a super-giant combo. Damage multiple enemies at once, stop new enemies from appearing, strengthen items in real time. Fast leveling system: Items, characters and skills can increase every round of battle for well earned instant gratification. Carry up to 149 items and use them to learn special magic. Turn enemies to allies. Bring up to 8 units into battle. Seize the high ground! Battlefield terrain will vary in height: attacking down is way better than being attacked from above."
+}

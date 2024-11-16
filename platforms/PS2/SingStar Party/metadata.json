@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Party",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL"],
+	"synopsis": "Practice your vocal skills with SingStar Party, a game that measures your pitch, tone, and rhythm and analyzes how well (or how badly) you sing. You can play solo or in multiplayer matches with up to seven of your friends. This time, the multiplayer modes include duets and battles. Like the original SingStar, SingStar Party features a fully licensed track list with a variety of artists, ranging from Maroon 5 to Elton John."
+}

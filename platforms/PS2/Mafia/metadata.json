@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Illusion Softworks"],
+	"genres": ["Action", "Adventure"],
+	"name": "Mafia",
+	"publishers": ["Gathering (US)", "Illusion Softworks (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mafia",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play the role of Tommy, a man unhappy with his job as a driver in the Mafia.  You control Tommy through the streets of 1930's American city, complete with simulated traffic and authentic buildings.  Unwillingly accept assignments such as mob hits, car chases, bootlegging, shootouts, assassinations and bank robberies.  Drive over 60 cars based on real models from the 30's.  Choose from over 12 weapons ranging from baseball bats to the Tommy gun, to deal with those that dare to cross your path.  In the Mafia, there's never a dull moment."
+}

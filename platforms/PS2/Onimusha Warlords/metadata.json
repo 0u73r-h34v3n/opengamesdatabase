@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Onimusha: Warlords",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/03/15/onimusha-warlords",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/onimusha-warlords",
+			"score": 86,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/onimusha-warlords-review/1900-2694062/",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_onimusha_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "As power-hungry warlords battle one another for control of feudal Japan, a young princess is kidnapped. Now, one lone swordsman, Samanosuke, boldly volunteers to rescue her. An entire legion of demon warriors stands between you and the princess so you'll need all your weapons and magic to break through. The world of Onimusha: Warlords comes alive with waterfalls, wind effects, insects and weather. But, in order to triumph, you must stay focused on your mission."
+}

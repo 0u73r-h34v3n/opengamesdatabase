@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Suzak"],
+	"genres": ["Racing"],
+	"name": "World Super Police",
+	"publishers": [
+		"Jaleco Entertainment (JP)",
+		"Midas Interactive Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The rise of high-speed traffic crime in Japan and the USA has resulted in the world's first rapid-response armed highway police force. Terrorists beware the WORLD SUPER POLICE!    Choose from the cream of the police driving pool, equip your vehicle with the latest military-grade weapons and take to the city streets in search of criminals too hardcore for the highway patrol. Only you have the hardware and the skill to bring them in!"
+}

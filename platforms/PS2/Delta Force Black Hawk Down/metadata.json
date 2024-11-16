@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Action", "Shooter"],
+	"name": "Delta Force: Black Hawk Down",
+	"publishers": ["NovaLogic"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/delta-force-black-hawk-down",
+			"score": 58,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/delta-force-black-hawk-down-review/1900-6130343/",
+			"score": 5.7,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/07/29/delta-force-black-hawk-down",
+			"score": 5.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In late 1993, the United States launched dual military operations in Mogadishu Somalia.  Delta Force Operatives and Army Rangers were sent in to capture Somali warlords and restore order.  As a Delta Force operative, it's your mission to join daring and intense raids against the oppressive Somali warlords in and around Mogadishu.  Get ready for an intense combat--in solo missions or online multiplayer battles--featuring an arsenal of heavy weapons, military vehicles, and helicopters."
+}

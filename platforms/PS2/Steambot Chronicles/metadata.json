@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Irem"],
+	"genres": ["RPG"],
+	"name": "Steambot Chronicles",
+	"publishers": ["Irem (JP, AS, KO)", "Atlus (US)", "505 Game Street (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/924661-steambot-chronicles/index.html",
+			"score": 75,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/steambot-chronicles",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As cars became more and more common on city streets, the Trotmobile came into being. This two-legged, walking metal vehicle could be adapted to a variety of road conditions and purposes: agriculture, civil engineering, and transportation. The industrial revolution continued, increasing the Trotmobile's popularity. People placed their hopes and dreams on the backs of these wonderful machines, marching toward a better life just beyond their reach. Vanilla Beans wakes up to find himself lying on a sun-drenched beach. How did he get there? And, who in the world is the girl standing above him? The girl soon introduces herself as Connie, and Vanilla begins the first busy day of a grand adventure. He'll take Connie home, meet the other members of her band (the Garland Globetrotters), and explore the town of Nefroburg. At the end of this busy day, Vanilla relaxes in the town square where the Globetrotters are performing only to witness a gang of bandits overrunning the town! How things go from here is up to the player. Will Vanilla join the Garland Globetrotters? Or, will he join the Killer Elephant gang? The choices Vanilla makes, the Trotmobiles he builds, and the friends hekeeps are all up to gamers who take part in Steambot Chronicles."
+}

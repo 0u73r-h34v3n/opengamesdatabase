@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Exakt"],
+	"genres": ["Racing"],
+	"name": "Supercar Street Challenge",
+	"publishers": ["Activision (US, EU)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/supercar-street-challenge",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Supercar Street Challenge lets you design, build, and race your own dream car. Choose your car from nine licensed supercars, including the Saleen S7, Lotus Concept Vehicle M220, Callaway C12, and more. Customize your vehicle in the Steve Saleen Styling Studio, where you can blend multiple body shapes to create dozens of designs. Then, race down destructible environments in London, Paris, Monaco, Los Angeles, Munich, Rome, and Turin. You can put your driving skills to the test in single-player competitions and in two-player races."
+}

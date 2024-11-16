@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nihon Falcom"],
+	"genres": ["Action", "RPG"],
+	"name": "Zwei!!",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Five hundred years after a devastating battle the world of Granvallen ushers in an age of peace and those who can wield magic are a rare sight to behold. Pipiro and Pokkle are two children, both 14 years of age, who live at the village of Puck situated in the remote island continent of Arshes. One day they spot a mysterious masked man enter the village's temple and decide to follow him. The man steals six Goddess statues, the village's treasures, with Pipiro and Pokkle unable to stop him. The pair decide to leave the village to retrieve the statues for their own reasons and thus their journey begins."
+}

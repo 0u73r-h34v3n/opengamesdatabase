@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kuju Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Conspiracy: Weapons of Mass Destruction",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "From a South American drugs factory to a secret training camp in the Arctic, from hidden biotech laboratories to secret conspiracy HQs, blast your way through this action packed story of rogue government agencies, drugs and weapons of mass destruction.   Armed with shotguns, assault rifles, rocket launchers, silenced pistols and sniper rifles, guided by your handler you cross and re-cross the globe in search of the truth."
+}

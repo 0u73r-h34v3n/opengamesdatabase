@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Action", "Adventure"],
+	"name": "Star Wars The Clone Wars: Republic Heroes",
+	"publishers": ["LucasArts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2009/10/06/star-wars-the-clone-wars-republic-heroes-review",
+			"score": 4.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-the-clone-wars-republic-heroes",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Live the Clone Wars and play as your favorite Jedi and Clone Trooper in the brand-new story of Star Wars The Clone Wars: Republic Heroes. Leap and slice your way through enemy lines with the acrobatic power of a Jedi. Wield an arsenal of elite Clone Trooper weapons-from rocket launchers to thermal detonators. Fight alongside your friend on any mission, at any time with drop-in/drop-out co-op gameplay."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nordic Games Publishing"],
+	"genres": ["Racing"],
+	"name": "Truck Racer",
+	"publishers": ["Nordic Games Publishing"],
+	"regions": ["PAL"],
+	"synopsis": "Take the wheel of a truck hurtling along at top speed, blow away your opponents and claim victory! Drive on 48 tracks in vehicles that can be completely destroyed. Customize every aspect of your truck, from engine to paint. Rise to all the challenges in Championship mode and upgrade your truck."
+}

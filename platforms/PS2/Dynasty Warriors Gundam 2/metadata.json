@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors: Gundam 2",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-gundam-2",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the future, rebel space colonies launch a brutal war of independence with a series of coordinated orbital strikes against Earth. The chaotic assault signals the dawn of a new age of combat and the ultimate instrument of warfare is born, the Mobile Suit. Dynasty Warriors: Gundam 2 combines the devastating power of the Mobile Suit, the rich legacy of the Gundam universe and the furious Tactical Action game play of the Dynasty Warriors series. The game thrusts players into incredible battles against legions of enemy Mobile Suits on distant planetary surfaces and in the far reaches of outer space. For the first time, Dynasty Warriors: Gundam 2 lets players engage in melee battles against colossal enemies such as the Psycho Gundam. The massive Psycho Gundam can quickly reconfigure their bodies into titanic mobile fortresses which can move with remarkable speed. However, highly-trained pilots can utilize their own Mobile Suit's speed, agility, and of course firepower to defeat these deadly juggernauts. Dynasty Warriors: Gundam 2 also includes new stories featuring mecha from the latest Gundam anime, plus mecha from Char's Counter Attack and more. With mecha parts collected throughout the course of the game, players can adapt a Mobile Suit which can be piloted into combat."
+}

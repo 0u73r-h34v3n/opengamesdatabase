@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Inevitable Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Tribes Aerial Assault",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tribes-aerial-assault/ps2-16374",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tribes-aerial-assault",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Run, jump, and fly across massive battlefields in jetpack-equipped armor as you compete with 14 other players from around the world. In Tribes: Aerial Assault, you choose between different roles and different game types, including an 11-mission single-player campaign and a Capture-the-Flag battle over the Internet. Combat takes place in the Wilderzone--the 40th century's wild frontier--in which the tribes of man clash with genetically modified Bioderm hordes. Pulverize the enemy with 10 high-tech weapons and an arsenal of grenades, mines, deployable turrets, and more."
+}

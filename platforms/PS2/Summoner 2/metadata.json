@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Volition|Volition Inc."],
+	"genres": ["Action", "RPG"],
+	"name": "Summoner 2",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/summoner-2",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In ''Summoner 2'', you are the Queen of Halassar, who many believe to be the goddess Lahara reborn.  Although millions adore you, The King of Galdar, sinister factions, and the armies of Urath all want you dead.  It's up to you to battle your enemies in more than 30 exotic locales, from the tropical isle of Teomura to the bizarre City of Masks.  Control up to three characters at a time and build your party from a roster of eight unique characters--each with specialized attacks and spells.  This is your chance to fulfill the prophecy through a character-driven story."
+}

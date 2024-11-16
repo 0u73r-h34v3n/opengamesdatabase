@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atari"],
+	"genres": ["Action", "Platformer"],
+	"name": "Superman: Shadow of Apokolips",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/09/26/superman-shadow-of-apokolips",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/superman-shadow-of-apokolips",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The man of steel faces his greatest challenge yet in Superman: Shadow of Apokolips.  Darkseid, the most evil being in the galaxy, has enlisted the aid of Lex Luthor in his quest to destroy Superman and take over the world.  As Superman, you must stop Luthor's army of Inter-Bot robots and the fearsome Metallo, who is fresh out of Strykers Island Prison.  Use all of Superman's powers through 14 enormous levels, featuring epic battles with legendary villains, including Livewire and Parasite.  The fate of the planet lies in your hands."
+}

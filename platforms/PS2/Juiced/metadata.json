@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Juice Games"],
+	"genres": ["Racing"],
+	"name": "Juiced",
+	"publishers": ["THQ (US, EU, KO)", "Sega (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/juiced",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Become immersed in the lifestyle, community, and risk-taking attitude of the street-modding scene with Juiced. More than just an arcade racer, Juiced pits you against a wide range of characters with enhanced driving street machines. In a series of increasingly risky challenges, you can earn cash, cars, and pride. You'll have to work hard to get to where the real petrol-heads and money lurk, building up a collection of nitrous-burning monsters for every type of challenge."
+}

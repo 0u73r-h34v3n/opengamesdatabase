@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Action", "Fighting"],
+	"name": "Simple 2000 Series Vol. 80: The Oneechanpuruu",
+	"publishers": ["D3Publisher (JP)", "Essential Games (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The dead have risen and only your sword skills will save you from the horror that awaits! Experience the exhilaration of battle as you take on the army of undead! Perfect your sword handling and send heads, legs and hands flying through the air.<br/>This version of Zombie Hunters features the famous Riho Futaba, a recurring character in many of the Simple 2000 Series games - she also comes with a awesome set of badass moves just like Aya!"
+}

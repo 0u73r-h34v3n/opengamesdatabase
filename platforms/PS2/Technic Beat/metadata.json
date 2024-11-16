@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arika"],
+	"genres": ["Music"],
+	"name": "Technic Beat",
+	"publishers": ["Arika (JP)", "Mastiff (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/technic-beat",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Technic Beat lets you create, alter, and dance onscreen to your own music. First, you must listen to music represented in the game by concentric rings of sound. Once you pick up the beat, you can dance into the middle of the rings to try to \"catch\" the music. If successful, you'll achieve the power to manipulate the sound rings to create entirely new music. As you progress through each level, you'll be rewarded with new visual displays, power-ups, and bonuses."
+}

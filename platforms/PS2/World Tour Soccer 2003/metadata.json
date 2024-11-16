@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Sports"],
+	"name": "World Tour Soccer 2003",
+	"publishers": [
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEA (US)",
+		"Sony|SCEI (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/world-tour-soccer-2003/ps2-482085",
+			"score": 8.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-tour-soccer-2003",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Soccer comes home as you lead your team to victory on or off the field. As a player, you'll tackle, pass, and shoot winning goals from the field. As an owner, you'll buy, sell, or trade players to create a winning team. More than 13,500 officially licensed FIFA pro players from 700 international and league teams compete in 10 stadiums around the globe. Your players can perform a variety of authentic moves, including high-flying headers, bicycle kicks, and goal-saving slide tackles."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Synetic"],
+	"genres": ["Racing"],
+	"name": "Mercedes-Benz World Racing",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL"],
+	"synopsis": "World Racing gives you total control over your race. Stay on track, search for shortcuts, or simply free roam--you're in control as you take your Mercedes-Benz on a romp around the world. In one of 110 original cars, you'll take on 120 different tracks in seven expansive landscapes, ranging from Nevada and Japan to the Alps and Mercedes' own Test Center. Defeat your rivals with powerslides, burnouts, and wild stunt driving en route to becoming the world's number one driver."
+}

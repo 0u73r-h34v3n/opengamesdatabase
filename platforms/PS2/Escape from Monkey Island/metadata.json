@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Adventure"],
+	"name": "Escape from Monkey Island",
+	"publishers": ["LucasArts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/06/20/escape-from-monkey-island-2",
+			"score": 8.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/escape-from-monkey-island",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Combine puzzles, sociopathic parrots, and monkeys, and you get Escape from Monkey Island. The fourth Monkey Island game begins when pirate-wannabe Guybrush Threepwood and his new bride, Governor Elaine Marley-Threepwood, return to Melee Island only to find out that Elaine has been declared dead, the Governor's mansion will be torn down, and a slick yet familiar politician is about to take Elaine's job. Amid this chaos, you'll solve challenging puzzles, meet new characters, and experience an all-new adventure on Monkey Island."
+}

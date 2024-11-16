@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Black Box"],
+	"genres": ["Racing"],
+	"name": "Need for Speed: Underground",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/need-for-speed-underground",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the world of urban street racing with the latest title in the hit Need for Speed series: Need for Speed: Underground.  Take on today's most popular tuner cars from Mitsubishi Motors, Subaru, Toyota and many more, earning cash for car mods.  Test your skills against the computer or online against up to 4 players.  But creating a custom street racing machine will not get you to the top; it takes a certain amount of attitude and razor sharp driving skills to compete in the tough world of urban racing."
+}

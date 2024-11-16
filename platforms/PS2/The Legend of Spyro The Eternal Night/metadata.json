@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "The Legend of Spyro: The Eternal Night",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-legend-of-spyro-the-eternal-night",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Legend continues in the second installment of the trilogy, in which Spyro must continue to uncover the immense power within himself and prevent the release of an untold evil. Embark on a treacherous, combat-driven quest as Spyro unleashes devastating fury attacks, upgradeable breaths and ground-to-air melee combos in a frenzied battle with hordes of menacing enemies and bone-chilling bosses.  Explore immense puzzle-filled environments as you seek to unlock the ancient prophesy and unleash the True Dragon within!"
+}

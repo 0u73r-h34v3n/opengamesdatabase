@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ganbarion"],
+	"genres": ["Action", "Fighting"],
+	"name": "One Piece: Grand Adventure",
+	"publishers": [
+		"Bandai|Namco Bandai Games (US, EU)",
+		"Bandai (KO)",
+		"Atari (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/08/26/one-piece-grand-adventure-review",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/one-piece-grand-adventure",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "One Piece, the popular comic and anime series featured in Shonen Jump, 4KidsTV and Cartoon Network, comes back to the console world with One Piece: Grand Adventure for the GameCube and PlayStation 2. The series features Monkey D. Luffy as an aspiring pirate searching for One Piece, the legendary treasure of King of the Pirates, Gold Roger. One Piece: Grand Adventure brings back the fun and excitement of the free-moving Vs. Battle action from past One Piece games with exciting new twists. The game also has been completely revamped with the inclusion of an engrossing Adventure Mode, sending players on mini-game filled quests for extended replayability. With the latest main and support characters, new moves and stages, this is the ultimate One Piece game!"
+}

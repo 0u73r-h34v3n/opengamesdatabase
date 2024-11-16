@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "NBA Ballers: Phenom",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-ballers-phenom",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Here it is...The NBA Finals in sunny Los Angeles, California. It's time for all the unknowns from around the world to step on the court and get noticed by the right people. From scouts and coaches to casting directors, everyone is looking for the next \"phenom.\" You have one week to check out the city and prove that you're the one everyone is looking for. Take the trophy in unique basketball tournaments, customize your style to get all the eyes on you, and interact with the local scene. By the end of the week, you could be the #1 draft pick of the NBA or on your way to your own entertainment empire. Have you got the skills to prove you belong at the top?"
+}

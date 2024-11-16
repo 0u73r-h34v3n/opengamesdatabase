@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Platformer"],
+	"name": "Rayman 2 Revolution",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rayman-2-revolution",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fly rockets, ride whirlwinds and surf lava flows at a blazing 60 frames per second. Master Rayman's amazing moves and battle vicious enemies across 54 massive levels in 21 lush worlds to save the universe from destruction."
+}

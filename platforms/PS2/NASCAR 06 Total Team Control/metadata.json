@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Racing"],
+	"name": "NASCAR 06: Total Team Control",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/nascar-06-total-team-control-review/1900-6133040/",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-06-total-team-control",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NASCAR 06: Total Team Control lets you go beyond the simple racing experience and play a part in a racing team. You'll communicate with and take control of other team members during a race as well as communicate with your pit crew. Customize a driver and build a team, and then take your drivers through 22 real Nextel series tracks and 14 fantasy ones. Use the game's voice recognition feature to give verbal commands to your crew chief. In addition to single-player, NASCAR 06 features online multiplayer modes for up to four players."
+}

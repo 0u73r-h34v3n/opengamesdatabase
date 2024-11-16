@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["K2 LLC"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tenchu: Wrath of Heaven",
+	"publishers": ["Activision (US, EU)", "From Software (JP, KO)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/03/04/tenchu-wrath-of-heaven-2",
+			"score": 8.5,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tenchu-wrath-of-heaven",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Follow the path of the Ninja.  Tenchu 3: Wrath of Heaven, the latest chapter in the Tenchu series, allows you to take on the role of three merciless assassins, with over 20 authentic ninja weapons and tools.  Experience the all-new stealth attacks, combos, and enhanced fighting engine as you complete mission objections, including espionage, theft, and assassination.  The more stealth kills you get, the more abilities and combos you earn.  Can you master the action-packed gameplay and unlock the multiple game endings?"
+}

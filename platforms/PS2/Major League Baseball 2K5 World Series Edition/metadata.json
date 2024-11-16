@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "Major League Baseball 2K5: World Series Edition",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/major-league-baseball-2k5-world-series-edition",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All the great features from Major League Baseball® 2K5 plus exclusive new content!  Indulge in the most current '05 Major League Baseball® game available including new features, updated rosters, team standings and more!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Red Storm Entertainment"],
+	"genres": ["Action", "Shooter"],
+	"name": "Tom Clancy's Ghost Recon: Jungle Storm",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tom-clancys-ghost-recon-jungle-storm",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Castro is dead and a Colombian cartel-backed candidate pursues an all-out revolution.  In Tom Clancy's Ghost Recon: Jungle Storm, you lead a group of highly skilled soldiers called Ghosts into Colombia to force the drug-fended mercenaries to retreat.  Experience the 16 intense missions in single player or join battles online, going head-to-head with players from around the world.  When equipped with the USB headset, you can issue dozens of voice commands to your teammates.  It's time to show what you're made of on the battlefield."
+}

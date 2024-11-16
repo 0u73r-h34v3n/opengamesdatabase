@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spike"],
+	"genres": ["Turn-based strategy", "RPG"],
+	"name": "Elvandia Story",
+	"publishers": ["Spike"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The story revolves around Ashley, son of a Lord from the State of Kastol, who recently returned to his home town. While he is with his friends, he receives a message that the neighbouring State of Lumen is under attack from the north by the troops of Genes. He decides to stop Genes and starts his journey to Lumen in order to end the fight and restore peace on the continent."
+}

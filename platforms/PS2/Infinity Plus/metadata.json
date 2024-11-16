@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberFront"],
+	"genres": ["Collection"],
+	"name": "Infinity Plus",
+	"publishers": ["CyberFront"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|the following four games from Infinity series: [[Never7|Never7: The End of Infinity]], [[Ever17: The Out of Infinity]], [[Remember 11: The Age of Infinity]] and [[12Riven: The Psi-Climinal of Integral|12Riven: The Ψcliminal of Integral]]. The package also contains Infinity Plus book about all four titles.}}"
+}

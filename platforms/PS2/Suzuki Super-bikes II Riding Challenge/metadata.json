@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "Suzuki Super-bikes II: Riding Challenge",
+	"publishers": ["Valcon Games (US)", "Black Bean Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Experience first hand the acceleration, speed and sheer untamed power of over 40 of the world's super bikes from the Honda CBR1000 to the Ducati 999R. Race on circuits such as the new Assen and Laguna Sega; through cities including London and Berlin; Or blast through lusciously recreated country runs from Corsica to the Scottish Highlands. Unlock the world most popular machines from manufacturers like Ducati, Honda and Yamaha in the career and trophy mode, or hone your skills to perfection in the free ride and challenge modes. Separate control for the bike and rider position delivers the ultimate precision motorcycle racing experience. Individually modeled, manufacturer approved bikes featuring the same acceleration, weight, balance and cornering ability as in real life."
+}

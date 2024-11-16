@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monolith Soft"],
+	"genres": ["Turn-based strategy", "RPG"],
+	"name": "Namco X Capcom",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The game features characters produced by Namco and Capcom. The story centers around two original characters created for the game named Reiji Arisu and Xiaomu. The two of them work for a special unit called Shinra and they are tasked with investigating spirit and otherworldly disturbances. They are initially investigating a strange \"sleeping sickness\" in the Shibuya area of Japan, when it becomes apparent that something much larger is at stake. Characters, both good and evil, from other times and other worlds begin appearing in Japan in the year 20XX."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pivotal Games"],
+	"genres": ["Action", "Shooter"],
+	"name": "Conflict: Global Terror",
+	"publishers": ["SCi (EU)", "2K|2K Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/conflict-global-terror",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Conflict: Global Terror, you can try to recover a team member who has gone MIA at the hands of the terrorist organization March 33. You join a five man counter-terrorism team dispatched to stop the terrorists from creating a new world order. You can assume the role of any of the team members during a mission and use their unique abilities and weapons to fight the enemy. Global Terror adds improved physics, better AI, and an improved aiming system."
+}

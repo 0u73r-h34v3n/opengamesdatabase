@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Deibus Studios"],
+	"genres": ["Racing"],
+	"name": "Motocross Mania 3",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/05/11/motocross-mania-3",
+			"score": 3.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motocross-mania-3",
+			"score": 34,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mania has spread across the land as people have turned traditional motocross racing into an intense blood sport. Furious combat mixes with fast paged racing through deadly courses that range from populated city streets to harsh open environments. Mania is here and ready to fight. The winner is the one to make it across the finish line still in one piece."
+}

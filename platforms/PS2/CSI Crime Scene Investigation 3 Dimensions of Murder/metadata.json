@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Bulgaria"],
+	"genres": ["Adventure"],
+	"name": "CSI: Crime Scene Investigation: 3 Dimensions of Murder",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/csi-3-dimensions-of-murder",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players work alongside Gil Grissom, Catherine Willows and the rest of the original Las Vegas cast to help solve intense cases and investigate crimes using cutting-edge techniques and real-world forensic equipment. CSI: 3 Dimensions of Murder improves upon the successfulcore design concepts of previous CSI games, featuring an all-new,real-time 3D engine, enriched character interactions and animations, and longer, more immersive stories."
+}

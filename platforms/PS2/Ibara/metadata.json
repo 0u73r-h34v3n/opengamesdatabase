@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cave"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Ibara",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/ibara/ps2-787641",
+			"score": 8.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "A notable feature of Ibara is the inclusion of a variable real-time difficulty system by way of the Rank system. The player's rank increases as they acquire more items and cause more damage increasing the difficulty of the game along with it. The number of enemies does not increase but the number of bullets fired towards the user does, often reaching a ridiculous level of bullet density. "
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Action", "Fighting"],
+	"name": "Marvel Nemesis: Rise of the Imperfects",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/marvel-nemesis-rise-of-the-imperfects",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Marvel Nemesis: Rise of the Imperfects pits fierce Marvel superheroes against each other in a 3D fighting game. You can assume control of heroes such as the Punisher, Spider-Man, and Captain America, and duel with them in interactive and destructible environments. A new team of superheroes called the Imperfects joins the mayhem. You can play in single-player story mode to unlock hundreds of collectible awards, or you can play against other gamers in offline or online play."
+}

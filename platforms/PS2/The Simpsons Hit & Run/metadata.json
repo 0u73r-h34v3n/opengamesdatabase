@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Radical Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Simpsons: Hit & Run",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-simpsons-hit-run",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Explore Springfield as your favorite Simpsons characters as you unravel the plot that threatens the town's very existence.  Play as Homer, Bart, Marge, Lisa, and Apu in over 56 driving and on-foot missions in seven challenging levels.  Drive in 40 of Springfield's finest vehicles including Mr.  Plow and the Canyonero.  Unlock the multiplayer mode to play against three other players.  The world of the Simpsons has many gags and surprises in store for you."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "ESPN NBA 2K5",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nba-2k5",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This year's installment in the ESPN NBA series features a host of gameplay improvements. Now a player's ability and physical makeup determine how fast he can run up the court on a fast break, how well he can cut to the basket off his opponent, and more. IsoMotion2 gives you more control over dribbling moves and makes it easier to handle overaggressive ball handlers. Develop your created player's career in a revamped 24/7 mode, or take on your friends in new multiplayer games."
+}

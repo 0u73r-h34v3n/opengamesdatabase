@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Zapper",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/zapper",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Zapper, you play a small creature that embarks on a great quest. Zapper is a cricket in search of brother Zipper, who was kidnapped by the evil Maggie the Magpie. Through 18 twisted levels, you'll evade bizarre enemies and deadly hazards using your electrified antennae and springy reflexes. Zap your foes, explore your surroundings, and find and destroy eggs before they hatch. Zapper's intense action continues as you unlock hidden areas, bonus levels, and play multiplayer games."
+}

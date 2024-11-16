@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ruby Party"],
+	"genres": ["RPG", "Simulation", "Visual Novel"],
+	"name": "Kiniro no Corda 3",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Kiniro no Corda 3 is the third installment of the Corda series and is the direct sequel to [[Kiniro no Corda 2 Encore]]. The story begins on July 13, 2011, eight years after the White Day orchestra. The protagonist is an aspiring violinist who learns the limits of only playing at her country home. In order to improve herself, she decides to follow the footsteps of her childhood friend by moving to Yokohama and transferring to Seiso Academy for its high school summer semester. After she proves her worth to the skeptical student body, she is selected to be a member of the school's ensemble for the 42nd national high school tournament."
+}

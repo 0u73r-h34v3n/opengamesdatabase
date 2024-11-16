@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Falcon"],
+	"genres": ["Gambling"],
+	"name": "Neppachi Gold: CR Monster Mansion",
+	"publishers": ["Daikoku"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A comedic horror-themed pachislot game for PlayStation 2."
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Now Production"],
+	"genres": ["Action", "Adventure"],
+	"name": "Katamari Damacy",
+	"publishers": [
+		"Namco (JP, US)",
+		"Bandai|Namco Bandai Games (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN Review",
+			"url": "http://ps2.ign.com/objects/606/606672.html",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/katamari-damacy",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When the King of All Cosmos accidentally destroys all the stars in the sky, he orders you, his pint-sized princely son, to put the twinkle back in the heavens above. The only way you can do that is by rolling everything on Earth into clumps so that he can replace what's missing in space. \"Everything\" includes cookies, lawn mowers, lampposts, sumo wrestlers, bulldozers, brontosauruses, cruise ships, and more. Katamari Damacy also includes a two-player battle mode where you and a friend can see who can grow the biggest ball of stuff."
+}

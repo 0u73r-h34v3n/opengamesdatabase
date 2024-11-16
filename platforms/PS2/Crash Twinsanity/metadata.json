@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Platformer"],
+	"name": "Crash Twinsanity",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crash-twinsanity",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A new evil has invaded Crash Bandicoot's island paradise with plans of destruction. In a strange twist, Crash reluctantly pairs with his archenemy, Dr. Neo Cortex, in order to save the world. Now, through this unorthodox partnership, you can take control of Crash as he uses Cortex as his favorite weapon. Play as any one of four characters as you encounter reactive enemies, wild environments, and a wacky cast of new characters."
+}

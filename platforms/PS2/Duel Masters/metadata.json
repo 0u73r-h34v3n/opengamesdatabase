@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Turn-based strategy"],
+	"name": "Duel Masters",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/duel-masters",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Duel Masters: Cobalt brings card-collecting action to the PlayStation 2. Based on the Duel Masters card game, Cobalt features more than 100 creatures that you can control in combat. Each creature has its own special abilities, which are detailed on each card. Build your own decks to complement your battle strategies. Save your decks to your memory card, and then take them to your friend's house for multiplayer duels. This is your chance to find out who the best duelist really is."
+}

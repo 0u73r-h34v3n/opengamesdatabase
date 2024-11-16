@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Maxis"],
+	"genres": ["Simulation"],
+	"name": "The Urbz: Sims in the City",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-urbz-sims-in-the-city",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Sims have moved to the City where there's always action and where reputation means everything. In the Urbz: Sims in the City, you can go to work at such locations as the Sushi Bar, Chop Shop, or Bootleg Fireworks, Inc. Success at work brings promotions, access to new power socials, and gear to influence your new lifestyle. Flaunt your attitude by styling your Urbz, and then cross the velvet ropes of an uptown night club, or explore the subway to earn new skills and items."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Sports"],
+	"name": "AirBlade",
+	"publishers": ["Sony|SCEE (EU)", "Namco (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/airblade/ps2-14919",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/airblade",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "No wheels, no waves, no snow, means no limits! Perform awesome tricks, grind on the slightest edge and complete the wildest missions you've ever seen. Not only can you swing around flagpoles, grind on rooftops, and weave your way in, around and over traffic, but you can skitch a ride on car bumpers and do your best to impress the greatest thrashers. Experience the extreme physics of AirBlade and leave ordinary boarding behind."
+}

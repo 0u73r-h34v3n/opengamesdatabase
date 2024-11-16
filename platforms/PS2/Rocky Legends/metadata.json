@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Venom Games"],
+	"genres": ["Sports"],
+	"name": "Rocky: Legends",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/rocky-legends",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A prequel to the movie Rocky, the game Rocky: Legends lets you experience all the action that took place before Rocky became the heavyweight boxing champion of the world. You'll pummel your way through a variety of career modes that feature Rocky, Clubber, Apollo, and Drago. Fight in 20 venues based on familiar locations from the Rocky films, such as the Philadelphia Art Museum, a casino on the Vegas strip, a Russian training camp, and more."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Prince of Persia: The Sands of Time",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/11/07/prince-of-persia-the-sands-of-time-4",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/prince-of-persia-the-sands-of-time",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Embark on a journey of scorched sands and ancient legends.  A young prince, drawn to the dark powers of a magic dagger, unleashes a deadly evil upon a beautiful kingdom.  Guide the Prince on his quest to reverse the curse by using the Sands of Time, a power which allows you to erase the past, see into the future and slow down the present.  Perform gravity-defying acrobatics and swashbuckling attacks in a staggering array of landscapes and kingdoms.  Restore peace to the land and fulfill your destiny."
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Adventure"],
+	"name": "Happy Feet",
+	"publishers": [
+		"Warner Bros. Interactive Entertainment (US, EU)",
+		"Midway (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/happy-feet",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in Antarctica, Happy Feet is a comedy adventure based on the Warner Bros. film. In this adventure game, penguins must sing to attract their soul mates."
+}

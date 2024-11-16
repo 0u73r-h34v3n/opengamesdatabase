@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Free Radical Design"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "TimeSplitters: Future Perfect",
+	"publishers": ["Electronic Arts|EA Games (US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://web.archive.org/web/20071012103002/http://ps2.ign.com/articles/597/597511p1.html",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/timesplitters-future-perfect",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters. As Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in the past or team up with past and future versions of yourself in battles."
+}

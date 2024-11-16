@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NBA Live 2003",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-live-2003",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Live your dream of NBA superstardom in NBA Live 2003. This year's installment in the NBA Live series features a new control system that lets you make quick steals, monster shot blocks, and smooth crossover dribbles. New animations show everything from power dunks and rebounds to signature moves and coaches' reactions. The game also features old NBA uniforms from basketball legends, such as Elgin Baylor, Jerry West, and Dr. J. Add to the mix fresh commentary and dialogue between player and coach, and you have a complete NBA experience."
+}

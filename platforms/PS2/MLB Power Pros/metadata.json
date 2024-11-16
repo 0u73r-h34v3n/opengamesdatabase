@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "MLB Power Pros",
+	"publishers": ["2K|2K Sports (US)", "Konami (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mlb-power-pros",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MLB Power Pros delivers an original visual style to America's favorite pastime. Every MLB player is represented in the \"Power Pro\" character style - a miniature toy-like figurine model. Gamers will recognize their favorite Baseball stars through comic usage of facial expressions, facial hair, and hair styles."
+}

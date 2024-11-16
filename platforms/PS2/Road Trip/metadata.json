@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["E-game Inc"],
+	"genres": ["Racing"],
+	"name": "Road Trip",
+	"publishers": [
+		"Takara (JP, KO)",
+		"Conspiracy Entertainment (US)",
+		"Play It! (EU, AU)",
+		"Atlus (JP)",
+		"System 3 (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/road-trip",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game combines elements from racing and adventure games, and is widely considered to be the best of the Choro Q series due to its large seamless world which the player can freely explore."
+}

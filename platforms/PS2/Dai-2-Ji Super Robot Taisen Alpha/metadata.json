@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Banpresto"],
+	"genres": ["Turn-based strategy", "Simulation", "RPG"],
+	"name": "Dai-2-Ji Super Robot Taisen Alpha",
+	"publishers": ["Banpresto"],
+	"regions": ["NTSC-J"],
+	"synopsis": "One of the crossover works from the ''Super Robot Wars'' series in which robots expressed in SD compete. This is the 3rd work from the ''Alpha'' series. In this release there are new battle animations for robots, weapons, and destruction from blasts and strikes. It also brings along many new changes and additions to the ''Super Robot Wars'' series system including new Platoon system, pilot training, and new systems of steel jeg, and others."
+}

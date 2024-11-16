@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Lost Toys"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Battle Engine Aquila",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Mobygames",
+			"url": "http://www.mobygames.com/game/battle-engine-aquila/mobyrank",
+			"score": 75,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/battle-engine-aquila",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An epic battle rages between the Forseti and the Muspell as the oceans rise and land disappears. The Forseti compel you to help protect their remaining land by taking charge of a powerful war machine--the Battle Engine. Whether in walking or in flying mode, you have access to an array of destructive weapons to use in expansive environments. You'll command a device so powerful and advanced that your battlefield decisions will shape the direction of each engagement and, ultimately, the entire war."
+}

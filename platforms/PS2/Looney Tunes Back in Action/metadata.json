@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warthog"],
+	"genres": ["Action", "Platformer"],
+	"name": "Looney Tunes: Back in Action",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/looney-tunes-back-in-action",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The classic exchange of wits in the epic rivalry between Bugs Bunny and Daffy Duck transcends time. Now, they re bringing their antagonistic relationship from the big screen to video game consoles in Looney Tunes: Back in Action! The lively, single-player platform game is based on the upcoming Warner Bros. action movie of the same title. The game offers dynamic gameplay and vibrant, rich Looney Tunes! visuals that will attract and entertain fans of all ages."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sanzaru Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Secret Agent Clank",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/secret-agent-clank/ps2-14331062",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/secret-agent-clank",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Clank's on a mission. His best buddy, Ratchet, has been framed by a ruthless enemy and jailed for a crime he did not commit. Not only that, but Ratchet's maximum security prison is full of the universe's most dangerous criminals most of whom are lining up to personally 'welcome' Ratchet into his new cell.  Luckily for Ratchet he's got Clank on the outside, and luckily for Clank he's the kind of brainy little robot who is cool under pressure and knows a thing or two about tracking down a mysterious enemy. That's why, as Secret Agent Clank, he's hot on the trail of clues to unravel the mystery and secure Ratchet's release from jail."
+}

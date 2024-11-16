@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["RTS"],
+	"name": "Army Men: RTS",
+	"publishers": ["3DO (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/army-men-rts",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Army Men series continues, this time in the real-time strategy genre. As the commander of the Green army, you must manage your soldiers and resources to find and eliminate the evil Colonel Blintz. Much like in other real-time strategy games, you can build bases, vehicles, and armies to prepare your team for war. The game features a reward-based campaign mode, a great battles mode, a special ops mode, and a tutorial mode, which helps you understand the new interface and controls."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["2Wg"],
+	"genres": ["Sports"],
+	"name": "Lucinda Green's Equestrian Challenge",
+	"publishers": ["Red Mile Entertainment (US, AU)", "Codemasters (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/lucinda-greens-equestrian-challenge",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Lucinda Green's Equestrian Challenge, you'll create the perfect horse to be your partner in play, practice and competition. You'll form strong bonds with your horse as you feed, groom and train to perfect your show skills. The more you train with your horse, the better it will perform as you win your way to prestigious international competitions of Show Jumping, Dressage and Cross Country."
+}

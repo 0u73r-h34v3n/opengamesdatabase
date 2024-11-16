@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Silicon Dreams"],
+	"genres": ["Sports"],
+	"name": "Urban Freestyle Soccer",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL"],
+	"synopsis": "Urban Freestyle Soccer focuses on 10 individual gangs--all based on the different styles, fashions, and cultures found in the concrete jungle. These teams fiercely compete for each other's turf with the ultimate goal to gain control of the whole city. You'll join the battle as one of 40 players with individual catchphrases, plus trick, combo, and special moves. As you conquer the challenges in five game modes, remember--on the streets, it's just as important to look cool as it is to score goals."
+}

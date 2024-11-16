@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Robots",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/robots",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the animated feature film of the same name, Robots brings you to a world where humanlike machines walk the Earth. You play as Rodney Copperbottom--a genius inventor robot who uncovers a villain's plot to take over the city. With the help of your friends, you must overcome challenging obstacles to realize your dreams. The game lets you ride fast robot vehicles, upgrade your arsenal of gadgets, battle evil robots, solve puzzles, and more."
+}

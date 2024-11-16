@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NBA Live 06",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-live-06",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA Live 06 continues the NBA live franchise and boasts a set of new features. Improved transition play captures the speed and feel of a NBA fast break, and increased attention to interior defense delivers the physicality of an NBA game. NBA Live 06 allows you to play as players in the NBA who can exhibit superstar styles like 'Playmaker' or 'Stopper'. These stars have their own controls and visual modes allowing them to dominate lesser players."
+}

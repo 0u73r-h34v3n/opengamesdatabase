@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Board"],
+	"name": "Dragon Quest & Final Fantasy in Itadaki Street Special",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/dragon-quest-and-final-fantasy-in-itadaki-street/reviews/",
+			"score": 8.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Itadaki Street Special is a popular and long-running Enix board game dating back to the original Famicom. This particular entry is most notable for being the first time that characters from the newly merged Square and Enix companies appear in a single title. Itadaki Street Special features characters from Final Fantasy as well as characters from Dragon Quest. Gameplay consists of players moved around on a board with the hope of collecting lots of money and making a store that they manage profitable. Your goal is to reach a sales target before other players. "
+}

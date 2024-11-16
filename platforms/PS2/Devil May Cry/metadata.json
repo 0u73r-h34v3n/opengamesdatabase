@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Devil May Cry",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/10/16/devil-may-cry",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/devil-may-cry",
+			"score": 94,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/ps2/action/devilmaycry/review.html",
+			"score": 9.1,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_dmc",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Legends tell of a demon swordsman named Sparda, who awoke to justice and rebelled against the devil, waging a one-man support of the human world. Now, 2,000 years later, a dark figure named Dante--private investigator of the supernatural--finds clues that the devil is rallying to rise up again against mankind. By Dante's demon blood, you enter this dark realm of demonic marionettes, unearthly phantoms, grim reapers, and other retched souls. Transform to a demon state to inflict devastating attacks on enemies in this gothic battle of good against evil."
+}

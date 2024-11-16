@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gusto Games"],
+	"genres": ["Sports"],
+	"name": "ProStroke Golf - World Tour 2007",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/prostroke-golf---world-tour-2007",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With a first-person over-the-ball view, ProStroke Golf's unique \"ProStroke\" swing system puts unprecedented control in the player's hands. No longer does the beauty of the perfect golf swing have to be represented by three controller button presses. Players must put their skill, stamina and mental agility to the test in Match Play, against their friends or in the comprehensive career mode.  ProStroke Golf features 18 international courses including The Brabazon at The De Vere Belfry and Lake Nona; noted pros such as Sergio Garcia, Colin Montgomerie, Mark O'Meara and Ben Curtis; commentary from Sam Torrance, Ian Baker Finch and Allan Green; Golf Pro Training exercises; a detailed course and tournament designer and more."
+}

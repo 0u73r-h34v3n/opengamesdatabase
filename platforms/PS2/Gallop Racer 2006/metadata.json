@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Sports"],
+	"name": "Gallop Racer 2006",
+	"publishers": ["Tecmo"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gallop-racer-2006",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Compete against legendary horses and see how you fare against the greats. Create your own horse and jockey to form the winning combination! Collect \"stars\" to unlock a variety of horses. Pick the color, type and even name from thousands of horses or create your own jockey from hundreds of choices! Raise, breed and train a horse as a thoroughbred owner. Select a jockey that gives you that winning edge to take your team to the top of the Gallop Racer circuit."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Collection"],
+	"name": "Karaoke Revolution Special Limited Pack Blue Edition",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Karaoke Revolution: J-Pop Best Vol. 7]], [[Karaoke Revolution: J-Pop Best Vol. 8]], [[Karaoke Revolution: Anime Song Collection]] bundled with a microphone.}}"
+}

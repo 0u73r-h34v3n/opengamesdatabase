@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Music"],
+	"name": "Taiko Drum Master",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/taiko-drum-master",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Test your rhythm with Taiko Drum Master, a new game for players of all ages. Attach the miniature Japanese drum controller to your PlayStation 2, and get ready to drum to the music. You can play to the song of your choice--if you can tap to the rhythm of the song, you'll accumulate enough points to clear the stage. You can take on single-player challenges, head-to-head matches with a friend, or minigames where you use the taiko controller to clear nonmusical objectives."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Collection"],
+	"name": "Need for Speed: Collector's Series",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"synopsis": "{{Collection| [[Need for Speed: Underground]], [[Need for Speed: Underground 2]] and [[Need for Speed: Most Wanted]].}}"
+}

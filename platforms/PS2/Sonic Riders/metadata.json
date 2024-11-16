@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Racing"],
+	"name": "Sonic Riders",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/02/24/sonic-riders",
+			"score": 6.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sonic-riders",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Sonic series takes to the track in the combat racing game, Sonic Riders. Dr. Eggman has challenged Sonic and friends to race in his World Grand Prix, and you can enter the event and try to unravel his mysterious plot. The races happen on floating boards and include tricks, fighting, and racing. You can customize your character with upgraded equipment as you race down 13 different tracks through a handful of game modes. You can also challenge three of your friends to multiplayer races."
+}

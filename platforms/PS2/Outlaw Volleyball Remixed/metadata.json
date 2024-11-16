@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hypnotix"],
+	"genres": ["Sports"],
+	"name": "Outlaw Volleyball Remixed",
+	"publishers": ["TDK Mediactive (EU)", "Global Star Software (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/outlaw-volleyball-remixed",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From a group of 16 social outcasts, it's up to you to find the perfect team to compete in unfriendly games of beach volleyball. Outlaw Volleyball Remixed brings its twisted characters from the Outlaw series to volleyball courts set in a jailhouse, a jungle, and a sewer. In addition to bumping, setting, and spiking, you must throw punches to achieve victory. Outlaw Volleyball Remixed is a revamped version of Outlaw Volleyball that features new modes, minigames, and online play exclusive to the PS2."
+}

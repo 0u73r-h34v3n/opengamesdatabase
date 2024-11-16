@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hudson|Hudson Soft"],
+	"genres": ["Action"],
+	"name": "Boboboubo Boubobo: Shuumare! Taikan Boubobo",
+	"publishers": ["Hudson"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Featuring the anime character with extraordinary control over his extraordinarily long nostril hairs, this latest in the Boboboubo Boubobo series (based on the animated show and manga series) uses EyeToy support to bring you into the bizarre world of Boboboubo Boubobo."
+}

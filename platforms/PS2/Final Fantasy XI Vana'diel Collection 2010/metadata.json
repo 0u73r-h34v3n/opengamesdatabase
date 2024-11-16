@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Vana'diel Collection 2010",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "FINAL FANTASY XI, the first online title in one of the best selling video game series of all time, comes to you in this new all-in-one value pack boasting the original award-winning game plus all expansions and add-on scenarios to date!"
+}

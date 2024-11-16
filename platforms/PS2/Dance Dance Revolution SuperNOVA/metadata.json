@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Music"],
+	"name": "Dance Dance Revolution SuperNOVA",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dance-dance-revolution-supernova",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The hottest revolution and bestselling video game in the music game category returns to its arcade roots with Dance Dance Revolution SuperNOVA, the first arcade version to be released in North America in 6 years. Dance Dance Revolution SuperNOVA uses a completely new hardware engine and is the largest game in the series. Players will have access to over 300 songs from different musical genres and 2000+ dance step patterns. Dance Dance Revolution SuperNOVA is a brand new evolution in the DDR series and expands on every aspect of what made the original series innovative, fun and addictive."
+}

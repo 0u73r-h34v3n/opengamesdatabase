@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ed, Edd n Eddy: The Mis-Edventures",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ed-edd-n-eddy-the-mis-edventures",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In this tag team adventure game, switch Eds on the fly to take advantage of their unique abilities. You'll encounter all of your favorite characters from the show as you make you way through the cul-de-sac, scamming the neighborhood kids! Collect jawbreakers and coins to unlock bonus content."
+}

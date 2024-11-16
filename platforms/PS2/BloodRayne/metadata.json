@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "BloodRayne",
+	"publishers": [
+		"Majesco (US, KO)",
+		"Universal Interactive (EU)",
+		"Electronic Arts (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bloodrayne",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "BloodRayne is a killing machine. The Brimstone Society calls upon this half-vampire, half-human agent to take on two missions in the years between the world wars. At the root of these missions is one man who searches for powerful occult artifacts that would bring Germany into a new age of domination. As BloodRayne, you must stop this man's elite Nazi army from releasing terrorizing creatures onto the world. With melee attacks, weapons, and bloodsucking abilities, your enemies won't stand a chance."
+}

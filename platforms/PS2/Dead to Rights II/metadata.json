@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WideScreen Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Dead to Rights II",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dead-to-rights-ii",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dead to Rights II marks the return of action-hero Jack Slate and his K-9 companion, Shadow. In this prequel, Jack and Shadow find themselves once again in the mean streets of Grant City, ensnared in a labyrinth of crime and corruption. The game features Hong Kong cinema-style action and new gameplay mechanics such as greater interaction with Shadow, disarm moves, a 360-degree fighting engine, melee weapon battles, and a dramatic spherical slow-motion diving system."
+}

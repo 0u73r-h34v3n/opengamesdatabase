@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eighting"],
+	"genres": ["Action", "Fighting"],
+	"name": "Bloody Roar 4",
+	"publishers": ["Hudson (US, JP)", "Konami (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bloody-roar-4",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bloody Roar returns in the most action-packed fighting game ever! 18 fighters battle with unique fighting styles and the ability to transform into powerful beasts. Brace yourself for heart-pounding action and incredible 3D graphics while fighting with the powers of fierce creatures like the tiger, wolf, bat and the unborn."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Platformer"],
+	"name": "Super Monkey Ball Adventure",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://cube.ign.com/objects/800/800875.html",
+			"score": 4.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/super-monkey-ball-adventure",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Adventurers discover that in Super Monkey Ball Adventure their monkey balls now have a whole host of new abilities, including sticking to walls, hovering and the ability to become invisible. Super Monkey Ball Adventure also contains 50 new puzzle levels and six new party games to challenge gamers of all ages. Players can select Aiai, Meemee, Gongon, or Baby to adventure their way through five different Monkey Ball Kingdoms to complete quests by solving puzzles and ultimately uniting the feuding Monkey Kingdoms. The original Monkey Ball characters of Aiai, Meemee, Gongon & Baby are back. They are joined by a host of new characters, including a Prince and Princess, who are being kept apart by a feud between their kingdoms. The couple run away to Jungle Island where they enlist the help of the Super Monkey Ball gang, to unite the feuding Monkey Kingdoms and defeat the Naysayers who have sucked all the joy from the Monkey Ball world."
+}

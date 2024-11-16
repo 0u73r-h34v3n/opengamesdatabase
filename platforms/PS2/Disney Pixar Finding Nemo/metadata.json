@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Adventure"],
+	"name": "Disney/Pixar Finding Nemo",
+	"publishers": ["THQ (US, EU, JP)", "Yuke's (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disneypixar-finding-nemo",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dive into a thrilling underwater adventure.  Based on the movie from Disney and Pixar, Finding Nemo challenges you to reunite the young clownfish Nemo with his father Marlin.  You have the option to play as Marlin, Dory, or Nemo and, as you live the action of the film's storyline, you'll meet all the other memorable characters.  Also, remember hilarious moments from the film through clips included in the game.   The search for Nemo is on, and it's up to you to find him."
+}

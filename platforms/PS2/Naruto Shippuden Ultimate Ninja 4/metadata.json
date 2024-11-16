@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Naruto Shippuden: Ultimate Ninja 4",
+	"publishers": ["Bandai|Namco Bandai Games (JP, US)", "Atari (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2009/03/27/ultimate-ninja-4-naruto-shippuden-review",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Naruto Shippuden: Ultimate Ninja 4 is the fourth installment of the Ultimate Ninja series, and the first in the Accels. The game introduces Naruto Shippuden characters for the first time, featuring 52 playable characters. Other changes include the introduction of fixed ultimate jutsu, which change as health decreases or if the player enters any secondary mode. The graphical style of the game has also been toned down, retaining the anime look. The RPG mode (now called Master Mode) is heavily expanded, now featuring a more action-oriented gameplay and explore the massive world of Naruto (unlike the previous games which had a more sandbox-style gameplay)."
+}

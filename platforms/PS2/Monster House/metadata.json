@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Adventure"],
+	"name": "Monster House",
+	"publishers": ["THQ (KO, US)", "Sony|SCEI (KO)", "Sony|SCE Korea (KO)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/08/01/monster-house-review-2",
+			"score": 6.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/monster-house",
+			"score": 59,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_monsterhouse_ps2",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/monster-house-review/1900-6154627/",
+			"score": 4.7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Oh no! Old man Nebbercracker's house is eating anything and anyone who gets near it, and Halloween is almost here! So grab your Water Blaster, gather up your courage, and get ready to explore the Monster House&trade; to find out its secrets."
+}

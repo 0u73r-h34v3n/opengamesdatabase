@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Raven Software"],
+	"genres": ["Action", "RPG"],
+	"name": "X-Men Legends II: Rise of Apocalypse",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/x-men-legends-ii-rise-of-apocalypse",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In ''X-Men Legends II'' the X-Men must join their enemy, the Brotherhood, to fight a greater menace: Apocalypse. The sequel to the team-based role-playing game [[X-Men Legends]] lets you play as one of many X-Men and use and combine his or her unique abilities to defeat enemies. Rise of Apocalypse includes new mutant powers, playable characters and environments. Also new to ''X-Men Legends II'' is online play which lets you work cooperatively against other teams of mutants."
+}

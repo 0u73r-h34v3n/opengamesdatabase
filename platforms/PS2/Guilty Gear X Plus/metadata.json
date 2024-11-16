@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Guilty Gear X Plus",
+	"publishers": ["Sammy Studios"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Featuring beautiful hand-drawn artwork and animation, as well as balanced, fun, high-energy gameplay, Guilty Gear X aspires to be the king of 2D fighters. The goal in Guilty Gear X is simple: get your opponent's Life Bar down to zero within the allotted time to win. Winning a round nets you a point; getting two points will win you the match. There are 14 different characters to choose from, each with their own personal style and moves. There might even be some hidden ones, too... Combining amazing graphics and deep play mechanics with an easy-to-learn control scheme, Guilty Gear X sets the new standard in 2D fighting games! "
+}

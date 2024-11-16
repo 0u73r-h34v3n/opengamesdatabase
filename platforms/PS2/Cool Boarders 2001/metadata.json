@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idol Minds"],
+	"genres": ["Sports"],
+	"name": "Cool Boarders 2001",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cool-boarders-2001",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rip it up with 10 World Class professional snowboards, including snowboarding champions Todd Richards, Barrett Christy, Kevin Jones, Michele Taggart, Jeremy Jones and Tara Dakides. Tweak your grabs on more then 20 huge, branching courses in 6 killer events. Carve the slopes against the pros in the intense Pro Challenger mode. Shred powder against the best! Sick tricks, grabs, grinds, board tweaks and special moves. Create your own rider and look like a pro boarder with authentic gear from top snowboarding sponsors."
+}

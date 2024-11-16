@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Smart Bomb Interactive"],
+	"genres": ["Racing"],
+	"name": "Pac-Man World Rally",
+	"publishers": [
+		"Bandai|Namco Bandai Games (US, EU)",
+		"Electronic Arts|EA Games (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pac-man-world-rally",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join Pac-Man, his friends and a host of Namco characters in the fastest, most exciting kart-racing game ever! Race against your friends, against the computer, or fight it out in Battle Mode with exciting new weapons and crazy Pac-Powers."
+}

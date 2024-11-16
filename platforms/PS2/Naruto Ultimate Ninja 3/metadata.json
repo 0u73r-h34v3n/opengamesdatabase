@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Naruto: Ultimate Ninja 3",
+	"publishers": [
+		"Bandai (JP)",
+		"Bandai|Namco Bandai Games (US)",
+		"Atari (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naruto-ultimate-ninja-3",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Naruto Ultimate Ninja 3 makes leaps in the franchise with a host of “firsts” for the series. Players can now live through and be a part of all the major events that defined Story Arc 1 in Heroes History mode. Also, ninja-in-training can customize their characters with the Ultimate Jutsu which gives them that extra bit of edge during battle and allows them to earn points towards upgrading their strength, defense, chakra, agility and other special abilities. Turn playable characters into more powerful ninja of unprecedented size or summon giant creatures as allies with the new Summoning mode. In addition, Naruto fans throughout North America can experience the game in both English and original Japanese voice over. In keeping with the tradition of the series, an exclusive and original story has players exploring the massive 3D rendered Hidden Leaf Village, participating in battle royale matches and completing more than 55 missions. The experience doesn’t stop there as tons of unlockable content are available to offer loads of replay value including movies, music and cards."
+}

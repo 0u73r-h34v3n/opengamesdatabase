@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Argonaut Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "I-Ninja",
+	"publishers": ["Namco (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/i-ninja",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "He might be small, but he's one angry Ninja.  I-Ninja stars a consummate warrior who has spent years mastering his weapons and honing his skills.  Challenged by the world's most wicked villain, Master O-Dor, and his menacing army of Ranx, the young ninja must now put his skills to use.  With access to multiple weapons, including shurikens, swords, blowguns, and rocket launchers, guide I-Ninja through imaginative missions, mini-quests, and a face off with a menacing 150-foot robot.  There is no challenge too big or risk to great for I-Ninja."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team 17"],
+	"genres": ["Turn-based strategy"],
+	"name": "Worms 4: Mayhem",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/pc/worms-4-mayhem",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Worms series continues with Worms 4: Mayhem. You can engage in the turn-based combat that the series has become known for across predesigned or random 3D maps. Worms 4: Mayhem delivers new weapons as well as more customization options, allowing you to design your teams and the arsenal that they use. You can unlock bonuses in the 25-mission story mode or play online against up to four other players."
+}

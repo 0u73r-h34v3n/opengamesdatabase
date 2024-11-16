@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ops Entertainment"],
+	"genres": ["Sports"],
+	"name": "Knockout Kings 2001",
+	"publishers": [
+		"Electronic Arts|EA Sports (US)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/knockout-kings-2001",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All the egomaniacal, violent splendor of heavyweight boxing comes to the PlayStation 2 in Knockout Kings 2001 by EA Sports. This title employs EA's new CyberScan technology, which allows the boxers faces to be accurately reproduced in full polygonal glory. In addition to the graphical overhaul, the game features new modes of play and simplified control. Choose your champion from a stable of boxing's greatest, including Muhammad Ali, Joe Louis, Rocky Marciano, and Lennox Lewis. A new career mode allows you to play through several weight classes and to box at famous arenas all around the world."
+}

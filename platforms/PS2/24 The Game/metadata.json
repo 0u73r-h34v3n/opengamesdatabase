@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Studio Cambridge"],
+	"genres": ["Action", "Adventure"],
+	"name": "24: The Game",
+	"publishers": [
+		"2K|2K Games (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/24-the-game",
+			"score": 62,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/24-the-game-review/1900-6145381/",
+			"score": 6.2,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_24thegame_ps2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/03/02/24-the-game",
+			"score": 4.2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Help Jack Bauer and the members of the Los Angeles Counter Terrorist Unit save the day in 24: The Game. You can play more than 100 missions with a variety of gameplay types such as driving, shooting, interrogation, stealth, phone tracing, and more. There are three playable characters in the game, which takes place between the second and third season of the show. The game remains authentic by employing some of the show's scriptwriters to weave the story's threads and by using the paneled display to show events that are transpiring simultaneously."
+}

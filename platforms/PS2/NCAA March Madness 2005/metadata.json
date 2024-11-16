@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-2005",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Lead one of more than 320 Division I schools to the Big Dance with NCAA March Madness 2005. Now you can use scouting reports and locker room videos from the nation's top college coaches to create a game plan that takes you to the top. Along with a revamped Dynasty mode, online play, and Mascot and Rivalry modes, NCAA March Madness 2005 lets your replay classic matchups between great college basketball teams. The game also adds new mascots, cheerleaders, arenas, crowd chants, and fight songs."
+}

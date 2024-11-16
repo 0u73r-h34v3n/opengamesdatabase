@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Evolution Studios"],
+	"genres": ["Racing"],
+	"name": "WRC 4",
+	"publishers": ["Sony|SCEE (EU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/919634-wrc-4-fia-world-rally-championship/articles.html",
+			"score": 82,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_wrc4_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The fourth of the WRC racing titles soups up the engine with brand new graphics technology based on Evolution Studios \"Shiny Shovel\" system for realistic divots, bumps and other road surface details, as well as amping up the game's incredible draw distance to near-vanishing point levels. A new gameplay structure also makes this edition more like the real WRC events, with 4-day race series (including the first-day shakedown), tighter and more realistic rule systems, and over 1.700km of real track surface designed with satellite data. The game feature 12 game modes (including online play for up to 8 racers or 30 in tournaments), improved car models with more damage modeling, new weather systems, and over 50 included drivers and co-drivers. "
+}

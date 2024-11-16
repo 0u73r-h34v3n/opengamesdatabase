@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Karaoke Revolution Party",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/karaoke-revolution-party",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Grab your friends, plug in the mics, and get the party started! Now you can sing AND dance to a collection of 50 all-new songs. Combined with more multiplayer and party modes than ever before, and support for the EyeToy® USB Camera (for PlayStation®2), Karaoke Revolution Party is the only true interactive karaoke experience."
+}

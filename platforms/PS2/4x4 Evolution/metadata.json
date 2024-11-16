@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Racing"],
+	"name": "4x4 Evolution",
+	"publishers": ["Gathering"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/4x4-evo/ps2-15633",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/4x4-evolution",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "4x4 Evolution takes gamers for a rough ride through 15 off-road courses, each with its own distinctive design, music score, and difficulty level. In addition to contending with the other vehicles, you'll face challenges such as gates, trees, and tractors in junkyards or oncoming traffic in construction zones. Win cash in a series of off-road races to upgrade your truck. You can even stop, rewind, and view an entire race again from multiple camera angles and different racers' perspectives."
+}

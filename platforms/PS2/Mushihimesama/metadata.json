@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cave"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Mushihimesama",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Mushihimesama is a vertically-scrolling 2D shooter featuring three levels of difficulty and an arranged mode with an auto-attack feature when the player gets hit. Released in standard or limited edition (with a collectible figurine.) The game is part of a shooter subgenre known as \"bullet hell\" in which the screen is so full of enemy projectiles that it's hard to see anything else. "
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BudCat"],
+	"genres": ["Action", "Platformer"],
+	"name": "Psychonauts",
+	"publishers": ["Majesco (US, EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/psychonauts",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Psychonauts are operatives that possess psychic powers. When a crazy scientist begins abducting Psychonauts for their brains, it's up to you to put an end to it once and for all. Playing as new cadet Raz, you must develop your paranormal powers, which include telekinesis, fire-starting, clairvoyance, and telepathy. Enter the minds of other people to collect figments of their imaginations, to resolve their emotional problems, and to unlock their memory vaults. As you progress in your missions, you'll earn even more psychic powers that will help you solve a variety of puzzles."
+}

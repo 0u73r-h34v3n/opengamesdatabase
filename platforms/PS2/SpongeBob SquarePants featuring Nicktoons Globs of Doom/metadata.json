@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Incinerator Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "SpongeBob SquarePants featuring Nicktoons: Globs of Doom",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/spongebob-squarepants-featuring-nicktoons-globs-o/critic-reviews/?platform=playstation-2",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SpongeBob SquarePants featuring Nicktoons: Globs of Doom is an action-packed adventure featuring 10 playable characters from some of the most popular Nickelodeon TV shows, as well as numerous iconic locations, such as Retroville, Amity Park, and Bikini Bottom. Players will play cooperatively as both heroes and villains while utilizing special gadgets to defeat the Morphoids."
+}

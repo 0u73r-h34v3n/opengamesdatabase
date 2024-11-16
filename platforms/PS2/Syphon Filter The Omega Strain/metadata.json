@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Bend"],
+	"genres": ["Action", "Shooter"],
+	"name": "Syphon Filter: The Omega Strain",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (KO)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/04/29/syphon-filter-the-omega-strain",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/syphon-filter-the-omega-strain",
+			"score": 65,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/syphon-filter-the-omega-strain-review/1900-6096445/",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_syphonfiltertos_ps2",
+			"score": 4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "A deadly global terrorist consortium threatens the human population with an outbreak of the Syphon Filter virus, and Gabe Logan returns to save humankind in Syphon Filter: The Omega Strain. The newest installment in the series offers four-player cooperative gameplay, as well as 100 deadly weapons and gadgets, hand-to-hand fighting moves, and an enhanced character customization system. Gabe can't save the world's population on his own, so he also relies on his top recruits from his newly reformed agency."
+}

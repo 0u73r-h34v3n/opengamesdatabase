@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Phoenix Games"],
+	"genres": ["Racing"],
+	"name": "Wacky Zoo GP",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Skid, jump and bump to first place with the help of the boosts, bombs, rockets & more! Blast your way around Wacky Town, bash your way around the Jungle tracks, and generally throw all you can grab at those who dare race ahead of you! Practice with the weapons in the Quick Races, get your name up in lights in the Time Trail records, and take on (or blow up!) the best to win the coveted trophies in the Tournaments to become top of the Wacky Zoo GP!"
+}

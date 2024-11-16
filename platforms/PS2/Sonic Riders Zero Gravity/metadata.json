@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Racing"],
+	"name": "Sonic Riders: Zero Gravity",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/956/956233.html",
+			"score": 5.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sonic-riders-zero-gravity",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fan-favorite Sonic Riders series returns with a whole new form of chaotic racing by manipulating gravity itself! These gravity-altering powers can transform walls into tracks, or create a \"black hole\" that sucks you through for the ultimate speed boost, and allows for an entirely new way to gain a leg up on your competitors. From illuminated highways in a bustling metropolis to the outer reaches of space, you will race at the speed of light on 16 dynamic courses."
+}

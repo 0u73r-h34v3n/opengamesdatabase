@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//G.U. vol. 3//Redemption",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN review score",
+			"url": "http://ps2.ign.com/objects/751/751422.html",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "IGN userscore",
+			"url": "http://ps2.ign.com/objects/751/751422.html",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackgu-vol-3redemption",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Continuing where the second installment left off, in ''.hack//G.U. Vol. 3: Redemption'' Haseo discovers that old enemies have returned and some friends have turned against him. And with the mysterious evil that once lurked only within the confines of the MMO now causing havoc in the real world, Haseo and his friends must overcome impending doom and restore balance to both realities. In ''.hack//G.U. Vol. 3: Redemption'', players can utilize an enhanced battle system in which both Haseo and his Avatar Skeith will evolve into new forms to utilize more powerful attacks."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Syscom"],
+	"genres": ["Simulation"],
+	"name": "City Crisis",
+	"publishers": ["Syscom (JP)", "Take-Two Interactive (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/city-crisis",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by the heroic efforts of helicopter rescue units around the world, City Crisis puts you in the pilot's seat of a high-tech rescue helicopter. Three action packed game modes have you piloting one of five rescue choppers through towering infernos, deadly chemical blazes and natural disasters to rescue survivors and save the city."
+}

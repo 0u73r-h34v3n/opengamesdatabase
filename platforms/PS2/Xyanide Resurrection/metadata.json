@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Playlogic"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Xyanide: Resurrection",
+	"publishers": ["Playlogic (EU)", "Ertain (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Drake is a star fighter pilot escorting an execution craft that holds the evil witch Aguira. On route, an asteroid filled with Xyanide (a substance that materializes thoughts) hits the prisoner's ship. Now, as Drake, you must battle through a series of surreal nightmares. While piloting skills and kill efficiency are important to survive, you must also learn how to adapt to your different environments. Morph into different types of fighters, master new weapons, and acquire power-ups to defeat your enemies."
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tate Interactive"],
+	"genres": ["Action", "Platformer"],
+	"name": "Kao the Kangaroo Round 2",
+	"publishers": [
+		"JoWooD Entertainment|JoWooD Entertainment AG (EU)",
+		"Atari (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kao-the-kangaroo-round-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kao the kangaroo is on the run - he has to stop the evil hunter Barnaba, who has captured most of his friends. Starting deep in the forests of the beavers, your journey will bring you to fascinating locations like the thunder mountain, the sea land and even the lost treasure island. Lots of adventures are waiting - use a snowboard to cross the frozen \"gap of no return\", win a breath-taking speed boat race and fly on the back of your pelican friend across the sea until you reach the legendary treasure island and the hideout of Barnaba."
+}

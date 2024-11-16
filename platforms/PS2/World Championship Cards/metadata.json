@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crave"],
+	"genres": ["Gambling"],
+	"name": "World Championship Cards",
+	"publishers": ["Crave"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-championship-cards",
+			"score": 34,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the publishers of the best selling poker video game brand \"World Championship Poker\" - World Championship Cards will offer fun variety of card games to challenge all your friends! Over 30 different card games to choose from, including Bridge, Gin Rummy, Spades, Hearts and more!"
+}

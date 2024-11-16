@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Opera House"],
+	"genres": ["Gambling"],
+	"name": "Fever 8",
+	"publishers": ["ICS"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is the Official Pachinko Simulation for the SANKYO Fever 8 / Wonder Powerful pachinko machine."
+}

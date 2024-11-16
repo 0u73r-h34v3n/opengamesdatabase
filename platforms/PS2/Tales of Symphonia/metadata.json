@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["RPG"],
+	"name": "Tales of Symphonia",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"synopsis": "In a dying village on Sylvarant, legend has it that a Chosen One will one day appear from among the people, and the land will be reborn. Now, you must enter a cel-shaded world in which you command real-time battles. Execute and combine hundreds of special attacks, magic spells, and combos. Each character grows to suit your fighting style, and the storyline changes based on the characters' relationships. The line between good and evil blurs in this immersive adventure where the fate of two interlocked worlds hangs in the balance."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Puzzle"],
+	"name": "Super Fruit Fall",
+	"publishers": ["System 3 (EU)", "Play It (AU)"],
+	"regions": ["PAL"],
+	"synopsis": "The ultimate in gravity-based puzzle fun! Can you empty the playing area of your favourite fruit? Send the citrus tumbling as you try for matches of three or more fruit! Spin the grid to send the fruit falling, but watch those turns - the fewer turns ..."
+}

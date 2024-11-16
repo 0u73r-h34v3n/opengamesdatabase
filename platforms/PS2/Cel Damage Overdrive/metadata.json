@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pseudo Interactive"],
+	"genres": ["Racing"],
+	"name": "Cel Damage Overdrive",
+	"publishers": ["Play It! (EU)", "System 3 (EU)"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/cel-damage-overdrive/",
+			"score": 7.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "PART DEMOLITION DERBY, PART WHACKED-OUT CARTOON COME TO LIFE.  36 wild, over-the-top weapons 10 tough 'toons Deathmatch, capture-the-flag and gate racing action 4-person split-screen multiplayer 12 interactive cartoon worlds"
+}

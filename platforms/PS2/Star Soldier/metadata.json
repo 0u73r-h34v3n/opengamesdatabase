@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hudson|Hudson Soft"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Star Soldier",
+	"publishers": ["Hudson"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The best of breed scrolling shooter of the Nintendo Entertainment System returns in this smash wireless hit! This is a sole warrior's mission to rid the galaxy of the sinister Star Brain life forms that now control 16 huge areas of space. It's going to be tough but your starship, the Caesar, can pack some decent firepower so you can become a true Star Soldier of the galaxy."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Stormfront Studios"],
+	"genres": ["Action", "RPG"],
+	"name": "The Legend of Alon D'ar",
+	"publishers": ["Ubisoft"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-legend-of-alon-dar",
+			"score": 43,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A calaclysmic evil is tearing the magical world of Chandar in two. Control a young warrior and assemble a party of heroes, engaging in desperate battle and labyrinthine mystery as you explore this shattered realm. Discover the dark mysteries of the past and become the savior of a world so big, the adventure is boundless..."
+}

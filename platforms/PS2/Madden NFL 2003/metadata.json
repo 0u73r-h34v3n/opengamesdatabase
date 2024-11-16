@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 2003",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madden-nfl-2003",
+			"score": 95,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game of football just got more real with Madden NFL 2003.  This year's installment of the Madden NFL Football series features more depth, new animation, realistic player AI, and in-depth play modes.  Hop on John Madden's Cruiser Tour Bus and travel to all NFL cities to complete skilled tasks in the all-new Mini-Camp mode.  The improved graphics and presentation now show sidearm QBs, gang-tackling, stand-still receiver catches, and more than 300 realistic player faces.  Madden NFL 2003 gives you more control than ever before, with faster game speed, a more finely tuned passing game, and independent audibles for defensive line, linebackers, and defensive backs."
+}

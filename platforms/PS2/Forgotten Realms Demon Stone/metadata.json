@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Stormfront Studios"],
+	"genres": ["Action", "Fighting"],
+	"name": "Forgotten Realms: Demon Stone",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/forgotten-realms-demon-stone",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A lone fighter, a brash sorcerer, a hot-tempered rogue... Three warriors, brought together by an unexplainable force, must now embark on a dangerous journey. You can take control of all three characters, switching between them to battle an onslaught of enemies. Use melee moves, projectile power, and stealth attacks to defeat creatures from the world of Dungeons & Dragons. Set within the Forgotten Realms, Demon Stone's locations include Gemspark Mines, Jungles of Chult, Underdark, and more."
+}

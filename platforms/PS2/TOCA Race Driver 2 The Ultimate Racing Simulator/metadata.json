@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "TOCA Race Driver 2: The Ultimate Racing Simulator",
+	"publishers": ["Codemasters (US, EU)", "Interchannel (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/921360-toca-race-driver-2-the-ultimate-racing-simulator/index.html",
+			"score": 83,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/toca-race-driver-2-the-ultimate-racing-simulator",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "No more switching games to experience different types of racing; TOCA Race Driver 2 features 15 different motor racing styles, including Street Racing, Rally Cross, and Super Trucks. The game's 31 licensed and fictional global race locations offer 48 tracks, including Hockenheim from the German DTM series and Surfers Paradise from the Australian V8 series. Ride in a variety of cars such as Ford GT, Aston Martin Vanquish, and Nissan Skyline, and battle for position against 21 cars on the track."
+}

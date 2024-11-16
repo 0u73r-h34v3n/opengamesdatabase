@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Music"],
+	"name": "Street Dance",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Street Dance takes dance mat clubbers into the world of the urban ghetto with a great range of urban tunes."
+}

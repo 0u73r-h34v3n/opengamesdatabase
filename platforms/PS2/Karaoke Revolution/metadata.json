@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Karaoke Revolution",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/karaoke-revolution",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Turn your PlayStation 2 into a high-end, interactive karaoke machine with Karaoke Revolution, the latest in Konami's line of music video games.  Karaoke Revolution features a varied list of tunes from current hits to yesterday's classics.  With the USB headset, you'll not only sing song, but get judged on your performance--so make sure you're on key.  Take your voice to the ultimate concert venue in Showtime mode.   Karaoke Revolution gives everyone something to sing about."
+}

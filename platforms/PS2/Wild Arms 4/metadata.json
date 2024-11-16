@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Media Vision"],
+	"genres": ["RPG"],
+	"name": "Wild Arms 4",
+	"publishers": [
+		"Sony|SCEI (JP)",
+		"Xseed Games (US)",
+		"505 Game Street (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/680/680753p1.html",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wild-arms-4",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jude Maverick has grown up in an isolated town called Ciel, which is completely enclosed in a large sphere floating thousands of feet above the surface of Filgaia. His sheltered world changes forever when he sees the sky \"tear\" and ships entering his homeland. Upon inspecting the camp site set up by the intruders, he sees something that he has never seen before; a girl. The girl's name is Yulie and she is being held captive by the intruders after being captured by a \"Drifter\" for hire, Arnaud G. Vasquez. After the invading army attacks Ciel and brings the whole sphere crashing down, Jude, Yulie and Arnaud join forces to find out the army's true intention behind Yulie's abduction. With the help of another Drifter, Raquel, these four idealistic teenagers travel the war-torn land of Filgaia in search of truth, their own identities and their individual paths to adulthood. Innovative new HEX battle system unlike anything seen before in turn-based RPGs; easily accessible while providing an amazing amount of speed, depth and strategy. Action elements on the field map such as double- jumps, using the new \"Accelerator\" ability to manipulate time, and equipping items to solve puzzles maintains the excitement between battles."
+}

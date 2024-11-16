@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Billiken Soft"],
+	"genres": ["Board"],
+	"name": "Simple 2000 Series Vol. 29: The Renai Board - Seishun 18 Radio",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Youth 18 Radio is a board game that also incorporates slight adventure aspects and high-production anime movies with the completion of each scenario."
+}

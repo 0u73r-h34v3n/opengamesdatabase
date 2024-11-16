@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Cheltenham"],
+	"genres": ["Action", "Adventure"],
+	"name": "Alias",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/alias",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the television series, Alias is a third-person action adventure containing a unique blend of action and stealth that puts you under fire and under pressure.  Whether you're up against the clock or being hunted by the enemy, fighting against the odds, or fleeing for your life, the action is relentless.  Utilize your incredible spyware, deadly moves, and array of disguises to complete the most dangerous covert missions across the globe.  All the heart-stopping action and tension of the TV series is now under your control."
+}

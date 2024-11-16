@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action"],
+	"name": "WarJetz",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/world-destruction-league-war-jetz/ps2-15211",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/warjetz",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's Wednesday night and time to fight in the World Destruction League's latest contribution to televised mega-destruction and mayhem: Warletz&trade;! The brawl takes to the unfriendly skies, separating the rookies from the pros in an aerial battle for the ultimate title of Air Lord.  Travel from wilderness to wasteland, taking on opposing \"gangs\" while ransacking their aircraft and weaponry for your own arsenal. It's every pilot for themselves in this destruction derby at 5000 feet."
+}

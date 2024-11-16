@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Turn-based strategy", "RTS"],
+	"name": "Ring of Red",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ring-of-red",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A highly classified prototype mech was stolen from the allied forces in southern Japan and it's up to you to get it back! Take control of monstrous mechs and brave soldiers. Immerse yourself in detailed 3D battle sequences with an exciting style of gameplay that mixes in-depth strategy and real-time action as you lead the allies to victory."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Samurai Warriors 2 Empires",
+	"publishers": ["Koei (JP, US, EU, AU)", "Koei|Koei Tecmo Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/samurai-warriors-2-empires",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Samurai Warriors 2 Empires, the much-anticipated followup to the Tactical Action game Samurai Warriors 2 combines the most exciting aspects of Action, Fighting and Strategy games. Japan is divided into 25 warring states and it is up to you to resurrect a nation using equal amounts of strategy and strength! Before each battle, you will meet with their war council to discuss military and political affairs; then it's time for combat. Samurai Warriors 2 Empires is a tantalizing blend of strategy and true warrior action."
+}

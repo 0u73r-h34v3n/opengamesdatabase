@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mere Mortals"],
+	"genres": ["Sports"],
+	"name": "Downhill Slalom",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Downhill Slalom is a skiing game that features 3 different downhill slopes. The game has 2 playable characters at the beginning  and 3 other unlockable ones."
+}

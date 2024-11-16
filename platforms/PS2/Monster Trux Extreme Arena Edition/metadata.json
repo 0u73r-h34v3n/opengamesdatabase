@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Data Design Interactive"],
+	"genres": ["Racing"],
+	"name": "Monster Trux Extreme: Arena Edition",
+	"publishers": ["Metro3D", "PhoenixGames"],
+	"regions": ["PAL"],
+	"synopsis": "Monster Trux Arenas lets you drive these awesome, monstrous machines in some of the toughest arenas known to man.  Unleash the power and hold on tight cus in this gameyou have to tame the beast!!!"
+}

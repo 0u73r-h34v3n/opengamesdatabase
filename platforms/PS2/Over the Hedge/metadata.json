@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Edge of Reality"],
+	"genres": ["Action", "Platformer"],
+	"name": "Over the Hedge",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/over-the-hedge",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When a housing development intrudes on their woodland habitat and an opossum is kidnapped by an evil exterminator, three wise-cracking rodents and one very neurotic reptile invade the burbs in a quest to rescue their friend. Battle the exterminator and his army of mind-controlled mammals, and save the forest (and your own hide) from the world's peskiest critter man."
+}

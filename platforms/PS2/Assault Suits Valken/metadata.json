@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Psikyo"],
+	"genres": ["Action", "Platformer"],
+	"name": "Assault Suits Valken",
+	"publishers": ["NCS (JP)", "X-Nauts (KO)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Upgraded remake of the original Juusou Kihei Valken (Assault Suits Valken) for the Super Famicom, released internationally as Cybernator. The action is set in the 22nd century, when humankind has developed high-power weaponry that can hover despite being armed to the teeth. The game starts with the same classic Level 0 30-second opening sequence followed by lots more sidescrolling mech action."
+}

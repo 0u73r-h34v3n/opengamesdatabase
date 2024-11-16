@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Papaya Studios"],
+	"genres": ["Action"],
+	"name": "Ben 10 Ultimate Alien: Cosmic Destruction",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Based on Cartoon Network's all-new new television series, Ben 10: Ultimate Alien, the Ben 10: Ultimate Alien: Cosmic Destruction will allow players to wield the power of the all-new Ultimatrix, the strongest Omnitrix to date, to transform Ben into more powerful, hyper-evolved alien forms and experience impressive battles as the most ultimate aliens for the first time in never before seen places."
+}

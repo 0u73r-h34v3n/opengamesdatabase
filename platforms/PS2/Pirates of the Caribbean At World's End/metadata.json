@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "Pirates of the Caribbean: At World's End",
+	"publishers": [
+		"Disney Interactive Studios (US, EU, JP, AU)",
+		"Eurocom Entertainment Software (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pirates-of-the-caribbean-at-worlds-end",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "At World's End video games from Disney Interactive Studios invite players to \"live and die by the sword\" as they venture to the worlds of the films and beyond while playing as Captain Jack Sparrow, Will Turner and Elizabeth Swann."
+}

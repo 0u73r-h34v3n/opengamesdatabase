@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sucker Punch"],
+	"genres": ["Action", "Platformer"],
+	"name": "Sly 3: Honor Among Thieves",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (KO)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/927168-sly-3-honor-among-thieves/index.html",
+			"score": 84,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sly-3-honor-among-thieves",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Sly 3: Honor Among Thieves, you follow Sly Cooper and his partners in crime as they plunder locations around the world and fight adversaries, both old and new. Sly 3 is a cell-shaded platform game involving vehicles, gadgets, and an assortment of minigames. Joining your heists are a few new playable characters and enough new items to keep them fully equipped. Sly 3 also includes competitive and cooperative multiplayer modes."
+}

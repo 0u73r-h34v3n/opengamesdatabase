@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Platformer"],
+	"name": "Scooby-Doo! Unmasked",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_scoobydoounmasked_ps2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/scooby-doo!-unmasked",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In this action adventure platform game, players assume the role of Scooby-Doo as he and the teenage sleuths of Mystery Inc. visit Fred's cousin Jed, a monster movie set designer. They find Jed has disappeared and his animatronics are out of control, sending mechanical monsters haywire and making Jed the prime suspect. Players must stop the creepy costumed characters, unmask the truth and prove Jed's innocence. Scooby is able to don Kung Fu, bat and archer costumes so that he can karate chop, glide and aim plungers at monsters. The game consists of three sprawling worlds that each feature multiple levels and mini games with numerous cut scenes and climactic boss battles. Players recognize will the voice of the original Batman television series' Adam West as Winslow Stanton, the game's main villain, as well as authentic Scooby-Doo! cartoon voice actors. In addition, effects from the original cartoon, such as canned laughter and classic catch phrases, have been incorporated into the game."
+}

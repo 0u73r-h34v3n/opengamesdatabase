@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "Official U.S. PlayStation Magazine Demo Disc 108",
+	"publishers": ["Sony|Sony Computer Entertainment", "Ziff Davis Media"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Official U.S. PlayStation Magazine (often abbreviated to OPM) is a now-defunct monthly video game magazine, published by Ziff Davis Media. Issues 49, 51, 53, 55-112 include a PlayStation 2 demo DVD. The first issue was published on December 1997. After the issue 112 (January 2007) the magazine exited the market. The discs were developed by LifeLike Productions, Inc."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 2003",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-2003",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From towering drives to picture-perfect putts, the essence of golf has been captured in Tiger Woods PGA Tour 2003.  The game features plenty of challenging courses such as Pebble Beach Golf Links and Royal Birkdale.  Plus, you can choose from a variety of professional golfers, each with their own strengths and weaknesses.  Hit the course as Tiger Woods or put your skills up against his in a one-on-one showdown, but either way, be prepared to bring your best game."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Katekyo Hitman Reborn! Dream Hyper Battle!",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Based on the Shonen Jump action manga, this entry in the Hitman Reborn! franchise is a one-on-one, 3D fighting game featuring the favorite characters from the series."
+}

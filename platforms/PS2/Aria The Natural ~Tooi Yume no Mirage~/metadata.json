@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Regista"],
+	"genres": ["Visual Novel"],
+	"name": "Aria: The Natural ~Tooi Yume no Mirage~",
+	"publishers": ["Alchemist"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Akari Mizunashi continues her job as a gondolier along with her friends from the other two rival companies, Aika and Alice. As they continue their training to become Undines, they continue to meet new people and partake on mysterious adventures, all in the quiet, scenic, and peaceful city of Neo Venezia."
+}

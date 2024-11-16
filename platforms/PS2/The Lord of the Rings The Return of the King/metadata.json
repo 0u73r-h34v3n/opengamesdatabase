@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Games"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Lord of the Rings: The Return of the King",
+	"publishers": ["Electronic Arts|EA Games (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/11/03/lord-of-the-rings-return-of-the-king-5",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-lord-of-the-rings-the-return-of-the-king",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/the-lord-of-the-rings-the-return-of-the-king-revie/1900-6078088/",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_earotk_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Return to Middle-earth in a game based on the epic final chapter of the The Lord of the Rings movie trilogy.  Developed using the same digital assets as the films, The Return of the King recreates in stunning detail the final events of the War of the Ring.  Become the heroes who determine the fate of Middle-earth as you traverse the haunted Paths of the Dead, defend Minas Tirith, and even play co-op multiplayer with a friend as you march against the impenetrable Black Gates of Mordor.  The fate of Middle-earth is in your hands."
+}

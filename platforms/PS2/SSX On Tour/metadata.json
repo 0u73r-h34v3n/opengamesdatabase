@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "SSX On Tour",
+	"publishers": ["Electronic Arts|EA Sports Big"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ssx-on-tour",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can ski or snowboard yourself into stardom in SSX On Tour. The game includes 12 levels for racing and performing stunts. You can earn yourself a spot on the professional tour by winning events and improving your skills. Your success moves you up the rankings until you can call yourself the best on the mountain. This version of SSX features new graphical effects and controller feedback designed to capture the speed of your races and the massive air of your tricks. SSX On Tour also includes new music, art, and characters."
+}

@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action"],
+	"name": "DreamWorks Shrek the Third",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2007/05/21/shrek-the-third-review-2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shrek-the-third",
+			"score": 56,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/shrek-the-third-review/1900-6171162/",
+			"score": 5.2,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/shrek-the-third-review",
+			"score": 5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Save Far Far Away in this twisted fairy tale adventure. When the King falls ill, it's up to Shrek to find the true heir and save Far Far Away. Journey with Shrek, Donkey, and Puss-in-Boots on this all new twisted fairy tale adventure. Along the way, meet new friends, conquer bold enemies, and visit never before seen lands from the movie and beyond."
+}

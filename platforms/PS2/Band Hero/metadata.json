@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BudCat"],
+	"genres": ["Music"],
+	"name": "Band Hero",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/band-hero",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This holiday season, the biggest music event of the year will hit living rooms around the world as family and friends come together to ascend the virtual stage and rock their way to superstardom with Band Hero. Brought to you by the makers of Guitar Hero, one of the best-selling video game franchises of all time, Band Hero features the hottest chart-topping hits from everyone's favorite bands including No Doubt, Nelly Furtado, Lily Allen, The All-American Rejects and Jackson 5. Headlined by some of the leading names in music as in-game artists and playable characters, including singer, songwriter and guitarist Taylor Swift and Maroon 5 frontman Adam Levine, Band Hero is the ultimate party game where friends and family can choose to join the band or take five at any time without interrupting the performance, in Party Play mode. Band Hero allows fans to create the band of their dreams, using any combination of vocals and guitar or drum controllers, providing budding pop stars the chance to customize how they interact with and experience their favorite music."
+}

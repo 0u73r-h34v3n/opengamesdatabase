@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-07",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Momentum changes everything - now college football's most celebrated videogame turns the tide with NCAA Football 07. Whether battling your biggest rival or playing for the first-ever BCS National Championship Game in Dynasty Mode, success on the field depends on your ability to maintain momentum. Featuring unprecedented graphics that capture every moment in complete detail--from the authenticity of the stadiums, mascots, and marching bands, to the true-to-life look and feel of the players on the field."
+}

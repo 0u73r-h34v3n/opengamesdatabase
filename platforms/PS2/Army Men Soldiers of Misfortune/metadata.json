@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Big Blue Bubble|Big Blue Bubble Inc."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Army Men: Soldiers of Misfortune",
+	"publishers": ["DSI Games"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/army-men-soldiers-of-misfortune",
+			"score": 24,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Army Men: SOM take on the role of Timmy as he battles alongside the \"Green Brigade\" against the \"Tan Strike Force\" to prevent them from taking over the house. Timmy enters the world of make-believe as he imagines himself only 3 inches high. Armed with his favorite toy weapons, help Timmy prevent his little tan army men from achieving global home domination. The player's goal is to complete every mission in the game and work their way to the final battle and prevent the Tan Strike Force from taking control of the house."
+}

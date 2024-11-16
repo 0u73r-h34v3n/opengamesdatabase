@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Level-5"],
+	"genres": ["Action", "RPG"],
+	"name": "Dark Cloud",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dark-cloud",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An ancient evil has been unleashed.  This Dark Cloud rains destruction on what was once a peaceful and benevolent continent, bringing it to its knees in one fell swoop.  Journey on a quest through time to unravel the mysterious tale of the ''Dark Cloud''.  Set in a vivid and inviting world, ''Dark Cloud'' delivers imaginative, vibrant, and detailed gameplay complemented by a strong character-driven storyline.  A new feature, Georama, challenges you to build a customized world then interact with it in real time.  As you build the world, life begins to flourish and unveils clues and pieces of the storyline as you progress through the adventure."
+}

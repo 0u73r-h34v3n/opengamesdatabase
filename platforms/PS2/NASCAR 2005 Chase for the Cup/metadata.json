@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Racing"],
+	"name": "NASCAR 2005: Chase for the Cup",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nascar-2005-chase-for-the-cup",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Do you have what it takes to be a top NASCAR driver? In NASCAR 2005: Chase for the Cup, you can become a superstar owner or driver and decide where, how, and what to drive. During races you can even rattle rivals with the all-new Intimidator button. Push them too far and you might find yourself in a postrace confrontation. Develop essential racing skills, increase fan support, and compete in four racing series to become the driver that top NASCAR teams are looking for."
+}

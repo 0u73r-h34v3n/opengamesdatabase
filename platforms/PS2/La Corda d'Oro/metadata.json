@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ruby Party"],
+	"genres": ["RPG", "Simulation", "Visual Novel"],
+	"name": "La Corda d'Oro",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "La Corda d'Oro is the starting title for the third major Neoromance series, Kiniro no Corda. La Corda d'Oro is the prequel to [[Kiniro no Corda 2]]. The protagonist is a second year student at the prestigious Seiso Academy, a high school and college famed for teaching the world's greatest professional musicians. She cannot play an instrument and attends the school's general education program. One day, however, she sees a fata and is scouted by him to participate in the school's annual musical concour. He blesses her with a magical violin that can play any song if she possesses the passion to play it. The protagonist uses it to experience the classical music curriculum offered at Seiso. "
+}

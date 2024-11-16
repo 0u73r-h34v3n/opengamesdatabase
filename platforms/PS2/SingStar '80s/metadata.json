@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar '80s",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/singstar-80s",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Remember how totally rad the '80s were? Especially the music and videos? SingStar® '80s features songs and videos from iconic artists such as Culture Club, Madonna, Billy Joel, Duran Duran, Wham!, Tears for Fears and more! Grab the mics and have a party...'80s style!"
+}

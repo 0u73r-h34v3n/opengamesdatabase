@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Arcade", "Compilation"],
+	"name": "NamCollection",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"synopsis": "NamCollection is a video game compilation of 5 PlayStation games by Namco, released in 2005 only in Japan to celebrate their 50th Anniversary. Each Game includes enhancements like analog stick support and retexturing. Included games: Ace Combat 2, Mr. Driller, Tekken, Ridge Racer, Klonoa: Door to Phantomile."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Tak 2: The Staff of Dreams",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/tak-2-the-staff-of-dreams/critic-reviews/?platform=playstation-2",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tak must learn new Juju magic to recover the Staff of Dreams and defeat Tlaloc once and for all. Now dabbling with new abilities, Tak can create a little Juju magic of his own. As Tak, try to master three new Jujus, expanded combat capabilities, and new weapons as you battle Nightmare creatures. Interact with familiar characters from the series, along with Jibolba's brother, JB. Multiplayer \"Dinky\" games let you face off in head-to-head action with playable characters from Tak's world."
+}

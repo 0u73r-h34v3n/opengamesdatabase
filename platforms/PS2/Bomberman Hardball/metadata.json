@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Magical Company|Magical Company (Mahou)"],
+	"genres": ["Puzzle"],
+	"name": "Bomberman Hardball",
+	"publishers": ["Hudson (JP)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Bomberman Hardball is divided into four games. Battle mode (the standard Bomberman game), is joined by tennis, golf and baseball games. At the center of all this is the Living mode, a character building feature in which the player can design a Bomberman for use in any of the battle modes."
+}

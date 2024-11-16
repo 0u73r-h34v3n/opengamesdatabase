@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kid"],
+	"genres": ["Visual Novel"],
+	"name": "Ai Yori Aoshi",
+	"publishers": ["Kid (JP)", "Success (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The story focuses on a girl called Tina who, having just entered winter break, sees a television program about a southern island and developers an urge to go to the beach. While this is impossible, as it's winter, she comes up with the idea of heading out to a nearby mansion, which seems like it will serve as a perfect place to chill during break."
+}

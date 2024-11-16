@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Reflections Interactive"],
+	"genres": ["Racing"],
+	"name": "DRIV3R",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/driv3r",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Wheelman returns in his most dangerous adventure yet--an interactive driving epic on par with the most intense Hollywood action blockbusters.  Undertake a wide variety of high-speed vehicle-based missions and go deeper undercover than ever before.  The game features over 70 playable vehicles, including cars, bikes, artics, and busses, and eight different weapons, ranging from handguns and machine guns to grenade launchers.  Driver 3 provides gamers with all new gameplay possibilities, replayability, and a whole new driving experience."
+}

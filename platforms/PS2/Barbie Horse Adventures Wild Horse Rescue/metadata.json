@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Sports"],
+	"name": "Barbie Horse Adventures: Wild Horse Rescue",
+	"publishers": ["Universal Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/barbie-horse-adventures-wild-horse-rescue",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Some of Barbie's wild horses are missing from her stable, and you must help her find them. Choose your horse, riding tack, and Barbie's outfit, and then ride through the beautiful countryside. You can even help Barbie dismount her horse and explore trails on foot. Your adventure, however, is not without dangers, as you must jump over fallen trees, cross rickety bridges, and avoid other obstacles. After you chase the horses, lasso them, and return them to safety, you can challenge your friend to race."
+}

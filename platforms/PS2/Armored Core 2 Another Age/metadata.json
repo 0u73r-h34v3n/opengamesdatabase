@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Armored Core 2: Another Age",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Metro3D (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/armored-core-2-another-age",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Armored Core 2: Another Age brings the action back to Earth in this highly anticipated sequel. The Earth Government is struggling with the powerful Corporations for control of the planet -- and they desperately need help from the Ravens."
+}

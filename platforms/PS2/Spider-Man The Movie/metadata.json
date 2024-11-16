@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treyarch"],
+	"genres": ["Action", "Fighting"],
+	"name": "Spider-Man: The Movie",
+	"publishers": ["Activision (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spider-man-the-movie",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Spider bites can sometimes turn you into a superhero, as in the case of Peter Parker in Spider-Man: The Movie. Assume the role of Peter, a good-hearted teenager bitten by a genetically engineered spider, which gives him muscles, incredible strength, and spider-like abilities.  You'll have to learn how to control your powers including Spider Sense, web-slinging, and wall crawling, and the all-new aerial combat moves. The world's toughest villains, including Shocker, Vulture, and the Green Goblin will all be after you. Are you up for the challenge?"
+}

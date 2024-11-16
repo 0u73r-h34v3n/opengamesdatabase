@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Microids"],
+	"genres": ["Adventure"],
+	"name": "Syberia",
+	"publishers": ["Microids"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_syberia_ps2",
+			"score": 5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "For the young Kate Walker, an ambitious lawyer, the Voralberg toy company acquisition seemed like a textbook case--a quick stopover to a small alpine village in France to buy-out an old automaton factory, then straight back home to New York.  But her journey across land and time throws all she values into question, and the deal she set out to sign turns into a pact with destiny.  Follow Kate through a magical world of automatons, amazing characters, and mysterious environments.  This puzzle-driven adventure blends logical problem-solving with a complex and involving storyline."
+}

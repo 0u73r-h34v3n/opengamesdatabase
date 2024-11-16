@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Fairly OddParents! Shadow Showdown",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/09/08/fairly-oddparents-shadow-showdown",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-fairly-oddparents!-shadow-showdown",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An unbelievable phenomenon is rattling kids all across Dimmsdale--there's no TV reception! When prevented from watching the season finale of Crash Nebula, Timmy and his Fairy Godparents embark on a journey that they soon find goes beyond simple TV static. An evil force plans to take over the world, and now Timmy must use wishes to unmask the evil force known only as The Shadow. New wish inventions include the Suit Spray, Repair-o-Tron, Pogo Stick of Justice, and more."
+}

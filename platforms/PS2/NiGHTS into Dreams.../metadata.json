@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Action", "Platformer"],
+	"name": "NiGHTS into Dreams...",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Immerse yourself in an unparalleled 3D flying experience. NiGHTS truly delivers an amazing virtual world of dreams -- filled with unbelievable real-time effects, fantastic creatures and nightmarish monsters.    * Master a showcase of Sega Saturn's Processing Power. * Face your worst nightmares in a stunning world of 3D gameplay. * Dozens of camera angles, never-seen-before effects and 3D positional sound. * Developed exclusively for Sega Saturn by the creators of \"Sonic the Hedgehog.\""
+}

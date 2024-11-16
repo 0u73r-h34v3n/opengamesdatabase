@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Global A"],
+	"genres": ["Action", "Adventure"],
+	"name": "Akudaikan 3",
+	"publishers": ["Global A"],
+	"regions": ["NTSC-J"],
+	"synopsis": "As in the two previous games, you are an evil magistrate in historic Japan. The allies of Justice are trying to capture you, you defend yourself by laying traps and hiring fighters. "
+}

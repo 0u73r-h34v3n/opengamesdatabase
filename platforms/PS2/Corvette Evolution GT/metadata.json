@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "Corvette Evolution GT",
+	"publishers": [
+		"Black Bean Games (EU, AU)",
+		"Valcon Games (US)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/corvette-evolution-gt/ps2-801460",
+			"score": 4.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Experience a new level of skill and emotion as you get to know your opponents and they also get to know you.  You will have to use every trick in your book and every skill you know to take these drivers on and win every race!"
+}

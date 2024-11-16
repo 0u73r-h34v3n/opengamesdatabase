@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Trigger Man",
+	"publishers": ["Crave (US)", "Play It! (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/trigger-man",
+			"score": 32,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Trigger Man puts you in the middle of a growing conflict between rival Mob families. In the name of the Coladangelo family, you must destroy rival gang operations, intimidate or assassinate witnesses and rival Mob leaders, and wound a soldier here and there as a message to his boss. Work fast as you search through loading docks, fight through a fine Italian restaurant, and scour a casino for your prey. People know you as the underworld's toughest Mob enforcer, and you have an array of deadly weapons to keep your reputation alive."
+}

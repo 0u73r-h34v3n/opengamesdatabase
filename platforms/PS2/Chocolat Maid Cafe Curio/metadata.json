@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Giga"],
+	"genres": ["Adventure"],
+	"name": "Chocolat: Maid Cafe Curio",
+	"publishers": ["Alchemist"],
+	"regions": ["NTSC-J"],
+	"synopsis": "One morning, the main character, Daisuke Yuki, was told by his father that he had remarried and had a new family, and that he was going on his honeymoon for the next three months. In the meantime, he will have to run his father's coffee shop until he returns. He is totally confused with his new life at first but after meeting various customers and falling in love, he starts to enjoy it."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Turn-based strategy"],
+	"name": "Front Mission 5: Scars of the War",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This game marks the celebration of the 10th Anniversary of Square's Front Mission strategy series. You play as Walter, who's joined on with the U.S.N. Forces. In addition to a stronger adventure portion, in which you go about scouting your own battalion members, the game includes a number of bonus modes, including Survival Simulator, Battle Simulator and Arena, where you can collect money and parts."
+}

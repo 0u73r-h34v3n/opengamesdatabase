@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pivotal Games"],
+	"genres": ["Action", "Shooter"],
+	"name": "Conflict: Desert Storm",
+	"publishers": [
+		"SCi (EU)",
+		"Gotham Games (US)",
+		"Capcom (JP)",
+		"Square Enix (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/562160-conflict-desert-storm/index.html",
+			"score": 70,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/conflict-desert-storm",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Conflict: Desert Storm lets you lead one of the best known and most feared special operations forces in the world: the elite British SAS or the US Delta Force.  Covert missions take you through hostile environments where only your expertise in stealth, tactics, and firepower will ensure the success and safety of your men.  Your missions are as unpredictable as they are dangerous: from vital scud-hunting missions deep within enemy territory to highly secretive rescue and assassination operations in Baghdad itself."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Adventure"],
+	"name": "Castlevania: Lament of Innocence",
+	"publishers": ["Konami (US, JP, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/castlevania-lament-of-innocence",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Castlevania makes its debut on the PS2 featuring an enchanting storyline and intricate gameplay.  In Castlevania: Lament of Innocence, you play as Leon Belmont, a man skilled in combat, as he struggles to free his betrothed, Sara, from huge monsters.  Use combos and special moves on your perilous journey to the evil castle.  Immerse yourself in the enhanced graphics and mesmerizing orchestral soundtrack.  Discover the true origins of Dracula and the Belmont family in this exciting first episode of the saga."
+}

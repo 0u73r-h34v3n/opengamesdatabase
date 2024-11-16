@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "AC/DC Live: Rock Band Track Pack",
+	"publishers": ["MTV Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "AC/DC LIVE: Rock Band Track Pack is a fully-featured, standalone extension to the multi-million unit selling, genredefining, cultural phenomenons Rock Band and Rock Band 2, the ultimate social music game experiences. AC/DC Live lets you and your friends relive AC/DC's epic 1991 live performance at Donington, UK, through the eyes of Brian Johnson, Angus Young, Malcolm Young, Cliff Williams, and Chris Slade."
+}

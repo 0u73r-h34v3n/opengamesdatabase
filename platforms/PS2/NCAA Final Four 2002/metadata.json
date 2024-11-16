@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Final Four 2002",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-final-four-2002",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA Final Four 2002 takes fans through the rigors of a full college season with more than 300 Division I-A schools and 31 conferences represented. Team-specific playbooks let you run trademark offensive and defensive strategies, such as Florida's full-court press and Temple's match-up zone. All-new commentary from announcers Eddie Doucette and Billy Packer combine with real college fight songs and crowd chants to capture all the intensity of college basketball."
+}

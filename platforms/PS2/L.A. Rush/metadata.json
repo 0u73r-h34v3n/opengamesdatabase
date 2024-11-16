@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Racing"],
+	"name": "L.A. Rush",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/la-rush",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Midway brings its Rush racing series to Los Angeles in L.A. Rush. You can steal, upgrade, and race more than 50 different licensed cars from a highly tuned import to exotic racers. As you earn cash in story mode, you can change both the performance of your car or pimp it visually at West Coast Customs. You can also race head-to-head on the tracks that you have unlocked with split-screen multiplayer mode."
+}

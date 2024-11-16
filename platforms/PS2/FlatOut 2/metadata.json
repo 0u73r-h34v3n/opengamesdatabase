@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bugbear"],
+	"genres": ["Racing"],
+	"name": "FlatOut 2",
+	"publishers": [
+		"Empire Interactive (EU, KO)",
+		"Vivendi Games (US)",
+		"Konami (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/flatout-2",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Featuring an enhanced version of the original's physics engine with even faster driving track designs, FlatOut 2 also boasts numerous improvements, enhancements and additions to make the title the definitive FlatOut experience. Twice as many vehicles, a more sophisticated career mode, additional race environments, double the number of tracks, twice as many mini-games along with brand new and much requested online multiplayer modes are just some of the exhaustive features that are included in FlatOut 2. With more than 5,000 fully destructible objects on every track as well as 40 deformable parts on each vehicle, physical interaction in a racing game is taken to unprecedented heights. With a greater emphasis placed on causing destruction on the track by offering greater rewards, game play will be even more frantic than ever. Drivers will need to tear into competitors' cars, trash the local scenery, litter the track with obstacles, while at the same time trying to concentrate on their own race in a bid to cross the line first. The ever-popular Ragdoll mini-games from the original FlatOut game make a welcome return and are better than ever with 12 Ragdoll events, a Ragdoll Championship and full online support. New Ragdoll events include basketball, baseball and royal flush cards."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crave", "49Games"],
+	"genres": ["Sports"],
+	"name": "Winter Sports 2: The Next Challenge",
+	"publishers": ["Conspiracy Entertainment (US)", "RTL (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/winter-sports-2-the-next-challenge",
+			"score": 43,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WINTER SPORTS 2 is an arcade simulation of the most popular winter sports, including 9 sports and 15 total disciplines."
+}

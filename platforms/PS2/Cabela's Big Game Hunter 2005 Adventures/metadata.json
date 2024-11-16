@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Big Game Hunter 2005 Adventures",
+	"publishers": ["Activision (US)", "Activision|Activision Value (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/cabelas-big-game-hunter-2005-adventures",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For the FIRST TIME EVER, hunt 36 big game animals across North America in gigantic regions with a wide variety of terrain! Choose from 1000s of authentic gear options that could mean the difference between survival and demise in vast territories as you track your prey. This will redefine the hunting genre!"
+}

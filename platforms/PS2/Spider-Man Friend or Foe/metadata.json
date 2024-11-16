@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Next Level Games"],
+	"genres": ["Action"],
+	"name": "Spider-Man: Friend or Foe",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2007/10/06/spider-man-friend-or-foe-review-2",
+			"score": 4.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spider-man-friend-or-foe",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Spider-Man: Friend or Foe challenges players to defeat and then join forces with notorious movie nemeses including Doc Ock, Green Goblin, Venom and Sandman, and other classic Spider-Man characters. Players will embark on a global quest to overcome an evil threat, by controlling Spider-Man and one of numerous Super Hero or Super Villain sidekicks, as they master unique fighting moves and styles while switching between characters to execute team combos and defeat foes. Spider-Man: Friend or Foe features a unique co-op mode in which a friend can join the game at any time and take control of Spidey's sidekick as they battle through the game side-by-side and replay favorite levels."
+}

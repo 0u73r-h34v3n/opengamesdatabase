@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Adventure"],
+	"name": "Blood Will Tell",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/blood-will-tell",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Blood Will Tell follows the adventures of Hyakkimaru, a samurai who embarks on a quest to uncover his past and regain his humanity. Robbed of his limbs and organs at birth, Hyakkimaru with the help of Dr. Jyukai integrates weapons into his body. As Hyakkimaru, you can battle with various weapons such as blades embedded inside of his arms, a bazooka hidden inside of his leg, or weapons hidden in each level. Throughout the game, Hyakkimaru's friend, Dororo, guides you and fights alongside you. Only through cooperation, exploration, and violence will Hyakkimaru ever be able to live a normal life."
+}

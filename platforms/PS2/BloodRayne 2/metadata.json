@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "BloodRayne 2",
+	"publishers": ["Majesco (US)", "THQ (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bloodrayne-2",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Reprise the role of BloodRayne, a dhampir born from the unnatural union of vampire and human. In BloodRayne 2, you can perform new acrobatic actions on poles and rails, fighting combos, and 12 finishing moves. The more creative your kills are, the more you can upgrade your weapons and abilities. Fill the Bloodlust meter to activate Blood Rage for powerful attacks. Master your vampire powers to stop your evil siblings from creating a new era of vampire supremacy where humans are mere cattle for the bloodthirsty predators that hunt them."
+}

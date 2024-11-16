@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tomcat System"],
+	"genres": ["Board"],
+	"name": "Simple 2000 Series Vol. 69: The Board Game Collection",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This collection includes the following games: ''Geister'', ''Cartagena'', ''Midnight Party'', ''Zirkus Flohcati'' and ''Ursuppe''."
+}

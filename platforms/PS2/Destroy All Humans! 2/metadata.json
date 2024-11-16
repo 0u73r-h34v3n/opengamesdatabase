@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Destroy All Humans! 2",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/destroy-all-humans!-2",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Destroy All Humans! 2 takes the irreverent Sci-Fi action gaming experience into the swinging sixties with all new game features, expanded open-world gameplay and co-op multiplayer. Assuming the role of the Furon Scout - Crypto 137 - players will embark on another mission to earth to take on the world of free love, the Cold War and other 60's era icons. In Destroy All Humans! 2 Players have access to an upgraded arsenal of weapons and enhanced mental abilities while they battle a variety of new enemies from secret agents and giant creatures to Soviet Forces and ninja warriors."
+}

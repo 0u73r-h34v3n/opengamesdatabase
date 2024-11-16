@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Collection"],
+	"name": "Call of Duty: Legacy",
+	"publishers": ["Activision"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Call of Duty: Legacy includes two previously released games: 2004's Call of Duty: Finest Hour and 2005's Call of Duty 2: Big Red One. Finest Hour takes players on a cinematic campaign that includes battles in Stalingrad, North Africa, and Belgium. Big Red One expands the missions from the ground to the sea and in the air with missions set in Tunisia, Libya, Italy, France, Belgium, and Germany. Both games offer online support for up to 16 players."
+}

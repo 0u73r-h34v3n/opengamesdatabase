@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "MX vs. ATV Untamed",
+	"publishers": ["THQ (US, EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/941957-mx-vs-atv-untamed/index.html",
+			"score": 56,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mx-vs-atv-untamed",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MX vx. ATV Untamed kicks it up a notch and shifts into high gear! Rainbow Studios has evolved their legendary Rhythm Racing engine to include throttle based power slides, near upside-down whips and new scrubs at full speed, all while retaining the smooth and authentic feel not found in any other game. Attempt to own the offroad by dominating the innovative new \"X-Cross Tournament,\" which brings together 8 unique racing series like Endurocross, Opencross, Supercross, Waypoint and Supermoto and then crosses them into one ultimate offroad championship!"
+}

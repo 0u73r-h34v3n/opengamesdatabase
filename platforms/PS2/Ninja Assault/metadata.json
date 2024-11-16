@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Shooter"],
+	"name": "Ninja Assault",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/09/16/ninja-assault",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ninja-assault",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ruling with an army of demonic soldiers, Shogun Kigai has conquered the innocent nation of Tenshin and kidnapped its beautiful Princess Koto. As violence and carnage tear apart the land, three great Ninjas rise to end the bloodshed and rescue the Princess. Armed with sacred weapons, the three Ninjas embark on a journey to destroy the evil Shogun and defeat his menacing army of demons..."
+}

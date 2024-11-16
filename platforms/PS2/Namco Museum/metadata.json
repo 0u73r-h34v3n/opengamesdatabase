@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mass Media"],
+	"genres": ["Arcade", "Compilation"],
+	"name": "Namco Museum",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/017/017299.html",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/namco-museum",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All your favorite Namco classics are now in one package.  Namco Museum 1 includes Pac-Man, Ms. Pac-Man, Galaga, Galaxian, Dig Dug, and Pole Position.  But the fun doesn't stop there, since Namco has added all new arrangement modes plus other hidden games.  Whether it's eating ghosts, shooting aliens, digging a hole, or racing toward the finish line, the addictive gameplay of Namco Museum has proven it can stand the test of time."
+}

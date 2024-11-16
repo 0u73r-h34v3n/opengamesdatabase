@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 2002",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-2002",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take the ball and march. The orders are clear--you came to the game to win, so get it done. This is football, 100 yards fought inch for inch. After the triumph of Madden for the debut season for the PlayStation 2 computer entertainment system, EA Sports is building its army of gridiron dominators with a full-on next-generation version of collegiate football in NCAA Football 2002, and it's here for the win.   The best of the best are here, with 117 Division 1-A and 27 1-AA teams represented in the game's roster, recreated with correct team stats, jerseys, and team-specific playbooks for the 1-A teams. The stadium spirit of college ball takes the game to another level with team mascots and arena cheers. Up in the booth is play-by-play and color commentary from the broadcast team of Brad Nessler, Lee Corso and Kirk Herbstreit. With special college-specific strategies, moves, and plays from the young upstarts in the sport, NCAA Football 2002 plays quite differently from its NFL big-brother. The game also refuses to give an inch in the graphics department--the incredible detail and polish of Madden 2002 is here on the NCAA Football as well, with new realistic faces and uniforms and loads of college-specific details not seen anywhere else. With a complete Dynasty Mode for up to 12 players to take their team through decades of playing and the true test of the Campus Challenge that puts players in situations that will prove their greatness, NCAA Football 2002 is a game winner."
+}

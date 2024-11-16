@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Paris"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "XIII",
+	"publishers": ["Ubisoft (US, EU)", "Marvelous Entertainment (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_xiii_x",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2003/11/17/xiii-review-2",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/xiii",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/xiii-review/1900-6084270/",
+			"score": 6.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The president of the United States of America has been assassinated and you are the prime suspect.  In XIII, you must unravel a conspiracy that left your memory erased, the President dead, and a bullet wound in your head.  Evade assailants eager to end your life or use them as human shields.  Select from a deadly arsenal of weapons including silent crossbows, furious automatic weapons, and ashtrays.  Face off against other players in multiplayer modes such as Barfight or go co-op in Cover Me mode.  Uncover both your shadowy past and America's darkest corridors of power."
+}

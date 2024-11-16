@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Sports"],
+	"name": "World Soccer Winning Eleven 7 International",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-soccer-winning-eleven-7-international",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Winning Eleven series returns to America with Winning Eleven 7 International, bringing its pure, realistic approach to soccer.  This time, you have access to more players, teams, stadiums, crowd effects, and strategies than ever before.  Enjoy the new animation, accurate player models and overall realism that the new game engine has to offer.  Master League was also reworked to include a player search engine.  Don't stop kicking until you've boosted your team into the soccer elite."
+}

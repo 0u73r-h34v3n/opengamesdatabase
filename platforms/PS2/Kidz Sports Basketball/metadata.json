@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Data Design Interactive"],
+	"genres": ["Sports"],
+	"name": "Kidz Sports Basketball",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Take control of your favorite Kidz Sports characters in some of the wackiest games of full-court 3-on-3 ever!"
+}

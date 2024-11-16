@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Serious Sam: Next Encounter",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/serious-sam-next-encounter",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An abandoned mothership of Sirian origin is sending strange signals from the past, and there's only one man with the guns big enough to investigate: Sam \"Serious\" Stone. If Mental's forces beat Sam to this powerful time-traveling artifact, it's last call for humanity!"
+}

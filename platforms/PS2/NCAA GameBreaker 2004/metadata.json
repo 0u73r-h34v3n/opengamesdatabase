@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA GameBreaker 2004",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-gamebreaker-2004",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA GameBreaker 2004 brings college rivalries online in a battle for both bragging rights and the National Championship. Pick your favorite team from one of 117 Division I-A--plus classic--teams as you play in stadiums across the country. Online features include weekly roster, tournaments from four to sixty-four teams, leaderboards in over twenty-five categories, and more. These features, in addition to 50 new mascots and cheerleaders, immerse you in the tradition and pageantry of college football."
+}

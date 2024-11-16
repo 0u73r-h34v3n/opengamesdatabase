@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Disney's Dinosaur",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Danger lurks at every corner as you lead the dinosaur herd through scorching lava flows, toxic smoke and scalding geysers. It's the ultimate challenge for survival."
+}

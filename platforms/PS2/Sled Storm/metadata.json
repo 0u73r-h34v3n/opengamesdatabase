@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Racing"],
+	"name": "Sled Storm",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sled-storm",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the white-knuckle thrill of trying to harness the power of over-engineered sleds all the way to the finish line.  Race beyond boundaries in this all-out world of high-powered sled racing where speed is a necessity and losing is not an option. Sled Storm, the fuel-injected addition to the EA Sports Big line-up, delivers on high speed, big drops and excessive inclines. Screaming sleds compete in volume with the biggest beats from the industrial charts, which is just what is needed to push you over the edge. Unique shortcuts, incredible track design and cutting-edge machines take you into worlds of neck-and-neck arcade action."
+}

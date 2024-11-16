@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Argonaut Games"],
+	"genres": ["Racing"],
+	"name": "Powerdrome",
+	"publishers": ["Mud Duck Productions (US)", "Evolved Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/powerdrome",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The future of street racing has arrived with ramps, tunnels, and speeds of 1,000 miles per hour. Powerdrome takes you to this world and straps you into a supersonic flying craft. On the tracks and through the streets, you'll race against a variety of characters--each with their own personality, racing style, and friends or foes. Develop your driving skills, learn new tricks, and continue to shave seconds off your best times as your experience evolves. Once you have honed your skills, race against your friends and find out how good you really are."
+}

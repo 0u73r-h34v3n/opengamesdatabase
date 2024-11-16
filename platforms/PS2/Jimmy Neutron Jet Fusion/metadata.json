@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "Jimmy Neutron: Jet Fusion",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jimmy-neutron-jet-fusion",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jimmy Neutron is back, but now he's undercover as a super spy in Jimmy Neutron: Jet Fusion. The evil Professor Calamitous plots a sinister plan, and you, as Jimmy must explore dangerous and inventive worlds to stop him. To help you survive this expedition, you'll need high- tech gadgets and weapons such as the Pulse Light Ray, the Gut Buster Fan, and the Jimmy Bot. All your favorite characters from the TV show, including Sheen, Cindy, and even Miss Fowl, appear in the game."
+}

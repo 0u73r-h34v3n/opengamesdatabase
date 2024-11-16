@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["MTO"],
+	"genres": ["Simulation"],
+	"name": "Horsez",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/horsez",
+			"score": 21,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Horsez, you join a new academy where you need to train your horse to make him into a champion. You get to take care of an adorable foal."
+}

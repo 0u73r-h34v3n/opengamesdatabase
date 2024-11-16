@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Legends",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/singstar-legends",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take center stage and perform the music that has inspired generations. SingStar® Legends boasts a play list that reads like a 'who's who' of music icons such as Nirvana, Johnny Cash, The Jackson 5, Marvin Gaye, U2 and many more. SingStar® Legends is the perfect party starter and a great way to bring friends and family together."
+}

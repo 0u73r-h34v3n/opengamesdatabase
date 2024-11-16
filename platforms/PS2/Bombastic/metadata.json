@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shift"],
+	"genres": ["Puzzle"],
+	"name": "Bombastic",
+	"publishers": ["Sony|SCEI (JP)", "Capcom (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/bombastic",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare yourself a frenzied and explosive puzzle experience. Bombastic puts you in control of a veritable minefield of explosive, moving dice. Roll the dice around the field to link them in like combinations, causing them to explode. The object is to clear each level--but as you advance, the action becomes more difficult. Choose from five characters to play in seven modes including Standard, Attack, Limited, Quest, Classic, War, and more. Up to five players can take part in this action-packed puzzle game."
+}

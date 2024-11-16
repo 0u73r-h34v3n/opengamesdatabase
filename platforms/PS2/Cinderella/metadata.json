@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Cinderella",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Cinderella is a retelling of the classic fairy tale of the same name. A large part of this CD is that it includes an exclusive cartoon on the disc. The cartoon is a modern take of the Cinderella story - complete with taxis, a modern city setting and disco dance off."
+}

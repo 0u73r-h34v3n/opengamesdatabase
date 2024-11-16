@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kaze"],
+	"genres": ["Pinball", "Arcade"],
+	"name": "Akira Psycho Ball",
+	"publishers": ["Bandai (JP)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/akira-psycho-ball/ps2-17398",
+			"score": 5.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The legendary Akira returns! The AKIRA story is reawakened through a series of stunning and challenging pinball machines designed around scenes from the blockbuster of the anime movie. Play the revolutionary 'Changing Game Field' - pinball tables that transform through interchangeable sections or head to head with friend of CPU on the 'Battlefield' for the ultimate pinball challenge."
+}

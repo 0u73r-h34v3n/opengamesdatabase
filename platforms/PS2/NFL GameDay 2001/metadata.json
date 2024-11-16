@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA"],
+	"genres": ["Sports"],
+	"name": "NFL GameDay 2001",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-gameday-2001",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When the original PlayStation launched without a Madden title, SCEA seized the opportunity to successfully launch the GameDay series. Madden returned fire the next year, and the healthy competition between the two football series has made both better. Now 989 Sports brings its popular football franchise to PlayStation 2 with NFL GameDay 2001. Obviously, the biggest change from past games in the series lies in the graphics, which have been greatly improved. The game features 1,100 position-specific tackles, jukes, spins, and stiff arms motion-captured from 13 pro NFL players. Grass and mud stains grace the players' jerseys, and photorealistic stadiums help to make for a more lifelike atmosphere."
+}

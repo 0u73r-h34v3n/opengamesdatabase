@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 08",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fifa-soccer-08",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "FIFA Soccer 08 challenges players to master the skills required to play like a pro soccer player. Fans around the world can experience the same highs and lows of real-world players and tackle the challenges they face on a daily basis. FIFA Soccer 08 puts you on the pitch to defy the odds, perfect your skills, elevate your game and rise up to win glory for your club."
+}

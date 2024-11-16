@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "King of Fighters: Maximum Impact",
+	"publishers": ["SNK Playmore (JP, US)", "Ignition Entertainment (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/king-of-fighters-maximum-impact",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The first-ever 3D version of King of Fighters has finally arrived, complete with all your favorite SNK characters. In King of Fighters: Maximum Impact, rival gangs are vying for the chance to rule the underworld of Southtown. As one of more than 16 fighters, you must prove that you're the greatest fighter in the world in five gameplay modes, including Story, Versus, Survival, Practice, and Training. The game's enhanced character movement lets you perform four new jumps, powerful combo moves, and the new Knock Back Attack."
+}

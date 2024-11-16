@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Adventure"],
+	"name": "Teen Titans",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/teen-titans",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Teen Titans, the popular TV show and DC comic, crosses to another medium as the five main characters undertake a video game-based adventure. All five main characters--Robin, Starfire, Beast Boy, Cyborg, and Raven--use their powers to battle against the team's main archvillains. This action game lets you switch characters on the fly, which lets you maximize their unique abilities throughout each level."
+}

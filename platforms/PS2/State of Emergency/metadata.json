@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["VIS Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "State of Emergency",
+	"publishers": ["Rockstar Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/02/15/state-of-emergency-3",
+			"score": 8.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/state-of-emergency",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join the resistance and liberate your people from the oppressive Corporation. State of Emergency plunges you into a rioting mob fighting for freedom. Use hand-to-hand combat, weapons, and anything you can find on the street to add to the chaos. The streets are littered with a variety of weapons--from park benches and soda cans to flamethrowers and rocket launchers. As you fight for the cause, don't be surprised if corporate executives, law enforcement officials, and looters fight back."
+}

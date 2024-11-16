@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "MX vs. ATV Unleashed",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/mx-vs-atv-unleashed/reviews/",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mx-vs-atv-unleashed",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MX vs. ATV Unleashed lets you drive off-road in different vehicles, including ATVs, monster trucks, and sand rails, in an effort to conquer all-new racing challenges. You can compete in new racing events, minigames, or challenges, such as hill climbs, freestyle, gap jumps, and short-track races. Begin a career in single-player mode, or take on your friends in online multiplayer modes. A new \"rhythm racing\" mode lets you race through the game's nonlinear environments."
+}

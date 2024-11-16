@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Evolution Studios"],
+	"genres": ["Racing"],
+	"name": "World Rally Championship",
+	"publishers": ["Sony|SCEE (EU)", "Spike (JP)", "Bam Entertainment (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-rally-championship",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WRC: World Rally Championship is an officially licensed racing game featuring all of the cars and drivers from the official 2001 World Rally Championship. Battle your way through 81 heart-pounding stages in 14 rallies located all over the world. Experience the pure emotion, hardcore action and sheer power of rally racing in the quest for ultimate glory."
+}

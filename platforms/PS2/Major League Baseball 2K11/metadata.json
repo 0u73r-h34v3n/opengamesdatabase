@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "Major League Baseball 2K11",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Swing for the fences with the 2011/2012 edition of 2K Sports' acclaimed baseball franchise."
+}

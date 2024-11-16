@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["Action", "Fighting"],
+	"name": "Sword of the Samurai",
+	"publishers": ["Genki (JP)", "Ubisoft (EU, US)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Typically, sword fighting is quarantined to hack-and-slash adventure games or is simply a part of your typical fighter where 20 other styles are represented as well. But the Kengo franchise is the exception in that it is entirely dedicated to the art and it does its best to emulate what it's really like to take your life in your own hands. After all, one wrong move in a sword fight and you're six feet deep. As a spin-off to the Bushido Blade franchise, the first Kengo for the PlayStation 2 was rife with realism, but short on technical merits. For Kengo 2: Bushido Master, the same simulation-styled gameplay has returned for another go, which may end up disappointing fans of the series."
+}

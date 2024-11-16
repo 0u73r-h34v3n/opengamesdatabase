@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Titus Software"],
+	"genres": ["Simulation"],
+	"name": "Top Gun: Combat Zones",
+	"publishers": ["Titus Software"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/top-gun-combat-zones",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jump into the cockpits of the Navy's top planes with Top Gun: Combat Zones. With the F-14, F-18, and F-22 under your control, you must embark on dangerous low-level missions throughout hazardous canyons and across vast cityscapes. Eliminate ground or air targets in Southeast Asia, Gulf States, Arctic Circle, and Miramar Base. The game offers intense missions and a replay mode that lets you review each one through different camera angles."
+}

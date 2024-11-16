@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Motown",
+	"publishers": ["Sony|SCE Australia (AU)", "Sony|SCEE (EU)"],
+	"regions": ["PAL"],
+	"synopsis": "Motown is 50 years old this year, and to celebrate, Sony Corporation have released a version of the popular karaoke series entitled Singstar Motown. Founded in 1959, Motown established itself as a musical force that changed the American way of life for many music fans.  This phenomena,  which re-arranged, and fused both pop and soul, came at a time when the civil rights movement was at its peak. Motown spawned many great acts including The Temptations, The Four Tops, The Jackson 5, Stevie Wonder, Marvin Gaye, Smokey Robinson, Diana Ross and the Supremes, Gladys Knight, and many, many more."
+}

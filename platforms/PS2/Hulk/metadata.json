@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Radical Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Hulk",
+	"publishers": ["Universal Interactive (US, EU)", "CyberFront (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/hulk/ps2-17433",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hulk",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Hulk takes place one year after the events in the film, with troubled scientist Bruce Banner and his enraged alter ego, The Hulk, forced into action once again. A new villain, known as The Leader, plans to use The Hulk's gamma energy to unleash a relentless army of gamma creatures on the world, and only you can stop him. Employ the powers of stealth and logic as Bruce Banner, or command the incredible strength and fury of The Hulk. Take down your foes in fully destructible environments. The Hulk's 25 attacks can hurt your foes and can also destroy your environment."
+}

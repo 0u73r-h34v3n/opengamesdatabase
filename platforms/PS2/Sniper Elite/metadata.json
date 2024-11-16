@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Action", "Shooter"],
+	"name": "Sniper Elite",
+	"publishers": ["MC2 (EU)", "Namco (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/11/03/sniper-elite",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sniper-elite",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sniper Elite sets you in the midst of the end of World War II. As an OSS-trained sniper you must disguise yourself as a German soldier and stop the Russians from stealing nuclear secrets from Berlin. Through 28 levels, you can use your stealth and sniping skills to take out sentries, machine gun nests, and guard posts. Sniper Elite incorporates elevation, wind speed, posture, background noise, and a host of other factors into the sniping experience. Sniper Elite also includes cooperative and competitive multiplayer modes."
+}

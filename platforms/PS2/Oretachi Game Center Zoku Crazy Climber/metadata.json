@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Platformer"],
+	"name": "Oretachi Game Center Zoku: Crazy Climber",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Come one, come all! Watch the death-defying feats of a human fly - Crazy Climber! Help him scale the world's tallest buildings while avoiding tumbling girders, a marauding bird, and the villainous Mad Doctor. Hurry up! The show's about to start!"
+}

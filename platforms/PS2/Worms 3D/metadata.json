@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team 17"],
+	"genres": ["Turn-based strategy"],
+	"name": "Worms 3D",
+	"publishers": ["Sega (EU)", "Acclaim (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/worms-3/ps2-552307",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/worms-3d",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join the party as worm battles ensue across 3D worlds. Worms 3D pits four players--each with a customizable team of worms--against one another in fully deformable landscapes. All the bizarre weapons from the Worms series--including Banana Bomb, flying Super Sheep, Earthquakes, Air Strikes, and Holy Hand Grenade--appear for your destructive pleasure. Wreak havoc in turn-based multiplayer action or unlock landscapes, sound sets, challenges, and secret missions in the immersive single-player mode."
+}

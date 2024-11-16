@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tonkin House"],
+	"genres": ["Visual Novel"],
+	"name": "D-A: White",
+	"publishers": ["Tonkin House"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Taking place two months after the events of D→A:BLACK, the player once again takes control of Tōya Shinjō, a \"Shinigami\" who works together with the angel Yuriel Arlencloyn to guide lost souls called \"Creeps\" that are lingering in the human realm."
+}

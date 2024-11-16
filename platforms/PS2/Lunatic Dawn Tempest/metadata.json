@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artdink"],
+	"genres": ["RPG"],
+	"name": "Lunatic Dawn Tempest",
+	"publishers": ["Artdink"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Lunatic Dawn Tempest is about a 17-year-old girl named Tempest who leaves her home in search of fame and fortune, but soon her adventures take a more serious turn."
+}

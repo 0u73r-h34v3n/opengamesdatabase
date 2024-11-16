@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Radical Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "Crash: Mind over Mutant",
+	"publishers": [
+		"Activision|Activision Blizzard (US)",
+		"Sierra Entertainment (AU, EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crash-mind-over-mutant",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Crash Bandicoot: Mind Over Mutant, a rejuvenated Neo Cortex is taking over the world one brain at a time! Cortex and N. Brio devise a new kind of evil: a text-messaging, do-anything device that controls both mutant and bandicoot minds. Armed with his quick wits and lightning agility, Crash must free his friends, the titans, and save the day!"
+}

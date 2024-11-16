@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kuusou Kagaku"],
+	"genres": ["RPG"],
+	"name": "RPG Maker II",
+	"publishers": ["Enterbrain (JP)", "Agetec (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rpg-maker-ii",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Designers Wanted!  No Experience Necessary! Game Software for Future Developers!  Have you ever dreamed about creating your own game? Fantastic Creatures, Amazing Visual Effects, and Cinematic Battles await you as you create a fantasy world where dragons and monsters come to life. RPG Maker II is a complete 3-D design tool that provides novice users and advanced players everything they need to create their own adventures.  * Includes the full Ready-to-Play Fiona! * In-Game help feature allows you to jump right in and start creating. * Over 200 characters and enemies, more than 250 objects, and an infinite amount of magic/spells, weapons, equipment, and items are at your fingertips. * Compatible with Logitech USB Keyboard making text input easy, and Sony Picture Paradise to import digital pictures/images into your game. * Create your own or use preset data, then create your events!"
+}

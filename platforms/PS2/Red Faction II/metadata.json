@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Volition|Volition Inc."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Red Faction II",
+	"publishers": ["THQ (US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/red-faction-ii",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to Red Faction keeps the same exciting features from the original and introduces a new cast of characters and storyline. In Red Faction II's futuristic setting, humankind is under the rule of an evil dictatorship, and only a group of freedom fighters called Red Faction stands in its way. As a super-soldier alias, you join their cause with an arsenal of high-powered weapons and heavy vehicles. You can even use this firepower on your environment, which can be strategically altered and destroyed."
+}

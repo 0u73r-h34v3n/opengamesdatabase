@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Barnhouse Effect"],
+	"genres": ["Racing"],
+	"name": "ChoroQ",
+	"publishers": [
+		"Takara (JP)",
+		"Atlus (US, JP)",
+		"Zoo Digital Publishing (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/choroq",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ChoroQ refines its fantasy-style racing series with more cars, parts, and extras. Now you can race on courses that range from earthquake country and space to haunted castles and underwater tracks. You can participate in more than 160 races and 100 events to earn 200 kinds of vehicles. Customize your vehicle with interchangeable parts and colors, and then race head-to-head against a friend. In addition to racing, ChoroQ also features more than 30 minigames."
+}

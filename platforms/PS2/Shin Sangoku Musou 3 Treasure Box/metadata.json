@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Collection"],
+	"name": "Shin Sangoku Musou 3 Treasure Box",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Japanese Edition of [[Dynasty Warriors 4]], Character Art Book, Dynasty Warriors 3 & Xtreme Legends save data disc, 16 cards, Dynasty Warriors 4 calendar, [[Dynasty Warriors 3]] as well as CD drama (三國志 第一部総集編).}}"
+}

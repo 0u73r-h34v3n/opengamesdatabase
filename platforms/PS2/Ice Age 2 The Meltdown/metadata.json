@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ice Age 2: The Meltdown",
+	"publishers": [
+		"Vivendi Games (US, JP)",
+		"Vivendi Games|Vivendi Universal Games (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ice-age-2-the-meltdown",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Their world is melting, and your Ice Age 2 The Meltdown pals need help escaping the biggest flash flood in prehistory. Swim, splash, and scurry through all the action and adventure from the new Ice Age 2 The Meltdown movie and unearth fun, laughter and surprises along the way. Play as Scrat, along with your favorite heroes from the film. Dive into a huge variety of exciting mini-games, like Sid's Slippery Sloth Slide Challenge. Journey through the amazing worlds of the Ice Age 2 The Meltdown movie... and new ones too."
+}

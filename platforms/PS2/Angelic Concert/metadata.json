@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Success"],
+	"genres": ["Visual Novel"],
+	"name": "Angelic Concert",
+	"publishers": ["Success"],
+	"regions": ["NTSC-J"],
+	"synopsis": "You're a DJ, if DJ's existed in the medieval magical setting that the story is based on, who happen to be the 'music' behind the voice of the main character. Now, her aim in life is to aim higher in her musical career by entering the Angelic Concert. The winner receives fame, fortune and adventure on the short but well-drawn way to the concert."
+}

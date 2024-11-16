@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Turn-based strategy"],
+	"name": "Yu-Gi-Oh! GX: The Beginning of Destiny",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/yu-gi-oh!-gx-the-beginning-of-destiny",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Continuing its tradition of events, the Duel Academy has decided to hold a \"Tag Duel Tournament\" this year. All the students are running about trying to find the right Tag Partner to ensure they'll win! You take on the role of a transfer student who has just joined in the midst of all the excitement."
+}

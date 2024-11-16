@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neko Neko Soft"],
+	"genres": ["Adventure", "Visual Novel"],
+	"name": "120-en no Haru",
+	"publishers": ["Interchannel"],
+	"regions": ["NTSC-J"],
+	"synopsis": "120-en no Haru: 120 Yen Stories is an adventure game, developed by Neko Neko Soft and published by Interchannel, which was released in Japan in 2005. An omnibus containing 4 different stories, with different heroines and protagonists appearing in each story."
+}

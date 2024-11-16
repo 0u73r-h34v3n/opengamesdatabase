@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Insomniac Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ratchet & Clank: Going Commando",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (JP, KO)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ratchet-clank-going-commando",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the creators of Ratchet & Clank comes the next installment of this sci-fi action adventure series.  Ratchet & Clank: Going Commando features more than 50 imaginative weapons and gadgets.  The more things you blow up, the stronger Ratchet gets and the more advanced the weapons you'll have.  Participate in all-new side challenges; destroy hordes of enemies in gladiator arenas, upgrade your ship and pick off enemies in space combat, and leave competitors to eat your dust in hi-speed challenge.  Are you up for it?"
+}

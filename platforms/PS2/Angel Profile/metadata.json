@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["GeneX"],
+	"genres": ["Visual Novel"],
+	"name": "Angel Profile",
+	"publishers": ["CyberFront"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A \"bishonen raising game\" in the vein of the Princess Maker franchise, the player becomes the \"mother\" of a prince who was cursed by a dragon to become a child. With the help of two tutors, the angel Michael and the devil Mephisto, you'll need to raise the child back to his original age... but what will become of him depends on you!"
+}

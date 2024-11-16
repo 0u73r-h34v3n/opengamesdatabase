@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["RPG"],
+	"name": "Jade Cocoon 2",
+	"publishers": ["Genki (JP)", "Ubisoft (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jade-cocoon-2",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A deadly parasite known as Kalma threatens the world of Jade Cocoon 2. Set centuries after the first Jade Cocoon, the sequel puts you in the role of Kahu, a fledgling Cocoon Master. Kahu must enter four elementally themed forests in a mission to stop Kalma from overtaking the earth. Search for the four Orbs of Cocoon Masters while training captured monsters to aid you on your quest. You can even pit your army of fighters against a friend's best-bred creatures in battle mode."
+}

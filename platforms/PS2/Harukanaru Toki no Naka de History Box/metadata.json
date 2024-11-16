@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Collection"],
+	"name": "Harukanaru Toki no Naka de: History Box",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Harukanaru Toki no Naka de: Hachiyoushou]] (遙かなる時空の中で ヒストリー), [[Harukanaru Toki no Naka de 2]] (遙かなる時空の中で２) and [[Harukanaru Toki no Naka de 3]] (遙かなる時空の中で３) as well as the PS1 game ''Harukanaru Toki no Naka de: Banjou Yuugi'' (SLPM-87361).}}"
+}

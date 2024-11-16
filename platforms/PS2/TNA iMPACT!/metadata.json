@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway Studios - Los Angeles"],
+	"genres": ["Sports"],
+	"name": "TNA iMPACT!",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tna-impact!",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "TNA iMPACT! is geared towards a quick paced, high-impact style of play, with less emphasis on submission moves. It also features straightforward, intuitive controls, with \"accurate\" and \"detailed\" character models. Actual scans of the wrestlers were used for the game in place of hand-painted textures to include small details, such as skin textures. Wrestling maneuvers are captured from actual TNA wrestlers in extensive motion capture sessions. Finishers are accessed by building up an \"Impact! meter\" displayed on the screen, the same place a color-coded damage indicator shows the condition of characters. The game also features mini-games for escaping pin attempts and submission holds. TNA's exclusive Ultimate X and King of the Mountain are playable match types alongside the more standard singles, tag team and Fatal Four-Way matches. The game is playable online, and supports tournaments. Eight different venues&mdash;including TNA's main home, the Florida Impact! Zone, and arenas in Japan and England&mdash;are be available to house matches, with the Impact! Zone having an increased ringside area for play and hotspots for player interaction. The game also features top wrestling talent such as Abyss, Kurt Angle, Christian Cage, Jeff Jarrett, Booker T, Samoa Joe, AJ Styles, Sting and more to deliver all of the excitement and action of the television show."
+}

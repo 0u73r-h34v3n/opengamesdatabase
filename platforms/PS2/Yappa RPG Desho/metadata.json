@@ -1,0 +1,7 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "Yappa RPG Desho",
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a recorded gameplay (video) disc for 3 games: [[Tsugunai: Atonement]], [[Okage: Shadow King]] and PoPoLoCrois3"
+}

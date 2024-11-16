@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Radical Entertainment"],
+	"genres": ["Sports"],
+	"name": "Dark Summit",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dark-summit",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Snowboarders have never felt welcome on Mt. Garrick, a once quiet and peaceful ski resort. Chief O' Leary, the resident ranger, has led the charge against boarders and limited their access to certain sections of the mountain. But the situation has progressed. Chief O'Leary has mysteriously closed the summit to all boarders and is trying desperately to drive them off the mountain.  Shred, jib and stomp sick tricks in the first ever mission-based snowboarding game. Free ride this vast mountain and earn currency to purchase new equipment and unlock restricted areas on your way to the summit. But be prepared, Chief O'Leary will not go down without a fight."
+}

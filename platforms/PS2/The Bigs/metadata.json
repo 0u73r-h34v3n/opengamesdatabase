@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Castle Games"],
+	"genres": ["Sports"],
+	"name": "The Bigs",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2007/06/29/the-bigs-review",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-bigs",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This over-the-top baseball action title puts an entirely new spin on Major League Baseball as it blends outrageous visuals and intuitive gameplay mechanics to bring fans a brand new MLB video game experience. Fans redefine the baseball highlight reel by performing dramatic wall grabs, spectacular diving plays, and epic homeruns. Unique and intuitive gameplay controls deliver a new baseball experience, while advanced power-up mechanics add exciting depth with each turn."
+}

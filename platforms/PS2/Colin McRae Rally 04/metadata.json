@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "Colin McRae Rally 04",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/pc/colin-mcrae-rally-04",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This year's installment in the Colin McRae Rally series features new championships, new single- and multiplayer modes, and different car-part-testing challenges. You can drive any car from the start in the Open Championship mode; you can compete in a full rally season; or you can specialize in a 4- or 2-wheel-drive championship. You can also put together your favorite or themed stages, which can include straights, jumps, or hills. More than 20 vehicles, which exhibit improved physics and handling, are available for play, including the Citroen Xsara, Mitsubishi EVO 7, and Subaru Impreza."
+}

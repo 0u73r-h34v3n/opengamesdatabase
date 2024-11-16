@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bethesda Softworks"],
+	"genres": ["Racing"],
+	"name": "IHRA Drag Racing: Sportsman Edition",
+	"publishers": ["Bethesda Softworks"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamesradar",
+			"url": "http://www.gamesradar.com/ihra-drag-racing-sportsman-edition/",
+			"score": 2,
+			"max_score": 5
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ihra-drag-racing-sportsman-edition",
+			"score": 31,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the next generation of drag racing action with IHRA Drag Racing Sportsman Edition, featuring bracket between cars of all makes and models. IHRA Drag Racing Sportsman Edition features Top Sportsman and Top Dragster car classes. Customize, tweak, and tune 60 cars in the Garage's Paint Shop or Parts Store. Race on 22 tracks including 11 officially licensed IHRA tracks and 11 original tracks or go head-to-head against your friend in split-screen multiplayer. Customizable in-game controls to give you the ultimate drag racing experience."
+}

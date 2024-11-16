@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Racing"],
+	"name": "D1 Professional Drift Grand Prix Series 2005",
+	"publishers": ["Yuke's"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is essentially the same game as D1 Professional Drift Grand Prix Series but with an updated driver roaster."
+}

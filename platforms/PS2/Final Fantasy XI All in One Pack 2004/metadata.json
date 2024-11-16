@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: All in One Pack 2004",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A compilation pack including ''PlayOnline'', [[Final Fantasy XI]], [[Final Fantasy XI: Chains of Promathia]], and ''Final Fantasy XI: Vision of Ziraat'' all in one package.  "
+}

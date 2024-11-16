@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["D3Publisher"],
+	"genres": ["Sports"],
+	"name": "K-1 World GP 2006",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "K-1 World Grand Prix 2006 includes many fighters making their appearances in 2006, to make a total of more than 25 fighters. In addition, the realistic style of the series is retained, with every fighter's trademark moves presented in their entirety, along with content like private photographs, entrance songs and match photographs of the fighters to reward players."
+}

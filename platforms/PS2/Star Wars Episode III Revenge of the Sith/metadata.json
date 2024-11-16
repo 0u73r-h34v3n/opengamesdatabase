@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Double Helix Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Star Wars Episode III: Revenge of the Sith",
+	"publishers": [
+		"LucasArts (US, EU)",
+		"Electronic Arts (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/05/07/star-wars-episode-iii-revenge-of-the-sith-5",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-episode-iii-revenge-of-the-sith",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the third episode of the Star Wars trilogy, Star Wars Episode III: Revenge of the Sith promises an authentic Jedi experience. The third-person action game follows Anakin Skywalker and Obi-Wan Kenobi as they fight enemies, learn new skills, and pull off combo moves. In multiplayer duels, you can fight against Darth Vader and other challenging enemies."
+}

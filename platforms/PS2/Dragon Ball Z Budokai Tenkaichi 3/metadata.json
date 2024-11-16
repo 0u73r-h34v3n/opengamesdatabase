@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spike"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Budokai Tenkaichi 3",
+	"publishers": [
+		"Bandai|Namco Bandai Games (JP)",
+		"Bandai (KO)",
+		"Atari (EU, US, SA, AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/939644-dragon-ball-z-budokai-tenkaichi-3/index.html",
+			"score": 74,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dragon-ball-z-budokai-tenkaichi-3",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dragon Ball Z: Budokai Tenkaichi 3 delivers an extreme 3D fighting experience, improving upon last year's game with over 150 playable characters, enhanced fighting techniques, beautifully refined effects, and shading techniques, making each character's effects more realistic, and over 20 battle stages. This is the ultimate chapter in the Budokai Tenkaichi series with over 20 new characters that have never been seen in any other DBZ video games such as Nail, King Cold, and King Vegeta, and battle stages that fans will love."
+}

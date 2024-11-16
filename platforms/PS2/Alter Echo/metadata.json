@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Outrage Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Alter Echo",
+	"publishers": ["THQ (US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/alter-echo",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Alter Echo tells the story of a futuristic world where psychics, known as shapers, can use a special substance called Plast to form anything from weapons to buildings. The world's greatest shaper, Paavo, has made a breakthrough on a faraway planet, creating a new, more-powerful Plast called EchoPlast. The player, a young shaper named Nevin, is stranded on the planet with his two friends when Paavo shoots their ship down. The EchoPlast, having achieved sentience, gives Nevin a new EchoPlast suit and tasks him with stopping Paavo from wiping out the entire human race."
+}

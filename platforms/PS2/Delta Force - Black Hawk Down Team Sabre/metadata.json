@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Action", "Shooter"],
+	"name": "Delta Force - Black Hawk Down: Team Sabre",
+	"publishers": ["Ubisoft (EU)", "NovaLogic (AU, US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/delta-force---black-hawk-down-team-sabre",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As the US army's elite special operations soldiers you are the most potent 'smart weapon' known to man. You are the 'tip of the spear' for covert operations around the world - you are the first line of attack. Nothing stands in your way. From the war torn streets of Somalia you have been re-deployed to take out targets in Colombia and Iran. As the US military's preemptive strike force you must work with your team to get the job done."
+}

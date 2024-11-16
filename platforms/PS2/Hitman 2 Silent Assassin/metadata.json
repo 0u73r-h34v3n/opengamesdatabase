@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Io Interactive"],
+	"genres": ["Action", "Adventure"],
+	"name": "Hitman 2: Silent Assassin",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/hitman-2-silent-assassin-review/1900-2884879/",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hitman-2-silent-assassin",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2018/11/08/hitman-2-review",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_hitman2_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The sequel to Hitman forces a retired assassin back into action by treason.  Visit the dark recesses of the world corrupted by crime, greed, degradation, and dishonor.  Your contracts will take you to exotic locations around the globe including Sicily, St. Petersburg, Japan, Malaysia, and India.  A diverse arsenal of equipment, from armor-piercing rifles and explosives to chloroform and poison darts, are at your disposal.  Stalk and eliminate your targets up close and personal, in either first- or third-person perspectives.  You must decide whether to use stealth or aggression, but be careful--you'll have to deal with the consequences."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar London"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Manhunt 2",
+	"publishers": ["Rockstar Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/831/831246p1.html",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/manhunt-2",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An experiment at a secret research facility has gone catastrophically wrong. The Pickman Project will stop at nothing to hunt you down and stop the truth from getting out. Demented screams echo around the dank Dixmor asylum that has caged you for the last six years. They took your life. Time to take it back."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["IR Gurus"],
+	"genres": ["Sports"],
+	"name": "AFL Live 2003",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL"],
+	"synopsis": "The aim of the game is simple: Choose your team and take them all the way through the regular season to the Grand Final, in front of thousands of screaming fans at the Melbourne Cricket Ground. Grab high-flying marks, kick the ball over 50 meters down the ground, score the winning goal in the dying seconds. It's all here. Besides the season you can also play an exhibition game or just the finals."
+}

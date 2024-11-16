@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kogado Studio"],
+	"genres": ["Adventure"],
+	"name": "Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubouki",
+	"publishers": ["Nippon Ichi Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Tristia was a beautiful seaside town which slowly fell to ruin and dilapidation, following the invasion of the dragon ten years ago. The people of the town tried rebuilding the city in the hopes of attaining its former glory, but they failed. Hopeless, the people decided to send for Prospero Flanca, a legendary inventor who was well-known for revivifying many cities that were dying out. They received an answer from Prospero, but to their confusion, it was a girl who arrived to the port of the town. That girl was Nanoca, Prospero's granddaugther, and she is the one who was assigned to do the renovation project."
+}

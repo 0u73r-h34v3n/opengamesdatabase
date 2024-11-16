@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "NBA Ballers",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/nba-ballers/ps2-16973",
+			"score": 9,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nba-ballers",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's all about the chromed-out cars, jewelry, ladies, tattoos, and jets in NBA Ballers, the basketball game that highlights both the one-on-one confrontation and the glamorous lifestyle of NBA superstars. Choose from current and legendary NBA players, such as Tracy McGrady, Chris Webber, Magic Johnson, and Wilt Chamberlain, and face-off in some lavish player home courts. Although the game focuses on the one-on-one experience, you can also play in one-on-three and special-rules matches. After the tournaments, spend your winnings on anything from licensed cars to expensive mansions."
+}

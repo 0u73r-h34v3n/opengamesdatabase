@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Guilty Gear X",
+	"publishers": ["Sammy Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guilty-gear-x",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It is the 22nd century. The world has just achieved peace after defeating a diabolical Gear (one of a breed of futuristic diabolical weapons) in a fighting tournament. Now comes word that another one of these mighty Gears has developed a will of its own. Even its own creators have been unable to destroy it. Now all of humankind has been called upon to stop this dangerous beast in its tracks. At stake is a huge reward...and the fate of the human race."
+}

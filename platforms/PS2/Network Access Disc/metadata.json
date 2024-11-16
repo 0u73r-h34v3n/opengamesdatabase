@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony"],
+	"genres": ["Tools", "Demo"],
+	"name": "Network Access Disc",
+	"publishers": ["Sony"],
+	"regions": ["PAL"],
+	"synopsis": "This is the European version of the installation disc for setting up the Playstation 2 Network Adapter. The disc's purpose is to install a file on your Memory Card containing connection settings, which will then be accessible by various games that had online capabilities. Aside from that it also contains some instructional videos on how to properly install the Adapter onto your Playstation 2 console."
+}

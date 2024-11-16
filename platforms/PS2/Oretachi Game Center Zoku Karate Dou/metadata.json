@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Fighting"],
+	"name": "Oretachi Game Center Zoku: Karate Dou",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Your karate championship is at stake. Can you master all the lunges, kicks, spins, somersaults, foot sweeps, reverse punches, and defensive blocks needed to retain your title? Move fast and play smart or you'll get flattened before you can grunt! Different picturesque settings provide the backdrops for your matches. Hiiiiieeeeeooooo!"
+}

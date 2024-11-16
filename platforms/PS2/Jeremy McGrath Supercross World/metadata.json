@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Racing"],
+	"name": "Jeremy McGrath Supercross World",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jeremy-mcgrath-supercross-world",
+			"score": 35,
+			"max_score": 100
+		}
+	],
+	"synopsis": "10-Time World Supercross Champion Jeremy McGrath, Freestyle MX and Supercross champ Travis Pastrana and other leading pros have returned to give you the best racing experience. Feel the power of your engines as you tackle 25 unique tracks, complete challenges and master the skills necessary to become the king of Supercross - like Jeremy himself."
+}

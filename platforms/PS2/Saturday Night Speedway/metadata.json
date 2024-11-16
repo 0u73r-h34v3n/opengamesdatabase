@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ratbag"],
+	"genres": ["Racing"],
+	"name": "Saturday Night Speedway",
+	"publishers": ["Atari (US)", "Play It! (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/saturday-night-speedway/reviews/",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/saturday-night-speedway",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get behind the wheel of the fast and dangerous dirt-track vehicles in Saturday Night Speedway. Each car class provides a different racing experience--Street Stocks let you drive and smash into other cars, Dirt Midgets let you perform flips and spins, and Late Models let you bash fenders. Thirteen real-world tracks, plus six fantasy tracks, put your driving skills to the test. Tear down the courses in five different game modes, including Practice, Time Trial, Single Race, Championship, and Career."
+}

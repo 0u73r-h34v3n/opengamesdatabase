@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Red Storm Entertainment"],
+	"genres": ["Action", "Shooter"],
+	"name": "The Sum of All Fears",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL"],
+	"synopsis": "Based on the novel by Tom Clancy, The Sum of All Fears lets you play as a member of the FBI's Hostage Rescue Team. Everything you have ever trained for will be put to the test as you command your counterterrorist group through 11 dangerous missions. Equipped with 15 authentic gun types, flashbangs, and frag grenades, you can square off against combatants worldwide in six multiplayer zones. If you fail, the most destructive weapon known to humankind will be unleashed on American soil."
+}

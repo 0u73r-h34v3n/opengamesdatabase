@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mass Media"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Metal Arms: Glitch in the System",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/metal-arms-glitch-in-the-system",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Blast your way to victory as Glitch, the gun-slinging, half-ton menacing bot of Droid City.  Found as scrap metal, but transformed into destructive machinery, Glitch is determined to free his people from the evil clutches of General Corrosive and his maniacal army of Mil bots.  As you venture through 40 missions, you'll find 17 deadly weapons, a variety of vehicles, and enemy bots that you can control.  Annihilate the General's sinister plan to dominate the world and salvage the robot race."
+}

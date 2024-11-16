@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action", "RPG"],
+	"name": "Forever Kingdom",
+	"publishers": ["From Software (JP)", "Agetec (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/games/forever-kingdom/ps2-16164",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/forever-kingdom",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The lives of the three valiant heroes are yours to command in this epic quest of good versus evil. A young swordsman named Darius, his childhood friend Ruyan, and a mysterious woman named Faeana embark on a quest to stop the mad wizard Darsul from destroying their homeland. To make matters worse, each character suffers from an evil sorcerer's curse that will kill them all if they don't find the cure. Now, you must use each character's special skills, combo attacks, and weapons through the ruins of an ancient civilization in the effort to save their land and their lives."
+}

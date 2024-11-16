@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Valuewave|Valuewave Co.", "Ltd."],
+	"genres": ["Action", "Platformer"],
+	"name": "Mega Man X7",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mega-man-x7",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mega Man X, his courageous pal Zero, and new hero Axl propel Mega Man's all-new adventure into the future. Follow our heroes as they battle monster machines and huge bosses in fully interactive, vast worlds to combat the Red Alert Syndicate. Among your new abilities is the change combo attack, which you can execute by switching characters at any time. The action comes to life with Mega Man X7's mix of traditional 2D and 3D perspectives."
+}

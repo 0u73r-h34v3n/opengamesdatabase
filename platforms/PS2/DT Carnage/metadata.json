@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Axis Entertainment"],
+	"genres": ["Racing"],
+	"name": "DT Carnage",
+	"publishers": ["Agetec"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/dt-carnage/ps2-14263585",
+			"score": 5.2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In DT Carnage, drivers must be prepared to bring everything they've got onto the tracks as they find themselves racing for their reputation, honor, and ultimately, their lives. Relying on speed alone is no longer enough as explosives and weapons are used on a regular basis making violence the ultimate means to an end in the underground racing world. Still think you have what it takes to be a DT racer?"
+}

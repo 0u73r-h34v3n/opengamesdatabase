@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["Racing"],
+	"name": "The King of Route 66",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-route-66",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Battle with the evil Tornado Corporation and their army of goons while you try to win the hearts of the beautiful Queens of the road. In one of five 18-wheel trucks, you'll travel across the United States in the effort to deliver cargo in the shortest amount of time. Your rivals, however, will stop at nothing to keep you from your goal, so you must use the fastest routes and the best truck upgrades to become king of the road."
+}

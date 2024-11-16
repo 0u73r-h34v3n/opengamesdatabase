@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Capcom vs. SNK 2: Mark of the Millennium 2001",
+	"publishers": ["Capcom (JP, US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/capcom-vs-snk-2-mark-of-the-millennium-2001",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The world's two fighting giants collide in this colossal slug-fest! Now, it's time to settle the score! Capcom vs. SNK 2 unleashes lighting fast animation and classic arcade fighting action on the PlayStation 2 computer entertainment system. Choose from an arsenal of over 44 characters from the Capcom and SNK fighting universes and customize your fighting style with even more fighting \"Grooves.\" Capcom vs. SNK 2...a brawl buster of epic proportions!"
+}

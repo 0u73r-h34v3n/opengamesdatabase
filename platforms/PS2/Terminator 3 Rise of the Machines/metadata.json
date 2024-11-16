@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ops Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Terminator 3: Rise of the Machines",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/terminator-3-rise-of-the-machines/ps2-552243",
+			"score": 3.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/terminator-3-rise-of-the-machines",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You are the ultimate weapon in Terminator 3: Rise of the Machines.  Ten years after John Connor helped save mankind from annihilation, the inevitable has occurred: The mechanized Tech-Com forces have risen, and war between man and machine has begun.  As the Terminator, you must use hand-to-hand combat or your massive weaponry to protect Connor, the would-be hero of the future.  Rise of the Machines immerses you in the Terminator 3 world, weaving in and out of the movie's storyline."
+}

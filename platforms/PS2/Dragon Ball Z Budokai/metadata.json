@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Budokai",
+	"publishers": ["Atari (EU, US)", "Infogrames (US)", "Bandai (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dragon-ball-z-budokai",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fiercest fighters in the universe have come together in the spectacular 3D world of Dragon Ball Z: Budokai.  Test your skills against the most powerful Dragon Ball Z heroes and the most sinister villains in five exciting play modes.   You can unlock, customize, and trade devastating skills with friends to create the most powerful fighters ever.  Every battle is more intense, more dangerous, and more epic than the one before."
+}

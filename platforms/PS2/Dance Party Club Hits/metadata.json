@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Music"],
+	"name": "Dance Party: Club Hits",
+	"publishers": ["Nordic Games Publishing"],
+	"regions": ["PAL"],
+	"synopsis": "The Dance Party games feature music from two different genres to appeal to a broad audience, including classic tracks from leading artists like \"Black and Gold\" - Sam Sparro, \"The Creeps\" - Camille Jones, \"Cry For You\" - September, \"Push The Button\" - Sugababes, \"Some Kinda Rush\" - Booty Luv and \"Murder On The Dance Floor\" by Sophie Ellis Bextor."
+}

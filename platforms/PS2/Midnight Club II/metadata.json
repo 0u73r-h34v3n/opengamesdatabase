@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar San Diego"],
+	"genres": ["Racing"],
+	"name": "Midnight Club II",
+	"publishers": ["Rockstar Games (US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/midnight-club-ii",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rockstar is poised to once again set a new benchmark in the racing genre.  In Midnight Club 2 you are an elite, illegal street racer, more dangerous and skilled than ever racing throughout the cities of Paris, Los Angeles, and Tokyo.  Choose from the latest performance enhanced cars and bikes and compete head-to-head to make a name for yourself.  There are no rules--drive anywhere in the city and just find the fastest route to win.  The cops know you are out there - don't get caught."
+}

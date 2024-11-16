@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Access Co.|Access"],
+	"genres": ["Tools"],
+	"name": "NetFront",
+	"publishers": ["NEC"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Internet browsing software for PS2. NetFront supports modem connections while NetFront for Δ supports NEC Aterm series of routers."
+}

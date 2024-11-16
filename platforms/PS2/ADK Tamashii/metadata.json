@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ADK"],
+	"genres": ["Compilation"],
+	"name": "ADK Tamashii",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The compilation includes 5 arcade/Neo Geo games which were all developed by ADK and published by SNK Playmore. All 5 are 1:1 arcade ports with only one small enhancement in the form of skill lists/move lists for the characters of the fighting games; nothing else was changed. They are all 2D Games and every game is for 1-2 players. The games are not slower or have any glitches the originals didn't have. Ninja Master's: Haō Ninpō Chō was one of the rarest Neo Geo games. "
+}

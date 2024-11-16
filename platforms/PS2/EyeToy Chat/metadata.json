@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Tools"],
+	"name": "EyeToy: Chat",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-chat",
+			"score": 100,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Got Broadband? Got something to talk about? Then get on TV with EyeToy Chat and express yourself! Enter a new era of communications entertainment where socialising with your friends and family at home and abroad is free, easy and fun. "
+}

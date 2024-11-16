@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ion Storm"],
+	"genres": ["Action", "Adventure"],
+	"name": "Deus Ex: The Conspiracy",
+	"publishers": ["Eidos Interactive (US, EU)", "Square Enix (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/deus-ex-the-conspiracy",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As the earth collapses due to deadly viruses and unending violence, terrorism runs rampant. As J.C. Denton, a rookie antiterrorist agent, travel the globe building a network of allies, and create an alter identity to aid you in your search for the truth. Deus Ex: The Conspiracy combines elements of role-playing, action, adventure, and first-person shooter genres in a story filled with conspiracies, cliff-hangers, and plot twists. Employ nanotech augmentations and high-tech weaponry in an effort to uncover an ancient conspiracy bent on world domination."
+}

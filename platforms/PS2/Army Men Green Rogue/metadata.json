@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Army Men: Green Rogue",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/army-men-green-rogue",
+			"score": 39,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set during the time of \"Sarge's Heroes\", the Green Army creates a super soldier composed of DNA spliced from all the members of Bravo Company. Plastro tries to capture the super soldier, but the crash-landing of the helicopter transporting it inadvertently awakens Omega Soldier, causing a one-man rampage against Tan forces. Unique to this game is the fact that all of Omega Soldier's weapons are made of metal instead of plastic."
+}

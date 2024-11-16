@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action"],
+	"name": "Zone of the Enders",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/zone-of-the-enders",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take control of a fully armed prototype mechanized robot to fight off enemies during a space colony hijack. You become the character Leo Stenbuck, a soldier who sees the consequences of fighting firsthand and learns the true meaning of life and death. Conquer missions that change each time you play, or challenge a friend to a heated match. Zone of the Enders combines rich cityscapes and intricate canyons with futuristic weaponry and an intense storyline."
+}

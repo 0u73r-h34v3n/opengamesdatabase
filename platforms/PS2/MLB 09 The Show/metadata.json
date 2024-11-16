@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA San Diego Studios"],
+	"genres": ["Sports"],
+	"name": "MLB 09: The Show",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mlb-09-the-show",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Road to the Show 3.0. Now includes interactive training, new settings, a new steal/lead-off system, presentations and coach interactions. Interactive training will consist of a set of mini-games designed to improve a player's ability and performance in various areas of baseball. Franchise Mode 2.0. Improvements include the long awaited 40-man roster! The latest Franchise Mode improvements will also offer Salary Arbitration, Waiver Transactions and September call-ups. Training/Practice Drills. In MLB 09 users will have the ability to choose from a number of different Training/Practice drills. The drills will be of various concentrations of the game. These drills are a perfect way to polish and improve your baseball skills in The Show. Details & Subtleties. Details and subtleties play a huge role in legitimizing a game and helping you lose yourself in the suspension of disbelief. MLB 09 The Show sinks it's teeth into the details with realistic stadiums and signage, wear and tear on field, dusk to night lighting transitions, stadium Jumbotron animations and even crowd atmosphere-reaching up for foul balls out of play and home runs in addition to crowd rivalries and weather appropriate clothing."
+}

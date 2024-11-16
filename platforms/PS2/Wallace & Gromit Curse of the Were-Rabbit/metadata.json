@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Frontier Developments"],
+	"genres": ["Action", "Adventure"],
+	"name": "Wallace & Gromit: Curse of the Were-Rabbit",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wallace-gromit-curse-of-the-were-rabbit",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Konami's Wallace & Gromit: The Curse of the Were-Rabbit video game closely follows the events of the Aardman and DreamWorks film, with players using cooperative modes to guide any pairing of Wallace, Gromit or their rabbit friend, Hutch, through four huge areas. Players are given free reign of the area as they attempt to solve the problems of the Giant Vegetable Competition. Their mission takes them from the seaside to suburbia as they venture out at night to confront the beast responsible for the vegetable-based carnage."
+}

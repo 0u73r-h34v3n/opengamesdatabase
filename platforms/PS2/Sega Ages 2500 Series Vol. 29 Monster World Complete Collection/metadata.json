@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Compilation"],
+	"name": "Sega Ages 2500 Series Vol. 29: Monster World Complete Collection",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Sega's popular action RPG series \"Monster World\", which has reached high popularity in the arcade, on Mega Drive, Game Gear and other system returns as Monster World Complete Collection, published under the Sega Ages label.   Included in this compilation are the titles \"Wonder Boy\", \"Wonder Boy in Monster Land\", \"Wonder Boy III - Monster Lair\", \"Monster World II\", \"Monster World III\" and \"Monster World IV\", available as different versions, such as arcade original, Master System, Mark III, Mega Drive, Genesis, etc. The game also supports a 480p option, screen smoothing and more."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Guitar Hero",
+	"publishers": ["RedOctane"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guitar-hero",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be a lead guitarist who plays for thousands of people in the unique rhythm game Guitar Hero. The game comes with a guitar-shaped controller modeled after the Gibson Flying SG. With this controller you can simulate playing the guitar parts for more than 30 popular songs by such artists as the Red Hot Chili Peppers, David Bowie, Ozzy Osbourne, Audioslave, White Zombie, Franz Ferdinand, and the Ramones. Guitar Hero features six venues, eight unique characters, many guitars, and a range of difficulty levels. Finally, challenge your friends to see who rocks harder in two-player mode."
+}

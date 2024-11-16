@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Papaya Studios"],
+	"genres": ["Sports"],
+	"name": "Whirl Tour",
+	"publishers": ["Crave (US)", "Vivendi Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/whirl-tour",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Flipside is giving a stunning performance at Castle Coliseum. Suddenly, in the middle of the band's finale an audible power surge occurs, and lightning strikes each of the 6 band members. One after another they are vacuumed into the sky. The band's readie shakes his head in disbelief. \"I have to find them!!!\" He jumps through a color-shifting portal, grabs his scooter and rides off to search for his idols."
+}

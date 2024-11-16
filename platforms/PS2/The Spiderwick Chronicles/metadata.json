@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Stormfront Studios"],
+	"genres": ["Adventure"],
+	"name": "The Spiderwick Chronicles",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-spiderwick-chronicles",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Spiderwick Chronicles video game is based on the upcoming film adaptation by Paramount Pictures and Nickelodeon Films and will feature multiple playable characters, each with unique abilities. The Spiderwick Chronicles is a best-selling book series by Holly Black and Tony DiTerlizzi in which twin brothers Jared and Simon, along with their sister Mallory Grace, embark on a perilous journey filled with adventure and danger."
+}

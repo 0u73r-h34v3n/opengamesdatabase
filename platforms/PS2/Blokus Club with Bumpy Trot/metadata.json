@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Irem"],
+	"genres": ["Board"],
+	"name": "Blokus Club with Bumpy Trot",
+	"publishers": ["Irem"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Based on a board game of the same name, this features characters and other elements from Irem's action-RPG Bumpy Trot. Players have six different types of block arrangements which can be freely placed on the board in turn with other players. You have one rule to follow: pieces can only be placed against the corner of pieces that are currently on the board. Once the board runs out of space, the person with the fewest remaining blocks wins. The PS2 version includes support for between one and four players, along with a new Block Duo mode of competitive play for two players. You can select from the Bumpy Trot characters as opponents when playing as the computer. Also included is Bumpy Trot mode which is set up like a board game in the Bumpy Trot world. Blokus Club also includes a character customization mode, where you can equip your characters with clothing that you've unlocked in Bumpy Trot mode. "
+}

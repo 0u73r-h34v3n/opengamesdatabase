@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Luxoflux|Luxoflux", "Inc."],
+	"genres": ["Action", "Adventure"],
+	"name": "True Crime: New York City",
+	"publishers": ["Activision (US, EU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/true-crime-new-york-city/ps2-678436",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/true-crime-new-york-city",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be a good cop or a bad cop in the streetwise action game True Crime: New York City. You can explore the authentically modeled streets of New York City as a police officer tracking down criminals and administering justice. The game features a diverse weapon set, as well as a mixed offering of fighting styles that you can use to take out those who stand in your way. In addition to combat on foot, the game features driving sequences and shootouts. Laurence Fishburne, Christopher Walken, and Mickey Rourke contribute their voice talent to the game as well."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Matrix Software"],
+	"genres": ["Adventure", "Visual Novel"],
+	"name": "Cluster Edge",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The game is inspired by the original Sunrise anime series of the same name."
+}

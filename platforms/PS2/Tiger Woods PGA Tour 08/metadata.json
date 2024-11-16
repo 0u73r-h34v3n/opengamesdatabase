@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Salt Lake"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 08",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-08",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You're facing a long putt for par on the 17th hole with Tiger Woods clinging to a one stroke lead. You've been in this position before, but that doesn't matter now. Or does it? Whether you play it safe or go for broke, Play with Confidence in Tiger Woods PGA TOUR 08. The all-new Shot Confidence feature uses factors from your previous rounds--including club selection, lie, hole, and more--to determine your confidence heading into each shot. Play with the confidence of a pro as you battle the best golfers from the PGA TOUR and LPGA Tour on the most courses ever in your quest for the coveted FedEx Cup Championship."
+}

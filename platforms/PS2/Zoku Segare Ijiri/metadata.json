@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|Enix Corporation"],
+	"genres": ["Puzzle"],
+	"name": "Zoku Segare Ijiri",
+	"publishers": ["Square Enix|Enix Corporation"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameFaqs User Ratings",
+			"url": "https://gamefaqs.gamespot.com/ps2/578778-zoku-segare-ijiri",
+			"score": 4,
+			"max_score": 5
+		}
+	],
+	"synopsis": "Sequel to Segare Tadashi, which was based on the concept of ‘pursuing silliness’ and gained popularity for its calculated fun and surrealism, even though it was just plain silly. Produced by Akimoto Fox, as in the previous film. The timeline is in the past of the previous film, and facts such as how Segare and Mama were born and why they were alive in the previous film, Seken, are also revealed."
+}

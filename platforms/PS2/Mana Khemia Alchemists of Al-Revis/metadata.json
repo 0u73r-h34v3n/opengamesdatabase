@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gust"],
+	"genres": ["RPG"],
+	"name": "Mana Khemia: Alchemists of Al-Revis",
+	"publishers": [
+		"Gust (JP)",
+		"Nippon Ichi Software|NIS America (US)",
+		"Nippon Ichi Software|NIS Europe (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mana-khemia-alchemists-of-al-revis",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Mana Khemia'' is the 5th entry in the Alchemy RPG series that began with [[Atelier Iris: Eternal Mana]]. The game is quest based, classic style RPG where players adventure on to various missions to complete the game. However, unlike the ordinary classic style RPG, alchemy is the main focus of the game. Meaning players will discover and create items, weapons and even character stats through the use of alchemy."
+}

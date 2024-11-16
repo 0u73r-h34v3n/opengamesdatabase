@@ -1,0 +1,7 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "989 Sports 2003 Demo Disc",
+	"regions": ["NTSC-U"],
+	"synopsis": "This is a 989 Sports (a SCEA division) demo CD. Content: NFL GameDay 2003, NBA ShootOut 2003 (2x), NHL FaceOff 2003, NCAA GameBreaker 2003, NCAA FinalFour 2003 and World Tour Soccer 2003. Promo videos only, no playable content. "
+}

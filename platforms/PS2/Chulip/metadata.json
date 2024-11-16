@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Punchline"],
+	"genres": ["Adventure"],
+	"name": "Chulip",
+	"publishers": [
+		"Victor Interactive Software (JP)",
+		"Marvelous Entertainment (JP)",
+		"Natsume Inc. (US)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/chulip-148549/ps2-482707",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/chulip",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You and your penniless father have just moved into a rural town famous for an ancient legend. It's been said that a couple who kisses underneath the old tree will be destined to live happily ever after. With your eyes set on a girl living in a nearby pipe...you set out on your quest. Filled with a new determination, you've sworn to yourself that you'll do whatever it takes to kiss this charming little girl underneath the ancient tree and spend the rest of your life with her."
+}

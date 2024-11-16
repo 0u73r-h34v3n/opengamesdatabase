@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "UPS2M Speciale Platinum Italia",
+	"publishers": ["Sony|Sony Computer Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "This is a special issue of Official PlayStation 2 Magazine Italy. The demo disc contains:"
+}

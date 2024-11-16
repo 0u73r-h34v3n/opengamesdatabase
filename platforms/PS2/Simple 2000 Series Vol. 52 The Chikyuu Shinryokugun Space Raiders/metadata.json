@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sammy Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Simple 2000 Series Vol. 52: The Chikyuu Shinryokugun: Space Raiders",
+	"publishers": [
+		"Taito Corporation (JP)",
+		"Bigben Interactive (EU)",
+		"D3Publisher (JP)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/space-raiders/reviews/",
+			"score": 2.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Nothing bites like a sky filled with invading alien space craft busily destroying civilization. And it gets really personal when the invaders drop hordes of ground troops to kill you and the people you love.  Ask Justin the street gang leader hoping to find and rescue his friend alive, Ashley the fashion photographer searching desperately for her boyfriend and Naji, a cop who wants his partner back. They're all playable characters fighting for their lives, to avenge those who have died and in the hope of finding disappeared friends.   Space Raiders, from the people who brought you Space Invaders, features addictive play, immersive 3-D environments, monster designs that keeps the player wondering what's behind the next corner, and great game balance. The story features one player Story Mode and one or two player cooperative Survival Mode."
+}

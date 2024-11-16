@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bit Town"],
+	"genres": ["Simulation"],
+	"name": "Lethal Skies Elite Pilot: Team SW",
+	"publishers": [
+		"Asmik Ace Entertainment|Asmik Ace Entertainment",
+		"Inc (JP)",
+		"Sammy Studios (US)",
+		"THQ (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lethal-skies-elite-pilot-team-sw",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Global warming threatens life on earth. Frozen regions of Siberia have melted, submerging entire countries. As part of an elite group of pilots assembled by the World Alliance, your mission is to take out the World Order Reorganization Front, an organization that exploits natural disasters for its own benefit."
+}

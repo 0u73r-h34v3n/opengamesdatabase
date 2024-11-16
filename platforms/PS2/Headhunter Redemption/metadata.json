@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Amuze"],
+	"genres": ["Action", "Adventure"],
+	"name": "Headhunter: Redemption",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/headhunter-redemption",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Twenty years after the devastation caused by the Bloody Mary Virus, a new order emerged based on two distinct, but totally independent worlds. As veteran headhunter Jack Wade or his sidekick, Lezza X, your job is to maintain law and societal order. Use each character's different abilities and weapons to survive intense combat environments. Headhunter: Redemption places you in two storylines based on two worlds, comprised of unique mission structures and objectives."
+}

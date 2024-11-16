@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["RPG", "Simulation"],
+	"name": "Tensai Bit-Kun: Gramon Battle",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "From the creators of Magic Pengel: The Quest for Color comes Tensai Bit-kun Gramon Battle, another monster-raising \"sim\". Developed by Gakaruta Studios and published by Taito, Gramon Battle makes the player construct a monster of his (or her) very own. The game is based on a concept created by NHK Kyouiku, and the designers are taking a large part in making sure that the game stays faithful to the show. There will be over 2,000 possible variations for character creation. "
+}

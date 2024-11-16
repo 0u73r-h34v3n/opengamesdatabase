@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Star Wars: The Force Unleashed",
+	"publishers": ["LucasArts (US, AU, EU)", "Activision (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/star-wars-the-force-unleashed",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Star Wars saga continues in Star Wars: The Force Unleashed. You are Darth Vader's Secret Apprentice! The Dark Lord of the Sith himself has trained you to use a lightsaber and unleash the power of the Force, but now your destiny is your own. Will you join Vader as the next great Sith, or will you choose to defend peace and justice as a noble Jedi Knight?"
+}

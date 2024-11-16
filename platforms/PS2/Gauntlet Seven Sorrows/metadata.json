@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Action", "RPG"],
+	"name": "Gauntlet: Seven Sorrows",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gauntlet-seven-sorrows",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The arcade classic returns with Gauntlet: Seven Sorrows. The game improves upon the old title with a deeper fighting system and light RPG elements. Now you can choose from six heroes, each with their own fighting style, abilities, and backstory. Gauntlet: Seven Sorrows has solo, cooperative, and online play modes. You can go online to join parties of fighters and trade goods."
+}

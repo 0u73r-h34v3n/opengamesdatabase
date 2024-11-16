@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Davilex"],
+	"genres": ["Racing"],
+	"name": "London Racer II",
+	"publishers": ["Davilex"],
+	"regions": ["PAL"],
+	"synopsis": "Prepare yourself for a brand new race through London and Edinburgh! Thrash your opponents with your superlative driving skills, tactical collisions and cunning stunts. Experience a life-like racing world interspersed with realistic radio comments and dance music! Rev your engine and let's turn London upside-down!"
+}

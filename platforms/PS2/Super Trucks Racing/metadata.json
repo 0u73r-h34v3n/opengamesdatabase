@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jester Interactive"],
+	"genres": ["Racing"],
+	"name": "Super Trucks Racing",
+	"publishers": ["Jester Interactive (EU)", "XS Games (US)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/super-trucks-racing",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get into the aggression, power, and speed of Super Trucks Racing. With seven international, real-life circuits, and trucks authentically re-created from the schematics of 14 officially licensed teams, Super Trucks is a close representation of the real thing. A comprehensive options menu allows you to adjust the handling of each of the five-ton trucks to compensate for the effects of varied weather conditions and accrued damage. Game modes include four championships, each of which must be completed in order to unlock hidden vehicles and courses, with single and arcade races, time trials, and pan-European competitions available as single- or split-screen, two-player games."
+}

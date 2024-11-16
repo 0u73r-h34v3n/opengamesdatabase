@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gusto Games"],
+	"genres": ["Adventure"],
+	"name": "Goosebumps Horrorland",
+	"publishers": ["Scholastic|Scholastic", "Inc."],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/goosebumps-horrorland/",
+			"score": 3.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Goosebumps HorrorLand is an adventure game set in a fright-themed amusement park filled with over thirty thrilling rides and bone-chilling attractions. Sounds like fun--until you discover the scares are all too real and find yourself vanquishing vampires, hanging on for life on the Roller Ghoster and battling Certain Death. As you fiendishly try to escape the park, you will unravel a mystery, encounter a host of creepy horrors, monsters and mummies plus trademark Goosebumps twists and cliffhangers. Goosebumps HorrorLand offers suspense, tension, humor, and pulse-pounding action."
+}

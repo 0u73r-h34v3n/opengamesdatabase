@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hydravision"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Obscure: The Aftermath",
+	"publishers": ["Playlogic (EU, AU)", "Ignition Entertainment (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/obscure-the-aftermath",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Obscure: The Aftermath is a Survival Horror game that crosses new boundaries by incorporating 2 player co-op gameplay with the ability to drop a second player in or out of the action at any time. Players can work together to solve puzzles, combat hideous monsters and enjoy hilarious dialogue. Fight the Black Aura, a mysterious and sinister black flower, as it infests the campus of Fallcreek College and ratchets up the student body count."
+}

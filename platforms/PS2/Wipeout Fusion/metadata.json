@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Studio Liverpool"],
+	"genres": ["Racing"],
+	"name": "Wipeout Fusion",
+	"publishers": ["Sony|SCEE (EU)", "Bam Entertainment (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/wipeout-fusion/",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wipeout-fusion",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for more twists, turns, and explosions in Wipeout Fusion. The fourth installment in the Wipeout series includes enhanced tracks, ships, and weaponry, as well as five gameplay modes. Now you can practice your antigravity racing skills in arcade mode, a full league option, and a secret zone mode. With 45 futuristic race circuits to negotiate, you can corkscrew, jump, barrel roll, and loop like never before. Wipeout Fusion matches its new features with new dance soundtracks from such electronic music artists as Orbital, Plump DJs, and Timo Maas."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cohort Studios"],
+	"genres": ["Trivia"],
+	"name": "Buzz! Junior: Robo Jam",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/buzz!-junior-robojam",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Buzz! Junior: RoboJam takes you into a futuristic world where cheeky robots dodge missiles on a firing range, dance with a giant alien octopus and try to make the grade as crash-test dummies. Up to four players can grab a buzzer and battle it out in Robot Academy - a contest of 25 whole games in which players compete for points in the form of nuts. Collect the most nuts overall and you'll carry off the Robot of the Month award."
+}

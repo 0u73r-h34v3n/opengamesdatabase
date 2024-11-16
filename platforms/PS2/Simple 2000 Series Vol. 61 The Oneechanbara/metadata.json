@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Action", "Fighting"],
+	"name": "Simple 2000 Series Vol. 61: The Oneechanbara",
+	"publishers": ["D3Publisher (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The hack and slash gameplay involves the player controlling Aya, a scantily-clad cowgirl who wears a scarf and wields a katana. The player is pitted against hordes of zombies and nightmarish boss creatures, who spill torrents of blood when they are attacked. Aya is often accompanied on her adventures by several other warrior women, such as her younger sister Saki, who appears in most titles in the series."
+}

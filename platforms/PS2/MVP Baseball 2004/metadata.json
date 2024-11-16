@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "MVP Baseball 2004",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mvp-baseball-2004",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step up to the plate with MVP Baseball 2004.  The fundamentals of hitting, pitching, fielding, and base-running have been reproduced realistically to give you complete control over every aspect of the game.  From swinging for the fences or protecting the plate when you have a two-strike count, the all-new batting model provides unprecedented command of each type of swing in every situation.  With solid gameplay and many additional features such as Pitching Challenge and Dynasty Mode, MVP Baseball 2004 allows you to experience the game like never before."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neversoft Entertainment"],
+	"genres": ["Sports"],
+	"name": "Tony Hawk's Pro Skater 4",
+	"publishers": ["Activision (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tony-hawks-pro-skater-4",
+			"score": 94,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drop into the ultimate challenge.  In the next chapter in the Tony Hawk series, pros challenge you to make your mark in huge free-roaming levels, taking on 190 progressively harder goals with no time limits to hold you back.  Decide when you're ready to take on your Pro Challenge and move into the pro ranks, where it's a whole new game.  Build your skills, perform all-new tricks, play up to eight players online, and show that you've got what it takes to go Pro."
+}

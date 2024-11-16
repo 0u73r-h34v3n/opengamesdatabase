@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["Simulation"],
+	"name": "Densha de Go! Shinkansen: Sanyou Shinkansen-hen",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Densha de Go! is a Japanese train driving simulation series. This version allows driving of the famous bullet trains with speeds of up to 300km/h. Coverage included the Sanyō Shinkansen and Hakata Minami Line."
+}

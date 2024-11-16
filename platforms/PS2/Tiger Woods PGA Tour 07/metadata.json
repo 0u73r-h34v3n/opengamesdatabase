@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Redwood Shores"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-07",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tiger Woods Comes Alive -- See and feel every emotion in complete detail with the introduction of all-new Universal Capture (UCAP) technology. Play Under Pressure -- With bigger galleries, mass crowd movement from hole to hole, and cheers from nearby greens, all eyes are on you in tournament play. Enhanced Career Mode -- From working on your driving to mastering your putting skills, craft your game with training challenges in the Practice Facility, then take on the world's best golfers on the World Tour. All-New Championship Courses -- The course content doubles with the addition of new licensed courses, including Firestone Country Club, Glen Abbey, Princeville, Spyglass Hill, St Andrews, and Bandon Dunes. The game features 15 of the world's top players, including Tiger Woods, John Daly, Vijay Singh, Ian Poulter, Michael Campbell, and Annika Sorenstam, the most decorated golfer on the LPGA Tour. Show Your GameFace -- The innovative character creation tool is revamped with deeper modifications, more apparel, equipment licenses, and specialty items. Challenge up to three players in five new game modes, or play in online tournaments complete with money lists, full stat tracking, league leaders, and more. More Game Modes -- Work on your game or take on a friend in Match Play, Battle Golf, 21, OneBall, and more."
+}

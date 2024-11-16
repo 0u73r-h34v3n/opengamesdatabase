@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Shooter"],
+	"name": "Medal of Honor: Vanguard",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/medal-of-honor-vanguard",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the boots of Frank Keegan, Corporal of the 82nd Airborne Division and engage in battles throughout Europe. From Operation Husky on the shores of Sicily to Operation Varsity inside Nazi Germany, you'll fight behind enemy lines in the epic WWII battles that turned America's first paratroopers into heroes of WWII. Featuring spectacular graphics adding to epic combat intensity, Medal of Honor Vanguard makes you the driving force in the struggle to liberate Europe."
+}

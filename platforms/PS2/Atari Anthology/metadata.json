@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Eclipse"],
+	"genres": ["Compilation"],
+	"name": "Atari Anthology",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atari-anthology",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Atari puts together its most popular arcade and console games in one massive collection. Now you can play classic arcade hits such as Asteroids, Centipede, Missile Command, Pong, Warlords, Crystal Castle, Gravitar, and much more. The collection also includes 62 Atari 2600 titles, including Adventure, Breakout, Casino, Pong, Star Raiders, and Yars' Revenge. Relive your favorite titles from the early days of video games, and take on new challenges and bonus games."
+}

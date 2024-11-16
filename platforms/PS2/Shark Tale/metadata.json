@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Edge of Reality"],
+	"genres": ["Action", "Platformer"],
+	"name": "Shark Tale",
+	"publishers": ["Activision (US, EU, AU)", "Taito Corporation (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shark-tale",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the murky depths of the ocean, the fate of Reef City lies in the fins of one little fish--at least that's what he wants you to think. Dive into the underwater metropolis of Shark Tale and play as Oscar, a fast-talking fish whose little fib gets him into big trouble. Based on DreamWorks' animated film, Shark Tale features 25 missions that will have you exploring Reef City, racing through the coral, fighting Fish Fu and great white sharks, and dancing to the sounds of hip-hop tracks."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["RPG"],
+	"name": "Wizardry: Tale of the Forsaken Land",
+	"publishers": ["Atlus (JP, US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/166/166191p1.html",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wizardry-tale-of-the-forsaken-land",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sharpen your swords and prepare for an adventure full of treasures, monsters, and magic. Wizardry: Tale of the Forsaken Land takes place in the Kingdom of Duhan, where a mysterious sphere of light kills thousands of residents. Demonic creatures from the underworld emerge, driving survivors beneath the castle. In the underground labyrinths, you must create party members from different races and classes and equip them with various items and weapons. If your party can overcome enemies, team members' clashing personalities, and the dreaded Reaper, you'll receive great treasure."
+}

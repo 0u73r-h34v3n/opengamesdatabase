@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montreal"],
+	"genres": ["Action", "Adventure"],
+	"name": "Prince of Persia: Warrior Within",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/prince-of-persia-revelations/ps2-654709",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/prince-of-persia-warrior-within",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hunted by Dahaka, an immortal incarnation of Fate seeking divine retribution, the Prince embarks on a new journey on a cursed island. Only with courage and the mastery of new combat arts can the Prince emerge victoriously. As the Prince, you can develop your own fighting style by manipulating the environment and the enemies. You can even use new projectile attacks and Sands of Time powers to rid the lands of deadly monsters."
+}

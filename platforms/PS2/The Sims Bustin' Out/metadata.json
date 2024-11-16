@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Maxis"],
+	"genres": ["Simulation"],
+	"name": "The Sims Bustin' Out",
+	"publishers": ["Electronic Arts|EA Games (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/566/566345.html",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-sims-bustin-out",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Sims are making a big return to the console and this time they are bustin' out of the house and exploring all-new locations around town.  In The Sims Bustin' Out, players can choose from a variety of new career paths.  Along the way, players can unlock and collect over a hundred of new objects and social moves exclusive to the console.  Play, work, and socialize with a cast of over 25 new outrageous characters and climb through a dozen new careers.  The Sims Bustin' Out also features new integrated two-player gameplay and memory card support, for those players who like to take their Sims over to a friend's house and show them off."
+}

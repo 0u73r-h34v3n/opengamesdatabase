@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Silent Hill 2",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/silent-hill-2",
+			"score": 89,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://gamespot.com/ps2/adventure/silenthill2/review.html",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/09/25/silent-hill-2-2",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_silenthill2_ps2",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In the sequel to Silent Hill, Silent Hill 2 follows James Sunderland, whose life is shattered when his young wife Mary suffers a tragic death.  Three years later, a mysterious letter arrives from Mary, beckoning him to return to their sanctuary of memories, the dark realm of Silent Hill.  You must guide James through all-new environments and creepy new areas closed off in the original game.  Real-time weather effects, fog, morphing, and shadows set the stage for heart-stopping frights. Be brave as you journey to uncover the truth."
+}

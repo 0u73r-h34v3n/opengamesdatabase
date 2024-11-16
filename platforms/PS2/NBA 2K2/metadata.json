@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NBA 2K2",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-2k2",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Exploit the defender with a lightning quick drop step move before you launch all out attack, finishing with an impressive dunk! With enhanced player performance such as this, the most renowned basketball game ever has been improved on all levels. Run the floor with new moves, exploit the new steal system then stand back in awe as you're put right behind the cameras in replay mode. With the addition of legendary urban playground courts, including the famous Mosswood Park, NBA2K2 is the true basketball experience."
+}

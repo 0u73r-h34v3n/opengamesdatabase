@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Axis Entertainment"],
+	"genres": ["Racing"],
+	"name": "DT Racer",
+	"publishers": ["XS Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/dt-racer/ps2-759410",
+			"score": 3.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dt-racer",
+			"score": 32,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Extreme tuner racing just hit a whole new level of no holds barred racing. DT Racer drops you on to 22 of the slickest tracks around the globe. Completely fine tune every inch of your car's handling and performance with unlimited customization. And when you are done, put your foot to the floor and show them what you've got!"
+}

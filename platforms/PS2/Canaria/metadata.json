@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Frontwing"],
+	"genres": ["Adventure"],
+	"name": "Canaria",
+	"publishers": ["NEC Interchannel"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This story begins when the main character, Yohei Hassaku, moves to Kagawa Prefecture in Shikoku for the convenience of his parents. Yohei is attracted to a girl he met by chance in his uncle's studio. He joins the 'light music club' at the transfer school and aims for a successful live performance at the school festival three months later. As he begins his new life, new encounters and many stories await him..."
+}

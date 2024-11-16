@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "MLB 2006",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mlb-2006",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "989 Sports ushers in the 2005 baseball season with a new installment in its baseball simulation series. MLB 2006 features a variety of gameplay enhancements, such as \"branch point technology,\" which provides smoother fielding transitions and baserunning; a fielding zone that matches a player's attributes with your skill level; and a \"pitcher confidence marker\" that helps determine your ability to hit spots in the strike zone. The game also enhances the series' franchise mode and introduces a career mode. Returning to MLB 2006 are EyeToy functionality, online playability, and voice recognition."
+}

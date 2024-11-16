@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Turn-based strategy"],
+	"name": "Disgaea: Hour of Darkness",
+	"publishers": ["Nippon Ichi Software (JP)", "Atlus (US)", "Koei (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/589678-disgaea-hour-of-darkness/index.html",
+			"score": 86,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disgaea-hour-of-darkness",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Disgaea: Hour of Darkness, change is imminent.  The dark Netherworld has been overtaken by evil rulership and Prince Lahari, the rightful king, must fight his way back to the throne.  As Lahari, assemble a massive army from over 150 character classes and monsters to decimate opposing forces.  Decimate your enemies by upgrading your weapons and unleashing mind-blowing spells, special skills, and devastating group attacks.  It's time for you to start acting like a king."
+}

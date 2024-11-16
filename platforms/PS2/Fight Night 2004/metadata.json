@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Fight Night 2004",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/fight-night-2004/ps2-620650",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fight-night-2004",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EA Sports returns to the boxing ring with Fight Night 2004. Built to deliver all the drama and pageantry of a heavyweight title bout, Fight Night 2004 features real fighters with authentic moves. With Total Punch Control, the analog sticks become intuitive extensions of your fists, giving you more control over punches, blocks, and dodges. Create your own fighter in Career mode, customize your ring entrance, and then work your way from amateur to undisputed champion."
+}

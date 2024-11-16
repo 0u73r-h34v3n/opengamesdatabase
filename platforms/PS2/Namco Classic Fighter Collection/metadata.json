@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai|Namco Bandai Games"],
+	"genres": ["Collection"],
+	"name": "Namco Classic Fighter Collection",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Two of the greatest fighting franchises of all time deliver a powerful 1-2 punch in a limited edition box set!"
+}

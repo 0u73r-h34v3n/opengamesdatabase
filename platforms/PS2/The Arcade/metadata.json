@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Arcade", "Action"],
+	"name": "The Arcade",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "A collection of the following arcade games: ''Battling Bats'', ''Freakoids'', ''Jetpac Jousting'', ''Moon Mission'', ''N-Vaders'', ''Galaxy Warriors'', ''Muncher'', ''Protectors'', ''Operations TNT'' and ''Pipe Puzzle''"
+}

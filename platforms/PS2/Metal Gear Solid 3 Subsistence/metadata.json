@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aspect"],
+	"genres": ["Compilation", "Action", "Adventure"],
+	"name": "Metal Gear Solid 3: Subsistence",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/03/10/metal-gear-solid-3-subsistence",
+			"score": 9.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/metal-gear-solid-3-subsistence",
+			"score": 94,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/metal-gear-solid-3-subsistence-review/1900-6145929/",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_mgs3sub_ps2",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Metal Gear goes online for the first time in Metal Gear Solid 3 Subsistence! Players can battle or team up with up to 7 other friends for online dominance. Featuring different gameplay modes, new camera system, and robust online play, Subsistence is the game that gives players a brand new Metal Gear experience. Includes MGS3 Snake Eater and all new Online Modes, including Death Match, Team Death Match, Sneaking Mission, Capture Mission, and Rescue Mission. Third Person Camera system gives players more control. Bonus Metal Gear and Metal Gear 2 Solid Snake games which have never been released before in the North America. Demo Theater, Duel Mode, and new stages for Snake vs. Monkey mini-game."
+}

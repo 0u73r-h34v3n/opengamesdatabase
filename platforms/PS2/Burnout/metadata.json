@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Racing"],
+	"name": "Burnout",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/531286-burnout/index.html",
+			"score": 80,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/burnout",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Burnout brings high-energy, arcade-style street racing to your gaming console.  Drive more than 300 realistic vehicles, and then crash them in spectacular, slow-motion fashion.  Burnout monitors your driver's heart rate: You're rewarded for near-misses and the more risks you take.   Cruise the United States and Europe on 14 awesome, traffic-filled courses, through cities and into the countryside. Instant replays allow you to relive your handiwork from multiple angles, in all of its cringe-inducing, metal-bashing glory."
+}

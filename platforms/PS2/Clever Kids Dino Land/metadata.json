@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gamerholix"],
+	"genres": ["Family"],
+	"name": "Clever Kids: Dino Land",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Clever Kids: Dino Land brings the ever-popular prehistoric beasts to life in all their colour and splendour. Take a journey with Sprocket the Robot back in time to when these enormous giants roamed the earth. Learn about all the different types of Dinosaurs, what they eat, who had the biggest teeth and how they battled for survival with other Dinosaurs."
+}

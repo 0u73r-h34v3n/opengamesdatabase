@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradigm Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Mission: Impossible: Operation Surma",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/016/016272.html",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mission-impossible-operation-surma",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Your mission, should you choose to accept it, is to save the free world from certain doom.  Ethan Hunt is back in Mission: Impossible Operation Surma, a stealth action adventure featuring an incredible arsenal of the latest weaponry, hi-tech gadgets, and mind-blowing disguises.  Ethan and his IMF team travel to exotic international locations in an effort to thwart the Surma Corporation's diabolical plans for global domination.  Throughout your mission, you'll be called upon to use your brains and brawn to get the job done."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Data Design Interactive"],
+	"genres": ["Racing"],
+	"name": "Classic British Motor Racing",
+	"publishers": ["Metro3D"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamesradar",
+			"url": "http://www.gamesradar.com/classic-british-motor-racing-review/",
+			"score": 1,
+			"max_score": 5
+		}
+	],
+	"synopsis": "An amazing range of high performance classic cars to choose from including Austin Mini, Austin-Healy, MG, Rover and Triumph. Designed to please Classic Motor fans! Each car is accurately recreated under licence and feature the real handling characteristics of the vehicles. This is your chance to own and drive a piece of British Motor Racing heritage."
+}

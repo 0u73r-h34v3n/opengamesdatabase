@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["2K|2K Sports"],
+	"genres": ["Sports"],
+	"name": "College Hoops 2K6",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/college-hoops-2k6",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "College Hoops 2K6 is the latest entry in the 2K series of NCAA basketball simulations. New to the game this year is the Coach's Clipboard feature, which lets you instantly change your tactics during the game. Recruiting has also been changed with the addition of recruiting camps. Coaching is the main focus of the changes, with real coaches having been added in. Also, teamwork and focus have been made more vital to team success. All other game modes from past iterations of the series have been included."
+}

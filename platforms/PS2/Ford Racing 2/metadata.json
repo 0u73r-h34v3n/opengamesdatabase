@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Razorworks"],
+	"genres": ["Racing"],
+	"name": "Ford Racing 2",
+	"publishers": ["Gotham Games (US)", "Empire Interactive (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/918802-ford-racing-2/index.html",
+			"score": 62,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ford-racing-2",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to Ford Racing has arrived.  Ford Racing 2 has new and improved cars, added tracks and challenges, and more thrills than ever.  With an expanded selection of Ford vehicles--ranging from the '49 Ford to the latest Mustang GT Concept--picking out a car will be a lot harder than you expect.  Get a feel for each car on a diverse set of tracks including Road Tracks, City Limits, Ovals, Spring Break, and Lost World.  Ford Racing 2 is ready to put you in the driver's seat, but are you daring enough to sit there?"
+}

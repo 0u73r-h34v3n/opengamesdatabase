@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pipeworks Software|Pipeworks Software", "Inc."],
+	"genres": ["Music"],
+	"name": "Boogie",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/boogie",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players dance, sing and create music videos with this videogame party package that takes advantage of the innovative controls getting gamers off their couch and playing to a new beat. Not only do gamer belt out their favorite tunes or dancing to the latest hit songs, players catch their best dance moves, record their own voice and make music videos with the easy-to-use music video creator. Fun mini-games, co-op gameplay, head-to-head dance battles and karaoke party make Boogie a complete entertainment package for gamers of all ages."
+}

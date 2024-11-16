@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Trophy Bucks",
+	"publishers": ["Activision"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-trophy-bucks",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience fast paced hunting action in pursuit of trophy bucks in 24 states and provinces across North America. Cabela's Trophy Bucks starts you at the most critical and exciting part of each mission where you will be immediately presented with a challenge. You will hunt 11 species of trophy deer including Whitetail, Rocky Mountain Mule Deer, Sitka, Desert Mule Deer, Columbian Black Tail and more."
+}

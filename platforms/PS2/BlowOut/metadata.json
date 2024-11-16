@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "BlowOut",
+	"publishers": [
+		"Majesco (US)",
+		"Zoo Digital Publishing (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/458/458224p1.html",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/blowout",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As Major John \"Dutch\" Cane, you'll lead an elite platoon of mercenary commandos, outfitted with the most deadly experimental weaponry, into the pit of evil. It's your job to rid the world of mutated beasts and alien insects through 10 levels of intense action. To ensure your team's success, the military has given you access to a variety of weapons, including a 20mm pump-action shotgun, eight-meter flamethrower, plasma rifle, machine gun, and an eight-inch nailgun. Blast through walls, ceilings, and floors to discover secrets and power-ups that enhance your weapons."
+}

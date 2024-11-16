@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Take-Two Interactive"],
+	"genres": ["Family"],
+	"name": "Ni Hao, Kai-Lan: Super Game Day",
+	"publishers": ["Take-Two Interactive"],
+	"regions": ["NTSC-U"],
+	"synopsis": "For the very first time, fans of the hit preschool show, Ni Hao, Kai-lan, can enjoy playing as their favorite characters on PlayStation 2."
+}

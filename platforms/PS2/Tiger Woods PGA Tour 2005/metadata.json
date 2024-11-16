@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 2005",
+	"publishers": ["Electronic Arts|EA Sports (US, EU)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-2005",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Challenge professional golfer Tiger Woods to challenging matches in Tiger Woods PGA Tour 2005. This time, you can modify course dynamics and add longer trees, tighter fairways, undulations to greens, deeper bunkers, and more. The game's EA Sports Game Face features nonproportional bone scaling and texture blending to provide more realistic looks. After creating your own golfer and making a name for yourself, unlock the chance to tee off against some of golf's greatest legends, including Arnold Palmer, Jack Nicklaus, and Ben Hogan."
+}

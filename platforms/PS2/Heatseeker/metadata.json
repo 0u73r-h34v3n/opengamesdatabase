@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["IR Gurus"],
+	"genres": ["Simulation"],
+	"name": "Heatseeker",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/heatseeker/ps2-858378",
+			"score": 4.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/heatseeker",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Heatseeker will strap you into the pilot's seat and deliver an exhilarating white-knuckle ride that'll have you clutching the joypad as you engage in face-melting 6G turns and fight against a seemingly-impossible amount of airborne enemies."
+}

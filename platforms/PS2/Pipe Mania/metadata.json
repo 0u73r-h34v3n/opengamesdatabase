@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Razorworks"],
+	"genres": ["Puzzle"],
+	"name": "Pipe Mania",
+	"publishers": ["Empire Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/10/17/pipe-mania-review",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pipe-mania",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The simplicity of Pipemania makes it accessible to all ages. The player must lay down a pre-ordained set of pipes on a tiled grid in order to keep the constantly flowing Flooze moving for as long as possible without it spilling out. The game requires quick thinking, hand-eye co-ordination, forward thinking and keen spatial awareness."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Racing"],
+	"name": "Bomberman Kart",
+	"publishers": ["Hudson (JP)", "Konami (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/bomberman-kart/ps2-17077",
+			"score": 6.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Bomberman Kart pits its cast in a high-speed racing scenario. Spanning 16 circuits and boasting five playable characters, players must ensure their racer is the first past the post by whatever means necessary. To this end, a series of weapons can be collected, including missiles, turbo boosts and the old Bomberman favorite: cherry bombs! Bomberman Kart also includes huge array of game modes. In addition to the no-holds-barred Grand Prix, the Battle Mode encourages racers to KO their opponents in a classic 'last man standing' challenge, while the Time Attack uses a ghost rider that is updated every time a lap record is broken. Additional modes include the off-road Challenge, the Speed Race, and a multitude of sub-games in the Random Challenge section. "
+}

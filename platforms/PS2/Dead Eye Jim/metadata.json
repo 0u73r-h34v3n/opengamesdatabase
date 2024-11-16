@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Naps Team"],
+	"genres": ["Action"],
+	"name": "Dead Eye Jim",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Dead Eye Jim is a Western themed single player 3D shooter game played from a third person perspective. The player will take on the role of sheriff Dead Eye Jim who has to combat the bandits causing trouble in the desert towns. The game is very similar to the PS1 game 'Wanted' from 2004."
+}

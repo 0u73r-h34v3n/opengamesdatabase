@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gearbox Software"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Half-Life",
+	"publishers": [
+		"Sierra Entertainment (US, EU)",
+		"Vivendi Games|Vivendi Universal Games (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/half-life",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong.  As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive.  Find your way through the monster-ridden areas of Black Mesa using your wits,  limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades.  With split-screen deathmatch and its exclusive \"Decay\" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other."
+}

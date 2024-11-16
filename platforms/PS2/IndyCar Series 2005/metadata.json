@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "IndyCar Series 2005",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"synopsis": "IndyCar Series 2005 lets you compete from Pole Day to Bump Day as one of 33 racers. You'll race an entire season that takes you from the Indianapolis 500 to other IndyCar Series tracks, including the Texas Motor Speedway, Chicagoland Speedway, Pikes Peak International Raceway, and the new Twin Ring Motegi Speedway in Japan. Now you can practice your driving skills in an updated Masterclass training mode, and then compete online against 11 other players."
+}

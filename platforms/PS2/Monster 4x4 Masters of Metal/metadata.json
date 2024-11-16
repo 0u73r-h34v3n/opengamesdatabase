@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Racing"],
+	"name": "Monster 4x4: Masters of Metal",
+	"publishers": ["Ubisoft"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-4x4-masters-of-metal",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready to pilot the world's most powerful trucks and go head-to-head in pulse-pounding off-road competitions.  You can pick from over 20 unstoppable Monster trucks, including Grave Digger, El Toro Loco, Bulldozer, Bounty Hunter, Blue Thunder, and Maximum Destruction.  Whether you're grinding through mud pits in Louisiana, crunching up cliffs in California, or smashing up trees to make the ride a little bumpier for the guy behind you, keep your eyes on the prize: The cash you earn on the circuit goes to buy new trucks and build up your ultimate Monster machine."
+}

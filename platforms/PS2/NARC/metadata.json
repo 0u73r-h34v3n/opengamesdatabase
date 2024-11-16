@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Action", "Adventure"],
+	"name": "NARC",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/545/545769.html",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/narc",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A routine stop for a traffic violation turns into a bloodbath as a drug dealer kills eight police officers. The DEA sends Detectives Jack Forzenski and Marcus Hill to help investigate a new mystery drug and to untangle a web of lies, betrayals, secrets, and temptations. As Jack and Marcus, your decisions determine whether you're a good cop or a bad cop--turn the drugs into evidence and become the hero, or sell them on the street to earn some cash. No matter what path you choose, NARC gives you the chance to bust criminals, wield an arsenal of hi-tech police weaponry, and engage in rough street fighting."
+}

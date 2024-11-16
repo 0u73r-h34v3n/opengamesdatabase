@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Sports"],
+	"name": "High Heat Major League Baseball 2003",
+	"publishers": ["3DO (US, EU)", "Takara (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/high-heat-major-league-baseball-2003",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Last year's best reviewed baseball game is back with awesome new graphics, new audio, and several new modes, including the new Two On Two Showdown! Pick a pitcher and a batter to square off in the ultimate head-to-head competition!"
+}

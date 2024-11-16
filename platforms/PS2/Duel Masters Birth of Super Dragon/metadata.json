@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shogakukan"],
+	"genres": ["Turn-based strategy"],
+	"name": "Duel Masters: Birth of Super Dragon",
+	"publishers": ["Kids Station"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Birth of the Super Dragon is a tactical card game compared to previous Duel Masters games, which featured completely new characters and focused heavily on the creature's graphics. This game mostly concentrates on the card-game itself with new decks and strategies. This edition has 851 cards. "
+}

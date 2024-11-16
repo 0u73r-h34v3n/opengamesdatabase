@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "Adventure"],
+	"name": "Dirge of Cerberus: Final Fantasy VII",
+	"publishers": ["Square Enix"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dirge-of-cerberus-final-fantasy-vii",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A mysterious organization has emerged from the devastation of Meteorfall, and the enigmatic Vincent Valentine may be the only hope to save this shattered world.  Set after the events in FINAL FANTASY VII and FINAL FANTASY VII ADVENT CHILDREN, this entirely new game features familiar characters, blazing gunfighting action, and the latest chapter of the world's favorite storyline!"
+}

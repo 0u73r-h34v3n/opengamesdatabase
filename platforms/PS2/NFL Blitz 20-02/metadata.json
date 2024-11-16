@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "NFL Blitz 20-02",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-blitz-20-02",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NFL Blitz 2002 is extreme-style football the way it was meant to be played. Lightning fast gameplay and action play selection screens make for non-stop action. Over-the-top animations mean you'll see bigger hits and wilder plays then you have ever dreamed of. Real teams, real players, real attitude!"
+}

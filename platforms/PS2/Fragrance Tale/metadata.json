@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Takuyo"],
+	"genres": ["Visual Novel", "Simulation"],
+	"name": "Fragrance Tale",
+	"publishers": ["Takuyo"],
+	"regions": ["NTSC-J"],
+	"synopsis": "In a system created by Gaea, three planets exist: Flaithis, akin to the Heavens, where the angels live, Annwn, akin to Hell, where the demons live, and the Earth-like Rirudahna which lies between the two. Flaithis and Annwn have been at war for many years, and it isn't any surprise that the peaceful Rirudahna, which falls between the two, would be drug into the battle."
+}

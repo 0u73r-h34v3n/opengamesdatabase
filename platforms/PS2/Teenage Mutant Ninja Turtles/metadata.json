@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCE Studios"],
+	"genres": ["Action", "Fighting"],
+	"name": "Teenage Mutant Ninja Turtles",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/teenage-mutant-ninja-turtles",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be your favorite Teenage Mutant Ninja Turtle and master your ninja skills in their action-packed world.  Roam NYC streets, scour underground sewers and fight your way across rooftops on a collision course with The Shredder and his vile pack of foot ninjas. Find scrolls to unlock special attack moves and effects.  Interact with characters from the animated television series, such as Splinter and Casey Jones.  Don't hide in your shell--be a hero."
+}

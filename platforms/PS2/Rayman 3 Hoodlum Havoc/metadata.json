@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Platformer"],
+	"name": "Rayman 3: Hoodlum Havoc",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/rayman-3/ps2-15124",
+			"score": 8.9,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/rayman-3-hoodlum-havoc",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rayman's universe has fallen into a chaotic world of wicked powers, bizarre characters, and merciless combat. When Globox accidentally swallows the Lord of the Dark Lums, a fanatic army of trigger-happy Hoodlums wreaks total havoc to get their Lord back. Rayman's only chance is to purge the Dark Lum Lord from the manic Globox, scour the lands for new powers, and battle with hordes of Hoodlum soldiers. Even without arms or legs, Rayman can still unleash an arsenal of special powers and fighting moves."
+}

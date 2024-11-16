@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Surreal Software"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "The Suffering",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/the-suffering/ps2-545748",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-suffering",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Suffering captures the disturbing and terrifying nature of the horror genre in a compelling third-person action/adventure game set in the mature and gritty world of a maximum-security prison.  You'll control of the prisoner Torque, a man sentenced to die for a murder he may or may not have actually committed.  Enter a nightmarish world where creatures jump out of shadows, fall out of trees, and erupt out of the ground.  Battle ghoulish apparitions, hardened criminals and guards, and the demons from your own forgotten past.  Will you solve the mystery of Torque's past and survive or fall victim to The Suffering?"
+}

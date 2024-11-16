@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ImaginEngine"],
+	"genres": ["Family"],
+	"name": "Konami Kids Playground: Alphabet Circus",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/konami-kids-playground-alphabet-circus",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Konami Kids Playground is an innovative new series of PlayStation2 games that turns learning into a fun, full-body activity for your preschooler. Kids, aged 2 to 5, will love to jump, stomp and learn their way through each of these fun and educational games! Kids will have hours of fun exploring the colorful world of the circus, and parents will appreciate the simple challenges that reinforce familiarity with the alphabet."
+}

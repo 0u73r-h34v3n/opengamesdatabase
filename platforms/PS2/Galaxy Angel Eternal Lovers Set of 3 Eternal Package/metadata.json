@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broccoli"],
+	"genres": ["Collection"],
+	"name": "Galaxy Angel: Eternal Lovers Set of 3 Eternal Package",
+	"publishers": ["Broccoli"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Japanese Editions of [[Galaxy Angel]], [[Galaxy Angel: Moonlit Lovers]] and [[Galaxy Angel: Eternal Lovers]].}}"
+}

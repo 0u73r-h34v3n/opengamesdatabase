@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Siesta"],
+	"genres": ["Visual Novel"],
+	"name": "Simple 2000 Series Vol. 34: The Renai Horror Adventure - Hyouryuu Shoujo",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Hyouryuu Shoujo (Drifting Girl) is a combination of a Japanese-style visual novel \"gal game\" and a horror game. Each day, the player must ration food for each of their companions -- all of them girls from the protagonist's school -- then choose a partner to go out and search for supplies and information, while doing their best to avoid or fight off the spirits haunting the ruins. Each character needs a certain amount of food each day; if they have too little, their health will deplete until they are incapacitated and eventually die. Investigation is command based, with the options to move to other locations, investigate the current area more closely, or converse with the player's current partner."
+}

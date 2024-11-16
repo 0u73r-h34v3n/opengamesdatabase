@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "The King of Fighters '98 Ultimate Match",
+	"publishers": ["SNK Playmore (JP)", "Ignition Entertainment (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-fighters-98-ultimate-match",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Originally created as a \"dream match\" for players to pit their favorite KOF characters against each other, KOF '98 UM takes that one step further by introducing new characters, game systems, game modes, stages and soundtracks not seen in the original. KOF '98 UM contains 64 characters, 10 of which are new to the Ultimate Match version. This is the most characters ever included in a single King of Fighters game."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Virtual Toys"],
+	"genres": ["Gambling"],
+	"name": "High Rollers Casino",
+	"publishers": ["Mud Duck Productions"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/high-rollers-casino",
+			"score": 16,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the thrill and excitement of a Las Vegas casino like you've never seen before. An entire casino in full 3D, complete with everything you'd expect to find: blackjack, poker, slots, craps and much, much more! Experience the life of a high roller in High Rollers Casino!"
+}

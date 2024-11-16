@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Farsight Studios"],
+	"genres": ["Pinball", "Arcade"],
+	"name": "Gottlieb Pinball Classics",
+	"publishers": ["System 3"],
+	"regions": ["PAL"],
+	"synopsis": "The Totally Authentic Pinball Experience - capturing all the sights and sounds of a real arcade. Play Eleven of the greatest Gottlieb Pinball Tables ever created, all featuring Real Pinball Table Mechanics, Graphics and Sounds.  With six Different Camera Angles to play in, Multi-Player Tournaments with up to 4 players competing with each other, plus Hidden Extras like 'un-lockable' features and tables make Gottlieb Pinball Classics the most accurate simulation ever."
+}

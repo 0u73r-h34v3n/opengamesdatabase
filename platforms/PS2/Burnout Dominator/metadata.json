@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Racing"],
+	"name": "Burnout Dominator",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/burnout-dominator",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pushing the limits of the PSP and the PlayStation 2, Burnout Dominator features the most explosive visuals seen on the platforms, engaging multiplayer modes to suit, and a PSP exclusive feature that allows you to synchronize your game with your friends and thrash their high scores and race times."
+}

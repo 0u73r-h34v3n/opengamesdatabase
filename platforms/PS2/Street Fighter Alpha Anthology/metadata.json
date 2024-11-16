@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Compilation", "Fighting", "Arcade"],
+	"name": "Street Fighter Alpha Anthology",
+	"publishers": ["Capcom (JP, US, EU)", "THQ (AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/06/13/street-fighter-alpha-anthology",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/street-fighter-alpha-anthology",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The definitive Alpha Collection comes together with five prized fighters united for the first time. Street Fighter Alpha Anthology is a perfect compilation of Street Fighter Alpha, Street Fighter Alpha 2, Street Fighter Alpha 2 Gold and Street Fighter Alpha 3."
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Creat Studios"],
+	"genres": ["Racing"],
+	"name": "American Chopper 2: Full Throttle",
+	"publishers": [
+		"Activision|Activision Value (US)",
+		"Activision (AU)",
+		"Zoo Digital Publishing (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/american-chopper-2-full-throttle/ps2-763357",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/american-chopper-2-full-throttle",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You're on the hot seat and Paul Sr. wants it done now! Play as Paul Senior, Paulie, Mikey or Vinnie and experience all the pressure and drama of the hit TV show!"
+}

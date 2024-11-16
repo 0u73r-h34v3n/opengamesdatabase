@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Io Interactive"],
+	"genres": ["Action", "Shooter"],
+	"name": "Freedom Fighters",
+	"publishers": ["Electronic Arts (EU)", "Electronic Arts|EA Games (US, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/freedom-fighters-review/1900-6075496/",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2003/09/30/freedom-fighters-review",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/freedom-fighters",
+			"score": 81,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_freedomfighters_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "With fierce conflict unfolding in the streets of America, it's your patriotic duty to fight back. Take on the role of Christopher Stone, and evolve from an average New Yorker into a fearless patriot who recruits and leads an army of freedom fighters in the streets of New York City. Freedom Fighters combines the depth of a squad-based game with the intensity of an action-packed war game, all of which unfolds in the streets, subways, and buildings of a modern-day urban battleground."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Online Entertainment"],
+	"genres": ["MMO", "RPG"],
+	"name": "EverQuest Online Adventures: Frontiers",
+	"publishers": ["Sony|Sony Online Entertainment"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/everquest-online-adventures-frontiers",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The second edition of [[EverQuest Online Adventures]] allows you to team up with people from around the world to fight monsters, complete challenging quests, and explore dangerous and spectacular locales. EverQuest Online Adventures: Frontiers introduces a new playable class, the alchemist, in which you can become a master of powerful spells and abilities. You'll gain access to all-new uncharted territories to explore, new items and spells to acquire, fierce creatures to battle, and a new character race to play, the Ogre."
+}

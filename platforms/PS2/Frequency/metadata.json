@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Frequency",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/frequency",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the next generation in music.  Records let you listen. Videos let you watch. Frequency allows you to take part. Utilizing songs from major recording artists, players mix and remix songs through each of eight different instrument types. If remixed correctly, players can freestyle and create their own music. With 6 unique game modes, top hits from major bands in a variety of genres, stunning 3D graphics, and video sequences of your favorite bands, Frequency stays in tune with the most immersive musical gameplay experience ever."
+}

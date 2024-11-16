@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pinegrow"],
+	"genres": ["Turn-based strategy"],
+	"name": "Stella Deus: The Gate of Eternity",
+	"publishers": ["Atlus (JP, US)", "505 Game Street (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/stella-deus-the-gate-of-eternity",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As a deadly mist called the \"miasma\" spreads across the land, you must guide a team of characters on a mission to save the world. Get ready to embark on a quest that has you hunting spirits, battling enemies, and ultimately opening the fabled Gate of Eternity. Effectively manage your characters and inventory to launch powerful attacks. Stella Deus: The Gate of Eternity offers more than 50 hours of tactical gameplay, including side quests."
+}

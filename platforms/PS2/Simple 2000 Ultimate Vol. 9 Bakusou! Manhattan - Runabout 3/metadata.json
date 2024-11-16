@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Graphic Research"],
+	"genres": ["Racing"],
+	"name": "Simple 2000 Ultimate Vol. 9: Bakusou! Manhattan - Runabout 3",
+	"publishers": [
+		"Hearty Robin (JP)",
+		"Bam Entertainment (EU)",
+		"D3Publisher (JP)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Go anywhere, smash anything that gets in your way. It's not always about driving well in New York - sometimes it's about getting from A to B by any means. If it involves taking out a few cars, buses, fire engines, taxis, delivery vans, telephone boxes, jumping a few ramps, making a few shortcuts... then so be it!"
+}

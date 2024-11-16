@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acquire"],
+	"genres": ["Action", "Adventure"],
+	"name": "Way of the Samurai 2",
+	"publishers": ["Spike (JP)", "Capcom (EU, US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/07/02/way-of-the-samurai-2-2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/way-of-the-samurai-2",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As a peaceful town becomes victim to extreme violence and unrest, a Samurai arrives with the ability to change the town's destiny. In Way of the Samurai 2, you'll take on the role of the Samurai in feudal Japan and battle to save the town of Amahara. Now you can experience traditional Samurai techniques, with realistic swordfighting moves and more than 60 powerful swords. Whether you free the innocent or join the corrupt, your decisions affect the game's ending."
+}

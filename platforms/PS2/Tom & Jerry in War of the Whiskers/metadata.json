@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["VIS Entertainment"],
+	"genres": ["Action"],
+	"name": "Tom & Jerry in War of the Whiskers",
+	"publishers": ["NewKidCo (US)", "Ubisoft (EU)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tom-jerry-in-war-of-the-whiskers",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Throw a cat, mouse, and more than 75 weapons in the same room and you're sure to have a war. Tom & Jerry: War of the Whiskers lets you choose from nine different characters, including Jerry the mouse and his feline nemesis Tom. You then duke it out in 11 destructible environments--battlefields which range from a twisted laboratory to an unstable construction site. Each character has their own strengths, weaknesses, and moves, but skillful use of weaponry can quickly turn a match in one's favor."
+}

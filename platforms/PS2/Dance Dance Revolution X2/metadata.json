@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Music"],
+	"name": "Dance Dance Revolution X2",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"synopsis": "DanceDanceRevolution X2 introduces the brand new Dice Master Mode where players roll the dice to receive a dance challenge and compete to be the ultimate DanceDanceRevolution champion."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cavia|Cavia Inc."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Ghost in the Shell: Stand Alone Complex",
+	"publishers": ["Sony|SCEI (JP)", "Bandai (US)", "Atari (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/ghost-in-the-shell-stand-alone-complex-14295980/ps2-640416",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ghost-in-the-shell-stand-alone-complex",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the movie of the same name, Ghost in the Shell: Stand Alone Complex is a fast-action third-person shooter for up to four players. As \"Major\" Motoko Kusanagi, Batou, and Tachikoma, you can engage enemies in both multiplayer combat and single-player missions. In single-player mode, your missions involve hacking into machines and computers, controlling your enemies' minds from a distance, and using a variety of weapons to eliminate your enemies. Complete the Story mode to unlock more playable characters, costumes, and additional weapons."
+}

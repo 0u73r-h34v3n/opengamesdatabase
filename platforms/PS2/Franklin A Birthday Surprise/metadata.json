@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Family"],
+	"name": "Franklin: A Birthday Surprise",
+	"publishers": ["The Game Factory"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Franklin wants to give his best friend, Bear, a surprise birthday party. Franklin is very busy getting ready for the party. He has to prepare the food, send out invitations, get the decorations and do some errands. He also has to get Bear to the party without giving away the secret. Franklin has to progress through 10 different levels to get ready for the party, solving problems and avoiding obstacles. Franklin finds it difficult to concentrate on his errands as his friends want to play hide-and-seek."
+}

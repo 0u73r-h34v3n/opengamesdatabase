@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Guilty Gear X2",
+	"publishers": ["Sammy Studios"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guilty-gear-x2",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to Guilty Gear X features six new characters, electrifying new features, battle maneuvers, and new moves.   A new energy called Magic was used to create biological weapons called \"Gears\" and through a fighting tournament, you must prove you are skilled enough to thwart the threat.  Choose from a total of 20 characters to fight in eight play modes including an all-new Story mode.  Killer moves, an improved fighting system, and new battle maneuvers such as Burst Gauge, Bomber Attack, and Aerial Throw will help you achieve victory."
+}

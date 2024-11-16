@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Razorworks"],
+	"genres": ["Racing"],
+	"name": "Ford Bold Moves Street Racing",
+	"publishers": [
+		"Empire Interactive (EU)",
+		"Eidos Interactive (US)",
+		"Xplosiv (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ford-bold-moves-street-racing",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ford Street Racing takes you to the sun-bleached streets of LA for a unique fast-and-furious team racing experience. Ford Street Racing has a unique team feature, putting you in control of your own racing team. Whilst racing through the dangerous streets of LA, switch between your three cars racing and issuing commands to your team-mates to gain both a tactical and positional advantage. Block, draft and challenge your opponents as you get behind the wheel of any of the 18 officially licensed high performance Ford vehicles - from the classic 1970 Mk 1 Capri RS2600 to the recently announced 2007 Shelby Cobra GT500."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Guilty Gear XX Slash",
+	"publishers": ["Sammy Studios (JP)", "Sega (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "XX Slash is the second GGXX revision and was released in 2005 in Japan, this time with much more significant changes. Once again, the game's balance was reworked by changing properties of certain moves. This time, however, the changes were more pronounced, including entirely new moves for some characters and a complete reworking of the tiers of the game. Two new characters were introduced to the game, these being A.B.A, who debuted in Guilty Gear Isuka, and Order-Sol, who is Sol Badguy with an entirely different costume, and moveset."
+}

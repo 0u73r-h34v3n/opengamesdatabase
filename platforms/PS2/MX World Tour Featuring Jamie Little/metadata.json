@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Impulse Games"],
+	"genres": ["Racing"],
+	"name": "MX World Tour Featuring Jamie Little",
+	"publishers": ["Crave (US)", "Play It! (EU)", "System 3 (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/926817-mx-world-tour-featuring-jamie-little/articles.html",
+			"score": 59,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mx-world-tour-featuring-jamie-little",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join Jamie Little--a motocross racer and commentator--in MX World Tour, which features more than 30 levels of both indoor and outdoor racing. Customize your bikes and riders, and then race against up to 12 riders on a variety of tracks located in different parts of the world. You can progress through the game's 30 levels in single-player mode or take on your friends in split-screen multiplayer mode."
+}

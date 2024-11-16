@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "MLB Power Pros 2008",
+	"publishers": ["2K|2K Sports (US)", "Konami (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mlb-power-pros-2008",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MLB Power Pros 2008 delivers a unique flair to America&rsquo;s favorite pastime with an original visual style, pick-up-and-play gameplay mechanics and several deep gameplay modes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 09",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-09",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA Football 09 will unveil the all-new Break Away Animation Engine which allows gamers to break in and out of moves giving the user more direct control as well as instant influence and responsiveness on the field.  At its core, NCAA Football 09 will focus on wide-open collegiate style gameplay featuring unique animations that you will only find on college football Saturdays.  This style of gameplay will allow agile backs like McFadden to show off their break out speed and maneuverability in-game."
+}

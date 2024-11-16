@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idol Minds"],
+	"genres": ["Adventure"],
+	"name": "Neopets: The Darkest Faerie",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/neopets-the-darkest-faerie",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Neopets: The Darkest Faerie is an adventure game based on the Web site www.neopets.com. For the first time, you can explore the world of Neopia in 3D as you complete quests and attempt to rid the land of the Darkest Faerie. Neopets: The Darkest Faerie gives you two unique characters to choose from and many items you can use to equip and upgrade them. The game features an extensive fantasyland with more than 60 areas and 100 non-player characters to encounter."
+}

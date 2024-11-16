@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Melbourne House"],
+	"genres": ["Racing"],
+	"name": "Grand Prix Challenge",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/grand-prix-challenge",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Essence of Speed! Whip through tight hairpin turns. Overtake competitors with inches to spare. Heat up the brakes after a blazing straightaway run. Experience for yourself the adrenaline rush of F1 racing. It's real F1 racing with all the drivers, cars, teams, sponsors and tracks."
+}

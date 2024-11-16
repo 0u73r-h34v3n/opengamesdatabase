@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Phoenix Games"],
+	"genres": ["Action"],
+	"name": "Clumsy Shumsy",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Clumsy Shumsy is an EyeToy mini-game compilation including 8 games:"
+}

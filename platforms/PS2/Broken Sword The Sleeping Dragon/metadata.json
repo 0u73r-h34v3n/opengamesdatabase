@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Revolution Software"],
+	"genres": ["Adventure"],
+	"name": "Broken Sword: The Sleeping Dragon",
+	"publishers": ["THQ (EU)", "Marvelous Entertainment (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The murder of an underground hacker in Paris is just the beginning of this extraordinary adventure for George Stobbart and Nico Collard in Broken Sword: The Sleeping Dragon. Powerful seismic events shake the world, and an ancient conspiracy, the Secrets of the Templars, and a fiendish source of pure evil are responsible. As George, and later Nico, you will solve puzzles and find clues to move closer to the truth behind the murder. From the jungles of the Congo to the deceptive calm of the English countryside and gothic castles, time is running out for Earth, and only you can save it."
+}

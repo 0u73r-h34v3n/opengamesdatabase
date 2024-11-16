@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Adventure"],
+	"name": "Death by Degrees",
+	"publishers": ["Namco (JP, US)", "Sony|SCEE (AU, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/death-by-degrees",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tekken's assassin, Nina Williams, infiltrates a dangerous underground world as a voluptuous undercover operative. When Nina investigates a hi-tech weapon in the hands of a shadowy organization, she uncovers a world of nonstop danger and betrayal. As Nina, you must use either aggressive or stealthy tactics to pass your enemies. Combine signature moves from Tekken with firearms and melee weapon attacks. Uncover and thwart the plans of an international terrorist organization as you execute your mission; and your enemies."
+}

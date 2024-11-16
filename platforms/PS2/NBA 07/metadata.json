@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA"],
+	"genres": ["Sports"],
+	"name": "NBA 07",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-07",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Delivering the most engaging NBA experience with fast, fluid gameplay, NBA '07 for the PSP expands upon the franchise by offering the most feature-rich, handheld NBA action available. Officially licensed by the NBA, and introducing all-new gameplay modes, mini-games, and presentation, NBA '07 is ready to deliver the thrill of and excitement of NBA action on the go. An all-new Conquest Mode allows players to take a team and challenge NBA squads across the country, while a new Pick Up Mode give gamers a chance to choose from 10 different NBA players for a playground-style match-up. In addition to the instant replay function, a new Highlight Reel option provides players the opportunity to view a select reel of highlight shots, passes, steals, and dunks at the end of each game. Players will also have more choices of quick pick-up-and-play mini-games, including an all-new rhythm-based dunk contest as well as carnival-style games including skee-ball, pinball, and pop-a-shot. Additionally, the game brings back popular mini-games such as Dodgeball and HORSE, as well as a comprehensive ladder challenge and virtual trading cards."
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Frontier Developments"],
+	"genres": ["Adventure"],
+	"name": "Dog's Life",
+	"publishers": [
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Hip Games (US)",
+		"Success (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dogs-life",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dog's Life lets you take on the role of a hound--one that can play fetch, sniff out food, and chase chickens, among other things. Set in the rural Midwest United States countryside, the game starts you off on a journey that spans the country and takes you everywhere from ski resorts to lively cities along the way. As Jake, a pup with a nose for adventure, you must solve a sinister dog-napping plot that involves the canine-hating Miss Peaches and Jake's pedigree friend, Daisy."
+}

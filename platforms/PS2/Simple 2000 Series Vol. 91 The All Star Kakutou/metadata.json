@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["D3Publisher"],
+	"genres": ["Action", "Fighting"],
+	"name": "Simple 2000 Series Vol. 91: The All Star Kakutou",
+	"publishers": ["D3Publisher (JP)", "Essential Games (EU, AU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The All Star Kakutou/All Star Fighters is a fighting game mashup of notable characters within the simple series franchise including the likes of Reiko Mizusaki, Riho and Makoto Futaba as well as Aya from the OneeChanbara series among other notable characters of the different Simple 2000 Series games up to this game's release. There a variety of different modes to play in this game, including Single Mode/Arcade Mode, VS Mode, Arcade Mode, Time Attack, Practice Mode."
+}

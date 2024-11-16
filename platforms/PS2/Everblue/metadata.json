@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arika"],
+	"genres": ["Action", "Adventure"],
+	"name": "Everblue",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Explore the magic of the underwater kingdom and all its natural beauty on a voyage of discovery and adventure. For the first time on PlayStation 2 comes a chance to go deep underwater. Solve the mystery of the Daedalus sea and find the treasure that has haunted your family for generations."
+}

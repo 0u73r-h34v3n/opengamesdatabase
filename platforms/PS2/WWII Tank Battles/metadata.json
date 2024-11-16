@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["InterActive Vision Games"],
+	"genres": ["Action"],
+	"name": "WWII: Tank Battles",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "There is nothing more frightening, more fearful that the appearance of attack tanks on the battlefield. Huge hunks of steel with awesome strength and destructive firepower - they can turn the tide of war with a few resounding booms from their gun turrets.   In World War II: Tank Battles you are the harbinger of doom for your enemies. Your chosen tank will spearhead the assault destroying all enemy units, buildings and bases in your path."
+}

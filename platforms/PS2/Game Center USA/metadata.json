@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Success"],
+	"genres": ["Compilation", "Arcade"],
+	"name": "Game Center USA",
+	"publishers": ["Success"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A compilation of Midway Arcade Treasures 1 & 2 (but \"Defender\", \"Defender II\", \"Rampage\", \"Smash TV\", \"Rampage World Tour\", \"Primal Rage\", \"NARC\", \"Mortal Kombat 2\" and \"Mortal Kombat 3\" are excluded)."
+}

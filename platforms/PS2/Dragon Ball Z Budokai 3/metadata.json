@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Budokai 3",
+	"publishers": ["Atari (US, EU, AU)", "Bandai (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dragon-ball-z-budokai-3",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment in the Dragon Ball Z: Budokai series begins another tournament of champions where only one fighter can prevail. As one of the characters from the Dragon Ball Z animated series, you can master an all-new fighting system that lets you teleport, juggle opponents, fly, and attack in a variety of ways. As you progress through the tournament, you can unlock up to 40 bonus characters from the DBZ universe. You can also post and retrieve character profiles from the Internet."
+}

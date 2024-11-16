@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["RPG"],
+	"name": "Suikoden IV",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/suikoden-iv",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Suikoden IV features the return of the 108 Stars of Destiny, as well as an enhanced interface in a new oceanic environment. You'll follow a young knight while he struggles with Rune, which slowly steals the life of its bearer. The game's strategic battle systems let you attack or cast magic spells with help from other party members. Recruit members of the Stars of Destiny and create a base from the ground up. With a brand-new storyline, characters, and cutscenes, Suikoden IV takes the series to the next level."
+}

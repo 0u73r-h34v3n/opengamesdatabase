@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["RPG"],
+	"name": "Wizardry Summoner",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Wizardry Summoner is a spin-off of the popular ''Wizardry'' series. The PS2 version is a port of the original GBA version. It features similar gameplay and runs like a traditional dungeon crawler."
+}

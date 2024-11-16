@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "UEFA Euro 2008",
+	"publishers": ["Electronic Arts|EA Sports (AU)", "Electronic Arts (EU, US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/uefa-euro-2008",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "UEFA EURO 2008 will feature stunning visual representations of the world's most famous football players, playing in a more accessible, faster paced and responsive version of the market-leading EA SPORTS football engine, and all of the teams and official stadiums that will be part of UEFA EURO 2008. The videogame will enable gamers to play as their favorite country from qualification right through to a virtual reproduction of the championship tournament. Take on the challenge of leading one of over 50 European national teams to glory as UEFA EURO 2008 recreates all the drama and excitement of the official tournament."
+}

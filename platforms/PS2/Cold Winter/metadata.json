@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Swordfish Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Cold Winter",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cold-winter",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Captured, conveniently forgotten, tortured, and left for dead, MI6 agent Andrew Sterling awaits execution in a Chinese prison. The story begins when a mysterious friend from his past rescues him, setting off a chain of events that threaten global security. Now, throughout a variety of dark environments, you'll have use to more than 30 weapons and spy gadgets to stay alive. Create your own weapons, traps, and tools by collecting and combining objects."
+}

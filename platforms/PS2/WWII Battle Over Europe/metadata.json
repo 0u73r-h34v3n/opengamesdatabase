@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midas Interactive Entertainment"],
+	"genres": ["Simulation"],
+	"name": "WWII: Battle Over Europe",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "The battle for control of the skies during wartime Europe produced many heroes. Now it's your chance to fly alongside those World War II aces, battling for dominance across the skies of Britain, Normandy and beyond. The skies of Europe are yours to defend. It's time to do your duty!"
+}

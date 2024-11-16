@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Lucky Chicken"],
+	"genres": ["Racing"],
+	"name": "NHRA Championship Drag Racing",
+	"publishers": ["ValuSoft"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhra-championship-drag-racing",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take on NHRA&trade; World Champions John Force, Tony Schumacher, Greg Anderson, and other top drivers, in real nitro-burning NHRA Funny Car, Top Fuel Dragster & Pro Stock racing action! Fine tune your 7000 hp beast to batlle your way to the front of the standings, competing one race or one full season at a time."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coyote Console"],
+	"genres": ["Action", "Platformer"],
+	"name": "Agent Hugo: Lemoon Twist",
+	"publishers": ["ITE Media"],
+	"regions": ["PAL"],
+	"synopsis": "Agent Hugo: Lemoon Twist is a 3D platform game starring Hugo the TV troll that is played from a behind view perspective. Agent Hugo is brought in to stop Dr. Hypno, who plans to launch his Hypno-satellite into space and control the planet. Hugo is sent to the island fortress of Dr. Hypno to prevent this from happening"
+}

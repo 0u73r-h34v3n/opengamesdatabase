@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Racing"],
+	"name": "Need for Speed: Underground 2",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/need-for-speed-underground-2",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The next installment in the Need for Speed: Underground series takes you to a free-roaming city comprised of five neighborhoods. As you explore the city, you'll encounter rival racers who will show you all the hot spots in underground racing. After each race, you can improve your car's performance with various upgrades, ranging from the gear ratio to the suspension. The game includes more than 30 tuner cars from a variety of manufacturers, such as Mitsubishi, Nissan, Toyota, and more. You can even challenge racers from around the world in the game's online mode."
+}

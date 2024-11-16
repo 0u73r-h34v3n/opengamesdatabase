@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["HB Studios"],
+	"genres": ["Sports"],
+	"name": "Cricket 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/927522-cricket-2005/index.html",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Electronic Arts continues its yearly cricket franchise with this outing. The Australian, English, South African and New Zealand national and league teams' names and likenesses are licensed. With 35 stadiums accurately modeled with real crowd noise the atmosphere is set for this TV style presentation (with action replay mode, third umpire, animated duck sequences, and TV style overlays) of cricket. The game has commentary from Richie Benaud and Jim Maxwell."
+}

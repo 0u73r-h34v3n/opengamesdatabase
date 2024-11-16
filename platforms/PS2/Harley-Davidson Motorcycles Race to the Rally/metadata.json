@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FUN Labs"],
+	"genres": ["Racing"],
+	"name": "Harley-Davidson Motorcycles: Race to the Rally",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/harley-davidson-motorcycles-race-to-the-rally",
+			"score": 33,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the lifestyle, adventure and freedom of Harley-Davidson like never before in Harley-Davidson: Race to the Rally. You'll ride classic and late-model HD bikes, fully upgrade your bike and face outrageous road challenges. You will have to prove that you are worthy to be part of the Harley-Davidson brotherhood. Race across America from coast to coast exploring classic rides from Big Sur to the Florida Keys. It's time to grab the controller by the handlebars and roll."
+}

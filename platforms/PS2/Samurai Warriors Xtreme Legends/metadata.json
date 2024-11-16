@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Samurai Warriors: Xtreme Legends",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/11/16/samurai-warriors-xtreme-legends",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/samurai-warriors-xtreme-legends",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Xtreme Legends adds a host of new features to the original Samurai Warriors. Now you can play as one of four new warriors, each with a unique story with its own branches and multiple endings. Lead a campaign on the new Battlefield of Komaki-Nagakute while mastering new items and skills. Also new are VS mode stages, a Survival mode course, and difficulty levels. In addition to adding new features, Samurai Warriors: Xtreme Legends enhances existing features, such as the character growth system and artificial intelligence balance."
+}

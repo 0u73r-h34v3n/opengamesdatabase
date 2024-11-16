@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NBA Street V3",
+	"publishers": ["Electronic Arts|EA Sports Big"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-street-v3",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment of NBA Street advances the series by adding more customization, different game modes, and new gameplay features. Now you can build both your reputation and show-stopping Gamebreakers on the streets by performing all-new flashy dunks, dribble tricks, and combos. Step into the shoes of NBA legends, current basketball stars, and original characters from previous games. Play in familiar courts, such as The Cage and Rucker Park, or create your own court from the ground up. NBA Street V3 also features a new dunk contest and online multiplayer modes."
+}

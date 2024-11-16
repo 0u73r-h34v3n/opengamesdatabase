@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//Outbreak Part 3",
+	"publishers": ["Bandai"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/589681-hackoutbreak-part-3/index.html",
+			"score": 69,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackoutbreak-part-3",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the third chapter of the ''.hack'' saga, The World continues to deteriorate as the virus spreads out of control. Not only is the outbreak affecting The World in the game, but now repercussions are being felt in the real world too. As the outlaw player, Kite, you must fight through contaminated cyberspace as you take on and eliminate enemies, while unlocking codes to gate hack to even more environments. Will you ever find out who or what is behind this nightmare to wake Orca from his coma?"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Platformer"],
+	"name": "Haven: Call of the King",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/haven-call-of-the-king",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Haven: Call of the King blends multiple gameplay mechanics into a free-roaming universe. Played out through an epic tale of a hero who seeks to liberate his people from the tyranny of enslavement, Haven: Call of the King provides total freedom to move anywhere on foot or in vehicle. Through intricate and fantastic worlds, you'll transition between turret-based shooting, boat racing, bike battles, plane flight, gladiator-arena combat, and space exploration."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Arcade", "Action"],
+	"name": "Tokimeki Memorial 2: Music Video Clips: Circus de Ai Imashou",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The title contains three mini-games with circus theme (based on 1984 Konami game Circus Charlie) as well as some watchable video clips on Tokimeki Memorial 2 characters. "
+}

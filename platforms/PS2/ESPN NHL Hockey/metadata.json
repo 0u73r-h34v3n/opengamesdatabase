@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "ESPN NHL Hockey",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nhl-hockey",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN NHL Hockey brings you a complete NHL experience.  Play a single game or an entire season as any current NHL team, or a historic team, complete with vintage jerseys.  All the uniforms, arenas, player models, and environmental effects are meticulously detailed.  With an advanced graphics engine, an exclusive ESPN presentation system featuring Gary Thorne and Bill Clement, and exciting new modes to play such as the authentic Skills Competition, ESPN NHL Hockey leads the league in hockey realism."
+}

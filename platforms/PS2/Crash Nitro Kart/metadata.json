@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Racing"],
+	"name": "Crash Nitro Kart",
+	"publishers": [
+		"Vivendi Games|Vivendi Universal Games (US, EU, AU)",
+		"Konami (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/crash-nitro-kart",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Crash hits the track in his fastest adventure yet--Crash Nitro Kart.  Kidnapped by the ruthless Emperor Velo and forced to race in his galactic coliseum, Crash must race his way to victory in order to save the Earth from destruction--but it won't be easy, as he must compete against foes both old and new before a final showdown with Velo himself.  Crash Nitro Kart mixes 18 rollercoaster raceways, devastating weapons, a variety of single and multiplayer modes and maps, and customizable arenas, and a cast of unique characters into a game that showcases kart-racing at its best."
+}

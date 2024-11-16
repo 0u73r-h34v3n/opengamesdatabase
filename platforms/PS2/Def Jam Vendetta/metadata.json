@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aki|Aki Corp."],
+	"genres": ["Sports"],
+	"name": "Def Jam Vendetta",
+	"publishers": [
+		"Electronic Arts|EA Sports Big (US)",
+		"Electronic Arts (EU, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/def-jam-vendetta",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's been three years since D-Mob chased you out of the New York fight circuit and you swore you'd never go back. Now your pal Manny is in trouble, and he needs you to bail him out. Your only chance to get the money is to settle a score with the Def Jam crew, including DMX, Ludacris, Joe Budden, and Method Man. While listening to the tracks and beats from Def Jam artists, you can fight or play as over 40 combatants, each with special moves, combos, and taunts."
+}

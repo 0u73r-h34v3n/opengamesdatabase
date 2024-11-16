@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Big Sky Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Jimmy Neutron Boy Genius",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jimmy-neutron-boy-genius",
+			"score": 40,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Initiate contact with another galaxy and launch a makeshift satellite into space before breakfast.  That's nothing for Jimmy Neutron, the teenage super genius whose amazing inventions often get him into heaps of trouble.  This time, it's up to you to get Jimmy out of his toughest tangle.  You'll go through six levels, including Jimmy's house, the Asteroids, Yolkus Underworld, Yolkus City, and Retroland.  Jet around on Goddard, Jimmy's proudest invention that can turn into the Goddard Pogo, Goddard Scooter, and the Goddard Sled.  Can Jimmy's get himself through this grand adventure?"
+}

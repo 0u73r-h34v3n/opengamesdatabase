@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cunning Developments"],
+	"genres": ["Action", "Shooter"],
+	"name": "Endgame",
+	"publishers": ["Empire Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/endgame",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Endgame combines elements from light-gun action games with realistic sound and cinematic action to create an immersive experience. You'll play the role of Jade Cornell as she breaks into EuroDream Technologies, a ruthless company that threatens the security of the popular Virtual Reality technology. With the help of Octavian, an Artificial Intelligence, you must defeat smart enemies and bosses across Europe. Your shooting skills can help you unlock multiple endings, hidden features, and subgames."
+}

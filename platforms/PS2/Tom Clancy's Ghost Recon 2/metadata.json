@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Shanghai/Paris"],
+	"genres": ["Action", "Shooter"],
+	"name": "Tom Clancy's Ghost Recon 2",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tom-clancys-ghost-recon-2/ps2-675405",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tom-clancys-ghost-recon-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in 2007, the PS2 version of Tom Clancy's Ghost Recon 2 is a prequel to the Xbox version, and it features its own storyline, level design, and cinematic sequences. Once again, you must lead a team of Special Forces operatives (the \"ghosts\") on a variety of dangerous missions. Equip your team with advanced weapons and gadgets, and then fight alongside them in North Korea. The game also supports up to 16 players online, in both competitive and cooperative modes."
+}

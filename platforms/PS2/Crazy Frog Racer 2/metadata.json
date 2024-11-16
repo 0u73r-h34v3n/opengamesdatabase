@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Jesters"],
+	"genres": ["Racing"],
+	"name": "Crazy Frog Racer 2",
+	"publishers": ["Digital Jesters (EU)", "Valcon Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crazy-frog-racer-2",
+			"score": 29,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Annoying Thing is cranking up the speed for his latest and greatest racing adventure. Crazy Frog Racer 2! Take control of the evil Boss Drone, the Sub Drone, the Holiday Thing and the never seen before Annoying Drone."
+}

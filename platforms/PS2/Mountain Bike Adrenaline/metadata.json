@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Fresh 3D"],
+	"genres": ["Sports"],
+	"name": "Mountain Bike Adrenaline",
+	"publishers": ["Valcon Games (US)", "Nobilis (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2007/12/13/mountain-bike-adrenaline-review",
+			"score": 3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mountain-bike-adrenaline",
+			"score": 30,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mountain Bike Adrenaline featuring Salomon is a new approach to outdoor sports, giving genuine freedom rushes, and full-on free rider attitude. Attempt the most prestigious ATB slopes in the world! Speed, dexterity and a daring nature are the only conditions you'll need to win, beat records and unblock new ATBs, locations and modes. "
+}

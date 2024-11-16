@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Taz Wanted",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/09/17/taz-wanted-3",
+			"score": 6.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/taz-wanted",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Taz has reached his boiling point in Taz: Wanted--and for good reason. Yosemite Sam locked Taz in a zoo and wants to turn his homeland into a tacky theme park. Now, as an escapee, Taz is on the run gobbling power-ups, using disguises, and leaving a wake of destruction across four hazard-filled worlds in an attempt to stop Sam. Guide Taz as he spins and bounces his way through more than 15 levels of puzzles, enemies, and destructible environments."
+}

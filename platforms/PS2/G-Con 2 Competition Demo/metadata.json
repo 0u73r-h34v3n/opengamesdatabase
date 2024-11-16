@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Demo"],
+	"name": "G-Con 2 Competition Demo",
+	"publishers": ["Sony"],
+	"regions": ["PAL"],
+	"synopsis": "This demo disc contains the following:"
+}

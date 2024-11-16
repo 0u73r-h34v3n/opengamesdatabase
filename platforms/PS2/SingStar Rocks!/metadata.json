@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Rocks!",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/singstar-rocks!",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rock your world with official tracks from Franz Ferdinand, Kasabian, Bloc Party, Razorlight, and Nirvana as SingStar returns! This is the ultimate line-up - other bands making the SingStar shortlist include Stereophonics, Jet, The Subways, The Rolling Stones, The Bravery, Blur and many more. Complete with the original videos, SingStar Rocks! captures the spirit and energy of the very best gigs - and gives you the chance to experience what it's like to be the headline act. So if you think you have the attitude and the style to front some of the world's most credible live bands, then SingStar Rocks! will have you performing the ultimate gig line-up - wherever you and your PlayStation 2 happen to be."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Opus"],
+	"genres": ["Action", "Adventure"],
+	"name": "Red Ninja: End of Honor",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/red-ninja-end-of-honor",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As the power of the samurai class fades, Japan turns to the ninja to uphold political power during chaotic times. One such ninja, Kurenai, lives to avenge her father's death and will go to any means necessary to destroy the Black Lizard Clan. Kurenai is a master of the tetsugen, a wire weapon that can cut off an enemy's head or hang them from a tree, depending on the end attachments used and the length and strength of the weapon's wire. Aggressively employing such tactics as wearing disguises, using womanly wiles, and controlling Ninjutsu powers will help you to escape enemies."
+}

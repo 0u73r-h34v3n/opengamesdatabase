@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Budokai 2",
+	"publishers": ["Atari (EU, AU, US)", "Bandai (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dragon-ball-z-budokai-2",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Go to the next level in the Dragon Ball Z saga.  Dragon Ball Z: Budokai 2 improves upon the first installment by adding an all-new single player mode, new characters and explosive attacks.  Experience the new match-ups, character cameos and challenging missions in \"Dragon World.\" Pick your favorite DBZ hero or enemy and take on a friend in \"Vs.\" and \"Tournament\" modes.  If you're really good, you will soon come face-to-face with Buu, the most lethal DBZ villain."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Epic Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Unreal Tournament",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/1999/12/07/unreal-tournament-6",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/unreal-tournament",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the creators of Unreal comes Unreal Tournament, a competition that tests your reflexes and competitive spirit in deadly arenas. Battle 15 of your friends or customizable bots in over 30 different levels, such as pirate ships, waterfronts, speeding trains, and floating castles. Multiplayer modes include Capture the Flag, Assault, Domination, and new Deathmatch variations. With enhanced weapons--including the Impact hammer, which squashes your opponent to mush, and the Redeemer, a rocket-powered nuke--expect the body count to be high."
+}

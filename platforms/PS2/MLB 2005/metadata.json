@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "MLB 2005",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEI (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mlb-2005",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MLB 2005 immerses you in the baseball experience.  This year's installment features EyeToy functionality that puts your face in the game, a new Career mode that takes gamers from Class-A ball to the Fall Classic, and a deep Franchise mode that allows players to control every aspect of running a ball club from parking prices to player contracts.  You can even join 32-team tournaments online and use the USB headset to bark out plays like a manager."
+}

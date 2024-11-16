@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Lucky Chicken"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Casper Spirit Dimensions",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/casper-spirit-dimensions",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Spiral into phantom dimensions where you will fiercely battle for the fate of the spirit world! Portals will transport you to mysterious realms that are populated by ghosts of the past, present and future; all possessed by the evil Kibosh. Use your powers of flight and fright to become the quickest, smartest and most powerful ghost in the Spirit Dimension!"
+}

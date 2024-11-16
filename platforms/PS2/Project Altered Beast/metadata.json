@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Wow Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Project Altered Beast",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_alteredbeast_ps2",
+			"score": 4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "As a special military operative you are sent to investigate a deadly genetic outbreak in a small West Coast town. Hunted by unspeakable horrors and haunted by your past you soon discover that the only thing that can save you is your darkest power: the ability to transform into a variety of powerful beasts. You can morph into more than eight creatures including a werewolf, dragon or minotaur and you can assign strategic attributes to each beast. As you defeat wave after wave of failed genetic experiments, the line between human restraint and primal instinct blurs."
+}

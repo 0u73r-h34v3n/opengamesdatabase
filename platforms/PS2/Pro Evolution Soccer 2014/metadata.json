@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Pro Evolution Soccer 2014",
+	"publishers": ["Konami"],
+	"regions": ["PAL"],
+	"synopsis": "Pro Evolution Soccer 2014 centers everything on the ball including how it moves and how players use it. First touch and sublime control are what set certain players apart from others. The ability to not only read a pass, but to be one step ahead and to know what is needed to gain yards on an encroaching defender. Trueball Tech allows the player to trap or knock on a pass using the analogue stick with detailed bar-centric physics determining the weight shift of the player and the height and speed of the pass, as to how the player's body will automatically shape to receive it. The Pro Evolution Soccer series has long since treated the ball as an individual entity, allowing the player huge amounts of freedom to pass into space, run on to a knocked-on counter, or produces short triangular passes to make space. Trueball Tech adds even more freedom, with full 360-degree control within several yards around the player and the ability to shield the ball from opposing players, use deft controls to wrong-foot them, and intuitive methods to master close control."
+}

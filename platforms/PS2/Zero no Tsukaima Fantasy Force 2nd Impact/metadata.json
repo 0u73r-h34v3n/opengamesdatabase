@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Shooter"],
+	"name": "Zero no Tsukaima: Fantasy Force 2nd Impact",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Take to the skies a second time in the sequel to Familiar of Zero: Fantasy Force in a game inspired by 16 bit and arcade games.  Collect powerups, use screen clearing magic and try to make it to the end of each stage once again.  Notable differences between the predecessor are a switch to vertical gameplay and the addition of a second character, Tabitha, allowing for 2 player co-op."
+}

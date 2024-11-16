@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Surreal Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Lord of the Rings: The Fellowship of the Ring",
+	"publishers": ["Black Label Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-lord-of-the-rings-the-fellowship-of-the-ring",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Dark Lord has arisen. A fellowship is formed. Now the future of Middle-earth lies in your hands. Play as Frodo, Gandalf, and Aragorn as you overcome perilous obstacles and battle the forces of evil. In your journey from the Shire to the River Anduin, you will explore beautifully detailed environments and meet many characters brought to life as described in the book."
+}

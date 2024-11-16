@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "ESPN NFL 2K5",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nfl-2k5",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN NFL 2K5 kicks off the football season with an improved ESPN presentation, a variety of player moves, and more. Now you can perform all-new moves during an entire season, while earning points to customize your crib with different items. The game also features new modes, including ESPN 25th Anniversary mode, where you can play in classic NFL situations over the past 25 years. First-Person Football mode returns with new camera switching, improved audio, passing control options, and more."
+}

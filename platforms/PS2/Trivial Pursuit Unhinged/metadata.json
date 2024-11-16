@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artech Studios"],
+	"genres": ["Trivia"],
+	"name": "Trivial Pursuit Unhinged",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/trivial-pursuit-unhinged",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A popular trivia game is about to become a wild free-for-all.  With incredible new game features, this all-new version of the Trivial Pursuit game rewards the clever, the speedy, and the sneaky, while still highlighting everybody's trivia talents.  Trivia fans can bet against others, steal wedges and even crush rivals' game pieces (along with their hopes of winning).  Add in some impressive Hollywood types hosting each category, and loads of multimedia clips, and you've got a Trivial Pursuit party where everybody is in on the action.  For those who crave free-for-all play, the traditional game, or even a quick trivia fix, there are plenty of modes: the Unhinged version, the original classic, and a fast new minigame."
+}

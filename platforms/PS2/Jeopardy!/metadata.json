@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atari"],
+	"genres": ["Trivia"],
+	"name": "Jeopardy!",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jeopardy!",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the TV game show, Jeopardy! 2003 is a fast-paced competition that allows you to build up incredible winnings.  The host Alex Trebek delivers the answers and you deliver the questions--but remember to buzz in first.  Tackle 5,200 challenging answers in classic, solo, or Tournament of Champions modes.  You can also challenge two other players and track each player's performance.  Once you've conquered the game, take a sample contestant exam and see if you have what it takes to go on the real show."
+}

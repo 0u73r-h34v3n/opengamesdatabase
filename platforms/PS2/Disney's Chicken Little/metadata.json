@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Disney's Chicken Little",
+	"publishers": [
+		"Buena Vista Games (US, AU, EU)",
+		"D3Publisher (JP)",
+		"THQ (KO)",
+		"Disney Interactive Studios (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://cube.ign.com/objects/684/684006.html",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disneys-chicken-little",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Chicken Little brings you into the middle of Oakey Oaks, where you'll experience all the action and adventure of Disney's animated film of the same name. Taking on the roles of Chicken Little and his friends, Abby Mallard, Runt-of-the-Litter, and Fish-out-of-Water, you must try to outwit bully Foxy Loxy and save the town from an alien invasion, all the while attempting to reverse Chicken Little's tarnished reputation from that unfortunate \"acorn incident.\" The game features innovative gadgets, pickups, side quests, and minigames, plus multiplayer gameplay."
+}

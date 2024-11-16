@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Sopranos: Road to Respect",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-sopranos-road-to-respect",
+			"score": 42,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A mob war is brewing as Philadelphia's and New Jersey's most powerful families are about to collide. As the illegitimate son of \"Big Pussy,\" the gamer has been born into the organization and is now being given an opportunity to demonstrate loyalty to Tony Soprano. As a soldier, players must earn money on collections, protect turf through intimidation and gain admiration within their own family to move up in the ranks of the organization. Carry out orders from Paulie, Silvio, Christopher and Tony in familiar locations such as the Bada Bing!, Nuovo Vesuvio's and Satriale's. The storyline was created in collaboration with show creator David Chase, and the show's key cast members provide the voices."
+}

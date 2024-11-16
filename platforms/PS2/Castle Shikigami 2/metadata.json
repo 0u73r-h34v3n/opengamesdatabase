@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Alfa System"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Castle Shikigami 2",
+	"publishers": [
+		"Taito Corporation (JP)",
+		"XS Games (US)",
+		"Play It! (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/castle-shikigami-2",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the recent past, a band of champions gathered to engage this threat. Using weapons forged by the great magicians and masters of arcane sciences, the heroes managed to banished the demons, quelling their thirst for conquest!  The time: 2006, the distant future. The Demon Gods and their mystical castle have reappeared above the skies of Tokyo City with the goal of continuing the dominaiton and conquest of humanity. Can the heroes of recent legend return to defeat the nemesis of all mankind? The tools for defeating the gods are trapped within the very castle in which the demons reside. The hope of the world lies on the shoulders of these heroes; they must succeed or the world is no longer..."
+}

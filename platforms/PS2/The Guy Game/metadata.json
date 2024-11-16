@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Top Heavy Studios"],
+	"genres": ["Trivia"],
+	"name": "The Guy Game",
+	"publishers": ["Gathering"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-guy-game",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Guy Game, which was shot live on South Padre Island during spring break, challenges you and your friends to match wits with more than 60 female coeds. Each episode features these attractive college students in a variety of stunts, interviews, and challenges. With a personal cheerleader by your side, you can take on three of your friends in answering more than 1,000 trivia questions from the worlds of sports, movies, TV, and more. The game also includes minigames and a Hottie Challenge."
+}

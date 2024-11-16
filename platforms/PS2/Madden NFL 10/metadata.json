@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 10",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madden-nfl-10",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience first-hand what its like to Fight for Every Yard in Madden NFL 10. With the all-new Pro-Tak animation technology, players have more control over the outcome of each play. Whether driving a receiver towards the first down, or battling for a fumble at the bottom of a pile, the play wont end until the whistle blows. Add to that the most immersive broadcast presentation and online innovation to date, and Madden NFL 10 captures the authenticity and emotion of the NFL like never before."
+}

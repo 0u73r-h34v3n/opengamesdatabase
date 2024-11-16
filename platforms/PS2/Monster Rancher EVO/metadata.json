@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Simulation"],
+	"name": "Monster Rancher EVO",
+	"publishers": ["Tecmo"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-rancher-evo",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mocchi, Suezo and Golem are back in Monster Rancher 4 Monster Rancher 4. The latest entry in the Monster Rancher series is comprised of a mass of new features including a multi-breeding and training program, full customization of training facilities, and a brand new interactive action/adventure element, creating a new game that goes years beyond its predecessors."
+}

@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Black Box"],
+	"genres": ["Racing"],
+	"name": "Need for Speed: Hot Pursuit 2",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/10/03/need-for-speed-hot-pursuit-2",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/need-for-speed-hot-pursuit-2",
+			"score": 89,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/need-for-speed-hot-pursuit-2-review/1900-2884739/",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_hotpursuit2_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Need for Speed is back and faster than ever in Need For Speed Hot Pursuit 2.  Engage in the next generation thrill of arcade racing with the spiritual successor to Need For Speed III Hot Pursuit.  The sequel houses a stable of exclusive and exotic cars from the world's most coveted licensors including Ferrari, Porsche, and Lamborghini.  Become the \"champion road racer\" by conquering numerous racing events, all carrying rewards such as cars, tracks, and high performance upgrades.  The game challenges the driver to dodge traffic, police, and natural elements in high speed and high style.  And it's up to you to evade any cops on your path, since getting busted just might end your career."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Compilation", "Fighting"],
+	"name": "The King of Fighters 2000/2001",
+	"publishers": ["SNK Playmore (US)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-fighters-20002001",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SNK/Playmore delivers a one-two punch by releasing The King of Fighters 2000/2001 two-disc compilation. Two installments of the 2D fighting series are faithfully reproduced with all your favorite characters, each with their own attacks, combos, and special moves. In each game, you create your own team of martial artists and fight in three-on-three matches against the AI or a friend. With The King of Fighters 2000/2001, you get a variety of modes, unlockable character introductions, and brand-new backgrounds."
+}

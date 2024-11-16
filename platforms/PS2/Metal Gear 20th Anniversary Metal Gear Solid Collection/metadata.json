@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Collection"],
+	"name": "Metal Gear 20th Anniversary: Metal Gear Solid Collection",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of Metal Gear, Metal Gear 2: Solid Snake, Metal Gear Solid (PS), [[Metal Gear Solid 2: Sons of Liberty]], [[Metal Gear Solid 3: Snake Eater]], Metal Gear Solid Portable Ops (PSP), Metal Gear Saga (DVD) and [[The Document of Metal Gear Solid 2]].}} Metal Gear and Metal Gear 2: Solid Snake are ported MSX games with some enhancements contain on one PS2 DVD exclusive to this collection. Test information for this DVD should be collected on this page."
+}

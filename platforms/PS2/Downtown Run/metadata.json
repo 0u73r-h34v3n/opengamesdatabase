@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Romania"],
+	"genres": ["Racing"],
+	"name": "Downtown Run",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL"],
+	"synopsis": "Become an urban legend of street racing in this full-force speed trip against the fastest street cars in the world. But being the fastest is just the beginning. On these streets, you'll need your best style moves to rack up Prestige Points... and mad respect."
+}

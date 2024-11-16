@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Adventure"],
+	"name": "Bolt",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/bolt/ps2-14256526",
+			"score": 5.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/bolt",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ka-woof! Unleash the sonic superbark and play as Bolt and Penny in a new adventure inspired by the hit film, Walt Disney Pictures Bolt. Activate Bolt's super powers, such as ground pound and laser vision, and fly into action with Penny's wheelbar to defeat enemies and save the world!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Action", "Adventure"],
+	"name": "EyeToy: Operation Spy",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-operation-spy",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EyeToy: Operation Spy is the ultimate spy training that sends players into a world of international espionage and undercover surveillance. Presented with a strong narrative, players join the SIA [Strategic Intelligence Agency] and are tasked with bringing to justice a global network of master criminals. EyeToy: Operation Spy offers two unique modes: Gameplay and Surveillance. Gameplay mode allows players to enroll at the SIA and train to master the art of espionage. Your secret agent skills are put to the test by undertaking a range of assignments such as code breaking, sky diving, device disposal, criminal profiling, and using high-tech equipment to zoom into locations via satellite to uncover criminal masterminds bent on taking over the world. Surveillance mode is a robust security system that uses the EyeToy USB camera to secretly capture footage of unwanted intruders. It can be used to passively monitor a room, triggering playback of a pre-recorded warning message on the TV screen, it can secretly record the person from the moment they enter the area, or allow players to establish a perimeter system, protecting specific areas or objects within a room."
+}

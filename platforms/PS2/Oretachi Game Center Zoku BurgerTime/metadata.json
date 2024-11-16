@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Platformer"],
+	"name": "Oretachi Game Center Zoku: BurgerTime",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "As the burger chef, you're out to build delicious hamburgers. As you run through the colorful maze assembling the ingredients, nothing can stop you. Except menacing hot dogs and pickles that are out to ruin the meal! Bury them under beef patties, lettuce and buns. Or, knock them out with pepper. Build four burgers and you're on to the next level."
+}

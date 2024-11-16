@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Racing"],
+	"name": "XGIII: Extreme G Racing",
+	"publishers": ["Acclaim (US, EU)", "Acclaim|Acclaim Japan (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/extreme-g-3",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "High-speed motorcycle racing and high-stakes futuristic combat collide in X63--the most intoxicating, highly addictive arcade experience. Feel every razor sharp turn and roller-coaster drop in the pit of your stomach as you smash through the sound barrier at speeds over 750 mph."
+}

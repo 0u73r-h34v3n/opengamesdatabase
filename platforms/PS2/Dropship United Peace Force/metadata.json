@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Simulation"],
+	"name": "Dropship: United Peace Force",
+	"publishers": ["Sony|SCEE (EU)", "Bam Entertainment (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dropship-united-peace-force",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Deploy and destroy using cutting-edge Dropship technology to reinforce peace in worldwide hot spots. After loading your Dropship with deadly combat vehicles, you can fly, drive, and shoot your way through an expansive enemy-infested terrain. Your decisions affect the outcome as your wingmen and ground forces rely on your guidance and support. Now, uncover a tale of military might and political intrigue as you and your copilot take out tactical targets to cripple enemy strongholds."
+}

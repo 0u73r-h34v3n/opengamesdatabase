@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Deer Hunt: 2005 Season",
+	"publishers": ["Activision"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-deer-hunt-2005-season",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This year's installment in Cabela's Deer Hunt series offers a new adventure with 18 action-packed missions, numerous deer models, private game ranches, authentic Cabela's gear, and four vehicle types. Now you can hunt nine different deer species, including exotic and rare deer, in 27 expansive areas across North America. Also, for the first time in the Cabela's Deer Hunt series, you can participate in trap, skeet, and sporting-clay shooting events. Before you head out for the hunt, be sure to equip yourself with any combination of Cabela's equipment."
+}

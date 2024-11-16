@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 09",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fifa-soccer-09",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With 500 new animation sequences and all-new collision and shielding systems - representing the biggest innovations to the game engine in four years - FIFA 09 delivers more responsive, intelligent and realistic physical action. A new collision detection system with 360 degree coverage and hundreds of new collision animations enable players to behave according to their physical attributes. Player speed, direction and strength now determine everything from the severity of the collision to the outcome of possession. Plus, contact occurs with shoulders, arms and legs. Stronger players possess the strength to knock down smaller players or use their body or arms to win challenges. Player strength and momentum also determine outcomes in challenges through the new shielding system, with dozens of new outcomes created. Plus, players can now shield the ball by pushing off the defender to create space - at the risk of being called for a foul - just like real life. The increased control shielding the ball adds another strategic element to matches, enabling you to slow the game's pace as needed."
+}

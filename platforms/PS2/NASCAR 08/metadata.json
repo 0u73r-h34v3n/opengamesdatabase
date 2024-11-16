@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Racing"],
+	"name": "NASCAR 08",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "https://www.gamespot.com/reviews/nascar-08-review/1900-6176089/",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nascar-08",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take the wheel and drive your way to the NASCAR Nextel Cup Series championship. As the new rookie driver on the circuit, develop your racing skills to gain licenses and contracts from hungry owners and unlock legendary top performing cars from NASCAR's biggest stars. Gain new experiences during every race then modify your car's handling with over 40 tuning options to truly master every track."
+}

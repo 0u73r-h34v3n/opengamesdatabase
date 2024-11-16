@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pi Studios"],
+	"genres": ["Music"],
+	"name": "Rock Band 2",
+	"publishers": ["MTV Games (US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2009/01/27/rock-band-2-review-3",
+			"score": 7.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rock-band-2",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Harmonix, MTV Games, and Electronic Arts are taking the groundbreaking music platform that forever changed the face of music video games to the next level this September with the release of Rock Band 2. With the original providing millions of players a new way to interact with the music and artists they love, Rock Band 2 is the next evolution of the franchise that redefined the standard for music games."
+}

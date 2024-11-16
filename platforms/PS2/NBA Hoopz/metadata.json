@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Sports"],
+	"name": "NBA Hoopz",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-hoopz",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "THE RESULTS DON'T SHOW UP ON A SCOREBOARD   TRY THE RICHTER SCALE!  The only dedicated 3-on-3, extreme style basketball videogame available this season!  -More than 500 High Flyin' Animations -Sharp Graphics, Player Models and Animated Crowds -Addicting Mini-Games like 21, 2ball and Around the World -Secret Hidden Courts like Beachside and Street Court -Jammin' On-Fire Mode -Official NBA Stats and Player Rosters"
+}

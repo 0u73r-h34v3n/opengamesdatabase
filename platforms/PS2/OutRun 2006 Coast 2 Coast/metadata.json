@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sumo Digital"],
+	"genres": ["Racing"],
+	"name": "OutRun 2006: Coast 2 Coast",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/outrun-2006-coast-2-coast",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "OutRun 2006: Coast to Coast features a choice of 15 fully licensed Ferrari models, featuring the all-new F430 and F430 Spider, as well as the dazzling Superamerica and the stunning 550 Barchetta. Power your way across 15 new American themed environments from the \"OutRun2 SP\" arcade experience. Race from coast to glorious coast with a fresh new mission structure, a license mode and online play, with up to 6 players for a thrilling head-to-head journey."
+}

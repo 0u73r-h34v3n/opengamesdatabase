@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rocksteady Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Urban Chaos: Riot Response",
+	"publishers": ["Eidos Interactive (EU, US)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/urban-chaos-riot-response",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as Nick Mason, an ex-US marine and part of T-Zero, the elite counter-gang unit. Specially trained in all areas of urban combat and armed with the very latest high-tech weaponry, T-Zero is all that stands in the way of total anarchy."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Sports"],
+	"name": "Cocoto Fishing Master",
+	"publishers": ["Bigben Interactive (EU)", "Conspiracy Entertainment (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/08/14/cocoto-fishing-master-review",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cocoto-fishing-master",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With Fishing Master, fishing has never been this much fun! Climb into your boat, grab your fishing rod, choose your bait and then go fishing on 5 wonderful lakes containing tons of surprises..."
+}

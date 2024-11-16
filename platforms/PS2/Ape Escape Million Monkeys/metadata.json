@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEI"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ape Escape: Million Monkeys",
+	"publishers": ["Sony|SCEI (JP, AS)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/ape-escape-million-monkeys/ps2-817505",
+			"score": 9.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Ape Escape Million Monkeys is not about catching apes - this time it's war! To save the day, and the planet, players need to take on a mighty army of angry apes, hell-bent on world domination, and give them the kicking they deserve. Just watch out for familiar faces from past Ape Escape titles and be warned - the monkeys aren't just armed: they're dangerous too. Choose from high-tech vehicles and customisable weaponry to fight against the hoards of monkeys. Massive Battles against hordes of gun-toting apes and gigantic ape battle-robots. Enjoy a range of extensive multiplayer options including a chaotic four player battles and a 40-stage Survival Mode."
+}

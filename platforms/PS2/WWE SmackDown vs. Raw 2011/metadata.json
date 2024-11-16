@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWE SmackDown vs. Raw 2011",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2010/10/27/wwe-smackdown-vs-raw-2011-review-2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "WWE SmackDown vs. Raw 2011 will empower players more than ever to to define their gameplay experiences in a dynamic and ever-changing WWE.  Along the way, gameplay scenarios will change based on player decisions, allowing for more spontaneous WWE action in and out of the ring.  Players will also enjoy a greater level of interactivity and have increased control of their destinies in the game's popular Road to WrestleMania story-driven mode."
+}

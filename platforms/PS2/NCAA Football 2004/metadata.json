@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 2004",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-2004",
+			"score": 94,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the spirit, atmosphere, and emotion of college football like NCAA Football 2004.  Whether you play as the one of the 36 new 1-AA teams or 20 classic teams from the last two decades, the game lets you celebrate the history of college football.  Feel the tradition of college football Saturdays with all-new pre-game introductions and experience the pageantry with new mascots, flag-waving cheerleaders, and cannons.  Other key features this season include improved college gameplay, EA Sports Online competition for the PlayStation 2, deeper Dynasty mode, and over 15 new teams and the all-new EA Sports Bio."
+}

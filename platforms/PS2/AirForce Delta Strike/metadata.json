@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCE Studios"],
+	"genres": ["Simulation"],
+	"name": "AirForce Delta Strike",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/airforce-delta-strike",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Strap in and take off. The latest addition to the successful AirForce Delta franchise flies onto the PS2 with AirForce Delta Strike. Join a cast of over 20 highly skilled pilots flying over 130 planes, modeled after WWII classics and the latest hybrid fighters.  Lose yourself in this gripping universe with multiple endings and nonstop action. AirForce Delta Strike flies into uncharted territory with its unique brand of action flight combat, interplanetary missions, compelling characters and intense futuristic storyline."
+}

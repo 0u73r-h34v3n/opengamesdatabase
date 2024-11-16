@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kamui"],
+	"genres": ["RPG"],
+	"name": "Inuyasha The Secret of the Cursed Mask",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/inuyasha-the-secret-of-the-cursed-mask",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Explore the spiritual world of Inuyasha and encounter your favorite characters from the animated series in the new role-playing game Inuyasha: The Secret of the Cursed Mask. You'll travel the lands battling monsters and discovering a variety of items. The game features original characters and animated cutscenes created especially for the game. If have what it takes to complete the game, you can unlock secret areas and other bonuses."
+}

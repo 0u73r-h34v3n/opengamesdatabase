@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar Toronto"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Warriors",
+	"publishers": ["Rockstar Games (US, EU, KO)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-warriors",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game is based on the 1979 movie of the same name (which in turn, is based on the 1965 novel of the same name), and features large scale brawling in 3D environments interspersed with other activities such as chase sequences.The game takes place in a gritty 1970s New York City. The story follows a street gang, the Warriors had been accused of a murder they didn't commit, and must return to their home turf in one night, although the game begins three months prior to the film events."
+}

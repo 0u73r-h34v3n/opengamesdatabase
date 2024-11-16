@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crea-Tech"],
+	"genres": ["RPG"],
+	"name": "Metal Saga",
+	"publishers": ["Success (JP)", "Atlus (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/metal-saga",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the not so distant future... Desperate to find a way to save the earth from pollution, mankind created a gigantic supercomputer and named it Noah. Noah's solution, however, was to exterminate its creators. In a matter of days, civilization fell to terrifying weapons and monsters created by Noah. This cataclysmic event came to be known as the Great Destruction. As the years passed, the number of human survivors grew, slowly but steadily. They formed villages and towns, living off of technology that they were able to salvage from the piles of wreckage. Among the survivors were those who rose up to fight Noah's robotic henchmen. To track down and eliminate these threats to humanity, they utilized the most powerful weapons still operable after the Great Destruction--tanks! As a sign of respect, people nicknamed them \"hunters.\" Noah, the cause of the Great Destruction, was in fact destroyed by one such hunter. However, its ruthless offspring still roamed the world, striking fear in people's hearts. Now, a young man prepares to set foot into the deadly desert wasteland to make a name for himself, as did his father, a veteran hunter..."
+}

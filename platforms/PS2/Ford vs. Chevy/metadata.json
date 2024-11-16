@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Ford vs. Chevy",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ford-vs-chevy",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When Washington was settled way back in the 1800s, the two rival families of the Baker and the Williamsons nearly wiped each other out in the quest for gold. When the rush was over, they had nothing to fight over. That changed when Tyrone Baker bought his first automobile, a Ford Model T. Eddie Williamson went out and got himself a Chevrolet 490 and the feud was reborn. Now you can't cruise the streets of Westington in a Ford or a Chevy without being challenged to a race. It is time to defend your pride. Race to earn points by drafting, drifting, catching air or just from just good ol clean drivin. It is furious fun as you smash through barriers, avoid obstacles, and get airborne. Feature 50 upgradeable Ford and Chevy Classic Contemporary vehicles meticulously rendered with realistic damage modeling. Choose from over 20 upgrade parts manufactures and 150+ parts to turn your ride into the ultimate racing machine. Performance Degradation: As your vehicle takes damage, you lose top speed and acceleration. Take on driving missions in the city, on the freeways and in the hills and desert surrounding Wesington. Compete in the race modes including; circuit, point to point,  mile drag racing, time trial and slalom."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Ferrari Challenge Trofeo Pirelli",
+	"publishers": ["Activision (US)", "System 3 (AU, EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ferrari-challenge-trofeo-pirelli",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Compete in the most elite racing circuit with the premier racing vehicle line in the world: Ferrari.  Get ready for a totally immersive, realistic, gripping experience with authentic cars, tracks, vehicle damage, and racing dynamics that are second to none. This is one racing game that has been precision balanced to perfection."
+}

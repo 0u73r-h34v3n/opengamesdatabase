@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision"],
+	"genres": ["Trivia"],
+	"name": "The Weakest Link",
+	"publishers": ["Activision"],
+	"regions": ["PAL"],
+	"synopsis": "Test your brain power as you take center stage in the home version of the hit game show. Think fast on your feet to answer host Anne Robinson's tough trivia questions correctly or your're toast. Know your foes' weaknesses and play your voting strategy right."
+}

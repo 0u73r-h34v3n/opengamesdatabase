@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RPG"],
+	"name": "Zill O'll - Infinite",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Zill O'll - Infinite - is a port of the PSX RPG ''Zill O'll'' with new scenarios and endings added. Set on the continent of Bioscian, you head out to a guild to take on different jobs and earn money. You control a character who has \"Soul,\" giving him access to many different abilities. The game includes six soul types: Brave, Kind, Search, Belief, Wild and Cool. Once you've cleared a mission, you receive points which can be split between these facets of your character. "
+}

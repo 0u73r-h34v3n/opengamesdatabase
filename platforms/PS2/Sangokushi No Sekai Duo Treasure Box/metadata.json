@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Collection"],
+	"name": "Sangokushi No Sekai Duo Treasure Box",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Japanese Editions of [[Dynasty Tactics 2]], [[Kessen II]], Sangokushi History Book 2003, Sangokushi special save data collection disc, 16 Dynasty Tactics 2 \"capture\" cards, Dynasty Warriors 4 playing cards deck, as well as 16 Dynasty Warriors 4 commander character cards. Note that included ''Kessen II'' disc is a standard edition (SLPM-65015).}}"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SoftMax"],
+	"genres": ["RPG"],
+	"name": "Nishikaze no Kyoushikyouku: The Rhapsody of Zephyr",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Nishikaze no Kyoushikyouku: The Rhapsody of Zephyr is a story based on the work of Du Zhongma. Cyrano Bernstin is studying a banned book called \"Genesis War\" related to the event of the same name. He is convicted of admiring the devil and arrested on the day of his wedding, being confined to the Infernal Prison. After 14 years, the Infernal Prison is attacked by the revolutionary army known as Zephyr Falcon giving Cyrano the opportunity to escape. His adventure carries on from there."
+}

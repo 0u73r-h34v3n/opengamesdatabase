@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision"],
+	"genres": ["Sports"],
+	"name": "Cabela's Big Game Hunter 2008",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Take aim at the world's biggest game in the most prestigious hunting spots in the 2008 edition of Cabela's Big Game Hunter. The experts at Cabela's have captured all the anticipation and skill of tracking and bagging big game, and year after year Big Game Hunter keeps raising the stakes. This time around you'll test your hunting skills in settings including Africa, Montana, New Zealand, and beyond."
+}

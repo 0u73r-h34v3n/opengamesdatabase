@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Rock Band Track Pack: Classic Rock",
+	"publishers": ["MTV Games"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rock-band-track-pack-classic-rock",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Featuring an outstanding mix of favorite classic rock hits, Rock Band Track Pack: Classic Rock features 20-songs from mega artists such as The Who, Rush, Boston, Police, Steve Miller Band, George Thorogood and more!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Sports"],
+	"name": "Gallop Racer 2004",
+	"publishers": ["Tecmo (JP, US)", "Zoo Digital Publishing (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gallop-racer-2004",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Gallop Racer horse racing series is back with more tracks, horses, and modes. Gallop Racer 2004 immerses you into the world of horse racing from start to finish with modes such as Betting System and Classic Season. A new breeding system lets you produce a maximum of eight original horses at one time. Now, not only can you ride your horses against rivals but also you can negotiate with your horses' trainers. When you achieve a perfect ride, you'll experience a dramatic graphic effect called the Big Revolution."
+}

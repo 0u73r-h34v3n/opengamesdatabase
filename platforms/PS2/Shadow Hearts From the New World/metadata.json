@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nautilus"],
+	"genres": ["RPG"],
+	"name": "Shadow Hearts: From the New World",
+	"publishers": ["Aruze Corp (JP)", "Xseed Games (US)", "Ghostlight (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shadow-hearts-from-the-new-world",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The story begins as Johnny Garland, a young, 16-year old detective who lost his father, sister and his memory in an accident, accepts an investigation to track down a criminal suspect who escaped from custody. As he closes in on the suspect, Johnny witnesses a supernatural occurrence - a huge monster appears from a green light known as the \"window\" and swallows up the criminal. Apparently, a series of horrific incidents similar to this have been plaguing the cities across the nation. Johnny's female counterpart is 21-year-old bounty hunter Shania, a Native American who is searching for these mysterious windows and determined to fight them using her spiritual powers. Together, they travel around the states and are joined by other characters."
+}

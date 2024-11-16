@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Board"],
+	"name": "Monopoly",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monopoly",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Monopoly video games promise a fresh take on the timeless classic with accessible gameplay for players of all ages and skill levels. The all-new digital gaming edition brings a party twist and features 4-player simultaneous play, ensuring that everyone is engaged and allowing the whole family to get involved in the fun and play together. Faster gameplay eliminates downtime freeing up players to wheel and deal their way through some of the most recognizable cities and landmarks from around the world. Families can fill up their passports as they try to unlock new and never-before-seen game boards or challenge each other to fun interactive mini-games like breaking out of the jail cell and running away with all the loot. Play in offline single or multi-player mode and compete to own it all and win!"
+}

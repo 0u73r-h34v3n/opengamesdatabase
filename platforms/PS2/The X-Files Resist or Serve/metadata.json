@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ops Entertainment"],
+	"genres": ["Adventure", "Horror"],
+	"name": "The X-Files: Resist or Serve",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-x-files-resist-or-serve",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Trust no one. Set in the show's seventh season, X-Files: Resist or Serve begins when Mulder and Scully travel to the small Rocky Mountain town of Red Falls to investigate a string of unusual murders linked to ghost sightings, the undead, and other paranormal phenomena.  Guide them through three horrific episodes set in Red Falls, the Siberian wasteland, and a buried alien spacecraft.  Play as authentic X-Files characters including voiceovers by David Duchovny, Gillian Anderson, and the rest of the original cast.  It's up to you to prevent aliens from colonizing the planet."
+}

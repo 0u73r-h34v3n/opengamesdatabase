@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Killer Game"],
+	"genres": ["Racing"],
+	"name": "Jet X2O",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jet-x2o",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As a professional watercraft rider roaring through expansive levels, you can become the envy of all the other racers. You know you're good when you can race one of your highly stylized watercraft through raging rivers, turbulent rapids, tall waterfalls, and hairpin turns. In Jet X2O, you'll travel to far-off lands such as Atlantis, the Arctic, and humid South American jungles, and compete against competitors ready for the challenge. This is not just a race of speed, but a test of extreme trick skill."
+}

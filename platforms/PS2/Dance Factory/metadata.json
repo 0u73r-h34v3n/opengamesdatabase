@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Music"],
+	"name": "Dance Factory",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dance-factory",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Unlimited music, Unlimited dance, Total fun! Get down and party with the only PlayStation2 computer entertainment system game that gets you grooving to your own music CD collection. No other dance mat game gives you an unlimited choice of tunes!"
+}

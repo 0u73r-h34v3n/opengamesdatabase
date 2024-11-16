@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gust"],
+	"genres": ["RPG"],
+	"name": "Violet no Atelier",
+	"publishers": ["Gust"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Violet no Atelier is the 5th release in the official Atelier series, the successor to the [[Judie no Atelier: Gramnad no Renkinjutsushi]] series, and the final game in the both Gramnad series and wider \"classic timeline\". It was also the last of the \"classically\"-styled, run-an-Atelier-and-focus-on-item-crafting type Atelier games released until ''Atelier Lisa'' and ''Atelier Rorona''."
+}

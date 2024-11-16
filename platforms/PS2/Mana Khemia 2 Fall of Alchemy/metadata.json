@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gust"],
+	"genres": ["RPG"],
+	"name": "Mana Khemia 2: Fall of Alchemy",
+	"publishers": ["Gust (JP)", "Nippon Ichi Software|NIS America (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mana-khemia-2-fall-of-alchemy",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Mana Khemia 2'' adopts a unique type of turn based battle system. You will have a set of attackers and supporters that switch in and out throughout the battle with attack/support actions. Over 100 items to craft. Players can search for ingredients throughout the world and create new items using what you've found. There are 2 separate stories ready for ''Mana Khemia 2''. Depending on how you played the game can alter the ending, so there are 2 storylines for the 2 main characters."
+}

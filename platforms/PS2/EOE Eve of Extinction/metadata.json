@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Action", "Adventure"],
+	"name": "EOE: Eve of Extinction",
+	"publishers": ["Eidos Interactive (US, EU)", "Titus Software (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/eoe-eve-of-extinction",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Wisdom Incorporated is a distinguished conglomerate known for its great advances in the genetics industry--gene therapy, genome-based drugs, cloning technology and genetic modification of food.   Josh Calloway is an employee of Wisdom and the subject of extensive biochemical experimentation. With superior strength and reflexes, he proves to be the perfect genetic fit for Wisdom's latest research. He hopes to use his enhanced physical attributes for the betterment of medical science.  However, Wisdom's true purpose is to use their biogenetic technology to gain military power. Their primary focus is the development of a close-range weapon of deadly power called Legacy. It is the fusion of a rare metal with a living human soul to produce a weapon of unimaginable destructive force and a mind of its own.  Once Josh discovers Wisdom's true intentions, he decides to escape Wisdom with his girlfriend, Eliel Evergrand, also a co-worker taking part in the development of Legacy. Their escape attempt ends in failure.  Eliel's soul is then forced into the core of the most powerful Legacy ever made, code-named E.O.E."
+}

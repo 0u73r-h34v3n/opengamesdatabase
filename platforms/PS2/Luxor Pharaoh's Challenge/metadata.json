@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["MumboJumbo"],
+	"genres": ["Puzzle"],
+	"name": "Luxor: Pharaoh's Challenge",
+	"publishers": ["MumboJumbo"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/luxor-pharaohs-challenge",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Features an all new storyline takes you through the world of ancient Egypt, as well as the afterlife. Five new scarabs, upgradeable power-ups, 13 new blessings, and a Story Mode and an Endless Mode for different styles of game play are also new."
+}

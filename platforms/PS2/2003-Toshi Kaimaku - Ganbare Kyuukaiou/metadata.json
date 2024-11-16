@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Magical Company|Magical Company (Mahou)"],
+	"genres": ["Sports"],
+	"name": "2003-Toshi Kaimaku - Ganbare Kyuukaiou",
+	"publishers": ["Atlus"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Baseball game featuring the Japanese league. It uses the real team and player names of the 2002 season. The player figures were created by 'Bubble Head Doll' designer Junichi Yamamoto. "
+}

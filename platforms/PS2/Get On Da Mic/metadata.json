@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Music"],
+	"name": "Get On Da Mic",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/get-on-da-mic",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Get on Da Mic, you can live the life of a rap superstar. This music game features 40 hip-hop tracks, popular gear, and multiple rappers striving for fame and fortune. As one of eight customizable characters, you'll begin a career in the music industry while earning flashy gear and items for your home. However, to win the gear, you must win the crowd, which cheers when you perform well and walks away when you sound awful. You can also showcase your talents to your friends in Freestyle and Party modes."
+}

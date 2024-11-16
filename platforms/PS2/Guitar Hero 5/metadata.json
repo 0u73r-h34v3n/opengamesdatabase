@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BudCat"],
+	"genres": ["Music"],
+	"name": "Guitar Hero 5",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guitar-hero-5",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This fall, living room legends will rock any way they want in Guitar Hero 5. The entire set list is at players finger tips from the start, featuring genre-defining hits from some of the biggest rock artists and bands of all time, including The Rolling Stones, The White Stripes, Kings of Leon, Tom Petty, Bob Dylan, Johnny Cash, Santana and Vampire Weekend. Players take complete control as Guitar Hero 5 allows gamers to personalize and customize how they experience music by being able to play with any in-game instrument combination -- multiple vocalists, guitarists, bassists and drummers, in any game mode. With the games all-new Party Play Mode, getting the band back together has never been easier. Players can now jump in or drop out of gameplay seamlessly, without interrupting their jam session. Elevating the Guitar Hero series to new heights with unmatched social gameplay, an enhanced style, new in-game artists and more rock legends, Guitar Hero 5 features new surprises and challenges that will fire-up long-time fret board fanatics and create a new generation of enthusiasts."
+}

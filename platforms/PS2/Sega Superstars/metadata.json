@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Action"],
+	"name": "Sega Superstars",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sega-superstars",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Instead of just playing your favorite Sega game, be a part of it. Sega SuperStars is a compilation of more than a dozen minigames, which feature classic Sega characters and games redesigned exclusively for the EyeToy. You can race through Sonic's Super Speed Tube, collect bananas in Super Monkey Ball, battle Akira or Rau of Virtua Fighter fame, and play a variety of instruments in Samba de Amigo. The minigames span a variety of genres, offering fun for the whole family."
+}

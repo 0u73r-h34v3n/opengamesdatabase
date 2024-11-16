@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Eclipse"],
+	"genres": ["Compilation"],
+	"name": "Capcom Classics Collection Volume 2",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/capcom-classics-collection-volume-2",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Capcom Classics Collection Vol. 2 brings together 20 of Capcom's golden arcade games on one disk. Turn your console into a time machine and step into memory lane to relive the glory days of yesteryear. Multiplayer games allow you to challenge all your friends. Unlock cheats to help you beat your favorite games. Unlockable training videos give you the upper hand in performing powerful moves. Gallery gives you a glance at the original art while giving a history lesson on the games."
+}

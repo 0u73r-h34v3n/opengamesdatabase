@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Platformer"],
+	"name": "Scaler",
+	"publishers": ["Take-Two Interactive (EU)", "Global Star Software (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/scaler",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bobby \"Scaler\" Johnson gets more than he bargained for when he stumbles upon his next-door neighbor's evil plot to take over the world--by stealing all the lizards and training them to become his mutant army. As Bobby, you can take on your enemies by transforming into one of them. Work your way through the worlds by shape-shifting, vine-surfing, and using camouflage. In levels filled with exotic plants and creatures, this unexpected hero encounters many strange situations."
+}

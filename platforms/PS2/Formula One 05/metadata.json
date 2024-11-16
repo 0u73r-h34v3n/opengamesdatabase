@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Studio Liverpool"],
+	"genres": ["Racing"],
+	"name": "Formula One 05",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/926722-formula-one-2005/index.html",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Driving fans will be able to explore new functions in the 2005 edition of the series, including interactive pit stops, a variety of new modes, and the opportunity to race in the cars that have made FORMULA ONE history."
+}

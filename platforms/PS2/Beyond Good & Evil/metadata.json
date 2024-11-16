@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montpellier"],
+	"genres": ["Action", "Adventure"],
+	"name": "Beyond Good & Evil",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/beyond-good-evil",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For centuries, the planet Hillys has been bombarded by a relentless alien race.  In Beyond Good and Evil, a rebellious action reporter named Jade sets out to capture the truth behind the invasion.  Armed with her camera, dai-jo staff, and fierce determination, you must guide Jade as she discovers shocking evidence leading to a horrific government conspiracy and is forced to battle an evil she cannot possibly fathom.  With the ability to perform stealth techniques, dai-jo staff moves, and tag-team fighting combos, you can stop at nothing to expose the truth."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEO"],
+	"genres": ["Sports"],
+	"name": "ESPN International Track & Field",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-international-track-field",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Compete against the greatest athletes on earth in ESPN International Track & Field. Compete as or against top Olympic athletes in over 10 real world events. ESPN International Track and Field features over 750 motion-captured animations and true-to-life graphics and sounds that capture the spirit of international track and field competition."
+}

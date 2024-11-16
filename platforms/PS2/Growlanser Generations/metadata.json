@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Career Soft"],
+	"genres": ["RPG"],
+	"name": "Growlanser Generations",
+	"publishers": ["Atlus (JP)", "Working Designs (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/growlanser-generations",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Growlanswer Generations is a spellbinding set of two complete RPGs (Role Playing Games) that span space and time itself. Growlanswer: The Sense of Justice introduces players to Growlanser's world of swordplay and magic, where peace between three kingdoms is on the verge of shattering. Growlanser: The Dual Darkness takes players back to the place, time, and planet where the series began. In both games, players control the hero, and four to seven of his companions in ever more massive, strategic battles against the enemy forces in a variety of scenarios. Customizable characters with upgradeable magic, skills and power rings, as well as multiple story branches make Growlanser Generations one of the most flexible Strategy/RPGs to date. Developed by Atlus and CareerSoft, the Growlanser saga is an epic fantasy tale featuring a unique mix of strategic, menu-driven combat and real-time character movement and fighting. Its sublime combination of action and strategy was crafted by the key team members responsible for the long-running hit series Langrisser in japan. A deep story with over 80 hours of gameplay, more than ten solid hours of voice work, and fantastic character designs by anime artist Satoshi Urushihara compliment the gameplay and will keep players glued to the screen."
+}

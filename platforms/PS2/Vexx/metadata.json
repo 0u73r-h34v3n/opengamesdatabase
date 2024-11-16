@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Austin"],
+	"genres": ["Action", "Platformer"],
+	"name": "Vexx",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/vexx",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the role of Vexx as he seeks vengeance on those who murdered his grandfather and enslaved his people. Equipped with a set of razor-sharp war talons, you'll travel through volcanic islands, desert temples, frozen citadels, and giants' castles to confront the evil Dark Yabu, Shadowraith, and their minions. As darkness falls, enemies become more aggressive and the environments become more hostile. It will take all your combat skills and climbing moves to bring peace back to the villagers of Rockhaven."
+}

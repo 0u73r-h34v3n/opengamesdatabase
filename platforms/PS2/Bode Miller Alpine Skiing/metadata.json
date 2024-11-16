@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["49Games"],
+	"genres": ["Sports"],
+	"name": "Bode Miller Alpine Skiing",
+	"publishers": ["RTL (EU)", "Valcon Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/bode-miller-alpine-skiing-review/1900-6148334/",
+			"score": 4.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bode-miller-alpine-skiing",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With Bode Miller Alpine Skiing you can select a pre-existing skier or create your own. Either way, you take your skier and build them into a top Alpine athlete. Remember, though that behind every great athlete is a great manager and trainer, and this game makes no exception. The player must select a manager that suits their play style and abilities, likewise they must choose a trainer that will address the areas they need the most help in and create a training regime that will build the skills and abilities of their skier."
+}

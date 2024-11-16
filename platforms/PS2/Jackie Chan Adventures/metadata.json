@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Jackie Chan Adventures",
+	"publishers": ["Sony|SCEE (EU)", "Hip Games (US)"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jackie-chan-adventures",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the animated show of the same name, Jackie Chan Adventures follows the exploits of Jackie Chan, an expert in ancient artifacts and, at times, a secret government agent. This time, Jackie's mission is nothing less than saving the world from an evil power known only as the Dark Hand. To be successful, Jackie needs your help in finding the magical talismans from around the world and fighting off villains with kung fu."
+}

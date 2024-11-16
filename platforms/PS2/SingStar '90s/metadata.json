@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Music"],
+	"name": "SingStar '90s",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/singstar-90s",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Grunge. RandB. Pop. The '90s was a decade of memorable music and videos. SingStar '90s includes iconic artists such as MC Hammer, Vanilla Ice, Paula Abdul, R.E.M., Stone Temple Pilots and many more. Rock out to addictive songs such as U Can't Touch This, Ice Ice Baby, and other '90s hits! So grab the mics, prep your voice, and throw a jammin' party with SingStar '90s."
+}

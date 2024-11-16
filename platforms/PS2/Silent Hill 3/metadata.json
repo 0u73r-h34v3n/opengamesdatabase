@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|Team Silent"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Silent Hill 3",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_silenthill3_ps2",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/silent-hill-3",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://gamespot.com/ps2/adventure/silenthill3/review.html",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/08/05/silent-hill-3-2",
+			"score": 8.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Silent Hill 3 continues the series' trademark brand of psychological horror and terrifying gameplay.  As a teenage girl named Heather, you'll explore and unravel the mysterious connection between the godforsaken town and her inner fears.  Along the way, you'll encounter many strange characters you're not sure are trustworthy.  Silent Hill 3 also features enhanced graphical detail, a more complex storyline, new items and weapons, and even more grotesque monsters than the previous games.  Step into this world of nightmares and fight to survive."
+}

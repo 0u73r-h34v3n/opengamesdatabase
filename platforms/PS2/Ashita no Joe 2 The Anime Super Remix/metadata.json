@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action"],
+	"name": "Ashita no Joe 2: The Anime Super Remix",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Joe is a boxer haunted by the fact he killed his idol in a match. Based on the classic manga series, gameplay involves training in mini games that must be successfully completed to unlock the hidden episode with plenty of rewards along the way. Translates as 'Tomorrow's Joe', but in previous incarnations went under the title of 'Legend of Success Joe.'"
+}

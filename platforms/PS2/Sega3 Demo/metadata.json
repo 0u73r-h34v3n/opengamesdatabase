@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Demo"],
+	"name": "Sega3 Demo",
+	"publishers": ["Sony|Sony Computer Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "This demo disc contains three Sega demos: [[Ecco the Dolphin: Defender of the Future]], [[Rez]] and [[Headhunter]]"
+}

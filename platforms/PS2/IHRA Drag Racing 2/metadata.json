@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bethesda Softworks"],
+	"genres": ["Racing"],
+	"name": "IHRA Drag Racing 2",
+	"publishers": ["Bethesda Softworks"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ihra-drag-racing-2",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to IHRA Drag Racing takes drag racing to the next level.  IHRA Drag Racing 2 features 50 vehicles, including classics and late models, and top drivers from Top Fuel, Pro Mod, Pro Stock, and Funny Car.  Customize 70 of your vehicle's components, including tires, transmission, and electronics, and give your monster machine a test run on 1/4- and 1/8-mile tracks.  IHRA Drag Racing 2 also allows you to race in the day or night with detailed weather effects."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Compilation"],
+	"name": "Sega Ages 2500 Series Vol. 25: Gunstar Heroes Treasure Box",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This compilation contains the following games: ''Gunstar Heroes'', ''Dynamite Headdy'', ''Alien Soldier''."
+}

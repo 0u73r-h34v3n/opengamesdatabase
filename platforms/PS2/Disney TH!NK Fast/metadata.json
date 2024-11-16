@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Magenta Software"],
+	"genres": ["Puzzle"],
+	"name": "Disney TH!NK Fast",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disney-th!nk-fast",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Disney TH!NK Fast is a Disney-themed quiz game that will test your mental and physical reflexes."
+}

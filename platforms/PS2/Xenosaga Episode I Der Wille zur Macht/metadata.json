@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monolith Soft"],
+	"genres": ["RPG"],
+	"name": "Xenosaga Episode I: Der Wille zur Macht",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/xenosaga-episode-i-der-wille-zur-macht",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Xenosaga Episode 1: Der Wille zur Macht is an epic RPG that takes gamers on an unforgettable journey.  This intergalactic story takes place years into the future, well after the human race abandoned Earth in favor of the next frontier of space.  Expect to play over 80 hours of intriguing game play featuring a variety of minigames, character development, and a sprawling sci-fi storyline.  Xenosaga's polished graphics, involving storyline, and exquisite music performed by the London Philharmonic Orchestra make for a truly cinematic experience."
+}

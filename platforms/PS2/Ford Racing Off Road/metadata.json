@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Razorworks"],
+	"genres": ["Racing"],
+	"name": "Ford Racing: Off Road",
+	"publishers": ["Xplosiv (EU)", "Strategy First (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ford-racing-off-road",
+			"score": 37,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2008/09/30/ford-racing-off-road",
+			"score": 3.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Race 18 of Ford and Land Rover's toughest off road trucks, 4X4s and SUVs through lush environments, stunning scenery and extreme terrain. Choose from 12 distinct race types as you jump, bump and power slide powerful off road vehicles across 24 sweeping tracks designed for high-speed racing. Find the alternative routes to gain an advantage in your bid to be first past the finish line."
+}

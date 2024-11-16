@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["RPG"],
+	"name": "Tales of Legendia",
+	"publishers": [
+		"Namco (JP, US, AS)",
+		"Sony|SCEI (KO)",
+		"Bandai|Namco Bandai Games (JP)"
+	],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tales-of-legendia",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tales of Legendia is a fantasy role-playing game that continues the Tales series of games. You can play as Senel Coolidge, who encounters a giant, mysterious ship while adrift in a small boat with his sister. As you explore the history of the ship, you will encounter epic enemies and engage them using the \"X-LiMBS\" battle system, which lets you fight in real time like in a fighting game. The story is beset with unique characters designed by the animator featured in Kill Bill Vol. One."
+}

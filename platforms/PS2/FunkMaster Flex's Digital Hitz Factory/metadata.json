@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jester Interactive"],
+	"genres": ["Tools"],
+	"name": "FunkMaster Flex's Digital Hitz Factory",
+	"publishers": ["Jester Interactive (EU)", "Jack of All Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/funkmaster-flexs-digital-hitz-factory",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With Digital Hitz Factory, you have everything you need to make a hit song. The game includes more than 16,000 instrument sounds and samples from six different musical styles, including Hip-Hop, Pop, Trance, Garage Indy, and Metal. Mix your tracks with a set of virtual decks, and record your own vocals and samples with the optional Microphone and Sampler. The game also lets you create a music video--using a library of real video clips--to play with your track."
+}

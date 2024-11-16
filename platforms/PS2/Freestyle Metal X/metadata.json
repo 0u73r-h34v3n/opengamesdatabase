@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Deibus Studios"],
+	"genres": ["Racing"],
+	"name": "Freestyle Metal X",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/freestyle-metal-x",
+			"score": 67,
+			"max_score": 100
+		},
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/562107-freestyle-metal-x/index.html",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Freestyle Metal X unleashes anarchy with the freedom to do what you want, when you want. Break windows, run over people, ride where you normally can't ride--and get away with it. With a variety of stunt combinations, Freestyle Metal X encourages you to push the envelope with psychotic tricks in freestyle environments full of challenges and side events. A sizable dose of insanity will help you perform stunts on the tops of buildings, jump over the Vegas Strip, or shoot yourself out  of  a cannon onto the Marina streets."
+}

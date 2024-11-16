@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["C's Ware"],
+	"genres": ["Visual Novel"],
+	"name": "EVE Burst Error Plus",
+	"publishers": ["GameVillage"],
+	"regions": ["NTSC-J"],
+	"synopsis": "In this game there are two heroes, Kojiroh and Marina, who are each called upon to solve their own cases. This game allows you to switch characters at any time to solve the mysteries these heroes encounter. This \"Multi-Sight Adventure\" allows you to view what's happening behind-the-scenes from the other character's perspective, bump into each other, and sometimes even help each other out. Together, the pair come closer and closer to the shocking truth through their combined actions and deductive skills."
+}

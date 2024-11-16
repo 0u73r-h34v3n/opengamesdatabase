@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Amped",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCE Australia (AU)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/singstar-amped",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Featuring 30 classic and current rock favorites, SingStar® Amped will make every lyric screaming, guitar strumming, speaker kicking rock music fan stage dive for the mic! Rock out to Alice in Chains, Foo Fighters, Nirvana, Quiet Riot, ZZ Top and more!"
+}

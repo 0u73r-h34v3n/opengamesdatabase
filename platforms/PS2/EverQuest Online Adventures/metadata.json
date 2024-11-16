@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Online Entertainment"],
+	"genres": ["MMO", "RPG"],
+	"name": "EverQuest Online Adventures",
+	"publishers": ["Sony|Sony Online Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/everquest-online-adventures",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In EverQuest Online Adventures, you'll join players around the world in exciting combat, fantastic quests, and character development. Online gameplay allows players to team up and fight together, meet friends, form guilds, and become heroes. Customize your character's race, class, appearance, and abilities, and find secret character enhancements hidden in your environment. With hundreds of quests, subquests, storylines, and new plots, the world of Norrath comes to life."
+}

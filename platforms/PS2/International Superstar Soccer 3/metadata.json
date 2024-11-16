@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEO"],
+	"genres": ["Sports"],
+	"name": "International Superstar Soccer 3",
+	"publishers": ["Konami"],
+	"regions": ["PAL"],
+	"synopsis": "Come and be a part of Football. Feel the nerves in the tunnel and the excitement on the pitch. Immerse yourself with intuitive gameplay and realism for total footballing action. Experience the all new one-on-one situations and live the game. Pull off some amazing skills that really are pure football."
+}

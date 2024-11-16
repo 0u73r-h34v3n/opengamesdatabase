@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bits Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Rogue Ops",
+	"publishers": ["Kemco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rogue-ops",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "After receiving two years of grueling instruction in a covert government agency, ex-Green Beret Nikki Conners is unleashed upon Omega 19, a terrorist organization recognized as the most ominous in the world.  As Conners, you must rely on undetected operations, in which you hide in the shadows, suspend from ceilings, seek refuge inside environmental objects like storage lockers, or slide around walls to peer around corners.  With a host of engaging missions, cutting-edge spy tools, and an extensive arsenal, Rogue Ops tests your ability to survive in any situation."
+}

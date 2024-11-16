@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Sports"],
+	"name": "Free Running",
+	"publishers": ["Ubisoft (AU)", "Reef Entertainment (EU)"],
+	"regions": ["PAL"],
+	"synopsis": "Parkour, the art of movement, is less a sport and more a way of life. Its participants, known as Free Runners or Traceurs, view the environment and its obstacles, urban or natural, as a series of challenges to be overcome. To the Traceurs, parkour has a philosophical appeal: they feel transformed by the experience, free from the grind of city life. Since its inception in Paris during the mid-1980s, it has spread across the globe and now has an international army of exponents and enthusiasts. In Free Running, the concrete jungle becomes your urban playground as you run, vault, jump or climb over obstacles in the most fluid and flowing manner possible. Test the boundaries of human ability as you perform death-defying leaps and jaw-dropping trips across inner-city rooftops. To be crowned King of Parkour, you must master over 50 moves, tricks and stunts including 'Kong Vaults', 'Pharaoh Climbs', 'Rail Split Vaults' and 'Vertical Wall Runs' in a variety of game modes while racing against human or computer-controlled competitors."
+}

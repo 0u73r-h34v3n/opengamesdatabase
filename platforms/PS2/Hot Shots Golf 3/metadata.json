@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Clap Hanz"],
+	"genres": ["Sports"],
+	"name": "Hot Shots Golf 3",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hot-shots-golf-3",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play golf without all the restrictions of a stuffy resort.  The third installment in the Hot Shots Golf series features all the off-the-wall characters, entertaining caddies, and trash-talking that would normally get you kicked off a pro golf course.  Now you'll have 15 characters to choose from including seven caddies to entertain you--no matter how bad your score is.  Earn \"green points\" to buy enhanced golf equipment and insane golf gadgets.  Hot Shots Golf 3 puts the fun back into golf."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "King Arthur",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/11/20/king-arthur",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/king-arthur",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Live the true story behind the epic legend of King Arthur and the Knights of the Round Table. Based on the King Arthur movie from producer Jerry Bruckheimer, the King Arthur game lets you take control of one of five heroes, including Arthur, Lancelot, and Guinevere, each with unique weapons and skills. With three modes of battle, motion-captured fighting sequences and moves, and cutscenes from the film, King Arthur re-creates the events of this legendary tale."
+}

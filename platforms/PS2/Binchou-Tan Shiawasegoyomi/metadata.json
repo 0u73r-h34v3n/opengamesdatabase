@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Adventure"],
+	"name": "Binchou-Tan: Shiawasegoyomi",
+	"publishers": ["Marvelous"],
+	"regions": ["NTSC-J"],
+	"synopsis": "See the life of \"Binchotan\" the popular TV anime character in its miniature garden. Meet the friendly animals of the garden and speak with Binchotans friends."
+}

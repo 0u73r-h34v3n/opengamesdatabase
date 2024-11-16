@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Bend"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Syphon Filter: Logan's Shadow",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Gabe Logan stands alone. They've disbanded his team. His partner is missing and accused of treason. Experience an edge of your seat thrill ride featuring a gripping story by best-selling author Greg Rucka."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kuju Entertainment"],
+	"genres": ["Racing"],
+	"name": "Lotus Challenge",
+	"publishers": ["Virgin Interactive (EU)", "MTO (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Lotus Challenge isn't about simply driving fast. To be part of Team Lotus you need to have style, panache, and skill as well. The game has you performing a number of astounding driving feats, ranging from jumping through trains on the set of a Hollywood blockbuster, to chauffeuring a pregnant woman to the hospital before she delivers. You can choose one of 42 cars to take you from the dusky streets of London to the neon-lit highways of Tokyo."
+}

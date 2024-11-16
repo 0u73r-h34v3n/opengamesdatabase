@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Infogrames"],
+	"genres": ["Racing"],
+	"name": "Micro Machines",
+	"publishers": ["Infogrames (EU, US)", "Atari (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/micro-machines",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hit the gas and race on 16 outrageous, high-speed tracks in 8 different worlds. It's totally unique racing action in an oversized world where anything (and everything!) can happen."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Micro Cabin"],
+	"genres": ["Simulation"],
+	"name": "Naval Ops: Commander",
+	"publishers": ["Koei (JP, US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naval-ops-commander",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Naval Ops: Commander, you are not only in control of your own vessel--you command a battle group consisting of your primary ship, and up to three additional escort ships. Maneuver your escort ships into any formation, have them defend strategic positions, and execute various battle techniques for massive naval battles. Naval Ops: Commander features 150 different types of escort ships that can perform anti-aircraft, anti-submarine, and assault functions. To create your battle group, you can either purchase ships or wrest control of enemy ships during combat."
+}

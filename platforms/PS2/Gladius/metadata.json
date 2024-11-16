@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Turn-based strategy"],
+	"name": "Gladius",
+	"publishers": ["LucasArts (US)", "Activision (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/gladius/ps2-481736",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gladius",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The darkness of the Great War has passed, and the lands of Gladius are peaceful once more. Now combat takes place only in the gladiator arenas, where schools from around the world compete for the title of Imperial Champions. Follow the grand saga of two young heroes, Ursula and Valens, as they recruit and train a team of warriors and compete in the gladiator games. Battle with deadly weapons and powerful magic as you learn vital combat tactics and enhance your own characters."
+}

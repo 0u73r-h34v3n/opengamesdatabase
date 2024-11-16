@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Double Helix Games"],
+	"genres": ["Action"],
+	"name": "G.I. Joe: The Rise of Cobra",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gi-joe-the-rise-of-cobra",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As COBRA unleashes its deadliest plot yet, the G.I. JOE TEAM is counting on YOU to lead the counterattack. Every mission is critical - and so is every G.I. JOE. Your hand-picked team of heroes must battle COBRA organization's deadliest bosses as you snake your way through enemy territory."
+}

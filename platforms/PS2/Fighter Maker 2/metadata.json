@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Enterbrain"],
+	"genres": ["Action", "Fighting"],
+	"name": "Fighter Maker 2",
+	"publishers": ["Enterbrain (JP)", "Agetec (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fighter-maker-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Why play as another fighter when you can create your own? Fighter Maker 2 lets you build your own fighter from scratch, using 3D models that respond to your every direction. The customization process includes costumes, body types, special moves, camera angles, and everything you need to create a personally designed cast of fighting characters. A host of skilled opponents are ready to put your fighters to the test. Once you prove your characters have what it takes to beat the locals, you can challenge your friend's fighters to see who can build the greatest fighter of all time."
+}

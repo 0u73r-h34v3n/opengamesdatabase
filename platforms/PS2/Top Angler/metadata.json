@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sims"],
+	"genres": ["Sports"],
+	"name": "Top Angler",
+	"publishers": ["Sims (JP)", "Xicat Interactive (US)", "THQ (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/top-angler",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The latest, cutting-edge fishing game from the developers of Sega Bass Fishing for the Dreamcast puts you right out in the water.  A robust graphics engine featuring state-of-the-art visuals uses the power of the Playstation 2 to its fullest.  Accurate and detailed fish models bring Largemouth Bass, Redeye, Bluegills and more to life.  Compete in a challenging Campaign mode, or test your skills in the Arcade mode.  See if you can become the Top Angler!"
+}

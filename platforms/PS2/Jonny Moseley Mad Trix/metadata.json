@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Sports"],
+	"name": "Jonny Moseley Mad Trix",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jonny-moseley-mad-trix",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Show off your new school skiing tricks in Slopestyle mode and unlock Big Mountain mode to star in a ski movie! Then get heli-dropped onto a mountaintop, and pull insane grabs off snow-capped cottages, trains and more. Even use the Alaskan pipeline as a half-pipe. Then kick-it with your friends and watch your best runs on the big screen!"
+}

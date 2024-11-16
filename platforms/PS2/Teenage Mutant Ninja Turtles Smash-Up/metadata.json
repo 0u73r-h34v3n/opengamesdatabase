@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Arts"],
+	"genres": ["Action", "Fighting"],
+	"name": "Teenage Mutant Ninja Turtles: Smash-Up",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/teenage-mutant-ninja-turtles-smash-up",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Teenage Mutant Ninja Turtles are partnering with Ubisoft to celebrate their 25th Anniversary with a brand new game - Teenage Mutant Ninja Turtles: Smash-Up. This is the first Ninja Turtles video game that is not directly tied to a movie, television show or comic book. The 4-player action brawler features a variety of battle modes including online multiplayer gameplay, minigames, and an original story mode for single player co-created with Peter Laird."
+}

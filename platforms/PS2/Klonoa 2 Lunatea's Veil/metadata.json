@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Platformer"],
+	"name": "Klonoa 2: Lunatea's Veil",
+	"publishers": ["Namco (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/klonoa-2-lunateas-veil",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Klonoa, a long-eared creature, has stumbled on yet another mystical adventure. In Klonoa 2, a dark kingdom threatens the enchanted realm of Lunatea. Now it's up to Klonoa and his friends, Lolo and Popka, to prevent evil forces from bringing monsters and sickness into their world. Help Klonoa through 24 magical stages featuring hover-board gliding, perceptual changes, and new treacherous foes. On your adventure, you'll drop off waterfalls, get shot into the air by cannon, and gain special abilities from your defeated enemies."
+}

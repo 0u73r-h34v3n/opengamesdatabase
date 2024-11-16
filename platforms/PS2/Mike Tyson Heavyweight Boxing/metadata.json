@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Sports"],
+	"name": "Mike Tyson Heavyweight Boxing",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mike-tyson-heavyweight-boxing",
+			"score": 33,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mike Tyson Boxing proves that one of history's oldest sports is also one of its bloodiest. The game allows boxers to deliver intense pain to their opponents with 600 brutal power punches, illegal moves, signature blows, and combos. As one of the game's professional pugilists, or your own customized fighter, you'll work your way through the bronze and silver ranks for a one-on-one meeting with Mike Tyson. Bring the big fight home in such venues as Carnival City, Ceasars Palace, and Wembley Arena."
+}

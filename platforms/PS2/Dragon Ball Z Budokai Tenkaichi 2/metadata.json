@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spike"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Budokai Tenkaichi 2",
+	"publishers": [
+		"Bandai|Namco Bandai Games (JP)",
+		"Bandai (KO)",
+		"Atari (EU, US, AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dragon-ball-z-budokai-tenkaichi-2",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Combining action, fighting and light role-playing game (RPG) elements, Dragon Ball Z: Budokai Tenkaichi 2 will send players into a rich story mode that spans the entire Dragon Ball, DBZ, and Dragon Ball GT series. The game takes the acrobatic and intense 3D flying and fighting dynamic made popular in last year's hit and takes it to a whole new level with over 100 playable characters, 15 vast and vibrant 3D destructible environments, and nine different game modes, including intense single and multiplayer battles."
+}

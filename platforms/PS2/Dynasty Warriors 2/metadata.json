@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 2",
+	"publishers": ["Koei (JP, US)", "THQ (EU)", "Koei|Koei Tecmo Games (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/197193-dynasty-warriors-2/index.html",
+			"score": 72,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-2",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Romance of the Three Kingdoms comes to life in Dynasty Warriors 2. As a general in second-century China, you must lead your troops into epic battles against thousands of warriors. On horseback or on foot, you'll use various weapons and combo attacks to forge a path into enemy lines and scatter all who dare stand in your path. Strategic planning is key to victory, as enemies can attack from all sides and when you least expect it."
+}

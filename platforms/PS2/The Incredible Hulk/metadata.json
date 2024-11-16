@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Edge of Reality"],
+	"genres": ["Action"],
+	"name": "The Incredible Hulk",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/944980-the-incredible-hulk/index.html",
+			"score": 51,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-incredible-hulk",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fast-paced and action-packed, the blockbuster franchise and comic book saga unfolds for the first time on next-generation platforms, as Banner scours the planet trying to find anything to help him fight his involuntary rage. Take the role of one of Marvel's most powerful Super Heroes in The Incredible Hulk, a third-person action video game. Gamers can demolish anything in their path, including lampposts, passing cars and even buildings. The fury-fueled game also features key moments from the film, as well as additional plotlines and characters from The Incredible Hulk universe. Players crash through New York City, battling gigantic enemies amidst soaring skyscrapers in a massive open world."
+}

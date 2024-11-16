@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team Soho"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Getaway",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-getaway",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Getaway follows the story of two men from opposite sides of the law, who share an obsession of bringing down London's crime supremo. You'll play Mark Hammond (an ex-bank robber on the run for murdering his wife and kidnapping his child) and Frank Carter (a vigilante cop who was suspended from the Flying Squad) in multiple storylines set in London. Within the city's winding streets, indoor environments, and dangerous street corners, you must search for the manipulative crime boss and finally clear your name."
+}

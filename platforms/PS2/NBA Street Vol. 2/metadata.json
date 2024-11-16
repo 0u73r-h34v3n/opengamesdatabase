@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Sports"],
+	"name": "NBA Street Vol. 2",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-street-vol-2",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Basketball returns to the streets in NBA Street Vol. 2, featuring more players, electrifying moves, and online multiplayer battles.  Defeat the best players in the game today and even bring legends such as Dr. J, Magic, Bird, Wilt, and Moses out of retirement for some on-court brawling.  NBA Street Vol. 2 features all-new spectacular dunks, dribbles, and passes that'll take show-stopping Gamebreakers to the next level.  You can take your game against computer opponents or friends, or play with up to three other players online.  Are you good enough to rule the streets?"
+}

@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treasure"],
+	"genres": ["Action", "Adventure"],
+	"name": "Stretch Panic",
+	"publishers": [
+		"Swing! Deutschland (EU)",
+		"Conspiracy Entertainment (US)",
+		"Kadokawa (JP)",
+		"Midas Interactive Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/016/016162.html",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/stretch-panic",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the award-winning developers Treasure (creators of Gunstar Heroes, Dynamite Heady, Mischief Makers, Bagai-O) comes Stretch Panic, a dark comic fantasy that takes you for a trip on an entirely new gaming experience! Join Linda as she journeys through Limbo and the Museum of Agony to save her 12 possessed sisters from the clutches of the demons of vanity! Armed with only a possessed scarf, it's up to you to rescue your siblings!"
+}

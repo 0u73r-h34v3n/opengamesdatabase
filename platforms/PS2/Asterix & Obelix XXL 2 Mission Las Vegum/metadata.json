@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Etranges Libellules"],
+	"genres": ["Action", "Platformer"],
+	"name": "Asterix & Obelix XXL 2: Mission: Las Vegum",
+	"publishers": ["Atari"],
+	"regions": ["PAL"],
+	"synopsis": "Several druids are kidnapped by the Romans and it seems that Getafix has something to do with it. Asterix & Obelix travel to Rome only to find out that Caesar has built a huge amusement park called \"Las Vegum\" in which he holds the druids captive."
+}

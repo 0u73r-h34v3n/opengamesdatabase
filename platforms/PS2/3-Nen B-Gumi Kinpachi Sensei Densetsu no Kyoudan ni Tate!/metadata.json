@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ChunSoft"],
+	"genres": ["RPG", "Visual Novel"],
+	"name": "3-Nen B-Gumi Kinpachi Sensei: Densetsu no Kyoudan ni Tate!",
+	"publishers": ["ChunSoft"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''3-Nen B-Gumi Kinpachi Sensei: Densetsu no Kyoudan ni Tate!'' is a \"role-playing drama\" that is based on the long running television drama ''3-nen B-gumi Kinpachi-sensei'' about a teacher named Kinpachi Sakamoto who helps his students through their educational and personal struggles."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action", "Adventure"],
+	"name": "7 Blades",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/7-blades/ps2-15185",
+			"score": 7.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "7 Blades is a third-person action-game sequel to the 1990 film [https://www.imdb.com/title/tt0104559/ Zipang] directed by Kaizo Hayashi. The player can choose from two different characters: the womanizing mercenary Gokurakumaru, who uses a variety of swords; and his lover Oyuri, who wields pistols, rifles, and other types of firearms. Each character has their own storyline, which intertwine at various points, and plays very differently by the nature of their weaponry. The game is broken into stages, which each have a specific goal, such as to reach a certain point, defeat all the enemies, or protect another character."
+}

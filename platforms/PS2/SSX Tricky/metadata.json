@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "SSX Tricky",
+	"publishers": [
+		"Electronic Arts|EA Sports Big (US)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/11/07/ssx-tricky-8",
+			"score": 9.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ssx-tricky",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SSX Tricky launches you into a world of monster air, intense tracks, and death-defying tricks. Six all-new competitors plus six riders from the original SSX make up the circuit. Compete in the World Circuit, go head-to-head in the Showoff versions of nine courses on the World Circuit, or just practice in Free Ride. With all-new Garibaldi and Valdez courses, you'll have plenty of huge cliff drops to catch big air and pull off Uber tricks."
+}

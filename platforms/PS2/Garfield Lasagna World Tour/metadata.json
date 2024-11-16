@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eko Software"],
+	"genres": ["Action"],
+	"name": "Garfield: Lasagna World Tour",
+	"publishers": [
+		"Blast! Entertainment|Blast! Entertainment Ltd (EU)",
+		"Conspiracy Entertainment (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/garfield-lasagna-world-tour",
+			"score": 29,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Garfield: Lasagna World Tour for the PlayStation 2 challenges players to jump into the world of the comic cat in a quest to win the Lasagna World Tour - dressing up Garfield in a variety of humorous costumes (each granting him special powers) while playing a variety of mini-games that everyone in the family can enjoy in single- and multiplayer modes."
+}

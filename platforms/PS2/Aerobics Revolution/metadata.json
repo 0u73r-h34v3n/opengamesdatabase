@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Aerobics Revolution",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Fitness software aimed at women, using the DanceDanceRevolution mat as way to do several exercises."
+}

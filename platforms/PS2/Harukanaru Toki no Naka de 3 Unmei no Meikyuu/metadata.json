@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RPG", "Visual Novel", "Simulation"],
+	"name": "Harukanaru Toki no Naka de 3: Unmei no Meikyuu",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A gaiden game, and canonical sequel to, [[Harukanaru Toki no Naka de 3]]. The Genpei War ends with a peace treaty, and the main characters have defeated an arcane evil within the modern world. The protagonist's winter break can still be celebrated through the power of time traveling. Yet she begins to experience sudden memory loss, and Hakuryu is too weak to return to the parallel world due to a magically erected labyrinth. Wishing to restore everything and everyone to their proper form, the protagonist and her comrades seek to unravel the maze's secrets. Offers a shorter experience with 8 chapters."
+}

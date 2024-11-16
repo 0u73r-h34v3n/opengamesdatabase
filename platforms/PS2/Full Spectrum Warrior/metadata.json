@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["RTS"],
+	"name": "Full Spectrum Warrior",
+	"publishers": [
+		"THQ (US, EU, KO)",
+		"Sega (JP)",
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/full-spectrum-warrior",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Full Spectrum Warrior is based on a game commissioned by the US Army to train light infantry troops in urban combat situations. The game places soldiers in a tense, hostile, and claustrophobic environment where they must complete a variety of military objectives. As the squad leader, you are in charge of providing direction to Alpha and Bravo fire teams. The successful Squad Leader effectively uses cover in the environment and moves his fire teams in a coordinated fashion so they can protect themselves from possible attacks that could come from any direction."
+}

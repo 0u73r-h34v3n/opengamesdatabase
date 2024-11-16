@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Fighting", "Arcade", "Compilation"],
+	"name": "Fatal Fury: Battle Archives Volume 2",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/935219-fatal-fury-battle-archives-volume-2/index.html",
+			"score": 71,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fatal-fury-battle-archives-volume-2",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A collection of 3 games (on one disc) from one of SNK's most popular fighting game series FATAL FURY. The titles included are:  [https://en.wikipedia.org/wiki/Real_Bout_Fatal_Fury Real Bout Fatal Fury], [https://en.wikipedia.org/wiki/Real_Bout_Fatal_Fury_Special Real Bout Fatal Fury Special] and [https://en.wikipedia.org/wiki/Real_Bout_Fatal_Fury_2:_The_Newcomers Real Bout Fatal Fury 2: The Newcomers].  The games are known for their hand-drawn animation and character designs containing visual flair and personality with 2D gameplay that is fast, furious and addictive."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["RPG"],
+	"name": "Tales of Destiny 2",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/561922-tales-of-destiny-2/index.html",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Tales of Destiny 2'' is a direct sequel to [[Tales of Destiny]] and takes place 18 years after the exploits of Stahn and Co. You take control of Stahn and Rutee's son Kyle in his quest to become a \"real hero\". Don't be fooled by its decidedly run of the mill beginnings though. The scope of that story that ToD2 tackles is as large as Phantasia's and poses a very theological question to its players."
+}

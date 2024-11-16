@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Silmarils"],
+	"genres": ["Action", "Platformer"],
+	"name": "Inspector Gadget: Mad Robots Invasion",
+	"publishers": ["LSP"],
+	"regions": ["PAL"],
+	"synopsis": "Dr. Claw is at it again? Now he dreams of a world completely ruled by robots. For years, he has been working with his entire team of technicians to program super powerful, invincible robots with highly developed artificial intelligence."
+}

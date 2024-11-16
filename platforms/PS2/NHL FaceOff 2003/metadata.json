@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NHL FaceOff 2003",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-faceoff-2003",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The NHL FaceOff franchise returns with more than 1,000 new animations, emotional players, and livelier arenas. NHL FaceOff 2003 combines new skater and goaltender animations with fast-paced NHL action. Now you can witness a new level of emotion and intensity through pregame warm-ups, walks through the tunnel, banters from the penalty box, postgame celebrations, and more. Play as or against your favorite NHL team and player in arenas that come to life with animated crowds, team chants, and arena jumbotrons."
+}

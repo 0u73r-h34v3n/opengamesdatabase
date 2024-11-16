@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Visual Novel"],
+	"name": "Futakoi Alternative",
+	"publishers": ["Marvelous Entertainment"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Futakoi Alternative tells the story of Rentarō Futaba and his detective agency. One day a set of twins, Sara and Sōju, show up at his doorstep. They move in with him and work as secretaries for his agency."
+}

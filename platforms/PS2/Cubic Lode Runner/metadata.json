@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hudson|Hudson Soft"],
+	"genres": ["Puzzle"],
+	"name": "Cubic Lode Runner",
+	"publishers": ["Hudson"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Lode Runner is a classic platform game that first saw the light of day in 1981 for the Apple ][. Cubic Lode Runner adds the 3rd dimension to the game, allowing the player to dig holes in all 4 directions instead of left/right only. The level can now rotate via the R1/L1 buttons. The game includes a level editor, similar to the 8bit original. "
+}

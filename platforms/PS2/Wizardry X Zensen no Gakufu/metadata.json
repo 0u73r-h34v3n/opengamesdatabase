@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["MichaelSoft"],
+	"genres": ["RPG"],
+	"name": "Wizardry X: Zensen no Gakufu",
+	"publishers": ["MichaelSoft"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Wizardry X: Zensen no Gakufu is a spin-off of the popular ''Wizardry'' series and a prequel to [[Wizardry X 2: Mugen no Gakuto]]. Wizardry X is the first in the series of school RPGs produced by MichaelSoft. Includes the staple of the Wizardry series: randomly generated dungeons. Also included are monsters with tens of thousands of patterns, all with changing levels and attributes, as well as 600 new items and elements to discover."
+}

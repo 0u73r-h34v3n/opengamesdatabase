@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["PuzzleKings"],
+	"genres": ["Puzzle"],
+	"name": "ZooCube",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "MobyGames",
+			"url": "https://www.mobygames.com/game/8274/zoocube/reviews/",
+			"score": 4,
+			"max_score": 5
+		}
+	],
+	"synopsis": "In ZooCube, players score points by matching animal heads that fall towards the faces of a rotatable cube. The player also needs to make matches quickly so that heads don't build up too much on the cube which can cause the player to lose, in a similar fashion to Tetris. Along the way, the player can acquire power-ups which can help the player in various way or hinder an opponent in multiplayer mode."
+}

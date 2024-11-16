@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["The Code Monkeys"],
+	"genres": ["Sports"],
+	"name": "The Simpsons Skateboarding",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/017/017277.html",
+			"score": 2.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-simpsons-skateboarding",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In The Simpsons Skateboarding, Bart's not the only one on the skateboarding scene. The Annual Skate Tour has come to Springfield, and the entire town has gone skate-crazy for halfpipes, ramps, and rails. In five game modes, you can choose from eight unlockable characters (each with 40 unique moves) to skate on or around various Springfield landmarks, characters, and objects. All the grinding, tricks, and competitive action from your favorite skating games are now in the wacky world of The Simpsons."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Action", "Fighting"],
+	"name": "Gauntlet Dark Legacy",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/gauntlet-dark-legacy/ps2-14940",
+			"score": 6.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gauntlet-dark-legacy",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gauntlet's hack-and-slash gameplay continues in Gauntlet: Dark Legacy. You and up to three of your friends must work as a team through eight dangerous worlds. As one of eight different characters, you'll vanquish creatures, evade traps, and search for treasure. Character-based power attacks, magic potions, new power-ups, and combination moves add to the mayhem. The game save system allows players to transfer evolving characters from their own machine to a friend's to take on the dungeon together."
+}

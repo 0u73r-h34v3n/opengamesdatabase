@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["RPG"],
+	"name": "Graffiti Kingdom",
+	"publishers": [
+		"Taito Corporation (JP)",
+		"505 Game Street (EU)",
+		"Hot-B (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/graffiti-kingdom",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Graffiti Kingdom is the sequel to Magic Pengel, an action adventure game developed by Taito. In the game, you play as a prince who must use his magic wand to save his parents and his home. Use the in-game drawing tools to transform your character into three different creatures at anytime, turn 2D shapes into 3D objects, and pull off a variety of special attacks."
+}

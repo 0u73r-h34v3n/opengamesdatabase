@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["2K|2K Sports"],
+	"genres": ["Sports"],
+	"name": "Major League Baseball 2K9",
+	"publishers": ["2K|2K Sports (US)", "Spike (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/major-league-baseball-2k9",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "While attending the University of Washington, MLB 2K9's cover athlete Tim Lincecum won the coveted Golden Spikes Award which is given to the nation's top college baseball player. He was drafted 10th overall by the San Francisco Giants in 2006. Known to fans as \"The Franchise\" and \"The Freak\", Lincecum was named to the National League All-Star team this past season while putting up astonishing numbers and leading the Majors with a remarkable 265 strikeouts. Lincecum also led the National League in other key pitching categories including win percentage (18-5, .783), opponent's batting average (.221), and strikeouts per nine innings (10.51), along with ranking second in earned run average (2.62). For all of his historic accomplishments, Lincecum won the Players' Choice Award as the National League Outstanding Pitcher this season, along with the National League Pitcher of the Year Award from Sporting News. Both awards were voted on by his peers. More significantly, Lincecum today was named the National League Cy Young Award winner, given annually to the top pitcher in both the American League and the National League, and voted on by members of the Baseball Writers' Association of America."
+}

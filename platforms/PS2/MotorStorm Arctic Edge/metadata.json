@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Virtuos"],
+	"genres": ["Racing"],
+	"name": "MotorStorm Arctic Edge",
+	"publishers": ["Sony|SCE Australia (AU)", "Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/motorstorm-arctic-edge",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MotorStorm's breakneck racing festival moves to the unpredictable terrains and harsh temperatures of Alaska. In true MotorStorm style, players will throw traditional offroad driving and caution to the wind where the ultimate goal in the festival is to not only win, but to survive. Lunatics must race against vicious opponents in arctic conditions and deal with the dangerous Alaskan terrain featuring sudden avalanches, broken ice bridges and three different, and completely unforgiving, racing altitudes."
+}

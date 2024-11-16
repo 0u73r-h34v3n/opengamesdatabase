@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Racing"],
+	"name": "NASCAR 09",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/945384-nascar-09/index.html",
+			"score": 64,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-09",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The road to victory begins with Jeff Gordon as he guides you through an all-new \"Chase for the NASCAR Sprint Cup\" Career Mode on a completely-revamped 3D menu interface. With Jeff's help you can sign big-time contracts, build your reputation and earn valuable performance points by dominating in the NASCAR Craftsman Truck Series, the NASCAR Nationwide Series and the NASCAR Sprint Cup Series. Two new and entirely distinct handling models let you play NASCAR 09 at your speed. Forgiving \"Normal\" mode is perfect for getting a handle on the game, while \"Pro\" mode delivers the authentic, white-knuckle NASCAR racing experience. Own the Track lets you compete against your friends and other gamers at all of hte Sprint Cup Series venues. Every racer's stats are compiled and the best driver at each track is named for the ultimate in bragging rights."
+}

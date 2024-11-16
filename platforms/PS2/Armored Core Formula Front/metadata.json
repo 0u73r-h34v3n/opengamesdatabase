@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action", "Strategy"],
+	"name": "Armored Core: Formula Front",
+	"publishers": ["From Software (JP)", "Agetec (US)", "WizardSoft (Korea)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This special edition has everything that Armored Core fans love, including mech customization and intense action. New features such as wireless head-to-head action and artificial intelligence (AI) designing combine strategy and action like never before! Building an unstoppable warrior to annihilate the competition has never been so much fun."
+}

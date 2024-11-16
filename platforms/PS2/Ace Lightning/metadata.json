@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gamezlab"],
+	"genres": ["Action"],
+	"name": "Ace Lightning",
+	"publishers": ["BBC Multimedia"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "IGN User score",
+			"url": "http://www.ign.com/games/ace-lightning/ps2-1219",
+			"score": 2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Based on the BBC Tv show by the same name"
+}

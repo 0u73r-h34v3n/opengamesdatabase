@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jack of All Games"],
+	"genres": ["Board"],
+	"name": "Ultimate Board Game Collection",
+	"publishers": [
+		"Valcon Games (US)",
+		"Empire Interactive (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ultimate-board-game-collection",
+			"score": 37,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Board Game Classics for the PlayStation 2 is a collection of traditional board and table games that are familiar and have been played by millions of families worldwide. The games have been chosen for their familiarity and appeal to players of all ages. The video game features 20 classic board and dice games, complete with rules introduction and historic background. Games such as Parcheesi and Naval Battle have animated boards and pieces. It's fun for the whole family with Board Game Classics!"
+}

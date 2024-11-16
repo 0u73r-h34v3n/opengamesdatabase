@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Relentless Software"],
+	"genres": ["Trivia"],
+	"name": "Buzz! The Music Quiz",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"synopsis": "A music trivia game which includes four bespoke buzzers which light up and plug into one of the PS2's USB ports."
+}

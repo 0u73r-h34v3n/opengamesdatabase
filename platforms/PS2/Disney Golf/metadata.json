@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["T&E Soft"],
+	"genres": ["Sports"],
+	"name": "Disney Golf",
+	"publishers": [
+		"Capcom (JP)",
+		"Electronic Arts|EA Games (US)",
+		"Electronic Arts (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disney-golf",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Who needs Tigger when you've got such an adorable mouse to take his place? Mickey, Donald, Minnie, Goofy, and other Disney favorites hit the links in this rollicking golf game. The game's six 3D courses include a tropical paradise, the desert, the sky, and others. Try your hand at Match Play, Stroke Play, Skins, or Best Ball-each mode bringing with it unique obstacles and challenges. Younger gamers will appreciate the inclusion of a simplified, two-button version of the control scheme."
+}

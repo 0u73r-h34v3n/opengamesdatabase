@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "ESPN Winter X-Games Snowboarding",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-winter-x-games-snowboarding",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN X Games-Snowboarding challenges players to test their skills in a variety of events and courses.  The game captures the realism of the sport with authentic ESPN graphics and stats of the biggest names in the sport."
+}

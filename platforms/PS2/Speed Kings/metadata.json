@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "Speed Kings",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/speed-kings",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It will take nerves of steel and lightning-fast reflexes to make your way through the crowded streets of Speed Kings. In the world of street motorcycle racing, you'll weave through traffic, pull off flashy stunts, run from police, and race to the finish line. Your high-performance bikes--including sport, road, touring, and custom models--each have their own type of handling and top speeds. Perform jumps, power-downs, skids, wheelies, and stoppies, but be careful--failed attempts at these tricks result in real-time damage to both bike and rider."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cavia|Cavia Inc."],
+	"genres": ["Action", "Fighting"],
+	"name": "Beat Down: Fists of Vengeance",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/beat-down-fists-of-vengeance",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Beat Down: Fists of Vengeance lets you play as one of five fugitives seeking revenge against their enemies. To survive in the dangerous underworld of Las Sombras, you must find allies, earn money, and prove yourself in street battles."
+}

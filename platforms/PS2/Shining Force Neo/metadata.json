@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neverland"],
+	"genres": ["Action", "RPG"],
+	"name": "Shining Force Neo",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shining-force-neo",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "New fast-paced gameplay takes the classic Shining Force franchise in a bold new direction. Shining Force Neo is an Action RPG featuring a dramatic, character-driven story and a high gloss anime aesthetic. Real-time combat creates a deeper sense of personal involvement in battles, and the presence of more than 90 enemies on screen at once ratchets up the grand scale that the Shining Force games are known for."
+}

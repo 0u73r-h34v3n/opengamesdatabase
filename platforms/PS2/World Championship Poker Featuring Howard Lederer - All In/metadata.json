@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Gambling"],
+	"name": "World Championship Poker: Featuring Howard Lederer - All In",
+	"publishers": ["Crave (US)", "Oxygen Interactive (EU)", "505 Games (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-championship-poker-featuring-howard-lederer---all-in",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All In features some of the most recognizable and successful poker stars in the world, including Howard Lederer, his sister Annie Duke, Greg Raymer, Amir Vahidi, Paul Darden, and Robert Williamson III. Joining the roster for this year's edition are noted international poker superstars Marcel Luske, Thomas Bihl, and Erin Ness, who parlayed a victory at a Maxim Magazine office tournament into a seat at the 2004 World Series of Poker. Features 18 types of poker, including Texas Hold'em, Five Card Draw, Seven Card Stud Omaha and More. Multi-Table Online Tournaments. Scenario Mode: Players are presented with a series of poker \"puzzle\" challenges that gradually increase in difficulty. Lucky Charms: Players can improve their luck through this Career Mode skill. Mixed Games: Play two or more variations of poker during a single game, with the game changing every time the dealer button makes it around the table."
+}

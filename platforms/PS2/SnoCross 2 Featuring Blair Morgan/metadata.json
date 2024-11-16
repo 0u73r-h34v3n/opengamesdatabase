@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Racing"],
+	"name": "SnoCross 2: Featuring Blair Morgan",
+	"publishers": ["Oxygen Interactive (AU, EU)", "Crave (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/snocross-2-featuring-blair-morgan",
+			"score": 37,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Offering the most realistic experience in snowmobile racing, SnoCross 2 features three-time Winter X Games gold winner \"Air\" Blair Morgan, the most dominant and influential rider in the history of snocross. Punch the throttle and hang on as you blast some insane terrain and push your sled to the limit on serious whoop sections and awesome hills."
+}

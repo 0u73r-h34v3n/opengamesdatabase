@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Toys for Bob"],
+	"genres": ["Sports"],
+	"name": "Disney's Extreme Skate Adventure",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/499/499466.html",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disneys-extreme-skate-adventure",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Disney characters step out of the movies and onto skateboards in Disney's Extreme Skate Adventure. You can play as your favorite Disney and Pixar characters, such as Buzz Lightyear and Woody from Toy Story 2, Simba and Rafiki from The Lion King, and Young Tarzan and Terk from Tarzan. Now you can skate, pull off tricks, and solve puzzles in all the exciting places you've seen in the movies, including Pride Rock, the Jungle Treehouse, and Pizza Planet."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["h.a.n.d.|h.a.n.d. Inc."],
+	"genres": ["Action", "Fighting"],
+	"name": "One Piece: Pirates' Carnival",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/one-piece-pirates-carnival/reviews/",
+			"score": 5.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/one-piece-pirates-carnival",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Different from the previous One Piece games, Pirates Carnival is a party game featuring over forty mini games. The mini games feature simple controls and promise to recreate well-known scenes from the original One Piece body of work. The game features support for four players, with some games featuring split screen play and others placing all four players in the same area."
+}

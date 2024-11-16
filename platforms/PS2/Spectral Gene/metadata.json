@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idea Factory"],
+	"genres": ["RPG", "Turn-based strategy"],
+	"name": "Spectral Gene",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Spectral Gene is another installment in Idea Factory's ''Spectral'' series. Find even more characters to recruit and several new game mechanics."
+}

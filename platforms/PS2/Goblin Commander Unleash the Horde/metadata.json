@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jaleco Entertainment"],
+	"genres": ["RTS"],
+	"name": "Goblin Commander: Unleash the Horde",
+	"publishers": ["Jaleco Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/goblin-commander-unleash-the-horde",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Goblin Commander: Unleash the Horde calls upon your skill and courage to destroy the enemy, pillage the enclaves, and scorch the earth. With a horde of specialized goblin warriors at your command, you can wage war in single-player and multiplayer modes. Design a custom army from over 25 different goblins with melee, ranged, elemental, acid, and magical combat specialties. You can even take direct control of giant titans, powerful turrets, and battle-ready vehicles to cause reckless mayhem across the lands."
+}

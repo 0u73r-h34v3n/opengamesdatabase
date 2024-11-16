@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Immersive Games"],
+	"genres": ["Action", "Fighting"],
+	"name": "Chandragupta: Warrior Prince",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"synopsis": "Chandragupta: Warrior Prince is a 3D action game based on historical events. The game is set in 323 B.C in Ancient India and tells the story of the warrior prince Chandragupta, the Emperor of the Mauryan Empire and the first to unite the territory of what is now known as India."
+}

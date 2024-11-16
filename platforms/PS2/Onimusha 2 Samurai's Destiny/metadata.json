@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Onimusha 2: Samurai's Destiny",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_onimusha2_ps2",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/onimusha-2-samurais-destiny/",
+			"score": 7.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/onimusha-2-samurais-destiny",
+			"score": 84,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2002/08/26/onimusha-2-samurais-destiny",
+			"score": 8.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The sequel to Onimusha takes place ten years after the lone swordsman Samanosuke rose up against an army of demon warriors.  As Nobunaga's evil campaign continues to wreak havoc across feudal Japan you must assume the role of a young warrior: Jubei Yagyu, as he embarks on an epic and magical adventure of vengeance.  Earn the respect of confidants along the way to help Jubei battle demons and monstrous bosses, overcome ingenious puzzles and defeat Nobunaga's pillaging hordes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Action"],
+	"name": "EyeToy: Play 2",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEI (JP)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-play-2",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EyeToy: Play 2&trade; is the amazingly addicting sequel to the groundbreaking original EyeToy: Play&trade;!  Experience 12 all new crazy games and 75 bonus games as you block soccer balls, hit homeruns and battle it out for the table tennis crown. Build burgers, chop potatoes, and mash tomatoes as you vie to be the Master Chef. Star in your own kung-fu flick as you battle kung-fu warriors, ninjas and ancient monsters. Catch intruders with the \"SpyToy\" hidden camera feature and use EyeToy&trade;: Cameo to create interactive 3-D models. With EyeToy: Play 2&trade;, you, your friends and family can all get up and get moving!"
+}

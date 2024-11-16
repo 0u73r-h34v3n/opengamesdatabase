@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Light Weight"],
+	"genres": ["Action", "Fighting"],
+	"name": "Kengo: Master of Bushido",
+	"publishers": ["Genki (JP)", "Crave (US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kengo-master-of-bushido",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The mind is a powerful weapon. So is the sword. When combined, they create the ultimate force. To be a Samurai master, you must silence one and make fierce the other. The rhythm of battle awaits you. Now, go young apprentice, and earn your glory."
+}

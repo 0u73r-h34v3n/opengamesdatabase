@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bugbear"],
+	"genres": ["Racing"],
+	"name": "FlatOut",
+	"publishers": ["Empire Interactive (EU, US)", "Konami (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/flatout",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready to race one of 16 upgradeable cars on 45 challenging tracks. Each environment in FlatOut is fully destructible, so you'll see all the damage you cause in broken fences, free-rolling trees, and mangled car parts; not to mention your own vehicle. A championship mode lets you battle through a wide variety of races, minigames, and destruction arenas. The game also features online and multiplayer modes, which let you challenge your close friends or the best racers in the world."
+}

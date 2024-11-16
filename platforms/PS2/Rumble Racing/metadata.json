@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Racing"],
+	"name": "Rumble Racing",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/rumble-racing/ps2-15894",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rumble-racing",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get that turtle out of your tank and take those training wheels off your hot rod--this is Rumble Racing, and it ain't for pussy-footers who're scared of the gas pedal. This is stunt-busting, air-popping, nitro-burning, rubber-rashing, engine-firing racing action on some of the wildest tracks you've ever seen. 35 tweaked-out muscle cars are in your garage, ready to guzzle some gas and run rowdy on dozens of insane tracks filled with ramps, dips, jumps, switch courses, break-away secrets, and everything else that might be there in to muck around in. Bust stunts to build your speed, and juice your caboose with blasting power-ups. You'll get giddy in the altitudes with all the air you get off this racer!"
+}

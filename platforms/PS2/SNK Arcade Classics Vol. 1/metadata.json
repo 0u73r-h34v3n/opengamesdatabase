@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Compilation", "Arcade"],
+	"name": "SNK Arcade Classics Vol. 1",
+	"publishers": ["SNK Playmore (US, KO)", "Ignition Entertainment (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/snk-arcade-classics-vol-1",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Celebrate the history of SNK with the ultimate collection of arcade classic hits. 16 NeoGeo games on one disc, featuring Art of Fighting, Baseball Stars 2, Burning Fight, Fatal Fury, KOF94, King of the Monsters, Last Resort, Magician Lord, Metal Slug, Neo Turf Masters, Samurai Shodown, Sengoku, Shock Troopers, Super SIdekicks3, Top Hunter, World Heroes."
+}

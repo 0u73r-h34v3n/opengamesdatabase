@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Broadsword Interactive"],
+	"genres": ["Action"],
+	"name": "Move2play",
+	"publishers": ["Europress"],
+	"regions": ["PAL"],
+	"synopsis": "The game is a collection of 12 carnival-style minigames for use with EyeToy. "
+}

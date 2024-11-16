@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Fighting", "Compilation"],
+	"name": "Vampire: Darkstalkers Collection",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/darkstalkers-3/ps2-734223",
+			"score": 8.6,
+			"max_score": null
+		}
+	],
+	"synopsis": "This compilation includes the following classical fighting games:"
+}

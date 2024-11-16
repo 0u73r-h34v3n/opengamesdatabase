@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Fighting"],
+	"name": "Disney's PK: Out of the Shadows",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disneys-pk-out-of-the-shadows",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the sci-fi world of Disney's PK - the superhero alter-ego of Donald Duck!  Armed with his mega cyber-weapon, you'll battle an invasion force of evil Evronian aliens, and discover an arsenal of futuristic firepower and gadgets.  When evil casts its shadow, PK blasts into cyber-action!"
+}

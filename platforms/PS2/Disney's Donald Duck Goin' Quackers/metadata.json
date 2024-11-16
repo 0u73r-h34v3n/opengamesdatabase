@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Disney Interactive Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "Disney's Donald Duck: Goin' Quackers",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disneys-donald-duck-goin-quackers",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2000/12/19/disneys-donald-duck-goin-quackers",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/donald-duck-goin-quackers-review/1900-2861728/",
+			"score": 6.2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Goin' Quackers's gameplay is very similar to that of Crash Bandicoot, and requires the player to move through various settings in 24 levels in four warp rooms. The four level themes are Duckie Mountain, Duckburg, Magica DeSpell's Manor, and Merlock's Temple. Donald Duck has to dodge various enemies and obstacles throughout the levels and defeat bosses at the end of each warp room. There are also bonus levels where Donald Duck has to outrun a bear, a truck with an evil face, a ghost hand, and a statue head, respectively. The viewpoint of the levels can change between a 2D side-scrolling perspective and a 3D perspective. Re-doing the levels in order to defeat Gladstone's time in same, gives the player advantages in the game."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Illusions"],
+	"genres": ["Action", "Adventure"],
+	"name": "Pryzm Chapter One: The Dark Unicorn",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pryzm-chapter-one-the-dark-unicorn",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Can you save the world from a corrupting plague of dark magic? As the once lush lands of the world turn barren and its inhabitants become hostile mutants, you must join the quest of a unique young unicorn and a tenacious old troll in a desperate bid to find and destroy the source of the curse. As you journey throughout eerie lands, you'll cast spells against bizarre enemies and huge bosses, explore four expansive levels, and restore lands and inhabitants to health."
+}

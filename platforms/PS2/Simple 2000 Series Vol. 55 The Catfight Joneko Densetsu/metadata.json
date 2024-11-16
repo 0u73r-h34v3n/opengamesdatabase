@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Fighting", "Action"],
+	"name": "Simple 2000 Series Vol. 55: The Catfight: Joneko Densetsu",
+	"publishers": ["D3Publisher (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Simple 2000 Series Vol 55: The Catfight (Onna Neko Densetsu or Joneko Densetsu), or simply Fighting Angels in Europe, is an all-bikini-girl fighter which allows you to choose from one of ten characters (one character, boss character, is unlockable) and up to 11 different costumes (9 of which are shared among the different characters). The game plays as a fully 3D arena fighting game which implements common fighter features such as ''basic moves and combos'', ''guard and counter guard system'', ''a \"Sexy\"/\"Love\" meter system which allows an enhanced countering (unleashes a quick counter move automatically after guarding against the move) action and, when full, provides a super move called \"Sexy Dance\" which unleashes a powerful combo.''"
+}

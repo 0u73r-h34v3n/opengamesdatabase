@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Trivia"],
+	"name": "America Oudan Ultra-Quiz",
+	"publishers": ["DigiCube"],
+	"regions": ["NTSC-J"],
+	"synopsis": "America Oudan Ultra Quiz is based on the Japanese TV show of the same name. Like the original show, the game focuses on trivia questions solely related to the United States of America. Areas of knowledge include history, geography, culture, literature, sports, language, and others. The main quiz show takes place in New York and involves questions in random categories. A special travel mode allows the player to visit various locations in the USA, including notable airports, beaches, sports stadiums, and other popular travel destinations. Each of these locations has its own challenges in additional to the trivia questions."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Action", "Adventure"],
+	"name": "Spawn: Armageddon",
+	"publishers": ["Namco (US, JP)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/11/22/spawn-armageddon",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spawn-armageddon",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Spawn: Armageddon, based on Todd McFarlane's creation, is a 3-D action adventure that gives players access to all of Spawn's distinctive abilities, superhuman strength, arsenal of weaponry, Hell Powers, and, of course, his living symbiotic costume.  Caught between the battle of Good vs. Evil, he struggles to break free from the controlling influences of Heaven and Hell."
+}

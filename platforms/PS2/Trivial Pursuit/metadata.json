@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Bright Light"],
+	"genres": ["Board"],
+	"name": "Trivial Pursuit",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/trivial-pursuit",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The console version of Trivial Pursuit brings the party to the living room TV allowing players to customize the experience with several ways to play. Players can connect with friends in classic Trivial Pursuit mode, hone their knowledge with the single player mode, and gather their buddies and bet on their brains with the high stakes mode where every answer counts."
+}

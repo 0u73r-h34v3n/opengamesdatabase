@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA"],
+	"genres": ["Demo"],
+	"name": "Jampack Vol. 15",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Contents:"
+}

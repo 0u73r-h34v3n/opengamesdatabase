@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Armored Core 2",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/armored-core-2",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to Armored Core takes the action to Mars where the Ravens battle for their corporations. In Armored Core 2, you'll enter new battle arenas and challenge more than 45 menacing Armored Core units. Customize your AC unit's 200 parts, including interior equipment and extension packs, and use over-boost propulsion to generate lightning speed. One or two players can go head-to-head in split-screen battles using more than 200 customizable parts that feature interior equipment and extension packs."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradox Development"],
+	"genres": ["Sports"],
+	"name": "Backyard Wrestling 2: There Goes the Neighborhood",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/backyard-wrestling-2-there-goes-the-neighborhood/ps2-661771",
+			"score": 5.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/backyard-wrestling-2-there-goes-the-neighborhood",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Delve deep into the heart of Small Town America, USA, with Backyard Wrestling 2. Backyard Wrestling Inc. has put a million-dollar cash prize on the line for the wrestler who can win the unified BYW championship. Defeating the most hardcore backyard wrestlers is not enough, however, as the lure of \"easy money\" has attracted the attention of professional wrestlers as well. With new submission holds, body damage, and defensive moves, you must prove you have what it takes to destroy every obstacle in your path."
+}

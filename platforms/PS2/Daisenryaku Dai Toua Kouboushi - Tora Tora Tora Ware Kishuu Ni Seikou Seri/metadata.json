@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SystemSoft"],
+	"genres": ["Turn-based strategy"],
+	"name": "Daisenryaku: Dai Toua Kouboushi - Tora Tora Tora Ware Kishuu Ni Seikou Seri",
+	"publishers": ["SystemSoft"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Another installment in the ''Daisenryaku'' series. ''Daisenryaku'' is a popular World War II turn-based strategy series that allows you to take control of different countries as they vie for power. This installment bring additional battles to the Pacific Ocean, such as Mizo Bridge Battle. There are two campaign scenarios for the Japanese and US military, with more than 130 maps and battles. "
+}

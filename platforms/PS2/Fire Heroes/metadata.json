@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spike"],
+	"genres": ["Action", "Adventure"],
+	"name": "Fire Heroes",
+	"publishers": ["Spike (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "December 24th. St. Alberta's skyline is dominated by the about-to-be-completed Clayton Tower, a 30-floor skyscraper that contains a hotel, an office space, stores and a movie theater. But at 7:32 PM, disaster strikes when an explosion happens, followed by an uncontrollable fire that threatens to spread across the whole building. You'll be able to play as one of three playable characters: Douglas, the captain of Saint Alberta Fire Department's Unit 01, Max, an SAPD officer that happened to be there, and Scott, the building's architect, who was inside the building during the inauguration party. The goal is to control the fire and rescue all the people who were caught inside the building before it falls down."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coresoft"],
+	"genres": ["Sports"],
+	"name": "Deer Hunter",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/deer-hunter",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The deep outdoor hunting series makes its console debut on the PlayStation 2.  Deer Hunter delivers an addictive hunting experience, featuring over 15 in-game animals and an online Tournament Mode for intense competition with up to eight players.  Explore a variety of hunting areas, drive off-road vehicles, and hunt with a wide assortment of realistic weapons.  Deer Hunter also offers added thrills and adventure with two-player split-screen mode for cooperative or competitive play.  Test your skills and strategy in the ultimate hunt."
+}

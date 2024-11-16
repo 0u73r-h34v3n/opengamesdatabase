@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Grasshopper Manufacture"],
+	"genres": ["Action", "Adventure"],
+	"name": "Killer7",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/killer-7/ps2-649600",
+			"score": 7.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/killer7",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Killer 7 chronicles the connection between two men whose intertwined paths develop into a tale of revenge and altering personas. You play as not only one man but also as his seven other personalities in a mission to stop a wave of indiscriminate violence that's plaguing the world. Each of your personalities has unique abilities--including invisibility, extra strength, superhearing, and more--that help you defeat the evil Kun Lan and his crazy soldiers."
+}

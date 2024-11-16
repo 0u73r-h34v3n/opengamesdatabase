@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Games"],
+	"genres": ["RPG"],
+	"name": "The Lord of the Rings: The Third Age",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/the-lord-of-the-rings-the-third-age/ps2-623829",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/the-lord-of-the-rings-the-third-age-review/1900-6112475/",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-lord-of-the-rings-the-third-age",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_lotrthirdage",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In The Lord of the Rings: The Third Age, you can travel in the wake of the Fellowship while exploring your own path and periodically intersecting the major events of the film trilogy. Through both familiar and new locations, you must fight to save or destroy Middle-earth in an epic adventure. Encounter the demonic Balrog in the Mines of Moria, defend the fallen city of Osgiliath, or try to destroy Helm's Deep. These choices and many more will confront you as you align yourself with the people of Middle-earth or undertake missions on behalf of Sauron."
+}

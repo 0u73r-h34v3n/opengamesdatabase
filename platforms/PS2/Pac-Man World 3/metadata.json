@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Pac-Man World 3",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/pac-man-world-3/reviews/",
+			"score": 6.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pac-man-world-3",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The classic gaming character Pac-Man is back for the third iteration of the Pac-Man World series. The game features the classic Pac-Man powers and adds a few new abilities--such as superstomp and electric shock--to assist the yellow-ball-like hero against his ghost foes. You will also be able to take control of two different ghost characters. The game takes place in both 2D and 3D and includes the original Pac-Man arcade game."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Free Radical Design"],
+	"genres": ["Action", "Adventure"],
+	"name": "Second Sight",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/second-sight",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join John Vattic, a man endowed with psychic abilities, as he attempts to escape a US medical facility. As you discover more and more of John's psychic powers, you'll slowly uncover the events that landed him in the hands of the researchers. You'll gain access to a variety of psionic abilities (such as Psi-Blast, Telekinesis, Projection, and Charm) and powerful weapons (including handguns, tranquilizers, and machine guns). Complete your objectives using a combination of shooting action and stealth tactics."
+}

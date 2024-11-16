@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gust"],
+	"genres": ["RPG"],
+	"name": "Atelier Iris 3: Grand Phantasm",
+	"publishers": [
+		"Gust (JP)",
+		"Nippon Ichi Software|NIS America (US)",
+		"THQ (AU)",
+		"Koei (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atelier-iris-3-grand-phantasm",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A long time has passed since the great destruction of the first civilization and now people once again are unlocking the mystery surrounding the dimensional gates and adventuring to unforeseen territory, seeking the magical book of infinite wisdom. With the fast paced ACCB system, battle sequences are ordered by cards that represent the characters' action order. An innovative change for ''Atelier Iris 3'' is the introduction of a symbol encounter system, in which players no longer randomly encounter enemies, but visually confirm and engage them."
+}

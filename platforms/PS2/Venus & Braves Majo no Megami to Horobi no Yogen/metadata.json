@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Turn-based strategy"],
+	"name": "Venus & Braves: Majo no Megami to Horobi no Yogen",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The sequel to Namco's Japanese-only PS2 RPG [[Seven: Molmorth no Kiheitai|Seven: The Calvary of Molmoth]], Venus & Braves tells the story of Blood Boal; a legendary solider who has been resurrected in the year 999 and granted immortality by the goddess Ariah. Charged with a mission to lead his army of 14 soldiers against an evil invading armada of monsters, Blood must prevent the apocalypse before it's too late. Gameplay features include a strategy-oriented battle system, a solider creation mechanic that allows players to customize their grunts, and online head-to-head play."
+}

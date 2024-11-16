@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Celeris"],
+	"genres": ["Sports"],
+	"name": "Virtual Pool: Tournament Edition",
+	"publishers": ["Global Star Software"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Virtual Pool offers 18 different pool games on tables from chic Monte Carlo to a dirty biker bar. Shoot some stick with the most advanced billiards physics ever experienced, as you bank, angle and English the trickiest shots imaginable."
+}

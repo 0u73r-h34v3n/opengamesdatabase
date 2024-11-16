@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Santa Monica"],
+	"genres": ["Racing"],
+	"name": "Kinetica",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kinetica",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Engineered to provide maximum speed and maneuverability. Slip into a kinetic suit and harness the ability to scale walls, execute intricate stunts and reach terminal velocity. Pure speed never looked so good."
+}

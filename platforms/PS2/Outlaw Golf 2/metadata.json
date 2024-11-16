@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hypnotix"],
+	"genres": ["Sports"],
+	"name": "Outlaw Golf 2",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/outlaw-golf-2",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The crude cast of Outlaw Golf is back with new friends, courses, fighting moves, and more. Choose from 11 wild characters--including babes, rappers, and thugs--and take on the challenges from eight courses, ranging from the arctic to the jungle. By playing through the tour and winning events, you can unlock more clubs, balls, and outfits. In addition to tournament mode, the game features match, time attack, and baseball golf modes. Just remember--even if your golf game is off, you can still beat up your opponents, or even your caddy."
+}

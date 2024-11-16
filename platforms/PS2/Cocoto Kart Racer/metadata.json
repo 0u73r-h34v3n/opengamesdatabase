@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Racing"],
+	"name": "Cocoto Kart Racer",
+	"publishers": ["Bigben Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Play Cocoto and his friends in devilish races! Choose among 12 characters and their crazy karts! 4 play modes from 1 to 4 players: championship, simple race, battle and time trial. Beat your opponents with lots of devastating attacks!"
+}

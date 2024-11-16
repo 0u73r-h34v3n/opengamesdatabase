@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Anchor"],
+	"genres": ["Action", "Fighting"],
+	"name": "Pride FC: Fighting Championships",
+	"publishers": ["THQ (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pride-fc",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "No matter what fighting style you prefer--be it Muay Thai, Jiu-Jitsu, wrestling, or kickboxing--Pride FC gives you real fighters with real moves. More than 20 fighters--including Ken Shamrock, Don Frye, Wanderlei Silva, and Royce Gracie--enter the ring for the Pride Fighting Championship. Choose from the best Pride fighters, or create your own warrior, complete with appearance, individual moves, entrance music, characteristics, and style. Victory depends on your mastery of various fighting positions and hundreds of moves."
+}

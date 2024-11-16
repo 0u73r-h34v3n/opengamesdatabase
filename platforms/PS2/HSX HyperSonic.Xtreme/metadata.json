@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blade Interactive"],
+	"genres": ["Racing"],
+	"name": "HSX HyperSonic.Xtreme",
+	"publishers": ["Midas Interactive Entertainment (EU)", "Majesco (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/hsx-hypersonicxtreme/ps2-15831",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hsx-hypersonicxtreme",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "HSX HyperSonic.Xtreme antigravity racing is all about speed. Ten different racers in the game share the same mission--to stay on the track and finish in first place. Of course, there can only be one winner and only those with superior racing skills have a chance at the top spot. To increase your chances, you can collect power-ups that increase speed and regenerate shields. Tear through the tracks in single-player or multiplayer head-to-head modes, or create your own track anywhere in the world."
+}

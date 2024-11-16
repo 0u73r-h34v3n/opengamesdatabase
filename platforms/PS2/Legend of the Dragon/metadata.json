@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Legend of the Dragon",
+	"publishers": ["The Game Factory"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/legend-of-the-dragon",
+			"score": 29,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Yin and Yang; the balance between darkness and light. Ang and Ling twin brother and sister born in the year of the Dragon have a unique destiny. Ang is attracted by the light Ling by the darkness...Ang never dreamed he would be the next Golden Dragon. He always assumed his sister the best fighter of the Dragon Dojo was next in line. Ling deeply humiliated swears to take vengeance on those who betrayed her starting with her brother and their Master. Her hatred leads her into darkness and she becomes the Shadow Dragon. No one can anticipate the twists and turns the entangled lives of our heroes and villains can take. Let the adventure begin..."
+}

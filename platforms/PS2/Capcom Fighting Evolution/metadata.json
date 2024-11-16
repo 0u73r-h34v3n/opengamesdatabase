@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Capcom Fighting Evolution",
+	"publishers": ["Capcom (US, JP, EU, KO)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/capcom-fighting-evolution",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Legendary fighters from five Capcom arcade classics finally meet in one totally cool, totally old-school game! This all-new game lets you choose from characters spanning Street Fighter II, Street Fighter III, Street Fighter Alpha, Darkstalkers and Red Earth, never before released in the U.S."
+}

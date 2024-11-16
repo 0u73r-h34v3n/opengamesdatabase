@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["RPG"],
+	"name": "Magic Pengel: The Quest for Color",
+	"publishers": ["Taito Corporation (JP)", "Agetec (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/06/26/magic-pengel-the-quest-for-color",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/magic-pengel-the-quest-for-color",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Magic Pengel puts you in the role of Doodler and leaves the rest of the casting up to your imagination. Draw your own characters and watch them come alive as active 3D cast members called Doodles. All of your Doodles have powers to help you compete in arenas all across the realm. As you progress in the adventure, you'll earn new colors and parts for your Doodles. Battle it out against a friend in two-player matches to see who can make the greatest Doodle of them all."
+}

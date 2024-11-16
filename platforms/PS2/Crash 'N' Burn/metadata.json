@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "Crash 'N' Burn",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crash-n-burn",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Crash 'N' Burn, your primary objective is to take first place, and your secondary objective is to run everyone else off the road. First, choose your car; and then paint, polish, and personalize it. Take your car to circuits in the back streets of Miami, San Francisco, Los Angeles, and New York and cause major wreckage. You can also compete in multiplayer modes, including last-man-standing and bomb tag, with or against 15 other players online."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Argonaut Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Malice",
+	"publishers": ["Evolved Games (EU)", "Mud Duck Productions (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/06/08/malice-2",
+			"score": 5.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/malice",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fallen demigoddess Malice has to regain her skills and powers and save the universe, all while exacting her revenge on the head-eating Dog God. It won't be easy--the Dog God's Crow Armies constantly try to beat you back to see Death. Plus, you'll have to get past the Dog God's seven lieutenants before you get to confront the terrible monster himself. Your journey takes you through 29 levels filled with dangerous opponents, bizarre challenges, and powerful weapons and magic."
+}

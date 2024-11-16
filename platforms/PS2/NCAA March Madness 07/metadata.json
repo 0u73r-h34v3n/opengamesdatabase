@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-07",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA March Madness 07 delivers an authentic college basketball gameplay experience by offering custom playbooks for each team through the Floor General Playcalling system, the EA SPORTS Lockdown Stick that allows your players to pressure the ball, force turnovers and harass opponents on the court, and an enhanced Dynasty Mode with new School Pride and Recruiting features that let you build your school into a national powerhouse. In addition, the popular voices of college basketball are back with ESPN's Dick Vitale and Brad Nessler calling the action courtside."
+}

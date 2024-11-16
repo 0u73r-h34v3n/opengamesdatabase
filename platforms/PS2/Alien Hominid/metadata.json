@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["The Behemoth"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Alien Hominid",
+	"publishers": ["O3 Entertainment (US)", "Zoo Digital Publishing (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/alien-hominid",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This version of Alien Hominid has been built specifically for consoles and it shows! There are 16 hot levels, complete with mini-bosses and main-bosses. The creators have brought back all your old favorites from the original and thrown in tons more. This game is overflowing with enemies, and they come armed to the teeth!  Have no fear, they've taken the alien's arsenal up a notch! You now have seven power-up weapons, which also upgrade your grenades. There is also a charge shot so you can hold down your button and unleash a giant ball of destruction. You can dig into the ground for defensive measures, then reach up and pull your enemies under. Enemy riding and head biting is still intact, but you can now also flip over an enemy and carry him, or throw him in eight directions!"
+}

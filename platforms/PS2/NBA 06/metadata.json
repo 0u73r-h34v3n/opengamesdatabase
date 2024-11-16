@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA Sports Studio"],
+	"genres": ["Sports"],
+	"name": "NBA 06",
+	"publishers": ["Sony|SCEA Sports Studio"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-06",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA '06 for PSP expands the franchise by featuring numerous gameplay advancements including enhanced Artificial Intelligence (A.I.), shooting mechanics, player animations, and new mini-games to create the most action-packed, realistic basketball experience to date for a portable device. NBA '06 for PSP implements a trading card system where players can take highlight plays captured as virtual cards and keep them as collectibles or share with other gamers. A new ladder challenge is also available, allowing players to compete in a mini-game or exhibition mode series in an attempt to reach the top of the ladder and earn special virtual trading card rewards. Supporting up to two players, either locally via Ad Hoc Mode or nationally via Infrastructure Mode, NBA '06 for PSP offers the opportunity to play a full season with trades, free agent lists, and injuries. For quick gaming action, NBA '06 for PSP introduces two all-new classic schoolyard mini-games, HORSE and Dodgeball, along with returning favorites Paint Mode, PlayStation Skills Challenge, and 3-Point Contest."
+}

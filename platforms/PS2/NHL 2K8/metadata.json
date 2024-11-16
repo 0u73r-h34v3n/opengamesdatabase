@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "NHL 2K8",
+	"publishers": ["Take-Two Interactive (US, EU)", "2K|2K Sports (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2k8",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NHL 2K8 reigns supreme as the category leader in innovation, design and critical acclaim with five straight years as the top-rated NHL video game. In addition to intensely realistic gameplay, all new player models and spectacular graphics, NHL 2K8 will feature an unprecedented level of player customization with accurate body styles for each marquee player, providing the most authentic representation of your favorite NHL stars."
+}

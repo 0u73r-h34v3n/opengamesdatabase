@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montreal"],
+	"genres": ["Action", "Fighting"],
+	"name": "Batman: Rise of Sin Tzu",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/batman-rise-of-sin-tzu",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Batman: Rise of Sin Tzu, Batman faces a new enemy unlike any he has ever faced before.  The faceless foe plunges Gotham City into chaos on the night of the anniversary of Bruce Wayne's parents' murder.  Who is responsible for unleashing havoc on Gotham City?  The truth will be revealed after you battle evil forces and super-villains, including Bane, Clayface, Scarecrow, and the new formidable foe--Sin Tzu.  In addition to Batman's martial arts attacks, Batman has an arsenal including the Batarang, Grappling Hook, and Smoke Bomb."
+}

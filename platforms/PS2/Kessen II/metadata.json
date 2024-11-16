@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RTS"],
+	"name": "Kessen II",
+	"publishers": ["Koei (JP, US)", "THQ (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kessen-ii",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Love and war go hand in hand in Kessen II. The warrior Liu Bei wages war against the leader of the Wei Kingdom, Cao Cao, in an attempt to rescue a woman named Diao Chan. As Liu, you can employ devastating elemental attacks, including tornadoes, lightning strikes, and meteor showers. Command your squad as they besiege castle walls, fight aboard moving ships, and ride onto the battlefield atop horses or elephants. With each battle, you'll soon realize that saving China from Cao Cao's tyranny is just as important as rescuing your lost love."
+}

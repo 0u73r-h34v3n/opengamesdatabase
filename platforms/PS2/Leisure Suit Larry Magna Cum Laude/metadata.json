@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Adventure"],
+	"name": "Leisure Suit Larry: Magna Cum Laude",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/553/553854p1.html",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/leisure-suit-larry-magna-cum-laude",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Larry Cum Laude! College is tough for Larry - between classes, fraternities, and odd jobs there's hardly time for parties and chasing girls. So when a dating show comes to campus, Larry knows that getting on TV is his best chance ever to lay more than groundwork. Can Larry get on TV, get the girl, and not flunk out of college? It's all up to you in Leisure Suit Larry: Magna Cum Laude! Take a break from your conversations in a variety of minigames, including Quarters, Tapper, Trampoline, and Whack-a-mole. Leisure Suit Larry: Magna Cum Laude lets you explore 25 different locations around the college campus and adjoining parts of town. Magna Cum Laude brings back humor from the most respected funny brand on PC - Leisure Suit Larry. "
+}

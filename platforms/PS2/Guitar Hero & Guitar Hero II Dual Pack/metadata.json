@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Collection"],
+	"name": "Guitar Hero & Guitar Hero II Dual Pack",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Guitar Hero gives you all the excitement and thrill of being a rock star without leaving your home!! Guitar Hero features explosively addictive gameplay from the award-winning game developer Harmonix (the creators of Karaoke Revolution and Anti-Grav). Choose from multiple rock characters and jam at concert venues that grow in size as your rock career progresses! You'll start your rock career playing small clubs and bars, but if you play well you'll work your way up to stadiums and arenas."
+}

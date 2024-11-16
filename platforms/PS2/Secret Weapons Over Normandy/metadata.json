@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Totally Games"],
+	"genres": ["Simulation"],
+	"name": "Secret Weapons Over Normandy",
+	"publishers": ["LucasArts (US, EU)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/secret-weapons-over-normandy",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join a secret squad of pilots dedicated to thwarting the most heinous plans of the Third Reich.  In the new WWII action-flyer, Secret Weapons Over Normandy, you will fly over 20 authentic aircraft across 30 daring missions.  Embark on an action-packed and intriguing journey over Europe and other territories.  Engage in air-to-air and air-to-ground battle scenarios as you make your way through the ranks of an elite fighter squadron.  Can you be trusted with the most dangerous secrets of the war?"
+}

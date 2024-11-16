@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWE SmackDown! Here Comes the Pain",
+	"publishers": ["THQ (US, EU, JP)", "Yuke's (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/456/456414p1.html",
+			"score": 9.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/wwe-smackdown!-here-comes-the-pain",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Relive the drama of the WWE in SmackDown!  Here Comes The Pain.  Create, play as and develop your own Superstar through storylines developed exclusively by WWE writers.  Track your progress with seasonal stats, earn money to build up Superstar abilities and unlock hidden elements.  The game also features new match types including Bra & Panty, First Blood and Elimination Chamber."
+}

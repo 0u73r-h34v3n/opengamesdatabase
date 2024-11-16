@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 06",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-06",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Featuring a deeper playbook that covers both ends of the court, NCAA March Madness 06 delivers the ultimate strategic basketball experience. Players can dominate rivals with an authentic brand of defense and push the ball on offense with an enhanced Floor General Playcalling system that features more sets than before. With the all-new EA SPORTS Lockdown Stick, defense creates offense by allowing players to pressure the ball, force turnovers and harass opponents on the court."
+}

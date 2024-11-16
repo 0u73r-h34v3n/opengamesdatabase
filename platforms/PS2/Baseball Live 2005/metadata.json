@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Sports"],
+	"name": "Baseball Live 2005",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Baseball Live 2005 is the successor of Namcos Netsu Chu! Pro games. It features additional game modes and fully licensed temas and players of the japanese 2004 Baseball season.  Namco teamed up with Fuji Television to give the game the look of a real baseball broadcast.  "
+}

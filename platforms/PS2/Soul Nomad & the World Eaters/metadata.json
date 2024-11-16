@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Turn-based strategy"],
+	"name": "Soul Nomad & the World Eaters",
+	"publishers": [
+		"Nippon Ichi Software (JP)",
+		"Nippon Ichi Software|NIS America (US)",
+		"Koei (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2007/10/30/soul-nomad-the-world-eaters-review",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/soul-nomad-the-world-eaters",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gig, the fearsome Master of Death, is back...and he's pissed off! Taking over your body is just the first step on his quest for global domination. It's up to you to rein him in and use his power, along with your band of fellow warriors, to stop the horrific World Eaters from annihilating everything."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["Action", "Racing"],
+	"name": "Choro Q Works",
+	"publishers": ["Atlus"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Choro Q Works lets you play with Takara's Choro Q toy cars. This title has multiple cities in which you use the cars to complete different work-related mini games. There are for example construction work jobs, transportation jobs, farming jobs etc. For each job type you get the appropriate car -- tow trucks, taxis, tractors etc. "
+}

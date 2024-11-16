@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Racing"],
+	"name": "Auto Modellista",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/auto-modellista",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Handle the road like a pro with your own customizable racing machine or your choice of more than 60 top-of-the-line models. Race vehicles from manufacturers, including Toyota, Nissan, Honda, Subaru, and Mitsubishi, against up to eight drivers online or up to two drivers in split-screen mode. You'll tear past spectators, maneuver your way through tight mountain passes, and round each corner of the race track in your dream car at lightning speeds."
+}

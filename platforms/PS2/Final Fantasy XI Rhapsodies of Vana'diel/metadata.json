@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Rhapsodies of Vana'diel",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Final Fantasy XI: Rhapsodies of Vana'diel is the storyline finale of the [[Final Fantasy XI]] saga that brings characters from all the stories together in a struggle against a mysterious force that desires to blanket the world in Emptiness. You are required to have [[Final Fantasy XI: Girade no Genei]], [[Final Fantasy XI: Chains of Promathia]], [[Final Fantasy XI: Adoulin no Makyou]], [[Final Fantasy XI: Treasures of Aht Urhgan]], and/or [[Final Fantasy XI: Wings of the Goddess]] to be registered and missions within completed to progress past certain parts."
+}

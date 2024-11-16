@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["S-Neo"],
+	"genres": ["Sports"],
+	"name": "Fire Pro Wrestling Returns",
+	"publishers": [
+		"Spike (JP)",
+		"Agetec (US)",
+		"505 Games (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fire-pro-wrestling-returns",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Japan's most legendary wrestling series makes its PS2 debut this fall. The incredibly popular Fire Pro Wrestling series is famous for its unparalleled gameplay depth and unmatched customization options, and Fire Pro Wrestling Returns is the biggest and best yet."
+}

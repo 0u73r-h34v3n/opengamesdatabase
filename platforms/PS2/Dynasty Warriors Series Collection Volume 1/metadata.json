@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors Series Collection Volume 1",
+	"publishers": ["KOEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Dynasty Warriors 2]] (Shin Sangoku Musou), [[Dynasty Warriors 3]] (Shin Sangoku Musou 2), [[Dynasty Warriors 4]] (Shin Sangoku Musou 3), [[Dynasty Warriors 3: Xtreme Legends]] (Shin Sangoku Musou 2 Moushouden) and [[Dynasty Warriors 4: Xtreme Legends]] (Shin Sangoku Musou 3 Moushouden). The package also includes a CD featuring maxed out data, allowing you to play at full power and gain instant access to every weapon and item in the game.}}"
+}

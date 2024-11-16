@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Minds-Eye Productions"],
+	"genres": ["Racing"],
+	"name": "Starsky & Hutch",
+	"publishers": ["Empire Interactive (EU)", "Gotham Games (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/561397-starsky-and-hutch/index.html",
+			"score": 65,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/starsky-hutch",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the 70's television show, Starsky & Hutch lets you race through Bay City in Starsky's bright red Ford Torino, while Hutch takes aim at criminals with his .357 Magnum--but don't go thinking this will be a joy ride.  If your driving and shooting skills can't keep the TV audience on the edge of their sofas, your ratings will plummet, the show will be cancelled, and it's \"game over.\"  Don't think you can handle all the high-speed thrills by yourself?  Find a partner and let them shoot while you drive."
+}

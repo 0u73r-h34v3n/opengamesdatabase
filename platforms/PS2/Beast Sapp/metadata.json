@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aruze Corp"],
+	"genres": ["Gambling"],
+	"name": "Beast Sapp",
+	"publishers": ["Nippon Amuse"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Beast Sapp Pachislo Machine is a Japanese skill-stop slot machine. It is similar to traditional (auto-stop) slot machines, except with Pachislo, the player uses three buttons to stop the reels, which requires some skill. The machine accepts tokens and features an LCD screen, music and extra reels, which enhances the standard reel play. The spin knob on a Pachislo machine is located on the front of the cabinet instead of a handle on the side on a traditional slot machine."
+}

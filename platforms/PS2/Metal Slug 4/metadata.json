@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Metal Slug 4",
+	"publishers": ["SNK Playmore (JP)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"synopsis": "Metal Slug 4 is a direct port of the arcade and NeoGeo version of the game. New PS2 extras include additional bonus missions and simultaneous two-player versus matches. The game retains the same gameplay as previous titles, with the addition of some new enemies, bosses, weapons, several new vehicles and a new bonus combo system. "
+}

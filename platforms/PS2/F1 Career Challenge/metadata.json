@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Racing"],
+	"name": "F1 Career Challenge",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/499/499476.html",
+			"score": 7.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/f1-career-challenge",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It takes years for Formula One drivers to hone their skills, and now you can put yourself behind the wheel of the world's most glamorous racing automobiles. Whether it's F1 Career Challenge for the PlayStation 2 or F1 Challenge '99-'02 for the PC, now you can race your favorite cars, tracks, and drivers for multiple seasons. All the power, speed, and glory of F1 racing are now at your fingertips--complete with realistic cars, drivers, circuits, and pit crews from the F1 world."
+}

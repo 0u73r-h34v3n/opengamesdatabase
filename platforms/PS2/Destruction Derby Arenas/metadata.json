@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Studio 33"],
+	"genres": ["Racing"],
+	"name": "Destruction Derby Arenas",
+	"publishers": ["Sony|SCEE (EU)", "Gathering (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/03/30/destruction-derby-arenas",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/destruction-derby-arenas",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Destruction Derby Arenas puts gamers behind the wheel of a supercharged wrecking ball of American muscle, and turns loose up to 20 competing garage gladiators online.  Insane tracks with interactive obstacles like hydraulic lifts, speeding trains and huge ramps will obliterate the competition... if they don't smash you first.  Destruction Derby Arenas delivers an accessible online offering focused on fun and high-speed gameplay,.  Rock n' Roll and Gasoline will drive the snarling V8's of these turbocharged monsters in this winner take all smashfest for the checkered flag!"
+}

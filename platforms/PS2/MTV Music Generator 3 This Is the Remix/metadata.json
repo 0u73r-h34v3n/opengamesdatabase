@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mix Max"],
+	"genres": ["Tools", "Music"],
+	"name": "MTV Music Generator 3: This Is the Remix",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mtv-music-generator-3-this-is-the-remix",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Create and sample original music tracks, and remix some songs from today's hip-hop and electronica artists. Songs include OutKast's \"The Way U Move,\" Snoop Dogg's \"From Tha Chuuuch To Da Palace,\" Sean Paul's \"Get Busy,\" Fabolous' \"This Is My Party,\" and Carl Cox's \"Katja.\" You can even combine samples from your own music collection to bring your favorite artists together in a remixed track. With a full-featured Studio Mode--including an editing bay of riffs, beats, bass lines, and vocals--aspiring DJs, producers, and music aficionados alike can easily assemble professional material in a matter of minutes."
+}

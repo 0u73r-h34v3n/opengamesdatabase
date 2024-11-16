@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ganbarion"],
+	"genres": ["Action", "Fighting"],
+	"name": "One Piece: Grand Battle",
+	"publishers": ["Bandai (JP, US)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/09/01/one-piece-grand-battle",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/one-piece-grand-battle",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Battle to be King of the Pirates!   Ahoy there mi hearties! In a world of pirates, one man wants to become the greatest of them all: Monkey D. Luffy.  So stretch out those rubber limbs, unsheathe your sword and gather your pirate chums. It's time to do battle! Will you become King of the Pirates?  -Land ahoy! 7 colorful stages full of crazy gimmicks. Pick up and use objects to fight your foes! -6 game play modes: including 2-player Grand Battle versus mode! -Choose from 16 one-of-a-kind wacky pirates and 32 support"
+}

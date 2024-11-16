@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treyarch"],
+	"genres": ["Sports"],
+	"name": "Kelly Slater's Pro Surfer",
+	"publishers": ["Activision (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kelly-slaters-pro-surfer",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the rush of big-wave surfing and the surfer lifestyle as you search the globe for the world's best breaks. In Kelly Slater's Pro Surfer, you'll play Kelly Slater, or one of eight other surfers, in exotic locations with more than 30 challenging levels to explore. Drop down huge waves, ride barreling tubes, and pull off exciting trick combinations and signature pro moves. The game features multiple gameplay modes, including a Surf Trip where you choose your own path in search of the perfect wave."
+}

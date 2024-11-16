@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vingt-et-un Systems"],
+	"genres": ["Racing"],
+	"name": "Simple 2000 Series Vol. 11: The Offroad Buggy",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Can you keep up with the Dirt Track Devils? Give it your best as you race diverse ATV's across snowy mountain passes, treacherous forest tracks and sunny beaches. These tracks will test the limits of your driving skill.  Powerslide, jump and skid your way to victory in the challenging OFF ROAD RACE mode, take on the time trial challenge in the ever-changing GYMKHANA event, or beat your buddies in the VS BATTLE RACE mode."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Evolution Studios"],
+	"genres": ["Racing"],
+	"name": "WRC 3",
+	"publishers": ["Sony|SCEE (EU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/918852-wrc-3/index.html",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_wrc3_ps2",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Third installment in the rally racing series by Evolution Studios. Fully licensed by the FIA World Rally association, the game features authentic drivers like Richard Burns, Carlos Saints, and Markko Martin,, as well as licensed cars from Peugeot, Ford, Citroen, and others. Overall, more than 35 licensed cars -- including rally concept and extreme cars -- are available for selection. Rally enthusiasts will appreciate the detailed car history essays, driver performance stats based on all known TV broadcasts, team videos, and a new 3D explorer feature that lets you inspect the vehicles from every angle and \"explode\" them to see their innards. "
+}

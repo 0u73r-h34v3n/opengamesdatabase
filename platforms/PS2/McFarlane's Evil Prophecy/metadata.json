@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action"],
+	"name": "McFarlane's Evil Prophecy",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mcfarlanes-evil-prophecy",
+			"score": 34,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in the 19th century, McFarlane's Evil Prophecy allows you to control a party of four unique monster-hunters with different fighting abilities.  To fight through hordes of evil creatures, you can use all types of attacks, including magic and melee.  Come together with three other players in co-op mode and unleash more powerful attacks.  As you collect souls, you unlock more special moves and weapons.  You'll need all the help you can get to battle six great monsters and their evil minions."
+}

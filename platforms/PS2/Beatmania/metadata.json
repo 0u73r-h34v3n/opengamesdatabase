@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Music"],
+	"name": "Beatmania",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/beatmania",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can spin more than 50 club tracks in the DJ simulation Beatmania. Beatmania comes with a special DJ controller, which uses buttons and a rotating pad to simulate a turntable. The game features hits from some of the hottest DJs in genres such as techno, drum-'n-bass, and house. You can play through the songs by matching the beat being displayed on the screen with your controller. Beatmania also includes both cooperative and competitive two-player play."
+}

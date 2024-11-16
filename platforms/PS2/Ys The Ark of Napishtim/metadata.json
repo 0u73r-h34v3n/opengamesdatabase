@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "RPG"],
+	"name": "Ys: The Ark of Napishtim",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ys-the-ark-of-napishtim",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ys: The Ark of Napishtim is the sixth installment in the ''Ys'' series and the sequel to [[Ys V: Lost Kefin, Kingdom of Sand]]. Washed ashore on an uncharted island, Adol Christin begins a new journey in Ys: The Ark of Napishtim. Lush environments, beautifully rendered characters and animated 3D backdrops combine to create the setting for Adol's newest adventure. In the world of Canaan, our red-headed hero must fight deadly monsters and menacing bosses with a variety of sword combinations, special attacks and magical spells creating a uniquely deep and compelling gameplay experience. Power-up three magical swords to gain special abilities and attacks. Combines real-time, fast-paced action and strategic boss battles. Original music composed specifically for the PS2 version of the game. Hidden, unlockable secrets that showcase the timeless legacy of Ys."
+}

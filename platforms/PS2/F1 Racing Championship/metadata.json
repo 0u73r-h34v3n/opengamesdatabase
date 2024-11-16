@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Racing"],
+	"name": "F1 Racing Championship",
+	"publishers": ["Video System"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/f1-racing-championship/ps-14389",
+			"score": 7.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Officially licensed by Formula One Administration Limited, F1 RACING Championship is the most realistic, challenging and exciting game ever released on N64!  -All the latest teams, cars and tracks of the 1999 Formula 1 season -\"Pick up and Play\" and \"Simulation\" modes with multi game play options -Advanced Artificial Intelligence System -Incredible special effects -Unique Driving school mode to help you master Formula One Driving -Multiplayer action"
+}

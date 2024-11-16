@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monkey Bar Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Curious George",
+	"publishers": ["Namco (US, EU)", "Electronic Arts|EA Games (AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/curious-george",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Curious George is a platformer based on the animated movie of the same name. Ted Shackleford, a human with a big yellow hat, visits Africa in search of an idol. This project does not work out, but he finds a new friend: the monkey Curious George. The game follows their way back to America and shows scenes from the movie as cutscenes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Sports"],
+	"name": "World Tour Soccer 2006",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-tour-soccer-2006",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The World Tour Soccer franchise returns for another go-around on the PlayStation 2, offering more features, players, teams, and stadiums. In World Tour Soccer 2006, you can guide one of 935 international and club teams from around the globe through eight international tournaments. This time, you can put your own face in the game via the new EyeToy functionality. See how well you can perform in various gameplay modes, including exhibition match, season, career, league, and challenge."
+}

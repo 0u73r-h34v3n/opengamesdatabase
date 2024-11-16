@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Sports"],
+	"name": "Leaderboard Golf",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Leaderboard Golf delivers the best in realistic ball physics and swing control as well as a host of stunning courses to play! The intuitive swing system allows control of your back-swing and follow-through for the perfect shot as well as the ability to angle the club-face for all the hook, slice or fade you'll need. Add a variety of great game modes and you won't need anything else out on the fairway."
+}

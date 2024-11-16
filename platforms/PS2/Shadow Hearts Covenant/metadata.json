@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nautilus"],
+	"genres": ["RPG"],
+	"name": "Shadow Hearts: Covenant",
+	"publishers": ["Aruze Corp (JP)", "Midway (US, EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shadow-hearts-covenant",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "More than a year after the events of the original [[Shadow Hearts]], Yuri embarks on a new expedition in a world full of magic and creatures. Set during World War I, ''Shadow Hearts: Covenant'' puts you in the role of Yuri and his companions as they journey to find a cure for his curse and defeat an evil cult. Each character has their own distinct personality, attributes, abilities, and subquest missions. The final outcome of each battle is based on your speed and accuracy as you employ a variety of attacks, spells, and defense formations."
+}

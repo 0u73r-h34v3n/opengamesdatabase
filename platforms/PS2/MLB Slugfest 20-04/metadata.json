@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Sports"],
+	"name": "MLB Slugfest 20-04",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mlb-slugfest-20-04",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MLB SlugFest is back with more aggressive-style baseball than ever.  MLB Slugfest 20-04 delivers a blend of hardcore, lightning-fast gameplay combined with key baseball features that will please even the most diehard sports fan.  Turbo running, fielding, batting, and throwing are essential skills in this game, which makes every play a highlight.  Among your favorite MLB players from around the league, you can create your own team of superstars, and then work your way up to a World Series championship.  With new moves, rosters, and the addition of the new Home Run Derby mode, this year's SlugFest hits home with awesome power."
+}

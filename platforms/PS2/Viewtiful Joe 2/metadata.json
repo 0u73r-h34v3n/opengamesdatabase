@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Clover Studio"],
+	"genres": ["Action", "Fighting"],
+	"name": "Viewtiful Joe 2",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/viewtiful-joe-2/ps2-678431",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/viewtiful-joe-2",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Joe and Silvia are back in this sequel to Viewtiful Joe. This time you have more style, new special moves, and more than 40 new enemies to defeat. Now Joe's trusty aircraft transforms into various shapes to support his activities throughout the game's many stages. In addition to Joe, you can play as Silva, Joe's girlfriend. Call upon the powers of Joe and Silvia, and get ready to both solve new puzzles and save the day."
+}

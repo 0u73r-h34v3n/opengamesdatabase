@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "25 to Life",
+	"publishers": ["Eidos Interactive (US, EU)", "Atari (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/25-to-life",
+			"score": 39,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In 25 to Life, you can play as either a cop or a gangster. Set in the heart of today's cities, the game lets you experience the gritty lifestyles of police task forces or, as a gangster, survive the local neighborhood thugs while fighting your way up the ranks. You can even uphold the law or defend your turf with up to 16 players over the Internet. Whether you bust out of prison or infiltrate the inner sanctum of the drug lord's mansion, your knowledge of the streets will be put to the test."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Overworks"],
+	"genres": ["Action", "Fighting"],
+	"name": "Nightshade",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nightshade",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A new evil sweeps across Tokyo and a young female ninja Hibana is called upon to battle the menacing demons and monsters.  Fight enemies atop moving jets and trucks while dodging enemy missiles.  Master the ancient Tate Attack and Stealth Dash moves to land multiple fatal blows.  Fight your way through 13 destructible locals and defeat the Hellspawn awakened by the ancient Akujiki curse.  Put your skills to the test in game modes including Story, Time-Attack and Survival.\nThe game is a direct sequel to the 2002 PS2 game ''[[Shinobi]]''."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Eclipse"],
+	"genres": ["Arcade", "Compilation"],
+	"name": "Namco Museum 50th Anniversary",
+	"publishers": ["Namco (US, JP)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/namco-museum-50th-anniversary",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Namco celebrates their 50th anniversary by packaging 14 of their best classic arcade games onto one disc. The interface lets you browse a virtual game hall with each game shown in its original arcade cabinet. The games included in this collection are: Pac-Man, Ms. Pac-Man, Galaga, Galaxian, Dig Dug, Pole Position, Pole Position II, Rolling Thunder, Rally X, Bosconian, Dragon Spirit, Sky Kid, Xevious, and Mappy."
+}

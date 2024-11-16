@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "X-Squad",
+	"publishers": [
+		"Electronic Arts|Electronic Arts Victor (JP)",
+		"Electronic Arts (US, EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/x-squad",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The year is 2037, terrorists have taken over a secret military complex. X Squard, an elite covert force, is called in to eliminate the enemy and regain control."
+}

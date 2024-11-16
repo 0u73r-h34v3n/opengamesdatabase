@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Stealth Force 2",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "You will take on the role of Jackal, squad leader in charge of black ops missions deep behind enemy lines - issuing tactical combat commands to locate key installations, rescue hostages and finally take out the leaders of the network. You are solely accountable for the outcome of these vital missions and your squad members' lives are in your hands... failure is not an option."
+}

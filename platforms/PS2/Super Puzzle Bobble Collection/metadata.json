@@ -1,0 +1,7 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Puzzle"],
+	"name": "Super Puzzle Bobble Collection",
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Korean editions of [[Super Bust-A-Move|Super Puzzle Bobble]] and [[Super Bust-A-Move 2|Super Puzzle Bobble 2]].}}"
+}

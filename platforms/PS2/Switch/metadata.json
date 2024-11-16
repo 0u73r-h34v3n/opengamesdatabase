@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Office I"],
+	"genres": ["Puzzle"],
+	"name": "Switch",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Stay calm and cool and you might save the world. Reality is turned upside down and only the right combination of switches and buttons will replace chaos with order. Choose the wrong switch and WATCH OUT - the unexpected can be expected! What better way for Data East to enter the CD market than with this totally original, unique and hilarious adult puzzle game for the Sega CD system. No guns, no kicks, and no pressure. Just use your wits and watch what happens!"
+}

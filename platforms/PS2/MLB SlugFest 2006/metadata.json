@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Shift"],
+	"genres": ["Sports"],
+	"name": "MLB SlugFest 2006",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mlb-slugfest-2006",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Midway's newest offering of its over-the-top baseball game, MLB SlugFest 2006 features a new create-a-player mode, updated team rosters and stadiums, along with a new library of signature animations and extreme collisions that have distinguished the franchise since its debut in 2002."
+}

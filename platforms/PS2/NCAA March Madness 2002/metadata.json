@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["NuFX"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 2002",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-2002",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With more than 130 teams included, March Madness 2002 lets you pick your squad, hone your skills, and see if you can survive the rigors of the 64-team tournament all the way to the title. Or you can create your own team and see how it stacks up against the giants of the college game. Once you're in the tourney, it's lose one and you're done, so you've got to be on top of your game at all times. The better you play, the more the crowd will get behind you, so start honing that deep ball and practicing those dunks. Get scouting tips from coaches such as Florida's Billy Donovan, Kansas's Roy Williams, and UCLA's Steve Lavin. The new Emotion Meter lets big plays and crowd energy affect how you perform. All-new courts include a variety of stadiums. Realistic crowd reactions to threes, dunks, and big plays bring the game to life."
+}

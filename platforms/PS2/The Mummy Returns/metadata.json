@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action"],
+	"name": "The Mummy Returns",
+	"publishers": ["Universal Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-mummy-returns",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the ultimate evil or heroism at its best in The Mummy Returns! Give in to all that evil will grant you on your quest to rule the world as Imhotep. Or fight as Rick to save your son, Alex, and thwart the Mummy's plans to rule the world. The Scorpion King awaits you in the game that delivers two adventures in one."
+}

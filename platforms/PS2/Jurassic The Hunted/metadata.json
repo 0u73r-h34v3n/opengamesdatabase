@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cauldron HQ"],
+	"genres": ["Action"],
+	"name": "Jurassic: The Hunted",
+	"publishers": ["Activision"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/jurassic-the-hunted/ps2-22368",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jurassic-the-hunted",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jurassic: the Hunted is an epic shooter set on a dark, mysterious island lost in time. Players assume the role of weapons and survival expert Craig Dylan, who has been hired to protect a research team studying the strange temporal energy of the island. Protection quickly becomes a fight for survival as Dylan is pulled back in time through the Bermuda Triangle and finds himself facing the most terrifying creatures in the history of the planet. Combat encounters include \"arena\" style fights, fortification sieges, survival modes and unforgettable boss battles. Adrenaline bursts give you an edge - this cinematic gameplay feature allows the player to visualize and then target an opponent's weak points in slow motion. Jurassic the Hunted promises hours of dino-survivalist entertainment at its finest."
+}

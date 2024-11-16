@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Shooter"],
+	"name": "Silent Scope 2: Dark Silhouette",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/09/17/silent-scope-2-dark-silhouette",
+			"score": 6.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/silent-scope-2-dark-silhouette",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Terrorists have stolen a poison gas missile and are about to unleash mass destruction on an unsuspecting country unless you and your partner can stop them. Take on exhilarating missions in majestic European environments ranging from downtown London to Swiss mountain ranges. With cooperative and competitive play, two players can take aim to see who is the best sniper!"
+}

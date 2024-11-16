@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 08",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madden-nfl-08",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Feel what it's like to be a field general making key personnel decisions on both sides of the ball during the game's biggest moments in Madden NFL 08. Quickly identify your strongest players on the field before every snap then move them into position to make game-changing, momentum-altering plays. Play to your team's strengths by immediately reading your opponent's schemes and reacting to the action as soon as the ball is snapped."
+}

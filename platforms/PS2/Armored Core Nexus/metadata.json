@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Armored Core: Nexus",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Indie Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/armored-core-nexus",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in a postmodern world of destructive environments and mercenary-for-hire missions, Armored Core: Nexus delivers robot action in customizable mechanical creations, fast-paced combat, and a dynamic mission system. The two-disc package includes both the new material from Nexus and revamped missions from previous installments in the Armored Core series; plus unlockable music, movies, and artwork. Now with 400 new robot parts, you can construct a variety of AC designs. Pit your mech against more than 40 opponents in single-player, or against three of your friends through iLINK or a local network."
+}

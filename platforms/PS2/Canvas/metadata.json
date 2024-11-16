@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cocktail Soft"],
+	"genres": ["Visual Novel"],
+	"name": "Canvas",
+	"publishers": ["NEC Interchannel"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Asou Daisuke is a high school student and a gifted artist - but he is currently suffering from a block, which keeps him from painting. His childhood friend, Tachibana Amane, who loves him deeply, persuades him to do a portrait of Kimikage Yurina, a girl with a heart condition, before Yurina undergoes surgery. In the process of rediscovering his art, Daisuke also realises the love that he and Amane feel for each other."
+}

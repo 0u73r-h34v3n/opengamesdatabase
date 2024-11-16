@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Next Level Games"],
+	"genres": ["Sports"],
+	"name": "NHL Hitz Pro",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-hitz-pro",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NHL Hitz Pro mixes a hard-hitting blend of NHL authenticity and adrenaline-style gameplay with real five-on-five NHL hockey.  While huge hits and rocket goals are common, the games still follows all NHL penalties from offsides and two-line passing to holding and cross-checking.  Choose from 23-man NHL player rosters to play in a variety of real stadiums.  Practice your skills in the retooled Hockey School mode, and then build your own dynasty in Franchise mode.  You can also play head-to-head online or set up a tournament for up to 16 teams."
+}

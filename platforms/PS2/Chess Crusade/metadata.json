@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Slam Games"],
+	"genres": ["Board"],
+	"name": "Chess Crusade",
+	"publishers": ["Zoo Digital Publishing"],
+	"regions": ["PAL"],
+	"synopsis": "This ain't your Grandpa's favorite board game! \"Chess Crusade\" brings and edgy and exhilarating twist to the most popular and timeless strategy game ever created. Two cartoon-style medieval armies take to the checkered battlefield in a classic game of chess. As the pieces move around the board, they meet with intense animated combat moves in an effort to conquer or be conquered. The entertaining and colorful artistic style makes \"Chess Crusade\" a game that everyone - from the novice to the master - can enjoy."
+}

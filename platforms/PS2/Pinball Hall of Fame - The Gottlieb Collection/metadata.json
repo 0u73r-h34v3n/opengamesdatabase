@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Farsight Studios"],
+	"genres": ["Pinball", "Arcade"],
+	"name": "Pinball Hall of Fame - The Gottlieb Collection",
+	"publishers": ["Crave (US)", "Play It (EU)", "Play It! (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pinball-hall-of-fame---the-gottlieb-collection",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pinball Hall of Fame features more than eight pinball tables from the '60s through the '90s. The game features realistic physics, detailed graphics, and sounds captured directly from the actual tables. A tutorial fly-through of each table helps you plan your strategy and make every shot count. Compete for the high score alone or against three of your friends. With enough play, you'll learn fun facts about each table and even unlock a bonus table."
+}

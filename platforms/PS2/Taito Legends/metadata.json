@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Empire Oxford"],
+	"genres": ["Compilation", "Arcade"],
+	"name": "Taito Legends",
+	"publishers": [
+		"Empire Interactive (EU)",
+		"Sega (US)",
+		"Taito Corporation (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/taito-legends",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The complete Taito Legends title list: Space Invaders (1978), Phoenix(1980), Space Invaders Part 2 (1980), Colony 7 (1981), Electric Yoyo (1982), Jungle Hunt (1982), Zoo Keeper (1982), Elevator Action (1983), Great Swordsman (1984), Return of the Invaders (1985), Bubble Bobble (1986), Gladiator (1986), Tokio (1986), Exzisus (1987), Plump Pop (1987), Operation Wolf (1987), Rainbow Islands (1987), Rastan (1987), Super Qix (1987), The New Zealand Story (1988), Operation Thunderbolt (1988), Battle Shark (1989), Continental Circus (1989), Plotting (1989), Volfied (1989), Ninja Kids (1990), Space Gun (1990), Thunderfox (1990) Tube It (1993)."
+}

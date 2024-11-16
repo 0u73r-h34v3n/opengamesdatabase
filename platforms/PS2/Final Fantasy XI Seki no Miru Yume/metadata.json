@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Seki no Miru Yume",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Final Fantasy XI: Seki no Miru Yume'' is the first of three scenario expansions. This expansion focuses on exploring the story aspect of ''Final Fantasy XI'' with a short series of missions."
+}

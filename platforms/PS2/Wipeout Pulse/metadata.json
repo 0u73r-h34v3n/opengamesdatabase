@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Studio Liverpool", "Spiral House"],
+	"genres": ["Racing"],
+	"name": "Wipeout Pulse",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"synopsis": "SCE Studios Liverpool brings the future back with this second Wipeout game for the PSP. This entry in the racing series features 24 new reversible circuits, a load of fresh high-speed vehicles and some deadly new weaponry. There's also a new track feature called the Mag-Strip, which acts like a magnet and temporarily locks ships to the levels, enabling exciting things like loops and vertical drops."
+}

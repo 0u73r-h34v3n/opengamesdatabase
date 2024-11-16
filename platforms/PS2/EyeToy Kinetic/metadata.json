@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Sports"],
+	"name": "EyeToy: Kinetic",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (EU, US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-kinetic",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EyeToy: Kinetic offers a wide variety of fitness activities that far exceeds the traditional 'home workout video'. The EyeToy camera, with the addition of a newly developed Wide Angled Lens that attaches to the front of the camera, allows for increased levels of interactivity projecting the exerciser's image onto the television screen, enabling them to physically interact with their environments. With four areas of discipline to choose from, EyeToy: Kinetic offers a wide variety of exercises for players to choose from. Aero Motion and Combat zones help to increase the player's overall fitness level, inspired by moves and stances from activities such as Tai Kwon Do, Modern Dance, Kick Boxing, Aerobics and Karate. The Mind and Body zone focuses on breathing, concentration and flexibility, taking inspirations from Yoga and Tai Chi, leaving players feeling relaxed, yet with their body fully conditioned. The Toning zone helps the player to tone specific muscle groups utilizing slow and refined movements."
+}

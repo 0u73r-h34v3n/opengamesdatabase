@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports Big"],
+	"genres": ["Sports"],
+	"name": "SSX",
+	"publishers": [
+		"Electronic Arts|Electronic Arts Victor (JP)",
+		"Electronic Arts|EA Sports Big (US)",
+		"Electronic Arts (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2000/10/24/ssx",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ssx",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can ski or snowboard yourself into stardom in SSX on Tour. The game includes 12 levels for racing and performing stunts. You can earn yourself a spot on the professional tour by winning events and improving your skills. Your success moves you up the rankings until you can call yourself the best on the mountain. This version of SSX features new graphical effects and controller feedback designed to capture the speed of your races and the massive air of your tricks. SSX on Tour also includes new music, art, and characters."
+}

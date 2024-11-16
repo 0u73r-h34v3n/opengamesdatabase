@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Racing"],
+	"name": "NASCAR 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/09/09/nascar-07-review",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-07",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take risks, be rewarded, and become a champion with NASCAR 07. With all-new Adrenaline Moments, use your skill and instinct during the most intense situations and control the outcome by avoiding disastrous wrecks and flying debris. Maintain your focus on dangerous conditions ahead with the new RaceBreaker feature, which guides you through every treacherous moment of the race. With all-new speed blurring, realistic spark and smoke effects, and camera shakes, get your adrenaline pumping and experience the all-out drama and intensity of 190-mph racing with NASCAR 07. Developed by EA Tiburon, NASCAR 07 will be available for the Xbox and the PlayStation 2 console and as NASCAR on the PSP system in September."
+}

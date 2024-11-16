@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Arts"],
+	"genres": ["RPG"],
+	"name": "Grandia III",
+	"publishers": ["Square Enix (JP, US)", "Game Arts (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/927215-grandia-iii/index.html",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/grandia-iii",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Grandia III'' is the latest installment in the long-running Square Enix role-playing series and the sequel to [[Grandia II]]. You play as Yuuki, a 16-year-old boy with aspirations of being a pilot. When you discover that a powerful adversary is bent on world domination, it is up to you and the members of your party to find and stop him. ''Grandia III'' adds new combos and options in battle, and it also streamlines the magic system from earlier versions."
+}

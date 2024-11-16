@@ -1,0 +1,6 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"name": "Cancelled Games",
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"synopsis": "This is a loose collection of cancelled and unreleased PS2 titles and their serials (some of these games may probably be only rumors or marketing ploys)"
+}

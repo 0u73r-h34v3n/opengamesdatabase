@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Sengoku Basara X",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A spin-off of the Devil Kings / Basara franchise, this title is a 2D fighting game by Arc System Works featuring characters from the franchise and an update of the arcade game of the same name featuring a challenge mode and newly-playable characters Kojuro Katakura and Hanbei Takanaka."
+}

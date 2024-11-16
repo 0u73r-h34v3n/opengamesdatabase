@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hyper-Devbox"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Ex Zeus",
+	"publishers": ["Metro3D"],
+	"regions": ["PAL"],
+	"synopsis": "In 2102, a giant alien war machine attacks Earth, driving the surviving humans below the earth's surface. The governing Council orders an immediate counterattack, codenamed \"Ex-Zeus,\" that involves reclaiming Earth's surface using three experimental robots, investigating the alien war machine's weakness, and defeating the mysterious Diadora. As one of three freedom fighters, you have the choice of controlling one of the three robots, each with varying abilities. Complete your objectives by using powerful weapons, upgrading your robots, and developing combat strategy."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WinkySoft"],
+	"genres": ["Turn-based strategy"],
+	"name": "Yu-Gi-Oh! Capsule Monster Coliseum",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/yu-gi-oh!-capsule-monster-coliseum",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Become the capsule-monster king in Yu-Gi-Oh! Capsule Monster Coliseum. In this new strategic board game, you can build armies of capsule monsters, battle duelists from the animated TV series, and conquer a variety of challenges. The more you use your monsters in battle, the more they'll grow and evolve. Use your team to unlock the door to the king's coliseum and duel the capsule-monster champions. The game features 25 boards with changing environments and properties."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vingt-et-un Systems"],
+	"genres": ["RTS"],
+	"name": "Simple 2000 Series Vol. 99: The Genshijin",
+	"publishers": ["D3Publisher (JP, US)", "Essential Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/the-adventures-of-darwin-review/1900-6173477/",
+			"score": 3.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-adventures-of-darwin",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You are the leader of a primitive village. If you want to survive life in a hostile world, you must evolve! In The Adventures of Darwin, you will drive the evolution of your village from a small group of simple primates to a powerful, intelligent colony of humans. Lead your tribe on adventures, teach them to hunt, teach them to build, and teach them the power of language. Are you the leader of the evolution, or doomed to a life of monkey business?"
+}

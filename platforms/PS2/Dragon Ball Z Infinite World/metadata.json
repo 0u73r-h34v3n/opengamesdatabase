@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Infinite World",
+	"publishers": ["Atari (US, EU, AU)", "Bandai|Namco Bandai Games (JP, KO)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dragon-ball-z-infinite-world",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Representing the last title for the PlayStation 2, Dragon Ball Z: Infinite World combines the best elements from the previous Budokai and Shin-Budokai series, as well as the recently released and much-admired next-gen Dragon Ball Z: Burst Limit, to deliver the definitive DBZ experience on PlayStation 2. But no Dragon Ball Z game would be complete without its fair share of spectacular battles.  Dragon Ball Z: Infinite World uses a simplified battle system taken from the recently released next-gen Dragon Ball Z: Burst Limit for thrilling hand-to-hand fighting on the ground, or flying leaps and aerial combat in the skies.  In addition, new ideas have been added to the battle system.  Defeat your opponent by blasting damaging Ki attacks from the sky or by diving into him and launching an explosive smash attack. The game features over 40 unique characters, not counting the different forms that each character can transform into which multiplies the playing potential.  On top of characters, fighting techniques and battle stages, Dragon Ball Z: Infinite World also includes selected drama scenes from the previous games all presented using beautifully refined effects and shading techniques."
+}

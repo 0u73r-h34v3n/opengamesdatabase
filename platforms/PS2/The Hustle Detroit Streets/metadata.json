@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blade Interactive"],
+	"genres": ["Sports"],
+	"name": "The Hustle: Detroit Streets",
+	"publishers": ["Activision|Activision Value"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-hustle-detroit-streets",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You're a down-on-your-luck hustler, newly arrived in Detroit, where the tough streets are unforgiving and your survival depends on your ability to win cash and respect. You'll need to scheme and employ trick shots to take down some of the city's toughest pool sharks. Your skills and toughness will be challenged and tested like never before. Defeat your opposition, get the girl, and escape with your life. Are you going to live to hustle another day?"
+}

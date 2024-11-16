@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "MVP Baseball 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mvp-baseball-2005",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MVP Baseball 2005 offers more features that let you take control of your favorite major league baseball team both on and off the field. The game highlights its new Hitter's Eye controls, which give you more control of your swing, movement in the batter's box, and the ability to read the pitch. In addition to enhanced offensive tools, this year's installment in the MVP Baseball series includes an improved dynasty mode, a spring training mode, and an all-new owner mode. Play through a challenging single-player season to unlock legendary players and new gear, or challenge your friend to an online game."
+}

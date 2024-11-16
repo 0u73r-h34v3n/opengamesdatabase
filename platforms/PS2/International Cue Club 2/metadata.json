@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midas Interactive Entertainment"],
+	"genres": ["Sports"],
+	"name": "International Cue Club 2",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "International Cue Club 2 delivers the ultimate pool experience across 10 cool locations. With dozens of fully animated characters to play against and over 100 unlockable secrets to discover, you'll be sure to keep racking them up."
+}

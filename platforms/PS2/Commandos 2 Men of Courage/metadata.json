@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pyro Studios"],
+	"genres": ["RTS"],
+	"name": "Commandos 2: Men of Courage",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/commandos-2/ps2-15746",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/commandos-2-men-of-courage",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the deepest bunkers and artillery posts of the Third Reich to the bulkhead of an aircraft carrier at sea, Commandos 2 plunges you into realistic war environments. Lead an elite platoon deep into enemy territory, while taking advantage of each soldier's unique abilities. This time, your team members can carry and exchange weapons, and they can swim and drive. An array of new vehicles and weapons, including jeeps, tanks, trucks, ships, bazookas, and flamethrowers make for faster-paced gameplay and intense shoot-outs."
+}

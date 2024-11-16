@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Stealth Force: The War on Terror",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Spanning the vast deserts of the Middle East you must bring the War on Terror home to those who would terrorise the free world. As an elite member of Special Forces you must use all your skills and a fearsome arsenal of weaponry to prevent the Elzar Organisation from achieving their sinister objective."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tri-Ace"],
+	"genres": ["RPG"],
+	"name": "Star Ocean: Till the End of Time",
+	"publishers": ["Square Enix|Enix Corporation"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/536705-star-ocean-till-the-end-of-time/index.html",
+			"score": 81,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/star-ocean-till-the-end-of-time",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third game in the Star Ocean series, Star Ocean: Till the End of Time is set 400 years after the events of Star Ocean: The Second Story. Fayt Leingod, an ordinary college student, is vacationing on a resort planet which suddenly gets attacked by aliens. A few escapes later, his escape pod crash lands on an undeveloped planet, he gets rescued by a member of a resistance group named Quark, they crash on another undeveloped planet, and they get caught up in local politics. The repercussions of the alien attack, and the reasons for it, are going to catch up with Fayt again..."
+}

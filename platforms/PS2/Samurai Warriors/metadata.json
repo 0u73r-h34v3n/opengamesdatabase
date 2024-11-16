@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Samurai Warriors",
+	"publishers": ["Koei (JP, US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/samurai-warriors",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in feudal Japan, Samurai Warriors puts you in control of Yukimura Sanada as she leads an elite band of samurai and ninja through the hallowed battlefields of Okehazama, Kawanakajima, and inside the embattled walls of Osaka Castle. The epic tale unfolds as you come face-to-face with gun-toting troops, echelons of ninja, and deadly kunoichi--female ninja--in both historic and fictional battles. Samurai Warriors also features hundreds of different mini-missions, multiplayer support, and an Active Mission System that triggers distinct missions during every battle."
+}

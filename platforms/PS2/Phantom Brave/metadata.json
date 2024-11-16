@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Turn-based strategy", "RPG"],
+	"name": "Phantom Brave",
+	"publishers": [
+		"Nippon Ichi Software (JP)",
+		"Nippon Ichi Software|NIS America (US)",
+		"Koei (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/09/01/phantom-brave",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/phantom-brave",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the year 921 in the island cluster called Wisteria in the world of Ivoire, there is a place called Phantom Isle. Here live a 13 years old girl called Marona, she has a special ability to communicate with phantoms, this happened 8 years ago when his parents and a friend died at the talons of a mysterious monster. Marona's parents used their last breath to revive her friend Ash but not was enough, now Ash lives between life and death as a ghost and one Marona's guardians. Now they travel all over Wisteria to work as Chromas to earn enough money to buy Phantom Isle. In her aventure she was known as \"The Possessed\" but with his joy and optimism Marona did not bother. Marona believe in her parent's teachings that \"people will one day come to like her as long as she stays compassionate and kind\". An interesting story about a girl who can see and talk with ghosts and a young ghost who tries to protect her."
+}

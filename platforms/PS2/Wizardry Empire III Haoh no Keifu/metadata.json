@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Starfish"],
+	"genres": ["RPG"],
+	"name": "Wizardry Empire III: Haoh no Keifu",
+	"publishers": ["Starfish"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Wizardry Empire III: Haoh no Keifu is a spin-off of the popular ''Wizardry'' series. The dungeon has monsters prowling, and winning a battle gives you gold and items, as well as experience and loot. When experience points build up, the character gets stronger, and you can challenge even deeper into the dungeon. The game plays like a traditional dungeon crawler."
+}

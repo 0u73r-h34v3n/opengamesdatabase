@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WideScreen Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Pirates: Legend of the Black Buccaneer",
+	"publishers": [
+		"Valcon Games (US)",
+		"Atari (AU)",
+		"10tacle Studios (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pirates-legend-of-the-black-buccaneer",
+			"score": 42,
+			"max_score": 100
+		}
+	],
+	"synopsis": "He followed the call of a legendary treasure... but a gale swept away his dream of riches and a wonderous life. Washed ashore on the mysterious island, eerie noises from the depths of the jungle fill young shipwrecked pirate, Francis Blade, with a sense of foreboding... Draw your cutlass, load your pistols, and follow the call of the pirates! Features include 18 fantastic Caribbean locations full of puzzles, adventure and Voodoo mysteries."
+}

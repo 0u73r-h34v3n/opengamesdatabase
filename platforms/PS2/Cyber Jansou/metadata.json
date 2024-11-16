@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Board"],
+	"name": "Cyber Jansou",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Mahjong software that allows you to participate in the popular online mahjong game \"Tofuso\" on your PC from PS2. If you connect to the Internet, you can play not only PS2 version users but also PC version users, and you can also reserve desks and chat. There is also an offline mode where you can play against the CPU. Let's participate in Tofuso and have a hot mahjong battle!"
+}

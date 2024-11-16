@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Valuewave|Valuewave Co.", "Ltd."],
+	"genres": ["RPG"],
+	"name": "Mega Man X: Command Mission",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mega-man-x-command-mission",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mega Man X: Command Mission takes the blue shooter franchise in a whole new direction by adding RPG-style combat.  Your mission is to infiltrate Giga City Island to stop the evil plans of the rioting Liberion Army.  Choose several playable characters including Mega Man, Zero or Axl and team up to use three-member attacks.  Upgrade your characters' abilities, attacks and weapons to put an end to the brewing war.  With cel-shaded characters, stylized environments and a new \"Cross Order System\" that allows for finishing attacks, the Mega Man series looks to please both fans and gamers new to the franchise."
+}

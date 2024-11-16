@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Music"],
+	"name": "EyeToy: Groove",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-groove",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's time to take your coordination and rhythm skills one step further in EyeToy: Groove. The follow-up to EyeToy: Play lets you dance in time with music by moving your body, with no controller or dance pad necessary. The game uses a USB camera to display your movements on TV, enabling you to dance along with onscreen prompts. Technique, style, and timing are required as players move to the beat of one of the 25 licensed songs from such artists as Madonna, Jamiroquai, and Fatboy Slim."
+}

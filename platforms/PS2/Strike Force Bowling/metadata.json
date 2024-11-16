@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Lab Rats Games"],
+	"genres": ["Sports"],
+	"name": "Strike Force Bowling",
+	"publishers": ["Crave (US)", "Play It! (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/strike-force-bowling",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Forget renting bowling shoes--you can enjoy the fun of competitive bowling in the comfort of your own home. Strike Force Bowling brings the game to you with authentic real- time physics and an arcade-style control. Pins never quite fall the same way twice, and bowling balls react according to a combination of spin, material, and lane friction. From the Sphinx in ancient Egypt to a tropical island pier, you can play in a variety of exotic locations with up to four players."
+}

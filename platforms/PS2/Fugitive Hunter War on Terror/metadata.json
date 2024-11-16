@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ops Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Fugitive Hunter: War on Terror",
+	"publishers": [
+		"Encore Software|Encore Software",
+		"Inc. (US)",
+		"Play It! (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fugitive-hunter-war-on-terror",
+			"score": 35,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As an elite secret agent of the US Government, your job is to hunt drug dealers, militia leaders, gun runners, and international terrorists. Follow 11 armed and dangerous felons--including Osama Bin Laden--through Afghanistan, the Caribbean, Paris, Utah, and Miami. You'll fight terror with state-of-the-art weaponry, such as rocket launchers, sniper rifles, and shotguns. Switch from a first-person shooter to third-person fighter view for brutal hand-to-hand combat. Bonus features include director's commentary, interviews with game creators, and behind-the-scenes movie making."
+}

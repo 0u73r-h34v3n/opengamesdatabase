@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Westwood Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Pirates: The Legend of Black Kat",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/pirates-the-legend-of-black-kat",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dangerous and fantastic island worlds are waiting to be discovered in Pirates: The Legend of Black Kat. Join the heroine, Black Kat, on a mission to liberate Voodoo Isles from Captain Hawk's evil clutches. Customize one of 12 vessels with a wide range of items and rare magical weapons. With your ship's massive firepower or your own swashbuckling skills, you can battle witch doctors, mermaids, mythical beasts, spirits, skull apes, and more. Once you've conquered the solo missions, you can battle a friend in ship-to-ship combat for treasure and bragging rights."
+}

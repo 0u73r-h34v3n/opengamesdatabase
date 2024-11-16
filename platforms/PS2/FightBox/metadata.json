@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gamezlab"],
+	"genres": ["Action"],
+	"name": "FightBox",
+	"publishers": ["BBC Multimedia"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://ie.ign.com/games/fightbox/ps2-626981/",
+			"score": 3,
+			"max_score": 10
+		}
+	],
+	"synopsis": "FightBox is the tournament for the new millennium. It takes place in the FightBox Arena - an arena of deadly skill and supreme combat where fear is an unknown concept. Artificial Warriors pit their strengths against each other in a bid to be the champion of FightBox. Created from the elements, the Warrior's Components are assembled, forged and moulded to create a being that will attempt to win the FightBox contest and the ultimate prize of immortality."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dragon Ball Z: Sagas",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/dragon-ball-z-sagas-review/1900-6121807/",
+			"score": 3.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dragon-ball-z-sagas",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join characters from the Dragon Ball Z animated series as they journey from the Saivan Saga through the Cell Games. You'll face a host of enemies, including Radiz, Nappa, Captain Ginyu, and Cell--each equipped with unique powers that you can inherit. The Dragon Ball Z world features fully destructible battlefields, bonus areas, and other hidden surprises. Discover all the secrets in the single-player campaign, or challenge a friend in the two-player mode."
+}

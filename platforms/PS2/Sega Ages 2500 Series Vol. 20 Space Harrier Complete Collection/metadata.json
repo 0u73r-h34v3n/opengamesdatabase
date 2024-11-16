@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Compilation"],
+	"name": "Sega Ages 2500 Series Vol. 20: Space Harrier Complete Collection",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This compilation contains the following games: ''Space Harrier Arcade'' (SEGA MARK III), ''Space Harrier 3D'' (SEGA MARK III) and ''Space Harrier II'' (MD)"
+}

@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "Disney's Stitch: Experiment 626",
+	"publishers": [
+		"Disney Interactive Studios (US, AU, EU)",
+		"Sony|SCEE (EU)",
+		"Electronic Arts (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disneys-stitch-experiment-626",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Disney's Lilo & Stitch for PlayStation 2 allows you to relive the movie experience by helping Stitch rescue Lilo from Dr.  Pestus and his band of notorious aliens!  Along the way, you'll team with Stitch as he outsmarts Bounty Hunter Bob, races cruisers and sets aliens species free!  Enjoy non-stop game action as you help Stitch defeat Dr.  Pestus and search for a way home."
+}

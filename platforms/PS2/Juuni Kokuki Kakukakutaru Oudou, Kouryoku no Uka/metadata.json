@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["RPG"],
+	"name": "Juuni Kokuki: Kakukakutaru Oudou, Kouryoku no Uka",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Juuni Kokuki is a video game based on the Twelve Kingdoms and is a direct sequel to [[Juuni Kokuki: Guren no Shirube, Koujin no Michi]]. Part of Konami's adventure game series and produced by Takashi Shimomichi, the game is based on Fuyumi Ono's fantasy books and popular anime series. Sometimes referred to as \"The Twelve Countries,\" but more accurately translated as \"The Record of Twelve Countries.\" The player is an ordinary high school girl, Youko Nakajima, who one day gets carried off to another world where she becomes the monarch of the kingdom of Kei. Following the events of the first game, Youko has recently become Kei's new ruler but must deal with dissent and rebellion in her kingdom as it struggles to recover from the previous monarch's rule. The game features event scenes where the player moves around town and interacts with townfolk; some of these were pulled from the novel while others were created just for the game. Game data from the first game can be loaded into the second. The roleplaying side of things is stronger when compared to the previous entry in the series, with party-based battles taking the forefront."
+}

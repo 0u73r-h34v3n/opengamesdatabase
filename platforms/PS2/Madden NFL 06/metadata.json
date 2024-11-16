@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 06",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/madden-nfl-06",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With its new modes and enhancements, Madden NFL 06 offers an authentic football experience. Among the game's offensive enhancements are the \"QB Vision Control,\" which gives each quarterback a unique field of vision, and the \"QB Precision Placement,\" which lets you throw the ball more accurately. In NFL Superstar mode, you can experience the life of an NFL player by earning one of more than 60 personas ranging from MVP to movie star."
+}

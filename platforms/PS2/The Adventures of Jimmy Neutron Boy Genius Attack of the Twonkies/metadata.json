@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ"],
+	"genres": ["Adventure", "Action", "Platformer"],
+	"name": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jimmy Neutron sets off on another adventure filled with brand-new inventions and gadgets. Aliens from Twonkus-3--the annual comet that passes over Retroville--have overrun the town, threatening everything in their path. When the aliens hear music, they become agitated and grow even larger. As Jimmy, it's up to you to figure out combinations of everyday items and turn them into inventions that will defeat the Twonkus-3 aliens. Secret gizmos hidden throughout each level give you enhanced power-ups."
+}

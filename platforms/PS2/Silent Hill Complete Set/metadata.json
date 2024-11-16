@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Collection"],
+	"name": "Silent Hill Complete Set",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of Silent Hill, [[Silent Hill 2]], [[Silent Hill 3]] and [[Silent Hill 4: The Room]].}}"
+}

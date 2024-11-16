@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "UEFA Euro 2004: Portugal",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/uefa-euro-2004-portugal",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "UEFA EURO 2004 is a football sim in the style of the FIFA games. In EURO 2004 mode players can play as any of the 51 European nations. Players can arrange and play friendly matches against other nations or play through the tournament going from qualifying, to playoffs and into the finals. In addition to tracking injuries and suspensions, a new dynamic morale system will track players' morale, which will fluctuate based on individual and team performances and affect player abilities on the field."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimple Entertainment"],
+	"genres": ["Visual Novel"],
+	"name": "Ayaka Shibito",
+	"publishers": ["Dimple Entertainment"],
+	"regions": ["NTSC-J"],
+	"synopsis": "In face of human technological advancement during the Meiji Restoration, the youkai of Japan were forced to make a hard decision:"
+}

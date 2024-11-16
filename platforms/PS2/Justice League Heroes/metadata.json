@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Snowblind Studios"],
+	"genres": ["Action", "RPG"],
+	"name": "Justice League Heroes",
+	"publishers": [
+		"Warner Bros. Interactive Entertainment (US)",
+		"Eidos Interactive (AU, EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/justice-league-heroes/ps2-759017",
+			"score": 6.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/justice-league-heroes",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Justice League Heroes is an action adventure game with role-playing customization featuring Superman, Batman, Green Lantern, The Flash, Wonder Woman, Martian Manhunter, Zatanna and other unlockable Justice League super heroes. Each hero possesses an array of character-specific, upgradeable superpowers resulting in unique controls and fighting-styles. Engaging in one-to-two player cooperative combat, gamers are be able to customize and master these superpowers as they travel through interactive and destructible environments spanning the farthest corners of the universe."
+}

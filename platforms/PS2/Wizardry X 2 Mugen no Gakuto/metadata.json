@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["MichaelSoft"],
+	"genres": ["RPG"],
+	"name": "Wizardry X 2: Mugen no Gakuto",
+	"publishers": ["MichaelSoft"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Wizardry X 2: Mugen no Gakuto is a spin-off of the popular ''Wizardry'' series and a direct sequel to [[Wizardry X: Zensen no Gakufu]]. Described as the second school RPG, the setting for this one is Toyo."
+}

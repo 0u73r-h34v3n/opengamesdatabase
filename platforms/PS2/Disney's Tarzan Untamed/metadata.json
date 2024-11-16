@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Disney's Tarzan Untamed",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disneys-tarzan-untamed",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tarzan's peaceful jungle world falls prey to a mad Victorian scientist and vicious poachers in this gripping sequel tale to Disney's Tarzan animated film.  As the primal action hero, Tarzan, you use extreme action skills to swing, slide, ski, and survive through the dense jungle to rescue Jane, Terk, Tantor, Porter, and your other animal friends."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mud Duck Productions"],
+	"genres": ["Sports"],
+	"name": "AMF Xtreme Bowling",
+	"publishers": ["Mud Duck Productions (US)", "Mastertronic (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/amf-xtreme-bowling-2006/ps2-817050",
+			"score": 2.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/amf-xtreme-bowling",
+			"score": 30,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the excitement of a night at the lanes with AMF Xtreme Bowling 2006. With six different gameplay modes, nine different enviornments and customizable character creation, the competition is always fresh and fun. Great to play alone or with a group of friends."
+}

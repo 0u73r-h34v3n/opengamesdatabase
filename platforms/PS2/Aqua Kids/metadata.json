@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cinepix"],
+	"genres": ["Action"],
+	"name": "Aqua Kids",
+	"publishers": ["Yuke's"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Aqua Kids is an action game based on the korean animated CG TV show. Two modes of play are available. A battle mode has you collect items and defeat enemies. A \"Help Daibo\" mode has you find items in order to power up your \"Daibo\" robot."
+}

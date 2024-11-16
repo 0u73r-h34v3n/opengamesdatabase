@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sandlot"],
+	"genres": ["Action"],
+	"name": "Robot Alchemic Drive",
+	"publishers": ["Square Enix|Enix Corporation"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/robot-alchemic-drive",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare to bond with 75 tons of high-tensile robot. In Robot Alchemic Drive, you'll operate a remote-controlled metal titan in destructible urban environments and battle giant opponents in brutal hand-to-hand combat. You can equip your robot with weapons such as missiles, lasers, shooting fists, and boomerangs, and transform into alternate forms to defeat enemies and complete missions. Treat your robot well, and you'll be rewarded; abuse your robot, and you'll wish you hadn't."
+}

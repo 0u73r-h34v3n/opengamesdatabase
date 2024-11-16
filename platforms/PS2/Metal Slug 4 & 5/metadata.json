@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BrezzaSoft"],
+	"genres": ["Collection"],
+	"name": "Metal Slug 4 & 5",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/metal-slug-4-5",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can play two of your arcade favorites without any quarters, since Metal Slug 4 and 5 have come to the PlayStation 2 in one complete package. Join Marco and a cast of other Metal Slug characters as they battle corrupt forces in the air, on the sea, and on land. Use power-ups, special weapons, health, and ammo to try to keep up with each game's nonstop action and challenging enemies. Of course, you can also test-drive the next generation of Metal Slug vehicles."
+}

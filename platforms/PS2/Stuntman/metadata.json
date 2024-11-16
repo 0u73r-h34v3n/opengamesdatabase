@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Reflections Interactive"],
+	"genres": ["Racing"],
+	"name": "Stuntman",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/stuntman",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the world of stunt driving, all it takes is one slip to end your Hollywood dreams. As a stunt driver, you can't afford to fail when performing dangerous stunts. In six famous movie locations, you'll smash up vehicles ranging from TukTuks and snowmobiles to Jeeps and high-performance sports cars. Begin a career in the stuntman industry or practice your skills in the stunt arena. After another hard day of risky work, replay the action as a polished movie trailer."
+}

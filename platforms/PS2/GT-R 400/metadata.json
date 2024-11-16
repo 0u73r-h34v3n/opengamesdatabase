@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kuju Entertainment"],
+	"genres": ["Racing"],
+	"name": "GT-R 400",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "As soon as you get behind the wheel of one of the licensed GT cars, including the stunning Ascari KZ1 and the pulsating Mosler MT900, you will feel the discernable leap in class in every aspect of the game - look, feel and gameplay. Licensed GT cars complete with livery and sponsor decals. Compete against British 2003 GT Champion Martin Short. Real-time car damage that genuinely affects the cars performance."
+}

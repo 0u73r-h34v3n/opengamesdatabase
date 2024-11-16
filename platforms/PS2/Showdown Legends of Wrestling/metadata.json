@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Sports"],
+	"name": "Showdown: Legends of Wrestling",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/06/23/showdown-legends-of-wrestling",
+			"score": 5.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/showdown-legends-of-wrestling",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Showdown: Legends of Wrestling features more than 70 of the greatest wrestlers throughout history. Send your favorite wrestlers to the squared circle for bone-breaking matches, including Table, First Blood, Ladder, Cage, and Battle Royal. Create dream matches, unlock classic feuds, and customize your own wrestler. You'll travel down the path of pain in the new era-based career mode. If you can master the new Ready-To-Brawl controls, you'll be prepared to take on the icons of professional wrestling."
+}

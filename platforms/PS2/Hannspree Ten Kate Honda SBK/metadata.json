@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "Hannspree Ten Kate Honda SBK",
+	"publishers": [
+		"Black Bean Games (EU, AU)",
+		"Valcon Games (US)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hannspree-ten-kate-honda-sbk-07-superbike-world-championship",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This incredibly detailed game allows the player to control the level of simulation. Start off with multiple riding aids and then as you get comfortable, you can crank up the reality and the excitement. Race amazing bikes at high-speed in variable weather conditions. The definitive motorbike racing game for the system!"
+}

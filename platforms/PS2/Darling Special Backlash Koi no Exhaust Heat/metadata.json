@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["NEST"],
+	"genres": ["Visual Novel"],
+	"name": "Darling Special Backlash: Koi no Exhaust Heat",
+	"publishers": ["D3 Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Darling Special Backlash is a racing themed 'love adventure' that follows the exploits of a team of young male drivers, who compete for the racing group Team Angstrom."
+}

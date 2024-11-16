@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sumo Digital"],
+	"genres": ["Sports"],
+	"name": "Sega Superstars Tennis",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sega-superstars-tennis",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SEGA Superstars Tennis includes over 15 playable SEGA characters - like Sonic The Hedgehog, AiAi from Super Monkey Ball fame, Ulala of Space Channel 5 and Amigo from Samba De Amigo, each of whom have their own unique attributes, and superstar tennis skills. The game's arcade style matches are played out on courts based on environments from Sega games of the past such as the lush tropics of Sonic's Green Hill Zone or the street fair fiesta of Amigo's Carnival Park to name a few."
+}

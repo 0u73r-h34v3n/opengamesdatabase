@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "ESPN College Hoops 2K5",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-college-hoops-2k5",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience all the excitement of college basketball in this year's installment in the ESPN College Hoops series. ESPN College Hoops 2K5 gives you even more management options in a revamped legacy mode, including scouting, balancing out the budget, and finding better coaching opportunities around the league. On the court, a new \"pass-n-go\" system lets you perform lead passes to your teammates and execute advanced give-and-go and alley-oop plays. If you'd rather coach than play, you can play in coach mode, in which you're responsible for calling the plays, directing your players, and making key decisions in overtime."
+}

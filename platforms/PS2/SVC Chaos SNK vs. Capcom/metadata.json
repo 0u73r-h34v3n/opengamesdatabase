@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "SVC Chaos: SNK vs. Capcom",
+	"publishers": ["SNK Playmore (JP)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/svc-chaos-snk-vs-capcom/",
+			"score": 6.3,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The clash between popular characters of SNK and Capcom continues. SVC Chaos: SNK vs. Capcom lets you play as any one of 36 characters from SNK and Capcom franchises, such as Fatal Fury, Samurai Shodown, The King of Fighters and Street Fighter. In Arcade mode you'll battle 16 boss characters and four hidden player characters. Challenge a friend in Versus mode and showcase each character's special or superspecial moves which can reach three levels of power. Other new moves include the Forward Ground Step and Exceed which inflicts the most damage."
+}

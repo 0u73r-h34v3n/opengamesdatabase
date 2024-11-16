@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI",
+	"publishers": [
+		"Square Enix|SquareSoft (JP)",
+		"Square Enix (JP, EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fantasy-xi",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Twenty years after the Great Crystal War, an evil threat returns in ''Final Fantasy XI''. A desperate call goes out to adventurers around the globe for help, and you are first in line. Begin your journey into the world of Vana'diel by creating a customized character from a host of physical attributes and jobs. Experience missions, quests, and boss battles by yourself or join up with other party members to form powerful alliances as you explore the vast environments that make up Vana'diel. Through the ''PlayOnline Viewer'', you can connect and communicate with other players whether they are playing on a PlayStation 2 or PC."
+}

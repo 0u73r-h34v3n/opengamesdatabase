@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Innocent Grey"],
+	"genres": ["Visual Novel"],
+	"name": "Cartagra",
+	"publishers": ["Kid"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The hero of this story is Takashiro Shugo - an ex-police officer, now unemployed and freeloading at a brothel. From time to time he takes on detective work from his former superior."
+}

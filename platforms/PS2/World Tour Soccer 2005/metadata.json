@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Sports"],
+	"name": "World Tour Soccer 2005",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/world-tour-soccer-2005",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The World Tour Soccer series furthers the global soccer experience with its latest installment. World Tour Soccer 2005 now offers more than 900 international and league teams from around the globe--18,700 players from 30 divisions and 22 leagues, including classic teams, from the past. Guide a team through exhibition matches, entire seasons, careers, or single-player and multiplayer challenges. World Tour Soccer 2005 also features a new icon-passing system, detailed stadiums, and intuitive controls.World Tour Soccer 2005 captures the enormous size and popularity of what is truly the world's game.  Multiple modes of play including Exhibition Match, Season, Career, and Challenge Mode give the sports gamer the opportunity to get in and play a quick game with a friend or battle it out in a grueling season where they'll have to manage player contracts, trades, salary caps and injuries. So the battle for victory will once again begin in stadiums filled with passionate fans as they support their team with electrifying chants while waving their club and country flags."
+}

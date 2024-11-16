@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Grasshopper Manufacture"],
+	"genres": ["Action", "Adventure"],
+	"name": "Blood+ One Night Kiss",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_bloodplusonenightkiss_ps2",
+			"score": 4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Based off Production I.G.'s Blood+ anime, this PS2 adaptation gives players control of the show's main character Saya and an original character, Aoyama. Players will be able to explore the town of Shikishi freely as they advance through the game's storyline. Grasshopper CEO Suda 51 is personally directing the game. Blood+ One Night Kiss features a similar art style and action design as another Grasshopper Manufacture creation, the bizarre and gripping Killer 7. "
+}

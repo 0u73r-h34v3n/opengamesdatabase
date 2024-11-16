@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Impact Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Jak and Daxter: The Lost Frontier",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCE Australia (AU)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jak-and-daxter-the-lost-frontier",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The dynamic duo Jak and Daxter are back in an all-new adventure on PSP and PLAYSTATION 2 that picks up the action where the previous trilogy left off. Whether battling Sky Pirates in a customizable aircraft or blasting Aeropeans with the punishing Gunstaff weapon, Jak and Daxters journey will take them beyond the edge of the Brink  and into a war bigger than they ever could have imagined."
+}

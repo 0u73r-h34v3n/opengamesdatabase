@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Now Production"],
+	"genres": ["Action"],
+	"name": "Bakugan Battle Brawlers",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Based on the wildly popular card game and television show, Bakugan: Battle Brawlers, is a video game experience requiring skill, strategy and imagination. Featuring a fierce assortment monsters, uncanny powers and amazing environments in an alternate dimension called Vestroia, the game lets you and your own unique Bakugan join forces with Dan and his fellow Brawlers as they battle to save Vestroia and ultimately, Earth from destruction."
+}

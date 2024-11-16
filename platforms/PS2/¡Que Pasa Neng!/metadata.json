@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mere Mortals"],
+	"genres": ["Action", "Puzzle"],
+	"name": "¡Que Pasa Neng!",
+	"publishers": ["Phoenix Games", "Atari"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Meristation (Spanish)",
+			"url": "https://as.com/meristation/2007/01/04/analisis/1167894000_017623.html",
+			"score": 2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "¡Que Pasa Neng! is a game based off a character created by Spanish comedian Edu Soto, Neng de Castefa, in which he parodies the urban tribe of Bakalas and Canis. The gameplay consists of 5 mini-games in which you must pass the same test 3 times before advancing to the next mini-game."
+}

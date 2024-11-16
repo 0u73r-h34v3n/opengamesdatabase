@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Collision Studios"],
+	"genres": ["Action"],
+	"name": "Jumper: Griffin's Story",
+	"publishers": ["Brash Entertainment (US)", "Eidos Interactive (EU, AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jumper-griffins-story",
+			"score": 34,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jumpers, people with a genetic anomaly that enables them to teleport themselves instantaneously to anywhere on the globe, have existed for centuries. An age-old battle rages between the Jumpers and the Paladins, a clandestine organization set on eliminating them from the planet. The Jumper game extends the film's storyline, following Griffin, a battle-hardened Jumper determined to avenge the death of his parents at the hands of the Paladins."
+}

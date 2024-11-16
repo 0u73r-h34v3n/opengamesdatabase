@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Adventure"],
+	"name": "Nano Breaker",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/919559-nanobreaker/index.html",
+			"score": 51,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nano-breaker",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Nano Breaker's futuristic world the nanomachines which were originally developed to enrich humankind suddenly went awry. The machines began to harvest the blood of humans and the iron of buildings in an effort to construct an army of monster machines. In order to combat this threat you must slash your way through hordes of enemy units to save the world from apocalypse. Equipped with a powerful shape-shifting Plasma Blade you assume the role of the lone hero who must defend humankind from the deadly nanomachines."
+}

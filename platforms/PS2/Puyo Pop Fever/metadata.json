@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Puzzle"],
+	"name": "Puyo Pop Fever",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "From the popular Japanese puzzle game Puyo Pop comes Puyo Pop Fever, designed for a new generation of console gamers. Simple yet challenging, the game features both single-player and multiplayer options. The additional fever mode adds a different twist to the gameplay, providing the opportunity to create a string of chain reactions that can annihilate your opponent. Puyo Pop Fever mixes both 2D and 3D elements, and as the action speeds up, you'll see more special effects combined with \"anime\" graphics."
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|SquareSoft"],
+	"genres": ["RPG"],
+	"name": "Unlimited Saga",
+	"publishers": [
+		"Square Enix|SquareSoft (JP)",
+		"Square Enix (US)",
+		"Atari (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/unlimited-saga/ps2-486818",
+			"score": 6.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/unlimited-saga",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Unlimited Saga, several adventurers embark on a journey to conquer The Seven Wonders: a group of ancient structures shrouded in mystery. The Seven Wonders are scattered across parched deserts, frigid tundra, harsh mountains and raging seas. All remnants of a time when evil forces ran amok. Play as any character including a former pirate, an inventor, a knight and a tribesman. Embark on an open-ended adventure that's shaped by your own choices allowing the world and its characters to constantly evolve."
+}

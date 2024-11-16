@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Opus"],
+	"genres": ["Action", "Fighting"],
+	"name": "UFC: Sudden Impact",
+	"publishers": [
+		"Global Star Software (US, EU)",
+		"Marvelous Entertainment (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ufc-sudden-impact",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "UFC: Sudden Impact gives you all the mixed martial arts action found only in the Octagon. You can create and customize your own Ultimate Fighter and then fight your way through five gameplay modes, including Tournament and Story. The game includes such UFC superstars as Chuck Liddell, Tito Ortiz, Ken Shamrock, and Matt Hughes, as well as 10 unlockable and six hidden fighters. You can choose from 15 different fighting disciplines, positions, and moves."
+}

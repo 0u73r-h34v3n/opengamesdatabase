@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Sports"],
+	"name": "NBA Live 2002",
+	"publishers": [
+		"Electronic Arts (US, EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nba-live-2002",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA Live 2002 is the full on-court NBA experience. Hear what the players are talking about and see what's going on from their eyes. Get inside for more lay-ups and dunks along with more control in the low post. Facial animation and lip synching are heavily focused during transition sequences and auto replays. See Allen Iverson with his tattoos and corn rows arguing a referee's call or yelling as he throws down a big time dunk and see his reaction as he celebrates afterwards. See--and play--NBA Live 2002!"
+}

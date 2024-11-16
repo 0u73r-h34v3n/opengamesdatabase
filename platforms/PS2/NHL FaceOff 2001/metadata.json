@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NHL FaceOff 2001",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-faceoff-2001",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Without a mouthpiece, you will lose a tooth!  Lace up your skates and get physical in NHL Face Off 2001. Choose from 30 different NHL teams, including the new Minnesota Wild and Columbus Blue Jackets, and battle for the Stanley Cup. Play as or against 13 retired NHL legends including Mr. Hockey Gordie Howe, Bobby Hull, Phil Esposito, Marcel Dionne and more. Four new play modes including Tournament, ShootOut, Practice and Draft combined with fast, fluid game play make FaceOff 2001 the hockey game for PlayStation2."
+}

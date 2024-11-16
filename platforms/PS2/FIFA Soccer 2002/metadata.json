@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 2002",
+	"publishers": [
+		"Electronic Arts|EA Sports (US)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fifa-soccer-2002",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NEW PASSING SYSTEM  Total control of every flick, pass and deke. NEW SOOTING SYSTEM Aim your shot with increased accuracy. ROAD TO 2002 FIFA WORLD CUP Qualify for the biggest sport event in the universe. TEST YOUR SKILLS, REAP THE REWARDS Win championships and earn hidden cheat codes. INTERNATIONAL SUPERSTARS AND POWERHOUSE Great players from 16 leagues and more then 400 teams."
+}

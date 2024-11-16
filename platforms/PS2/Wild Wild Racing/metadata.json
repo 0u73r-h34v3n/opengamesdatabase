@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rage Software"],
+	"genres": ["Racing"],
+	"name": "Wild Wild Racing",
+	"publishers": ["Imagineer (JP)", "Interplay (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wild-wild-racing",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When the creators of eye-candy-laden PC hits Expendable and Incoming start working on a racing game, it's a pretty sure bet that it will boast some rather impressive effects. While Wild Wild Racing may not turn heads in the same way Gran Turismo 3 does, it does look good; and if there's one thing the UK developers like Rage Software are known for, it's creating a solid racing experience. Picked up from Japanese publisher Imagineer by Interplay, Wild Wild Racing has since seen overhauls in the physics, control, and speed. Gamers can ride in nine different vehicles, and race in several global locations during different hours of the day such as night, dusk, and the late afternoon. The game boasts a solid 60 frames per second, and the over-the-top effects that Rage is known for. Control is all analog, meaning even the D-pad (as well as the traditional analog buttons) responds to pressure; the harder you press, the sharper the turn and the faster the acceleration and braking."
+}

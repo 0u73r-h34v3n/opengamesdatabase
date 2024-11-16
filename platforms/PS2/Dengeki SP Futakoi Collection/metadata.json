@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Media Works"],
+	"genres": ["Collection"],
+	"name": "Dengeki SP: Futakoi Collection",
+	"publishers": ["Media Works"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Futakoi]] and [[Futakoi: Koi to Mizugi no Survival]].}}"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Collection"],
+	"name": "Hyper Street Fighter II: The Anniversary Edition / Vampire: Darkstalkers Collection Value Pack",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Japanese's editions of [[Hyper Street Fighter II: The Anniversary Edition]] and [[Vampire: Darkstalkers Collection]].}}"
+}

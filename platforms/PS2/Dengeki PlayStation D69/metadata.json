@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "Dengeki PlayStation D69",
+	"publishers": ["Media Works"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{DengekiInfo}} This disc was issued with Dengeki PlayStation 275<sup>th</sup> edition. DVD contents:"
+}

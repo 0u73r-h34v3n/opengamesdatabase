@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Circus"],
+	"genres": ["Visual Novel"],
+	"name": "D.C.: Da Capo - The Origin",
+	"publishers": ["Kadokawa"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Da Capo - The Origin is the PS2 adaption of the first entry of this series. <br>"
+}

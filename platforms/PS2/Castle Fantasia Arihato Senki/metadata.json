@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Studio e.go!"],
+	"genres": ["Visual Novel"],
+	"name": "Castle Fantasia: Arihato Senki",
+	"publishers": ["GN Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The game is the prequel to Castle Fantasia. The game tell stories of Castle Fantasias heroes Hewie and Artea during their time at the military academy. "
+}

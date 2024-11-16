@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Double Helix Games"],
+	"genres": ["Turn-based strategy"],
+	"name": "Wrath Unleashed",
+	"publishers": ["LucasArts (US)", "Activision (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wrath-unleashed",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join an epic contest between darkness and light. Wrath Unleashed puts you in a fantastic, deadly world of mythological creatures and giant floating arenas.  Take part in intense fighting action, thought-provoking strategy and vicious head-to-head mayhem.  Wrath Unleashed features nine different terrain types, 15 multiplayer maps and over a dozen single player maps.  This unique action-strategy game pits up to four players and an array of all-powerful fantasy creatures against each other.  And you'll need to unleash every bit of your wrath upon the world to win."
+}

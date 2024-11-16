@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Saint Seiya: The Sanctuary",
+	"publishers": ["Bandai"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Saint Seiya: The Sanctuary is a fighting game based on the Saint Seiya franchise and follows the \"Gold Saint Saga\" of the TV series. The player takes the role of a Saint Seiya who has to save the life of the Goddess of Peace Athena. To do that he has to visit twelve temples representing the astrological signs."
+}

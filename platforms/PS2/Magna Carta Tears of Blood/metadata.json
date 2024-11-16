@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SoftMax"],
+	"genres": ["RPG"],
+	"name": "Magna Carta: Tears of Blood",
+	"publishers": ["Banpresto (JP)", "Atlus (US)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/magna-carta-tears-of-blood",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Magna Carta: Tears of Blood is a role-playing game that takes place amid racial tensions in Efferia, a land populated by an indigenous population and humans that have fled disease in their homeland. You can become a master of the powerful and magical \"Carta\" system and try to bring peace to Efferia. The game features computer-generated cutscenes and a fantasy story that provides more than 50 hours of gameplay."
+}

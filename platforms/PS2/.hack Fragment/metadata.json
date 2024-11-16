@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["MMO", "Action", "RPG"],
+	"name": ".hack//Fragment",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The ''.hack'' series takes place in a virtual Online world -- that is to say, they're Offline games whose story has Online themes. With ''.hack//fragment'', Bandai and co-developers Cyber Connect 2 and Artdink are taking the series into the realm of true Online gameplay for the first time. Using a standard network adapter (no need for a hard disk) you'll have the option of adventuring alongside players throughout the country."
+}

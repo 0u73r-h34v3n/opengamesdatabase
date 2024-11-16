@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Compilation", "Arcade", "Action"],
+	"name": "RockMan: Power Battle Fighters",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Rockman Power Battle Fighters is a collection of two classic Rockman arcade games -- Rockman Power Battle and Rockman 2: The Power Fighters. Both games feature a Versus Mode for two players, as well as unlockable modes obtained after you clear the games."
+}

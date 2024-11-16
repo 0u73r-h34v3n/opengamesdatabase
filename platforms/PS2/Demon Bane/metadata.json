@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nitro+"],
+	"genres": ["RPG"],
+	"name": "Demon Bane",
+	"publishers": ["Kadokawa"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The game that helped create the anime and manga of the same name. Kurou Daijuuji is a poor detective living in Arkham City. One day, he receives a request from Ruri Hadou of Hadou Financial Group to search for a magic book. While he initially refuses, Ruri offers him a large sum of money upon completion of her request, which leads Kurou to accept. As Kurou searches for the book, he unexpectedly runs into Al, a pretty girl that is actually a powerful grimoire. They forge a contract with each other, bestowing Kurou with powerful magic."
+}

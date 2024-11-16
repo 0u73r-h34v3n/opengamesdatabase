@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Tak: The Great Juju Challenge",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2005/09/21/tak-the-great-juju-challenge-2",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/tak-the-great-juju-challenge/critic-reviews/?platform=playstation-2",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third chapter in THQ's Tak series lets the player reprise the role of Tak, a shaman who uses magic to defeat enemies. Tak: The Great Juju Challenge features a new cooperative mode in which two players can solve puzzles together."
+}

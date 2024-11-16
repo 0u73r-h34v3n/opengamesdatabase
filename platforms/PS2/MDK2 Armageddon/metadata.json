@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BioWare"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "MDK2 Armageddon",
+	"publishers": ["Interplay (US)", "Virgin Interactive (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/mdk2/ps2-14861",
+			"score": 8.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mdk-2-armageddon",
+			"score": 80,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/mdk2-armageddon-review/1900-2700553/",
+			"score": 7.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "MDK&trade; Armageddon - a high-energy mix of intense action, strealth, brain teasing challenges, hi-tech gadgets and offbeat humor no gamer should miss. This next-generation sequel packs more twists and turns than a corkscrew roller coaster."
+}

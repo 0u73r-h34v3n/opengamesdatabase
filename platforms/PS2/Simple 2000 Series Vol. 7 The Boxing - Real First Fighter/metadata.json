@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Sports"],
+	"name": "Simple 2000 Series Vol. 7: The Boxing - Real First Fighter",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Go 12 rounds against the toughest fighters with BOXING CHAMPIONS. Now you can hook, jab and uppercut with the very best in this great new 3d slugfest! Choose one of nine characters across three fighting weights, take on the fearsome Tournament mode, or try to knockdown all-comers in the Survival mode."
+}

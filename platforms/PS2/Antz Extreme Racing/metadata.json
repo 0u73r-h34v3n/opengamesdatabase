@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Supersonic Software"],
+	"genres": ["Racing"],
+	"name": "Antz Extreme Racing",
+	"publishers": ["Empire Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/antz-extreme-racing",
+			"score": 31,
+			"max_score": 100
+		}
+	],
+	"synopsis": "0.5 MPH is extremely fast-when your vehicle is only big enough to carry an ant! Jockey for first place with your favorite character from the hit motion picture Antz&trade;, using vehicles that aren't your typical garden variety.  Surf using a leaf, race on a fuse with wheels, even hop on a wasp for the antenna-raising thrill ride of your life! You may feel tiny, but practice will make you a giant among racers!"
+}

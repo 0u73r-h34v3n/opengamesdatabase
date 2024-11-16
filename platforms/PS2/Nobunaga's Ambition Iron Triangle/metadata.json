@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RPG", "Simulation", "Turn-Based Strategy"],
+	"name": "Nobunaga's Ambition: Iron Triangle",
+	"publishers": ["Koei (JP, US)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nobunagas-ambition-iron-triangle",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Embrace technology, govern wisely, and build an invincible military force for war on land and at sea. Only then will Nobunaga's Ambition be realized and a nation united under one sword. Three game modes: \"Unification\", \"Local\", and \"Challenge\". Experience four historical scenarios and one fictional, then unlock more scenarios as you progress- nine in all. Scenarios in \"Unification\" mode may take up to 60 hours to complete!"
+}

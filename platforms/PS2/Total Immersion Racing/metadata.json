@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Razorworks"],
+	"genres": ["Racing"],
+	"name": "Total Immersion Racing",
+	"publishers": ["Empire Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/total-immersion-racing",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Immerse yourself in a new racing experience that features the latest driving technology, real-world racetracks and cars, and challenging gameplay. In Total Immersion Racing, you'll start on a career path that brings you from the lowest ranks of racing all the way to the world championship. Get behind the wheel of one of 18 licensed cars, and race against drivers who have their own personalities, driving styles, memories, behaviors, and grudges to bear. If you upset the wrong opponent, don't be surprised if he responds many races later."
+}

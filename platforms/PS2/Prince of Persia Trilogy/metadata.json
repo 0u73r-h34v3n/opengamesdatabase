@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Collection"],
+	"name": "Prince of Persia Trilogy",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL"],
+	"synopsis": "{{Collection|[[Prince of Persia: The Sands of Time]], [[Prince of Persia: Warrior Within]] and [[Prince of Persia: The Two Thrones]].}}"
+}

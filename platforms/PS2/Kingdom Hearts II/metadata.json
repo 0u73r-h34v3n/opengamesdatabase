@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "RPG"],
+	"name": "Kingdom Hearts II",
+	"publishers": ["Square Enix"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kingdom-hearts-ii",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Kingdom Hearts II'' is the sequel to the action role-playing game, [[Kingdom Hearts]], featuring a host of familiar characters from movies and video games alike. ''Disney'' characters Sora, Donald Duck, and Goofy are searching for their missing king, and it is up to you to help find him. The game also features characters such as Captain Jack Sparrow from ''Pirates of the Caribbean'' and characters from the ''Final Fantasy'' series of games. Voice actors Haley Joel Osment and James Woods join the cast, and the veteran designers of the original ''Kingdom Hearts'' have returned to work on the sequel."
+}

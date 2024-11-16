@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai|BEC"],
+	"genres": ["RPG"],
+	"name": "Digimon World 4",
+	"publishers": ["Bandai (JP, US)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/digimon-world-4/ps2-639272",
+			"score": 6.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/digimon-world-4",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Digimon are ready to embark on a new adventure filled with intense battles. In Digimon World 4, all access to the real world has been terminated, security has been breached, and a new mysterious world has been discovered. Now it's up to you, the Digital Security Guard, to investigate and bring peace back to the Digital World. You can play as your favorite Digimon from the TV series and unlock special Digivolved Digimon by mastering skills and techniques. With the PlayStation 2 multitap, you can play with up to three of your friends in multiplayer mode."
+}

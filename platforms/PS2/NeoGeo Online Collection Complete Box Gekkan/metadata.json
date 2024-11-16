@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Collection"],
+	"name": "NeoGeo Online Collection Complete Box Gekkan",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|NeoGeo Online Collection versions of [[The King of Fighters Collection: The Orochi Saga]], [[The King of Fighters NESTS Collection]], [[The King of Fighters '98 Ultimate Match]], [[World Heroes Anthology]], [[Bakumatsu Rouman: Gekka no Kenshi 1-2]] and [[Fuuun Super Combo]].}}"
+}

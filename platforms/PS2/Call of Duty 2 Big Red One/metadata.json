@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treyarch"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Call of Duty 2: Big Red One",
+	"publishers": ["Activision (US, EU, AU)", "Konami (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/call-of-duty-2-big-red-one",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Call of Duty 2: Big Red One is a World War II shooter focused on the actions of the US Army's First Infantry Division.    This is the second console edition of Activision's intense war series, brought to home systems by new development teams, Gray Matter (of COD: United Offensive) and Treyarch. As with the previous console Call of Duty, this sequel follows the gritty realism and desperate comradery of the PC edition in an entirely different console game, with unique characters, gameplay and missions."
+}

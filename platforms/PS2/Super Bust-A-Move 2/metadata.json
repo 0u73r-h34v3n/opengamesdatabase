@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["Puzzle"],
+	"name": "Super Bust-A-Move 2",
+	"publishers": ["Taito Corporation (JP)", "Ubisoft (EU, US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/487/487777.html",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/super-bust-a-move-2",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bust-A-Move is back with more bubbles, modes, and challenges than ever. In Super Bust-A-Move 2, you must clear each puzzle by connecting bubbles of similar colors, causing them to pop. Now, you can use Big Bubbles and a spinning game frame to help you clear each stage. Try your bubble-busting skills in Story mode, where you guide a character through five challenging levels all the way to the top of the legendary Bubble Tower. Whether you play single-player or multiplayer head-to-head modes, Super Bust-A-Move offers fast-paced fun for all ages."
+}

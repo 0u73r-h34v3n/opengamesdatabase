@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rage Software"],
+	"genres": ["Sports"],
+	"name": "Rocky",
+	"publishers": ["Rage Software (EU)", "Ubisoft (US)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/11/11/rocky",
+			"score": 8.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rocky",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jump into the ring as Rocky Balboa and go head-to-head against 29 tough opponents, including Apollo Creed, Clubber Lang, Ivan Drago, and Tommy Gunn. Mickey and company train you from the streets of Philadelphia to the world heavyweight championship bout. Master Rocky's powerful punch combos and fast flurries. Practices your skills in Sparring mode and then test them out in the Knockout Tournament against 15 other players. Based on the movie trilogy, Rocky tests your dedication, skill, and heart through various gameplay modes."
+}

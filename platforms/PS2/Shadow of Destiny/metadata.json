@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Adventure"],
+	"name": "Shadow of Destiny",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shadow-of-destiny",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the shoes of Eike, a man with the ability to travel through time. With this power, you must travel through changing time periods and use clues from the past to prevent your own murder. The actions you take affect your story path, resulting in one of multiple endings. Once you unravel the mystery in nine chapters, you can experience additional scenes. With multiple story paths and a variety of puzzles, Shadow of Destiny puts your dire fate into your own hands."
+}

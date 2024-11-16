@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "Gravity Games Bike: Street Vert Dirt",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gravity-games-bike-street-vert-dirt",
+			"score": 24,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gravity Games Bike: Street Vert Dirt takes the action sport to the next level with 21 skilled riders, 10 expansive courses, and more than 1,500 wicked tricks. You'll control one of seven professional bikers--including Fuzzy Hall, Dennis McCoy, Jamie Bestwick, Andre Ellison, Leigh Ramsdell, Reuel Erickson, and Matt Beringer. If you're good enough to handle the intense challenges, you'll earn the Gravity Games Gold Medal in Street, Vert, or Dirt competitions--and if you're really good, you'll earn the Gold in all three."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Rygar: The Legendary Adventure",
+	"publishers": ["Tecmo (US, JP)", "Wanadoo (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/rygar-the-battle-of-argus/ps2-481006",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rygar-the-legendary-adventure",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rygar: The Legendary Adventure tells the tale of a noble warrior determined to save the Princess Harmonia and bring the kingdom of Argus back to a state of peace. Armed with the Diskarmor, Rygar sets out on a legendary adventure traveling to several places and battling ravenous monsters called Titans. The Diskarmor shield uses the elements fire/ice/lightning and it can be improved with mystic stones. The diskarmor can be used for attack, defense or transportation."
+}

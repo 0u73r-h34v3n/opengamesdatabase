@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Action"],
+	"name": "EyeToy: Play",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eyetoy-play",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A cool new gaming idea needs some cool games to play on it.  So have a look at EyeToy: Play, the first game made exclusively for EyeToy, a motion sensitive camera that sits on top of your TV and plugs into your PlayStation 2.  EyeToy: Play is a collection of 12 addictive games.  With Kung Foo, puzzles, dancing, juggling, football, boxing, fireworks, and loads more, there are enough games here to keep you all laughing at each other for hours.  And the best part is, anyone can play."
+}

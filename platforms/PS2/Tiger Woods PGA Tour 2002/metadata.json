@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 2002",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-2002",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tiger Woods PGA Tour 2002 features the expected tuning to its 3D engine -- a first in the series -- plus much more meat to hang on those bones. There's now a healthy suite of seven real-time 3D 18-hole courses (six real-life, plus a \"Tiger's Dream 18\" compilation, unlocked a hole at a time), more golfers both fictional and otherwise, a complete new training and licensing mode, more extra modes to go along with the Tiger Challenge tests, and further refinement to the swing control system. The game offers multi player support for up to four players, consecutively."
+}

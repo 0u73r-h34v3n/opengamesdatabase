@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "MVP 07 NCAA Baseball",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mvp-07-ncaa-baseball",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EA continues to innovate on its gameplay engine by introducing Rock and Fire Pitching, a pitching mechanic that will forever change the way you deliver that blistering pitch past the batter. Rock and Fire pitching gives you ultimate control and increased feel to more realistically emulate the real life presence of stepping onto the mound, winding up and delivering the ultimate pitch."
+}

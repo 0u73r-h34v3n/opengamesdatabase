@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montreal"],
+	"genres": ["Action", "Fighting"],
+	"name": "TMNT",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tmnt",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The new NT video game uses the same dark and dangerous environments and adventurous themes featured in the new NT CGI film being developed by Imagi Animation Studios and Mirage Licensing. The NT movie takes place in a New York City plagued by secretive villains and strange, otherworldly creatures. Faced with these perils, the Turtles will experience their most trying time as heroes and as a family, as Raphael, Donatello and Michelangelo lose their focus and struggle to maintain their unity and ninja discipline."
+}

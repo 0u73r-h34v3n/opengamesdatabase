@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dark Wind",
+	"publishers": ["In2Games"],
+	"regions": ["PAL"],
+	"synopsis": "[https://en.wikipedia.org/wiki/Gametrak Gametrak], a radical new, patented controller technology giving users fully immersive 3D interaction with Dark Wind, a brand-new fighting game from leading UK developer Atomic Planet Entertainment. Gametrak is a completely new technology, finally freeing gamers from the constraints of the joypad. Unlike previous systems, which have been commonly based around tilt technology, infrared beams or cameras, Gametrak allows full, fast, accurate 3D movement, with no processor overhead and no delay. Dark Wind dispenses with joysticks and button presses to allow users to face on-screen opponents head on and physically punch them - every detail of every move the player makes is tracked accurately, without time delay, allowing a level of interactivity, intuitiveness and downright violence never experienced before in a game. Plug in the Gametrak system, don the fighting gloves, and step into Dark Wind; the definitive 3D experience for next generation fighting games. Blast your enemies with fireballs, block and dodge opponent strikes, challenge a friend to combat in 2-Player split screen mode."
+}

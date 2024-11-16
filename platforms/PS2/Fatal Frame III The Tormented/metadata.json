@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Fatal Frame III: The Tormented",
+	"publishers": [
+		"Tecmo (JP, US)",
+		"Take-Two Interactive (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_projectzero3_ps2",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/663/663863p1.html",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fatal-frame-iii-the-tormented",
+			"score": 78,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/fatal-frame-iii-the-tormented-review/1900-6140116/",
+			"score": 7.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Fear That Spreads...  What you will see in Rei's dreams is only the beginning of the nightmare as you enter into an altered state of reality where you will encounter the most hideously tortured souls and uncover the most about truth, life, and... death.  * Multiple Playable Characters. Choose between 3 different characters to complete each terrifying mission. * Two Haunting Worlds. The game takes place in nightmares and in real life, where the lines eventually become blurred. * Camera Obscura. Fatal Frame's signature camera is back with with more features and abilities than ever before."
+}

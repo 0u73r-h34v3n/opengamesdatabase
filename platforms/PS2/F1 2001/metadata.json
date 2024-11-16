@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Racing"],
+	"name": "F1 2001",
+	"publishers": [
+		"Electronic Arts|Electronic Arts Victor (JP)",
+		"Electronic Arts (US, EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/f1-2001/",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/f1-2001",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Battle for position at every sweeping bend, high-speed straightaway, and hairpin turn within the world's most glamorous sproting arena.  Engage in high stakes racing from Monaco to Monza and take on the most intelligent and daring racers to hit the Formula One circuit."
+}

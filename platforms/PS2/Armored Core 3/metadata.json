@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Armored Core 3",
+	"publishers": ["From Software (JP)", "Agetec (US, JP)", "Metro3D (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/370/370438p1.html",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/armored-core-3",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's been 20 years since the earth government and the corporations battled for supremacy. A new and mysterious entity has entered the picture, however, snapping up all the available Ravens for intense missions that only their custom-built Armored Core units can handle. As a Raven, take on 50 solo missions using revamped weapons, upgrades, and the all-new drop feature, which allows you to pick up and drop weapons in your environment. You can also pit your custom-designed ACs against your friends in two-on-two-battles."
+}

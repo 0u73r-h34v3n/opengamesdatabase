@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Fighting"],
+	"name": "SoulCalibur II",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/soulcalibur-ii",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Open the next chapter in world of Soulcalibur. Soulcalibur II features seven distinctive gameplay modes including: Arcade, Versus, Time Attack, Survival, Team Battle, Practice, and the console exclusive Weapon Master.  Collect up to 200 different weapons and battle characters with their own styles, strengths, and abilities. In addition to the 13 fighters, each platform has unique special fighters: Link for GameCube, Heihachi for PS2, and Spawn for Xbox. Prove yourself through soul and sword."
+}

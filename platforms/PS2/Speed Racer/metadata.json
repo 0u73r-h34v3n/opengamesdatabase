@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sidhe Interactive"],
+	"genres": ["Racing"],
+	"name": "Speed Racer",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/10/17/speed-racer-the-videogame-review-2",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/speed-racer",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get behind the driver's seat with this Speed Racer based on the Wachowski Brothers film with its garage of combat-ready rides and see how you fare in \"car-fu style\" action. Take on the role of the characters from the film, getting behind the wheels of each character's signature vehicles to experience firsthand the film's high adrenaline, combative racing style. A live-action family adventure, Speed Racer follows the young racecar driver Speed in his quest for glory on and off the track in his thundering Mach 5."
+}

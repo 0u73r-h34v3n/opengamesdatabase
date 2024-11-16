@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Racing"],
+	"name": "Burnout 2: Point of Impact",
+	"publishers": ["Acclaim (US, EU)", "Sammy Studios (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamerankings",
+			"url": "http://www.gamerankings.com/ps2/561494-burnout-2-point-of-impact/index.html",
+			"score": 88,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/burnout-2-point-of-impact",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Burnout 2: Point of Impact is the follow-up to the original smash hit with improved graphics, faster gameplay, and bigger, more spectacular crashes.  While the first Burnout was inspired by European movies and locations, its sequel is inspired by American films such as The Fast and the Furious.  Set in US locations, the game gives you an all-new set of vehicles: modified Japanese cars, pickups, SUVs - plus some bonus rides such as police cruisers, and classic 50's hotrods.  Also, expect tighter handling, better crash deformations, new music, new game structure, enhanced physics, new lighting, improved car models, a new replay system, and fast-paced fun."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["MileStone|MileStone Inc."],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Chaos Field: New Order",
+	"publishers": ["MileStone|MileStone Inc."],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/chaos-field/",
+			"score": 6.2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Chaos Field is O3 Entertainment's adaptation of the space-shooting Japanese arcade hit of the same name. The game includes three characters, five levels, and multiple weapons to assist you in your 2D shootouts. During gameplay, you can shoot other bullets as they fly at you and use an energy field to absorb the ones you miss. The game will be released on the Dreamcast in Japan."
+}

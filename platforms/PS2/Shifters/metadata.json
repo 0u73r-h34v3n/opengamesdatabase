@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shifters",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/shifters-review/1900-2872688/",
+			"score": 3.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shifters",
+			"score": 37,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The world has begun to change. Deadly creatures of metal and flesh roam the lands, their origin a complete mystery. Structures of steel and steam have begun to replace once quaint medieval villages. Somehow, you know there is a connection between these bizarre changes and your own newfound power to shapeshift. Stop the paradox and reverse the damage before the universe is lost forever!"
+}

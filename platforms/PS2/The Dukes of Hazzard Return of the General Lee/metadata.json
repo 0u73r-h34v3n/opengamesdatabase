@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ratbag"],
+	"genres": ["Racing"],
+	"name": "The Dukes of Hazzard: Return of the General Lee",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-dukes-of-hazzard-return-of-the-general-lee",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the shoes of Bo and Luke Duke as they race to win prize money to save the local orphanage from Boss Hogg's latest crooked scheme. With the help of Daisy Duke, Uncle Jesse, and Cooter, you'll go up against the evil Boss Hogg and his cohorts in the Hazzard County Derby. Choose from a variety of vehicles, including the General Lee, the Black Charger, Uncle Jesse's Pickup, and more, and then perform wild stunts in both single-player and multiplayer modes."
+}

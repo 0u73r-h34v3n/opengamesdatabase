@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warthog"],
+	"genres": ["Turn-based strategy"],
+	"name": "Future Tactics: The Uprising",
+	"publishers": ["Crave"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/future-tactics-the-uprising",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to the future--a place where creatures have forced humans to live in squalor, battling their overlords and waxing nostalgic for better days. Now, a young boy named Low, his sister, and a collection of fighters find themselves as mankind's only hope for blasting the creatures back to where they came from. You must guide this ragtag team of survivors through 19 levels of tactical combat while upgrading them with powerful weapons. In Battle mode, you can take on a friend in tactical warfare--complete with customizable handicaps, power-ups, and victory conditions."
+}

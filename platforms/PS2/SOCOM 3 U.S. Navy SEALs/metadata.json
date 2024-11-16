@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zipper Interactive"],
+	"genres": ["Action", "Shooter"],
+	"name": "SOCOM 3: U.S. Navy SEALs",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEI (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/926538-socom-3-us-navy-seals/index.html",
+			"score": 81,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/socom-3-us-navy-seals",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Reprise the role of elite SEAL forces as you carry out various squad-based missions to protect America. SOCOM 3: U.S. Navy SEALs takes you to three new areas of operation: Morocco, Poland, and South Asia. For the first time in the SOCOM series, land and water vehicles play a central role in the gameplay experience."
+}

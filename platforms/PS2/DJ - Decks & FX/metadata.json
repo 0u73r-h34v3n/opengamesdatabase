@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Relentless Software"],
+	"genres": ["Tools"],
+	"name": "DJ - Decks & FX",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"synopsis": "This is a DJ simulator. Use your PS2 to mix House records. The game gives you two decks, mixer, sampler, effects unit and loops unit and lets you loose on 70 tunes from the likes of Masters at Work, Dimitri from Paris, Shapeshifters, DJ Gregory, Francios K."
+}

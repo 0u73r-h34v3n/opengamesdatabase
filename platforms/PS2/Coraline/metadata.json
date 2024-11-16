@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Papaya Studios"],
+	"genres": ["Adventure"],
+	"name": "Coraline",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/coraline",
+			"score": 39,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The only videogame based on the upcoming movie, Coraline will allow players to explore and interact with such immersive 3-D environments from the movie as the Pink Palace, with its nooks and crannies and apartments, and the unpredictable Other World. Players will engage in unique mini-games and adventures with Coraline&rsquo;s friends Wybie and Cat as they collect items that will unlock the mysteries of the Other World."
+}

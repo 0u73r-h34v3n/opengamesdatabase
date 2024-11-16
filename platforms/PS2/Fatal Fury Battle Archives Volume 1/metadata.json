@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Fighting", "Arcade", "Compilation"],
+	"name": "Fatal Fury: Battle Archives Volume 1",
+	"publishers": ["SNK Playmore (JP, US)", "Ignition Entertainment (EU, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fatal-fury-battle-archives-volume-1",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fatal Fury: Battle Archives Vol. 1 includes four classic Fatal Fury games: [https://en.wikipedia.org/wiki/Fatal_Fury:_King_of_Fighters Fatal Fury], [https://en.wikipedia.org/wiki/Fatal_Fury_2 Fatal Fury 2], [https://en.wikipedia.org/wiki/Fatal_Fury_Special Fatal Fury Special] and [https://en.wikipedia.org/wiki/Fatal_Fury_3:_Road_to_the_Final_Victory Fatal Fury 3: Road to The Final Victory]. The Fatal Fury series was SNK's first ongoing fighting-game franchise, and many beloved SNK characters and locations made their first appearances in Fatal Fury. Fatal Fury was also the first fighting game to feature a two-plane system, allowing characters to dodge out of harm's way when confronted with a challenger's attacks."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Andamiro|Andamiro U.S.A. Corp."],
+	"genres": ["Music"],
+	"name": "Pump It Up: Exceed",
+	"publishers": ["Andamiro|Andamiro U.S.A. Corp. (KO)", "Mastiff (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/pump-it-up-exceed/reviews/",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pump-it-up-exceed",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mastiff Games brings the popular dance pad arcade game Pump It Up to consoles with Pump It Up: Exceed. There are more than 100 songs to choose from and five levels of difficulty. You can unlock new content, like new songs and modifiers, which can adjust gameplay in a variety of ways. Pump It Up: Exceed has two-player modes with two mats and a one-player, two-mat mode."
+}

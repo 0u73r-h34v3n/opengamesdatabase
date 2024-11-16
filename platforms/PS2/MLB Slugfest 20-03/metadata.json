@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "MLB Slugfest 20-03",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mlb-slugfest-20-03",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MLB SlugFest 20-03 ignites America's national pastime with a torrid blend of aggressive, adrenaline-style action and authentic MLB credentials.  Along with the series' signature brand of blazing fastballs, screaming line drives, and hard-hitting wall crashes, this year's Slugfest features more outrageous animations, fantasy players and stadiums, and extra DVD Content.  Bolster your lineup MLB superstars, including Alex Rodriguez, and take your game to the next level."
+}

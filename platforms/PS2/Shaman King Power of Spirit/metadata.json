@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WinkySoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shaman King: Power of Spirit",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shaman-king-power-of-spirit",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Shaman King follows the story of Yoh Asakura, a junior high student who has the rare power to communicate with ghosts and spirits. In the game, you'll assume the role of Yoh as he strives to become the next Shaman King. Guide Yoh across multiple stages filled with dangers, enemies, and traps in an effort to stop an evil shaman from resurrecting the Guardian of Demons. Master various fighting techniques as you encounter characters and locales from the Shaman King TV series and comics."
+}

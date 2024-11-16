@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Etranges Libellules"],
+	"genres": ["Action", "Platformer"],
+	"name": "The Legend of Spyro: Dawn of the Dragon",
+	"publishers": ["Sierra Entertainment (EU, AU)", "Activision (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-legend-of-spyro-dawn-of-the-dragon",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Free from his imprisonment, the Dark Master unleashes his wrath upon the world, determined to bring forth a new age of darkness. As evil spreads over the world like a plague, Spyro must discover abilities beyond that of the elements and unlock the true power of the purple dragon within him if he is to stop the Dark Master and fulfill his destiny."
+}

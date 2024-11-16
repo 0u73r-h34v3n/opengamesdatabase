@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Star Wars Bounty Hunter",
+	"publishers": [
+		"LucasArts (US, EU, JP)",
+		"Electronic Arts (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/557901-star-wars-bounty-hunter/index.html",
+			"score": 69,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-bounty-hunter",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The hunt begins.  You are Jango Fett, the galaxy's most dangerous bounty hunter, hired to hunt down the elusive leader of a mysterious cult--dead or alive.  Through 18 action-packed levels across six diverse worlds, face off against galactic scum, fearsome beasts, and brutal competition that stand between you and your prey: a deranged dark Jedi.  This hunt will lead you to the darkest corners of the Star Wars universe where no one else has dared to go, but you are the fearless, ruthless, and relentless Jango Fett.  For the galaxy's most wanted, there is no place to hide."
+}

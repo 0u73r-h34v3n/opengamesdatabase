@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Action"],
+	"name": "Astro Boy",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/astro-boy",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As the skies of Metro City fill with giant mechs, Astro, a robot with human emotions, arrives in a blaze of glory to defend the humans and robots of his city. Fueled by jet-powered legs, he buzzes the menacing beasts and blasts them with lethal laser fire from his fingertips. He soon discovers his powers also include x-ray vision, an arm cannon, enhanced hearing, and super strength. Help Astro uncover his full potential through 10 interactive areas, including a volcano, outer space, underground, and the city."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Tongue Entertainment"],
+	"genres": ["Adventure"],
+	"name": "Marvel Super Hero Squad",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/103/1037048p1.html",
+			"score": 5.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/marvel-super-hero-squad",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in the ever popular Marvel Universe, the Super Hero Squad is on a dire mission against Dr. Doom-s Lethal Legion of villains to recover the hidden Infinity Fractals; fragments of the all-powerful Infinity Sword. Each Infinity Fractal holds incredible power and can have significant effects on its possessor, giving each character special abilities that could alter the game-s rules and playing field. With more than 20 Marvel characters to mix and match, players can choose to take on the role of their favorite Super Heroes and Super Villains, such as Captain America, Dr. Doom, Falcon, Hulk, Iron Man, Juggernaut, Ms. Marvel, Silver Surfer, Thing, Thor and Wolverine, to name a few. Using character-specific super powers and customized combo attacks, players will blast, punch, and bash in fast-moving combat with their nemesis. Players can either jump into a battle arena against up to three opponents in Battle Mode, or choose to relive six campaigns as depicted from the animated series in Adventure Mode. Marvel Super Hero Squad is an immersive, single and multiplayer game filled with dramatic, interactive environments where players are given extraordinary powers to fight for good or evil, depending on which Super Hero Squad character they chose to play as."
+}

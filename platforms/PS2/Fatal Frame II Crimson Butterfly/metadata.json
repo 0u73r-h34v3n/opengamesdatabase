@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Fatal Frame II: Crimson Butterfly",
+	"publishers": ["Tecmo (JP, US)", "Ubisoft (EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fatal-frame-ii-crimson-butterfly",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Terror returns with Fatal Frame 2: Crimson Butterfly, the sequel to the highly popular survival horror title, Fatal Frame.  This time the terrifying journey takes you to a whole new creepy setting, an abandoned village, where you play the role of Mio Amakura, a young girl who is gifted with a strong sixth sense and her twin sister Mayu, who notices a crimson butterfly faintly glowing in the sky.  Your only weapon, an antique camera, has received a variety of new features to kill ghosts.  Get lost in another horrifying tale."
+}

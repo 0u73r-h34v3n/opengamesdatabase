@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BudCat"],
+	"genres": ["Sports"],
+	"name": "Arena Football: Road to Glory",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/arena-football-road-to-glory",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Arena Football 2: Road To Glory lets you take the world of arena football by storm! Join af2, the new arena football league, and take your team all the way to an Arena Cup. Then enter the AFL and win the Arena Bowl. Enter the exciting world of hard-hitting, high-scoring 50-yard line-to-goal line battles. Players can dominate both leagues by scoring at will and wreaking havoc on their toughest rivals with huge hits that send players into-and over-the walls."
+}

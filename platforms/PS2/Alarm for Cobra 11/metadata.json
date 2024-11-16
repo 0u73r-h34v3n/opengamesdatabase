@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midas Interactive"],
+	"genres": ["Racing"],
+	"name": "Alarm for Cobra 11",
+	"publishers": ["Midas Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "When you work for the elite police unit Cobra 11 you are above the law. Burn up the streets in the pursuit of criminals - red lights and Give Way signs mean nothing to you. All that matters is that you arrest the bad guys whatever the cost."
+}

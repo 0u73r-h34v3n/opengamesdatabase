@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "ESPN NFL Football",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nfl-football",
+			"score": 91,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sega's latest addition to its NFL 2K series, ESPN NFL Football delivers the most complete NFL experience.   Experience a new level of gaming through First Person Football, a mode that allows you to see the game through the eyes of any player on your team.   Earn and unlock trophies, mini-games, and music to show off in your Crib. Listen to commentary from ESPN's own Chris Berman and watch the game as if you're watching an ESPN broadcast. Take on your friends or play online."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Defender",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/defender",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Defender undergoes a 3D makeover, featuring fast-paced action, strategy, and an army of aliens. A remake of an arcade classic, Defender sends you on a mission to defend your solar system and save the human race from alien invasion. In addition to space combat action, the game showcases elements of strategy, multiple types of humans to protect and use, ground units for players to defend and position, and bases to build and expand. And now, you can upgrade your Defender ships with special weapons, shields, and other technologies."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action"],
+	"name": "Tak and the Guardians of Gross",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/946168-tak-and-the-guardians-of-gross/index.html",
+			"score": 67,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/tak-and-the-guardians-of-gross/critic-reviews/?platform=playstation-2",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "While cleaning up a shrine, Tak removes a giant crystal and inadvertently releases the four Big G's, four of the nastiest, most disgusting Titans to terrorize Tak's village: Trashthulu the landfill giant, Slopviathan the slime giant, Gorgonzilla the molten cheese giant, and Stinkolossus the stink giant. Now Tak must find the Juju masters of the Big G's and acquire the magic needed to stop the giants before they make a mess that will take Tak an eternity to clean up!"
+}

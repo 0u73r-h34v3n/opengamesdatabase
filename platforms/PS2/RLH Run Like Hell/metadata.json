@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Mayhem"],
+	"genres": ["Action", "Adventure", "Shooter"],
+	"name": "RLH: Run Like Hell",
+	"publishers": ["Interplay (US)", "Virgin Interactive (EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/rlh-run-like-hell/reviews/",
+			"score": 4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rlh-run-like-hell",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Run Like Hell, you can either run or combat the danger lurking around every dark corner. There are some things worse than death in this sci-fi adventure, especially with intelligent alien foes that learn from your actions. Through seven intense chapters, you'll explore various environments, characters, and objects--all enhanced with dynamic camera perspectives. Run Like Hell also features voice acting from Hollywood actors Lance Henriksen, Kate Mulgrew, Clancy Brown, and more, creating a truly cinematic experience."
+}

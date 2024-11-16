@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "Rumble Roses",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rumble-roses",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for sexy yet challenging in-the-ring combat. WWX: Rumble Rose delivers intense girl-on-girl wrestling action with an all-female roster of vixens--each with specialty moves. The combat system lets you humiliate your opponents through insults, taunting, and aggressive moves and holds. Your player's costume, attitude, and wrestling style change depending on whether you fight dirty or fair. Naughty or nice, becoming a popular wrestler will earn benefits, including expanded gameplay, additional skills and moves, and more-revealing and flamboyant costumes."
+}

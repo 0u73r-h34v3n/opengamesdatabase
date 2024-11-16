@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action"],
+	"name": "Power Rangers: Super Legends - 15th Anniversary",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/power-rangers-super-legends",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Power Rangers: Super Legends features fast-paced, martial arts combat highlighted by super moves and gravity-defying aerial combos. Play as twelve favorite Power Rangers heroes from the original Mighty Morphin squad to the current Operation Overdrive. Battle countless enemies, solve mind-bending puzzles, and explore interactive environments in an effort to protect the world from the clutches of evil."
+}

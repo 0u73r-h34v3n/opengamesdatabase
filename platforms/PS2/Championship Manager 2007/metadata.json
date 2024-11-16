@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gusto Games"],
+	"genres": ["Sports"],
+	"name": "Championship Manager 2007",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Championship Manager 2007 allows you to manage your club to glory, dealing with everything from tactics and training to transfers - everything you would expect a real-life football manager to do without owning a sheepskin coat."
+}

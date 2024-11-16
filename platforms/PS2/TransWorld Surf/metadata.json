@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar San Diego"],
+	"genres": ["Sports"],
+	"name": "TransWorld Surf",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/transworld-surf",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "TransWorld Surf lets you pull off all the massive airs and blazing tailslides of professional surfers, including Taj Burrow, Andy Irons, and Shane Dorian. This is your chance to drop into more than 20 of the world's most challenging breaks in locations such as Todos Santos, Hossegor, and Tavarua. Conquer the waves with a friend, hitch a ride with the Reef Girls, watch out for the hungry sharks, and remember to save your best moves for photographers who just may put you on the in-game cover of TransWorld Surf."
+}

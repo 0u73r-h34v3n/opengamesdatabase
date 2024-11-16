@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Smart Bomb Interactive"],
+	"genres": ["Action", "Adventure"],
+	"name": "Snoopy vs. the Red Baron",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/snoopy-vs-the-red-baron",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as WWI Flying Ace Snoopy in an adventure that includes cameo appearance from 12 characters such as Charlie Brown, Woodstock, Linus, Lucy, Marcie and Sally. Barnstorm your way across six vividly rendered worlds and collect clues to reveal the whereabouts of the Red Baron's top secret hideout. Pilot Snoopy's famous Sopwith Camel and other unique aircraft in perilous sky-high dogfights, no-holds-barred air races and heart-pounding missions behind enemy lines. Upgrade your craft with a comical collection of 25 weapons and gadgets, including the lightning fast, player-guided Woodstock missile, the Bee-Shooter and the Potato Cannon. Fight your way through 50+ single-player and co-op missions in a heroic attempt to foil the plans of the Red Baron. Play in any of five modes: Single-player, Cooperative, Team Multiplayer, Versus Multiplayer and Battle."
+}

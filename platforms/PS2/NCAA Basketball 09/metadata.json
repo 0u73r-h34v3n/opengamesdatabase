@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NCAA Basketball 09",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-basketball-09",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA Basketball 09 operates on a new gameplay engine with over 1,000 new animation sequences that deliver a more responsive experience with improved ball physics and more intelligent AI. The new animation system enables gamers to apply pressure defense with new full-court presses and traps. Plus, improved AI and animations enable quicker players to get up and down the floor faster and make better decisions running the lanes and driving to the rim. Animations can be interrupted at any time, enabling you to read and respond to the action on the floor, just like real life. Feel the excitement of game night with the band playing fight songs, the student section leading the cheers and popular ESPN college basketball broadcasters Dick Vitale, Brad Nessler, and Erin Andrews providing the commentary."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midas Interactive Entertainment"],
+	"genres": ["Sports"],
+	"name": "Cue Academy: Snooker, Pool, Billiards",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "The Cue Academy has one goal: to transform you into the greatest player in history. Your Snooker, Pool, and Billiards skills will be honed until they're razor sharp, enabling you to compete against a host of the most intelligent opponents you could ever meet.   An extensive Tour mode gives snooker fans dozens of tournaments, skilled opponents, diverse environments and many trophies and sponsorships to claim. Success reveals endless combinations of unlockable bonuses and accessories that will keep you playing long after all challenges have been met."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Nocturne",
+	"publishers": ["Atlus (JP, US)", "Ghostlight (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/582958-shin-megami-tensei-nocturne/index.html",
+			"score": 84,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shin-megami-tensei-nocturne",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in postapocalyptic Tokyo, Japan, Shin Megami Tensei: Nocturne takes you to a world where nearly the entire population is annihilated by a worldwide catastrophe called the Conception. Now the fate of the entire world lies on the shoulders of one boy, who must battle his way through opposing demonic forces, master the powers of Magatama, and persuade demons to join your party. Some demons may evolve into new forms on their own or can be fused into more powerful monsters."
+}

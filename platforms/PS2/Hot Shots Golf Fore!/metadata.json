@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Clap Hanz"],
+	"genres": ["Sports"],
+	"name": "Hot Shots Golf Fore!",
+	"publishers": [
+		"Sony|SCEI (JP)",
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Korea (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hot-shots-golf-fore!",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hot Shots Golf Fore! offers more courses, golfers, and prizes and the return of miniature golf. Play as one of 30 characters from the clubhouse and practice your swing on 15 different courses, ranging from 18-hole layouts to par-three courses. Earn Hot Shots Points to unlock new courses, advanced golf equipment, and wacky golf gadgets. The game also features a variety of gameplay modes, including tour, tournament, versus, training, and the all-new online mode, where you can enter tournaments and compete with other players over the Internet."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sandlot"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Simple 2000 Series Vol. 31: The Chikyuu Boueigun",
+	"publishers": ["D3Publisher (JP)", "Agetec (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Earth has been attacked after the Earth Defense Force was formed. They attacked on May 7th 2017, in the first wave of the aliens attack nearly half of the fighting force was lost. In an effort to turn the tide of battle all remaining troops were summoned to the coalition's Tokyo headquarters. The game is notably brief on the story. Monster Attack features 25 missions with 5 difficulties to choose from (Easy, Normal, Hard, Chaos and Inferno) and can unlock \"over 100 weapons\". "
+}

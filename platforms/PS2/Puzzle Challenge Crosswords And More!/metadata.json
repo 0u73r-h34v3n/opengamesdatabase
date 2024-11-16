@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Supersonic Software"],
+	"genres": ["Puzzle"],
+	"name": "Puzzle Challenge: Crosswords And More!",
+	"publishers": ["Crave"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/puzzle-challenge-crosswords-and-more!",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Puzzle Challenge: Crosswords and More! offers more than 200 hours of gameplay, ranging from easy to difficult standard crosswords, codebreakers that require the player to determine number matches assigned to each letter of the alphabet, puzzles with cryptic clues, diamond shaped puzzles and backwards puzzles where the player fills in their own black squares. Word searches come in standard or themed versions. Profiles can be set for multiple players so that the entire household can use the software. Exclusive to the PSP system version is a two-player game sharing mode that enables two people on separate handheld consoles to play the game via wireless connection using one disc."
+}

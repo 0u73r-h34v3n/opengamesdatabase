@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar Leeds"],
+	"genres": ["Collection"],
+	"name": "Grand Theft Auto: Liberty City Stories / Vice City Stories",
+	"publishers": ["Take-Two Interactive"],
+	"regions": ["NTSC-U"],
+	"synopsis": "{{Collection|[[Grand Theft Auto: Liberty City Stories]] and [[Grand Theft Auto: Vice City Stories]] and has its own serial (SLUS-27035).}}"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arika"],
+	"genres": ["Action", "Fighting"],
+	"name": "Street Fighter EX3",
+	"publishers": ["Capcom (JP, US)", "Virgin Interactive (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/street-fighter-ex3",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Street Fighter EX3 series returns with a third serving of tag-team, free-for-all brawls. Choose from 16 characters to play one-on-one, two-on-one, and even one-on-three battles. In original mode, take one character through a fighting quest and recruit your defeated opponents for tag or team play. With four gameplay modes and new enhancements such as the Critical Parade and Emotional Flow super moves, Street Fighter EX3 adds more fun to tag-team fighting."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//Mutation Part 2",
+	"publishers": ["Bandai"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/499/499463.html",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackmutation-part-2",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The second episode of the ''.hack'' saga poses the question: What is the developer of The World hiding? As Kite, you continue your saved quest from part one with the help of characters from the ''.hack//SIGN'' television series, who also come in search of the truth. Armed with the forbidden abilities of data drain and gate hacking, you must save Orca and the other comatose victims in The World. Your journey will be painstaking, but new minigames and bonus DVD features add entertaining variety to the game."
+}

@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Naruto: Ultimate Ninja 2",
+	"publishers": [
+		"Bandai (JP)",
+		"Bandai|Namco Bandai Games (US, EU)",
+		"Atari (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naruto-ultimate-ninja-2",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Naruto: Ultimate Ninja 2 gamers can play through monumental events in the NARUTO storyline all while earning points toward upgrading their character's strength, defense, agility, chakra and special abilities. Players can walk the path of NARUTO in the new all-new mode, Ultimate Road, that will allow them to play through all of the pivotal events in the storyline, as well as unlock an original story, as more and more pieces of the NARUTO saga unfold. More than 60 exciting missions and seven challenging mini games push potential ninja to their limit."
+}

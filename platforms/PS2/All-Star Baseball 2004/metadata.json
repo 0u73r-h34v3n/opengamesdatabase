@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Austin"],
+	"genres": ["Sports"],
+	"name": "All-Star Baseball 2004",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/all-star-baseball-2004",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Not only does All-Star Baseball 2004 simulate professional baseball, but it also gives you a look into baseball's history and homes. Now, in addition to today's baseball stars, you can play history's greatest players, from the MLB to the Negro Leagues. Take a panoramic tour of each stadium while learning about interesting facts and features. If you're new to the game, all-star Derek Jeter will guide and instruct you in the new Rookie mode tutorial."
+}

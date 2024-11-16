@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "FIFA Street 2",
+	"publishers": ["Electronic Arts|EA Sports Big"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fifa-street-2",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "FIFA Street 2 is second installment in EA's four-on-four soccer game. FIFA Street 2 will feature improved controls, many more tricks, and a new juggle mechanic. Take part in game modes, such as friendly, rule the street, and skills challenge. Choose from 20 national teams and 300-plus real-life soccer stars. There are 10 playable venues ranging from London's Westway Leisure Center to the sandy beaches of Brazil."
+}

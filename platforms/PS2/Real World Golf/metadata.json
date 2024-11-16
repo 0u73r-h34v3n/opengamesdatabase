@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["In2Games"],
+	"genres": ["Sports"],
+	"name": "Real World Golf",
+	"publishers": ["Valcon Games (EU)", "Mad Catz (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/real-world-golf",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Real World Golf is the first and only game on the PlayStation 2 computer entertainment system and Xbox that lets you actually swing a club to hit a golf ball. Immerse yourself in the world of virtual reality where all the realism and subtlety of real golf fully comes to life in your living room. Adjust your swing to pitch, fade, draw, slice or spin the ball as Gametrak closely tracks your movement in real time and lets you play in the game! Improve your grip, stance and swing, and play across 10 stunning 18-hole golf courses and driving ranges. The game includes career mode, championship play, 4-player tournament challenges and more."
+}

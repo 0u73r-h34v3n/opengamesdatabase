@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA"],
+	"genres": ["Demo"],
+	"name": "PlayStation Underground: Jampack Winter 2002",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"synopsis": "A collection of demos from the Official PlayStation Magazine. The disc contains demos of [[The Mark of Kri]], [[Primal]], [[Ratchet & Clank]], [[Sly Cooper and the Thievius Raccoonus]], [[SOCOM: U.S. Navy SEALs]], [[Tony Hawk's Pro Skater 4]], [[Wild Arms 3]] as well as videos of [[Lara Croft Tomb Raider: The Angel of Darkness]], [[Rygar: The Legendary Adventure]]."
+}

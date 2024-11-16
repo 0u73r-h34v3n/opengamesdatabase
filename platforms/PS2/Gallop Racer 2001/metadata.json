@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Sports"],
+	"name": "Gallop Racer 2001",
+	"publishers": ["Tecmo"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gallop-racer-2001",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gallop Racer 2001 is so realistic that you don't have to get your fingernails dirty to feel like you're in the race. Feel the burn in your legs, the pounding of your heart and the wind in your face. Compete as a tournament jockey, master breeder, or betting spectator in the stands."
+}

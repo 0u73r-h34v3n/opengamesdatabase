@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Page 44 Studios"],
+	"genres": ["Sports"],
+	"name": "Gretzky NHL 2005",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/gretzky-nhl-2005",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the look, feel, and passion of hockey in Gretzky NHL 2005. This game features players with detailed facial animations; EyeToy functionality, which lets you put your face in the game; and enhanced arenas complete with arena-specific game intros, goal horns, and interactive crowds. Gretzky NHL 2005 offers a variety of gameplay modes, including Tournament, with customizable tournaments; Franchise, where you can act as the owner; Online, with downloadable rosters; and Rivalry, which lets you revisit heated matchups."
+}

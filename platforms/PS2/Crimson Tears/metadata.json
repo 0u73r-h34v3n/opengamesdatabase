@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DreamFactory"],
+	"genres": ["Action", "Fighting"],
+	"name": "Crimson Tears",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/crimson-tears",
+			"score": 6.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crimson-tears",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Set in Tokyo in the year 2049, Crimson Tears puts you in the role of one of three biological war weapons with a common mission--to investigate the cause of a mysterious disaster that has left the city incapacitated. Your various objectives take you into battle against hordes of enemies and into mazelike environments. Use your martial arts training and weapons to fight your way to the core of A.R.M.A. (the weapons manufacturer that created you), where the answers to the mysteries lie."
+}

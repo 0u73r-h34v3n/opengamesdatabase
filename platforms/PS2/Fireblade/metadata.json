@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kuju Entertainment"],
+	"genres": ["Simulation"],
+	"name": "Fireblade",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fire-blade",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Your goal in Fireblade is to annihilate terrorists around the globe. At the helm of the Carrier chopper or the Vendetta attack copter, you'll battle through 18 missions in four campaigns. Transport and rescue missions take you to a variety of lush environments, including the Swiss Alps, Arizona Desert, Amazon Jungle, and the Arctic Circle. Unleash an array of deadly weapons--including swarm missiles, sniper cannons, and laser-guided homing missiles--or disable alarms to remain undetected."
+}

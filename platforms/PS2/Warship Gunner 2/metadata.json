@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Micro Cabin"],
+	"genres": ["Simulation"],
+	"name": "Warship Gunner 2",
+	"publishers": ["Koei (JP, US)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/warship-gunner-2",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the sequel to the naval action sim \"Naval Ops:Warship Gunner\", video gamers engage in deadly sub-to-sub stealth warfare, pilot classic warships and design their own fleet of destroyers, submarines, and battlecruisers. With KOEI's strategic twist on naval action, Warship Gunner 2 lets players invest in new technologies to develop a full spectrum of artillery systems, aircraft, ship hulls, propulsion and electronics. Over 1000 vital components in all. Combat in Warship Gunner 2 takes place across 100 missions and 60 stages teeming with lethal seafighters, swarms of enemy aircraft, and unworldly super-weapons. Using the game's control panel and advanced heads-up display, players must track their targets through darkness, varying sea states and the most adverse weather conditions known to man."
+}

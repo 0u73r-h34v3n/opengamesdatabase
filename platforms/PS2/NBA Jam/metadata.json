@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Sports"],
+	"name": "NBA Jam",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-jam",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The popular granddaddy of arcade-style basketball is back.  NBA Jam brings the supercharged, \"in-your-face\" highlights of NBA play to life with over-the-top, thrilling three-on-three basketball.  Perform monster dunks and alley-oops and shoot from valuable hotspots to catch \"on-fire\" and obliterate the competition.  You can choose from all 29 current NBA teams, players, and arenas and even outdoor playground courts like Rucker Park and LA's Venice Beach.  With no fouls to slow down the game, be as rough and flashy as you can be."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DreamFactory"],
+	"genres": ["Action", "Adventure"],
+	"name": "Appleseed EX",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameFAQs",
+			"url": "https://gamefaqs.gamespot.com/ps2/928716-appleseed-ex",
+			"score": 2.4,
+			"max_score": 5
+		}
+	],
+	"synopsis": "Appleseed EX is a third-person action game based on the 2004 film of the same name, along with the manga of the same name by Masamune Shirow."
+}

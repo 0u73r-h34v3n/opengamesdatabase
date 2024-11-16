@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Platformer"],
+	"name": "Pac-Man World 2",
+	"publishers": ["Namco (US, JP)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pac-man-world-2",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pac-Man is on a brand new adventure and once again dealing with the pesky Ghost Gang.  In Pac-Man World 2, the Ghost Gang has picked the magical fruit from an ancient tree, thereby releasing wicked evils upon Pac-Land.  You must guide Pac-Man through six new lands with plenty of amusing surprises.  New and improved, this Pac-Man can ice skate, rollerblade, submarine dive, and solve many exciting puzzles.  With all-new moves and a zany cast of characters, your Pac-Man heroics will be pushed to its limits."
+}

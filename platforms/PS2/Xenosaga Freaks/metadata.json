@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monolith Soft"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Xenosaga Freaks",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The title contains two original Xenosaga themed games: ''Ze of Komi'' (an adventure game with 7 playable characters), ''Pittan'' (a puzzle game based on the Namco ''Kotoba no Puzzle: Mojipittan''), ''Encyclopedia of Xenosaga'' and ''Xenosaga Episode II'' trial version of the game."
+}

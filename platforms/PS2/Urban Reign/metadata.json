@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Fighting"],
+	"name": "Urban Reign",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/urban-reign",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Urban Reign, players assume the role of a gritty street brawler who has been hired by one of the city's dominant gangs to protect its leader. Players are thrown into a full-blown turf war, involving gang corruption and street justice that spans from the neighborhood block all the way to the upper levels of city government. Urban Reign offers players non-stop, inner-city brawling action with no time restrictions or referees. Back alleys, junkyards and bars serve as battlegrounds for more than 60 different fighters, all of which boast their own unique set of fighting styles including boxing, wrestling and street fighting. Players can select from over 30 weapons - including bottles, bats and 2x4's - to be used in the destructible arenas to add to the mayhem. Focusing on the urban-brawler style of street fighting, players can team up with an AI-controlled character to pull off a host of devastating and destructive combo maneuvers against multiple enemies throughout the game's 100 missions. Urban Reign also supports multi-tap play for up to four players to determine who really rules the hood."
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bullfrog Productions"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Quake III Revolution",
+	"publishers": [
+		"Electronic Arts (US, EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/quake-iii-revolution",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You have spent an eternity fighting in the arenas of the Vadrigar, only the strict devotion to a single mantra - kill or be killed - keeps you alive. However, the unrelenting battle has made you more powerful than your captors could ever imagine. You will be imprisoned no longer and the road to freedom will be paved with the blood of your oppressors."
+}

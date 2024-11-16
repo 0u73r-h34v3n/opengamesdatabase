@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Synetic"],
+	"genres": ["Racing"],
+	"name": "World Racing 2",
+	"publishers": ["Synetic"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "World Racing 2 is the sequel to World Racing - Mercedes Benz. It puts the fun of driving at centre stage and presents a challenging racing experience featuring a revolutionary 3D landscape engine, adjustable driving characteristics, improved technology and an exciting selection of different cars from various manufacturers. World Racing 2 is all about fun racing. Players will enjoy better physics, simplified menus, speed-optimized track layouts and livelier 3D environments."
+}

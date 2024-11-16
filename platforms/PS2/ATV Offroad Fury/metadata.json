@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "ATV Offroad Fury",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/447986-atv-offroad-fury/index.html",
+			"score": 83,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atv-offroad-fury",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Conquer the terrain with 12 rugged ATVs and large offroad environments. ATV Offroad Fury delivers the excitement of ATV racing with high-performance two-stroke and four-stroke ATVs, 20 free-roaming race environments, and six unique events. Race authentic ATVs through six challenging events, including Cross Country Enduro, Stadium Supercross, and Freestyle Stunt. You'll speed through whole deserts, forested landscapes, and old train yards. With realistic crashes, authentic stunts, and intense competition, ATV Offroad Fury immerses players in the action-packed world of offroad racing."
+}

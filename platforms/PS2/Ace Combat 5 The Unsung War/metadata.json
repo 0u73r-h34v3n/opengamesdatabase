@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Project Aces"],
+	"genres": ["Simulation"],
+	"name": "Ace Combat 5: The Unsung War",
+	"publishers": ["Namco (JP, US)", "Sony|SCEI (AS, KO)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/10/26/ace-combat-5-the-unsung-war",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ace-combat-5-the-unsung-war",
+			"score": 84,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/ace-combat-5-the-unsung-war-review/1900-6111374/",
+			"score": 8.3,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_acecombat5_ps2",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Ace Combat 5 features more than fifty licensed real-world jet aircraft. Nonetheless, the game's events and locations are set in a fictional world. The game's main campaign is set during a war between the fictitious nations of Osea and Yuktobania. The storyline revolves around the player character \"Blaze,\" an Osean fighter pilot who leads a four-plane unit known as Wardog Squadron. The Unsung War follows this squadron's exploits as they attempt to ward off the Yuktobanian invasion of their homeland and uncover the truth about the war."
+}

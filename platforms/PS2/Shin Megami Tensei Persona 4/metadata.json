@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Persona 4",
+	"publishers": [
+		"Atlus (JP, KO, US)",
+		"Square Enix (AU, EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shin-megami-tensei-persona-4",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Shortly after an urban youth begins a year-long stay in the countryside town of Inaba, the rural town's peace is shattered by a horrific murder that leaves no clues or suspects. As the lone incident develops into a series of bizarre crimes, he discovers that only he and his friends have the power to solve the baffling case, bring those responsible to justice, and restore harmony to his new home."
+}

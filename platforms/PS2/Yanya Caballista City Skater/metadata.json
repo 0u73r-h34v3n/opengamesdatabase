@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cave"],
+	"genres": ["Sports"],
+	"name": "Yanya Caballista: City Skater",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/yanya-caballista-city-skater",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Here's the deal with skateboarding: if you can't throw down your own tricks, you might as well either let your jaw drop or take off when real skaters are putting on a show. Be cool about it. But scratch that, these little ghostly hosers called Gawoo are getting all up on the city and trying to take it over. They ain't cool, and why? Because they can't skate. They're skater-haters, just like the rest of these street peds. But they still get wowed when you bust out boarding moves like a breakdancer, and that's the whole deal with Yanya Caballista: City Skater. Koei's new skating game is one part wacky Japanese-styled insanity, then another few thousand parts more wacky Japanese-styled insanity for some of the most bizarre and funky graphic design explosions on the PlayStation 2 computer entertainment system. Skate the city collecting cash and other goodies to boost your trick bag, then go after the Gawoo and drive them off the block. Show some fierce moves, and they'll take off running from your godly skills. Yanya Caballista even comes with a giddy little gaming trinket--a fingerboard for pulling off your own ollies and aggro moves."
+}

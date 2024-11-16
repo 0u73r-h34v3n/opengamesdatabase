@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs. The Soulless Army",
+	"publishers": ["Atlus (JP, US)", "Koei (EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shin-megami-tensei-devil-summoner---raidou-kuzunoha-vs-the-soulless-army",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Raidou Kuzunoha is a private detective in Japan's Taishou Period of the 1910s and 1920s, but he's much more than just a well-dressed crime scene investigator; he also has the power to capture and conjure demons to do his bidding. Take control of Raidou and his otherworldly companions, guide them through thrilling episodes of action and intrigue, and learn the incredible secrets of the Soulless Army!"
+}

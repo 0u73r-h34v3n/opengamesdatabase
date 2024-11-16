@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["General Entertainment"],
+	"genres": ["Adventure"],
+	"name": "0 Story",
+	"publishers": ["Square Enix|Enix Corporation"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/0story-import-review/1900-2565308/",
+			"score": 5.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The player takes the role of a young man who dies in a motorcycle accident. He is sent back to earth as a ghost by Ai, the angel of love, who tells him that he may revive if he gains the love of a girl named Lina within six days."
+}

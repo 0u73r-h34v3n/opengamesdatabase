@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Legion: The Legend of Excalibur",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/legion-the-legend-of-excalibur",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Legion: The Legend of Excalibur allows players to live the epic legend of King Arthur and the mystical sword Excalibur in a fantasy adventure. King Arthur and the Knights of the Round Table are now under your control, and you must lead them onto battlefields against the evil forces of Morgan Le Fay. With more than 12 characters to control and 14 missions to accomplish, Legion combines elements from action, role-playing, and real-time strategy games."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Phoenix Games"],
+	"genres": ["Action"],
+	"name": "Extreme Sprint 3010",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "By 3010 most countries were ruled by totalitarian governments and they were in desperate need for brutal entertainment that would fulfil people's wildest desires. Extreme Sprint seemed to be a perfect solution: its rules were simple, yet it had a huge entertainment factor. The \"Runner\" had to complete 3 laps in specially created stadiums, while he was chased by the \"Hunter\". If the \"Runner\" was caught - he disappeared and he was never seen again..."
+}

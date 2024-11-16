@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SystemSoft"],
+	"genres": ["Turn-based strategy"],
+	"name": "Daisenryaku 1941",
+	"publishers": ["Sammy Studios"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Daisenryaku 1941'' is one of many installment in the ''Daisenryaku'' series. The gameplay is similar to other ''Daisenryaku'' titles in which you are on a hexagonal battlefield where you can place your units such as aircraft, battleships, tanks, and infantry. When a unit battles there is a transition to a separate screen showing the battle between the two units and the results. In ''Daisenryaku 1941'' you can choose from one of many countries, such as Japan or the US, that were major factors in World War II."
+}

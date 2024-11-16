@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["System 3"],
+	"genres": ["Action", "Platformer"],
+	"name": "Impossible Mission",
+	"publishers": ["System 3"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/impossible-mission/",
+			"score": 7.7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "A faithful adaptation of the past Epyx classic that improves on the original in every way. Includes three versions, the C64 original classic, a re-skinned classic and the totally updated new version.  You have just 6 hours to find all the pieces to solve a mad scientist's puzzle while avoiding devious human-seeking robots and deadly black orbs."
+}

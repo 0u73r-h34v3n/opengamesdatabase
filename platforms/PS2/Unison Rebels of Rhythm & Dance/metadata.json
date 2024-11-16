@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Music"],
+	"name": "Unison: Rebels of Rhythm & Dance",
+	"publishers": ["Tecmo"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/unison-rebels-of-rhythm-dance",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Though Konami's Bemani series has ruled music and rhythm games, Tecmo strives to make its mark with Unison. Set in a funky future, an evil man (with shades) has banned the ever-fun event of dancing. Naturally, a music rebellion ensues and a group of young and hip dance'sters makes its way to show the citizens the mystical power of dance and rhythm. Utilizing the two analog sticks to perform the moves, Unison adds a new twist to the music and rhythm genre."
+}

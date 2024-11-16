@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Sports"],
+	"name": "Club Football 2005",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"synopsis": "Club Football 2005 is a series of 21 club-specific football games. Each version has its own opening sequence, menu graphics, and packaging as well as a Club Album that contains facts and memorabilia from each clubs present. When playing the game you earn credits that can be used to unlock features as pictures and video clips. "
+}

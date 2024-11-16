@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Silent Hill 4: The Room",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/silent-hill-4-the-room",
+			"score": 76,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/silent-hill-4-the-room-review/1900-6107772/",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/ir_silenthill4_ps2",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/09/23/silent-hill-4-the-room",
+			"score": 6.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Henry Townshend finds himself trapped in an apartment cursed by a deeply rooted evil. Only by exploring mysterious portals leading to disturbing alternate worlds will Henry begin to uncover the truth. However, mysterious new characters, horrendous creatures, and the undead, use any means necessary to impede his progress. It's up to you to help Henry through expansive areas, including a forest, a prison, and a hotel, in an effort to survive the nightmarish world of Silent Hill 4: The Room."
+}

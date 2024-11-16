@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Racing"],
+	"name": "Need for Speed: Carbon",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/10/28/need-for-speed-carbon-review-7",
+			"score": 8.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/need-for-speed-carbon",
+			"score": 74,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/need-for-speed-carbon-review/1900-6160933/",
+			"score": 7.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "What starts in the city is settled in the canyons as Need for Speed: Carbon immerses you into the world's most dangerous and adrenaline-filled form of street racing. You and your crew must race in an all-out war for the city, risking everything to take over your rivals' neighborhoods one block at a time. As the police turn up the heat, the battle ultimately shifts to Carbon Canyon, where territories and reputations can be lost on every perilous curve. Need for Speed: Carbon delivers the next generation of customization giving you the power to design and tweak your crew's cars in every way using the ground-breaking new Autosculpt technology. Represent your car class, your crew, and your turf in Need for Speed Carbon, the next revolution in racing games."
+}

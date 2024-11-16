@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA San Diego Studios"],
+	"genres": ["Sports"],
+	"name": "MLB 07: The Show",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEI (KO)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mlb-07-the-show",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The innovative Road to The Show mode enables fans to play solely as a custom-created rookie on both offense and defense while attempting to rise through the ranks and make a starting line-up in the Big Leagues. Adding to its already robust online feature set, the MLB franchise now includes Online League Play, which gives gamers the ability to set up leagues with up to 30 teams, complete statistical tracking, point benefits and full customization, while the My Sliders feature allows users to create their perfect game settings and upload them to the MLB 07 The Show server for others to try out."
+}

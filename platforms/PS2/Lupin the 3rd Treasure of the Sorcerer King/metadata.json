@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Banpresto"],
+	"genres": ["Action"],
+	"name": "Lupin the 3rd: Treasure of the Sorcerer King",
+	"publishers": ["Banpresto (JP)", "Bandai (US)", "505 Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/489/489970p1.html",
+			"score": 6.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lupin-the-3rd-treasure-of-the-sorcerer-king",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Stealth action game, based on the Japanese anime (as seen on Cartoon Network's \"Adult Swim\" block). Fantastic heists, impossible escapes, and busty brunettes -- it's all in a day's work for anime's favorite thief. Play with all the style and panache of a British spy while committing crimes even the most accomplished cat-burglar would be proud of. Use disguises, stealth and of course the loot, to solve puzzles, gather clues and tackle obstacles. Players slip into the roles of Lupin, Jigen, Goemon, and Fujiko and use multiple disguises, stealth, and communication options, to become the world's No.1 thief. Features original CGI cut scenes with voice-overs performed by the actual TV actors."
+}

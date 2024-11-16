@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["RPG"],
+	"name": "Final Fantasy X-2 International + Last Mission",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/final-fantasy-x-2-international-last-mission/user-reviews/2200-374522/",
+			"score": 8.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "As with [[Final Fantasy X]], an expanded international version was produced for [[Final Fantasy X-2]]. This version of the game titled ''Final Fantasy X-2 International + Last Mission'' introduces two new dresspheres, an additional \"Last Mission\" at a location called \"Yadonoki Tower\" and the option to capture numerous monsters and characters including Tidus, Auron and Seymour from ''Final Fantasy X'' as well as several supporting characters from both games during battle. This version was never released outside of Japan although the English voices were used for the main story in the International version (not in the Last Mission). Due to this change, parts of the Japanese subtitles were changed or altered to fit the voice-overs."
+}

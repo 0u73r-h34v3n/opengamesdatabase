@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["RPG"],
+	"name": "Breath of Fire: Dragon Quarter",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "RPG Gamer",
+			"url": "http://www.rpgamer.com/games/bof/bof5/reviews/bof5rdrev2.html",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/breath-of-fire-dragon-quarter",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In a place devoid of all light, you will embark on an epic quest of magical proportions. The underground world of Breath of Fire: Dragon Quarter is full of menacing enemies, numerous challenges, and intense mysticism. To survive this cel-shaded adventure, you must master a new combined real-time and turn-based battle system and find healing potions scattered throughout the levels. Based on your playing style, these subterranean worlds evolve for a different gameplay experience each time through."
+}

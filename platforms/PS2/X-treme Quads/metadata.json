@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Phoenix Games"],
+	"genres": ["Racing"],
+	"name": "X-treme Quads",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "The game has three race modes: Tournament, Quick Race and Time Trial. The races are run around two courses, Outlaw Canyon and Vengence Viaduct. For the Quick Race and the Time trial these courses are divided into stages with only the stages of Outlaw Canyon being available, other stages are unlocked as the player progresses through the tournament mode."
+}

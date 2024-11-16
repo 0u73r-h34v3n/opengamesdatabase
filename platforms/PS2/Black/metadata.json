@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Black",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/02/23/black",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_black_ps2",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/black",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/black-review/1900-6144741/",
+			"score": 7.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "You can engage in cinematic firefights through destructible environments in Black, the new first-person shooter from Criterion Studios. You can play as an operative in Eastern Europe with extensive access to the newest exotic weaponry that the world has to offer. As you blast your way through the urban environments featured in the game you can find opportunities to make \"style kills,\" using your environment to take out your foes with explosions or falling debris."
+}

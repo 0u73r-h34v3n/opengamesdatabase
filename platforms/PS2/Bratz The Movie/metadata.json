@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Simulation"],
+	"name": "Bratz: The Movie",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bratz-the-movie",
+			"score": 42,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's time for the Bratz girls to hit the red carpet! Join Chloe, Jade, Sasha and Yasmin as they rock out in explosive music shows, strut the fashion runway with stylin' outfits designed by you, and publish the hottest magazine ever! Their hard work lands them a once in a lifetime opportunity to star in their very own movie!"
+}

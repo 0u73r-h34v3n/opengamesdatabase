@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "ESPN College Hoops",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-college-hoops",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN College Hoops brings you all the tradition, pride, and competitive spirit of real college basketball with authentic college gameplay, 3-D crowds, and over 100 mascots.  Compete on both sides of the court with the new IsoMotion, listen to stellar commentary from Jay Bilas and Mike Patrick, or dive into the robust Legacy mode that allows you to recruit year-round.  ESPN College Hoops has real play, real emotion, and real heart."
+}

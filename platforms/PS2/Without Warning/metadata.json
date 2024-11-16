@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CiRCLE"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Without Warning",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/without-warning",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Without Warning, a radical terrorist group has targeted and seized the Peterson-Daniels Chemical Facility, a vulnerable location that jeopardizes millions of people from the devastating ecological hazard it imposes if destroyed. Pleas are useless and any direct military assault would be too great a risk. As terrified hostages fearfor their lives, their only hope lies with a covert operations team, whose goal is to infiltrate the plant and eliminate the merciless enemy. The harrowing events unfold over a 12 hour period, featuring a unique gameplay dynamic which enables the six central characters to experience events across the same timeline but from their own distinct viewpoints. The player controls each character individually, with the focus automatically shifting to a new character at key moments which are unfolded throughcut scenes. By switching between the characters, their individual tales are woven together to create an overall picture of the events that happened during the crisis. The player will also retrospectively view events through the eyes of another character and is therefore not only a participant in the events, but a spectator as well. Furthermore, actions performed as one character affect the progress of others and players must successfully utilize the strengths of each in order to advance."
+}

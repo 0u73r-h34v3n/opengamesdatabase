@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar Vienna"],
+	"genres": ["Action", "Shooter"],
+	"name": "Max Payne 2: The Fall of Max Payne",
+	"publishers": ["Rockstar Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/max-payne-2-the-fall-of-max-payne",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Max Payne 2: The Fall of Max Payne is a violent, film-noir love story. Dark, tragic and intense, the in-depth story is a thrill-ride of shocking twists and revelations.   His life in ruins, Max Payne finds himself back in the NYPD. During a routine murder investigation he runs into Mona Sax, a woman he thought dead, a femme fatale murder suspect. She holds the keys to the questions that haunt him. But nothing is simple in the dark and tragic night of New York City. An army of underworld thugs stands between Max and the answers he seeks. His journey deeper into his own personal hell continues.  Max Payne 2: The Fall of Max Payne delivers an intense gameplay experience. It features fierce, yet stylish action sequences and the slow-motion gunplay that has become synonymous with the Max Payne series."
+}

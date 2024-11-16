@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["NuFX"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 2003",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-2003",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA March Madness 2003 captures all the passion, atmosphere, and pageantry of college basketball. Now you can become part of the college basketball experience, complete with raucous fans, loyal alumni, and a team's desire to dominate on home court. New cutscenes, play-by-play commentary, and new team chants and anthems bring you closer to the pinnacle moment of each game. Drive to the hoop, shoot a jumper, or call for a pick-and-roll. You are in control of the team's destiny."
+}

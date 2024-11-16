@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Insomniac Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ratchet & Clank",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (AS, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ratchet-clank",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ratchet and Clank team up to save the world from the evil Drek: the leader of a dead planet who drains resources all over the universe.  As you progress from one alien planet to the next, you'll find or purchase over 36 weapons and gadgets including: a wrench, bomb glove, grappling hook, cannon, machine gun and a rocket launcher.  Think about it: you can choose from burning, bombing, exploding or obliterating your enemies.  So go ahead and blow it all up!"
+}

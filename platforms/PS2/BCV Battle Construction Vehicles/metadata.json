@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artdink"],
+	"genres": ["Action", "Fighting"],
+	"name": "BCV: Battle Construction Vehicles",
+	"publishers": ["Artdink (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/bcv-battle-construction-vehicles/ps2-14005",
+			"score": 4.3,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In B.C.V. you must turn some of the toughest construction vehicles on the planet into smouldering piles of scrap metal. Your objective? To save your father’s construction business from certain doom at the hands of a ruthless rival. Use your surroundings and special attacks to bring your opponents to their knees and save the day. Demolish your opponents with 15 playable characters, 14 construction vehicles and 20 special attacks. Additional features include a two-player versus mode, over 30 in-game obstacles, and a 16-stage story mode. Released in Japan and Europe only. "
+}

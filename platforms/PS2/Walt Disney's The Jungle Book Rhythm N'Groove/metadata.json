@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Shanghai"],
+	"genres": ["Music"],
+	"name": "Walt Disney's The Jungle Book: Rhythm N'Groove",
+	"publishers": ["Ubisoft (US)", "(EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/walt-disneys-the-jungle-book-rhythm-ngroove",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can jump, jive, and jitter to the jungle beats of Walt Disney's The Jungle Book. You'll need all the right grooves to match the swingin' moves of all your funky jungle pals and bring Mowgli safely to the man-village!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ|THQ Australia"],
+	"genres": ["Action", "Adventure"],
+	"name": "Avatar: The Last Airbender",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/avatar-the-last-airbender",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as Aang, Katara, Haru and Sokka as you grow your team into an unstoppable force. Bring to life an adventure of intrigue, deception and revelation that exposes an even greater threat than the Fire Nation."
+}

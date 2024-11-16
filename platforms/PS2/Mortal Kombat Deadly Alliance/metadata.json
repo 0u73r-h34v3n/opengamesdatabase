@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Action", "Fighting"],
+	"name": "Mortal Kombat: Deadly Alliance",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/11/19/mortal-kombat-deadly-alliance-4",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mortal-kombat-deadly-alliance",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A controversial franchise marks its return in Mortal Kombat:  Deadly Alliance.  This time around, the fighting game features an all-new fighting system, an in-depth, supernatural storyline, and the infamous brutal fatalities.  Beginning the next chapter in the battle of good versus evil, two powerful sorcerers--Shang Tsung and Quan Chi--join forces to deliver unrivaled fighting action in their quest for supreme mortality.  Use new or classic Mortal Kombat fighters and engage in hand-to-hand and special-weapon combat, executing secret moves and combinations for fatalities and deadly body blows."
+}

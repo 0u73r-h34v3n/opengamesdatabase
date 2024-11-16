@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Creat Studios"],
+	"genres": ["Racing"],
+	"name": "Smash Cars",
+	"publishers": ["Metro3D (US, EU)", "Psikyo (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/smash-cars",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare yourself for remote-controlled racing through off-road worlds with giant objects, giant animals, and giant people. No controller is necessary as you get behind the wheel of your own RC car and nail some crazy stunts. You'll take one of 13 awesome toy cars across expansive living levels, moving up the ranks, winning upgrades, and finding hidden secrets and shortcuts. Watch out or you might get too close to an unruly crocodile or a punk skateboarder."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sunrise Interactive"],
+	"genres": ["Turn-based strategy", "RPG", "Simulation"],
+	"name": "Battle of Sunrise",
+	"publishers": ["Sunrise Interactive"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Battle of Sunrise'' is a war simulation game released by Sunrise Interactive and is a crossover work that features robots and characters from Sunrise Interactive works such as Mobile Suit Gundam and Big O. The gameplay is similar to ''Fire Emblem'' with 2.5D characters on a hexagonal map and 3D battle animations."
+}

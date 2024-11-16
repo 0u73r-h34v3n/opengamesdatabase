@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Fighting"],
+	"name": "Virtua Fighter 4: Evolution",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/563568-virtua-fighter-4-evolution/index.html",
+			"score": 92,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/virtua-fighter-4-evolution",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kick your adrenaline into high gear as you defeat opponents with your brutal judo and kickboxing mastery. Sega's 3D fighting series evolves into a freight train of hardcore martial arts maneuvers featuring 15 competitors--some of whom can switch up their fighting style mid-fight. The new characters vying for a shot at winning the Worldwide Martial Arts Championship II Tournament are Goh, a trained assassin, and Brad, an Italian Muay Thai champion kickboxer. Once you make a name for yourself through a series of simulated arcade tournaments amid snow, rain, and sand, you'll qualify for the biggest fight of your career and show the world what you're really made of."
+}

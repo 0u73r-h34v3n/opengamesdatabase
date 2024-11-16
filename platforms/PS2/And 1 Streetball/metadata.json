@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ops Entertainment"],
+	"genres": ["Sports"],
+	"name": "And 1 Streetball",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/and-1-streetball",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "And 1 Streetball brings the flashy street-basketball style from the And 1 Mixtape tour to your home video game consoles. You can create a player from the ground up and take him through the trials of making the And 1 team. The game features a variety of moves inspired by real streetball players and includes venues from around the country--each with its own regional soundtrack. You can choose the size of your games, ranging from one-on-one showdowns to full five-on-five action."
+}

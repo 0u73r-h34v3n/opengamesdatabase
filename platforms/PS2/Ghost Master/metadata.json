@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Empire Interactive"],
+	"genres": ["RTS"],
+	"name": "Ghost Master",
+	"publishers": ["Empire Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Ghost Master casts you as an afterlife civil servant whose job is to frighten lowly mortals from their homes and places of work. You'll have command over legions of ghosts, ghouls, and spirits to help you with this task. In addition, you can use a wide range of scaring tools to drive out unwanted guests. Ghost Master also features a simple game interface, intelligent enemies, and enhanced graphics."
+}

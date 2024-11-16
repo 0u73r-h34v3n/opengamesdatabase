@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 2002",
+	"publishers": [
+		"Electronic Arts (US, EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2002",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The puck stops here!  Turn on the red light and your teammates will mob you. Dominate the boards and the crowd wants more. Score the Stanley Cup winner and you're a Legend. EA Sports ramps up the noise, the glory, and the sheer physical force of NHL hockey to deliver higher levels of intensity and emotion."
+}

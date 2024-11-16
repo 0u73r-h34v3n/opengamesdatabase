@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "Rugby 06",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rugby-06",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rugby 06 is the latest addition to EA's Rugby series. The game features new world-class rugby stars, improved stadium visuals, more licensed teams and tournaments, and play-by-play commentary from Grant Fox and Ian Robertson. In addition, the game will feature World League mode in which you build and manage your rugby team through a deeper transfer market."
+}

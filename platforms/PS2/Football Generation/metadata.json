@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Trecision"],
+	"genres": ["Sports"],
+	"name": "Football Generation",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "FOOTBALL GENERATION kicks lesser soccer games in to touch. A comprehensive listing of 44 international and 33 club teams from across the globe are available across game modes for 1-8 players. The great scenario mode lets you step into the boots of your team's star player, giving you the chance to guide a team to victory from within!"
+}

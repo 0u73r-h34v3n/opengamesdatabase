@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Sports"],
+	"name": "NCAA College Football 2K3",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-college-football-2k3",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Both veteran and rookie players alike will enjoy the dramatic feature improvements of NCAA College Football 2K3. There are new player models, completely redesigned stadiums, and all 25 official BCS bowls are represented. A revamped Legacy Mode allows gamers to recruit key high-school stars and compare lifetime records against other collegiate programs in the historical rankings system. Go out for the team!"
+}

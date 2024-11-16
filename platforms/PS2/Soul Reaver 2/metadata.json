@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Adventure"],
+	"name": "Soul Reaver 2",
+	"publishers": ["Eidos Interactive (US, EU)", "Titus Software (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/11/03/soul-reaver-2-2",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/soul-reaver-2",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In this sequel to the Legacy of Kain: Soul Reaver, we reassume the role of Raziel and travel back through the currents of time into various eras of Nosgoth's past in your relentless pursuit of Kain. With new Soul Rever weapon enhancements, physical abilities and relics you'll battle vampire hunters, Sarafan warrior-priests, spectral spirits and then devour their souls. Unearth the mysteries of Nosgoth's ancient races and expose the schemes behind the corruption of the Pillars and the vampire genocide."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Davilex"],
+	"genres": ["Racing"],
+	"name": "Knight Rider: The Game",
+	"publishers": ["Davilex"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/knight-rider-review/1900-6025736/",
+			"score": 5.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "KITT is back! And he is ready to take on the next generation of criminals! Step into the most popular TV series of the 80's and get behind the wheel of world's most high-tech supercar! Knight Industry Two Thousand, better known as KITT, has returned. And this time you are in control! Fight against crime using the most technologically advanced car ever made, featuring Turbo Boost, Super Pursuit Mode, Ski Mode, Micro Jammers, and Scan Mode. Nothing can stop KITT when he goes into Super Pursuit Mode. Prove your Knight Rider skills in 10 original, action packed missions and 15 top-class tracks! Settle old scores with enemies like KITT's diabolical twin KARR and evil mastermind Garth! Set off on exciting NEW adventures and encounter many well-known characters such as Michael Knight, Devon and Bonnie! "
+}

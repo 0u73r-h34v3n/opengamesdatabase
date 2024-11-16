@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Interplay"],
+	"genres": ["Action", "RPG"],
+	"name": "Fallout: Brotherhood of Steel",
+	"publishers": ["Interplay (US, JP)", "Avalon Interactive (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fallout-brotherhood-of-steel",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In this gritty and darkly humorous 3rd person action adventure the players join the courageous Brotherhood of Steel whose mission is to maintain peace in the grim post-nuclear world of Fallout.  Challenged by hordes of raiders, ghouls, mutants and other radioactive nightmares the players use a combination of intense combat strategies including melee/ranged combat to fulfill their daunting task of defeating the threats in hopes of restoring humanity in a nearly unlivable universe.  Welcome to the wasteland."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Grandprix|Grandprix Inc."],
+	"genres": ["Sports"],
+	"name": "Victorious Boxers 2: Fighting Spirit",
+	"publishers": ["ESP Software (JP)", "Empire Interactive (EU, US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/victorious-boxers-2-fighting-spirit",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The follow-up to Victorious Boxers features a new \"coach\" fighter-creation mode and a whole training gym's worth of new moves and boxers."
+}

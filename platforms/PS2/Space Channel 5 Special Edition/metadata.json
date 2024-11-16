@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["UGA"],
+	"genres": ["Music"],
+	"name": "Space Channel 5: Special Edition",
+	"publishers": ["Agetec"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/space-channel-5-special-edition",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A compilation of [[Space Channel 5]] and [[Space Channel 5 Part 2]]."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kogado Studio"],
+	"genres": ["Visual Novel"],
+	"name": "Aoi Sora no Neosphere: Nanoca Flanka Hatsumei Koubouki 2",
+	"publishers": ["Nippon Ichi Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Neosphere, an aerial kingdom that has been devastated after the World Unification War. There is no remnant of what was called the \"Sacred Kingdom\" now, and the number of E-ship flights, which are means of transportation and trade with the ground, has been decreasing."
+}

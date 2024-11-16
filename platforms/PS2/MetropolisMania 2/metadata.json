@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Indi"],
+	"genres": ["Simulation"],
+	"name": "MetropolisMania 2",
+	"publishers": ["D3Publisher (JP)", "Natsume Inc. (US)", "Ubisoft (AU, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/metropolismania-2",
+			"score": 37,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You've been given the job to create and maintain an entire city!  You must create a city that attracts new residences, while at the same time keep your approval rating in good standing!  To do this you must interact with each and every citizen of your town.  Of course some of your citizens have other ideas, so you'll have your work cut out for you making everyone happy!"
+}

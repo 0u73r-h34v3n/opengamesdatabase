@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Data Design Interactive"],
+	"genres": ["Racing"],
+	"name": "Action Girlz Racing",
+	"publishers": ["Metro3D"],
+	"regions": ["PAL"],
+	"synopsis": "The Action Girlz are here! Grab your lipstick, start your engines and get ready for a excitingly girlie, fun packed escapade."
+}

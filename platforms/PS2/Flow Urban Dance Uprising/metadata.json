@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Music"],
+	"name": "Flow: Urban Dance Uprising",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/flow-urban-dance-uprising",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Flow: Urban Dance Uprising features classic breakdancing gameplay and a soundtrack of hip hop artists including the Sugar Hill Gang, Kurtis Blow, and Eric B & Rakim. Gamers can compete against as many as seven other players and choose from a host of dancers that perform classic breakdance moves in one of 10 different urban settings."
+}

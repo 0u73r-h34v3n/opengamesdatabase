@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Overworks"],
+	"genres": ["Action", "Fighting"],
+	"name": "Shinobi",
+	"publishers": ["Sega (US, JP)", "Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/11/12/shinobi",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shinobi",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Shinobi was originally planned for the Dreamcast, but due to the discontinuation of the console, the game was moved to the PS2. The game was designed to place emphasis on the action elements of action-adventure gameplay and appeal to the action market. Other gameplay elements resulted from a desire to mix old and new elements.<br>"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["RPG"],
+	"name": "Tales of Rebirth",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "RPG Fan",
+			"url": "http://www.rpgfan.com/reviews/talesofrebirth/",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In this installment of ''Tales of'' series, you play the role of the 18-year old Veigue, an orphan who grew up in a village together with Claire. One day Claire is kidnapped by a group of soldiers who belong to a mysterious organization. Veigue and his friends embark on a journey to save Claire, but soon the plot evolves into a conflict between humans and Gajumas, beast-like creatures with their own culture, and Veigue and his friends must restore peace in the world."
+}

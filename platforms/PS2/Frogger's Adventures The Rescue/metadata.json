@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Platformer"],
+	"name": "Frogger's Adventures: The Rescue",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/froggers-adventures-the-rescue",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Frogger's Adventures: The Rescue goes beyond Firefly Swamp and brings a multiplayer mode to Frogger fans. The series' hop-'n'-dodge gameplay returns as Frogger travels across seven diverse worlds with more than 25 levels. Each of these worlds includes mysterious clues, challenging puzzles, and menacing enemies to slow down your progress. Don't rest until you conquer the wide range of miniquests and side stories  or until you dominate three of your friends in multiplayer mode."
+}

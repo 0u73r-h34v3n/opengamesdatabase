@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Juice Games"],
+	"genres": ["Racing"],
+	"name": "Juiced 2: Hot Import Nights",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/juiced-2-hot-import-nights",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Juiced 2: HIN evolves the current street racing scene, letting players experience the culture of the real-life HIN tour, the nation's largest lifestyle custom car show in an intense racing experience. Featuring track and drift racing at real-world locations around the globe, next-gen AI and vehicle customization, Juiced 2: HIN brings street racing to life, allowing players to test their skills at live street racing events against a back-drop of DJs, fashion, models and musicians. New features include addictive drift/ powersliding races and \"Driver DNA\" that tracks gamers' personal driving traits. Racing developer Juice Games has evolved the game-play in its online racing, giving players the power to create their car, assemble their crew and put it all on the line in intense pink slip and crew races. Gamers can bet cash on each event, bringing a gambling element to the game that greatly increases the importance of each race."
+}

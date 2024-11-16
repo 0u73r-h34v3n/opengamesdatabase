@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "K-1 World Grand Prix",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/k-1-world-grand-prix",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A growing combat sport that has taken Japan by storm, K-1 brings together the toughest practitioners of Karate, Kickboxing, Tae kwon do and Kung Fu to create the world's most challenging fighting competition. And now, players can step in to the virtual ring and feel the sweat on their brow in Konami's new videogame, K-1 World Grand Prix - the most realistic recreation of the sport ever. Highlighted by stunning true-to-life graphics, realistic fighting styles and a unique damage/health system, K-1 World Grand Prix features over 20 real-life fighters, each of whom performed their own motion capture to deliver signature moves and celebrations that are true-to-the-man. Further delivering the sport, K-1 World Grand Prix boasts a wealth of game modes, including Grand Prix, Champion's Revolution, Exhibition, Trial, Revival and more."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "Predator: Concrete Jungle",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/predator-concrete-jungle",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Predator: Concrete Jungle, you become the Predator who hunts the Earth for criminals using superhuman powers, different vision modes, and an array of alien weaponry. The tale of the alien's history on the Earth unfolds between two separate time periods (in the 1930s and in 2030) as you seek revenge upon an organized crime empire. To successfully complete your missions, you must master cloaking technology and extraterrestrial weapons, including wristblades, plasmacaster, combistick, speargun, and smart disk."
+}

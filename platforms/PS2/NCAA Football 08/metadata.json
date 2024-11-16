@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 08",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-08",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In NCAA Football 08, players look to be a leader and become a legend on the field. With all-new Leadership Control, players now lead by example and control the action on the field and can increase their sphere of influence by improving their players' personal ratings on each big play."
+}

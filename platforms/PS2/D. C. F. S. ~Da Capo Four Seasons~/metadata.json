@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kadokawa"],
+	"genres": ["Visual Novel"],
+	"name": "D. C. F. S. ~Da Capo Four Seasons~",
+	"publishers": ["Kadokawa"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Da Capo - Four Seasons is the PS2 adaption of the second entry of this series. <br>"
+}

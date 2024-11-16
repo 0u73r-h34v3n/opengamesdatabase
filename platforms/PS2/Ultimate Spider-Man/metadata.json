@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treyarch"],
+	"genres": ["Action", "Adventure"],
+	"name": "Ultimate Spider-Man",
+	"publishers": ["Activision (US, EU, AU)", "Taito Corporation (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/652/652807p1.html",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ultimate-spider-man",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the comic book of the same name, Ultimate Spider-Man lets you play as either the hero Spider-Man or his arch-nemesis, Venom.  Use the unique combat techniques of either Spider-Man or Venom to battle a host of  Spider-Man characters. Artistic contributions by the creators of the series make for an authentic Spider-Man experience."
+}

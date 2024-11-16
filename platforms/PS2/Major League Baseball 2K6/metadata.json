@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "Major League Baseball 2K6",
+	"publishers": ["2K|2K Sports (US)", "Spike (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/major-league-baseball-2k6",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Major League Baseball 2K6 is the newest baseball offering from 2K Sports and the only MLB-licensed game this year. Use the new Inside Edge scouting service to get detailed stat tracking and in-depth player reports. MLB 2K6 features detailed controls, letting you use the analog sticks to make precision changes to your swings and throws. ESPN broadcasters Joe Miller and Joe Morgan return to do the commentary. In addition to the single-player season and exhibition modes, MLB 2K6 includes a multiplayer mode."
+}

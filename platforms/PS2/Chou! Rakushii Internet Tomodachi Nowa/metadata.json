@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SunSoft"],
+	"genres": ["Tools"],
+	"name": "Chou! Rakushii Internet Tomodachi Nowa",
+	"publishers": ["SunSoft (JP)", "Sunset Entertainment (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A suite of applications for PS2 containing a simple web browser \"New Sensation! Web browser\", an email application \"Easy Mailer\" and an \"Address Book\"."
+}

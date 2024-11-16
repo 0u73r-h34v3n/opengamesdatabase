@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Music"],
+	"name": "Dance Dance Revolution SuperNOVA 2",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dance-dance-revolution-supernova-2",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The hottest revolution and bestselling video game in the music game category explodes onto the dance floor with Dance Dance Revolution SuperNOVA2, the follow-up to 2006's biggest and best DDR game to date!  Dance Dance Revolution SuperNOVA2 will deliver a dance party extravaganza with its fun interactive gameplay, incredible song selection and innovative new game modes."
+}

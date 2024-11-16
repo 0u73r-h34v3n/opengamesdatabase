@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mass Media"],
+	"genres": ["Action"],
+	"name": "Pac-Man Fever",
+	"publishers": ["Namco (US)", "Sony|SCEE (EU)"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/pac-man-fever",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pac-Man takes break from eating dots and ghosts in the fun new party game Pac-Man Fever.  In addition to our yellow hero, the game also features Ms. Pac-Man and many other Namco favorites from franchises such as Tekken, Ridge Racer, and Soul Calibur.  Up to four players partake in more than 30 minigames and three differently themed game boards.  Try to recover all of the minigames stolen by those pesky, party-crashing Ghosts and determine who the real party animal is."
+}

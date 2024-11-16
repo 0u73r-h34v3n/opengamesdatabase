@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Collection"],
+	"name": ".hack//Vol. 1 x Vol. 2",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|\"PlayStation 2 the Best\" editions of [[.hack//Infection Part 1]] and [[.hack//Mutation Part 2]] and has its unique serials (SLPS-73230, SLPS-73231).}}"
+}

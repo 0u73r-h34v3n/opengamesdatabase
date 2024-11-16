@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action", "Adventure"],
+	"name": "Metal Gear Solid 2: Sons of Liberty",
+	"publishers": ["Konami (US, JP, EU, KO)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/11/17/metal-gear-solid-2-sons-of-liberty",
+			"score": 9.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/metal-gear-solid-2-sons-of-liberty",
+			"score": 96,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/metal-gear-solid-2-sons-of-liberty/1900-2824273/",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_mgs2_ps2",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Snake returns in the stealthy action title, Metal Gear Solid 2: Sons of Liberty.  Take on the role of a one-man army determined to stop a deadly high-tech weapon from falling into the hands of a highly elite resistance group called Dead Cell.  Encounter familiar faces including Revolver Ocelot and battle the new war machine, Metal Gear Ray.  This time around, enemies are more aware and agile, so you must use your skills in stealth, weaponry, and counter-terrorism to fight off the competing powers."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bec"],
+	"genres": ["Action"],
+	"name": "Mobile Suit Gundam: Encounters in Space",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mobile-suit-gundam-encounters-in-space",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Space combat begins with you in your favorite mobile suit. This action-packed shooter lets you fight your way through space, destroying enemy battleships and mobile suits, to defeat the evil dictators of the Principality of Zeon and end the One Year War. Choose from more than 70 mobile suits and armors from 0079, 0083, Gundam Wing, G Gundam, and Gundam Seed. Whether you experience legendary Gundam battles or execute your own incredible missions, the fate of the Universal Century is in your hands."
+}

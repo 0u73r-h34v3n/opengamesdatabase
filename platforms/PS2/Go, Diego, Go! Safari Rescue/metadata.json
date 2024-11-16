@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action"],
+	"name": "Go, Diego, Go! Safari Rescue",
+	"publishers": ["2K|2K Play (US, EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/go-diego-go!-safari-rescue",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Giraffes with short necks? Zebras with no stripes? Tiny hippos? A mean Magician mixed up all the African animals and turned the elephants into rocks too. Help Diego, Alicia, Baby Jaguar, Juma and Erin the Elephant undo the Magician's mischief with the Magic Drum."
+}

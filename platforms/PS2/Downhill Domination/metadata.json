@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Incognito|Incognito Inc."],
+	"genres": ["Sports"],
+	"name": "Downhill Domination",
+	"publishers": ["Sony|SCEA (US)", "Codemasters (EU)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/ps2/driving/downhilldomination/review.html",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/downhill-domination",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With Downhill Domination, you'll understand why downhill mountain bike racing is considered an extreme sport. Ride down vertical mountainsides and urban environments while performing stunts at speeds in excess of 60 miles per hour. Playable in first- and third-person perspectives, you can select from one of 14 riders, including five pro-riders, in an intense race to gain corporate sponsorship and a chance at the coveted Downhill Domination Championship. During gameplay, you have the freedom to pick the best racing line through unforgiving canyons, forests, city streets, and more while avoiding environmental and weather hazards."
+}

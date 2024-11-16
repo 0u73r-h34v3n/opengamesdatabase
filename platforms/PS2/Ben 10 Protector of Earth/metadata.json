@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Fighting"],
+	"name": "Ben 10: Protector of Earth",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamesradar",
+			"url": "http://www.gamesradar.com/ben-10-protector-of-earth/",
+			"score": 3.5,
+			"max_score": 5
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ben-10-protector-of-earth",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players will take on the role of Cartoon Network's popular everyday-kid-turned-alien-hero, Ben Tennyson. Using the power of the Omnitrix which has embedded itself on Ben's wrist, players will be able to battle as one of five popular alien heroes from the show. By taking on these amazing powers, players can battle to save the world through the game's diverse challenges, puzzles and skirmishes."
+}

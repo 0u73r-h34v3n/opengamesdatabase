@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action"],
+	"name": "Disney/Pixar Monsters, Inc.",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monsters-inc",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get set to have a roaring good time as you scare your way across Monstropolis. Get Boo back to her world before the CDA catches up with you. It's a hair-raising comic adventure across monstrous puzzle-laden zones."
+}

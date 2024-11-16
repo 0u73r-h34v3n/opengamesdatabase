@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Career Soft"],
+	"genres": ["Turn-based strategy"],
+	"name": "Growlanser: Heritage of War",
+	"publishers": ["Atlus (JP, US)", "Rising Star Games (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/growlanser-heritage-of-war",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Growlanser: Heritage of War features a sweeping story arc spanning 5 chapters, with additional chapters to unlock. On an island continent shrouded in darkness and bounded on every shore by an impassable veil, war rages among desperate inhabitants fighting for survival. There is no safe haven; land that war has left untouched is still threatened by the Screapers, fierce and powerful monsters steadily encroaching on the cities of men - who will rise to save this dying land?"
+}

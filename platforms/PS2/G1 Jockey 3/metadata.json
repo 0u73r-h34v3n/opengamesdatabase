@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei|Koei/Inis"],
+	"genres": ["Sports"],
+	"name": "G1 Jockey 3",
+	"publishers": ["Koei (JP, US)", "THQ (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/g1-jockey-3",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "G1 Jockey 3 puts the elite G1 class of horseracing within your grasp with veteran tips, training sessions, and a variety of unique horses. Choose from more than 4,000 horses--each with different characteristics--and work your way from rookie tracks to advanced rides. Veteran jockeys show you the tricks of the trade, and training tracks let you practice what you've learned. Each track comes with its own combination of obstacles, changing weather, and various track conditions. Now it's up to you to work your horse into top form, set a racing schedule, and ride to victory."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cavia|Cavia Inc."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "WinBack 2: Project Poseidon",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/winback-2-project-poseidon",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In a world where terror takes many forms, a new weapon threatens to shake the balance of power. Freedom's last hope rests in the hands of three new operatives, who must race against time to recover this doomsday device. The fate of the world hangs by a thread, and a few ticks of the clock means the difference between justice and annihilation. WINBACK 2 brings to the series a new \"route\" system that lets players experience each mission from the perspective of different operatives. There are 30 intense missions, multiple difficulty levels, and new weapons including the highly-anticipated sniper rifle. The new Winback assault team is comprised of three young, yet combat-proven operatives led by Craig Contrell. Each team member is qualified in six different weapon types and highly-adept at CQB (Close Quarter Battle). They are masters of target identification, engagement and shot placement. In the hands of the player, all of these techniques will be put to the test. The game's unique shooting action is spread across 30 high-risk operations situated in challenging urban environments and conveyances."
+}

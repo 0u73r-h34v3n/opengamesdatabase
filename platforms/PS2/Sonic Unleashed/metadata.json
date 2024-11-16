@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Dimps Corporation"],
+	"genres": ["Action", "Platformer"],
+	"name": "Sonic Unleashed",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ca.ign.com/games/sonic-unleashed/ps2-727140",
+			"score": 7,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sonic-unleashed",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The evil Dr. Eggman has broken the world apart, and it's up to Sonic to put the pieces back together again by retrieving the power of the chaos emeralds! In doing so, Sonic will find himself in a race against time and faced with an unusual situation that will challenge him in ways never before seen. Both day and night play different but important roles in Sonic's newest quest... As the sun sets, a new adventure awakens."
+}

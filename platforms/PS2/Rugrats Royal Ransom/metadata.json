@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Avalanche Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Rugrats Royal Ransom",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rugrats-royal-ransom",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Angelica has claimed herself Queen of the Play Palace 3000 and has taken the Rugrats' most prized possessions. Now, you'll join Tommy, Chuckie, and the rest of the Rugrats as they wander through magical worlds to reclaim what is rightfully theirs. You can travel to nine fantasy environments--ranging from the snow and the ocean to the jungle and the moon--to discover bonus levels and multiplayer games. The game's various modes will have you flying on a magic carpet, racing a snowman down a mountain on a sled, cruising on craters in a moon buggy, and more."
+}

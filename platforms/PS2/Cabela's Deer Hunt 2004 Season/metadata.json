@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Deer Hunt: 2004 Season",
+	"publishers": ["Activision"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-deer-hunt-2004-season",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Keep your eyes peeled and your trigger finger ready as you never know when a \"Monster Trophy Buck\" will cross your path.  In Cabela's Deer Hunt: 2004 Season, you will hunt in nine different deer species using over authentic firearms, gear, and more than 90 unique rack configurations.  Get ready to travel to exotic locations via ATV, boat, snowmobile, and truck.  With advanced animal AI and true-to-life habits, these deer will have your heart pounding and your palms sweating with intense hunting action."
+}

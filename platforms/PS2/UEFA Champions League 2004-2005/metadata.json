@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Sports"],
+	"name": "UEFA Champions League 2004-2005",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/925806-uefa-champions-league-2004-2005/index.html",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MISSION: UEFA CHAMPIONS LEAGUE   MISSION CONTROL The first mission-based football game with 50 challenging on- and off-field scenarios to overcome.  UNPARALLELED DEPTH Satisfy a demanding owner with the success in the transfer market, at the training ground and on the pitch.  ALL-NEW SET-PIECES Stay sharp in the box to master ultra realistic and intuitive free kick and corner routines.  OFFICIAL AND EXCLUSIVE The only place to experience the drama on club football's biggest stage.  EA SPORTS TALK RADIO Listen to the views of people who pay your wages on the ultimate fans' forum."
+}

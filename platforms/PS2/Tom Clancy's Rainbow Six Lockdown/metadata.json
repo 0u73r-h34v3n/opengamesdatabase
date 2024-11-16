@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Red Storm Entertainment"],
+	"genres": ["Action", "Shooter"],
+	"name": "Tom Clancy's Rainbow Six: Lockdown",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tom-clancys-rainbow-six-lockdown/ps2-717211",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tom-clancys-rainbow-six-lockdown",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The next installment in the Rainbow Six series introduces a new single-player experience featuring advanced equipment and new storylines. This time, you can play as either Ding Chavez (the leader of Team Rainbow) or Dieter Weber (a sniper in charge of covering his team's movement). You must lead your counterterrorist unit into unfamiliar territory to battle a bioterrorist threat. Rainbow Six 3 also features online multiplayer modes, including the PS2-exclusive rivalry mode and the Xbox-exclusive career mode."
+}

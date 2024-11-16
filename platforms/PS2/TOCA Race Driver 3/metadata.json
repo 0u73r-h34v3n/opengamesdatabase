@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "TOCA Race Driver 3",
+	"publishers": ["Codemasters (US, EU, AU)", "Interchannel-Holon (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/toca-race-driver-3/pc-736262",
+			"score": 8.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/toca-race-driver-3",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The TOCA racing series returns for a third go with numerous improvements over its predecessors. TOCA Race Driver 3 features upgraded artificial intelligence, a spectator mode, rivalries, and 35 racing styles. There are more than 80 cars to choose from, each with finely tuned performance variables. You can progress across all disciplines or specialize in one of the six, including touring, GT, and rally. TOCA Race Driver 3 is also online-compatible, letting you challenge other gamers around the globe."
+}

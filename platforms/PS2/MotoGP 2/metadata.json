@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Racing"],
+	"name": "MotoGP 2",
+	"publishers": ["Namco (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/02/19/motogp2",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motogp-2",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MotoGP returns with challenging tracks, different gameplay modes, and online play. In MotoGP 2, you'll race against the top 20 riders in the world at speeds of 180mph around turns and corners with your knee inches from the ground. It's up to you to find the perfect combination of rider and bike to suit your style. Races take place on 16 tracks in all weather conditions. Challenge yourself to master these obstacles in all six single-player game modes and in online multiplayer matches for up to 16 players."
+}

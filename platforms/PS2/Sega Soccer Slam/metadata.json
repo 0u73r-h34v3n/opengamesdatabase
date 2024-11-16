@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Black Box"],
+	"genres": ["Sports"],
+	"name": "Sega Soccer Slam",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sega-soccer-slam",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A host of diverse teams from across the globe unite on the green for intense three-on-three matches of soccer. Not your ordinary soccer game, Sega Soccer Slam involves violent tackles, killer kicks, and spotlight maneuvers. In Quest mode, you can take any team through a series of matches, while unlocking secret stadium locations and gaining access to hidden power-ups. Alternative gameplay options include Arcade mode, Challenge mode, and a round-robin Tourney mode with multiplayer action for up to six players."
+}

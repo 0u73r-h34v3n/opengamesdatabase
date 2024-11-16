@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Torus Games"],
+	"genres": ["Racing"],
+	"name": "Monster Jam",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-jam",
+			"score": 23,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience extreme monster truck action as you catch massive air, crush cars, perform crazy stunts, destroy everything in your path, race to the finish line and more.  Battle through stadium races, freestyle competitions and outdoor circuit tracks on your way to becoming the Monster Jam world champion!"
+}

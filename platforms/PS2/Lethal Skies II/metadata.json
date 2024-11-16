@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Asmik Ace Entertainment", "Bit Town| Bit Town (JP)"],
+	"genres": ["Simulation"],
+	"name": "Lethal Skies II",
+	"publishers": [
+		"Sammy Studios (US)",
+		"Bigben Interactive (EU)",
+		"Asmik Ace Entertainment|Asmik Ace Entertainment",
+		"Inc (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/914990-lethal-skies-ii/index.html",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/lethal-skies-ii",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A year-long global war between the World Alliance and the World Order Reorganization Front has ended with planet Earth in peril. As a result of resentment and distrust, the World Alliance has begun to split, and the seeds for a new global war are being planted. In the midst of this epic war, Lethal Skies II puts you in command of an Air Force, including 19 of the world's most devastating fighter planes. Through 20 missions, you'll be able to switch control to other vehicles such as jets, tanks, battle mechs, and submarines, and you can even switch roles and become the enemy.\nLethal Skies II (Sidewinder V) is a combat flight simulator set in an eco-disaster torn near-future with more realistic loadouts and physics modeling than the eminent Ace Combat series by [[Namco|Namco-Bandai Games]]. Released on September 9, 2003 in North America, it marks the third and last Western installment in the series (fifth and last in Japan) after Bogey Dead 6 on the PlayStation and Lethal Skies Team SW: Elite Pilot on the PlayStation 2. The major features touted for this release were its ability to use the i.LINK 2-player mode, along with local 2-player and the addition of more cinematic camera modes. 19 flyable aircraft over 20 missions (with an unlockable enemy-side campaign) mark the end of the series."
+}

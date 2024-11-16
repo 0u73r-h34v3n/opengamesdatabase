@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Studio e.go!"],
+	"genres": ["Real-time strategy", "Visual Novel"],
+	"name": "Castle Fantasia",
+	"publishers": ["Kadokawa"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Castle Fantasia is a real-time strategy simulation game set in a medieval fantasy world. It is divided into Visual Novel - style story parts that advance the story, training parts that nurture the characters and prepare for battle, and RTS parts for the battles. The story proceeds week by week and is goes for 87 weeks in total."
+}

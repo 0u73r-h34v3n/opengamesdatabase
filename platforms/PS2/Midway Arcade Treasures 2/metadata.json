@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Backbone Entertainment"],
+	"genres": ["Compilation", "Arcade"],
+	"name": "Midway Arcade Treasures 2",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/midway-arcade-treasures-2",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Midway Arcade Treasures 2 brings 20 classic arcade games back to next-generation consoles. This compilation includes such favorites as Mortal Kombat 2 and 3, Spy Hunter 2, Gauntlet 2, NARC, Cyber-Ball, Wizard of Wor, Primal Rage, Steel Talons, Arch Rivals, and more. Each game can provide hours of retro-gaming entertainment. Midway Arcade Treasures 2 also features a documentary on the origins of these games."
+}

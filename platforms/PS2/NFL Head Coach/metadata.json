@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NFL Head Coach",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-head-coach",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NFL Head Coach reinvents football gaming by introducing the first 3D strategy sports game that challenges gamers to build and manage every aspect of a football team from the ground up. A simple conversation system and an engaging 3D graphical interface allow users to immerse themselves into the lives of an NFL head coach. As head coach, you develop a team strategy, execute it on and off the field, and try to build a winning organization year after year. Your status as a coaching legend will rise and fall based on all of your actions as you strive to become the greatest head coach of all time. Behind the desk, on the practice field, or while wearing the headset on game days, take the reins of your favorite NFL team and lead it to victory."
+}

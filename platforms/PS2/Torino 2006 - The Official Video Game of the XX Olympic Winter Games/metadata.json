@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["49Games"],
+	"genres": ["Sports"],
+	"name": "Torino 2006 - The Official Video Game of the XX Olympic Winter Games",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/torino-2006---the-official-video-game-of-the-xx-olympic-winter-games",
+			"score": 39,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the spirit of the winter Olympics, Torino '06 Olympic Games lets you compete in 15 different events. The game includes such disciplines as bobsledding, figure skating, cross-country skiing, hockey, and biathlon. Up to four players can compete for Olympic glory through head-to-head or sequential gameplay."
+}

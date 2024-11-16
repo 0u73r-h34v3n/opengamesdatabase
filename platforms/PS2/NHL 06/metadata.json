@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NHL 06",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-06",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The EA Sports hockey franchise returns with a host of new features in NHL 06. You can carefully place your shots and time your dekes with the new \"skill stick\" system. More-realistic physics have you adjust to a player's speed and size as you navigate the ice. In addition to NHL stars, you can create your own player or team from the ground up and lead them through an NHL season. NHL 06 also includes both online and offline multiplayer game modes."
+}

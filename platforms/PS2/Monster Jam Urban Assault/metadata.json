@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Torus Games"],
+	"genres": ["Racing"],
+	"name": "Monster Jam: Urban Assault",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-jam-urban-assault",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Urban Assault features various game modes, tracks inspired by real cities and Monster Truck stadiums. They'll be 27 playable trucks in the game which includes Grave Digger, Bounty Hunter, Backwards Bob, King Krunch, and Air Force. As the days continue to count down until the game launches, we will have another update on the trucks."
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pacific Century Cyber Works"],
+	"genres": ["Music"],
+	"name": "Lowrider",
+	"publishers": [
+		"Pacific Century Cyber Works (JP)",
+		"Jaleco Entertainment (US)"
+	],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lowrider",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Lowrider, winning the crowd can win you a sweet ride. Master the timing and twitch of 18 different cars straight from club-driven car cultures. For a quick fix, select a car that fits your mood, and then choose to hop, dance, or street-style your way to the next round by winning the love of the fans. Or start with a beater and bring it to glory with upgrades in hydraulics, batteries, suspension, and custom paint jobs."
+}

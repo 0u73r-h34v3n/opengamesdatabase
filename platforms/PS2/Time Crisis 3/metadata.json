@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Shooter"],
+	"name": "Time Crisis 3",
+	"publishers": ["Namco (US, JP)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/time-crisis-3",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment in Namco's light gun shooting franchise, Time Crisis 3 offers exciting, fast-paced shooting action by the world renowned VSSE agents as they fight to save an innocent nation from total annihilation.  Choose from four weapons--machine gun, handgun, shotgun, and grenade-- to blast your way past enemies.  Practice your sharpshooting skills in Sniper Combat and multiple gameplay modes.  The game also includes multiple gameplay modes, a new playable character, and the original Time Crisis.  It's time to warm up that trigger finger and step into the action."
+}

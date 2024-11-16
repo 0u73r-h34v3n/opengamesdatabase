@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Data Design Interactive"],
+	"genres": ["Racing"],
+	"name": "London Taxi: Rush Hour",
+	"publishers": ["Metro3D (EU)", "Data Design Interactive (US)"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/london-taxi-rush-hour",
+			"score": 20,
+			"max_score": 100
+		}
+	],
+	"synopsis": "TAXI!! It's London, it's Rush-hour and you're a cabbie on a mission! Drive down busy streets causing havoc, tear through the underground and cut across parks in a race to deliver passengers on time! Use whatever route you can possibly find to get to your destination in the quickest time using a full map of central London packed with famous landmarks."
+}

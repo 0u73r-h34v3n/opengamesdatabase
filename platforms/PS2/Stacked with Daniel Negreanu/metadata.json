@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["5000ft|5000ft Inc."],
+	"genres": ["Gambling"],
+	"name": "Stacked with Daniel Negreanu",
+	"publishers": ["Myelin Media (US, EU)", "Eidos Interactive (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/stacked-with-daniel-negreanu",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Stacked with Daniel Negreanu is a 3D poker simulation that provides both instruction and challenging AI competition. With video and in-game instructional features, the game helps you hone your No-Limit Hold 'Em skills. Computer opponents are equipped with a dynamic AI that allows them to take on specific personalities and adjust their play during the game. In Career mode, you can create your own character and take him or her up the ranks, eventually playing in larger tournaments and earning the respect of poker pros. The game also supports online play for small or large tournaments against other players."
+}

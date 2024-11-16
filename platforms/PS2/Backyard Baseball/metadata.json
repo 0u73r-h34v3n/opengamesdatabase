@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Humongous Entertainment"],
+	"genres": ["Sports"],
+	"name": "Backyard Baseball",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/backyard-baseball",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All the excitement of summer ball games is now in your living room.  Backyard Baseball pits the Backyard Kids against kid versions of real pro baseball players such as Sammy Sosa, Barry Bonds, and Derek Jeter.  Pick your team, position players, and choose a field to play on for single games or an entire season.  Choose from all 30 MLB teams or create your own winning line-up with custom team names and uniforms.  It's the chance of a lifetime to play with the pros."
+}

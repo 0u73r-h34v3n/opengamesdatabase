@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Redwood Shores"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "James Bond 007: Everything or Nothing",
+	"publishers": [
+		"Electronic Arts (JP, EU)",
+		"Electronic Arts|EA Games (US, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/566/566612.html",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/james-bond-007-everything-or-nothing",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes."
+}

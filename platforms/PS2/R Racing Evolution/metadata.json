@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Racing"],
+	"name": "R: Racing Evolution",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/r-racing-evolution",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Not your ordinary racer, R: Racing Evolution features a story mode, in-game radio communications, and authentic licensed cars. R: Racing Evolution chronicles the intense competition and deep rivalries found only within the professional racing circuit. Upgrade and modify your vehicle to compete in five game modes, including Racing Life, Event Challenge, Time Attack, Arcade, and Versus. New features such as the Interactive Driver AI System and in-game radio communications bring players close to the racing action."
+}

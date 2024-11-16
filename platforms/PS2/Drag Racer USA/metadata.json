@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mere Mortals"],
+	"genres": ["Racing"],
+	"name": "Drag Racer USA",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "\"Feel all 600+BHP shake through your body as the engine roars at a touch of the throttle\" "
+}

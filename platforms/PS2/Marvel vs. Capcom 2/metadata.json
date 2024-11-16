@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Marvel vs. Capcom 2",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/marvel-vs-capcom-2",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Two powerful universes collide in Marvel vs. Capcom 2. The game mixes characters from Capcom games with superheroes from the Marvel Universe, creating a total of 56 fighters. Assemble a team of your favorite heroes and villains for intense three-on-three tag-team matches. Each character type has an array of special attributes and, with the right team combination, you can pull off amazing super combos and special moves."
+}

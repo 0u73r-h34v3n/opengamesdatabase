@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 5: Xtreme Legends",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-5-xtreme-legends",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Series fans will enjoy an awesome collection of more than 18 untold stories in \"Legend Mode,\" an expanded \"Xtreme Mode\" for up to two players, and an \"Edit Mode\" with 20,000 possible character combinations. In the game's new \"Destiny Mode,\" players will begin as a foot soldier, and work their way up the ranks by completing a series of combat missions. Now, players will have a previously unheard of level of control over their character's destiny by choosing which officer they will serve and to which kingdom they will pledge allegiance. Additional features include two tough new \"Challenge\" courses, and the new \"Blacksmith\" system that allows players to upgrade their characters and weapons using special items."
+}

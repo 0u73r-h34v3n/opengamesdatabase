@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action", "Adventure"],
+	"name": "Metal Gear Solid 2: Substance",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/metal-gear-solid-2-substance",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Solid Snake returns in Metal Gear Solid 2: Substance, the expanded edition of Metal Gear Solid 2: Sons of Liberty, with all-new game modes, hidden characters, and storylines. Top-secret weapons technology is being mysteriously transported under cover of an oil tanker to an unknown destination. It's up to Snake to infiltrate the transport and keep this deadly weapon of mass destruction from falling into the wrong hands. You'll have plenty of ways to practice, as the game offers more than 350 virtual reality missions in addition to more than 15 alternate missions."
+}

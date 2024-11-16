@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's|Yuke's Company of America"],
+	"genres": ["Collection"],
+	"name": "WWE SmackDown vs. Raw: Superstar Series",
+	"publishers": ["THQ"],
+	"regions": ["NTSC-U"],
+	"synopsis": "{{Collection| [[WWE SmackDown! vs. Raw]], [[WWE SmackDown! vs. Raw 2006]] and [[WWE SmackDown vs. RAW 2007]].}}"
+}

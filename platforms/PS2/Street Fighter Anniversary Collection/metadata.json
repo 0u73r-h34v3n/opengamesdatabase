@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Compilation", "Fighting"],
+	"name": "Street Fighter Anniversary Collection",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/street-fighter-anniversary-collection",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Street Fighter Anniversary Collection commemorates the 15th anniversary of Capcom's series of fighting games. The compilation includes Hyper Street Fighter II, which combines previous Street Fighter II features and character variations from previous Street Fighter II editions, and Street Fighter III: Third Strike. Hyper Street Fighter II lets you mix and match characters from the different versions for a variety of matchups. Street Fighter III: Third Strike offers a total of 19 different playable characters, a Grade Judge System, and a Progressive Hit Frame System."
+}

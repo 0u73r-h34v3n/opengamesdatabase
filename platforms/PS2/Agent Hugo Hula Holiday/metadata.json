@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Attractive Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Agent Hugo: Hula Holiday",
+	"publishers": ["NDS Software"],
+	"regions": ["PAL"],
+	"synopsis": "Agent Hugo: Hula Holiday is a 3D platform game staring Hugo the TV troll that is played from a behind view perspective. While on vacation Agent Hugo notices that a big fly with his robotic trash cans is transforming a nearby island into a dump, in order to feed his fly army."
+}

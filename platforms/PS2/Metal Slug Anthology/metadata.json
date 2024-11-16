@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Compilation", "Action", "Shoot'em up"],
+	"name": "Metal Slug Anthology",
+	"publishers": ["SNK Playmore (US, JP, KO)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/metal-slug-anthology",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SNK Playmore, in celebration of the 10th Anniversary of their classic arcade franchise Metal Slug, releases the greatest array of Metal Slug titles ever assembled for the PlayStation®2 including Metal Slug, Metal Slug 2, Metal Slug X, Metal Slug 3, Metal Slug 4, and Metal Slug 5. The METAL SLUG COLLECTION is a perfect translation of the arcade classics and features support for intense two-player action."
+}

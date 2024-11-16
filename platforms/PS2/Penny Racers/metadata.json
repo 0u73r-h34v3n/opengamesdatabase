@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Barnhouse Effect"],
+	"genres": ["Racing"],
+	"name": "Penny Racers",
+	"publishers": [
+		"Takara (JP)",
+		"Conspiracy Entertainment (US)",
+		"Midas Interactive Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gadget-racers",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gear up and go! Grab your steering wheel and get ready for the race of your life! Equip your car with over 120 gadgets, including parts that help you soar above the competition or swim like a fish. Face challenging weather conditions, death-defying jumps, hairpin turns and more as you head for first place. Get ready to burn rubber with Gadget Racers!"
+}

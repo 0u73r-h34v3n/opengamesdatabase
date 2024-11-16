@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pacific Coast Power & Light"],
+	"genres": ["Racing"],
+	"name": "WWE Crush Hour",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wwe-crush-hour",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WWE Entertainment Crush Hour takes the intensity, competitiveness, and brute strength from the wrestling ring to the world of car combat. More than 20 WWE superstars jump into their super cars for brutal vehicular carnage. Lay the rubber down in the Rock's speedster, cruise and bruise in the Hardy Boys' souped-up Woody, or pummel the competition in the Big Show's diesel. In 12 levels littered with deadly traps and hazards, it's going to take more than a three-count to win."
+}

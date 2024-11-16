@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cave"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Espgaluda",
+	"publishers": ["Arika"],
+	"regions": ["NTSC-J"],
+	"synopsis": "PlayStation 2 version of the popular Japanese arcade shooter. In this top-down, vertically scrolling 2D shooter you choose to play as either Ageha or his female companion Nuteha. Ageha uses a straight-line standard and Rapier shot, while Nuteha's standard fire is spread like a fan. Both can utilize a guard barrier that protects them from incoming projectiles, or use the energy built up in the barrier gauge to deliver powerful guard barrier attacks of different strength levels. Pick-up items include partial (P) and full shot upgrades (MP), guard barrier refills (E), and energy refills (L), among others. The home version adds an additional gameplay mode and top player replays available on a bonus DVD. "
+}

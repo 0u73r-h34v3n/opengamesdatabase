@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ornith"],
+	"genres": ["Sports"],
+	"name": "Q-Ball Billiards Master",
+	"publishers": ["ASK (JP)", "Take-Two Interactive (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/q-ball-billiards-master",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Succeeding in the surprisingly competitive PlayStation 2 billiards genre isn't easy, but Q-Ball competes with a wide selection of game options. Seven modes of play are available: straight pool, free play, eight ball, US nine ball, international nine ball, rotation, frozen, plus carrot, random six, and bowlliards. Q-Ball also makes full use of the analog buttons and sticks for you to determine the power and angle of your shots.  With beautiful graphics and precision ball movement, billiards has never been this real! Qball: Billiards Master is a pool player's dream, using the power of the PlayStation 2 to create an unforgettably challenging game. Play in style with QBall!"
+}

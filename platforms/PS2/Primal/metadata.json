@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Action", "Adventure"],
+	"name": "Primal",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEJ (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/primal",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Primal follows Jennifer Tate, a modern-day girl who is ripped from her normal life of being a student and thrown into an epic battle with demon forces from an immortal world. As Jen, you'll assume a host of savage demon forms, each with its own unique powers and abilities. With the help of your ally Scree, unleash devastating combos, finishing moves, and stealth attacks upon legions of enemies. With an intricate weave of plot and multiple sub-plots, Primal will have you spiraling through a world driven by exploration, puzzle-solving, combat, and story."
+}

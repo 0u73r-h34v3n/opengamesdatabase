@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Relentless Software"],
+	"genres": ["Trivia"],
+	"name": "Buzz! The Sports Quiz",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL"],
+	"synopsis": "Buzz!: The Sports Quiz is a sports trivia game using the USB buzzer of the PlayStation 2 for up to eight players with three game modes: Solo, Multiplayer, and Team mode. The player may choose the difficulty and the length of the party. There are 16 characters to choose from, 3 different dress suits per characters, and 24 buzz sounds."
+}

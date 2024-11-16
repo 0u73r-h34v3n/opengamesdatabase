@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Angel Studios"],
+	"genres": ["Racing"],
+	"name": "Test Drive Off-Road Wide Open",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/08/23/test-drive-off-road-wide-open-3",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/test-drive-off-road-wide-open",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Test Drive Off-Road Wide Open, off-road racing takes a detour through nature's badlands. The wilderness is your playground for 13 licensed trucks such as Hummer, Dodge T-Rex, Ford Bronco, and more. Avoid rockslides, waterfalls, and volcanoes as you tear up three countrysides--each featuring over 10 races and events. Speed through checkpoints in three gameplay modes--Circuit, A-B, and Blitz--against tough competition on rough terrain. The road to off-road supremacy goes through towering jumps, high-speed trucks, and shortcuts."
+}

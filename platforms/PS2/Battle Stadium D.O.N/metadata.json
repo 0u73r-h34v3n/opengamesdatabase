@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eighting"],
+	"genres": ["Action", "Fighting"],
+	"name": "Battle Stadium D.O.N",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Battle Stadium D.O.N (バトルスタジアムＤＯＮ) is a Japanese crossover fighting game for the GameCube and PlayStation 2. The \"D.O.N.\" in the game's title is derived from Dragon Ball, One Piece, and Naruto, the three manga series published by Weekly Shōnen Jump upon which the game is based. Both versions of the game received a rating of 26 out of 40 from Weekly Famitsu."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Platformer"],
+	"name": "Whiplash",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/whiplash",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join a shackled animal duo on a mission to both escape and sabotage an evil animal product-testing corporation. Ironically, the chain that links the rabbit, Redmond, to his weasel pal, Spanx, becomes their biggest weapon It can be used as a whip, a grappling hook, or a helicopter. Together, they'll battle a band of baddies, including a giant-syringe-toting doctor, an unsanitary surgeon, crooked rent-a-cops, vicious guard dogs, and a corrupt CEO. The more enemies you defeat, animals you free, and equipment you demolish, the further you drive the shady corporation into bankruptcy."
+}

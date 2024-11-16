@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Visual Novel", "Puzzle"],
+	"name": "D.N.Angel: Kurenai no Tsubasa",
+	"publishers": ["Takara"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Kurenai no Tsubasa is based on the D.N.Angel manga and anime series. In the game the player controls Daisuke Niwa, the protagonist of the series, who has inherited the ability to turn into a phantom thief. The game is a mixture of typical visual novel character dialogue screens and 3rd-person isometric perspective puzzles where the player controls the protagonist directly. Voice-acting was done by the same actors from the anime TV series."
+}

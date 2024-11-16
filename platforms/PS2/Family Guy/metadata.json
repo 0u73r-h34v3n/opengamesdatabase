@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Adventure"],
+	"name": "Family Guy",
+	"publishers": ["2K|2K Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/family-guy",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play through three stories that intersect in typical Family Guy fashion. Be Stewie and match wits against his brother and arch-nemesis Bertram as they vie to take over the world. Take control of Peter and fight to stop Mr. Belvedere who he thinks is trying to take over the world. Slip on a collar and down a martini as Brian attempt to escape prison and prove your innocence in a puppy parental case gone awry."
+}

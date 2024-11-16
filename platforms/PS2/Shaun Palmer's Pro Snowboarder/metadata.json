@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dearsoft"],
+	"genres": ["Sports"],
+	"name": "Shaun Palmer's Pro Snowboarder",
+	"publishers": ["Activision (US)", "Codemasters (EU)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/11/13/shaun-palmers-pro-snowboarder-2",
+			"score": 3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shaun-palmers-pro-snowboarder",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Shaun Palmer's Pro Snowboarder is a real-life racing and freestyle snowboarding sim that features Shaun Palmer himself and nine of the biggest names in the sport including Tara Dakides, Ross Powers, Shaun White, Drew Neilson, Leslee Olson, Jimmy Halopoff, Ingemar Backman, Markus Hurme, and Tommy Czeschin. In their pursuit of snowboarding nirvana, players race down the slopes of eight actual locations while pulling hundreds of authentic trick combos. Expansive interactive environments allow users to explore hidden and secret areas, while practically everything in sight can be used to pull of stunts. Freeride, Career, and several multiplayer options are also featured, including Palmer X, Push, and Horse. "
+}

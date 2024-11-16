@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Mercenaries: Playground of Destruction",
+	"publishers": ["LucasArts (US, EU, AU)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/mercenaries/ps2-666235",
+			"score": 9.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mercenaries",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by real-world events, Mercenaries begins the search for the leader of a North Korean military coup who threatens the world with nuclear war. As one of the top operatives for a private mercenaries company, you have been called in to execute the general and his top military and scientific advisors. Hunt down all 52 targets--depicted on a deck of playing cards--with a variety of military weapons and vehicles. Earn cash from different missions to buy better weapons and vehicles, or sell your vehicles and weapons on the black market."
+}

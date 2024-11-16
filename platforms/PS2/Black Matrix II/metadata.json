@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flight-Plan"],
+	"genres": ["Turn-based strategy"],
+	"name": "Black/Matrix II",
+	"publishers": ["NEC Interchannel"],
+	"regions": ["NTSC-J"],
+	"synopsis": "While the fictional world of Black/Matrix II is again fantasy-based, it is distinct from the original game. It is divided into three realms - heaven, home to white-winged angels; the human world, inhabited by relatively weak, wingless people; and hell, where black-winged devils reside. The three realms are largely independent and their natives are suspicious of the other realms. Many humans have been convinced of the evil nature of Hell by the angels, but for all their fearsome powers neither the devils nor Hell itself are inherently malevolent. Hell is ruled by the beautiful and compassionate Jenarose, who is said to love humankind more than anyone in the world."
+}

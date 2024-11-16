@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Shooter"],
+	"name": "Tom Clancy's Ghost Recon",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tom-clancys-ghost-recon",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When new leaders in Russia attempt to rebuild the Iron Curtain, war escalates, casualties mount, hostages are taken, and the Ghosts are sent in.  Take a highly skilled Ghost team through a series of missions that range from demolitions to search-and-rescue and all-out firefights for survival.  You can carry dozens of standard and special-issue weapons such as the M16A2, the M4 carbine, and the fearsome and deadly OICW.  Bring a friend into the firefight in split-screen multiplayer mode.  Your team--and the world--is counting on you."
+}

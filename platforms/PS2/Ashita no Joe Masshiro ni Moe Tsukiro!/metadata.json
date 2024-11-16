@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Ashita no Joe: Masshiro ni Moe Tsukiro!",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ashita No Joe - Masshiro ni Moe Tsukiro! is a 2003 boxing game by Konami. The game is based off of the Ashita no Joe (lit. Tommorow's Joe, also called Success Joe and Rocky Joe outside Japan) anime and manga series and faithfully follows it in its story mode."
+}

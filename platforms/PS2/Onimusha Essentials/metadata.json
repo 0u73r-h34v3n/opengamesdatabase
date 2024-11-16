@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Collection"],
+	"name": "Onimusha Essentials",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-U"],
+	"synopsis": "{{Collection| [[Onimusha: Warlords]], [[Onimusha 2: Samurai's Destiny]] and [[Onimusha 3: Demon Siege]].}}"
+}

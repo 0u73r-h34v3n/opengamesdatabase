@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Project Aces"],
+	"genres": ["Simulation"],
+	"name": "Ace Combat 04: Shattered Skies",
+	"publishers": ["Namco (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ace-combat-04-shattered-skies",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "During the course of the game, the player has the opportunity to purchase 21 different planes, from models that actually exist to prototypes or relatively new aircraft that were in development (at the time of game production) and their weaponry. Every plane has two alternate paint schemes, gained by achieving a superior, or S, ranking on a stage in normal difficulty mode, by shooting down the ace pilots on each stage, or by completing the challenge modes."
+}

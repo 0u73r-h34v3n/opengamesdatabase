@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["RPG"],
+	"name": "Busin 0: Wizardry Alternative Neo",
+	"publishers": ["Atlus"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Tackle new dungeons, encounter new characters, and take on a whole new story in this sequel to [[Wizardry: Tale of the Forsaken Land]] which takes place several hundred years earlier. Create a party consisting of player created characters or take some of the many new NPCs with you into the vast dungeons as you explore and interact with the population of Duhan."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["UGA"],
+	"genres": ["Action", "Shooter", "Music"],
+	"name": "Rez",
+	"publishers": ["Sega (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rez",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "To resolve the world's rising crime rates, a new system called Project-K was created. However, Eden, the core of Project-K, has fallen into a vegetative state. Now it's up to you, a hacker, to travel through a cyberspace filled with firewalls, viruses, and other obstacles, and jump-start the system's artificial intelligence. Scattered throughout the levels are evolution spheres, which let you transform into more powerful humanoid forms. The game features a pounding soundtrack and unique vector worlds."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Spark Unlimited"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Call of Duty: Finest Hour",
+	"publishers": ["Activision (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/call-of-duty-finest-hour",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You've been called to defend your Allied country against the Axis foes. In Call of Duty: Finest Hour, you must fight as part of a squad through the chaos of battle. Whether you play as American, British, or Russian forces, you'll discover the hardships that every unsung hero had to face during World War II. The game also features authentic weapons, vehicles, environments, combat missions, and the real sounds of war. Finally, the cinematic battlefield conflicts come to life on your gaming console."
+}

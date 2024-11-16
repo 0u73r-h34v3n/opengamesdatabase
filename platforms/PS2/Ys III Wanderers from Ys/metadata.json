@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Falcom"],
+	"genres": ["Action", "RPG"],
+	"name": "Ys III: Wanderers from Ys",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ys III: Wanderers from Ys is the third game in the ''Ys'' series and is a port of the original game of the same name on the PC. Ys III: Wanderers from Ys is also the sequel to [[Ys I & II Eternal Story]] and the prequel to [[Ys IV: Mask of the Sun - A New Theory]]. The game takes place 3 years after the events of the first two games. Adol Christin and his friend Dogi are on a journey. Passing through a town, they find a gypsy caravan where Dogi has his fortune told. The fortune teller's crystal ball explodes and both Adol and Dogi decide to go to Dogi's hometown of Redmont."
+}

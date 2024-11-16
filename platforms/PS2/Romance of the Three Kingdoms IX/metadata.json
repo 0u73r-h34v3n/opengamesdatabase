@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RPG", "Simulation", "Turn-Based Strategy"],
+	"name": "Romance of the Three Kingdoms IX",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/919160-romance-of-the-three-kingdoms-ix/index.html",
+			"score": 76,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/romance-of-the-three-kingdoms-ix",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With Ancient China as the backdrop, ''Romance of the Three Kingdoms IX'' chronicles the events of the 2nd and 3rd century, when a once grand empire fell into civil war. In this chapter of the series, you immediately assume the rank of a Ruler--a role that tests your leadership, management, and strategy skills. Negotiate political and military affairs at the same time, and use diplomacy while under attack or shift strategies against enemy units in the midst of combat. Foreign tribes now play a pivotal role and can help players protect their dominion."
+}

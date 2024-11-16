@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action", "Adventure"],
+	"name": "Metal Gear Solid 3: Snake Eater",
+	"publishers": ["Konami (US, JP, KO, EU)", "Atari (AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/11/17/metal-gear-solid-3-snake-eater",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/metal-gear-solid-3-snake-eater",
+			"score": 91,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/metal-gear-solid-3-snake-eater-review/1900-6113331/",
+			"score": 8.7,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/ir_metalgearsolid3_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In the third installment in the Metal Gear Solid series, you play as Naked Snake, an elite tactical soldier. Snake is sent on a dangerous mission to both infiltrate enemy territory and uncover the secrets behind a newly created weapon of mass destruction. Survival within the jungle environments and its unpredictable settings requires basic animal instincts, as well as advanced combat and hunting skills. Set in the 1960s, the game features different types of camouflage, open-ended environments, and an array of new weapons and moves."
+}

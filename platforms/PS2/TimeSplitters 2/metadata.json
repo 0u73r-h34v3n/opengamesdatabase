@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Free Radical Design"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "TimeSplitters 2",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/timesplitters-2",
+			"score": 90,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The evil race of TimeSplitters is traveling back into human history authoring events that are leading to the enslavement of mankind. In control of a motley crew of renegade characters, you must hunt down the TimeSplitters in historical eras like the gangster-ridden 1920s, the lush jungles of Aztec temples, soviet military installations of the Cold War, and futuristic robot factories in space. To end their evil plot, seek and recover the crystals required to seal the rift in time."
+}

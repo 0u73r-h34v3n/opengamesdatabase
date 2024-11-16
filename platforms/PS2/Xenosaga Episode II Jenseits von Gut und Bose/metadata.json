@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monolith Soft"],
+	"genres": ["RPG"],
+	"name": "Xenosaga Episode II: Jenseits von Gut und Bose",
+	"publishers": [
+		"Namco (AS, JP, US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/xenosaga-episode-ii-jenseits-von-gut-und-bose",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Episode II of the Xenosaga series takes you 4,000 years into a war-torn future. The survival of the human race depends on the discovery of Zohar, a legendary artifact that can help you eradicate your alien enemies and usher in an era of universal peace. Now you can rejoin Shion, KOS-MOS, and their companions as they search for Zohar in a variety of expansive environments. Defeat your opponents with cooperative combat techniques and refined boost systems. You can customize your party with an array of power-ups, advanced attacks, and more than 100 different skills."
+}

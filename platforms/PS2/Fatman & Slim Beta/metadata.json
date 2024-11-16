@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Attention to Detail"],
+	"genres": ["Demo", "Platformer"],
+	"name": "Fatman & Slim Beta",
+	"regions": ["PAL"],
+	"synopsis": "Fatman & Slim is an unreleased 3D ball platformer for the PS2. "
+}

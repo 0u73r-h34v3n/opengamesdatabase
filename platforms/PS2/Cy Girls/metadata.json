@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action", "Adventure"],
+	"name": "Cy Girls",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/501/501638p1.html",
+			"score": 5.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cy-girls",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dive into the futuristic cyber-world of the Cy Girls, an all-new action thriller starring the sexy duo of Ice and Aska.  This pair of spy-divas combine strength and style as they take on the nastiest of cyber-terrorists in a world where the real and the virtual co-exist.  As you guide Ice and Aska through the cyber-world, you can take advantage of Ice's weapons skills, Aska's ninja abilities, and acquire new skills along the way.  With beauty, brains, and brawn, these new heroines deliver twice the action."
+}

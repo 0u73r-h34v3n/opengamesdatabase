@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Human Soft"],
+	"genres": ["Adventure"],
+	"name": "Barbie as The Island Princess",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Barbie as The Island Princess follows the storyline of the popular DVD launch in a fun party-style format. You'll play as Rosella the shipwrecked princess who is raised by a \"family\" of animal friends and rescued by Prince Antonio from her tropical island. Through a series of mini-games featuring music and characters from the movie you will venture from Rosella's island home to the Prince's coastal castle in a fun-filled adventure!"
+}

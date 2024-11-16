@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Papaya Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Big Idea's Veggie Tales: LarryBoy and the Bad Apple",
+	"publishers": ["Crave"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/larryboy-and-the-bad-apple",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When the citizens of Bumblyburg need help, there is one superhero who they can always count on, LarryBoy! This summer fans nationwide are eagerly anticipating the new release of the latest VeggieTale release, LarryBoy! and the Bad Apple. For the first time ever, the amazing smash hit VeggieTales is coming to the PlayStation2 entertainment system in the heroic adventure of LarryBoy! and the Bad Apple. Now you can, Be That Hero!"
+}

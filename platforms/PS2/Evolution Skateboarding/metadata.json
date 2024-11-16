@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Evolution Skateboarding",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/evolution-skateboarding",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "If you're tired of the traditional skateboarding experience, Evolution: Skateboarding takes you to a variety of imaginative levels. From the neon streets of Tokyo to the dungeons of a European castle, you can grab air and perform more than 70 death-defying tricks and continue the challenges with the new Boss Skate mode. Through eight professional skaters, you can access different parts of the world, featuring more than 25 levels. As you advance through the matches, you'll unlock hidden characters from Konami's most popular games."
+}

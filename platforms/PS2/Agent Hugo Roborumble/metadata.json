@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ITE Media"],
+	"genres": ["Action"],
+	"name": "Agent Hugo: Roborumble",
+	"publishers": ["ITE Media"],
+	"regions": ["PAL"],
+	"synopsis": "The city of Aquapolis has been invaded by a new evil villain - Geekdorph, Lord of Robots. Agent Hugo escapes to a teleporter and gets beamed to the secret hideout of R.I.S.K (Risky Intelligent Spy Knights)."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Collection"],
+	"name": "King's Field: Dark Side Box",
+	"publishers": ["From Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "In celebration of the 20th Anniversary of FromSoftware, Inc, the developers, decided to have a special release of the four King's Field games. The collector's box includes Japanese Editions of ''King's Field'' (PS), ''King's Field II'' (PS), ''King's Field III'' (PS), [[King's Field: The Ancient City]] as well as \"memorial disc\" historical DVD, soundtrack CD, folding printed map of the series' world, hardcover art book and consolidated operating manual. {{CollectionText}}. "
+}

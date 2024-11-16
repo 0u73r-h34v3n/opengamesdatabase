@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Action"],
+	"name": "D.N.A.: Dark Native Apostle",
+	"publishers": ["Hudson"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "DNA: Dark Native Apostle is a single player science fiction themed action puzzle game in which you take control of B13, a human who is genetically modified. The game starts with the player trying to escape the testing facility in which he is held."
+}

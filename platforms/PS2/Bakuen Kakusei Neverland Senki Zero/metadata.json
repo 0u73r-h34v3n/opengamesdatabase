@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neverland"],
+	"genres": ["Action"],
+	"name": "Bakuen Kakusei: Neverland Senki Zero",
+	"publishers": ["Idea Factory (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Three fearless heroes are all that stand in the way of a mysterious disease that is turning the living into a horde of bloodthirsty zombies. Charged with carving a path through the undead, you must rescue a noble Count and uncover an evil conspiracy that threatens to tear apart the land and bring chaos to the entire realm!"
+}

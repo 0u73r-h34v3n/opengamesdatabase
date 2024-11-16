@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Naughty Dog"],
+	"genres": ["Action", "Platformer"],
+	"name": "Jak II",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (KO, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/914535-jak-ii/index.html",
+			"score": 88,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jak-ii",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jak is back in another action-packed adventure, but he's not the same.  In Jak II, experiments with Dark Eco gone wrong leave Jak with an uncontrollable dark side, and after two years in prison, Jak seeks vengeance.  Accompanied by your trusty friend Daxter, unleash the dark powers on multiple enemies and witness amazing transformations.  Armed with powerful weapons, a high-tech jetboard, an impenetrable mech suit, and a number of vehicles at your disposal, you have no excuse for failure."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sega AM2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Virtua Fighter 4",
+	"publishers": ["Sega (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/466561-virtua-fighter-4/index.html",
+			"score": 91,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/virtua-fighter-4",
+			"score": 94,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fourth world fighting tournament begins with all-new simulated martial arts moves and styles. In Virtua Fighter 4, you can play as one of 13 different combatants--11 classic Virtua Fighter characters along with two new characters--Lei Fei, a shaolin monk, and Vanessa Lewis, a vale tudo practitioner. Each character has their own fighting style, all of which are based on real martial arts, including jeet kune do, aiki ju-jitsu, and pancratium. The Training mode is a good place to learn the game and perfect your moves, while Survival mode tests your staying power."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Compilation"],
+	"name": "Sega Classics Collection",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sega-classics-collection",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ten of Sega's greatest hits are now available in one package. Sega Classics Collection includes remakes of Outrun, Golden Axe, Space Harrier, Columns, Fantasy Zone, Virtua Racing, Alien Syndrome, Monaco GP, and Bonanza Bros. Each of these games appeared either in an arcade or on a console at some point in time. Now you can blast aliens, slash through monsters, and race toward the finish line in the games you grew up with."
+}

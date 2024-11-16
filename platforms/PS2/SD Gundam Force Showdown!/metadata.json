@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tom Create"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "SD Gundam Force: Showdown!",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sd-gundam-force-showdown!",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as your favorite Gundam Force character from the animated series and save the peaceful capital Neotopia from a mysterious ancient force. You can play the role of Captain Gundam, Zero the Winged Knight, or Musha Bakunetsumaru; equip your characters with weapons and items; and then head into battle. The journey spans three worlds and ends with a final showdown with the evil berserker Abigor. It's up to you to rescue Shute from the Dimension Halo and destroy the evil empire."
+}

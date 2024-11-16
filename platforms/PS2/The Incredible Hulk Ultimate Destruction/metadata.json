@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Radical Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Incredible Hulk: Ultimate Destruction",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-incredible-hulk-ultimate-destruction",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Incredible Hulk: Ultimate Destruction is an action game that lets you play as The Incredible Hulk, one of the most powerful Marvel superheroes. Now you can use the Hulk's strength to run, jump, and climb anywhere across landscapes from the comic series. You can increase your strength and unlock more moves by completing more than 30 story missions and 40 side missions. The game's destructible environments can help you fight bosses, gain weapons, and destroy buildings. The game's bosses include Devil Hulk and Mercy, and the game's main villain is the Abomination."
+}

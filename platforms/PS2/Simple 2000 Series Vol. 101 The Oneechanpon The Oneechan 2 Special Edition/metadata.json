@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Action", "Fighting"],
+	"name": "Simple 2000 Series Vol. 101: The Oneechanpon: The Oneechan 2 Special Edition",
+	"publishers": ["D3Publisher (JP)", "Essential Games (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The Oneechanpon: The Oneechan 2 Special Edition is an updated release of the game The Oneechanbara 2, featuring a few changes including additional characters and costumes to the game.<br/>The game's story picks up from where the last game ends off as Aya and Saki (joined by Reiko as well as additional characters such as Riho, Makoto, Kiku and Hana) continue to search for the source of the zombie apocalypse while getting tearing through dozens of zombies using their arsenal of moves and weaponry.<br/>Features such as the combo system and other gameplay mechanics have been improved over the initial OneeChanbara release (and its updated version The OneeChanpuru)."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "SpongeBob SquarePants: Creature from the Krusty Krab",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/spongebob-squarepants-creature-from-the-krusty-kr/critic-reviews/?platform=playstation-2",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bikini Bottom will never be the same. SpongeBob SquarePants: Creature from the Krusty Krab brings the #1 kids gaming franchise and TV property into the bizarre and unusual, introducing never-before-seen art styles and brand new gameplay mechanics that will change your perception of Bikini Bottom forever. Embark on a series of fantastic tales through nine visually unique levels. Experience five brand new gameplay mechanics including rampaging, flying, skydiving, chase and hot rod racing. Rampage through Bikini Bottom as gigantic Plankton. Fly through the savage jaw of the enormous bull worm as SpongeBob. Blast off into outer space and survive a hi-speed asteroid field as Patrick. Plunge into the pages of a comic book as Starfishman and become the hero of the seven seas. Speed through the metallic flames, chrome and smoke-filled world of Hot Rod racing."
+}

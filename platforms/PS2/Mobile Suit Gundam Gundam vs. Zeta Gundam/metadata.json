@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
+	"publishers": ["Bandai (JP)", "Bandai|Bandai America Inc. (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mobile-suit-gundam-gundam-vs-zeta-gundam",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mobile Suit Gundam: Gundam vs. Zeta Gundam takes place seven years after the end of the devastating One-Year War, with the Titans police force assuming dictatorial powers. As the A.E.U.G. rebel group struggles to defeat the Titans, the heroes and villains of the original Mobile Suit Gundam series find themselves on the same side of this new conflict. You can choose whether to play as a member of the A.E.U.G. or Titans, and strap yourself into one of 31 new mobile suits. Practice your maneuvering skills in single-player story mode or take on a friend in multiplayer battles."
+}

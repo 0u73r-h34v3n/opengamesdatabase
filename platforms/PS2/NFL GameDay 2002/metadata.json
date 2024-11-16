@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Red Zone Entertainment"],
+	"genres": ["Sports"],
+	"name": "NFL GameDay 2002",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-gameday-2002",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NFL GameDay 2002 features new gameplay with Total Control Passing and all-new tackles, drag downs, and blocking moves. The incredible new motion-capture and player models are accurate for every athlete, and include true-to-life faces and improved visual textures with realistic clothing and environments that show off every wrinkle and seam in player models. The game also features play-by-play by Dick Enberg and color commentary by Dan Fouts. NFL GameDay 2002 benefits from game input from Philadelphia Eagles Pro Bowl quarterback Donovan McNabb."
+}

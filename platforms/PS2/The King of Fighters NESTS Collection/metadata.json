@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Compilation", "Fighting"],
+	"name": "The King of Fighters NESTS Collection",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J"],
+	"synopsis": "As part of SNK Playmore's Neo Geo Online Collection series, The King of Fighters Nests is a compilation of four King of Fighters titles on one disc: The King of Fighters '99: Millennium Battle, The King of Fighters 2000 and The King of Fighters 2001 KOF."
+}

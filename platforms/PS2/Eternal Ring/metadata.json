@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["RPG"],
+	"name": "Eternal Ring",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/eternal-ring",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A young magician is sent by his king to investigate the strange happenings on the Island of No Return. Armed with his sword and his natural talent as a sorcerer, Cain attempts to be the first person to return from the island alive. Legend has it that the island is inhabited by numerous beasts, enormous dragons, and magical items that were supposed to be buried long ago. As Cain, you must solve several baffling scenarios and defend yourself while you search for the magic ring."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Enter"],
+	"genres": ["Puzzle"],
+	"name": "Sega Ages 2500 Series Vol. 12: Puyo Puyo Tsuu Perfect Set",
+	"publishers": ["Sega", "3D-Ages"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Sega Ages 2500 Series Vol. 12: Puyo Puyo Tsuu Perfect Set is the twelfth entry in the Sega Ages 2500 series for the PlayStation 2. As the name may suggest, Puyo Puyo Tsuu Perfect Set is an upgrade of Puyo Puyo Tsuu, originally released for Sega System C-2 arcade hardware. Though the original was not strictly a Sega game, they had acquired the Puyo Puyo series from Compile by this point, making it a Sega property."
+}

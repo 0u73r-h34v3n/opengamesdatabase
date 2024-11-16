@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Realtime Associates"],
+	"genres": ["Compilation"],
+	"name": "Intellivision Lives!",
+	"publishers": ["Crave (US)", "Play It! (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/intellivision-lives!",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Relive the 80's with Intellivision Lives!  Play over 60 classic Intellivision games including Baseball, Astrosmash and Space Battle and several unreleased games.  Each game comes with historical information, fun facts and interviews with the original developers.  If that doesn't inspire nostalgia, you can also watch original Intellivision commercials and archival footage.  All games are optimized for both the PS2 Dual Shock 2 and Xbox controllers.  Finally, all your all-time favorite Intellivision games in one package."
+}

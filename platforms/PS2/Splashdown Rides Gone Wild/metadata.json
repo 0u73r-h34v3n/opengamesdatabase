@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "Splashdown: Rides Gone Wild",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/splashdown-rides-gone-wild",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for the big waves, swift currents, and treacherous downhill rivers of watercraft racing. Inspired by theme parks and thrill rides, Splashdown: Rides Gone Wild offers an even wilder experience than the original with imaginative locales, surprising events, and a stylized look. The Splashdown series evolves with indoor stadium courses, a freestyle stunt mode, and a new technical time-trials mode. The game combines realistic physics and controls with arcade fun, creating a watercraft experience for all types of racers."
+}

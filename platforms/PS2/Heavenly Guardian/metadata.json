@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Starfish"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Heavenly Guardian",
+	"publishers": [
+		"UFO Interactive (US)",
+		"505 Games (EU)",
+		"Starfish (JP)",
+		"Starfish SD (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/heavenly-guardian-review/1900-6189590/",
+			"score": 3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/heavenly-guardian",
+			"score": 37,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Heavenly Guardian embodies the fast paced fun and adventure of the classic arcade shooter while utilizing the powers of the PlayStation 2 to add new thrills to the genre. Journey through various environments and fight through a variety of mythological creatures! Fight the journey solo, or gain the aid of your companions in cooperative two-player action. Search for power-ups and special items to vanquish the evil gods and save your love from death."
+}

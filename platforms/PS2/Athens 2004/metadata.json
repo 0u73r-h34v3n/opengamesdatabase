@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Sports"],
+	"name": "Athens 2004",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/athens-2004",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With Athens 2004, you can capture all the spirit and emotion of the Olympic Games. The game lets you compete in four arcade and eight competition game modes, ranging from Practice to the Official Decathlon and Heptathlon combined events, while choosing one of 64 countries and 800 different characters. See what it's like to compete in some of the Olympic Games' most challenging sports, including athletics (track & field), aquatics (swimming), gymnastics, shooting, archery, weightlifting, and equestrian. Participate in such events as hurdles, long jump, pole vault, shot put, and more."
+}

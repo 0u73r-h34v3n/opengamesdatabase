@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flight-Plan"],
+	"genres": ["Simulation", "RPG"],
+	"name": "Summon Night 3",
+	"publishers": ["Banpresto"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Summon Night 3 is the third main entry in the ''Summon Night'' series. The game follows the male protagonist Rexx and the female protagonist Aty. As with the other game's in the series, it takes place in the fictional world of Lyndbaum."
+}

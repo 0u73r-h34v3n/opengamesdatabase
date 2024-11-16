@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Attention To Detail"],
+	"genres": ["Sports"],
+	"name": "Salt Lake 2002",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/salt-lake-2002",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The official licensed video game of the Olympic Winter Games, Salt Lake 2002 combines six actual events, authentic Olympic environments and competitive multi-player modes with fluid real-time animation and TV-style camera presentation creating an ultra-realistic and challenging sports gaming experience."
+}

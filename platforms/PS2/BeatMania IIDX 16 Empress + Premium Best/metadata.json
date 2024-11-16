@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Music"],
+	"name": "BeatMania IIDX 16: Empress + Premium Best",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameFAQs",
+			"url": "http://www.gamefaqs.com/ps2/961361-beatmania-iidx-16-empress-premium-best",
+			"score": 4.06,
+			"max_score": 5
+		}
+	],
+	"synopsis": "Beatmania IIDX 16: Empress is the 16th game in the [http://en.wikipedia.org/wiki/Beatmania_IIDX Beatmania IIDX] series of music video games. It was released in arcades by [[Konami]] on November 19, 2008. The game features over 50 new songs, some of which are unlocked over [http://en.wikipedia.org/wiki/E-Amusement Konami's e-Amusement] platform. The design of Empress's interface is based on a pink color scheme, dominated by sparkles, butterfly wings, and motifs of royalty and jewellery. The PlayStation 2 port for the game was released on October 15, 2009, simultaneously in Japan and South Korea."
+}

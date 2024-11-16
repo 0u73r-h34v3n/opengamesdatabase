@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Saint Seiya: The Hades",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/934235-saint-seiya-the-hades/index.html",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the popular manga series and the 2005 anime Saint Seiya: The Sanctuary release, Saint Seiya: The Hades brings players closer than ever to the universe of mind-blowing 3D Cosmo battles. The story is taken directly from the highly respected manga, based mainly on the original manga with cut scenes taken from the anime. The story takes places as the Specters, thanks to the awakening of Hades, begin to claim back their powers after being restrained for 243 years by Athena's might. It is your destiny to do battle with the supreme commander of Hell and his armies to overcome the impending devastation. Gameplay features rapid-fire battles on a massive battle stage which accommodates a greater breadth of range attacks, counter-attacks and blistering combos. The enhanced Cosmo system lets players make the most of the all-new special attacks to inflict grave damage on their opponent.\nReleased in Europe by Atari, this fighter introduces gamers to the Saint Seiya as well as improves upon the original Saint Seiya: Chapter Sanctuary PS2 fighter released only in Japan. "
+}

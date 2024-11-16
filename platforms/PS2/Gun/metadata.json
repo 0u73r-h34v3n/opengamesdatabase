@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neversoft Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Gun",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gun",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can experience the lawless Wild West as gunslinger Colton White in the action title Gun. Traverse an expansive world where you'll encounter outlaws, Native Americans, corrupt lawmen, and army psychopaths. You can assault a fort, hunt for bounties, and upgrade your equipment as you battle through a variety of gameplay styles. Gun also features a story written by Hollywood script writer Randall Jahnson."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["UDS"],
+	"genres": ["Action", "Platformer"],
+	"name": "Futurama",
+	"publishers": ["SCi (EU)", "Vivendi Games|Vivendi Universal Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/futurama",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Futurama begins when Professor Farnsworth sells his delivery ship to Mom, an evil businesswoman, giving her ownership of more than 50 percent of Earth. Now, with Mom threatening to enslave humanity, it's up to you to travel back in time to stop the deal from taking place. You can play as Fry, Bender, Leela, and Dr. Zoidberg, each with unique fighting skills and weapons. With each character, you must master their power-ups and complete their tasks to emerge victorious against Mom and her death bot troopers."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pivotal Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Conflict: Vietnam",
+	"publishers": ["SCi (EU)", "Global Star Software (US)", "Square Enix (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/conflict-vietnam",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In a conflict that lasted 11 years and took more than three million lives, four men experience the longest 28 days ever. Cut off behind enemy lines during the 1968 Tet Offensive with no way to contact help, four young, barely trained soldiers realize that their only hope for survival is to head into the heart of darkness. Now, with few rations and dwindling ammunition, you must guide these soldiers across 100 miles of ruthless terrain crawling with unseen enemies. As you drive a wide range of vehicles, shoot era-specific weapons, and avoid enemy booby traps, remember--you're not trying to win any war--you're just trying to make it home alive."
+}

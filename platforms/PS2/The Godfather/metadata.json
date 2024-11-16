@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Godfather",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/920130-the-godfather/index.html",
+			"score": 77,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-godfather",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can move up the ranks of the Corleone crime family in The Godfather. In the game based on the book and movie, you go from humble beginnings of petty crime and rise to be the most powerful crime lord in all of New York. The Godfather features customizable characters and a persistent gameworld, where your decisions affect how other characters interact with you. Marlon Brando, James Caan, and Robert Duvall return to the franchise to voice characters in the game as well."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cave"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "DoDonPachi DaiOuJou",
+	"publishers": ["Arika"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The PS2 edition of Cave's long-running top-down shooter series, boasting the same classic 2D top-down shooter gameplay, gigantic explosions, massive bosses, and an arcade-style long view (with borders to simulate the sideways monitor play.) The PS2 game also features a simulation mode and a DVD viewing mode for replays."
+}

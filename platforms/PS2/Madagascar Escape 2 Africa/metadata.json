@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Toys for Bob"],
+	"genres": ["Action"],
+	"name": "Madagascar: Escape 2 Africa",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madagascar-escape-2-africa",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join Alex the lion, Marty the Zebra, Melman the Giraffe, Gloria the Hippo and their entire madcap MadagascarTM crew on a whole new action-packed journey to save the African savannah in the Madagascar: Escape 2 Africa video game. Your favorite characters from Madagascar return and you can play them all! In addition to Alex, Marty, Gloria, and Melman, you also get to play as the crafty penguins, the wacky King Julien and new hippo character Moto Moto! Learn all the moves of each character and choose which character is best for the situation at hand. Adventure through 12 levels and 10 tournament mini-games from othe movie and beyond. Experience the characters, settings and situations established in Dreamworks Animation&rsquo;s new Madagascar movie. Unique new environments include the Watering Hole, a free roaming area that&rsquo;s been expanded for the game, the volcano and the plane wreck. Master new and expanded tournament mini-games including twice as much multiplayer action as the first Madagascar!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Republic"],
+	"genres": ["Action", "Adventure"],
+	"name": "Genji: Dawn of the Samurai",
+	"publishers": ["Sony|SCEI (AS, JP, KO)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/genji-dawn-of-the-samurai",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Genji: Dawn of the Samurai is an intense 3D action-adventure game. Inspired by the 11th century Japanese literary masterpiece, \"Tale of Genji,\" Genji: Dawn of the Samurai provides a dramatic samurai plot fused with fantastical Japanese mythology. This historic samurai tale is set against the beautiful and elegant environments of feudal Japan, and delivers a story of two noble warriors engaged in a crusade against mythical forces controlling Japan. In addition, Genji: Dawn of the Samurai features authentic swordplay choreographed by Japan's leading swordsman, and production directed by acclaimed industry veterans."
+}

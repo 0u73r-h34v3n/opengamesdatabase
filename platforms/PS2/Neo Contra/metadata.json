@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Neo Contra",
+	"publishers": ["Konami (US, JP, KO, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/neo-contra/ps2-627087",
+			"score": 7,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/neo-contra",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Neo Contra integrates all the classic shooting elements from the Contra series into 3D environments. Set in the distant future, the game continues the adventure of the legendary hero, Bill Rizer, and introduces a new character to the series--Genbei Jaguer Yagyu, a mysterious samurai. As Bill or Genbei, you'll fight huge bosses and deadly enemies with an arsenal of powerful weapons. Neo Contra also features realistic environmental destruction, explosions, and cinematic cutscenes."
+}

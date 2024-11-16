@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai|Namco Bandai Games"],
+	"genres": ["Racing"],
+	"name": "IGPX: Immortal Grand Prix",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/igpx-immortal-grand-prix",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players take control of Team Satomi to race and battle to become the best IGPX team in the world. With customizable IG Machines, team-based combination attacks, and a changing course that can be utilized to their advantage, players will experience a new type of racing thrill!"
+}

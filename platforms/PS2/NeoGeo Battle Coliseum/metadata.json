@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "NeoGeo Battle Coliseum",
+	"publishers": ["SNK Playmore (JP, AU, US)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/neogeo-battle-coliseum",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drawing characters from some of SNK's biggest and well loved franchises, NeoGeo Battle Coliseum allows the use of the new 2-on-2 Tag Team battle system. This new system allows the player to switch characters during play and to perform team attacks on their opponent. The character roster has 40 characters represented by well known faces from the likes of World Heroes, Art of Fighting, Fatal Fury, Samurai Shodown, Last Blade, Metal Slug and Kizuna Encounter."
+}

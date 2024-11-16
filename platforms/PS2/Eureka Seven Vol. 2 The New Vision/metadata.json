@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai|Namco Bandai Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Eureka Seven Vol. 2: The New Vision",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/eureka-seven-vol-2-the-new-vision",
+			"score": 40,
+			"max_score": 100
+		}
+	],
+	"synopsis": "After abandoning the corrupt military and becoming a professional lifter, Sumner Sturgeon has become disenchanted with the life of an air sport athlete. Fate intervenes when his lost love returns and enlists his help to discover and stop the creation of the dangerous CFS (Compact Feedback System)."
+}

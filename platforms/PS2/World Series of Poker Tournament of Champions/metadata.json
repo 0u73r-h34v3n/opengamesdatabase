@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision"],
+	"genres": ["Gambling"],
+	"name": "World Series of Poker: Tournament of Champions",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-series-of-poker-tournament-of-champions",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "World Series of Poker: Tournament of Champions takes a story-based approach putting players on the Pro Circuit as a new pro and prot&eacute;g&eacute; of Chris \"Jesus\" Ferguson. Players test their skills at the premier Circuit Events in hopes of qualifying for the winner-take-all, invitation-only Tournament of Champions at the Rio Resort in Las Vegas. Along the way, they face-off against more top pros than ever before, including Joseph Hachem, the 2006 World Series of Poker Main Event Champion and Jennifer Tilly, the Academy Award nominated actress and World Series of Poker bracelet holder, among others in hopes of bringing home the Tournament of Champions trophy."
+}

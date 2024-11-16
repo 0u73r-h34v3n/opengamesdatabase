@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Cheltenham"],
+	"genres": ["Racing"],
+	"name": "XGRA: Extreme-G Racing Association",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/xgra-extreme-g-racing-association",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pull a few more Gs in the next installment of the Extreme-G series, XGRA: Extreme-G Racing Association.  This futuristic racing game features all-new gameplay modes, features, weapons, bikes, controls, and unlockable content.  Choose from unique characters on eight different teams and build your career through variable missions and storylines.  Unlock new game modes, tracks, faster bikes, and character-enhancing cybernetic implants.  Race in a variety of race tracks with destructible objects including bridges and spectators.  Experience the future of racing."
+}

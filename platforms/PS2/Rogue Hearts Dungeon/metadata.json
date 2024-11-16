@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Plophet"],
+	"genres": ["RPG"],
+	"name": "Rogue Hearts Dungeon",
+	"publishers": ["Compile Heart"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A roguelike successor to the PC game \"Rogue\". Similar to Rogue the shape of the dungeon changes each time you play along with the monsters and available items. The effects of items are hidden and you won't know what it is until you investigate it or use it. Rogue Hearts Dungeon brings new elements to the table such as an attribute system and monster habits."
+}

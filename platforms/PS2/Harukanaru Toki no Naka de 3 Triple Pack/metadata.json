@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Collection"],
+	"name": "Harukanaru Toki no Naka de 3 Triple Pack",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Harukanaru Toki no Naka de 3]] (遙かなる時空の中で3), [[Harukanaru Toki no Naka de 3: Izayoiki]] (遙かなる時空の中で3 十六夜記) and [[Harukanaru Toki no Naka de 3: Unmei no Meikyuu]] (遙かなる時空の中で3 運命の迷宮).}}"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Wide Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Prisoner of War",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/games/prisoner-of-war/",
+			"score": 6.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Prisoner of War captures the intrigue, danger, and heroism of Allied escape attempts from prisoner of war camps during World War II, including Colditz--the Germans highest security \"escape-proof\" camp. As one of Germany's prisoners, Captain Stone, you'll embark on an adventure across Germany in a variety of different POW camps. Outwit the German war machine by crawling through muddy tunnels and over stone walls and using disguises and makeshift equipment to escape. In this third-person adventure, bravery, stealth, and cunning will win the day."
+}

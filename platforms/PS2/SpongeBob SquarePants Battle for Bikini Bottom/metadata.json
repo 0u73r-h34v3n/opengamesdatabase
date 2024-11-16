@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Heavy Iron Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "SpongeBob SquarePants: Battle for Bikini Bottom",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/spongebob-squarepants-battle-for-bikini-bottom/critic-reviews/?platform=playstation-2",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In an effort to cause the kind of global mayhem he has always dreamed of, the evil Plankton has set in motion his most diabolical plot ever to take over the world. The fate of Bikini Bottom has been put in the hands (or small tentacles) of three unsuspecting heroes.  Put your platform skills to the test as SpongeBob, Patrick, or Sandy Cheeks, with an array of insane new maneuvers and power-ups at your disposal.  Explore a huge 3D world, encounter familiar friends, and finally put an end to Plankton's evil scheme."
+}

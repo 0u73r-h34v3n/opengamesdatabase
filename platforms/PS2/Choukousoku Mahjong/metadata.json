@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Success"],
+	"genres": ["Board"],
+	"name": "Choukousoku Mahjong",
+	"publishers": ["Success"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The game features:"
+}

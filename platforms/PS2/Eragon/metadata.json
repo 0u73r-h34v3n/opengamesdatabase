@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Stormfront Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Eragon",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/eragon",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as Eragon and his dragon as they set out to fulfill their destiny. Endure perilous travels, adventure and heart-pounding combat as you live the epic events of the movie. Disable and dispatch enemies with the unparalleled skills of a true Dragon Ride. Eragon's combat system features a variety of blistering attacks and defences, including a unique degradable block system. Extensive Dragon Combat - Ride Saphira and blast your enemies with bursts of fire, and call in devastating dragon attacks during melee battles. Eragon features multiplayer co-op with team attack bonuses and dragon fight/flight combo gameplay. Full cooperation from the film production team provides faithful implementation of the movie's look-and-feel. As Eragon discovers the powers hidden within him he learns to unleash magical attacks to decimate his foes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA GameBreaker 2003",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-gamebreaker-2003",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This year's installment in the NCAA Gamebreaker series adds more authenticity to its college football experience. NCAA Gamebreaker 2003 features 117 Division 1-A teams, plus 60 great teams from the past. You'll guide one of these teams to the national championship game, where they'll compete for the Heisman Trophy. Work your way up the coaching ladder, recruit more players, and try out new college formations with Total Control Passing--a new system that provides smoother stiff arms, spins, and other player movements."
+}

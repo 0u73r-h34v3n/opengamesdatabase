@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["Racing"],
+	"name": "Tokyo Xtreme Racer DRIFT",
+	"publishers": ["Sammy Studios (JP)", "Crave (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tokyo-xtreme-racer-drift",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Developed by Genki as the sport's first authentic videogame simulator, Tokyo Xtreme Racer DRIFT fully immerses players in the world of drift racing. The game faithfully recreates the Kaido so players can race the very roads where the sport was born, and further enhances the realism with more than 150 licensed cars to unlock in the course of the game. The game also has sponsored race parts for detailed car tuning and modifications to handling physics, along with five play modes that cover underground and sanctioned drift racing and the sport's variety of speed and style-driven competition. Drift Racer: Kaido Battle has more than 150 licensed cars from over a dozen manufacturers like Nissan, Subaru, Mitsubishi, Mazda and Volkswagen, with variable handling physics and detailed car tuning using sponsored race parts. The game offers five modes of play for stylistic precision-driving and racing for 1 or 2 players, including a career mode that pits players against nearly 200 underground racers in official daytime events and underground nighttime races."
+}

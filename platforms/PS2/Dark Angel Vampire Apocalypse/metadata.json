@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Metro3D"],
+	"genres": ["Action", "RPG"],
+	"name": "Dark Angel: Vampire Apocalypse",
+	"publishers": ["Metro3D"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/dark-angel-vampire-apocalypse/ps2-15374",
+			"score": 5.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dark-angel-vampire-apocalypse",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A dark prophecy unfolds in the land of Gothos.   Hordes of vile monsters terrorize innocent villagers. Your are Anna, the Dark angel of retribution. you have one year to defeat the armies of the Shadow Lord.  Collect an arsenal of powerful weapons to banish evil from the land forever.  Do you have what it takes?"
+}

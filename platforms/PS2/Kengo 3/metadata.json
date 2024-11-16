@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Light Weight"],
+	"genres": ["Action", "Fighting"],
+	"name": "Kengo 3",
+	"publishers": ["Genki"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Kengo 3 is a Japanese sword action jidai geki game. Features include six different weapons and a a changing day/night system that divides each day into morning, noon, evening, and night, complete with different events for each time period. You can select from more than 30 famous historical samurai, and a large variety of missions, such as assassination, rescue, guarding, searching for targets and prison breakthroughs. A new time change element is added to the game, perform a task in different time may have varied effects. There are also a lot of special events at different time and places."
+}

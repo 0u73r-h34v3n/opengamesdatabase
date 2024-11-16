@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bits Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Constantine",
+	"publishers": ["THQ (US)", "SCi (EU)", "Marvelous Entertainment (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/constantine",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by the film by Warner Bros., and based on the graphic novels by DC Comics and Vertigo Hellblazer, Constantine is an intense horror game that literally takes you to Hell and back. You play as John Constantine, an irreverent mystic detective who must embark on an investigation in a supernatural world that exists just beneath Los Angeles. To survive, you must use an array of powerful incantations and holy artifacts, including the crucifier, holy shotgun, and flamethrower. Your \"true sight\" ability helps you identify demons and other secrets."
+}

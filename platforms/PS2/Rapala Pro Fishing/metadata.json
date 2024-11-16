@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision"],
+	"genres": ["Sports"],
+	"name": "Rapala Pro Fishing",
+	"publishers": [
+		"Activision|Activision Value (US)",
+		"Zoo Digital Publishing (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rapala-pro-fishing",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Grab your tackle box, launch the bass boat and LET'S GO! Rapala Pro Fishing sets the standard for all fishing games. Never before has a fishing game brought you all this: authentic Rapala fishing gear, guided fishing trips with Rapala's Pro Staff and a BOATLOAD OF ACTION! Time to set the hook and land that TROPHY of a lifetime!"
+}

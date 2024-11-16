@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treasure"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Gradius V",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/gradius-v",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the 1980s arcade and console game, Gradius V features the classic side-scrolling shooting gameplay with all-new elements, including new option controls, levels, weapons, and missions. You'll have access to a variety of upgradable power-ups that help you fight through seven expansive levels. For the first time in the Gradius series, you can play simultaneously with a friend and then check the Internet Ranking System to see if you've made the high-score list."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Natsume Co.", "Ltd."],
+	"genres": ["Action", "Fighting"],
+	"name": "Battle Assault 3 featuring Gundam Seed",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/battle-assault-3-featuring-gundam-seed",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the animated series, Gundam Battle Assault 3 marks the debut of the Battle Assault series on the PlayStation 2. Now you can take control of one of 25 different mobile suits, including unlockable suits from Gundam Wing and G Gundam, and master special abilities, weapons, and moves taken straight from the TV series. You can also use surrounding buildings and objects in your environment to destroy opponents in various modes, including Versus mode, two-versus-two Tag mode, and a cooperative combat."
+}

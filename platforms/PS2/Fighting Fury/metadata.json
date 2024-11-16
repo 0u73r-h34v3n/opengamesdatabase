@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tomy Corporation"],
+	"genres": ["Action"],
+	"name": "Fighting Fury",
+	"publishers": [
+		"Tomy Corporation (JP)",
+		"Midas Interactive Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Based in the manga/anime Grappler Baki, Baki a great grappler needs to live up to his name being the son of the the greatest grapplers of all time: Hanma Yujiro. At the Shinshinkai Organization's private arena, anything goes and the odds are always stacked against you. Current champion of the urderground tournament he fight to defend his title against the worlds strongest and best martial artists, including \"the beast\" his own father Yujiro. "
+}

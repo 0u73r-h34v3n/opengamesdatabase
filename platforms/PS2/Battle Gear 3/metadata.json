@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nex Entertainment"],
+	"genres": ["Racing"],
+	"name": "Battle Gear 3",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Arcade racing, touge style. Based on real Japanese locations such as Hakone and touge races on board tuned sports cars licensed by famous Japanese makers including Nissan, Toyota and Mazda.  Various daytime and season conditions are available for race. Eight different courses are selectable in both normal and reverse, or climbhill/downhill sides from the nocturnal real shutokou inspired urban oval to the lakeside Hakone course, to the traditional touge narrow single track mountain road to the bamboo plantation dirt course."
+}

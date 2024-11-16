@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warthog"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Mace Griffin Bounty Hunter",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mace-griffin-bounty-hunter",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "To deal with the rising wave of crime, a new organization emerges--the Guild of Bounty Hunters. As Mace Griffin, you join this group composed of aliens, criminals, and former police as they fight the criminal element. You'll transition between first-person land combat and space-action fighting in 13 expansive missions that offer different challenges and enemies. Eliminate your foes with 17 player and spaceship weapons, including Tridal Nova Cannons, quad-barreled shotguns, and sonic shock cannons. In this universe of large corporations and futuristic gunslingers, you'll unravel a deep and dangerous mystery."
+}

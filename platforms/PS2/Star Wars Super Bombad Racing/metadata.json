@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts|Lucas Learning"],
+	"genres": ["Racing"],
+	"name": "Star Wars: Super Bombad Racing",
+	"publishers": ["LucasArts|Lucas Learning (US)", "LucasArts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/star-wars-super-bombad-racing/reviews/",
+			"score": 6.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-super-bombad-racing",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take the high-speed turns, crazy jumps and wild gadgets of bigheaded cart racing, jumble it with the gravity-defying hyperspaced pace of Star Wars, and you've got a racing game with an entirely new edge! As one of eight highly stylized Star Wars personalities, you'll zip through a galaxy of locations zapping your friends and beating your opponents in an all out free-for-all filled with crazy powerups, big air jumps, and even a few surprises!"
+}

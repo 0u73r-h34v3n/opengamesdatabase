@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Pro Evolution Soccer 2012",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pro-evolution-soccer-2012",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pro Evolution Soccer makes its return this fall, Pro Evolution Soccer 2012! This year, Konami is determined to give global football fans a truly realistic, immersive and a delightfully playable take on the beautiful game. Creative Producer Shingo \"Seabass\" Takatsuka has been sourcing the desires of fans across the globe and working non-stop on marrying the digital game to the real life game so fans can get as close to the real thing. All elements have been examined - defense, offense, AI, penalties, officiating and of course, graphics! The result is a game truly represents the key attributes of the game and it's players. Pro Evolution Soccer \"Can you play?\""
+}

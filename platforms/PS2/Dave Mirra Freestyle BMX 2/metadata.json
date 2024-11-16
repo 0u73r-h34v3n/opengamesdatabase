@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Z-Axis|Z-Axis", "Ltd."],
+	"genres": ["Sports"],
+	"name": "Dave Mirra Freestyle BMX 2",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dave-mirra-freestyle-bmx-2",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Featuring 10-time World Champion Dave Mirra, this game will redefine extreme sports video games. This true sequel lets you ride as one of 14 top pros, build a killer BMX park from the ground up, pull over 1,500 tricks, and explore 8 massive levels.  Play the game that delivers the most engaging next-generation BMX experience anywhere!"
+}

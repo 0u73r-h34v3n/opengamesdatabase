@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["Simulation", "RPG"],
+	"name": "Harvest Moon: A Wonderful Life Special Edition",
+	"publishers": [
+		"Marvelous Entertainment (JP)",
+		"Natsume Inc. (US)",
+		"505 Game Street (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/02/24/harvest-moon-another-wonderful-life-special-edition",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/harvest-moon-a-wonderful-life-special-edition",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Wholesome farming lasts a lifetime in the coastal village of Forget-Me-Not Valley. It's a peaceful place where you cultivate friendships and raise a family among your crops and prize-winning livestock. The living isn't always easy, but it's certainly rewarding if you're willing to work hard and make thoughtful choices for your wife, child and profitable pastoral acreage."
+}

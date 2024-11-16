@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Clover Studio"],
+	"genres": ["Action", "Fighting"],
+	"name": "God Hand",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/932558-god-hand/index.html",
+			"score": 75,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/god-hand",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With great power comes great responsibility. Play as a drifter bestowed with supernatural-like abilities who must confront the fate and responsibilities inherent with this new found power. Hand-to-hand combat is at its best when gamers unleash the power of the God Hand to deliver righteous punishment onto worthy enemies. Centuries ago, the world was in imminent doom until a man defeated Angra and sealed away his godly powers into his own arms. People feared and revered this person who would become known as \"God Hand\". Legend has it that anyone who acquired such hands would possess immense power that could turn them into a deity or demon. Fast forward to a small town overrun with thugs wielding super-human strength. A gruff drifter named Jean finds his way to this troubled region and defends a woman surrounded by a brutal mob. Despite his valiant efforts, Gene is overpowered by these thugs and his right arm is severed before falling into unconsciousness. He later awakens to find his limb whole again and that he is now the possessor of the legendary God Hand. The burden of being hunted by demonic legions seeking the right hand of God soon begins."
+}

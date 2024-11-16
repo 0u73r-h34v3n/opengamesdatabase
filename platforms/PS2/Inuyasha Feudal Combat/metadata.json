@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eighting"],
+	"genres": ["Action", "Fighting"],
+	"name": "Inuyasha: Feudal Combat",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/inuyasha-feudal-combat",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inuyasha: Feudal Combat is a cell-shaded, team fighting game based on the Inuyasha TV series. Choose your partner from 12 playable characters and battle your way through interactive environments across the feudal Japanese landscape. You can develop your character's attacks and learn the best formations and team strategies needed to defeat your enemies. Inuyasha: Feudal Combat includes mission, story, and two-player Versus modes."
+}

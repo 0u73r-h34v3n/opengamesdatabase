@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Escape"],
+	"genres": ["Racing"],
+	"name": "Driving Emotion Type-S",
+	"publishers": ["Square Enix|SquareSoft (JP, US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/driving-emotion-type-s",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Many racing games have strived for this goal. Now technology has finally caught up with amibition, and racing games have enetered a new dimension."
+}

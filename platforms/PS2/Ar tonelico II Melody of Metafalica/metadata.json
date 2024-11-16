@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gust"],
+	"genres": ["RPG"],
+	"name": "Ar tonelico II: Melody of Metafalica",
+	"publishers": [
+		"Banpresto (JP)",
+		"Bandai|Namco Bandai Games (JP)",
+		"Nippon Ichi Software|NIS America (US, EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/949/949126p1.html",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ar-tonelico-ii-melody-of-metafalica",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A mysterious epidemic called Infa Pira Dependency (IPD) has been driving Reyvateils insane and killing them at the floating island of Metafalss. Croix, a young knight from the Church of Pastalia, is sent to contain the epidemic. However, many more challenges await, which lead him to unravelling the mysteries of the planet Ar Ciel and seek the legend handed down by the people of Metafalss: the lost Song of Metafalica."
+}

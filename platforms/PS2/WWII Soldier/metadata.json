@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midas Interactive Entertainment"],
+	"genres": ["Action"],
+	"name": "WWII: Soldier",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "1944: 'Operation Night Strike' - An American General has been captured and is being held hostage in a remote castle in the Swiss Alps deep behind enemy lines. The General must be rescued as he holds vital information to assist the allies in the war effort. Your mission is to infiltrate the enemy occupied castle, locate and free the General and make your escape together. Time is of the essence; the General will only hold out against the enemy's interrogation techniques for so long..."
+}

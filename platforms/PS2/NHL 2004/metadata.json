@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 2004",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2004",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's been called the fastest sport on Earth--and the faster the players, the tougher the contact.  NHL 2004 brings professional hockey to life like never before, with crisp passes, searing slap-shots, and a variety of new ways to check your opponent to regain control of the puck.  NHL 2004 is the hockey fan's dream come true, with the addition of international leagues, Bruise Control fighting system, online play, and a Dynasty Mode that lets you build a powerhouse.'."
+}

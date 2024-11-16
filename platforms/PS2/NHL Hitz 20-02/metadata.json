@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Black Box"],
+	"genres": ["Sports"],
+	"name": "NHL Hitz 20-02",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-hitz-20-02",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NHL Hitz is adrenaline hockey featuring big hits, rocket goals and ferocious gameplay! With Midway's NHL Hitz 20-02 you'll feel the sting of a 120-mph slapshot between the eyes; your bones will rattle, your teeth will clatter, and the serenade of the manic-fans will send chills down your spine. The lightning game speed, stunning next-generation graphics, and unique Midway-style action will have you frenzied...or perhaps it will be the 265 lb. defenseman who just planted you face first into the cold-hard ice. So slip your mouthguard on and lock your helmet in place because you're about to get slammed against the boards by the most entertaining hockey game ever created. This game knows hits!"
+}

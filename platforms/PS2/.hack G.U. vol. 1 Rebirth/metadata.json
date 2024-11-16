@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//G.U. vol. 1//Rebirth",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN reviewer score",
+			"url": "http://ps2.ign.com/objects/748/748504.html",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "IGN userscore",
+			"url": "http://ps2.ign.com/objects/748/748504.html",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackgu-vol-1rebirth",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Years after the events of the first ''.hack'' installment, the most popular MMORPG in the world has returned from the ashes as \"The World: R2\". As Haseo the Terror of Death, players are thrown into his quest for revenge in his search for the mysterious PK (Player Killer) Tri-Edge. This time, players will interact in the real and virtual worlds with fellow \"The World\" players through various chats, mails, and fully voiced video news clips. Together with Haseo-s virtual partners, login to challenge and solve the mysteries of \"The World\"."
+}

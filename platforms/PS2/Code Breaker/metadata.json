@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pelican Accessories"],
+	"genres": ["Homebrew", "Tools"],
+	"name": "Code Breaker",
+	"regions": ["NTSC-U"],
+	"synopsis": "Code Breaker is a cheat device developed by Pelican Accessories. Along with competing product Action Replay, it is one of the few currently supported video game cheat devices."
+}

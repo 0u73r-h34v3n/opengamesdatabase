@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Mark of Kri",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/561063-the-mark-of-kri/index.html",
+			"score": 81,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-mark-of-kri",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Long ago, an evil spell was created that had the power to bridge our world with the one of darkness. Before the spell could be invoked it was stolen and hidden away, forgotten with time... until now.  Follow Rau, a heroic warrior, as he embarks on an adventure filled with conflict, discovery and magic. Accompanied by his loyal friend, a bird named Kuzo, Rau must battle many enemies across lands near and far to uncover the truth about his family's dark secrets."
+}

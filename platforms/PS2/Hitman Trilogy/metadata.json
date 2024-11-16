@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eidos Interactive"],
+	"genres": ["Collection"],
+	"name": "Hitman Trilogy",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Hitman Trilogy features three critically acclaimed Hitman games in one killer package: Blood Money, Silent Assassins, and Contracts. Plus a sneak preview of the next big franchise from the makers of Hitman, Kane and Lynch: Dead Men."
+}

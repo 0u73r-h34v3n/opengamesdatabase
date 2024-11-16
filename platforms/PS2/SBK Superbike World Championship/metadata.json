@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "SBK Superbike World Championship",
+	"publishers": ["Black Bean Games (AU, EU)", "Conspiracy Entertainment (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Pick up and play arcade mode allowing the player to access the race in just a few seconds. A genuinely technically accurate extreme simulation mode for real petrol heads. 4 well balanced racing styles giving genuine progression and satisfaction to the gamer. 6 game modes - Basic, Arcade, Advanced, Simulation, Extreme and Custom. Next generation giving players the chance to challenge their friends and opponents all over the world."
+}

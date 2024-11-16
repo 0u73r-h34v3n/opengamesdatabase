@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Disney Interactive Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "Disney's Peter Pan: The Legend of Never-Land",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"synopsis": "Something strange is happening in Never Land, something sinister, something that may signal its demise... Captain Hook has discovered the island's magical secret and plots to rid Never Land of its enchanting Pixie Dust. This spells danger for Peter Pan in this all-new action adventure - exclusive to PlayStation 2."
+}

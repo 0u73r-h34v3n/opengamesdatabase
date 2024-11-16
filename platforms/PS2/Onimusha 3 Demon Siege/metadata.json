@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Onimusha 3: Demon Siege",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/04/23/onimusha-3-demon-siege",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/onimusha-3-demon-siege",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/onimusha-3-demon-siege-review/1900-6094607/",
+			"score": 8.3,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/ir_onimusha3_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Nobunaga's evil scourge has now spread across time to affect the future. As Samanosuke prepares for battle, a new hero enters the fray: Jacques Blanc, french military officer. Two heroes from different lands and time must travel through time and space to defeat the evil Nobunaga and his hordes of darkness. Control the fate of both men as you journey from 16th century Japan to 2004's Paris and back."
+}

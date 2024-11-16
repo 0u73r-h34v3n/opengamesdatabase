@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Supersonic Software"],
+	"genres": ["Racing"],
+	"name": "Simple 2000 Ultimate Vol. 28: Bousou! Kenka Grand Prix, Drive to Survive",
+	"publishers": ["Empire Interactive (EU, US)", "D3Publisher (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/drive-to-survive/ps2-670643",
+			"score": 7.2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Combat-heavy racer from developer Supersonic, played from a top-down perspective. Mashed features four players racing at one time either in teams of two or every man for himself. The 13 different race environments are spread over various terrain including ice, sand and highways. An assortment of weapons are used to batter opponents into submission and gain rank in the race. However, once another car is blasted off road the player will still be able to target the race leader with air missile strikes."
+}

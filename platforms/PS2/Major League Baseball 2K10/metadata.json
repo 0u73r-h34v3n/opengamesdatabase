@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "Major League Baseball 2K10",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/major-league-baseball-2k10",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The eighth game in the MLB 2K series, MLB 2K10 celebrates the immortal battle on the baseball diamond between pitcher and batter. Featuring a combination of an extensive updating of features from earlier games in the series, alongside a range of new play options designed to heighten the experience of both the player on the mound and at the plate, MLB 2K10 is a baseball gaming experience not to be missed. Additional features include, new pitch selection and batter's swing functionality, multiple game modes - including franchise and career modes - and a variety of multiplayer options."
+}

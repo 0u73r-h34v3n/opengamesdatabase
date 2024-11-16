@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gusto Games"],
+	"genres": ["Sports"],
+	"name": "Championship Manager 5",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Pace. Precision. Passion.   Think you can do better? It's your decisions that count: your budget, your buys, your team, your formation, your tactics... your chance. Use your skills and knowledge to manage your club the way you feel it should be.  "
+}

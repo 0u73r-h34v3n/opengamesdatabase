@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Project Snowblind",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/project-snowblind",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Project: Snowblind, you can experience war through the eyes of the first of a new breed of supersoldiers. As Lt. Nathan Frost, your mission is to stop a renegade regime from eradicating the civilized world. You must use your newly implanted enhancements, tools, weapons, and vehicles in your fight on the front lines. Discover your character's superhuman powers in the single-player missions, and then showcase your talents in the online multiplayer modes. The PlayStation 2 version of the game also features exclusive gameplay modes."
+}

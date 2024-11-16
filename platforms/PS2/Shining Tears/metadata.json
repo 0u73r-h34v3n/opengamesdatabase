@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nextech"],
+	"genres": ["Action", "RPG"],
+	"name": "Shining Tears",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shining-tears",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Choose one of eight loyal companions to join you on a fantastic adventure in which you'll uncover your true identity. Empowered with two mysterious rings, both you and your partner can create more than 30 attack combinations, learn more than 100 upgradable skills, and collect various items across more than 70 different battles stages. Shining Tears, which is based on the classic Shining Force series, also features a two-player cooperative mode."
+}

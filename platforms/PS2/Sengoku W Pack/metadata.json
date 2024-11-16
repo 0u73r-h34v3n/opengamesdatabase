@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Collection"],
+	"name": "Sengoku W Pack",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Japanese Editions of [[Samurai Warriors 2]] and [[Nobunaga's Ambition: Iron Triangle]].}}"
+}

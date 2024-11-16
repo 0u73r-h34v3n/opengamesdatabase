@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Shift"],
+	"genres": ["Sports"],
+	"name": "ESPN Major League Baseball",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/espn-major-league-baseball",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN Major League Baseball takes baseball to the next level with Power Pitching, a new General Manager Mode, and an all-new ESPN presentation. Now you can take complete control of the mound with new pitches, pitch speeds, pitch interface, pitch animations, pitcher momentum, and exclusive ESPN K-Zone pitch analysis. As the general manager of your team, you'll have to keep your club running on all cylinders or else answer to the owners. In addition to intuitive control and new modes, hundreds of new animations, such as broken bats and player reactions add to the MLB experience."
+}

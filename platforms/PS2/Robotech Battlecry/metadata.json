@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vicious Cycle"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Robotech: Battlecry",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/robotech-battlecry",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Veritech fighter--a mecha capable of fighting on land, in air, and in outer space--is the only weapon you have against the forces of the alien, Zentraedi. As the intrepid fighter pilot Jack Archer, you'll control this powerful robot through more than 40 missions. With each of the 40 Veritech fighters, you can switch from ground to hover and flight modes instantly. Battlecry's combination of fast-paced gameplay, freedom of movement, and dramatic storyline make for a unique combat experience."
+}

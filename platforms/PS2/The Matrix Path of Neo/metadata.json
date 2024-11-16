@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shiny Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Matrix: Path of Neo",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-matrix-path-of-neo",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can play as Neo in a story spanning the entire Matrix trilogy in The Matrix: Path of Neo. The game's story is written and directed by the Wachowski siblings, who created the movie trilogy. You can employ all the reality-bending powers of \"The One\" as you engage in fights both from the movie and made exclusively for the game. The Matrix: Path of Neo also includes new, unreleased videos from the movies, and new characters that expand the story of The Matrix."
+}

@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|SquareSoft"],
+	"genres": ["RPG"],
+	"name": "Final Fantasy X-2",
+	"publishers": [
+		"Square Enix|SquareSoft (JP, AS)",
+		"Square Enix (US, KO, JP, AU)",
+		"Electronic Arts (AU, EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2003/11/07/final-fantasy-x-2-3",
+			"score": 9.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fantasy-x-2",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/final-fantasy-x-2-review/1900-6083743/",
+			"score": 8.1,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_finalfantasyx-2_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "''Final Fantasy X-2'' is the first direct sequel of [[Final Fantasy X]].  X-2 highlights a cast of returning characters and features mission-based gameplay, an all-female lead cast, unique job classes and a dynamic battle system.  The story takes place two years after Yuna defeated Sin in ''Final Fantasy X'', and follows Yuna's journey to find her lost love.  Scattered all across the dangerous lands are spheres which show visual recordings of historical events or open up different types of job classes to use in battle."
+}

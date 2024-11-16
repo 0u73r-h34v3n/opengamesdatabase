@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Action"],
+	"name": "Naruto: Uzumaki Chronicles",
+	"publishers": [
+		"Bandai (JP)",
+		"Bandai|Namco Bandai Games (US, EU)",
+		"Atari (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naruto-uzumaki-chronicles",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Naruto: Uzumaki Chronicles introduces a lush, 3D world that will test the players' Ninjutsu skills as Naruto, the feisty orphan who wants to become the most respected and admired ninja of all time. A brand new story drives the missions as players experience the trials and tribulations of a ninja-in-training - fierce competition from fellow students and constant challenges from their teachers. Players can collect status-boosting chips and plates to customize all aspects of Naruto's abilities and face-off against multiple enemies using either close combat moves or long-range weapons like shurikens and explosive cards. With familiar characters like Kakashi, Sasuke and Neji that can swoop in for assistance, Naruto: Uzumaki Chronicles offers mini-games and lethal attacks straight from the popular anime series to satiate any aspiring ninja."
+}

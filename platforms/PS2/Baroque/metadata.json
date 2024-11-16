@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sting"],
+	"genres": ["Action", "RPG"],
+	"name": "Baroque",
+	"publishers": ["Sting (JP)", "Atlus (US)", "Rising Star Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/baroque",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A cataclysm has destroyed the cities and empires of men and disfigured the spirit of humanity. In this nightmare, it falls to you to descend a mysterious tower in search of absolution. Battle merciless foes through treacherous dungeons, scour for new items to aid you in your travels, and unlock the secrets of a devastated land. You will find death in the depths, yet learn that death is not the end of the story; in the twisted world of Baroque, it is only the beginning."
+}

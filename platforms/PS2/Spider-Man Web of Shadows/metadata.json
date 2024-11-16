@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shaba Games"],
+	"genres": ["Action"],
+	"name": "Spider-Man: Web of Shadows",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/10/24/spider-man-web-of-shadows-amazing-allies-edition-review",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spider-man-web-of-shadows",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When a deadly symbiote invasion devastates the streets of New York City, only Spider-Man can seize control and bring salvation to the city. From the game's direction to Spider-Man's destiny, Spider-Man&trade;: Web of Shadows puts control in the gamer's hands.  Gamers decide when to switch between the agile Red Suit and formidable Black Suit, whether to ally with Marvel's honored heroes or ferocious villains, which of Spider-Man's abilities to upgrade and what missions to undertake in order to protect Manhattan from certain annihilation."
+}

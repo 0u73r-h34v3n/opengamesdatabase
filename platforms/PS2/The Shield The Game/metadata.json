@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "The Shield: The Game",
+	"publishers": ["Aspyr"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-shield",
+			"score": 36,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You are Detective Vic Mackey. Experience the gritty recreation of the controversial television hit \"The Shield.\" Command the elite Strike Team police unit through 15 levels and 33 playable areas of the crime-ridden streets. Engage in the perilous police work of raiding crack dens and criminal hideouts while taking down the notorious Byz-Lat and One-Niner gangbangers. How you choose to enforce the law can be left out of the police report, as long as you keep your trail and the streets clean. Walk the razor's edge of the law."
+}

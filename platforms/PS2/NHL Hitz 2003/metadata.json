@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "NHL Hitz 2003",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Link",
+			"url": "http://www.ign.com/articles/2002/09/13/nhl-hitz-20-03",
+			"score": 8.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nhl-hitz-20-03",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the world of NHL Hitz 20-03, hard-checking and highlight-reel action is common. This year's installment in the action-packed NHL Hitz series showcases three-on-three gameplay with players who leap, glide, check, pass, and score on defenders. New features include a deeper New Season mode, player trades, a playoff tree, and official NHL awards. The game also boasts bigger, stronger, and faster players, plus improved goalie logic, behavior, animations, and control, making it tougher to score."
+}

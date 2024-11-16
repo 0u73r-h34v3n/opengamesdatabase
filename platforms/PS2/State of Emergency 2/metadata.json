@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DC Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "State of Emergency 2",
+	"publishers": ["SouthPeak Games (US, EU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "https://www.gamespot.com/reviews/state-of-emergency-2-review/1900-6144812/",
+			"score": 5.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/state-of-emergency-2",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can take part in gritty street riots, prison breaks, and all-out anarchy in State of Emergency 2. This game takes place four years after the first game, and your task is to rescue your friends who are being held in The Corporation's jail. Gangs, vehicles, and weapons are your aids as you wreak havoc in the city. In addition to the frenetic, mob-style gameplay of the original, there are stealth missions, arcade challenges, and a multiplayer mode for up to four players."
+}

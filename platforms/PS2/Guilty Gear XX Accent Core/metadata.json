@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Guilty Gear XX Accent Core",
+	"publishers": ["Arc System Works (JP)", "Aksys Games (US)", "505 Games (EU)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/938564-guilty-gear-xx-accent-core/index.html",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guilty-gear-xx-accent-core",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This latest iteration in the Guilty Gear series returns with its trademark high-resolution graphics along with an entirely retuned fighting system, new stages, new characters, graphics, voices and the ability to create matches between old and new characters in the Generations Mode. Over 20 deadly combatants to choose from, including 2 new characters. All of your favorite characters have returned with new moves and an alternate EX version of each."
+}

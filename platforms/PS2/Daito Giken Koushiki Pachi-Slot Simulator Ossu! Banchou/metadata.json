@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paon Corporation"],
+	"genres": ["Gambling"],
+	"name": "Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Banchou",
+	"publishers": ["Daito"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This game is a digital recreation of a Daito Giken produced pachi-slot machine (fruit machine / slot machine). This machine is Martial Arts themed."
+}

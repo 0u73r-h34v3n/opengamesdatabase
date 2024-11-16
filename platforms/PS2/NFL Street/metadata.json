@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NFL Street",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/nfl-street",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for a new brand of football meant only for the streets.  NFL Street delivers hard-hitting, fast-paced 7-on-7 arcade football.  Don't be afraid to add extra style to your bone-crushing tackles, passes and runs as you will be rewarded with superpowered Gamebreakers.  Choose from more than 300 current NFL stars and legends such as Barry Sanders, and play through a variety of fields including a beach, a park or a corner lot.  Get ready to rule the streets and look good doing it."
+}

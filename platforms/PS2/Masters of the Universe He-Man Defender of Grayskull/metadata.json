@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Savage Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Masters of the Universe: He-Man: Defender of Grayskull",
+	"publishers": ["Midas Interactive Entertainment (EU)", "TDK Mediactive (US)"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "VideoGamer",
+			"url": "http://www.videogamer.com/ps2/heman/review.html",
+			"score": 3,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Skeletor and his evil warriors have found a way to breach the Mystic Wall that protects Eternia and attack the sacred land. Now it's up to He-Man and the Masters of the Universe to push back the evil beasts to the Dark Hemisphere. Take control of He-Man's magical sword and awesome strength as he fights--on foot and in vehicles--against wave after wave of enemy attacks. All the characters from the Masters of the Universe animated series clash in this epic fight of good and evil."
+}

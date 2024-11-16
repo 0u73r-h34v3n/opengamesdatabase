@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Sports"],
+	"name": "All Star Pro-Wrestling III",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User Score",
+			"url": "http://www.ign.com/games/all-star-professional-wrestling-iii/ps2-676124",
+			"score": 8.7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "All Star Pro-Wrestling III is the third and final title in Square's wrestling simulation series, featuring many famous wrestlers from the New Japan Pro Wrestling, Noah, and Zero-One wrestling promotions. There are once again numerous improvements over the previous game, including authentic entrances for each wrestler complete with original theme music, and a create-a-wrestler mode. All of the game modes from the previous release return, comprising single, tag, and battle royale matches in a variety of exhibition, tournament, and league modes."
+}

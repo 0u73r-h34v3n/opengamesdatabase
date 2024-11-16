@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Austin"],
+	"genres": ["Sports"],
+	"name": "All-Star Baseball 2003",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/all-star-baseball-2003",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Four-time World Series Champion Derek Jeter headlines the 2003 edition of All-Star Baseball. Every player from the Major League Baseball 2002-2003 season is here, with hundreds of stats, rules, and options to modify and jazz up your baseball experience. Along with the usual season mode, there's also the playoffs to be won, home run competitions, multiplayer options and all-star modes. New is the franchise mode which simulates 20 seasons."
+}

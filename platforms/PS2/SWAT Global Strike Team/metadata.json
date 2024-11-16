@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Argonaut Games"],
+	"genres": ["Action", "Shooter"],
+	"name": "SWAT: Global Strike Team",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/swat-global-strike-team",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You are Mathias Kincaid, a former member of the U.S.  Army's elite Delta Force turned SWAT: GST element leader.  In SWAT: Global Strike Team, you must guide Kincaid and his team from basic training through 21 missions linked by a powerful storyline.  Battle through 10 multiplayer only co-op missions.  As a part of a SWAT team, you'll command your teammates by issuing orders using either the intuitive controller interface or the optional voice recognition system.  Get an authentic SWAT experience through multiple modes including Campaign, Co-op, Free-for-all, Team Deathmatch, and Time Attack."
+}

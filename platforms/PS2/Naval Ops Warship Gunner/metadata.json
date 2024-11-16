@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Micro Cabin"],
+	"genres": ["Simulation"],
+	"name": "Naval Ops: Warship Gunner",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naval-ops-warship-gunner",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Build a ship, sail it into enemy waters, and put it to the ultimate test. Naval Ops: Warship Gunner lets you construct your own ship, complete with weapons systems, propulsion solutions, defensive hardware, and even aircraft. When you're ready, you'll engage hostile vessels and aircraft, destroy enemy bunkers, avoid high-G anti-ship missiles, and launch nighttime raids. Switch between three perspectives to get the best vantage point during battles. You can enhance your ship with parts salvaged from enemy wrecks and items earned from completion bonuses."
+}

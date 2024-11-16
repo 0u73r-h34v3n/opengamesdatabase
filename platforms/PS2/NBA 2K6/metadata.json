@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NBA 2K6",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-2k6",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA 2K6 is a 3D simulation that lets you play as a professional basketball player both on and off the court. Build a player and take him through training camps, competitions and NBA games. The more successful you are, the more you can customize a player's home, buy music, unlock minigames, and land an endorsement deal. The game also includes a comprehensive franchise modeand online play. Different players and coaches exhibit different personalities and tendencies, adding depth to the team-building process."
+}

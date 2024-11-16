@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Angel Studios"],
+	"genres": ["Racing"],
+	"name": "Spy Hunter 2",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spy-hunter-2",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take the helm of the world's most powerful counterintelligence combat vehicle, the completely redesigned G-8155 Interceptor. The Interceptor can take many forms, including a sleek snowmobile and a four-wheel-drive off-road vehicle, allowing you to cross multiple types of environments. You can even arm your supercar with machine guns, mines, smokes screens, guided missiles, and more. With this vehicle, you must uncover Nostra's sinister plans for world domination and discover the secrets of a mysterious female agent."
+}

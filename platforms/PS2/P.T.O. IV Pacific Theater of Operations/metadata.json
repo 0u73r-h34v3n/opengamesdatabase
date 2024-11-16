@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Turn-based strategy"],
+	"name": "P.T.O. IV: Pacific Theater of Operations",
+	"publishers": ["Koei (JP, US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pto-iv",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From Midway to the Mediterranean, every conquest brings you closer to victory in P.T.O. IV. Set during WWII, this game puts you in charge of US, Japanese, German, or British forces in missions to storm enemy garrisons. In more than 15 regional and two global campaigns, your missions include striking Leyte Gulf and establishing supply lines, ordering German Wolfpack ops in the North Sea, and launching Royal Navy cruisers to intercept Japanese dive-bombers. History is in your hands as you lead 100 battleships into combat while dispatching spies, disrupting trade, and realigning nations."
+}

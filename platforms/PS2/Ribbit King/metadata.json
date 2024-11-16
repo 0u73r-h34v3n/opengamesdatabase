@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Infinity"],
+	"genres": ["Sports"],
+	"name": "Ribbit King",
+	"publishers": ["Bandai (JP, US)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/639/639244.html",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ribbit-king",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Ribbit King, the fate of the planet rests on your ability to get frogs into holes. This is the game of Frolf, and, as Scooter, you must play it across 20 different courses on five different worlds. Power supplies are running out, and to save them, you must win the coveted Super Ribbinite. Choose from 13 odd characters and more than 10 frogs to collect items and points through Frolfing matches. Become the Frolfing Champion in Story mode or Versus mode, which supports up to four players."
+}

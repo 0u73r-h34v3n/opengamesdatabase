@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Beenox"],
+	"genres": ["Action"],
+	"name": "Bee Movie Game",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bee-movie-game",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the DreamWorks Animation movie written, produced by and starring Jerry Seinfeld, Bee Movie Game lets players race, chase and fly their way through an adrenaline-fueled world of adventure as they experience the hilarious antics of Barry B. Benson, a dynamic and daring bee who knows there is more to life than making honey."
+}

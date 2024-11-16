@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kemco"],
+	"genres": ["Racing"],
+	"name": "Top Gear Dare Devil",
+	"publishers": ["Kemco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/top-gear-dare-devil",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "No secret handshake. No decoder ring. No stupid hat. All you need to be a member of the jet-setting Dare Devils, the most elusive and outlawed driving club in the world, is good reflexes, a gut full of courage and an artistic eye for mayhem. Wreak havoc in Rome, London, Tokyo and San Francisco, unlock fast cares and hidden courses--but if you're caught, deny everything."
+}

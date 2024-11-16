@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Collection"],
+	"name": ".hack//Vol. 3 x Vol. 4",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|\"PlayStation 2 the Best\" editions of [[.hack//Outbreak Part 3]] and [[.hack//Quarantine Part 4]] and has its unique serials (SLPS-73232, SLPS-73233).}}"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Racing"],
+	"name": "Rayman Arena",
+	"publishers": ["Ubisoft (EU, US)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rayman-arena",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rayman Arena puts you in a competitive crash course. As any member of the cast of Rayman 2, you must smoke the competition on challenging race courses or incite a firefight in the battle arena. Take risks, use tricks, and trip up opponents as you sprint, slide, climb, and helicopter through 12 courses in an all-out rush for the checkered flag. Each of the gladiator-style arenas features its own set of power-ups, traps, and special ammo. You can also compete with up to four players in multiplayer action."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Castle Games"],
+	"genres": ["Sports"],
+	"name": "The Bigs 2",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-bigs-2",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Bigs 2 elevates America's favorite pastime to new heights with the larger-than-life ballparks, heroic gameplay, and incredible player models. Setting this MLB experience aside from anything you've ever seen before are spectacular power-ups, stunning special effects, and a totally unique career mode. Featuring fantastic pitching, batting and fielding animations, The Bigs brings new meaning to the term highlight reel. The Bigs 2 focuses on the big\" fast-paced moments in Major League Baseball with new opportunities to go up against MLB legends. Pinball-inspired action mode lets you mix things up a little."
+}

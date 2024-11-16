@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["VIS Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Evil Dead: A Fistful of Boomstick",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/482/482466.html",
+			"score": 6.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/evil-dead-a-fistful-of-boomstick",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fully \"armed\" with his chainsaw, trusty boomstick, and trademark quips, Ash must once again save Dearborn from the unspeakable horrors spawned from The Book of the Dead. After a vortex to the undead is unwittingly opened, deadites swarm through Dearborn, turning humans into zombies. Now, with Dearborn in chaos and citizens begging for help, Ash must hack and slash his way through the streets and figure out how to close the vortex. Ash soon learns that all is not what it seems--those he trusts may be plotting against him, and the history of Dearborn might be irrevocably changed."
+}

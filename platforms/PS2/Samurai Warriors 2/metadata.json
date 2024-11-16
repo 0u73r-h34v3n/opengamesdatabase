@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Samurai Warriors 2",
+	"publishers": ["Koei (JP, KO, US, EU, AU)", "Koei|Koei Tecmo Games (JP, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/samurai-warriors-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Follow the path of the Samurai Warriors through all new tales in Story, Free, and Survival modes. Team up with friends for 2-player Co-op play or challenge them at Sugoroku, a bonus party game for up to 4 players. Plus unlock over 70 bold cinematic visions of Japan's Samurai history!"
+}

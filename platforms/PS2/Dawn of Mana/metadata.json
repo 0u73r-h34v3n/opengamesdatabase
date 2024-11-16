@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "Adventure"],
+	"name": "Dawn of Mana",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2007/05/22/dawn-of-mana-review",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dawn-of-mana",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dawn of Mana, the first true Mana sequel in a decade, reveals the origins of the legend behind the Mana Tree and the Sword of Mana. Breaking the series' 2D mould, Dawn of Mana brings the world of Mana to three-dimensional life while preserving the atmosphere that fans have come to know and love. Players can see for themselves how vividly characters and monsters move about these new yet familiar surroundings. This instalment of the Mana is a true action-adventure with sweeping plains and mountains stretching as far as the eye can see. It's a world ripe for adventure! A World of Sensation: \"Touch\" is the theme of Dawn of Mana's world. You can virtually feel realistically rendered, lifelike objects. Set in a high fantasy universe the game follows Keldric and his companions as they try to prevent the dark energy from the land of Mavolia from escaping and corrupting the world."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Action", "Adventure"],
+	"name": "Indiana Jones and the Emperor's Tomb",
+	"publishers": ["LucasArts (US)", "Activision (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/indiana-jones-and-the-emperors-tomb/pc-17460",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/indiana-jones-and-the-emperors-tomb",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join daring archeologist and adventurer Indiana Jones as he travels to 1935 China to prevent a powerful artifact from falling into evil hands.  Indy's latest globe-spanning adventure takes you from the jungles of Ceylon and underwater palaces in Istanbul, to the deadly streets of Hong Kong and beyond.  You'll leap, swim, climb, and punch your way through exotic locales, fighting hand-to-hand combat from street brawls to martial arts battles.  It will take more than just your trusty whip and pistol to avoid deadly traps and navigate through all the dangerous environments.  Do you have what it takes to possess the mysterious Heart of the Dragon?"
+}

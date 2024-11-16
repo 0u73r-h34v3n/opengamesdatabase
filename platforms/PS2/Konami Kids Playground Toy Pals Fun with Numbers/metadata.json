@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ImaginEngine"],
+	"genres": ["Family"],
+	"name": "Konami Kids Playground: Toy Pals Fun with Numbers",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/konami-kids-playground-toy-pals-fun-with-numbers",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Toy Pals brings the kinetic excitement of Konami Kids Playground to the playroom! Join Scratch the Cat, Sniff the Dog, Stan the Bear and lots of bunnies in twelve foot-stomping activities that make numbers come to life. Kids will delight in the colorful world of toys, and parents will appreciate the simple challenges that reinforce familiarity with numbers."
+}

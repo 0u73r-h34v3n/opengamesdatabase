@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Natsume Co.", "Ltd."],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "DICE: DNA Integrated Cybernetic Enterprises",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/dice-dna-integrated-cybernetic-enterprises/ps2-733171",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dice-dna-integrated-cybernetic-enterprises",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Always on call, always on alert - DICE is ready for action. Choose from 11 different Dino-breakers as seen in the TV series. Complete missions to unlock 2 game original Dinobreakers. Transform from vehicle to dinosaur mode or even fight on foot to defeat the enemy. Select the best Dinobreaker for the mission; use their different skills and techniques to maximize points. Upgrade your weapons by unlocking or purchasing new features to destroy your enemies."
+}

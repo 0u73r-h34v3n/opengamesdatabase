@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cyberlore Studios"],
+	"genres": ["Simulation"],
+	"name": "Playboy: The Mansion",
+	"publishers": ["Arush Entertainment (US)", "Ubisoft (EU, AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/playboy-the-mansion",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Playboy: The Mansion blends social simulation with role-playing and empire-building gameplay. As Hugh Hefner, you build the Playboy Mansion and magazine into a cultural icon and a powerful brand. Rub shoulders with attractive women and celebrities as you pursue the ultimate Playboy lifestyle. Grow famous and gain exclusive access to the Playboy Archives, which include footage of the world-famous Playboy Mansion. You're rewarded for living the good life, having a positive sexual attitude, and promoting tolerance and individual freedom."
+}

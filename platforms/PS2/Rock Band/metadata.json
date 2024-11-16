@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pi Studios"],
+	"genres": ["Music"],
+	"name": "Rock Band",
+	"publishers": [
+		"MTV Games (US, AU)",
+		"Electronic Arts (EU)",
+		"Q Entertainment (JP)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rock-band",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rock Band allows gamers to perform music from the world's biggest rock artists with their friends as a virtual band using drum, bass/lead guitar and microphone peripherals, in addition to offering deep online connectivity. Built on unprecedented deals with the world's biggest record labels and music publishers, the music featured in Rock Band spans all genres of rock and includes many of the master recordings from the biggest songs and artists of all time."
+}

@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eat Sleep Play"],
+	"genres": ["Racing"],
+	"name": "Twisted Metal: Head-On - Extra Twisted Edition",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/02/02/twisted-metal-head-on-extra-twisted-edition-review",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/twisted-metal-head-on-extra-twisted-edition-review/1900-6185679/",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/twisted-metal-head-on---extra-twisted-edition",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/twisted-metal-head-on-extra-twisted-edition-review",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Twisted Metal: Head On - Extra Twisted Edition provides all the fast-paced vehicular combat and destruction that fans of the franchise have come to know and love. The latest installment in the multi-million selling franchise provides a variety of gameplay options, as gamers can go head-to-head or compete against the Artificial Intelligence (AI) and deliver the devastation as they strap themselves into one of 14 lethal machines on wheels equipped with machine guns, turbo boosts and special attacks unique to each vehicle."
+}

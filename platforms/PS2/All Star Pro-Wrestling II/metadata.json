@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|SquareSoft"],
+	"genres": ["Sports"],
+	"name": "All Star Pro-Wrestling II",
+	"publishers": ["Square Enix|SquareSoft"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN User score",
+			"url": "http://www.ign.com/games/all-star-professional-wrestling-ii/ps2-16844",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "All Star Pro-Wrestling II is the sequel to Square's All Star Pro-Wrestling, featuring a number of changes. Most importantly, the roster has been expanded significantly, including wrestlers from the Noah and Zero-One promotions alongside NJPW for more than 40 wrestlers in total. The control system has also been reworked, replacing the controversial twin-stick controls of the previous game with a more traditional button-based system. Another new feature is the ability to create a new promotion and recruit different wrestlers. Game modes include a variety of different single, tag, and battle royale match types, including exhibition, tournament, and league modes."
+}

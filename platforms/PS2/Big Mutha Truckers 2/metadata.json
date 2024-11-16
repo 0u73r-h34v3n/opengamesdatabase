@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Big Mutha Truckers 2",
+	"publishers": ["Xplosiv (EU)", "THQ (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/big-mutha-truckers-2",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dear sweet ol' Ma got busted! She's locked up tighter'n a big rig's brakes on a 40° grade. Ma's kids gotta git her some justice by bribin' six members of her jury - if they kin find 'em. And so Bobbie-Sue, Cletus, Earl and Rawkus set off once agin to buy an' sell goods all over Hick State County. They's all sorts of trouble a-waitin' fer 'em, like alien abducters, hobos and bikers, cops and rival truckers. Plus more special missions and different vehicles than you can shake a stickshift at."
+}

@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pivotal Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Great Escape",
+	"publishers": [
+		"Gotham Games (US)",
+		"SCi (EU)",
+		"Marvelous Entertainment (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-great-escape",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Imprisoned in a tough German war camp during WWII, you must coordinate a daring escape and wreak havoc in the heart of the Nazi empire. Use your wits to elude your captors through stealth and espionage episodes as you equip your secret Allies army with the tools needed for this secret plot. Once you've broken through to freedom, draw your guns and blast your way through the gut of the Nazi war machine. Finally, you'll take to the highways in chases through the enemy lines--and on to freedom."
+}

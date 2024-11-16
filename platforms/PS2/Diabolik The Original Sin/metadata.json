@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artematica"],
+	"genres": ["Adventure"],
+	"name": "Diabolik: The Original Sin",
+	"publishers": ["Black Bean Games"],
+	"regions": ["PAL"],
+	"synopsis": "Diabolik: The Original Sin is a third person adventure game blending the heritage of the point-and-click genre with fast-paced combat and stealth sequences. Its engrossing story casts the player as a master thief called Diabolik, out to rescue his beloved Eva, in a fascinating world mixing 3D real-time graphics and 2D black and white comic-style animations."
+}

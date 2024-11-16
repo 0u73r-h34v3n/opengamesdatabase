@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai"],
+	"genres": ["Action", "Adventure"],
+	"name": "Cowboy Bebop",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "It is the year 2071 and the humanity is living in an interplanetary society. A new breed of \"cowboy\" bounty hunters pursue outlaws across the lawless solar system in the hope of receiving high rewards for the hackers, drug-dealers and terrorists they capture. As one of three bounty hunters: Spike, Jet or Faye, you must unravel the mysteries of the Cowboy Bebop story. Use Spike's Jeet Kune Do skills or Jet's bulldog-style fighting techniques to defeat more than 50 different outlaws and then reap the rewards."
+}

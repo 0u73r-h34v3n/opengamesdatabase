@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vingt-et-un Systems"],
+	"genres": ["Sports"],
+	"name": "Simple 2000 Series Vol. 3: The Bass Fishing",
+	"publishers": ["D3Publisher (JP)", "Agetec (EU, US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"synopsis": "In this 3D fishing simulation, you'll fight some of the toughest freshwater sports fish around.  You get to select your favorite fishin' hole and hone your skills as a fisherman in your multiple bids to win each tournament.  Discover the right lures for your personal style of fishing and come back with load after load of prize-winning Bass.  Whether using the Dual Shock analog controller or Agetec's Bass Landing fishing controller, you'll feel the fights from the second you hook 'em to the moment you add them to your basket."
+}

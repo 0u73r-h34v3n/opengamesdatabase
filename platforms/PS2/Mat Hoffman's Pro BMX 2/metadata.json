@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Sports"],
+	"name": "Mat Hoffman's Pro BMX 2",
+	"publishers": ["Activision (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/08/13/mat-hoffmans-pro-bmx-2-2",
+			"score": 8.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mat-hoffmans-pro-bmx-2",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Matt Hoffman's Pro BMX 2 takes you for a ride through free-roaming cities, where you can perform a variety of stunts on your bike. Choose from an array of professional riders--including Matt Hoffman, Ruben Alcantara, Cory Nastazio, Mike Escamilla, Nathan Wessel, and Joe Kowalski--and begin a skating career. You'll travel to eight expansive cities that come to life with helicopters, boats, cars, and pedestrians. Then, challenge your friend in Push mode, where every time you score big, your side of the screen gets bigger while your friend's shrinks."
+}

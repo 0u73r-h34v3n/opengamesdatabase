@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["49Games"],
+	"genres": ["Sports"],
+	"name": "Alpine Skiing 2005",
+	"publishers": ["Midas Interactive Entertainment", "RTL"],
+	"regions": ["PAL"],
+	"synopsis": "You are standing at the peak of one of the world's greatest ski runs. It is eerily quiet and the view of the mountains below is incredible. You are completely focused on the job in hand to descend the slope at breakneck speed, cutting through the gates and executing the all important jumps without reducing your speed. You are against the clock, against your fellow competitors and, of course, against the terrifying mountain itself. You hear the familiar countdown, take a deep breath and off you go."
+}

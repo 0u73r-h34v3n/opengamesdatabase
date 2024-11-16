@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shaba Games"],
+	"genres": ["Sports"],
+	"name": "Tony Hawk's Project 8",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tony-hawks-project-8",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Reengineered from the ground up, Tony Hawk's Project 8 immerses players in the definitive skateboarding experience using ultra-realistic graphics, enhanced physics and responsive controls that simulate the feeling of skating with every trick and bail. The game challenges players to experience the intensity and pressure of skating against some of the world's top pros in true to life competitions as they aim to become the #1 skater."
+}

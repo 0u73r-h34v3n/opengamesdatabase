@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Beyond Games"],
+	"genres": ["Racing"],
+	"name": "Motor Mayhem: Vehicular Combat League",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motor-mayhem-vehicular-combat-league",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to Motor Mayhem - home of the baddest, no-holds-barred, gladiator car combat! Face off against the world's deadliest drivers to become the Supreme Champion of the VCL!"
+}

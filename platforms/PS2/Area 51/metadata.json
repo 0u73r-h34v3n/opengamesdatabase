@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway Studios - Austin"],
+	"genres": ["Action", "Shooter", "Arcade", "Horror"],
+	"name": "Area 51",
+	"publishers": ["Midway (US, AU, EU)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/area-51/ps2-487657",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/area-51",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A viral outbreak has shut down one of the US government's most secret and secure military facilities and all scientific and military personnel are locked inside. A small Special Forces unit, led by specialist Ethan Cole, is sent to investigate. As Cole, you'll delve into five expansive levels within the confines of Area 51, discovering a deadly mutagenic side effect of the virus as well as an ancient alien colony buried beneath the facility. With an array of human and alien weapons, you must explore conspiracies in order to solve the enigma of Area 51."
+}

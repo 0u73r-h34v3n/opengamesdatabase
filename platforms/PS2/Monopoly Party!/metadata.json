@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Runecraft"],
+	"genres": ["Board"],
+	"name": "Monopoly Party!",
+	"publishers": ["Infogrames (US, EU)", "Tomy Corporation (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monopoly-party!",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Monopoly Party game is the fastest way to discover what your friends are really like.  It's an intense buying, trading, building, and deal-making frenzy because every player moves at the same time.  Here's how it works: Everyone rolls a set of dice at the same time.  As soon as everyone rolls, everyone moves.  Just roll and go.  Then do all of the things you love, such as buy property, pass \"Go,\" and draw cards from \"Community Chest.\" Play Monopoly Party and find out who will cut you a deal when the chips are down and who will bankrupt you out of the game."
+}

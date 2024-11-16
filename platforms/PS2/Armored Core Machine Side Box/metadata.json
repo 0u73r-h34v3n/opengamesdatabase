@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Armored Core Machine Side Box",
+	"publishers": ["From Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of Armored Core (PlayStation), [[Armored Core 2]], [[Armored Core 3]], [[Armored Core: Last Raven]], Making of DVD, Soundtrack. It also includes a book, a manual and a poster.}}"
+}

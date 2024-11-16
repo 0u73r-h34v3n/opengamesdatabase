@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Fighting"],
+	"name": "Oretachi Game Center Zoku: Nekketsu Kouka Kunio-Kun",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "2 A.M. is no time to be alone in the subway. And you're about to find out why. They've got clubs, chains and blades. And it's three against one... but they've picked the wrong one. The streets are a mess and it's time to do a little street cleaning. They started it... You've gotta finish it!"
+}

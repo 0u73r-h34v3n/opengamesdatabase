@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar ABBA",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/singstar-abba",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fall Head Over Heels with ABBA all over again and add some classic pop to your SingStar party! ABBA's best loved tracks are coming to SingStar for the first time.   Including Mamma Mia, Dancing Queen, The Winner Takes it All and many more, as well as all the classic SingStar game modes, it's a celebration of great pop music and perfect for any SingStar party."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eko Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Woody Woodpecker: Escape from Buzz Buzzard Park",
+	"publishers": ["DreamCatcher Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/woody-woodpecker-escape-from-buzz-buzzard-park",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The zaniest woodpecker on the planet is back in his very own crazy 3D adventure! Rescue Splinter and Knothead, Woody's niece and nephew, from the evil talons of Buzz Buzzard!"
+}

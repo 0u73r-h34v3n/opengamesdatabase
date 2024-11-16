@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Collection"],
+	"name": "Shin Sangoku Musou Kouryaku Box",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Dynasty Warriors 4: Empires]] (真・三國無双3) and [[Dynasty Warriors 3]] (真・三國無双2) MEGA HITS! Edition.}}"
+}

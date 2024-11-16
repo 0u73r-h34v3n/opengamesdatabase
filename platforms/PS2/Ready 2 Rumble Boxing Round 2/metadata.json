@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "Ready 2 Rumble Boxing: Round 2",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2000/10/24/ready-2-rumble-boxing-round-2-6",
+			"score": 6.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ready-2-rumble-boxing-round-2",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ready 2 Rumble Boxing - Round 2 will include a variety of uniquely different, animated thugs that will punch their way up the ladder of the Ready 2 Rumble boxing world.  The game will also feature two new celebrity boxers: the King of Pop, Michael Jackson and Los Angeles Lakers superstar, Shaquille O'Neal.Shaquille O'Neal."
+}

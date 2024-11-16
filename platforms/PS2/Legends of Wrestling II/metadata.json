@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Sports"],
+	"name": "Legends of Wrestling II",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/378/378990p1.html",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/legends-of-wrestling-ii",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Legends of Wrestling II takes you through the wrestling hall of fame with the top grapplers that are battling for squared-circle supremacy. Play as your favorite wrestler--including Hulk Hogan, Andre \"The Giant,\" and Bret \"Hitman\" Hart--each with signature entrances, taunts, and moves. A new storyline and career mode let you battle for the respect of promoters and fans while fighting for the heavyweight championship crown. The game also features tag-team tournaments, a $15,000 Body Slam Challenge, and a variety of match types."
+}

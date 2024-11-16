@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WideScreen Games"],
+	"genres": ["Music"],
+	"name": "Fame Academy",
+	"publishers": ["Monte Cristo Multimedia"],
+	"regions": ["PAL"],
+	"synopsis": "This is your chance to take part in Fame Academy! Step into the spotlight and groove to 14 hit songs. Discover TV stages, presenters, lighting effects ... and convince your public. They will decide whether you have what it takes to win the next Fame Academy!"
+}

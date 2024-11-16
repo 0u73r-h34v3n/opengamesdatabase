@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "World Soccer Winning Eleven 9",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/928827-world-soccer-winning-eleven-9/index.html",
+			"score": 88,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-soccer-winning-eleven-9",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "World Soccer Winning Eleven 9 is the latest version of Konami's soccer simulator series. Added this year are more clubs from the Italian Series A, Spanish La Liga, and Dutch Eredivisie Leagues, as well as a number of other individual clubs. One hundred thirty-six clubs in six different leagues are available for play to get to the various cups featured in the game. Incrementally improved graphics and AI are also included. The game is online compatible, so you can play out rivalries across the globe."
+}

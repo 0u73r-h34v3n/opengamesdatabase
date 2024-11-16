@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "ESPN NBA Basketball",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nba-basketball",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hit the hardwood with nonstop action and intense competition with ESPN NBA Basketball. Complete with all the detailed visuals, eye-catching callouts, and commentary, ESPN NBA Basketball presents all the excitement and quickness from a real NBA game. Not only can you unleash the most skilled crossovers and unbelievable jukes with Isomotion control, but you can also completely lock down opponents with rock-solid D. Challenge current and legendary NBA players in real time--24 hours a day, seven days a week--with your own created player in 24/7 mode."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atelier Double", "HuneX"],
+	"genres": ["Collection"],
+	"name": "The Tennis & The Snowboard",
+	"publishers": ["D3Publisher"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Simple 2000 Series Vol. 6: The Snowboard]] and [[Simple 2000 Series Vol. 8: The Tennis]].}}"
+}

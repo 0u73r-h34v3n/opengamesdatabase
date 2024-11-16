@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ivolgamus"],
+	"genres": ["Action"],
+	"name": "Shrek's Carnival Craze",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/shreks-carnival-craze",
+			"score": 50,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2008/11/24/shreks-carnival-craze-review",
+			"score": 3.3,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The twisted fairytale humor of Shrek meets carnival fun as you play 28 hilarious and action-packed party-games. Play as your favorite Shrek characters and compete to become the King or Queen of the carnival!"
+}

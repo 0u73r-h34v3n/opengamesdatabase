@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dual"],
+	"genres": ["Racing"],
+	"name": "Bakusou Dekotora Densetsu: Otoko Hanamichi Yume Roman",
+	"publishers": ["Spike"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Race your truck against other truck drivers on the highways of Japan to try and deliver your cargo first. Decorate your truck with various art and other modifications using the money you earn."
+}

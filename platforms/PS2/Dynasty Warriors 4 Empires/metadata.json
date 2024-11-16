@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 4: Empires",
+	"publishers": ["Koei (JP, EU, US)", "Koei|Koei Tecmo Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-4-empires",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The next phase in the Dynasty Warriors 4 saga continues with more battles and scenarios, Musou attacks, and gameplay modes. In Dynasty Warriors 4: Empires, you'll begin with a single region and invade surrounding territories. You can use your officers' abilities, increase your troops' morale, and capture enemy generals to help you win each battle. Pick a strategy from officer proposals, and use your kingdom's resources for precious battlefield items. Dynasty Warriors 4: Empires includes new battlefields, such as deserts, mountain regions, and seaside villages."
+}

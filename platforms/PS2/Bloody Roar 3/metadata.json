@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eighting/Raizing"],
+	"genres": ["Action", "Fighting"],
+	"name": "Bloody Roar 3",
+	"publishers": ["Hudson (JP)", "Activision (US)", "Virgin Interactive (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bloody-roar-3",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Zoanthropes--humans with the ability to transform into beasts--lived peaceful lives, until recently. Various organizations scheme to abuse a new power developing within marked Zoanthropes. You discover this mark on your body and decide to stand up to fight against coercion. Face off against your enemies in nine interactive arenas that feature destructible walls and floors. You'll have many chances to unleash your brutal beast powers in single- and multiplayer action, plus 12 challenging gameplay modes."
+}

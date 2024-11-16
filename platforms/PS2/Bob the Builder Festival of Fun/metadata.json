@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action"],
+	"name": "Bob the Builder: Festival of Fun",
+	"publishers": [
+		"Mastertronic (EU)",
+		"Blast! Entertainment|Blast! Entertainment Ltd (AU)"
+	],
+	"regions": ["PAL"],
+	"synopsis": "Join Bob the Builder and the Team in an exciting new adventure! It's summer festival time in Sunflower Valley, with loads of music and food and fun for everyone. But before the festivities can begin there's work to be done! Can you help Bob and his friends get this party started? Created with young players in mind, this game is sure to delight any Bob the Builder fan!"
+}

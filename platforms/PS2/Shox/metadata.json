@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Racing"],
+	"name": "Shox",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/11/14/shox",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shox",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Arcade rally racing gets fast and furious in the newest addition to the EA SPORTS BIG! line-up. Let it all hang out as you powerslide, get big air, and smash through 20 exotic off-road tracks. Charge with precision and blaze through Shox Zones to win the races within the race. Burn rubber to earn a new turbo-charged ride or wager it all for a chance to win 24 licensed beauties in the ultimate off-road collection."
+}

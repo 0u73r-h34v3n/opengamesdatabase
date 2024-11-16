@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Contra: Shattered Soldier",
+	"publishers": ["Konami (US, JP, KO, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/contra-shattered-soldier/ps2-482096",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/contra-shattered-soldier",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All of the action and adrenaline of the Contra series comes to the PlayStation 2 with Contra: Shattered Soldier. This time, you can carry three weapons--machine gun, flamethrower, and grenade launcher--as you battle enemies either solo or cooperatively with a friend. Massive, screen-filling boss characters do everything they can to keep you from proceeding through the multiple action-packed missions, while environmental threats such as swarms of bugs, aggressive enemies, and alien encounters keep you on your toes."
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Tongue Entertainment"],
+	"genres": ["Simulation"],
+	"name": "Jurassic Park: Operation Genesis",
+	"publishers": [
+		"Vivendi Games|Vivendi Universal Games (US)",
+		"Konami (EU, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jurassic-park-operation-genesis",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now is your chance to fulfill Dr. John Hammond's dream by successfully designing and managing the ultimate dinosaur theme park.  Jurassic Park: Operation Genesis allows gamers to create the most amazing theme park the world has ever seen.  With its 3D action and sim elements, Operation Genesis gives players two games in one.  Either build your own dinosaur theme park or engage in 12 action-packed missions that will truly test your gaming skills.  Welcome to Jurassic Park, the way you want it."
+}

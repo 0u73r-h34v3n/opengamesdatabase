@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "NCAA College Basketball 2K3",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-college-basketball-2k3",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA College Basketball returns for another year of tournaments, chants, and rivalries. More than 300 Division I teams have been updated with accurate rosters, ratings, and schedules. Select a team and compete in conference tournaments, or create your own custom tournament from scratch. As you move up the ranks, you'll discover each school has its own mix of cheerleaders, chants, and fight songs. Now you can invade home courts online against players nationwide on the Xbox and PlayStation 2."
+}

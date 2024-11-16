@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["Action"],
+	"name": "Code of the Samurai",
+	"publishers": ["Sega (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "In an age where lawlessness abounds, a new force is needed to wrestle control from the warlords and bring stability back to the empire. Fight your way as a member of the Shinsengumi (the elite Samurai Police) through this brilliant action adventure, featuring huge historical locations and advanced combat techniques. Only the strongest will survive!"
+}

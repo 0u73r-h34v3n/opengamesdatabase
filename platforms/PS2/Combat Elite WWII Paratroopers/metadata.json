@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BattleBorne"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Combat Elite: WWII Paratroopers",
+	"publishers": ["SouthPeak Games (US)", "Acclaim (EU)"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/combat-elite-wwii-paratroopers",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Supported by an army of more than 17,000 US and British paratroopers, you must stop the Nazis from occupying Europe during WWII. Fight with authentic weapons and vehicles alongside brave Allied troops through rolling hills, small farms, and war-torn cities throughout France, Holland, and Belgium. More than 40 varied missions re-create the toughest battles of WWII, including D-Day, Operation Market Garden, and the Battle of the Bulge. If you can survive the brutal battlefield of WWII, you'll earn promotions that allow you to customize your soldier with new skills and abilities."
+}

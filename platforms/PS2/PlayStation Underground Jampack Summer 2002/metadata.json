@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "PlayStation Underground: Jampack Summer 2002",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"synopsis": "A collection of demos from the Official PlayStation Magazine. The disc contains demos of [[Crash Bandicoot: The Wrath of Cortex]], [[Freekstyle]], [[Frequency]], [[Half-Life]], [[Hot Shots Golf 3]], [[Jak and Daxter: The Precursor Legacy]], [[PaRappa the Rapper 2]], [[Star Wars: Jedi Starfighter]], [[TimeSplitters 2]] as well as videos of [[Kingdom Hearts]] and [[SOCOM: U.S. Navy SEALs]]."
+}

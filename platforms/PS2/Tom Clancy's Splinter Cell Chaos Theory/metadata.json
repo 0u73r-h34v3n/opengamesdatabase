@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montreal"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tom Clancy's Splinter Cell: Chaos Theory",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tom-clancys-splinter-cell-chaos-theory",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As Sam Fisher, Third Echelon's most skilled Splinter Cell operative, you are assigned to execute a hazardous series of operations to investigate and eliminate a new source of information attacks originating in North Korea. At your disposal is a lethal array of tactics ranging from Combat Knife techniques to experimental prototype weapons skills and more-radical hand-to-hand techniques such as the Inverted Chokehold. Experience the intensity of acting as a lone operative fighting tomorrow's threats in the field and of cooperating online with a partner to accomplish crucial missions."
+}

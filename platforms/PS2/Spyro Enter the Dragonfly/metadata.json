@@ -1,0 +1,32 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Check Six Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Spyro: Enter the Dragonfly",
+	"publishers": [
+		"Universal Interactive (US, EU)",
+		"Vivendi Games|Vivendi Universal Games (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/spyro-enter-the-dragonfly-review/1900-2897770/",
+			"score": 2.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spyro-enter-the-dragonfly",
+			"score": 56,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2002/11/18/spyro-enter-the-dragonfly",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Spyro is back to embark on a new magical journey through Dragon Realms.  Gnasty Gnorc and Ripto are back with a plan to steal the Dragonflies of the Dragon Realm.  With help from new and old friends, you must avoid obstacles, jump on platforms, ride vehicles, collect gems, and find a way to return the Dragonflies and restore order to the Dragon Realm.  Spyro: Enter the Dragonfly features vibrant graphics, lively animations, and new multiple breath weapons.  With new powers such as electric and bubble breath, new characters, vehicles including tanks, UFO's, rockets, and surfboards, and over 30 levels of unique environments, Spyro looks to create an unforgettable adventure."
+}

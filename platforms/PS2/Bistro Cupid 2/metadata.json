@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Firedog Computer Entertainment"],
+	"genres": ["Visual Novel", "Simulation"],
+	"name": "Bistro Cupid 2",
+	"publishers": ["Success"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Bistro 2 is the sequel to the cooking and dating simulation game, this time you play as a boy named Dill in the cooking school. Your goal is to become the greatest cooking master in the country. You will work in a restaurant after school, and meet with girls from the town. Each girl has her own cooking style and recipes to learn from."
+}

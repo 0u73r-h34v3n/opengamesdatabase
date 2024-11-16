@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shadow of Rome",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_shadowofrome_ps2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shadow-of-rome",
+			"score": 75,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/02/05/shadow-of-rome",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/shadow-of-rome-review/1900-6118093/",
+			"score": 8.2,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Travel back to the year 44 BC, to a Rome that suffers from political corruption, unruliness, and violence. Venture through ancient Rome with the help of Agrippa (a soldier whose father is accused of murder), Octavius (Agrippa's best friend), and Claudia (a female gladiator). The game automatically switches between Agrippa and Octavius so you can use each character's special skills to accomplish goals. You can also participate in gladiatorial events, such as chariot racing, tournament battles, and deadly duels."
+}

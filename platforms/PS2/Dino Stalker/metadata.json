@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["Action", "Shooter"],
+	"name": "Dino Stalker",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dino-stalker",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Gigantic dinosaurs, deep jungles, and new weapons... World War II never prepared you for this. In Dino Stalker, you play Lt. Mike Wired, a WWII fighter pilot who's shot down during a dogfight and wakes up in a prehistoric time. While the environment is unfamiliar, you still know how to fight enemies from the land, sea, and air. Blast your way through jungles filled with prehistoric creatures to discover a futuristic city with fully interactive backgrounds. In this foreign world, you can defend yourself using either the Dual Shock 2 controller or the Guncon 2 light gun."
+}

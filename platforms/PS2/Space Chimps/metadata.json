@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Red Tribe"],
+	"genres": ["Action", "Platformer"],
+	"name": "Space Chimps",
+	"publishers": [
+		"Brash Entertainment (US)",
+		"Warner Bros. Interactive Entertainment (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/space-chimps/ps2-14231751",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/space-chimps",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This is your chance to live the movie! Traverse the galaxy as Ham the Third with your monkey crew at your side to rescue some aliens. Cross deadly desert canyons, and sneak past heavily guarded dungeons in order to defeat the evil ruler Zartog, and save the day."
+}

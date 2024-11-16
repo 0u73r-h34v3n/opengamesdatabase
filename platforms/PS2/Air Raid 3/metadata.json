@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Phoenix Games"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Air Raid 3",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Air Raid 3 lets players become a jet fighter pilot with numerous missions all over the world. The gameplay is similar to the Ace Combat games as it is primarily focused around dogfighting versus a range of other aircraft in the sky and achieving mission based objectives such as blowing up a certain building of defeating a number of enemy aircraft."
+}

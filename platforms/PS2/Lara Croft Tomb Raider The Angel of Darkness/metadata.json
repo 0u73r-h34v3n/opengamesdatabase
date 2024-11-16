@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Core Design|Core Design Ltd."],
+	"genres": ["Action", "Adventure"],
+	"name": "Lara Croft Tomb Raider: The Angel of Darkness",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lara-croft-tomb-raider-the-angel-of-darkness",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A series of grisly murders brings Lara into conflict with a sinister Alchemist from the past, and a secret alliance of powerful individuals shrouded in mystery. At the center of these mysteries are the Obscura Paintings - five 14th century pieces of art that the Alchemist is desperate to repossess. Accused of the murder of her one time mentor, Werner Von Croy, Lara becomes a fugitive on the run. Pursued by the police, she follows the Alchemist into a dark world of blood, betrayal and vengeance where it is up to her to defeat this unholy alliance, and stop them from unleashing their incredible powers on the world. For the first time in a Tomb Raider game, Lara has the ability to talk to characters, and the choices you make in conversation will affect Lara's route through the game."
+}

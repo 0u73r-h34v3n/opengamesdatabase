@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shade"],
+	"genres": ["Action", "RPG"],
+	"name": "Bouken-Ou Beet: Darkness Century",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A game based off the anime of the same name and follows the same story: Beet, a young boy, has a dream of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon Squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century."
+}

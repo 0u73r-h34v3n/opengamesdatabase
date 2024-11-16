@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Wow Entertainment"],
+	"genres": ["Action", "Shooter"],
+	"name": "Vampire Night",
+	"publishers": ["Namco (US, JP)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/vampire-night/ps2-16040",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/vampire-night",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Very few have survived encounters with vampires, but you deal with them all the time. As a vampire hunter, your next target is a creature who has taken a small medieval village under control. Grab a friend and the GunCon2 to experience intense shooting action through hordes of vampires. Precision shooting is the key to survival, as bosses transform into hideous monsters and parasites consume villagers. Vampire Night also includes a special training mode, an adventure mode, and other hidden features."
+}

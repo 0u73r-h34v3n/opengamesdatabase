@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["The Code Monkeys"],
+	"genres": ["Action"],
+	"name": "Garfield",
+	"publishers": ["Hip Games"],
+	"regions": ["PAL"],
+	"synopsis": "Based on the cartoon of the same name, Garfield lets you play the role of the fat cat himself. As Garfield, you must clean up Odie's mess before John comes home if you want to win a big piece of lasagna. It's a race against the clock as you explore fully interactive environments and interact with familiar characters from the Garfield show. The game also includes minigames that let you race, cook lasagna, and play classic console games."
+}

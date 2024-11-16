@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Datel"],
+	"genres": ["Tools"],
+	"name": "MAXim",
+	"publishers": ["Datel"],
+	"regions": ["NTSC-U"],
+	"synopsis": "MAXim is a chat application for the PS2, which allows you to communicate via broadband around the world."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Shooter"],
+	"name": "Silent Scope 3",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/10/11/silent-scope-3",
+			"score": 4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/silent-scope-3",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Silent Scope's intense sniping action returns for a third round. You play the world's best sniper in a mission to prevent a terrorist organization from using cloning technology for global domination. Silence the enemy threat through expansive levels featuring challenging paths and diabolical bosses. The game's ending depends on what routes you take. If you can still keep your hands steady, you can also play the arcade game Silent Scope Ex and unlock hidden stages and modes."
+}

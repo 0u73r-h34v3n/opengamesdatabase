@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NBA 2K7",
+	"publishers": ["2K|2K Sports (US, AU)", "2K|2K Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-2k7",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be a Sharpshooter - The award winning technical achievement of 2K6 is new and improved. Take complete control of all of your shots with the shot stick. Run the Streets - Hit the street courts and showcase your playground game with completely all new streetball mode. Virtual Identity Profile - Learn the play style of your friends and foes with the V.I.P. System. The Association - Be the GM of your NBA team with the deepest Franchise Mode around."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWE SmackDown vs. Raw 2010",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/wwe-smackdown-vs-raw-2010/ps2-14347659",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wwe-smackdown-vs-raw-2010",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The best-selling fighting videogame franchise returns to the virtual ring with the most authentic, entertaining and compelling simulation of WWE programming to date.  Featuring unparalleled creation tools, a robust Superstar roster, key franchise improvements and a few surprises, WWE SmackDown vs. Raw 2010 delivers the empowering freedom to create, customize and share gameplay experiences.  It's your world now."
+}

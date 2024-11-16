@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Opus"],
+	"genres": ["Action", "Fighting"],
+	"name": "Ultimate Fighting Championship: Throwdown",
+	"publishers": ["Crave (US, KO)", "Capcom (JP)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ultimate-fighting-championship-throwdown",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Build the best, and destroy the rest in UFC: Throwdown, a fighting game that lets you use all the mixed martial arts moves of UFC champions. In the Octagon, you can develop your own offensive and defensive strategies while stringing combos together and exploiting various fighting techniques to suit your personal style. Choose from more than 25 actual UFC fighters, or customize your own fighter in Create-a-Fighter mode. In Tournament mode, you can set up single elimination matches for up to eight players."
+}

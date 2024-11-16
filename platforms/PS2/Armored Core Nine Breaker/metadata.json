@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Armored Core: Nine Breaker",
+	"publishers": ["From Software (JP)", "Agetec (US)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/armored-core-nine-breaker",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Nine Breaker is the 9th overall installment of the Armored Core series, and it features two main game modes: Mission and Arena. There are more than 150 kinds of airframe to choose from, and there is a web ranking mode for players to post their results in training and missions. The game features an automatic generation function, which allows players to fight against mechs with randomly generated parts at any point."
+}

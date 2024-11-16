@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Racing"],
+	"name": "Spy Hunter: Nowhere to Run",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spy-hunter-nowhere-to-run",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SpyHunter: Nowhere to Run takes the Spy Hunter franchise where it's never gone before: on foot. Featuring action superstar Dwayne 'The Rock' Johnson as government super-spy extraordinaire Alex Decker, players for the first time ever can step out of the Interceptor and straight into third-person action, utilizing The Rock's physical prowess by taking down enemies with intense melee combat moves. In Nowhere to Run, the evil NOSTRA corporation returns, this time with a plan to steal the latest government technology including the world's most sophisticated spy vehicle, the Interceptor, and it's up to Alex to stop them."
+}

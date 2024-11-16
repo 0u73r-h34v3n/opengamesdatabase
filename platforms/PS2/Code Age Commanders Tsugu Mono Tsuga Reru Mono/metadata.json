@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "RPG"],
+	"name": "Code Age Commanders: Tsugu Mono Tsuga Reru Mono",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/code-age-commanders/ps2-716856",
+			"score": 6.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The story of the game depicts the struggles of people surviving in a fictional \"intraglobular world\" menaced by an impending destruction, mysterious warped creatures, and different factions warring against each other. The game focuses successively on the viewpoints of four main protagonists. Reviews of the game were relatively positive, with high praises of its graphics and art direction but more mixed feelings for its complex and atypical gameplay."
+}

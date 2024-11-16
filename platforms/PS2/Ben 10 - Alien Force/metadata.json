@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monkey Bar Games"],
+	"genres": ["Action", "Fighting"],
+	"name": "Ben 10 - Alien Force",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ben-10-alien-force",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In BEN 10: ALIEN FORCE The Game, players work to find Grandpa Max and stop a diabolical Highbreed alien plot as they battle more than 20 types of enemies, including Highbreed invaders and DNAliens. Gamers take control of Ben and his new alien forms Swampfire, Jet Ray, Humungousaur, Spidermonkey, and Big Chill to employ distinctly different and complex powers to manipulate fire, swim underwater, grow more than 60 feet tall, stick to walls, fly at mach speed, plus lots more! Gamers will also harness cousin Gwen's new talent to create an energy shield and use it to protect and attack, as well as Kevin Levin's ability to absorb materials such as concrete, wood, and metal to create an impenetrable shell on his body. BEN 10 ALIEN FORCE The Game is a fast-paced, 3D side-scrolling action adventure that offers eight playable characters, an unlimited combo system, and puzzles and challenges that will engage players of all levels for hours at a time."
+}

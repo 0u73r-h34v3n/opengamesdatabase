@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Sega Ages 2500 Series Vol. 31: Dennou Senki Virtual On",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Board your Virtualoid, grab hold of your BFG Bot Blaster and prepare for war in an ultra-violent, post-modern free-for-all straight out of the arcade. It's Armageddon on your home turf as 50-foot cyborg mercenaries await your arrival in a 360-degree, polygon-perfect Arena of Doom. And the only things that can stop them from reducing you and your Virtualoid into a molten mass of twisted metal are your thumbs."
+}

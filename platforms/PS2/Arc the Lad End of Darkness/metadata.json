@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cattle Call"],
+	"genres": ["Action", "RPG"],
+	"name": "Arc the Lad: End of Darkness",
+	"publishers": ["Sony|SCEI (JP)", "Namco (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/arc-the-lad-end-of-darkness",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Edda is a young man whose youth is marked by a boring island life, but whose serenity is shattered when he meets a mysterious young woman named Kirika on the beach. He soon realizes his skill as an exorcist and becomes a hunter, weaving a remarkable journey that will ultimately pit civilization against nature."
+}

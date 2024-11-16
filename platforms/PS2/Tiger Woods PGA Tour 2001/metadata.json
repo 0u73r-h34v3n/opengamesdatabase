@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Stormfront Studios"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 2001",
+	"publishers": [
+		"Electronic Arts|EA Sports (US)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-2001",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Swing into action with the first-ever PS2 golf game from Electronic Arts in Tiger Woods PGA Tour 2001. In all, six pro golfers take to the green on three real-life courses including SpyGlass Hill, Pebble Beach, and Poppy Hills as they swing and putt their way through exact replicas of all 18 holes. The varied modes of play are now supported by two new entries, Challenge and Play-Now, in addition to such returning staples as Match, Skins, and Stroke. Making use of the PS2's additional graphical capacity over its PS1 counterpart, the game also boasts fully-rendered 3D environments and players, as well as an enhanced analog control system that makes use of the PlayStation's Dual Shock 2 enhancements."
+}

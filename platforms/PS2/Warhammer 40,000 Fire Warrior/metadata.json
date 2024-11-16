@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kuju Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Warhammer 40,000: Fire Warrior",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/warhammer-40000-fire-warrior",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to the dark nightmare future of the 41st Millennium, the grim era of the Imperium of Man.  The battlefield is spread across a million different worlds, and powerful armies of Space Marines, Imperial Guard, and Tau Fire Warriors are in constant conflict, unleashing carnage with mechanical war machines, crushing artillery, and vast starships.  Warhammer 40,000: Fire Warrior follows one day in the tumultuous life of Kais, a young Tau Warrior who must battle alone against a force that shows no mercy.  Yet, Kais will soon learn there is a darker foe at hand and becomes entangled in a frightening story that leads him through an ongoing war."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Action", "Fighting"],
+	"name": "Guilty Gear XX Accent Core Plus",
+	"publishers": ["Arc System Works (JP)", "Aksys Games (US)", "PQube (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/944396-guilty-gear-xx-accent-core-plus/index.html",
+			"score": 83,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guilty-gear-xx-accent-core-plus",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fighting franchise that launched an entirely new style of fighting games is celebrating its 10th anniversary with the most complete and definitive version of the game on the PlayStation 2. Follow the stories of the 25 crazy combatants and dish out a mind-numbing amount of insane combos that the series is known for. Discover the back story to all of your favorite characters in the Guilty Gear mythos, with fully voiced dialogue. Accent Core Plus marks the return of fan favorites Kliff Undersn and Justice, rounding out the cast of 25 playable characters. Create a three-man team in Versus Mode to find out which characters are the ultimate Guilty Gear team-up. Level up your character's abilities and traits in the re-tuned Survival Mode."
+}

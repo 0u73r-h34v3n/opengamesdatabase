@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Olympus"],
+	"genres": ["Tools"],
+	"name": "TV Kura Emon",
+	"publishers": ["Olympus"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This disc contains a software to connect ''TURBO MO mini EX IV+'' magneto-optical drive to PS2 (via USB) and transfer images from Olympus digital cameras"
+}

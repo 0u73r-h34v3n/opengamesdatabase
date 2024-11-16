@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Gradius III and IV",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gradius-iii-and-iv",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Need an old school fix on that shiny new PlayStation2? Gradius III & IV updates the 2D shooter with fantastic graphics and all of the classic Gradius play.  Evade your enemies and return fire with your favorite arsenal of lasers, bombs and missiles."
+}

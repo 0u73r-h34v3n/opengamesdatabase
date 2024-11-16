@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Naughty Dog"],
+	"genres": ["Action", "Platformer"],
+	"name": "Jak 3",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEI (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/919901-jak-3/index.html",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jak-3",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jak 3 combines elements from a variety of genres, including driving, adventure, action, puzzle, strategy, and exploration. The story begins with Jak's banishment to the Wasteland, a desert environment five times the size of Haven City, with multiple areas, including mines and a volcano. Given the expansiveness and variance in terrain, vehicles play a large role in each mission. The game unveils more vehicles, guns, and dark powers and introduces light powers. As Jak and Daxter fight for their lives, both new and familiar characters will slowly be revealed."
+}

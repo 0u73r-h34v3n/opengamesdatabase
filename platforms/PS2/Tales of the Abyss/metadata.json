@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["RPG"],
+	"name": "Tales of the Abyss",
+	"publishers": ["Namco (JP, AS)", "Bandai|Namco Bandai Games (US, JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tales-of-the-abyss",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tales of the Abyss follows the story of the young aristocrat, Luke fon Fabre. Kidnapped seven years ago, Luke returns to his family with no memories of his life before. In order to protect him, Luke's family keeps him confined to the quite lifestyle of the palace. Suddenly, Luke is thrust into the outside world and caught in the workings of the Order of Lorelei and the Oracle Knights who serve as keepers of the prophecy known as the Score. He knows nothing of those who might be his allies or those who are already his enemies. He must learn of the power of friendship and feel the pain of sacrifice. Luke's actions could save the world or destroy it."
+}

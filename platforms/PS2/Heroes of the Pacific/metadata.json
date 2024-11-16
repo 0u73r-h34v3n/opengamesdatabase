@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["IR Gurus"],
+	"genres": ["Simulation"],
+	"name": "Heroes of the Pacific",
+	"publishers": ["Codemasters (EU)", "Ubisoft (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/heroes-of-the-pacific",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare yourself for arcade flight combat based around the key battles in the Pacific Theater during WWII. As the hero whose skill, courage, and determination can win or lose the war, you'll begin the action with the Japanese attack on Pearl Harbor, and fight through the battles of Midway, Iwo Jima, the Coral Sea, and Guadalcanal. Pilot 25 actual WWII aircraft through single-player missions, and control up to eight wingmen. Multiplayer modes include Co-op, Dogfight, Team Dogfight, Capture the Flag, and Fox and Hounds."
+}

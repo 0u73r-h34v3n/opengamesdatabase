@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WinkySoft"],
+	"genres": ["RPG", "Visual Novel"],
+	"name": "Gegege no Kitarou: Ibun Youkai Kitan",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Japan in the 21st century. Similar to human society, waves of IT revolution were coming in the youkai society. It is the spread monster Internet by monster PCs and monster mobile phones. Gegege Forest is no exception and the preaching of the masterpiece father to Kitaro who investigates from a personal computer every day has become everyday. One day, a child sleeping in the park is attacked by thugs. Kitaro, who noticed that the feathers of the falcons had fallen on the spot coincided with the mass abduction of babies a week ago, rushed to the hospital where the abduction occurred. This was the beginning of a major incident involving yokais across Japan."
+}

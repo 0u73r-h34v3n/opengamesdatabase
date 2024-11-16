@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bec"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Mobile Suit Gundam Seed: Never Ending Tomorrow",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mobile-suit-gundam-seed-never-ending-tomorrow",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the future world of the Cosmic Era, the human race is divided into genetically enhanced Coordinators and unmodified Naturals. In the year C.E. 70 the tensions between Naturals and Coordinators escalate into a global war, and Earth and space become battlefields for the robotic weapons known as mobile suits. Two young warriors, Kira Yamato of the Earth Alliance and Athrun Zala of the ZAFT forces, enter the conflict at the controls of powerful Gundam mobile suits. But there are other stories than theirs, and in this fierce conflict, many other ace pilots are creating legends of their own. Featuring more than 50 playable mobile suits from the TV series. 4 game play modes including Story Mode, Mission Mode and 2 player Versus Mode. Featuring the combat system, unique weapons and attacks from the TV series; pick your favorite mobile suit and battle it out. 3D aerial-and-ground action: use thrusters to hover or fight mid-air or battle on the ground. Select a partner pilot to provide support and weapon upgrades."
+}

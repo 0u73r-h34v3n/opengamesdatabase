@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Appaloosa Interactive"],
+	"genres": ["Action"],
+	"name": "Jaws Unleashed",
+	"publishers": ["Majesco (US, AU)", "THQ (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jaws-unleashed",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the successful 1975 film of the same name, Jaws lets you play as a great white shark who must defend his territory from underwater drillers. The game features locations from the movie and destructible underwater environments. Damage the surrounding vehicles, enemies, and structures with your underwater and surface attacks. With \"shark vision,\" you can see your victims before they know you're coming. In addition to tearing apart your victims, you must solve puzzles, battle bosses, and overcome a variety of challenges."
+}

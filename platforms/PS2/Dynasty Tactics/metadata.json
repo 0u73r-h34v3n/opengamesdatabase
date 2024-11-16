@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Turn-based strategy"],
+	"name": "Dynasty Tactics",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/dynasty-tactics/ps2-17343",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "IGN User score",
+			"url": "http://www.ign.com/games/dynasty-tactics/ps2-17343",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dynasty-tactics",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the thrill of battle and learn the art of warfare with Dynasty Tactics. Set during the Three Kingdoms period of ancient China, the game lets you play as one of three leaders--Liu Bei, Cao Cao, or Sun Ce. Each officer possesses unique attacks--such as Charge, Ambush, and Fire--which you can use on the battlefield alongside your armies. Your decisions make the story. Will you stay true to history or create an entirely new world?"
+}

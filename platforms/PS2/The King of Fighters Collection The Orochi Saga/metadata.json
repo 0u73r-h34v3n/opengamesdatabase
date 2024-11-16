@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Compilation", "Fighting"],
+	"name": "The King of Fighters Collection: The Orochi Saga",
+	"publishers": ["SNK Playmore (JP, US, KO)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-fighters-collection-the-orochi-saga",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The first ever collection of THE KING OF FIGHTERS, consisting of 5 complete games. KOF 94, 95, 96, 97, 98. Japanese version includes ports of '95, '96 and '97."
+}

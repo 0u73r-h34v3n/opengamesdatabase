@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Sports"],
+	"name": "Gallop Racer 2003: A New Breed",
+	"publishers": ["Tecmo (JP, US)", "Zoo Digital Publishing (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gallop-racer-2003-a-new-breed",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "If you're tired of racing vehicles, Gallop Racer 2003: A New Breed offers another way to satisfy your need for speed. This game immerses you in the exciting and fast-paced world of horse racing. Select from six jockeys and more than 3,000 new horses, and then race on more than 30 new track environments. A new gambling system lets you bet on each race, allowing you to earn more money to spend on new horses, training facilities, and breeding equipment. Whether you want to be a betting spectator or a horse-breeding champion, Gallop Racer 2003 gives you an intense racing experience."
+}

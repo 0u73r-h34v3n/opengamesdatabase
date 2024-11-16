@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Agenda"],
+	"genres": ["Tools"],
+	"name": "PrintFan with popegg",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Popegg is a printer designed to be used with the PS2. Games compatible with Popegg: [[Gekibo 2]], [[EGBrowser]], [[Basic Studio: Powerful Game Koubou]], [[A-Ressha de Ikou 2001]], [[Velvet File Plus]], [[Cool Boarders Code Alien]], [[Lake Masters EX]], [[Primal Image for Printer]], [[Mamimune * Mogacho no Print Hour]] and [[Might and Magic: Day of the Destroyer]]. PrintFan is a software for the printer."
+}

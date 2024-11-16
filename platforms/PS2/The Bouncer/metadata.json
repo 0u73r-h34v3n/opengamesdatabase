@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DreamFactory"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Bouncer",
+	"publishers": [
+		"Square Enix|SquareSoft (JP)",
+		"Square Enix|Square Electronic Arts (US)",
+		"Sony|SCEE (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-bouncer",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A typical evening at a local bar erupts into chaos as members of a Special Forces strike team descend through the roof to kidnap a young girl, Dominique. Three bouncers--Sion, Volt, and Kou--come to the rescue, only to see the invaders grab Dominique, retreat through a window, and escape. Now it's up to you to save Dominique either alone or simultaneously with three friends. With The Bouncer's 3D combat environment, battles can take place anywhere."
+}

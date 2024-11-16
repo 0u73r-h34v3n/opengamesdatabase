@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "The History Channel: Battle for the Pacific",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-history-channel-battle-for-the-pacific",
+			"score": 35,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The History Channel takes you to the Battle for the Pacific where you will experience history brought to life in one of the defining campaigns of World War II. Relive epic land battles fought on some of the most brutal and unforgiving battlefields in recorded history. Retake strategically important locations throughout the Pacific Theatre that are vital to the allies on the Road to Tokyo."
+}

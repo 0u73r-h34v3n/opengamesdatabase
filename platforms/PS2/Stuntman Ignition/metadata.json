@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradigm Entertainment"],
+	"genres": ["Racing"],
+	"name": "Stuntman: Ignition",
+	"publishers": ["THQ (US, EU, AU, JP)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/938519-stuntman-ignition/index.html",
+			"score": 74,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/stuntman-ignition",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Stuntman: Ignition is the next installment in the Stuntman franchise. The game plunges gamers into the adrenaline-fueled role of a Hollywood stunt driver, challenging them to pull off the most breathtaking, death-defying stunts ever filmed. Players showcase their skills in a wide variety of big-budget action films, commercial shoots and tournaments while commanding more than 25 unique vehicles, including exotic sports cars, motorcycles and hovercraft."
+}

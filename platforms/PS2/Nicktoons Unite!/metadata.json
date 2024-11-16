@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Tongue Entertainment"],
+	"genres": ["Adventure", "Action", "Platformer"],
+	"name": "Nicktoons Unite!",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/nicktoons-unite/critic-reviews/?platform=playstation-2",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Battle Is On!  SpongeBob, Jimmy, Timmy, and Danny must combine their powers to defeat the Evil Syndicate and destroy the devastating Doomsday device.  It's good vs. evil where on one team of Nicktoons will prevail."
+}

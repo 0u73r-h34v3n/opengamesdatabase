@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Shanghai"],
+	"genres": ["Action", "Shooter"],
+	"name": "Tom Clancy's Ghost Recon Advanced Warfighter",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tom-clancys-ghost-recon-advanced-warfighter",
+			"score": 44,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Tom Clancy's Ghost Recon Advanced Warfighter you can play as a Ghost, the best trained and equipped soldier the US Army has to offer. The year is 2013 and an insurgency has broken out in Mexico City, and it is your job to infiltrate the city and attempt to restore order. You will need to rely on your superior equipment, weaponry, and training to succeed against a larger force of enemies. Ghost Recon Advanced Warfighter also features both cooperative and competitive multiplayer."
+}

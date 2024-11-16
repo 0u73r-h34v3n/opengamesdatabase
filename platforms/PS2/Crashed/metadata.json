@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rage Software"],
+	"genres": ["Racing"],
+	"name": "Crashed",
+	"publishers": ["Rage Software (EU)", "Majesco (US)"],
+	"regions": ["PAL"],
+	"synopsis": "Totaled! takes you for a ride in a destructive racing experience. In one of 12 cars, including hot rods, muscle, and performance cars, you must inflict as much damage on other cars as possible. Both the outer shell of each car (windows, hood, fenders, doors) and the chassis underneath can sustain damage that affects the car's performance. You can compete in 18 customizable game types and challenges, including Free for All, Stuntman, Multi-Tag, and Bus Jumping."
+}

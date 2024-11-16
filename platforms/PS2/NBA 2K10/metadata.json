@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NBA 2K10",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-2k10",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA 2K10 is raising the bar again with another Championship season. NBA 2K9, the #1 selling and #1 rated NBA videogame, set the standard for all basketball videogames, and NBA 2K10 surpasses that by delivering an even better basketball experience this year with all-new gameplay components, out-of-this-world graphics, even more realistic Signature Style animations, all-new presentation elements and an unrivalled online system -- this season you won't just play the NBA, you'll TAKE OVER."
+}

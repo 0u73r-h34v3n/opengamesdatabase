@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tamsoft"],
+	"genres": ["Action", "Fighting", "RPG"],
+	"name": "Simple 2000 Series Vol. 87: The Nadesico",
+	"publishers": ["D3Publisher (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Dragon Sisters (as its known outside of Japan) is a 2.5D, Beat-em-up game in which you control one of the two cyborg protagonists (Kiku and Hanna, referred to as 'Cyberdolls'), each with their own moves and specialities, and fight against an unnamed 'fascist East Asian' army whom have initiated an invasion against the 'Empire' and violating the signed International Treaty. <br/>With your characters working under the service of the Imperial Army, some 100 years after the last Great War, you must fight with the 'Cyborg Defense Soldiers' of the Empire and defeat the onslaught of the 'fascist East Asian Army'.<br/>The game provides the option of playing with a second player for co-op play in both mission mode and story mode respectively. You can also acquire Soul orbs which act as a 'currency' of sorts to allow acquiring additional moves for your character including a major special attack (at a high fee, of course); there's also the option of upgrading character attributes such as Health, Strength, Speed, etc. <br/>There are about ten levels in story mode and about 100 in mission mode - the latter of which is unlockable as you play through the game."
+}

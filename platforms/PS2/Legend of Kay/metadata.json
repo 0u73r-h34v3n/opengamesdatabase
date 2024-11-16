@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neon Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Legend of Kay",
+	"publishers": [
+		"Bigben Interactive (EU)",
+		"Capcom (US)",
+		"Nordic Games Publishing (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/legend-of-kay",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Cats lived peacefully on their large tree until the emperor Shun, king of the gorillas, invaded their village. Kay, a young cat trained in martial arts, steps up to the challenges of protecting his village and finding his father. As Kay, you'll experience close-combat fighting while improving your fighting skills, acquiring new weapons and powers, and discovering secrets. The worlds, which include woods, swamps, caves, and more, re-create the look and feel of classic martial arts movies."
+}

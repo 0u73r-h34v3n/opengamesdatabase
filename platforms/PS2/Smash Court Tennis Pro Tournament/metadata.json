@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Sports"],
+	"name": "Smash Court Tennis Pro Tournament",
+	"publishers": ["Namco (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/smash-court-tennis-pro-tournament",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Smash Court Tennis Pro Tournament lets you play as one of the best tennis players in the world while competing in four prestigious tournaments. Choose from the eight top players in the game--including Andre Agassi, Pete Sampras, Martina Hingis, and Monica Seles--and move up the tournament ranks on hard, clay, or grass courts. If you can master the lob, slice, and smash shots, you'll dominate the competition to become the top tennis champion."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA San Diego Studios"],
+	"genres": ["Sports"],
+	"name": "NBA 08",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-08",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "True NBA action once again returns to the courts with NBA 08 for the PlayStation 2. Featuring the third and final installment of \"The Life\" series, NBA 08 introduces \"The Life, Volume 3\", where players experience new challenges and storylines related to life in the league. In Vol. 3, NBA &rsquo;08 focuses on Coach T.'s final season, the dynamic of team unity, and the journey to create a dynasty within the NBA. More than 60 different game scenarios are available in The Life, and players will have the opportunity to play each of the five starting positions, making The Life the most compelling addition to any NBA title to date. NBA 08 delivers all-new play-by-play commentary as well as improved artificial intelligence (A.I.), an updated user interface, and new on-court and crowd audio to enhance the overall gameplay experience. Returning features include the Smart Shot Indicator, to provide a visual gauge of defensive impact, and the Power Boarding System, an element that offers a 3D approach to position for rebounds. Additionally, \"Showtime Gameplay\" is back, providing players the opportunity to manage and balance a variety of game time elements including temperamental crowds, eager teammates, and individual basketball skills."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Snowblind Studios"],
+	"genres": ["Action", "RPG"],
+	"name": "Champions: Return to Arms",
+	"publishers": ["Sony|Sony Online Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/champions-return-to-arms",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Champions: Return to Arms brings all the hack-and-slash gameplay from Champions of Norrath back to the PlayStation 2. This sequel offers unlimited battles, dangerous missions and the ability to import characters from the original game. Experience more than 50 levels solo or with three other players, either offline or online. The more medals you earn, the more secret gameplay modes you unlock. Return to Arms offers a host of new monsters, races, items and artifacts to keep you busy."
+}

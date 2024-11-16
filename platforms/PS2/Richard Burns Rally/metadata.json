@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SCi"],
+	"genres": ["Racing"],
+	"name": "Richard Burns Rally",
+	"publishers": ["SCi (EU)", "Kids Station (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "With unprecedented photo-realistic graphical quality the UK's top rally driver will guide you through your career as a rally driver - teaching you the skills necessary to compete at the highest level. You will need a combination of tactics, intelligence, foresight and perseverance - in addition to speed, aggression and risk taking. Richard Burns Rally is a game that will both challenge and astound any fan of motorsport video games. Marking a significant move forward for the rally genre, Richard Burns Rally pushes the limits of technological capability whilst revising gameplay conventions. The best recreation of real life rallying seen to date, Richard Burns Rally is simulation gaming at its most precise. Featuring Richard Burns winner of the 2001 World Rally Championship and licensed rallies from around the world you are in charge of the most accurately modelled car-handling ever devised in a variety of gameplay modes. Every aspect of modern rallying has been precisely modelled to allow the player to experience life as a top-class rally driver. Richard Burns Rally surpasses its rivals in every area -graphical quality, technical accuracy, car physics, gameplay and unique features."
+}

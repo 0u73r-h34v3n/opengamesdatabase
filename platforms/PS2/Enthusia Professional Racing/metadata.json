@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Racing"],
+	"name": "Enthusia Professional Racing",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/enthusia-professional-racing",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enthusia Professional Racing puts you in the driver's seat and re-creates the sensation of racing actual cars. Choose from hundreds of cars from more than 30 manufacturers, and then practice your driving techniques in racing competitions. As in the real world, winning is a result of ability rather than how much money has been spent tuning a car. Enthusia Professional Racing features a wide range of weather conditions, randomly generated courses, and graphic depictions of G-forces."
+}

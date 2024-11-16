@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eko System"],
+	"genres": ["Action"],
+	"name": "Strawberry Shortcake: The Sweet Dreams Game",
+	"publishers": ["The Game Factory"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/837/837795.html",
+			"score": 5.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/strawberry-shortcake-the-sweet-dreams-game",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sweet and helpful Strawberry Shortcake loves spending time with and her good friends: Angel Cake, Ginger Snap, Orange Blossom, Raspberry Torte and Lemon Meringue and is always looking out for them. Lately some of her friends have not been able to dream at night and they've asked Strawberry for her help. She decides to go to Dreamland to build new dreams for her friends, but this is no easy task! Help Strawberry by guiding her on the way to Dreamland and in the Dream Factory as she is faced with different challenges to overcome in her quest to help her friends dream again."
+}

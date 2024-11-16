@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pacific Coast Power & Light"],
+	"genres": ["Racing"],
+	"name": "MX 2002 Featuring Ricky Carmichael",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/mx-2002-featuring-ricky-carmichael-review/1900-2782584/",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mx-2002-featuring-ricky-carmichael",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Honey, you could make my motor run. Er, I was talking to the bike, baby, not you... When the engine's pouring it on and the tires put some massive air between their treads and the ground, you're feeling the thrill of Motocross. One of the best sims of the sport makes the jump to the PlayStation 2, and you could clear semi-trucks with the leap made in MX 2002 Featuring Ricky Carmichael. This game takes the holeshot of the field with incredible new graphics and full-on physics that do motorbike racing like it's never been done before. 30 pros compete for a spot in the Main, including coverboy Ricky Carmichael, Mike Larocco, Kevin Windham, and master of the \"Hart Attack,\" Carey Hart. Race Motocross and Supercross circuits, plus show some flair in the freestyle mode's Bus Jump and Step Up challenges! Wicked signature stunts and true-to-life gameplay put the people on their feet for this one."
+}

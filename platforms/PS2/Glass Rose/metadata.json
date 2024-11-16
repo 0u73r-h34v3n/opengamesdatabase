@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cing"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Glass Rose",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/glass-rose/",
+			"score": 6.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Time-slip into 1929 to solve the mystery of the Cinema Mansion Serial Murder. But hurry, the death toll is rising and the future could be damaged irrevocably. Dynamic pacing, innovative clue and free-speech systems make Glass Rose an adventure game like no other. With a supernatural twist and multiple endings, there are many questions, but only one truth..."
+}

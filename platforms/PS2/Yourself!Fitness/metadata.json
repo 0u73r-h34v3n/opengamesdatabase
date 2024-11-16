@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Respondesign"],
+	"genres": ["Sports"],
+	"name": "Yourself!Fitness",
+	"publishers": ["Respondesign"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/yourself!fitness",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Make a promise to yourself today and begin a commitment to your health for life with Yourself!Fitness. Maya, your personal trainer, helps you choose and achieve your health and fitness goals. She can guide you through dynamic workouts featuring more than 500 unique exercises. You can even set up a meal plan, customize your workout, and receive progress reports. Choose your music, your mood, and your focus and Maya will take care of the rest."
+}

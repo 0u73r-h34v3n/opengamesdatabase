@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Music"],
+	"name": "DDRMAX: Dance Dance Revolution",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/561443-ddrmax-dance-dance-revolution/index.html",
+			"score": 86,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ddrmax-dance-dance-revolution",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Straight from the arcades, DDRMAX: Dance Dance Revolution puts your dance skills to the test. The game challenges you to time your button presses--or dance steps--to correspond with the arrows moving at the top of the screen. This time, you'll have freeze arrows and other new challenges to keep you moving to the groove. Dance to the new beats of artists, including Darude, Aurora, JS16, and Reel 2 Reel. Can you last through more than 65 songs spanning 100 minutes of dance?"
+}

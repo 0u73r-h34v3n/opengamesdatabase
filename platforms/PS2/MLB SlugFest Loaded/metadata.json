@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Sports"],
+	"name": "MLB SlugFest: Loaded",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mlb-slugfest-loaded",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The MLB SlugFest series reloads its latest installment with more beanballs, hard tags, and over-the-top animations. All your favorite baseball players now have powers to run at turbo speed, make impossible catches, and survive hard collisions. This time, you can review diving catches or home-run scoreboard smashes through a customizable instant-replay feature. And for the first time in the series, the PlayStation 2 and Xbox Live users can take their players and teams online--complete with headset support."
+}

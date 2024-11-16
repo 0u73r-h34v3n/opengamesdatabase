@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "Rally Fusion: Race of Champions",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rally-fusion-race-of-champions",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tear up the turf and put your driving skills to the test as you battle it out for the Race of Champions crown. Rally Fusion: The Race of Champions pushes off-road racing to the limit with realistic damage, cars, and tracks. In one of 20 vehicles, you and your co-driver will grind, drift, and slide through a variety of terrain. Nothing less than a world-class performance will get you through different terrain, changing weather conditions, and challenging competitions against the world's top motorsport drivers."
+}

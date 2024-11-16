@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "MotoGP 08",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/12/02/motogp-08-review",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motogp-08",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MotoGP is the world's premier motorcycling championship consisting of 18 Grand Prix races hosted around the globe. It features top motorcycle manufacturers such as Honda, Yamaha, Suzuki, Ducati, Kawasaki, K and Aprilia, who provide machinery for the world's best riders, including reigning World Champion Casey Stoner from Australia, American Nicky Hayden, Italy's Valentino Rossi, and Spain's Dani Pedrosa."
+}

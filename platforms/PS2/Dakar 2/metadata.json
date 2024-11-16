@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Racing"],
+	"name": "Dakar 2",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL"],
+	"synopsis": "The faint of heart need not enter the races of Dakar 2, a rally racing game that draws upon your skills, strength, mental agility, and sheer determination. It's a test of endurance as you race through town stages in France, Spain, Morocco, and other landscapes. In some levels, you'll only have a GPS navigational setup to guide you in a race across the open desert. Dakar 2 puts you in control of monster trucks, hard-driving cars, and quick motorcycles."
+}

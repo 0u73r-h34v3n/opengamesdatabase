@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Market Games"],
+	"genres": ["Sports"],
+	"name": "Black Market Bowling",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Black Market Bowling combines true bowling mechanics with zany and amusing characters rolling their personalised balls in some crazy locations."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Devil Kings",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/devil-kings",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Devil Kings, players assume the role of various warriors who must lead their hero into a succession of hostile confrontations against an onslaught of opponents. The action explodes on-screen when awesome \"critical moves\" are performed on the battlefield as players plow through enemy hordes. Unleash the special powers from within to bombard those who stand against you with ruthless attacks or summon a powerful storm of fiery meteors and watch them explode in a whirlwind of destruction. Using experience points earned during combat, gamers can level up their characters' personal attributes and weapons. There are over 80 special items to find and unlock in hidden treasure chests located throughout the game. It's up to the player to build up their heroes, collect items, and carve a new path to victory and ultimate domination."
+}

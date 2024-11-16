@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Shanghai"],
+	"genres": ["Action", "Shooter"],
+	"name": "Tom Clancy's Rainbow Six 3",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tom-clancys-rainbow-six-3",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As terrorist attacks against the United States and Venezuela escalate, you are in charge of leading the last line of defense: Rainbow.  In Rainbow Six 3, you will lead this top-secret task force dedicated to combating terrorism in all its forms.  Your team consists of the best field operatives--equipped with an arsenal of no fewer than 30 weapons--that the United Nations has to offer.  Tackle all 14 worldwide missions in single-player or match wits and words against 15 other players online, with full headset support.  You may be the last hope in the war against terror."
+}

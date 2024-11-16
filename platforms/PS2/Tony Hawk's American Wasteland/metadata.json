@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neversoft Entertainment"],
+	"genres": ["Sports"],
+	"name": "Tony Hawk's American Wasteland",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tony-hawks-american-wasteland",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can cruise through LA without loading levels or stopping gameplay in Tony Hawk's American Wasteland. You can skate or BMX through a new story mode that takes you through all-new skate areas using tricks that have never appeared in previous Tony Hawk games. The cash that you earn can be used to customize your equipment and your skater by going to tattoo parlors and skate shops. Tony Hawk's American Wasteland also includes a classic mode that features classic Tony Hawk Pro Skater maps and objectives."
+}

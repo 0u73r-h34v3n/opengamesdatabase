@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Tiger Woods PGA Tour 10",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tiger-woods-pga-tour-10",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tiger Woods PGA Tour 10 takes golf fans inside-the-ropes to experience the drama and emotion of tournament golf. In addition, the U.S. Open, a USGA championship, and the USGA's Rules of Golf is available in Tiger Woods PGA Tour 10 for the first time in franchise history. As you hear the roar of the crowd from the next hole over, can you handle the mounting pressure while you stand over your tournament-winning putt? Expanded crowds surround every hole; adding to the tension and excitement of each shot. A first for the franchise, real-time weather is reflected on every course, ensuring the in-game experience matches that of the current weather conditions. Tiger Woods PGA Tour 10 also features a television broadcast style presentation, which include instantaneous updates and a new announcer team of ESPN's Scott Van Pelt and the Golf Channel's Kelly Tilghman."
+}

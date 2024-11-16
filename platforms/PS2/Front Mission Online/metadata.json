@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "Action", "Shooter", "Arcade"],
+	"name": "Front Mission Online",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "As a massively multiplayer online (MMO), third-person shooter spin-off, the gameplay of Front Mission: Online differs from the tactical role-playing game entries of the numbered Front Mission titles. Rather than being played out on a grid-based map and using a turn-based structure, battles takes place in real-time on full 3D maps akin to Armored Core. The player controls a mech known as the Wanderpanzer, or wanzer. Players in Online can play alone, or in groups of up to 20 players. The game has built-in support for VoIP, which can be used to communicate with other players."
+}

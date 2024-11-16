@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Daemon Summoner",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "With his infant son brutally murdered, and wife Emily reborn as a Vampire, James Farrington-Higgs has himself become a creature of the darkness. Now he must strike back against the evil forces, desperately prowling the streets of London in search of his vampire bride. His journey will uncover a horrific conspiracy as he battles to save his wife and prevent the completion of a demonic ritual held deep within the catacombs of an ancient monastery."
+}

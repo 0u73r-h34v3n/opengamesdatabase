@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Keen Games"],
+	"genres": ["Music"],
+	"name": "Dance Dance Revolution: Disney Channel Edition",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dance-dance-revolution-disney-channel-edition",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The magical world of Disney hits the dancefloor with an entirely new DanceDanceRevolution game on the PS2. Leveraging some of the hottest and most popular shows and characters from the Disney Channel Network, DDR Disney Channel combines the mega popular DDR dancing phenomenon with content that is cool and relevant with today's youth."
+}

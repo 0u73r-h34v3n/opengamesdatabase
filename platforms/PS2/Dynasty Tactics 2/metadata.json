@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Turn-based strategy"],
+	"name": "Dynasty Tactics 2",
+	"publishers": ["Koei (JP, US, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-tactics-2",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to [[Dynasty Tactics]] once again puts you in the midst of a warring China. Form chain reactions of offensive and defensive maneuvers and lead your army to victory. This time, Lu Bu joins Liu Bei, Cao Cao, and Sun Ce in epic battles spanning various strategic campaigns. Experience twice the number of tactics as the original, as well as multiple story branches and endings. Your accomplishments--or failures--won't go unnoticed, as the game evaluates your performance at the end of each battle."
+}

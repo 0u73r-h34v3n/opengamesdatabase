@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Maximo vs. Army of Zin",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/914795-maximo-vs-army-of-zin/index.html",
+			"score": 83,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/maximo-vs-army-of-zin",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Maximo has defeated a host of ghosts and gone for the glory but nothing can prepare him for the Army of Zin. Guide Maximo in his quest to stop this legion of mechanized mayhem from unleashing their undead clockwork fury. Aided by your dark pal Grim, strike back with new powerful combo attacks and daring moves. Fight your way through 20 different enemies including six new bosses on 22 challenging missions. Defend the innocent and make new alliances to reveal the mystery of Zin."
+}

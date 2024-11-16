@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Insomniac Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Ratchet: Deadlocked",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (AS, JP, KO)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCE Korea (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/927167-ratchet-deadlocked/index.html",
+			"score": 83,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ratchet-deadlocked",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Ratchet: Deadlocked, Ratchet and Clank are captured and forced to compete on an underground reality combat sport show. The show, which features abducted heroes fighting for their lives against a gruesome gang of deadly Exterminators, is run by a deranged media mogul named Gleeman Vox, who intends to use Ratchet and Clank as his next contestants. It doesn't take Vox long to realize that Ratchet is the most promising contestant the show has ever seen. Vox subjects our hero to a series of deadly battles and elaborate games of death, much to the delight of the show's enormous audience. To keep himself and his friends alive, Ratchet has no choice but to participate in the games and keep driving up the show's ratings with spectacular victories -- at least until our heroes can figure out a way to break free from Vox's control, the explosive Deadlock collar fastened to his neck, and bring the mighty Vox Network crashing down. Ratchet: Deadlocked features non-linear gameplay, allowing players greater freedom to choose their missions. In addition, all single-player levels will be available for multiplayer use. With much of the combat taking place in battlefields and arenas, gameplay will be more sports-oriented and will include announcer commentary. Featuring a new mission-structure approach, players will be rewarded with a constant progression of items such as weapons, armor and health. Players can take advantage of the new co-op gameplay functionality available throughout the game by choosing either single-player or multiplayer story mode. In addition, squad-based gameplay will enable players to demolish the competition by commandeering their allied combat bots through critical and strategic battles."
+}

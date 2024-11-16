@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "NFL Blitz Pro",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-blitz-pro",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NFL Blitz Pro is an 11-on-11 licensed smash-mouth football videogame experience, delivering a new and sophisticated online feature set combined with its blend of lightning-fast, adrenaline-style gameplay.  NFL Blitz has been reinvented, without leaving behind the edginess of the previous games in the series.  For the first time, NFL Blitz Pro will showcase authentic 11-on-11 gameplay with realistic rules, features, and online play.  New features also include a new Franchise mode, a reworked running game, and an improved AI."
+}

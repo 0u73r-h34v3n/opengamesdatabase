@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Platformer"],
+	"name": "Tokobot Plus: Mysteries of the Karakuri",
+	"publishers": [
+		"Tecmo (US, JP)",
+		"Take-Two Interactive (EU, AU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tokobot-plus-mysteries-of-the-karakuri/ps2-825002",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tokobot-plus-mysteries-of-the-karakuri",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to the Tokobot Revolution! Control a whole team of Tokobots to help you on your quest. Master the Karakuri combination and send them into OVERDRIVE, turning your Tokobots into the ultimate weapons ilke the Samurai Hover, Mega Hammer, or SuperTank. 10 new stages specially designed and created for the PS2 with a Treasure Hunting mini-game that allows for the purchase of Tokobot and Bolt power upgrades. New characters, such as an \"Instructor,\" and a rival character among others, creating a more dramatic and entertaining extension to the original Tokobot adventure. Over 30 different types of enemies with 16 boss enemies creating havoc in the ruins. (10 from the original PSP system version and 6 exclusive to the PS2.) Time Attack Mode: Unlock the Time Attach mode and replay your favorite stages while discovering rare treasures only found while in this mode."
+}

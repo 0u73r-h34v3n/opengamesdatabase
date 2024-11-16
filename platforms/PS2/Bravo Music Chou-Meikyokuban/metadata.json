@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Desert Productions"],
+	"genres": ["Music"],
+	"name": "Bravo Music: Chou-Meikyokuban",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Bravo Music relies on timed input according to on-screen cues and tempo with the addition of pressure sensitivity. Utilizing the pressure sensitivity of the DualShock 2 controller, the player must conduct an orchestra by tapping correlating buttons with varying degrees of pressure. There are three levels of pressure; light, medium and hard. The Japanese release featured an optional Baton peripheral."
+}

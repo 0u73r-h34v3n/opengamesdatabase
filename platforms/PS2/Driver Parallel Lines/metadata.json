@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Reflections Interactive"],
+	"genres": ["Racing"],
+	"name": "Driver: Parallel Lines",
+	"publishers": ["Atari (US, EU, AU, KO)", "AQ Interactive (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/driver-parallel-lines",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Driver: Parallel Lines is the fourth installment in the cinematic driver-for-hire series from Atari. You can play as an 18-year-old who is the most sought after driver in New York. The twist-filled storyline leads you through 40 missions and 80 drivable vehicles. Driver: Parallel Lines features more realistic damage modeling and improved city detail than its predecessors. You can go online and play against up to seven other players in a variety of multiplayer modes."
+}

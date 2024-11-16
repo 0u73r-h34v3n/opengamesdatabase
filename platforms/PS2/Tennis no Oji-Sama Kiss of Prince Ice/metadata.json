@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Music"],
+	"name": "Tennis no Oji-Sama: Kiss of Prince Ice",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Billed as a music clip game, this interactive music and mini-game collection is based on the tennis-themed manga of the same name. Available in two variations: Kiss of Prince Ice (Blue) and Kiss of Prince Flame (Red)."
+}

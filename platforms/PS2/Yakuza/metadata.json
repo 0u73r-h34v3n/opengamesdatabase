@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Yakuza",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/yakuza",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ten years ago, Kazuma Kiryu, a rising star in the yakuza world, took the fall for his brother Akira Nishikiyama's murder of top captain Sohei Dojima and was expelled from the Tojo Clan. Now, having gotten out of prison, Kazuma discovers that 10 billion has vanished from the Tojo Clan coffers, Akira has seemingly turned heel, and a young girl named Haruka might be at the center of the conspiracy. Teaming up with a disgraced police detective, an all-seeing informant, and several other odd characters, Kazuma and Haruka must find the missing 10 billion and learn the truth about Akira's fall from grace... if they can stay alive."
+}

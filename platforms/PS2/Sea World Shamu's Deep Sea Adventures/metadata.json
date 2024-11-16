@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Action"],
+	"name": "Sea World: Shamu's Deep Sea Adventures",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/sea-world-shamus-deep-sea-adventures/reviews/",
+			"score": 5.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "All is not well within Shamu's beloved SeaWorld Adventure Park.  Something is happening, Poseidon wants to steal the magic of the park away from Shamu and SeaWorld.  By taking control of Shamu and taking charge to investigate, your adventures will take you beyond the pools of SeaWorld and into the strange depths under the park and on amazing underwater animals and even do battle with Poseidon, the undersea god, and his loyal sea beast, The Kraken.  This adventure will put all your skills and instincts to the ultimate test.  Do you have what it takes to save SeaWorld and Shamu?"
+}

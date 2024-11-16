@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Adventure"],
+	"name": "Lego Batman: The Videogame",
+	"publishers": [
+		"Warner Bros. Interactive Entertainment (US, EU, AU)",
+		"Activision (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lego-batman",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A stampede of notorious criminals have busted out of Arkham Asylum, where Gotham City houses only the shadiest of characters. It's up to the famed Caped Crusader to sweep Gotham clean of criminal activity using everything at his disposal, including crime-fighting vehicles as well as several baddie-bashing bat gadgets."
+}

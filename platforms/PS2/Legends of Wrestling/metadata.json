@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Salt Lake City"],
+	"genres": ["Sports"],
+	"name": "Legends of Wrestling",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/legends-of-wrestling",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Legends of Wrestling throws the greatest wrestlers into one game to find out who is the true king of kings. Wrestling superstars, including Hulk Hogan, Bret \"Hitman\" Hart, and Jerry \"The King\" Lawler, step back into the ring to deliver more body slams, piledrivers, and powerbombs to the competition. Play as authentic professional wrestlers or create your own legendary fighter, and then travel around the world to battle for wrestling's top titles. Legends of Wrestling also features customizable ring attire and new wrestler entrances."
+}

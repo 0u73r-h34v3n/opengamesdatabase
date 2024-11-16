@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SilverBullet"],
+	"genres": ["Visual Novel"],
+	"name": "Fragments Blue",
+	"publishers": ["Kadokawa"],
+	"regions": ["NTSC-J"],
+	"synopsis": "One summer day, a young man named Kaname Ōsaka receives a letter with no return address. \"If you remember where I fell, go there with Momoka and search.\" The letter includes a small key, and is signed by Chika Yazawa, Kaname's childhood friend and Momoka's sister. However, Chika had died two years earlier when no donor could be found for a heart transplant. Kaname and Momoka, along with their friend Natsune, have no idea what the letter means, but decide they must investigate."
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RTS"],
+	"name": "Kessen III",
+	"publishers": [
+		"Koei (JP, US, EU)",
+		"Koei|Koei Tecmo Games (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/014/014931.html",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/kessen-iii",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kessen III marks the Kessen franchise's return to Japanese history and aesthetics. The story begins at the heart of Japan's turbulent Sengoku, or \"warring states,\" period. You play as Nobunaga, a warrior who must stand against legions of samurai to resurrect a land rife with chaos and sorrow. To win your battles, you must master your ninja attacks, charge the battlefield with various units, develop clever offensive strategies, and equip your officers with the best weapons."
+}

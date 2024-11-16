@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Cheltenham"],
+	"genres": ["Racing"],
+	"name": "RC Revenge Pro",
+	"publishers": ["Acclaim (EU, US)", "Acclaim|Acclaim Japan (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/rc-revenge-pro-review/1900-2683283/",
+			"score": 5.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rc-revenge-pro",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Grab the controls and hold on for dear life with the most electrifying, high-speed racing experience available.  Race and wreck in enchanting movie-theme worlds, kick it into overdrive with over 19 super-flying vehicles, and blow away the competition with outrageous weapons in the most electrifying racing experience available! Previously known as Re-Volt 2: Pocket Rockets, this RC vehicle racer graces the 128-bit system with all the slick track designs, great weapons balance, and dead-on control that made the PC and Dreamcast versions such a hit. Luckily, developers from Acclaim's Cheltenham Studios have taken full advantage of the PlayStatation 2 hardware--no longer will tracks be confined to suburban neighborhoods and museums. RC Revenge goes all out to deliver the goods with environments like desert islands and villages wrapped nighttime slumber. And the best part of it all? A track editor for the creative gamer is set to keep the replay value on high."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Asylum Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "Galidor: Defenders of the Outer Dimension",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL"],
+	"synopsis": "Galidor: Defenders of the Outer Dimension is a third-person action adventure game featuring dynamic environments, extraordinary enemies, and involving gameplay ranging from puzzle-solving to all out, wall-to-wall action.  As protagonist Nicholas Bluetooth, you must use your ability to \"glinch\" or morph his limbs into other objects, gain new capabilities from the creatures you encounter, and navigate environmental obstacles to destroy a dimensional wave emitter on each world.  The farther you get into the game, the more abilities and skills you will earn.  And that's important, because the fate of the Outer Dimension is in your hands."
+}

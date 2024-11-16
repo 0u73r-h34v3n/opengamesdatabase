@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acquire"],
+	"genres": ["Action", "Adventure"],
+	"name": "Samurai Western",
+	"publishers": ["Spike (JP)", "Atlus (US)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/06/08/samurai-western",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/samurai-western",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game takes place in America in the 1800s, in the area known as the Wild West. Gojiro Kiryu, a samurai, has arrived from Japan to find and kill his brother, Rando, who came to the United States some time before. Upon his arrival, he finds the region under the tyrannical rule of a local Tycoon named Goldberg, whose hired thugs have left the nearby settlements virtual ghost towns. Although initially uninterested in these happenings, Gojiro is nonetheless drawn into conflict with Goldberg's forces as his warrior's code demands that he do the right thing and help the people being hurt by the tycoon. After learning of a connection between Goldberg and his missing brother, a final confrontation lingers. Beat each level to unlock more accessories, weapons, and characters. The game's two-player mode lets you battle a friend as either a samurai or a gunman."
+}

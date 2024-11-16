@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Papaya Studios"],
+	"genres": ["Action"],
+	"name": "Ben 10 Alien Force: Vilgax Attacks",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/ben-10-alien-force-vilgax-attacks/ps2-14345214",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ben-10-alien-force-vilgax-attacks",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The latest game in the multimillion-unit-selling Ben 10 video game franchise based on Cartoon Network's hit television show, BEN 10: ALIEN FORCE Vilgax Attacks puts players in control of Ben Tennyson on a journey to outer space and distant never-before-seen planets for the first time ever in the series. As in the show, Ben will use 10 of his alien forms and their special powers to battle his greatest enemy, Vilgax, and an extreme team of fearsome foes in an effort to thwart a grand scheme to conquer the universe one planet at a time."
+}

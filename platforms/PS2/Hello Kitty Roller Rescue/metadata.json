@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Xpec"],
+	"genres": ["Action", "Adventure"],
+	"name": "Hello Kitty: Roller Rescue",
+	"publishers": ["Hamster (JP)", "Xplosiv (EU, AU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The lovable Sanrio character Hello Kitty has made her way onto the GameCube in a new adventure game. In Hello Kitty: Roller Rescue, you'll explore Hello Kitty's 3D world and encounter a variety of characters, villains, and puzzles. You'll interact with more than 20 Sanrio characters that can help you battle enemies."
+}

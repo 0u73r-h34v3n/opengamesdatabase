@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "Batman Begins",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/batman-begins/ps2-709074",
+			"score": 6.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/batman-begins",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the shadows of Gotham City's dangerous criminal underworld as Batman. Based on the movie of the same name, Batman Begins lets you explore both the origins of the \"dark knight\" and his transformation into a superhero. As Batman, you must use your strength and an array of high-tech gadgets to fight the evil forces that threaten the city, including Scarecrow, Ra's Al Ghul, and Carmine Falcone."
+}

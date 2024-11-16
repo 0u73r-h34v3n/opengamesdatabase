@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWE SmackDown! vs. Raw 2006",
+	"publishers": ["THQ (EU, US, KO)", "Yuke's (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/wwe-smackdown-vs-raw-superstar-series/psp-683133",
+			"score": 8.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/wwe-smackdown!-vs-raw-2006",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WWE wrestling action returns in WWE SmackDown! vs. RAW 2006. The game now includes momentum and stamina systems to make matches feel more authentic and require more strategy. You can play through an expanded season mode that provides two full seasons without story repetition. The game also features 100 different match types, a 3D locker room, and new wrestlers. WWE SmackDown! vs. RAW 2006 sports online play, so you can challenge other gamers to single matches or tournaments."
+}

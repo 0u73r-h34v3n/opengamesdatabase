@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Davilex"],
+	"genres": ["Racing"],
+	"name": "Alarm for Cobra 11: Hot Pursuit",
+	"publishers": [
+		"RTL Playtainment (DE)",
+		"Midas Interactive Entertainment (EU)"
+	],
+	"regions": ["PAL"],
+	"synopsis": "Alarm für Cobra 11: Hot Pursuit is a licensed game about the eponymous german action TV series and basically the same game as its predecessor: the player uses one of 25 cars, drives on the highway and causes explosions. "
+}

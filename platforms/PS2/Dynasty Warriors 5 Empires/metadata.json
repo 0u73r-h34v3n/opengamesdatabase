@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 5 Empires",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-5-empires",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Dynasty Warriors 5 Empires, the armies of the kingdom are at your command. The player's ultimate goal is to conquer the 25 regions of Ancient China and build an entire Empire using cunning diplomacy and uncompromising force. Before each battle, the player will meet with the war council to decide upon military and political policies for the kingdom, then it's time for war. The game gives armchair generals total control of their kingdom. Now, gamers can issue direct orders to each officer or signal general commands to officers on the field. Players will order when the army will take the offensive, defend their ground, or have all officers gather for an ambush. Gamers can also choose the officers for an attack force, entice captives into joining the kingdom's service and even expel officers from the kingdom. There's even greater authority over Government, Product Development, Diplomacy and Battle Tactics with the game's 25 new policies for a total of 75 in all. The game's imperial-sized action includes 4 scenarios to unlock, 2-Player Co-Op play in \"Empire\" and \"Free\" modes, new items to unlock, and control of over 200 officers! Once the dust has settled, there's the real history of Ancient China to discover in the game's detailed Encyclopedia."
+}

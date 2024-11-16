@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Incognito|Incognito Inc."],
+	"genres": ["Action", "Fighting"],
+	"name": "War of the Monsters",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Capcom (JP)",
+		"Sony|SCEI (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/war-of-the-monsters",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "100-foot tall monsters have stormed the world causing panic and despair! Engaged in a savage battle, these raging behemoths won't let anything stand in their way."
+}

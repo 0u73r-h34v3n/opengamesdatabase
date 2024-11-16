@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Oxygen Interactive"],
+	"genres": ["Sports"],
+	"name": "King of Clubs",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "King of Clubs is an innovative action-puzzle game, combining the challenge of the traditional ball-rolling puzzler with the classic tacky seaside pastime of mini-golf. As an evolution of the ball-rolling puzzle genre, each level has multiple solutions, and as further equipment is unlocked, new paths through each hole become viable. Building on the great tradition of sorry-looking mini-golf courses, the game is set in a dilapidated theme-park which takes decaying kitsch to new extremes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Data Design Interactive"],
+	"genres": ["Action", "Platformer"],
+	"name": "Anubis II",
+	"publishers": ["Metro3D"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/anubis-ii/",
+			"score": 1.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The evil spirit of Mumm'hotep has risen, plunging the land of Egypt into darkness! As the protector of tombs, you must uncover the secrets of Egypt to confront the darkness and bring peace to the land! Set in a mythological Egyptian setting, this title offers fast paced action and platform fun, as you battle deadly locust swarms, stone statues, maniac mummies and many other mythological monsters."
+}

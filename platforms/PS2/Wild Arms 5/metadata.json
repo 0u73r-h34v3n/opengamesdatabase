@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Media Vision"],
+	"genres": ["RPG"],
+	"name": "Wild Arms 5",
+	"publishers": ["Sony|SCEI (JP)", "Xseed Games (US, AU)", "505 Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wild-arms-5",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WILD ARMS 5 follows the journey of a group of young travelers as they try to unlock the mysteries of their ravaged land and unknowingly become involved in a struggle that will decide the fate of the entire world. In a small town called Capo Bronco on the outskirts of Filgaia, two youths, Dean Stark and Rebecca Streisand, witness an unbelievable event -- the giant arm of a golem somehow falling from the sky, clutching a girl named Avril. This chance encounter inspires Dean and Rebecca to travel with Avril across the wastelands of Filgaia in hopes of helping her regain her lost memories and embark on a journey that will eventually decide the fate of all mankind."
+}

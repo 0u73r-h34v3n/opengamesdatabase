@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Adventure"],
+	"name": "Legacy of Kain: Defiance",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/legacy-of-kain-defiance",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Demons, death, and dark forces cloud the vampire world of Legacy of Kain: Defiance, and you must push through it.  In this episode of the Legacy of Kain series, you play as both Raziel, a demonic angel of death, and Kain, an all-powerful demigod.  Use telekinetic powers, thrilling combo moves, and legendary swords to fight your way through monsters and undead foes.  Replenish your energy by sucking the blood and devouring your enemies' souls.  Stop the forces that seek to condemn the world to eternal damnation."
+}

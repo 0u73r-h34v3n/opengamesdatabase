@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["The Code Monkeys"],
+	"genres": ["Trivia"],
+	"name": "Alan Hansen's Sports Challenge",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Hansen, with his considerable expertise and experience, is the natural choice to chair this sports-oriented quiz. Brave Hansen's dry wit as you put your sporting knowledge to the ultimate test in Alan Hansen's Sports Challenge - Serious Sport. Serious Challenge. Serious Fun!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Fog"],
+	"genres": ["Visual Novel"],
+	"name": "Fuuraiki",
+	"publishers": ["Fog"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Fūraiki is a visual novel blending photographic backgrounds with anime-style character overlays. The player character is a travel blogger and photographer, who travels to Japan's northernmost island of Hokkaido to document his journeys for his blog. On the boat to the island, he encounters a number of young girls also traveling there, whom you will have additional opportunities to meet during the main part of the game."
+}

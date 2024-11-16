@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "NBA Starting Five",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-starting-five",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Do you have the skills, controls, and leadership to play in an NBA starting lineup? Get off the bench, and find out in NBA Starting Five, a new basketball experience that features an intuitive control system, smarter AI, and improved graphics. Updated with new rules, rosters, and arenas, the game challenges you to create a perennial dynasty out of an NBA team. An on-the-fly playcalling system automates the process so you can easily organize pick-and-rolls, post-ups, and isolations, thus giving you more control over your team's destiny."
+}

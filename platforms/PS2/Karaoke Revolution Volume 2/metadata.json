@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Karaoke Revolution Volume 2",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/karaoke-revolution-volume-2",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Karaoke Revolution Volume 2 keeps the party going with new songs, characters, and modes. Like the original, this game scores players on their vocal pitch and rhythm. This time, you can test your singing skills in 35 new songs, such as \"Friends in Low Places\" and \"I Will Survive.\" Add style to seven new performers with more than 30 outfits. In addition to new characters and venues, Karaoke Revolution 2 adds a Medley mode for fast multiplayer action."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ship Games"],
+	"genres": ["Action", "Fighting"],
+	"name": "Digimon Rumble Arena 2",
+	"publishers": ["Bandai (JP, US)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/639/639249.html",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/digimon-rumble-arena-2",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Digimon Rumble Arena 2 lets you play as and against your favorite Digimon characters. The game features all the popular Digimon from all four seasons of the TV show, plus secret Digimon. Each Digimon has a signature move that can earn Digipoints and, with enough Digipoints, you can Digivolve and destroy your opponents. In locations ranging from icy glaciers to fields of fire, you can conquer the Digimon in single-player mode or compete against three of your friends in multiplayer brawls."
+}

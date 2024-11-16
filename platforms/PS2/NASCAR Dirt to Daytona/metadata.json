@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monster Games|Monster Games Inc."],
+	"genres": ["Racing"],
+	"name": "NASCAR: Dirt to Daytona",
+	"publishers": ["Infogrames (US)", "Atari (EU)"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/nascar-dirt-to-daytona/ps2-482028",
+			"score": 8.6,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-dirt-to-daytona",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Can you survive in the world of NASCAR?  NASCAR Dirt to Daytona challenges you to become the ultimate racer in four different NASCAR racing series.  Racing to win is the key for drivers hoping to advance from small town dirt tracks to modified cars, trucks, and eventually the highly prized NASCAR Winston Cup cars.  Learn the harsh realities of the racing world where losing can cost drivers not only points in the standings but loss of money from a sponsor.  NASCAR Dirt to Daytona also features Single Races, Season Championships, Beat the Heat, and Pro Trainer modes rounding out a complete racing experience."
+}

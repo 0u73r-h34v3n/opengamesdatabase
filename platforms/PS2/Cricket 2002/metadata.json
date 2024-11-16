@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["HB Studios"],
+	"genres": ["Sports"],
+	"name": "Cricket 2002",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/565385-cricket-2002/index.html",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This is the 2002 entry for Electronic Arts annual cricket franchise which first started with Cricket 96."
+}

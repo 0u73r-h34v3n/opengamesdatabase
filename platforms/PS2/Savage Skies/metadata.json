@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["iRock Interactive"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Savage Skies",
+	"publishers": [
+		"Bam Entertainment (US)",
+		"Success (JP)",
+		"Bigben Interactive (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/savage-skies",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The skies darken with shadows from the wings of fantastic creatures locked in mid-air, claw-to-claw combat and the valleys fill with the sound of warfare and strife. As mythical beasts clash in armed conflict, three factions compete from dominance in this strange land: the noble warriors of Virtwyn, the mutated hive-mind of the Chrysalis and the undead armies of the Pariah, each determined to wipe its foes and rule the kingdom. Choose your allegiance and climb aboard a mystical mount to take to the air, attacking enemies, defending cities and crushing armies with your deadly magical blasts.  Savage Skies is an unrelenting adventure that will take you to fantasy realms far beyond your imagination. Master your steed and the empire is yours for the taking!"
+}

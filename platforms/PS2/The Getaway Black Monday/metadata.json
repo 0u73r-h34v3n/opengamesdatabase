@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Getaway: Black Monday",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sega (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-getaway-black-monday",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Getaway: Black Monday offers more predictable driving and on-foot controls, new vehicles, a variety of mission types, and new characters. The story begins with events that take place two years after the demise of the most notorious crime boss of London's East End, Charlie Jolson. You'll take on the role of a cop, who sets out on a quest for revenge. By choosing which path to take, you must make critical decisions that influence the final outcome of the game."
+}

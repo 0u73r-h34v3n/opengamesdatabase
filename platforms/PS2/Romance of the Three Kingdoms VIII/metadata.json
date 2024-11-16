@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Turn-based strategy", "Simulation"],
+	"name": "Romance of the Three Kingdoms VIII",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/romance-of-the-three-kingdoms-viii",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Romance of the Three Kingdoms VIII, you can choose to bring an end to chaos or fuel personal ambitions. Play up to eight characters in a single game--from a loyal officer who helps his lord to a rogue general forging his own path to fortune and glory. While depicting historically significant relationships--such as the brotherhood between Liu Bei, Guan Yu, and Zhang Fei--the game allows you to create new bonds between characters. Now, nearly all forces of second-century China collide on the battlefield."
+}

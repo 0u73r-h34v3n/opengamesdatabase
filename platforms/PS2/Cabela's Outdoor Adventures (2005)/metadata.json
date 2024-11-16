@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sand Grain Studios"],
+	"genres": ["Sports"],
+	"name": "Cabela's Outdoor Adventures (2005)",
+	"publishers": ["Activision (US)", "Zoo Digital Publishing (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cabelas-outdoor-adventures-2006",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take the Hunting & Fishing expedition of a lifetime with 22 adventures across North America and beyond. Stalk monster bucks and trophy big game or stop off and fish the local waters.  Experience the sights and sounds of a true-to-life outdoor adventure where stealth, strategy and technique are of the utmost importance!"
+}

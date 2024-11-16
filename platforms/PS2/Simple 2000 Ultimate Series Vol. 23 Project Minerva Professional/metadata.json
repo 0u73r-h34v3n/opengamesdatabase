@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["D3Publisher"],
+	"genres": ["Action"],
+	"name": "Simple 2000 Ultimate Series Vol. 23: Project Minerva Professional",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Using a variety of weapons classes you must progress through many varied missions, using your squad members to scout ahead, bomb targets, rescue hostages and ultimately defeat your enemy and free the world.    Gain cash and experience by defeating your enemies. Use this to improve your arsenal, level up your squad and unlock new items to help in your mission."
+}

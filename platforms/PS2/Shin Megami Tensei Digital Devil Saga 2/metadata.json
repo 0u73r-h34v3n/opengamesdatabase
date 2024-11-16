@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["RPG"],
+	"name": "Shin Megami Tensei: Digital Devil Saga 2",
+	"publishers": ["Atlus (JP, KO, US)", "Ghostlight (EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shin-megami-tensei-digital-devil-saga-2",
+			"score": 82,
+			"max_score": 100
+		},
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/924460-shin-megami-tensei-digital-devil-saga-2/index.html",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Junkyard, a town of endless rain. With his four companions, Serf, the main character and a member of a tribe called Embryon, sets out for Nirvana, a land that can only be reached by the champions of Junkyard. They devote themselves to fighting against the never-ending resistance mustered by other tribes. In the midst of chaos, a mysterious object, the Pod, suddenly appears. Countless spheres of light are emitted by the Pod and infect Serf and his comrades, awakening their demonic powers. An unimaginable battle unfolds within their faint conscience. They develop a desire to tear the flesh and shatter the bones of their enemies, who have also been transformed. Their instincts tell them to devour every being in their path. Until then, Serf and his comrades only knew of battle, but for the first time, they experience new emotions. At that time, a dark-haired girl, Sera, comes to their rescue. Although she does not know where she came from, she holds a strange power - the power to control the party's demonic transformation. They receive orders from the Church of Karma to head for Nirvana, and they are accompanied by the dark-haired girl. \"They who reach Nirvana first shall be recognized as the champions of Junkyard.\" The struggle intensifies, and they discover that the girl holds a key to the mystery. But, true fear still awaits Serf's party. Including Embryon, the tribe that the main character leads, several groups are at war with each other in order to survive. \"Devour\" your enemies and absorb their devastating powers and special abilities!"
+}

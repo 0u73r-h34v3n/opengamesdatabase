@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genuine Games"],
+	"genres": ["Action", "Fighting"],
+	"name": "Fight Club",
+	"publishers": [
+		"Vivendi Games|Vivendi Universal Games (US)",
+		"Sierra Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/fight-club/ps2-621137",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fight-club",
+			"score": 36,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Broken bones, blood-stained and ripped clothes, and facial deformations are common in Fight Club. Based on the movie of the same name, Fight Club lets you play as one of the many characters from the movie as they fight until someone goes limp, taps out, or is beaten to a pulp. With three different fighting styles and intuitive controls, the game creates a challenging experience for fighting fans of all levels."
+}

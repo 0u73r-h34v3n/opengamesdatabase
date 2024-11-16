@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kid"],
+	"genres": ["Visual Novel"],
+	"name": "Never7",
+	"publishers": ["Kid (JP)", "Konami (JP)", "CyberFront (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Never7 is the first game in the Infinity series - a sister to Memories Off series - which made famous its creators Takumi Nakazawa and Kotaro Uchikoshi. A romance visual novel with mystery elements, where the main character is trapped in a time loop trying to avert the death he had witnessed."
+}

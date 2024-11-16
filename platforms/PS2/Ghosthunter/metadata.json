@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Studio Cambridge"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Ghosthunter",
+	"publishers": ["Sony|SCEE (EU)", "Namco (US)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/08/13/ghosthunter-2",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/ghosthunter-review/1900-6104964/",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ghosthunter",
+			"score": 69,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_ghosthunter_ps2",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Rookie Detroit cop Lazarus Jones is thrust into the role of Ghosthunter after a routine patrol at a derelict high school goes awry. Lazarus and partner Anna Steele stumble upon the supernatural research center of Professor Peter Richmond, where they unintentionally liberate a legion of poltergeists. A deadly spirit abducts Anna, while another ghost fuses with Lazarus, giving him the ability to see into the realm of the dead. Armed with second sight and a cache of weapons and gadgets, the idealistic cop is forced to take on the entire spirit realm in hopes of finding his valued partner--and saving the world."
+}

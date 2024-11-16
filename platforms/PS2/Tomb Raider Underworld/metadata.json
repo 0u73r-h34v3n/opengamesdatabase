@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tomb Raider: Underworld",
+	"publishers": ["Eidos Interactive (EU, AU, US)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tomb-raider-underworld/ps2-14256568",
+			"score": 4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tomb-raider-underworld",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Master your surroundings: Reach new heights with the broadest range of acrobatic abilities and utilize objects within the environment to uncover new paths to explore. Explore epic and unknown worlds: Discover ancient mysteries of the underworld hidden within the coast of Thailand, frozen islands of the Arctic Sea, the jungles of Mexico, and more. Treacherous and unpredictable challenges: Each level is an elaborate multi-stage puzzle masked within an interactive environmental playground offering more flexibility over how the area is solved. New state-of-the-art gear: Utilize the latest technology in Lara's upgraded inventory to navigate the world including: Multi-purpose grapple: A claw-like device with a high-tension cable designed for climbing, rappelling, performing wall runs and manipulating objects within the environment. All-terrain hybrid motorbike: A unique vehicle design built to drive on everything from mud to snow and ice."
+}

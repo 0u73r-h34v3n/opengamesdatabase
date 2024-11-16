@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crafts & Meister"],
+	"genres": ["Visual Novel"],
+	"name": "Code Geass: Lelouch of the Rebellion: Lost Colors",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The story begins after episode 8 of the anime series 'Code Geass: Hangyaku no Lelouch'. You play as Rai, another young boy with a geass ability, who ends up at Ashford Academy after losing his memories."
+}

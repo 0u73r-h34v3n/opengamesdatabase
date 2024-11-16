@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Paris"],
+	"genres": ["Simulation"],
+	"name": "Petz: Catz 2",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/petz-catz-2",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome back to the adorable world of Catz! In Petz Catz 2, you can now pick your perfect pet companion from over 40 different breeds. Feed and groom her, play with her and pick out toys, accessories and even little outfits to make your cutie even cuter!"
+}

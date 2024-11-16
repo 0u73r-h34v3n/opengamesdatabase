@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Polyphony Digital"],
+	"genres": ["Racing"],
+	"name": "Gran Turismo 3: A-Spec",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_gt3_ps2",
+			"score": 10,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/08/07/gran-turismo-3-a-spec",
+			"score": 9.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gran-turismo-3-a-spec",
+			"score": 95,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/gran-turismo-3-a-spec-review/1900-2783813/",
+			"score": 9.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Some say there's nothing finer than a well-crafted automobile.  Gran Turismo 3: A-Spec, which brings the series to the PS2, features over 150 of the world's top performing sports cars, luxury autos, modified street runner, rally racers, and prototype evolutionary automobiles.  Each car looks and handles exactly as they should, thanks to the detailed graphics and realistic physics.  Choose your favorite car from a large group of manufacturers including Nissan, Ford, Toyota, and Mercedes-Benz.  Race head-to-head with another player or up to six players via iLink.  Gran Turismo 3 is a true car-lover's dream."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "ATV Offroad Fury 2",
+	"publishers": ["Sony|SCEA (US)", "THQ (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atv-offroad-fury-2",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Offroad racing just got more intense.  Race anywhere and anytime as you gun your ATV to the finish line.  With more than 20 all new ATVs, 40 offroad environments, a rockin' soundtrack, minigames, seven race modes, and even online play, ATV Offroad Fury 2 challenges you to conquer the terrain against top riders through massive, stunning environments.  But don't get caught watching the beautiful scenery.  The mountains won't have mercy on you, and neither will the competition."
+}

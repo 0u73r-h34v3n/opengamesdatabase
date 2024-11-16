@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "CMT Presents: Karaoke Revolution Country",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/cmt-presents-karaoke-revolution-country",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Karaoke Revolution goes country for the first time as Konami partners with Country Music Television to deliver the first-ever karaoke game dedicated to a specific music genre. Featuring 35 songs -- including classics like The Gambler and Stand By Your Man, and recent hits like Redneck Woman, Save A Horse (Ride A Cowboy), and When The Sun Goes Down, CMT Presents: Karaoke Revolution Country is the hottest new addition to the Karaoke Revolution series. The game will let country music fans sing with - and compete against - friends with the two microphone mode to perform duets, and expanded multiplayer and party modes that are sure to enhance any party. Additionally, Karaoke Revolution Country provides support for the EyeToyUSB Camera so players can create a 3D model of their own head and watch as they perform on stage."
+}

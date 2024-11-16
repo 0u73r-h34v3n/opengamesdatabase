@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Adrenium"],
+	"genres": ["Action", "Adventure"],
+	"name": "Samurai Jack: The Shadow of Aku",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/samurai-jack-the-shadow-of-aku",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Thrust into the future by the evil Aku, a lone Samurai warrior must quickly find the time portal to the past to rescue his defenseless people. Ancestors of the displaced Samurai call him Jack and help him through four enemy-filled realms with 24 interactive levels. Samurai Jack suffers various states of damage if he fails to dodge fireballs and sword strikes, but slow-motion attacks, devastating combo moves, and sushi snacks empower the hearty warrior. From a burning village to the bustling Aku City, you'll guide Jack as he blasts through doors, finds hidden pathways, and frees caged locals, bringing him ever closer to fulfilling his great destiny--the defeat of Aku once and for all."
+}

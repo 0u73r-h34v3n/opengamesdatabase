@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Asobo Studio"],
+	"genres": ["Action", "Platformer"],
+	"name": "Garfield: A Tail of Two Kitties",
+	"publishers": ["The Game Factory"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Garfield receives a royal invitation from his new friend Prince XII to join him for some lasagne. But when he arrives at Carlyle castle the gates are closed and no one is there to let him in. Help this famished feline use his smarts - and sometimes his weight - to make it inside in time!"
+}

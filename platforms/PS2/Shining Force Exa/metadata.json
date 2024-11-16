@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neverland"],
+	"genres": ["Action", "RPG"],
+	"name": "Shining Force Exa",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/934417-shining-force-exa/index.html",
+			"score": 65,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/shining-force-exa",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A bitter war between two world superpowers has raged on for decades with armies of beasts and demons devastating the people and the land. With both sides deadlocked, two young heroes rise up to begin a heroic journey to stop the fighting and unite the divided world. As Toma, a talented sword fighter boy or Cyrille, a cunning female sorceress, you'll venture into a stunning world of swords and sorcery teeming with a huge variety of tribes. With aggressive offensive and defensive strategies you'll lead your battle party into combat while protecting your home base, the Geo Fortress, from massive attacks."
+}

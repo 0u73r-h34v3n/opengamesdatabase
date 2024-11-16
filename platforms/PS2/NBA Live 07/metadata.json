@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NBA Live 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-live-07",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA LIVE 07 plays as good as it looks with gameplay advancements that build upon the depth and authenticity that the NBA LIVE franchise has delivered for more than a decade. NBA LIVE 07 introduces the next generation of basketball gameplay with EA SPORTS Total Freestyle Control, a new feature that gives users more control over athletes than ever. By introducing a next generation AI system that is both intuitive and intelligent, combined with advancements to fan-favorite features like All-Star Weekend and Dynasty Mode, NBA LIVE 07 continues to deliver its award-winning gameplay experience. This year NBA LIVE 07 partners with the worldwide leader in sports to deliver more ESPN content in-game while you play than ever before."
+}

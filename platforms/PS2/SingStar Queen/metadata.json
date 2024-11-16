@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Queen",
+	"publishers": ["Sony|SCE Australia (AU)", "Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/singstar-queen",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "SingStar Queen, a karaoke game packed with the classic songs that made Queen one of the world's favorite bands. They sold more than 300 million albums and had a worldwide hit musical created in their honor, We Will Rock You. Other songs included are Bohemian Rhapsody, We Are the Champions, Another One Bites the Dust, and Don't Stop Me Now. Whichever track is your favorite, you'll be lining up to grab the mic (not included) and step into the trainers of the legendary Freddie Mercury to raise your living room roof."
+}

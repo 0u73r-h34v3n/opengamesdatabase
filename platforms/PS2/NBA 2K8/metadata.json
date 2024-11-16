@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NBA 2K8",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-2k8",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The king of the hard court is back and better than ever with the all-new Sprite Slam Dunk Contest. NBA 2K8 continues a five year legacy as the #1 rated NBA simulation with in-game features that bring basketball to life like never before."
+}

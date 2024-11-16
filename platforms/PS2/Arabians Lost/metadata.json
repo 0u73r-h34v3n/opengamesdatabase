@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["QuinRose"],
+	"genres": ["Visual Novel"],
+	"name": "Arabians Lost",
+	"publishers": ["Prototype"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Aileen Olazabal is the only daughter and princess of Gilkhatar who wants nothing more than to lead a normal life and not be a princess. However, nearing her birthday, the King and Queen decided that she should marry and chose a husband for her."
+}

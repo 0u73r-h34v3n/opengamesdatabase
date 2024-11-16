@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Ops Entertainment"],
+	"genres": ["Sports"],
+	"name": "Street Hoops",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/street-hoops",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Street Hoops brings the aggressive energy and stylish attitude of street basketball into your living room. Set up your own team, and then compete in nationwide street court tournaments. As your team runs through the ranks, you unlock players such as AO, Main Event, 1/2 Man 1/2 Amazing, Headache, and Hot Sauce from the most recent And 1 Mix Tapes; plus Speedy Williams, Booger Smith, and The Future from the Nike freestyle commercial. You can spend your hard-earned winnings on new shoes, warm-ups, tattoos, jewelry, and other gear."
+}

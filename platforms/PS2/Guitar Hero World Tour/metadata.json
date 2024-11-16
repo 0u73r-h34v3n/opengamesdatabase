@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BudCat"],
+	"genres": ["Music"],
+	"name": "Guitar Hero World Tour",
+	"publishers": ["Activision|Activision Blizzard"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guitar-hero-world-tour",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When the house lights go down this fall, a new generation of guitarists, drummers and fearless frontmen will come together and rock with Guitar Hero World Tour. Guitar Hero World Tour transforms music gaming by expanding Guitar Hero's signature guitar gameplay into a cooperative band experience that combines the most advanced wireless instruments with new revolutionary online and offline gameplay modes including Band Career and 8-player \"Battle of the Bands,\" which allows two full bands to compete head-to-head online for the first time ever. The game features a slick newly redesigned guitar controller, drum kit controller and a microphone, as well as an innovative Music Studio music creator that lets players compose, record, edit and share their own rock 'n' roll anthems. Music creators will also be able to share their recordings with their friends online through GHTunes where other gamers can download and play an endless supply of unique creations."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shiny Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Enter the Matrix",
+	"publishers": ["Atari (US, EU, AU)", "Bandai (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/enter-the-matrix/ps2-16325",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/enter-the-matrix",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the Matrix features awesome gunplay and spectacular martial arts that bend the rules of the Matrix, insane driving and stunts, and the chance to pilot the fastest hovercraft in the fleet.  This game isn't just set in the Matrix universe--it's an integral part of the entire Matrix experience, with a story that weaves in and out of The Matrix: Reloaded, the second chapter of the movie trilogy.  Enter the Matrix is the story behind the story."
+}

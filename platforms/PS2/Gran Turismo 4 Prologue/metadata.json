@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Polyphony Digital"],
+	"genres": ["Racing"],
+	"name": "Gran Turismo 4 Prologue",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_gt4prologue_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "This short version title preceded the release of the full-length version Gran Turismo 4 in 2004. Featuring 50 of GT4's 500 cars as well as five courses, this expanded demo was designed for everyone who couldn't bear to wait for the full-version's release. "
+}

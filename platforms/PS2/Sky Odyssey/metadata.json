@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CAProduction"],
+	"genres": ["Simulation"],
+	"name": "Sky Odyssey",
+	"publishers": ["Activision (US)", "Sony|SCEI (JP)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sky-odyssey",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Take to the sky in addictive, action-packed missions, flying authentic planes and jets-even experimental aircraft. Attempt to refuel from a moving train, fly through underground tunnels, and touch down on an aircraft carrier at sea. From the thrill of barnstorming to the challenge of rescues, your piloting skills and nerves will be tested to their adrenaline-screaming limits."
+}

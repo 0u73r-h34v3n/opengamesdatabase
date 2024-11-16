@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Media Vision"],
+	"genres": ["RPG"],
+	"name": "Wild Arms Alter Code: F",
+	"publishers": ["Sony|SCEI (JP)", "Agetec (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/wild-arms-alter-code-f",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Wild Arms Alter Code: F not only remakes the original Wild Arms on the PlayStation but also to renew the experience with an expanded story, new characters and intricate puzzles. The game ties together the tales of the three beloved characters with three new playable characters: Emma, Jane and McDullen. Dungeons include plenty of new traps and monsters to foil you in your quest but your characters have helpful abilities, ranging from the traditional (running, picking up objects and leaping) to the stealthy (sneaking and observing) to help them through sticky situations."
+}

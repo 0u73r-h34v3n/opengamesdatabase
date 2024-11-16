@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei|Koei/Inis"],
+	"genres": ["Music"],
+	"name": "Gitaroo Man",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/469029-gitaroo-man/index.html",
+			"score": 82,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/gitaroo-man",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Music is all you need to tame the beasts in Gitaroo-Man. As U-1, descendant of the legendary Gitaroo-Man, it's up to you to save the planet from the clutches of the evil Gravillian family. To accomplish this heroic feat, you must press buttons that correspond to onscreen commands. If executed successfully, your health meter goes up while the enemies' health meter diminishes. Gitaroo-Man also features both cooperative and competitive multiplayer modes in which players perform different parts of the music."
+}

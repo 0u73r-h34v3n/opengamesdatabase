@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Sports"],
+	"name": "Blitz: The League",
+	"publishers": ["Midway"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/blitz-the-league",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Blitz: The League brings you more Blitz-style play, but with more content and harder hits. The League includes on-field injuries, ranging from snapping bones to bloody, career-ending hits. Now you can control the entire franchise, dealing with personnel decisions and front-office politics. New visual game modes let you view crucial game moments and moves in slow motion. In addition to traditional multiplayer, you can also play the no-holds-barred style of Blitz football online."
+}

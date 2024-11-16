@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar Toronto"],
+	"genres": ["Action", "Fighting"],
+	"name": "Oni",
+	"publishers": ["Rockstar Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/02/02/oni-2",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/oni",
+			"score": 69,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/oni-review/1900-2675313/",
+			"score": 6.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "An intense anime thriller comes to life in Oni. Konoko, an elite member of the Technology Crimes Task Force, is on a mission to fight the evil Syndicate. Guide her as she kicks, punches, and jumps her way through rooms full of enemies. You'll have access to a variety of weapons ranging from pistols and machine guns to mortar launchers and plasma weapons. As you delve deeper into the crime syndicate, the truth behind Konoko's past becomes clear."
+}

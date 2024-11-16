@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Studio Liverpool"],
+	"genres": ["Racing"],
+	"name": "Formula One 04",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/920437-formula-one-04/index.html",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The exclusive officially licensed game for the FIA Formula One World Championship. Formula One 04 features all of the official teams, drivers and circuits of the 2004 season, including the brand new tracks in Bahrain and Shanghai. The game also offers several gameplay modes, 10 official teams, 20 real-world drivers, and the ability to create your own racer. A full simulation Career mode enables aspiring racing drivers to experience thrill of progressing through Championship seasons, beginning with offers from the teams at the back of the grid. Success on the track will attract the interest of more successful teams, while a poor performance may result in the player being fired. F1 04 also lets players set the fastest time in a time trail and race against ghost cars to achieve the best time, in an all new online mode. "
+}

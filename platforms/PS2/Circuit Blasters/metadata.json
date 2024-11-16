@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Supersonic Software"],
+	"genres": ["Racing"],
+	"name": "Circuit Blasters",
+	"publishers": ["Metro 3D"],
+	"regions": ["PAL"],
+	"synopsis": "Experience the most Intense Adrenalin rush as you Thrash through dirt tracks, high performance roads, narrow waterways and Treacherous ice courses."
+}

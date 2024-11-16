@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["RTS"],
+	"name": "Sega Ages 2500 Series Vol. 18: Dragon Force",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Step forth brave warrior. The destiny of the world of Legendra lies solely in your hands. Play as one of eight warlords, each with a unique storyline, to conquer the evil forces of Madruk in this incredible role playing/strategy game."
+}

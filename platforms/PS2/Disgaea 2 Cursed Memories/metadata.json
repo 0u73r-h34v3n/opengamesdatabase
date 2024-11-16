@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Turn-based strategy"],
+	"name": "Disgaea 2: Cursed Memories",
+	"publishers": [
+		"Nippon Ichi Software (JP)",
+		"Nippon Ichi Software|NIS America (US)",
+		"Koei (EU, AU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/disgaea-2-cursed-memories",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Darkness is back. Overlord Zenon has cursed the land, and now, Veldime is transforming into a nasty Netherworld. Memories are sterlized, bodies demonized, the world is falling into chaos. The only one unaffected is a young man, Adell. He stands up to fight the curse, but things never go as planned. The haughty daughter of Zenon, a filthy little frog, lovable demon siblings and a washed-up rock star!? No one can ever predict what goes on in the world of Disgaea. And of course, other Overlords refuse to sit still watching."
+}

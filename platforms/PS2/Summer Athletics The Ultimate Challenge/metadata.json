@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["49Games"],
+	"genres": ["Sports"],
+	"name": "Summer Athletics: The Ultimate Challenge",
+	"publishers": [
+		"Conspiracy Entertainment (US)",
+		"DTP Entertainment (EU)",
+		"Eidos Interactive (AU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/summer-athletics-the-ultimate-challenge",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Summer Athletics will be action-packed multi-player fun for the whole family. The intuitive controls will be adapted to make the most of the individual platforms. Four different difficulty levels will make sure that both regular and casual gamers will enjoy themselves."
+}

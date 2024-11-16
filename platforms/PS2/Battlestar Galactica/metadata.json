@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warthog"],
+	"genres": ["Simulation"],
+	"name": "Battlestar Galactica",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/battlestar-galactica",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The war between man and machine rages on as the mechanical Cylons return to wipe out the human race. Begin your heroic journey through the Battlestar Galactica universe as the fearless, young Adama, and help lead the fleet of Colonials to survival. Choose from a wide array of ships, from sleek Vipers to heavy Bombers, and engage various classes of Cylon vessels, including Raiders and Marauders. As you attack, escort, or defend, your team of three wingmen will increase in experience and skill."
+}

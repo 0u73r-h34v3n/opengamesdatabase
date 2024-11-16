@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Redwood Shores"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "James Bond 007: Agent Under Fire",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/james-bond-007-agent-under-fire",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Driven by a completely new and original storyline, James Bond 007: Agent Under Fire is a first-person action game that balances furious action and stealth tactics.  An evil world organization has been replacing world leaders with their more docile clones and it's up to you to put a stop to it.  As Bond, you'll encounter villains and allies, both new and familiar, detailed 3D environments, and spy-packed, fast-action gameplay. And don't worry, Q will provide you with all the innovative weapons, sophisticated spy-craft, and state-of-the-art gadgets that Bond fans expect."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Starbreeze"],
+	"genres": ["Action", "Adventure"],
+	"name": "Knights of the Temple: Infernal Crusade",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL"],
+	"synopsis": "Europe, 12th century AD, The Dark Ages. It is an age of suffering and salvation, pagans and saints, miracles and disasters. It is the age of the Knights of the Temple, trapped in a world where nightmares become reality and the celestial spheres of Heaven turn into the suplhurous pits of hell. Prepare for an infernal crusade."
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Attention Software"],
+	"genres": ["Racing"],
+	"name": "Lego Racers 2",
+	"publishers": [
+		"Lego Media (US)",
+		"Electronic Arts (EU)",
+		"Taito Corporation (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/09/12/lego-racers-2-3",
+			"score": 7.8,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lego-racers-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "And you're off into the gear-crunching adventure sequel to LEGO® Racers, where you'll find foot-to-the-floor excitement from start to finish. Build your dream machine and then race through five incredible LEGO worlds with hair-raising challenges and explosive new features around every corner. Explore each world at blistering speed as you search for the coveted Golden Bricks. The more you collect, the futher you'll get towards the ultimate challenge against the meaner, leaner Rocket Racer. So get ready for the ride of your life!"
+}

@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Simulation"],
+	"name": "Densha de Go! Professional 2",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Densha de Go! is a Japanese train driving simulation series. Coverage in this release includes the Shōnan-Shinjuku Line, Tsurumi Line, Kosei Line, Seto-Ōhashi Line, Nagasaki Main Line and Sasebo Line."
+}

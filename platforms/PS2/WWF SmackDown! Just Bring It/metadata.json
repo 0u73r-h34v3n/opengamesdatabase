@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWF SmackDown! Just Bring It",
+	"publishers": ["THQ (EU, US)", "Yuke's (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wwf-smackdown!-just-bring-it",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For a third time, the greatest wrestlers of the WWF lay the smack down with over-the-top moves and new features. WWF SmackDown! Just Bring It! offers more customizable features, including Titantron-enhanced entrances, over 5,000 Create-a-Wrestler parts, and a Layer System. As you fight inside or outside the ring, you'll find potted plants, soda cans, fire extinguishers, chairs, and tables to knock on your opponent's head. The game also features new moves, entrance videos, and color commentary."
+}

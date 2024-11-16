@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim"],
+	"genres": ["Sports"],
+	"name": "NFL Quarterback Club 2002",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-quarterback-club-2002",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get into the exclusive Quarterback Challenge mode with 4 tough head-to-head events. Compete as a current QB or create your own. Unlock retired greats such as John Elway and Steve Young. Experience authentic NFL action with 5 different modes of gameplay.  Get into the action with the only football game available this season to feature the exclusive Quarterback Challenge and authentic NFL action with true-to-life TV-style presentation. Drop back to pass with the only football game with the NFL QB Club Challenge!"
+}

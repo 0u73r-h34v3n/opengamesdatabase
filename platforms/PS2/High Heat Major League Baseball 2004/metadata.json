@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Sports"],
+	"name": "High Heat Major League Baseball 2004",
+	"publishers": ["3DO"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/high-heat-major-league-baseball-2004",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "High Heat Major League Baseball 2004 combines new graphics and animations with a deep Franchise mode, a highly acclaimed A.I., and unsurpassed baseball realism. In Two On Two Showdown, one of the game's eleven modes, pick a pitcher and a batter, and square off in a single-inning battle!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Humongous Entertainment"],
+	"genres": ["Sports"],
+	"name": "Backyard Baseball '09",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/backyard-baseball-09",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Backyard Baseball 2009 is the latest and greatest version of the best selling kids' baseball video game series. Play hardball with David \"Big Papi\" Ortiz, A-Rod, Jeter, Ichiro, Griffey, Pujols, and other MLB superstars as kids. Choose your favorite MLB or Backyard team or create your own. Backyard Baseball 2009 features season & single game options, create-a-player, Homerun Derby mini-game, and unlockables. And now, for the first time on the Nintendo DS, Backyard Baseball features Wireless Multi-player and let's you use the touch screen to hit, field, pitch, and run--all with strokes and taps of the stylus. With outrageous game play and awesome power ups mixed in with authentic baseball action, Backyard Baseball 09 is the most fun you can have outside the ball park."
+}

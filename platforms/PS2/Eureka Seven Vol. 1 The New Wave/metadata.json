@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Eureka Seven Vol. 1: The New Wave",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/eureka-seven---vol-1-the-new-wave",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The original TV series comes to life on the PlayStation 2 with Eureka Seven Vol 1: The New Wave. Players assume the role of Sumner Sturgeon, a government agent looking to unravel a deep conspiracy, in this prequel to the animation that unfolds the events leading up to the Eureka Seven anime series. The game features intense mecha combat and mind-boggling board riding action."
+}

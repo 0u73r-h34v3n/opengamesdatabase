@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Chains of Promathia",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fantasy-xi-chains-of-promathia",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "FINAL FANTASY XI, the award-winning online adventure RPG, continues with this new expansion pack. Join an ever growing population of adventurers from around the globe on this epic, cross-platform journey.  Discover the ancient legend of Promathia, God of Twilight. Bound in chains, he hold the key to the origins of Vana'diel."
+}

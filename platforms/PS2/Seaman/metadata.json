@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ASCII Entertainment"],
+	"genres": ["Simulation"],
+	"name": "Seaman",
+	"publishers": ["ASCII Entertainment"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Now that you have obtained your own Seaman egg, use the faithful recreation of Dr. Gasse's laboratory to follow in his footsteps, uncovering the secrets of the Seaman. When the Seaman egg hatches, the adventure begins..."
+}

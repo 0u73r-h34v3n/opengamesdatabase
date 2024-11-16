@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Simulation"],
+	"name": "Monster Rancher 4",
+	"publishers": ["Tecmo"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-rancher-4",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mocchi, Suezo, and Golem are back in Monster Rancher 4. This entry in the Monster Rancher series features an expanded breeding and training program, full customization of training facilities, and an interactive action adventure element. Breed and train multiple monsters simultaneously with a variety of training equipment to choose from. The more efficiently you plan out your training facilities, the better you will be able to train your new monsters. You can also pop other Monster Rancher CDs and DVDs into your disc drive to unlock new types of monsters."
+}

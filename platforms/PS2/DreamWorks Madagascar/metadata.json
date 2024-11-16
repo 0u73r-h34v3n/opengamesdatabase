@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Toys for Bob"],
+	"genres": ["Action", "Platformer"],
+	"name": "DreamWorks Madagascar",
+	"publishers": ["Activision (US, EU)", "Bandai (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madagascar",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the animated film from DreamWorks, Madagascar tells the tale of four animals in New York's Central Park Zoo. You must use the skills of your animal crew (consisting of a lion, zebra, giraffe, and hippo) to overcome a variety of dangerous obstacles. As you meet new characters and battle enemies, you'll develop new skills, such as the stealth crawl, the helicopter spin, and the running barrel. Replay levels to unlock character-specific bonuses and cheats."
+}

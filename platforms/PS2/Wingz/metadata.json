@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["HanbitSoft", "Joycast"],
+	"genres": ["Demo", "Shoot 'em up"],
+	"name": "Wingz",
+	"regions": ["NTSC-J"],
+	"synopsis": "A shooter was being developed by Korean companies Joycast and Hanbitsoft supposed to be released in September 2002. Four different betas versions were made available before the game was cancelled. The last beta is said to be noticeably more polished than the previous three."
+}

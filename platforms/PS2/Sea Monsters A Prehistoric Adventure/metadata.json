@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Sea Monsters: A Prehistoric Adventure",
+	"publishers": ["DSI Games (US)", "Zoo Digital Publishing (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sea-monsters-a-prehistoric-adventure",
+			"score": 30,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the oceans of earth millions of years ago, danger was never far away and monsters lurked in every shadow. Experience this astounding world by playing as six different prehistoric marine reptiles, each with special skills - from extreme speed to thick armor and powerful crunching jaws. Start your adventure in an area of inland sea that will only get more dangerous as time passes."
+}

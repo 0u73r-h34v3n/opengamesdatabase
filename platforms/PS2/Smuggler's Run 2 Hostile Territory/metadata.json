@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar San Diego"],
+	"genres": ["Racing"],
+	"name": "Smuggler's Run 2: Hostile Territory",
+	"publishers": ["Rockstar Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/11/01/smugglers-run-2-hostile-territory",
+			"score": 8.7,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/smugglers-run-2-hostile-territory-review/1900-2822798/",
+			"score": 8.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/smugglers-run-2-hostile-territory",
+			"score": 77,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_srun2_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The ultimate off-road driving adventure returns to the PlayStation®2 computer entertainment system. Work for an elite band of smugglers delivering contraband, escaping the authorities and attacking rivals in the most volatile warzones on earth. Make the drop, hit the nitro boost and get across the border before all hel breaks loose!"
+}

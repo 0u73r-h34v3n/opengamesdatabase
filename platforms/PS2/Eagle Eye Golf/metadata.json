@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Telenet Japan"],
+	"genres": ["Sports"],
+	"name": "Eagle Eye Golf",
+	"publishers": [
+		"Telenet Japan (JP)",
+		"505 Game Street (EU, AU)",
+		"Aksys Games (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/eagle-eye-golf",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Eagle Eye Golf is a golf simulator. Play many different game modes to improve every ability necessary to win the tournament. This title is also very customizable: you can create a golfer as you like and even edit courses from scratch. At least three different environments await you: desert, grass and reef, use every object to create your dream course. If you want you can re-edit the entire game and save it! Beautiful trees moving by wind and birds flying through the sky complete the stage. Play a real simulation in a realistic environment."
+}

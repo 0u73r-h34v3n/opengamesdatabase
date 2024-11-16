@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Victor Interactive Software"],
+	"genres": ["Simulation"],
+	"name": "Harvest Moon: Save the Homeland",
+	"publishers": [
+		"Victor Interactive Software (JP)",
+		"Natsume Inc. (US)",
+		"Marvelous Entertainment (JP)",
+		"Sony|SCEA (US)",
+		"Ubisoft (EU)"
+	],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/11/20/harvest-moon-save-the-homeland",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/harvest-moon-save-the-homeland",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In the past, Harvest Moon was more of a farming simulation with a little bit of role-playing added in. Harvest Moon: Save the Homeland takes the series in a new direction, by offering a deeper and more robust role-playing experience. The object of this game is to save the village from being turned into a resort. Unlike previous Harvest Moon titles, Harvest Moon: Save the Homeland has a stronger focus on developing relationships with the townsfolk, and it offers nine unique ways to complete your task."
+}

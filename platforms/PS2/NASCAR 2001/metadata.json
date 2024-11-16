@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Racing"],
+	"name": "NASCAR 2001",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/nascar-2001-review/1900-2655548/",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-2001",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Easily the most ambitious NASCAR game to date on any platform, NASCAR 2001 has been designed from the ground up with completely original programming code that takes advantage of the power of the PlayStation 2. With the advanced power of the Emotion Engine, the designers for NASCAR 2001 have been able to duplicate key driving points and strategies of some of the biggest names in the racing field. Gone are the days of one-dimensional AI, thanks to independent artificial intelligence routines geared towards each racer's personality--older drivers will wisely hold back until key moments, while the rookies and speed demons will be more prone to charging recklessly into turns. Thirty-five active drivers with their respective cars (complete with sponsors) are available to rip around 14 different tracks--including night races and (in a NASCAR game first) Daytona. Body deformation, particle effects (like smoke and fire), sparks, tire marks on the road, and wall marks ensure that it looks as good as it plays."
+}

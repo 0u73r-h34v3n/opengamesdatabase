@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mucky Foot Productions"],
+	"genres": ["Action", "Fighting"],
+	"name": "Blade II",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/blade-ii/ps2-15944",
+			"score": 4.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/blade-ii",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For countless generations there was very little to stand between vampires and their human prey--until now. In Blade II, you are a vampire hunter who possesses all the strengths of a vampire, and none of its weaknesses. Skilled in martial arts, guns, and swordplay, you must protect humans from the hungering darkness. Keep the evil forces at bay with your 360-degree combat system and unstoppable rage powers. High-tech weaponry, destructive rage abilities, and over-the-top finishing moves turn every enemy encounter into an action-packed bloodbath."
+}

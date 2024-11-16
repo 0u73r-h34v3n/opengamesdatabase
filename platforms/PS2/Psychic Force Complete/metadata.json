@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["Action", "Fighting", "Compilation"],
+	"name": "Psychic Force Complete",
+	"publishers": ["Taito Corporation"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamefaqs",
+			"url": "http://www.gamefaqs.com/ps2/930268-psychic-force-complete",
+			"score": 3.94,
+			"max_score": 5
+		}
+	],
+	"synopsis": "The game is an anniversary pack for the series, including the original Psychic Force, Psychic Force 2, Psychic Force 2012 and Psychic Force 2012 EX."
+}

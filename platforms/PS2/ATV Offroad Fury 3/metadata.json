@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "ATV Offroad Fury 3",
+	"publishers": ["Sony|SCEA (US)", "SouthPeak Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atv-offroad-fury-3",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment in the ATV Offroad Fury franchise provides free-roaming offroad racing gameplay, packed with additional courses, larger environments, extra modes, minigames, more ATVs, online gameplay, and future support for the internal PS2 hard-disk drive. Through both on- and offline gameplay, you can tear up the tracks in more than 24 ATVs, including six competing ATVs in single-player and multiplayer modes. You can race in more than 30 unique environments with six distinct terrain types, as well as compete in eight minigames."
+}

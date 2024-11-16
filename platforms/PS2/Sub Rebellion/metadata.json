@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Simulation"],
+	"name": "Sub Rebellion",
+	"publishers": ["Irem (JP)", "Metro3D (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/481/481049.html",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sub-rebellion",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game takes place in the year 2145, fifteen years after a cataclysmic event involving massive-scale movement of the Earth's crust, resulting in two thirds of the planet being very deeply submerged underwater, as well as the exposure of a mysterious ancient civilisation that had been concealed throughout the planet. In the present, the Meluguis Empire, a cruel, oppressive and militaristic regime, is striving for world domination, and it is opposed by the Allied Forces. In a desperate effort to reverse the highly unfavourable war situation they are in, the Allied Forces develop a highly advanced submarine called the Chronos, a vessel capable of great manoeuvrability and prowess in underwater combat. This new submarine is provided to a crew of mercenaries who have volunteered to fight in service to the Alliance. "
+}

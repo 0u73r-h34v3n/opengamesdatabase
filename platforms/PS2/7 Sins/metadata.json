@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monte Cristo Multimedia"],
+	"genres": ["Simulation"],
+	"name": "7 Sins",
+	"publishers": ["Digital Jesters"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Gamespot users",
+			"url": "http://www.gamespot.com/ps2/rpg/7sins/index.html",
+			"score": 6.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "A life simulation game from Monte Cristo, where the player must get to the top of the social ladder and make decisions related to the seven deadly sins."
+}

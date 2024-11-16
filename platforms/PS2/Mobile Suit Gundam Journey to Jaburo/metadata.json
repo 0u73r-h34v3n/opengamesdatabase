@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai"],
+	"genres": ["Action"],
+	"name": "Mobile Suit Gundam: Journey to Jaburo",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/479797-mobile-suit-gundam-journey-to-jaburo/index.html",
+			"score": 56,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mobile-suit-gundam-journey-to-jaburo",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bandai's newest Mobile Suit Gundam brings movie-quality graphics and super-fast-action gameplay to the PlayStation 2. Take on the role of Amuro Ray and fight against enemy mobile suits in the One Year War. Battle your way through multiple stages and fight for victory in the final battle at Jaburo!  Featuring all of the characters and giant robot mecha from the favorite Gundam anime series, the game puts you in the pilot's suit against Zeon's incredible enemy forces. You'll relive the thrilling Gundam first chapter of the original series, recreated with over 40 minutes of new Gundam animation created for the game--only when the fighting starts, you are in control of the RX-78-2! The battles explode with unbelievable effects and graphics propelled out by the PlayStation 2 computer entertainment system--each of the amazing transforming mechs are brought to reality in true 3D forms and fight it out in real-time combat amongst the crumbling cityscape of the Earth Federation. For true Gundam buff, battle your way through it all and earn the chance to take command of 20 additional Mobile Suits in Battle Mode! Get ready to kick some rusty metal butt!"
+}

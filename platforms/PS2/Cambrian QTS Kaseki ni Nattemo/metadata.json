@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tenky"],
+	"genres": ["Simulation", "Adventure"],
+	"name": "Cambrian QTS: Kaseki ni Nattemo",
+	"publishers": ["Global A"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Cambrian QTS - Kaseki ni Nattemo is an adventure game about strange female creatures that went extinct long ago and were discovered by chance in the South Pacific last year. The creatures were successfully commercialized as pets with the name of Cambrian QTS. The new species grows in an aquarium filled with special seawater."
+}

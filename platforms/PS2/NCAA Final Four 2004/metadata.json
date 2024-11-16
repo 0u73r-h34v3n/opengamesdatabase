@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["989 Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Final Four 2004",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-final-four-2004",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the spirit and pageantry of college basketball with NCAA Final Four 2004. This year's installment features more than 300 Division IA teams--all vying for the NCAA basketball championship crown. Start off as a coach of a collegiate program, or begin your career as an assistant coach at a small school. Your players can perform more than 30 new dunks, including reverses, follow-ups, and tomahawk jams. Brand-new arenas feature specific floor designs, mascots, coaches, and fight songs to ensure the home-court advantage."
+}

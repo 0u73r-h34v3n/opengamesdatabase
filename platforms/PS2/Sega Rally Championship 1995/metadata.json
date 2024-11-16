@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["AM5", "United Games Artists (PS2 Port)"],
+	"genres": ["Racing"],
+	"name": "Sega Rally Championship 1995",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The unique selling point of Sega Rally is the ability to drive on different surfaces (including asphalt, gravel and mud), with different friction properties, with the car's handling changing accordingly. As the first racing game to incorporate this feature, Sega Rally is considered to be one of the milestones in the evolution of the racing game genre."
+}

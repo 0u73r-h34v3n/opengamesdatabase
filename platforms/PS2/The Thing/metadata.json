@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Computer Artworks"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "The Thing",
+	"publishers": [
+		"Black Label Games (US, EU)",
+		"Konami (JP)",
+		"Vivendi Games|Vivendi Universal Games (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-thing",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "While investigating the enigmatic deaths of American scientists in the Antarctic, a military rescue team encounters a strange shape-shifting alien life-form that assumes the appearance of the people it kills. As the team leader, you must forget everything you ever learned about obliterating aliens simply with a barrage of violent ammunition--this monster is difficult to see, hard to kill, and seemingly impossible to evade. In the midst of this lurking terror, you must convince your squad to cooperate and complete tasks essential to both the success of the mission and your own survival."
+}

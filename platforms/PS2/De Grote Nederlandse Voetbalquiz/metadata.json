@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mere Mortals"],
+	"genres": ["Trivia"],
+	"name": "De Grote Nederlandse Voetbalquiz",
+	"publishers": ["Liquid Games"],
+	"regions": ["PAL"],
+	"synopsis": "Compete against your friends in the first soccer quiz for the Playstation 2. Thousands of trivia questions from several decades present a challenge for every generation. Do you think you know everything about the national sport? Put your knowledge and your friends to the test with The Ultimate Football Quiz."
+}

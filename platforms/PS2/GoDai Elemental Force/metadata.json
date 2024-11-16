@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action", "Fighting"],
+	"name": "GoDai: Elemental Force",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/godai-elemental-force",
+			"score": 27,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare to embark on a mystical journey through the eyes of Hiro. A young man seeking the truth of his past and the sacred magic of the elements. Only once he harnesses the powers of earth, wind, water, fire and void will he possess the strength to avenge his family and reclaim his birthright."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCEJ"],
+	"genres": ["Action"],
+	"name": "Zone of the Enders: The 2nd Runner",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/zone-of-the-enders-the-2nd-runner",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by the anime TV series, Zone of the Enders: The 2nd Runner gives you control over a lightning-fast mechanized robot. The sequel to Zone of the Enders features new weapons, maneuvers, and tactics to fight an evil militaristic force. You'll travel to expansive cityscapes, enemy fortresses, and even to the depths of space. Now that you have the power to target and destroy hundreds of enemies at the same time, quieting conflict should not be a problem."
+}

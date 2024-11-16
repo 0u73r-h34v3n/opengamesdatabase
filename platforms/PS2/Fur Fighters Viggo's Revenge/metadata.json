@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bizarre Creations"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Fur Fighters: Viggo's Revenge",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/06/04/fur-fighters-viggos-revenge",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fur-fighters-viggos-revenge",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The villainous General Viggo has kidnapped the Fur Fighters' families as part of his vile plan for world domination. To make matters worse, your closest kin have been mutated to fight against you."
+}

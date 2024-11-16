@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NBA 2K9",
+	"publishers": ["2K|2K Sports (US, EU, AU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-2k9",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Improved Association - The game sees the addition of a Player Ambitions system and an NBA.com interface. Hot Zones - Always know when to take the best shot a player can get. Using real-life data, each player&rsquo;s favorite shot locations to give real-time feedback when best to take a shot. Signature Shot Additions - Even more Signature Styles have been added to NBA 2K9 meaning more of your favorite NBA players will play and shoot like they do in real life."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Phoenix Games"],
+	"genres": ["Puzzle"],
+	"name": "Crabby Adventure",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "The residents of this once-peaceful island have been struck by fear as their beloved Crab Kingdom falls under attack. In the midst of panic, the courageous Crabby stands up for justice, ready to fight for peace. Help this claw-wielding crustacean by shooting chains of three or more balls of the same color. Create chains to boost your score! Try three different play modes (Story, Time Attack, and Survival) and collect various items along the way to help Crabby complete his mission and save the residents of the Crab Kingdom."
+}

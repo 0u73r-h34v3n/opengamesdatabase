@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TGL"],
+	"genres": ["Visual Novel", "Action"],
+	"name": "Baldr Bullet: Equilibrium",
+	"publishers": ["Alchemist"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Sometime in the near future, the South American rain forest serves as the backdrop of a war between two factions - those who support the Baldr governing technology and those who don't. To ensure that the skirmishes and conflicts don't expand, the BS-OSA or Baldr System - Observation Structure Army is set up to police the region. Inside the Army is a special unit known as SERR14 (Observation Structure Army South American Experimental Riot Regiment the 14th) which is comprised of elite soldiers and operatives such as Sergey Kirkland and Dullahan Cuningham."
+}

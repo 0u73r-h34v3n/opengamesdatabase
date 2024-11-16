@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "MX Unleashed",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/914869-mx-unleashed/index.html",
+			"score": 79,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mx-unleashed",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The newest installment of the MX series gives off-road racers more freedom than ever before.  Challenge yourself in the freeworld mode - an off-road playground filled with treacherous terrain, minigames and machine races.  Work your way up the ranks racing against the top champions in the world on over 40 tracks in 14 separate leagues.  Face off against friends in both racing and freestyle modes. Prepare yourself for mud, dirt, high speeds and a serious attitude."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Terminal Reality"],
+	"genres": ["Racing"],
+	"name": "RoadKill",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/roadkill",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "RoadKill presents an action-packed, mission-based combat driving experience.  To survive, you must out-drive, outgun and outthink rival gangs, city guards, and anyone else gunning for you in the living, post-apocalyptic territory of Hell County.  With the ability to build up a powerful gang following, you'll unleash havoc, chaos, and destruction on the environment and its inhabitants with a wide selection of vehicles, a potent armory of weapons, and special equipment in both single-player and various multiplayer game modes."
+}

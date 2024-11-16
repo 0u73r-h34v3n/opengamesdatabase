@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Adventure"],
+	"name": "Lego Star Wars",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/lego-star-wars",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Lego Star Wars blends Lego toys with the characters, stories, and vehicles from the prequel eras of the Star Wars universe. Now you can experience scenes from The Phantom Menace, Attack of the Clones, and Revenge of the Sith while controlling characters such as Obi-Wan Kenobi, Yoda, and Anakin Skywalker. Use the Jedi \"force\" to solve puzzles and manipulate environments. During your journey, you'll do everything from pod racing on Mos Espa to repelling the droid onslaught in the Genosian arena. Your friend can even join the action to help you at any time during your game."
+}

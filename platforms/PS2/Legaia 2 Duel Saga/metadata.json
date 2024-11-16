@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Prokion"],
+	"genres": ["RPG"],
+	"name": "Legaia 2: Duel Saga",
+	"publishers": ["Sony|SCEI (JP)", "Eidos Interactive (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/legaia-2-duel-saga",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A magical crystal that supplies infinite water to the small village of Nohl is stolen causing a solar eclipse. The resulting evil light fills the land with powerful monsters placing the village's survival at stake. Now Lang, a rookie member of the Nohl militia, must fight his way across uncharted lands to recover the crystal and restore peace to the land. With special attack combos, elemental forces and powerful weapons, you'll be able to use A LOT of combos to battle your foes."
+}

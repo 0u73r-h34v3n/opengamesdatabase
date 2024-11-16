@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monkey Bar Games"],
+	"genres": ["Adventure"],
+	"name": "Dora the Explorer: Journey to the Purple Planet",
+	"publishers": ["Take-Two Interactive (EU)", "Global Star Software (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dora-the-explorer-journey-to-the-purple-planet",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Blast off for an outer space adventure with Dora and Boots to help them return their space creature friends to the Purple Planet!   Play as Dora and journey to exciting intergalactic locations including the Yellow Bubble Cave, Starry Sea and Moonbeam Mountain.  Interactive gameplay models the television show and is accessible for all ages.  Find out-of-this-world space objects including meteors, jet packs and collectible Space Gems."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Compilation", "RPG"],
+	"name": "Sega Ages 2500 Series Vol. 32: Phantasy Star Complete Collection",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This game is a compilation containing most of the games in the Phantasy Star series. The games are emulated, though there are handful of extra options to \"improve\" many of them, such as the ability to speed up the walking speed of the original Phantasy Star. It is missing any of the games released after the mid-1990s, so Phantasy Star Online and its sequels are not included. Likewise it does not contain the enhanced versions seen in [[Sega Ages 2500 Series Vol. 01: Phantasy Star: Generation:1]] and [[Sega Ages 2500 Series Vol. 17: Phantasy Star Generation:2]]. Although released exclusively in Japan most of the games included have English text versions available via options."
+}

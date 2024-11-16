@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Montreal"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tom Clancy's Splinter Cell: Double Agent",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tom-clancys-splinter-cell-double-agent",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Veteran agent Sam Fisher is back. But he's never faced an enemy like this before. To stop a devastating terrorist attack, he must infiltrate a vicious terrorist group and destroy it from within. For the first time ever, experience the relentless tension and gut-wrenching dilemmas of life as a double agent. As you infiltrate a terrorist organization in its American headquarters, you must carefully weigh the consequences of your actions. Kill too many criminals and you'll blow your cover. Hesitate too long and millions will die. Do whatever it takes to complete your mission, but get out alive."
+}

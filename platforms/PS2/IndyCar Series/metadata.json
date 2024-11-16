@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Brain in a Jar"],
+	"genres": ["Racing"],
+	"name": "IndyCar Series",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/589402-indycar-series/index.html",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/indycar-series",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The IndyCar Series takes you on a 15-race, single-seat championship that competes on speedways throughout the United States, with the Indy 500 as the highlight of its racing calendar. You'll customize your own character and team, and then hop into the driver seat of cars that reach speeds of more than 225 mph. Indy 500 winner, Eddie Cheever, Jr., teaches you some useful racing tactics to help you prepare for the big race. Modeled after real IndyCar Series drivers and teams, the game's AI tests if you have what it takes to survive the fast and furious world of car racing."
+}

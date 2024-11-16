@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Action", "Platformer"],
+	"name": "The Legend of Spyro: A New Beginning",
+	"publishers": ["Sierra Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/10/19/the-legend-of-spyro-a-new-beginning",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_spyronb_ps2",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-legend-of-spyro-a-new-beginning",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Legend of Spyro: A New Beginning explores the true origins of Spyro as you embark on a dangerous, combat-driven quest that will bring you face to face with the Dark Master's ultimate creation, Cynder. Experience the true power of the purple dragon as you unleash devastating fury attacks, upgradeable breaths and ground to aerial melee combos in a frenzied battle with hordes of menacing enemies and bone-chilling bosses. It's an epic and cinematic gameplay experience."
+}

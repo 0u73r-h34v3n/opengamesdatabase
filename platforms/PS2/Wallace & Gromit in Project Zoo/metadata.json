@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Frontier Developments"],
+	"genres": ["Action", "Platformer"],
+	"name": "Wallace & Gromit in Project Zoo",
+	"publishers": [
+		"Bam Entertainment (EU, US)",
+		"Pacific Century Cyber Works (JP)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wallace-gromit-in-project-zoo",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The diabolical penguin, Feathers, has imprisoned all the baby animals in a zoo, and it's up to Wallace and Gromit to rescue them. Charge through the gates as the resourceful and adventurous Gromit, and receive helpful hints from Wallace. This indomitable duo has an array of new inventions such as the Porridge Gun and the Banana Launcher, plus interesting contraptions built by Wallace himself. Gromit's break dancing, backflips, and sneaking moves will also prove valuable in your adventure."
+}

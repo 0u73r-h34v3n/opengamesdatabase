@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action"],
+	"name": "Super Monkey Ball Deluxe",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/super-monkey-ball-deluxe/ps2-693471",
+			"score": 7.9,
+			"max_score": 10
+		},
+		{
+			"name": "Gamespot",
+			"url": "https://www.gamespot.com/reviews/super-monkey-ball-deluxe-review/1900-6120496/",
+			"score": 7.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/super-monkey-ball-deluxe",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Super Monkey Ball Deluxe features 300 stages (114 from \"Super Monkey Ball,\" 140 from \"Super Monkey Ball 2,\" and 46 Deluxe-exclusive boards. In addition to new stages, Super Monkey Ball Deluxe offers a new Challenge mode, integrating varying skill settings (Beginner, Advanced, and Expert) into one fluid ramp up, rather than breaking them out as independent gameplay sections. There will also be additional stages in the story mode. All twelve of the party games from Super Monkey Ball 1 & 2 are also included. Play with up to 3 other friends (Depending on minigame). From racing to dogfights, or golf to soccer, the fun never ends!"
+}

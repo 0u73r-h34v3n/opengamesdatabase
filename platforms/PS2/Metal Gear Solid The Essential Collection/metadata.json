@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Collection"],
+	"name": "Metal Gear Solid: The Essential Collection",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Metal Gear Solid: the Essential Collection includes the original Metal Gear Solid for the PlayStation game console, the director's cut of Metal Gear Solid 2 and Metal Gear Solid 3 in a commemorative package with artwork by renowned Metal Gear Solid artist Yoji Shinkawa."
+}

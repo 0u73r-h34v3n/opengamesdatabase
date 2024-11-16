@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Sports"],
+	"name": "World Tour Soccer 2002",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-tour-soccer-2002",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The world's most popular game strikes the pitch with more than 300 teams from throughout the world, including national teams like USA, England, Brazil, France, and Japan and international clubs like Manchester, Leeds, and Liverpool, plus powerhouse clubs from the past. Battle for victory in stadiums filled with passionate fans as they support their team with electrifying chants while waving their club and country flags."
+}

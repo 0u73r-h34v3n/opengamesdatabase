@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Final Fight: Streetwise",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fight-streetwise",
+			"score": 43,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The long-running Final Fight series returns for another go with Final Fight: Streetwise. You can play as Kyle, the brother of Cody from the original series. When you find that Cody is in trouble, you must roam the streets of Metro City until the mystery is solved. Final Fight: Streetwise is a third-person game that stays true to its beat-'em-up roots but adds light role-playing elements and minigames to the fray as well. A respect system has been added so that your decisions affect how characters in the world react and relate to you."
+}

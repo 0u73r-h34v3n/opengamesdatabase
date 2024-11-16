@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tate Interactive"],
+	"genres": ["Sports"],
+	"name": "My Horse & Me 2",
+	"publishers": ["Atari"],
+	"regions": ["PAL"],
+	"synopsis": "Packed with exciting new features, brand new graphics and animations, and an engrossing storyline, horse sports fans will be treated to the most complete equestrian experience and the most realistic horse simulation ever seen in a game. My Horse and Me: Riding for Gold will let players live the ultimate bond between them and their horse. The My Horse and Me series boasts the exclusive worldwide license from the F&eacute;d&eacute;ration Equestre Internationale (FEI), the world's leading horse sports organisation."
+}

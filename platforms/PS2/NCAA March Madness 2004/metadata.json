@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["NuFX"],
+	"genres": ["Sports"],
+	"name": "NCAA March Madness 2004",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-march-madness-2004",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA March Madness 2004 storms the court with new schools, smoother control, and a deep Dynasty Mode.  Take your school's team through the Maui Invitational preseason tournament all the way to the Big Dance.  The unique, fast-paced college game comes to life with players applying full-court pressure \"D,\" diving on loose balls, and throwing it down big-time.  You can even hoop it up in an online tournament.  NCAA March Madness 2004 delivers the strategy, emotion, and passion that is college basketball."
+}

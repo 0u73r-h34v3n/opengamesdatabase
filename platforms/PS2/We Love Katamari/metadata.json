@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Now Production"],
+	"genres": ["Action", "Puzzle"],
+	"name": "We Love Katamari",
+	"publishers": [
+		"Namco (JP, US, AU)",
+		"Electronic Arts (EU)",
+		"Bandai|Namco Bandai Games (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/we-love-katamari",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The unique and bizarre gameplay of Katamari Damacy returns in the sequel, We Love Katamari. Your goal is to roll up large balls of anything and everything that that you can find so that you may replace the stars in the universe that were accidentally destroyed. We Love Katamari now includes both cooperative and competitive multiplayer modes."
+}

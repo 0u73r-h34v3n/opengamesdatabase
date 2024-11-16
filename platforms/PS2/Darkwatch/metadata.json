@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Moon Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Darkwatch",
+	"publishers": ["Capcom (US)", "Ubisoft (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/darkwatch",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Darkwatch: Curse of the West blends vampire horror with western genres.  Darkwatch is a secret strike-force that has a protected man from evil since the dawn of civilization.  You play its newest and deadliest agent, Jericho Cross, an outlaw gunslinger hunting the vampire that bit him.  Blast your way through an American frontier overrun by the undead using your arsenal of powerful assault vehicles, enhanced versions of Western weapons, supernatural vampire abilities, and your trusty undead horse.   In this frightening version of the Wild West, you're never safe."
+}

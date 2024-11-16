@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tri-Ace"],
+	"genres": ["Action", "RPG"],
+	"name": "Radiata Stories",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/radiata-stories",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Radiata Stories is a fantasy role-playing game set in a world where humans and fairies have peacefully coexisted. Now a war has broken out, and you must guide two young protagonists in a mission to save Radiata from destruction. Combat features a real-time link system in which multiple characters can combine abilities to form more powerful attacks. Radiata Stories also features an interactive environment and more than 175 characters that you can recruit to join and help you on your quest."
+}

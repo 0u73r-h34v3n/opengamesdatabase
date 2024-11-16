@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Compilation"],
+	"name": "Sega Ages 2500 Series Vol. 28: Tetris Collection",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A collection of the three Sega arcade Tetris games; Tetris, Flash Point and Bloxeed, and the collection exclusive game Tetris New Century."
+}

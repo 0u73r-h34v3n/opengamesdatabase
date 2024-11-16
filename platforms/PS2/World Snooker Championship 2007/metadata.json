@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blade Interactive"],
+	"genres": ["Sports"],
+	"name": "World Snooker Championship 2007",
+	"publishers": ["Sega|Sega Europe (EU)", "THQ (AU)"],
+	"regions": ["PAL"],
+	"synopsis": "Chalk up a cue stick and rack up a round of either eight-ball or nine-ball against an array of the world's best pool players this Fall. Gamers can create their own pool player or play as one of the world's top pros in over 10 officially licensed pool tournaments including the Mosconi Cup, World Cup, and U.S. Open. Players can test their versatility in Golden Cue Mode by challenging other pro players to games of eight-ball, nine-ball, and other cuesports within the same tournament. Pool sharks can showcase their favorite crowd-pleasing skills in the World Trickshot Championship from a vast selection of trickshots."
+}

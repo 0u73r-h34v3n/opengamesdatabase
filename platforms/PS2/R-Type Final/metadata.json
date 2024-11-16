@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Irem"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "R-Type Final",
+	"publishers": ["Irem (KO, JP)", "Eidos Interactive (US)", "Metro3D (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/535/535996.html",
+			"score": 8.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/r-type-final",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The classic 1987 arcade shooter gets a complete makeover in R-Type Final.  While it does include all-new features, such as the Force System and AI Mode, it still retains some of the classic gameplay that started it all.  Use the Force System to power-up your ship and battle against the evil Bydo.  Over 100 ships are available for you to choose from and customize.  Save your ships on a memory card via AI Mode and battle head-to-head against the computer or your friend's machines."
+}

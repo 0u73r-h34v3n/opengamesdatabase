@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Action", "RPG"],
+	"name": "Phantasy Star Universe",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/phantasy-star-universe",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/phantasy-star-universe-review/1900-6161046/",
+			"score": 6.8,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/11/14/phantasy-star-universe-review",
+			"score": 5.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Phantasy Star Universe offers two complete RPG experiences - a single-player action adventure spanning multiple planets, and a robust online multi-player component. The game offers long-time fans the epic experience they have been clamoring for. The solo adventure features more than 40 hours of gameplay, an emotionally engaging story, traditional cut scenes, and strong character development. The title's hero is Ethan Waber, a 17-year old cadet intent on saving his sister, who is living on a planet under siege by mysterious life forces called THE SEED. In Online Mode, players are given the opportunity to create their own characters from a range of races, and they get to explore all three planets in the Grarl solar system. Fans can travel with a squad of other adventurers, enter urban sprawls teeming with hundreds of other players, and build their avatars into powerful warriors."
+}

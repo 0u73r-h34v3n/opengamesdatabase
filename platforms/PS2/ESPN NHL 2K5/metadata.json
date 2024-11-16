@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "ESPN NHL 2K5",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nhl-2k5",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN NHL 2K5 continues the ESPN NHL series by introducing a bevy of new features. The gameplay, presentation, and graphics from last year's installment have been enhanced in the sequel. This time, you can use improved checks and defensive maneuvers to get even more physical with your hockey players. An enhanced ESPN presentation introduces cutscenes from the locker room and includes statistic-laden overlays, crowd chants, and more. You can also take on your friends in the all-new Party mode, and you can compete in online tournaments."
+}

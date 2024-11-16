@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WideScreen Games"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Airborne Troops: Countdown to D-Day",
+	"publishers": ["Mud Duck Productions (US)", "Playlogic (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/airborne-troops-countdown-to-d-day",
+			"score": 39,
+			"max_score": 100
+		}
+	],
+	"synopsis": "On a mission to drop two secret agents into occupied France during WWII, the sergeant's aircraft is shot down leaving one of his agents seriously wounded. It's now the sergeant's duty to replace the ailing agent and complete the stealth missions himself. As the sergeant, you'll take part in commando missions based on real events and places, which were re-created from archives and historical documents. The action is a mix of intense gunfights and stealth elements, with paratroopers equipped with authentic uniforms and weapons."
+}

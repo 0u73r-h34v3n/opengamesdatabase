@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hypnotix"],
+	"genres": ["Sports"],
+	"name": "Outlaw Tennis",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/697/697496.html",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/outlaw-tennis",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step onto the tennis court with the cast from the Outlaw series of games. You can choose one of 16 playable characters with different attributes, and then you can participate in six gameplay modes, including exhibition, tour, and drills. As in previous Outlaw games, Outlaw Tennis features a fighting system that lets you beat up your opponents to gain an advantage. You can play in both singles and doubles matches in several match modes, such as hot potato, casino, baseball, and cash zones."
+}

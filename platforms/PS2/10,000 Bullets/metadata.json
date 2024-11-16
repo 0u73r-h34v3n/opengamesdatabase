@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blue Moon"],
+	"genres": ["Action", "Adventure"],
+	"name": "10,000 Bullets",
+	"publishers": ["Taito Corporation (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "10,000 Bullets follows Crow, a hitman living in Ireland who works for the Rome-based crime syndicate known as the Tonio Family. Crow possesses the special \"gunslinger\" ability, which allows him to slow down time. He inherited this trait from his late mother, a powerful fortune teller who was murdered when Crow was very young. After being taken in by mob boss Papa Tonio, Crow is taught to optimize his abilities by a fellow hitman named Judas, a fugitive from France. Crow hopes to one day exact revenge on the person responsible for his mother's death. The protagonist is partnered with the young Alice, an Englishwoman of German descent fleeing custody after the death of her military officer grandfather."
+}

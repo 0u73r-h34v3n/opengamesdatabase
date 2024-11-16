@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 2005",
+	"publishers": ["Electronic Arts (EU)", "Electronic Arts|EA Sports (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fifa-soccer-2005",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "FIFA Soccer 2005 gives you more control than ever with improved button and control sensitivity and an intuitive Off the Ball Control. Now you can take command of players not in possession of the ball by calling in tackles, jostling for space, and sending your teammates on runs as you control the pitch. With more than 350 official team and league licenses from around the world, an enhanced Career mode, and an improved broadcast, FIFA Soccer 2005 gives you a complete and authentic soccer experience."
+}

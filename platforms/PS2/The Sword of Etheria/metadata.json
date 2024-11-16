@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Fighting"],
+	"name": "The Sword of Etheria",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "http://www.eurogamer.net/articles/r_swordofetheria_ps2",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Sword of Etheria centres on a party of three warriors who are charged with repelling an invasion by a race of evil Gods. Players control a master swordsman called Feel, who must make his way through a series of free-roaming 3D worlds, doing battle with whatever misshapen monsters he encounters. He is assisted throughout the game by the CPU-controlled Armilla and Leon, the former a vampiric heroine capable of leaping huge distances, while Leon is a powerful brawler who prefers to use his fists than weapons."
+}

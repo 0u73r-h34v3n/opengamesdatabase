@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Gregory Horror Show",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Welcome to Gregory House. We do hope you enjoy your stay...Have you noticed that nothing is quite what it seems? That's because this house is seriously haunted and the only way out is by collecting every lost soul that litter the many hallways. Unfortunately this isn't as easy as it sounds and you'll be dong well just to stay alive and check out. Oh, and be warned: keep your eyes open for the evil Nurse Katherine. She is very scary and will do anything to extend your stay..."
+}

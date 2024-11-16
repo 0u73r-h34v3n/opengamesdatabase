@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Runtime"],
+	"genres": ["RPG"],
+	"name": "RPG Maker 3",
+	"publishers": ["Enterbrain (JP)", "Agetec (US)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rpg-maker-3",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "RPG Maker 3   The Easiest Way to Make a Game. Period.  A dream tool for budding video game designers, RPG Maker 3 offers the most advanced game creation software available, allowing anyone to create a game--even a child! Allow your imagination to run wild...then let the software do the rest!  Create an entire world in a snap! Create beautiful 3D environments by simply drawing them in 2D and letting the software turn them into fully landscaped worlds!  Designing dungeons has never been so simple! Designing complex dungeons is as easy as drawing straight lines on a piece of paper. Drop in traps, doors and stairs, and you have a fully functioning dungeon!  Set-up exciting battles! Tons of monsters and characters with over 3000 animations, weapons, magic and skills for setting up exciting battles!  Layout towns in real-time! Populate your towns with buildings, objects and characters all in real-time as you set up events on the fly!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Argonaut Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Bionicle",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/bionicle",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bionicle puts the elemental powers of the Toa at your fingertips to battle the forces of evil. Summon blasts of fire, ice, water, stone, earth, and air in six island environments. With Toa energy, you can snowboard down Mount Ihu, surf through lava rapids, and race through Pohatu's desert. Your path takes you through jungles, mountains, and lakes, and ends in Makuta's lair. It's up to you to defeat the evil spirit and stop his Bohrok from devouring all of the island's resources."
+}

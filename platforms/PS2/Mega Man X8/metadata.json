@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Valuewave|Valuewave Co.", "Ltd."],
+	"genres": ["Action", "Platformer"],
+	"name": "Mega Man X8",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/12/03/mega-man-x8",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mega-man-x8",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mega Man and his allies, Zero and Axl, team up and head to the moon in a mission to defeat the enemy and save mankind. As any one of these three characters, you must successfully jump, attack and use new weapons to gain access to new areas. Each area contains different challenges that help you build and acquire skills. Fight your way through 12 stages with settings ranging from space stations to lunar colonies and then replay the levels to discover new subquests."
+}

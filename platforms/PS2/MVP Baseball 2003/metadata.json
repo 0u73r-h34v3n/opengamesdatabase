@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "MVP Baseball 2003",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mvp-baseball-2003",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This year's installment of MVP Baseball gives you more control over the game than ever before.  MVP Baseball 2003 features a more intuitive pitching and batting system, picture-in-picture base-running, and an all-new throw meter in addition to new player animations, franchise mode play, and deeper gameplay.  Experience a robust Franchise mode, which includes rookie drafts, player development, career-ending injuries, and hirings/firings.  The game also provides expert advice from leading MLB players Torii Hunter, Trot Nixon, Eric Chavez, and Tim Hudson.  This is your chance to showcase your baseball skills."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zipper Interactive"],
+	"genres": ["Action", "Shooter"],
+	"name": "SOCOM: U.S. Navy SEALs",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/socom-us-navy-seals",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You are part of the Navy's elite sea, air, and land force in SOCOM: U.S.  Navy Seals.  As an elite SEAL commander, your team has been called upon to fight terrorists in 12 of the most deadly operations ever, including ambushes, demolitions, and hostage rescue.  Battle lethal enemies in single-player missions, or match up against as many as 16 other players in online multiplayer firefights.  With more than 30 weapons, superior intelligence, intense training, and unparalleled skills and tactical maneuvers at your disposal, it's up to you to protect freedom wherever it is in danger."
+}

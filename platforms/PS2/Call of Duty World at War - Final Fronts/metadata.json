@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Call of Duty: World at War - Final Fronts",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/call-of-duty-world-at-war/ps2-14222040",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/call-of-duty-world-at-war---final-fronts",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Developed exclusively for the PlayStation 2 computer entertainment system, this game offers a companion experience to Call of Duty: World at War, featuring its own unique set of missions, engagements and challenges that are set within the Pacific and European campaigns through many of the pivotal battles that led to the end of the world's greatest war."
+}

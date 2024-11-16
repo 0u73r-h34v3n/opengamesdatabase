@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Activision"],
+	"genres": ["Action"],
+	"name": "Ice Age: Dawn of the Dinosaurs",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/articles/100/1002216p1.html",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ice-age-dawn-of-the-dinosaurs",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ice Age: Dawn of the Dinosaurs reunites fans with Scrat, Sid, Manny and Diego in an all-new quest based on the upcoming film from Twentieth Century Fox. As the unlikely herd travels across the tundra and beyond, they stumble upon another world - a lush Dinosaur World teeming with jungles, mysterious plants, fierce dinosaurs, wild new adventures and several new friends. Taking on the role of more than six playable characters, including everyone's favorite Ice Age friends and newly introduced characters, players master their unique skills and abilities across more than 15 action-packed levels. In addition to the expanded features of the single-player gameplay, for the first time in an Ice Age game, players can team up with friends and family in eight competitive multiplayer mini-games. Experience continuously changing gameplay through more than 15 levels - Every level presents new and exciting challenges as players learn and master each character's abilities in order to defeat enemies, traverse dangerous landscapes, avoid obstacles and escape from perilous situations."
+}

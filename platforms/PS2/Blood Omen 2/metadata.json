@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Adventure"],
+	"name": "Blood Omen 2",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/blood-omen-2-legacy-of-kain/ps2-16188",
+			"score": 7.4,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/blood-omen-2-review-playstation-2/1900-2858657/",
+			"score": 7.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/blood-omen-2",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Blood Omen 2 puts you in the role of the vampire Kain as he searches for his slain brethren. You'll move through crowds while cloaked in stealth, feed on the peasant herds, and use mind control to overcome vampire-proof inventions. With each success, you gain dark powers that give you access to treacherous new areas and help you fight stronger enemies. As you develop your vampire skills, you'll unfold the continuing epic of Nosgoth and Kain's attempts to rule over the realm ."
+}

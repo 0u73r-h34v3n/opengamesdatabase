@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Action", "Platformer"],
+	"name": "Sonic Heroes",
+	"publishers": ["Sega (JP, US, EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/sonic-heroes/reviews/",
+			"score": 6.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sonic-heroes",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sonic Heroes brings the Sonic series to the PS2 and Xbox for the first time.  Dr.  Eggman is causing havoc again and it's up to you to maneuver a team of three Sonic characters through massive levels.  All 12 characters--divided into Team Sonic, Team Dark, Team Rose and Team Chaotix--have their own unique strengths, so choose your teams wisely.  Find the best combination to complete missions full of enemies, puzzles, and huge environments.  No matter what team you choose, the only direction is forward and the only way to get there is fast."
+}

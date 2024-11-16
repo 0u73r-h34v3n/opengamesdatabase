@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Garden"],
+	"genres": ["Simulation"],
+	"name": "Air Ranger: Rescue Helicopter",
+	"publishers": ["ASK (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "An exciting challenge for all budding aviators, Air Ranger Rescue Helicopter puts you in the role of Kane, a dedicated rescue pilot. Four enormous stages and eight types of rescue are on offer as you - and your brave colleagues, Bob, Matilda and Ivan - try to avert disaster and save the day. From evacuating runaway trains to extinguishing an inferno from the air, you will be stretched to your limit in this exciting helicopter sim."
+}

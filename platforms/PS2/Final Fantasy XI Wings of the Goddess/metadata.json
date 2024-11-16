@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Wings of the Goddess",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"synopsis": "Experience the next chapter in the immersive and ever expanding world of Vana'diel in Final Fantasy XI: Wings of the Goddess, a content-rich expansion pack that brings exciting new features to the world of Final Fantasy XI. Delve into new quests, meet new players, view new sights and experience the fourth chapter in the award-winning MMORPG that has a community of more than 500,000 active subscribers and over 1.7 million characters from around the world. Final Fantasy XI is the only title capable of triple-platform simultaneous multiplayer, allowing players to take up arms together on the PlayStation2 computer entertainment system, Windows and Xbox 360 video game and entertainment system from Microsoft, whether they are in North America, Europe or Japan."
+}

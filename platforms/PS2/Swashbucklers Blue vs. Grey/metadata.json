@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Akella"],
+	"genres": ["Action", "Adventure"],
+	"name": "Swashbucklers: Blue vs. Grey",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/swashbucklers-blue-vs-grey",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Swashbucklers, players will become the captain of a privately owned vessel able to sail freely from the southern coasts of the United States to the North Caribbean and engage in naval combat and strong on-foot gameplay while slashing through various locations and confronting enemies.  With an advanced role-playing system, gamers will be able to develop and master skills, weapons and moves while upgrading your ship at the same time."
+}

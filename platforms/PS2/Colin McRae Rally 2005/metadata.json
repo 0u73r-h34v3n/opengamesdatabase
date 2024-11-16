@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "Colin McRae Rally 2005",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/pc/colin-mcrae-rally-2005",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The 2005 installation of the McRae franchise has over 70 stages spread over nine countries: Australia (loose gravel), Japan (tarmac), Finland (gravel), Greece (rough rocky gravel), UK (tarmac, mud, and gravel), Spain (smooth tarmac), USA (gravel/dusty tarmac), Sweden (snow and ice), and newcomer Germany (abrasive tarmac/light gravel). There are over 30 cars available, including Ford Focus WRC '01, Subaru Impreza WRX Sti '04 (which is featured on the front cover), Citroën Xsara WRC '04, Peugeot 206 WRC2003, and Mitsubishi Lancer EVO VIII (8). There is also a revised graphics / damage engine that enables paint scratches on the car, and a new 'career' mode where the player starts out in the lower club leagues and works their way up to compete with Colin McRae in his 2004 Dakar Rally Nissan Pick-Up. In 'Championship' mode the player competes as Colin himself competing in 6 Rallies using any 4WD car."
+}

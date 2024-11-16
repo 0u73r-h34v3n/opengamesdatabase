@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Wow Entertainment"],
+	"genres": ["Sports"],
+	"name": "Sega Bass Fishing Duel",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sega-bass-fishing-duel",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sega Bass Fishing Duel will knock you overboard with heated two-player competition. And when you finally run out of friends to beat, you can tackle the CPU opponents until no one stands between you and the Tournament Trophy. This attitude may not make you popular around the watering hole, but it's lonely at the top, buddy."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Fu-Qi"],
+	"genres": ["RPG"],
+	"name": "Houshin Engi 2",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A young orphan named Ziya is swept away from his mundane village life when he and his childhood friend investigate a mysterious gate. There, they find an unconscious girl named Li Lan, whose conflict inevitably drags the young men into an adventure the spans throughout the human world and celestial realms. "
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Racing"],
+	"name": "NASCAR Thunder 2003",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU)"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/09/19/nascar-thunder-2003-3",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-thunder-2003",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get behind the wheel of the world's tightest, sleekest stock cars and get ready for an intense ride.  NASCAR Thunder 2003 elevates the series to another level with deeper modes, new tracks, and a greater sense of speed.  Experience life in the fast lane through 20 seasons of Career mode, in which you must compete for top sponsors, the best crewmembers, and the latest racing technology.  All 23 Winston Cup tracks and the Daytona Beach road course can be raced with 14 tracks featuring both day and night racing.  NASCAR Thunder 2003 brings the speed and precision of NASCAR to your fingertips."
+}

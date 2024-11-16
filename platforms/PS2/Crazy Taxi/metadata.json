@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acclaim|Acclaim Studios Cheltenham"],
+	"genres": ["Racing"],
+	"name": "Crazy Taxi",
+	"publishers": ["Acclaim (US, EU)", "Sega (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crazy-taxi",
+			"score": 80,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/crazy-taxi-review/1900-2716868/",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/05/29/crazy-taxi-3",
+			"score": 7.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "As a fearless cab driver with attitude, your goal is to rack up the mega-bucks before your shift ends.  It's a race against the clock as you pick up passengers and white-knuckle it through busy streets and back alleys to their various destinations.  To keep that meter collecting cash, you've gotta take the fastest route possible, even if it means bending the traffic laws--just a little.  So get a grip on the wheel, sharpen your senses, and don't lose your cool."
+}

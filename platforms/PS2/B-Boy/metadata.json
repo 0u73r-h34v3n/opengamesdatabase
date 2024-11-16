@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FreeStyleGames"],
+	"genres": ["Music"],
+	"name": "B-Boy",
+	"publishers": [
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Evolved Games (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/b-boy",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Whether you're a top rock master, a power move monster or you just can't stop freezing, B-Boy will have you breaking some serious dance moves. Developed in combination with Crazy Legs and DJ Hooch, B-Boy uses a dynamically controlled fighting system to help you battle the best b-boys on the planet. Over the course of an in-depth \"B-Boy Life\" mode, players build up a crew and battle against real life superstar b-boys including in-game host Crazy legs, the legendary and original b-boy, who worked closely with the development team to ensure the game's authenticity."
+}

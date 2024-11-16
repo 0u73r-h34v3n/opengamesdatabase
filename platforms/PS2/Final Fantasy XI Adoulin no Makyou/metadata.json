@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Adoulin no Makyou",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Final Fantasy XI: Adoulin no Makyou is the fifth full expansion pack for [[Final Fantasy XI]]. It is set in the western continent of Ulbuka and features new jobs, story, areas, quest, and gameplay systems. "
+}

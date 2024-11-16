@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Brains"],
+	"genres": ["Sports"],
+	"name": "Backyard Sports Baseball 2007",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/backyard-sports-baseball-2007",
+			"score": 27,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Create your own team, and control every wacky pitch, clutch hit, and sprint for home. With players like Alex \"A-Rod\" Rodriguez, secret pros to unlock and amazing power-ups, kids can play big-league ball right in their own backyard. An all-star MLB lineup: Carlos Delgado, Alfonso Soriano, Nomar Garciaparra, Alex Rodriguez, Ichiro, Albert Pujols, Eric Gagne, Pedro Martinez, Ivan Rodriguez and Vladamir Guerrero."
+}

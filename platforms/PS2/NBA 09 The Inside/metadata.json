@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA San Diego Studios"],
+	"genres": ["Sports"],
+	"name": "NBA 09 The Inside",
+	"publishers": ["Sony|SCEA"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-09-the-inside",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "True NBA action once again returns to the courts with NBA 09 The Inside for the PlayStation®2 computer entertainment system. Featuring an entirely new installment of the acclaimed \"The Life\" series, NBA 09 The Inside once again delivers its exclusive and unique story mode to provide players with an insider look at life in the league - both on and off the court. For this year, The Life will allow players to select among three different storylines, each based on individual player positions, to provide multiple perspectives on life in the NBA.  NBA 09 The Inside delivers all-new play-by-play commentary as well as improved artificial intelligence (A.I.), an updated user interface, and refined gameplay mechanics to enhance the overall gameplay experience. Returning features include the Smart Shot Indicator, to provide a visual gauge of defensive impact, and the Power Boarding System, an element that offers a 3D approach to position for rebounds. Additionally, \"Showtime Gameplay\" is back, providing players the opportunity to manage and balance a variety of game time elements including temperamental crowds, eager teammates, and individual basketball skills."
+}

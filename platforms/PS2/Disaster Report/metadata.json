@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Irem"],
+	"genres": ["Action", "Adventure"],
+	"name": "Disaster Report",
+	"publishers": [
+		"Irem (JP)",
+		"Agetec (US, EU, AU)",
+		"Granzella|Granzella Inc. (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/914509-disaster-report/index.html",
+			"score": 71,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/disaster-report",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Disaster Report places you on an island that is continually hit with severe aftershocks from a major earthquake. To survive the devastation, you'll build tools, drive vehicles, and use your compass. As a newspaper reporter stuck on the island, your objective is to escape, but not without uncovering the truth behind the city's destruction. You'll soon find out that the wrath of nature may be less dangerous than upsetting the status quo of the government."
+}

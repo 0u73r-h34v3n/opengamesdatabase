@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Platformer", "Adventure", "Horror"],
+	"name": "The Haunted Mansion",
+	"publishers": [
+		"TDK Mediactive (US)",
+		"Take-Two Interactive (EU)",
+		"Yuke's (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-haunted-mansion",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Disneyland attraction is making a video game appearance in The Haunted Mansion.  In the famous house of wall-to-wall creeps and hot-and-cold running chills, you play Zeke, a boy burdened with the unenviable task of putting 999 evil spirits to rest while trying to keep himself from becoming number 1000.  Inspired by the both the movie and the ride, Haunted Mansion's environments feature unique puzzles, secret passageways, and plenty of areas for you to run, jump, fight, and climb your way through the mansion. There's no turning back now."
+}

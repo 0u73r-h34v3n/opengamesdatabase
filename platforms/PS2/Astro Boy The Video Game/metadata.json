@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Platformer", "Shooter"],
+	"name": "Astro Boy: The Video Game",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/astro-boy-the-video-game",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Astro Boy: The Video Game, players become the iconic hero, Astro Boy, and take to the streets and skies on an epic adventure to save Metro City from the clutches of the evil President Stone and his robot army. Using Astro's entire arsenal of iconic weapons and abilities--finger lasers, arm cannon, butt machine guns, and drill attacks--players will battle hordes of robot enemies and colossal bosses including some never-before-seen enemies across Metro City and the mysterious Surface. Using an intuitive combat system that adds depth to gameplay, players will experience classic platform action and exhilarating flight-combat levels as they use Astro's unique rocket boosters to hover, avoid enemies, and zip out of the way of danger."
+}

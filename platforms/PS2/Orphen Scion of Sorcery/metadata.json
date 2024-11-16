@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shade"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Orphen: Scion of Sorcery",
+	"publishers": ["Kadokawa (JP)", "Activision (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2000/10/23/orphen-scion-of-sorcery",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/orphen-scion-of-sorcery",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As Orphen, the powerful but lazy sorcerer, you're always thought being a hero was too much work. But now you don't have a choice. Harnessed into a risky adventure, you must use your dark powers to help your desperate companions resolve their unique quests."
+}

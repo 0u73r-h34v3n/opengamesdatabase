@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pipeworks Software|Pipeworks Software", "Inc."],
+	"genres": ["Action", "Fighting"],
+	"name": "Godzilla: Save the Earth",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/godzilla-save-the-earth",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The planet is under siege and it's up you to protect it. You must roam the earth, battling giant monsters, an alien invasion, and ongoing military attacks. This sequel to Godzilla: Destroy All Monsters Melee lets you rampage through the city as Godzilla, SpaceGodzilla, Mothra, Jet Jaguar, and one of 15 other monsters. This time, you can take your rage online in four-player melees. In Save the Earth, the fate of Tokyo, San Francisco, New York, and other locations is in your hands."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Sauce"],
+	"genres": ["Racing"],
+	"name": "Jeep Thrills",
+	"publishers": ["DSI Games (US)", "Zoo Digital Publishing (EU, AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/08/18/jeep-thrills-review",
+			"score": 2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/jeep-thrills",
+			"score": 24,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jeep, the undisputed King of off road adventure, invites you to climb into the driver's seat and experience racing like never before. 18 customizable Jeep vehicles (including futuristic concept cars!), 35 intense tracks, and one main objective: conquering the terrain and the elements and owning the planet. From the jungles of Central America to the frozen Alaskan tundra, this is adventure racing like it ought to be. Jeep Thrills! And everyone else? Get left behind."
+}

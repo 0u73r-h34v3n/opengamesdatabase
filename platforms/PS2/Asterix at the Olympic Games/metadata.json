@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Etranges Libellules"],
+	"genres": ["Action", "Sports"],
+	"name": "Asterix at the Olympic Games",
+	"publishers": ["Atari"],
+	"regions": ["PAL"],
+	"synopsis": "Characters within the game are Asterix, Obelix and of course the faithful hound, Dogmatix who travel Greece to find their love-stricken friend, Alafolix, who is in need of help. Asterix and his friends enter the fray in their own inimitable style, coming head to head with Brutus, his muscle-bound champion, and of course their ultimate archenemy, the mighty Julius Caesar, so there's quite some adventuring to be done as you can see."
+}

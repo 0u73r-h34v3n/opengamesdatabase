@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SystemSoft"],
+	"genres": ["Turn-based strategy"],
+	"name": "Dai Senryaku VII: Exceed",
+	"publishers": ["SystemSoft (JP)", "Valcon Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2008/01/10/dai-senryaku-vii-modern-military-tactics-exceed-review",
+			"score": 4.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dai-senryaku-vii-exceed",
+			"score": 43,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dai Senryaku: Exceed is a turn-based strategy game played on an assortment of hex-shaped maps, similar in design to early tabletop and computer war games. Players choose one of eight modern-era countries before waging war in a series of 25 missions, each offering multiple objectives and win conditions. The game includes Free Play, Mission, and Campaign modes, over 400 units and 100 maps in total, and multiple tutorials to help new generals learn the play mechanics."
+}

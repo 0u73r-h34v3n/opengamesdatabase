@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Collection"],
+	"name": "Karaoke Revolution Special Limited Pack Green Edition",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Karaoke Revolution: J-Pop Best Vol. 9]], [[Karaoke Revolution: Dreams & Memories]], [[Karaoke Revolution: Kissing Selection]] bundled with a microphone.}}"
+}

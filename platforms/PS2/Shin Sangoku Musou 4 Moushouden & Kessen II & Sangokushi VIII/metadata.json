@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Collection"],
+	"name": "Shin Sangoku Musou 4 Moushouden & Kessen II & Sangokushi VIII",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| Super Value Set Editions of [[Dynasty Warriors 4: Xtreme Legends]], [[Kessen II]], [[Romance of the Three Kingdoms VIII]].}}"
+}

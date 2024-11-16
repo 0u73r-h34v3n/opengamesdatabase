@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ivolgamus"],
+	"genres": ["RPG"],
+	"name": "Falling Stars",
+	"publishers": ["Nordcurrent (EU)", "Agetec (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/falling-stars",
+			"score": 32,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An ancient spirit has detected a dark power awakening in the peaceful world of Dazzleon. Realizing the impact this could have, it sends a young spirit, who takes over the body of a young girl named Luna. As Luna, your mission is to destroy evil and restore peace; however, this will not be an easy task. You'll have to complete various quests, participate in challenges, and train your pet for the ultimate battle against Luna's wicked uncle, Matt.   Falling Stars is a role-playing game that features an engrossing story with many hours of exciting and fun gameplay. Go on quests, play mini-games, and customize your character with a huge wardrobe of clothes. Fighting evil has never been so fashionable!"
+}

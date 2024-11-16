@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dimps Corporation"],
+	"genres": ["Action", "Fighting"],
+	"name": "Seven Samurai 20XX",
+	"publishers": ["Sammy Studios (JP, US)", "Sega|Sega Europe (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/seven-samurai-20xx-139568/ps2-552482",
+			"score": 6.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/seven-samurai-20xx",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by the classic samurai film, Seven Samurai 20XX engages players with an experience that combines intense melee-style samurai combat with an epic story that takes the film's timeless tale into the future.  The third-person action game features over 100 unique characters designed by comic and film artists.  Using a variety of swordplay styles, you will employ numerous single and double katana attacks and an arsenal of moves that grows with your mastery of the samurai way.  This is your chance to learn the ways of the samurai."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["RPG"],
+	"name": "Might and Magic: Day of the Destroyer",
+	"publishers": ["Imagineer"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The Destroyer is again walking the land. The legendary Planeswalker Escaton has been seen in Jadame, and the very elements themselves have felt his presence. In the four corners of the world, gates to the planes of Fire, Air, Earth and Water have opened and denizens of those realms are sweeping across the lands, devastating all in their path. Lead a band of rugged adventurers on a most perilous mission to save the kingdoms of ruin or watch as the lands are devastated forever."
+}

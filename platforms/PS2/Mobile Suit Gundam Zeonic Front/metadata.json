@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bec"],
+	"genres": ["Action"],
+	"name": "Mobile Suit Gundam: Zeonic Front",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/mobile-suit-gundam-zeonic-front/ps2-16456",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "IGN User score",
+			"url": "http://www.ign.com/games/mobile-suit-gundam-zeonic-front/ps2-16456",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mobile-suit-gundam-zeonic-front",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "For years you fought against the Zeon, and now you can fight as one. Mobile Suit Gundam: The Zeonic Front lets you both play as your worst enemy and control an elite mobile suit team. Set in the One Year War, you'll battle against the Earth Federation for independence and control of Earth territories. Control up to three attack teams per mission, and devise superior strategies against Earth Federation troops. As the Federation launches a massive counterstrike on Zeon-controlled territories, show Gundam that Zeon won't go down without a fight."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Media Works"],
+	"genres": ["Demo", "Tools"],
+	"name": "Dengeki PS2: PlayStation 2 Save Data Collection 2008",
+	"publishers": ["Media Works"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A continuation of [[Dengeki PS2: PlayStation 2 Save Data Collection 2007]] catalog the book contains tricks and glitches for PS, PS2, PSP and PS3 games, a games catalog and a save data CD."
+}

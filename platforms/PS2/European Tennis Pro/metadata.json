@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Magical Company|Magical Company (Mahou)"],
+	"genres": ["Sports"],
+	"name": "European Tennis Pro",
+	"publishers": ["Phoenix Games"],
+	"regions": ["PAL"],
+	"synopsis": "Easy to play, smooth animation, realistic ball physics, addictive action and great multiplayer options. Take it to the court and experience all the realism and authenticity of a real tennis match. Features:"
+}

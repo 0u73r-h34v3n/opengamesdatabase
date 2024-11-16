@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sucker Punch"],
+	"genres": ["Action", "Platformer"],
+	"name": "Sly Cooper and the Thievius Raccoonus",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (KO, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sly-cooper-and-the-thievius-raccoonus",
+			"score": 86,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2002/09/20/sly-cooper-and-the-thievius-raccoonus",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_slyraccoon_ps2",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/sly-cooper-and-the-thievius-raccoonus-review/1900-2881066/",
+			"score": 7.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Sly Cooper, the notorious international thief, is out to reclaim what is rightfully his. The family heirloom has been stolen and Sly wants it back. Get ready to infiltrate the most secure places in the world using a repertoire of sneaky moves. Tiptoe around spotlights, alarms, infrared lasers, and trip wires, while grabbing priceless jewels and emptying casinos. Stealth and smarts are all you need as you dodge security guards, run across rooftops, and escape with your tail intact."
+}

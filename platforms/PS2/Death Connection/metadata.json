@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Otomate"],
+	"genres": ["Visual Novel"],
+	"name": "Death Connection",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "On a rainy night, a woman brought a baby to a church in the country and left her to the priest. The priest named her Amelia and raised her as his own. Seventeen years later, Amelia's idyllic life in the same church will come to an end when group of gangsters suddenly appear at its door, and her fate will be unraveled when she receives a mysterious pendant after fleeing the gang."
+}

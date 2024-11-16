@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atelier-Sai"],
+	"genres": ["RPG", "Turn-based strategy"],
+	"name": "Sunrise World War",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Sunrise World War features characters from 39 different Sunrise anime series, such as Armored Trooper Votoms and The Big O. The battles are in full 3D, while the adventure and preparation sequences are in 2D. Planet Sunrise after the cause of the pillars of light have gone by the heroes. Even on Claudia continent, the days of peace were finally returning. But that doesn't last long. The Redros army, led by Binsbanker, makes a coup and declares war on the government. Using their advanced technology, The Redros forces open another dimension gate to the sea of clouds to bring war. "
+}

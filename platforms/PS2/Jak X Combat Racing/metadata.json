@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Naughty Dog"],
+	"genres": ["Racing"],
+	"name": "Jak X: Combat Racing",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCE Australia (AU)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/jak-x-combat-racing",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Jak is back in the 3D combat racing game Jak X: Combat Racing. After saving the world in Jak 3, Jak finds out he must save the world once again; this time, by entering a combat racing tournament. As Jak, you must compete in a handful of game modes while progressing through a nonlinear story. The game includes a variety of power-ups, tracks, and customization options. Multiplayer and online modes are also available."
+}

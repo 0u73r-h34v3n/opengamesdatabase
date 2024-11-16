@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rainbow Studios"],
+	"genres": ["Racing"],
+	"name": "Cars",
+	"publishers": [
+		"THQ (US, JP, EU, KO)",
+		"Sony|SCEA (US)",
+		"Sony|SCE Korea (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/cars-review/1900-6152707/",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2006/10/23/disneypixar-cars-the-video-game",
+			"score": 7.2,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cars",
+			"score": 71,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_cars_ps2",
+			"score": 4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Race to the finish line in Disney presents a Pixar film, Cars, the video game. Join Lightning McQueen as he trains in Radiator Springs for the upcoming Piston Cup race season. Play as your favorite characters in over 30 races and mini games. Explore the open world of Radiator Springs and Ornament Valley on your own or burn rubber and make your friends eat your dust in multiplayer mode."
+}

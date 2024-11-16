@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monster Games|Monster Games Inc."],
+	"genres": ["Racing"],
+	"name": "NASCAR Heat 2002",
+	"publishers": ["Infogrames"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nascar-heat-2002",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Burst through the smoke and debris and take the leader on high with the most realistic NASCAR game yet! All the thrill and tension of real NASCAR racing is on the track with NASCAR Heat 2002. Using the severe horsepower of the PlayStation 2 to recreate the racing sport down to the last detail, the heat is definitely on once this motor starts revving. The 2001 NASCAR Winston Cup season is brought to life with 26 real professional drivers, including 11 legends of the oval to race against in special Race the Pro challenges. Crank up the intensity with 36 Beat the Heat challenges that put you in tricky situations to race your way through. Play the full season or burn some road racing against a friend on one of 19 Winston Cup tracks. Everything about your auto is adjustable from the wheels and shocks to the grill tape, and you'll need all those expert tools to repair your car after it has sustained real-time damage, dents, scratches, and collisions!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "Crusty Demons",
+	"publishers": ["Deep Silver"],
+	"regions": ["PAL"],
+	"synopsis": "Crusty Demons is an extreme sports game based on the real-life stunt troupe of the same name. Motorized vehicles such as motorcycles and cars are used in performing tricks on ramps, half-pipes and over open areas. Large environments such as trailer parks and international cities like New York and Tokyo are available for the player to explore, do tricks and race."
+}

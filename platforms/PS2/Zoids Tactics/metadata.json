@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tomy Corporation"],
+	"genres": ["Turn-based strategy"],
+	"name": "Zoids Tactics",
+	"publishers": ["Tomy Corporation"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameFaqs User Ratings",
+			"url": "https://gamefaqs.gamespot.com/ps2/927508-zoids-tactics",
+			"score": 3.5,
+			"max_score": 5
+		}
+	],
+	"synopsis": "Released on the 11th of August, 2005, Zoids Tactics is a strategy RPG in which the player controls an army of Zoids and plays through the plot line. It is a PlayStation 2 port of Zoids Tactics for the i-mode, a Japanese mobile phone browser, which was released in May 2005."
+}

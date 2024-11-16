@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Brighton"],
+	"genres": ["Racing"],
+	"name": "ATV Quad Power Racing 2",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atv-quad-power-racing-2",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ATV: Quad Power Racing 2 is all about big tricks, big boots to the face, and big finishes.  As ten of the top pro riders in the world with real-life sponsors, you can race in 15 massive tracks and two freestyle arenas full of fast, edge-of-your-seat gameplay.  Fight your way to the finish with kick attacks, huge jumps, and power slides.  Get ready for this arcade-style ATV racer."
+}

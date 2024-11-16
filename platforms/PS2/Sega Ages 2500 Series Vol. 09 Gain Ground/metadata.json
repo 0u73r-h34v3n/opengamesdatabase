@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action"],
+	"name": "Sega Ages 2500 Series Vol. 09: Gain Ground",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Gain Ground became a sensation overnight as the newest human vs. Android competition. One day, though, the Mother Computer that controlled the androids went crazy and trapped spectators in the Coliseum. Join the group of skilled fighters who are trying to defeat the system, and save those innocent people from a fate worse than death!"
+}

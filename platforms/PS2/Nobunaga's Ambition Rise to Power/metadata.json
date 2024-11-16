@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RPG", "Simulation", "Turn-Based Strategy"],
+	"name": "Nobunaga's Ambition: Rise to Power",
+	"publishers": ["Koei (JP, US)", "Sony|SCEA (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nobunagas-ambition-rise-to-power",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In ''Nobunaga's Ambition: Rise to Power'', players will assume the role of Nobunaga, or of a rival warlord, in their quest to unite Japan under one rule. Packed with 7 dramatic scenarios - from the 1551 Struggle for Power to the events following Nobunaga's death in 1582, ''Nobunaga's Ambition: Rise to Power'' lets players embark on their quest from more than 300 different starting points."
+}

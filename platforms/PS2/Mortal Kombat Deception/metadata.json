@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Action", "Fighting"],
+	"name": "Mortal Kombat: Deception",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "https://www.gamespot.com/reviews/mortal-kombat-deception-review/1900-6109591/",
+			"score": 8.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mortal-kombat-deception",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mortal Kombat: Deception takes the series to the next level with multiple fatalities per character, interactive backgrounds, and new game modes. For the first time in the Mortal Kombat series, you can play a free-roaming Konquest mode, board games, and a puzzle game, in addition to the enhanced one-on-one fighting mode. Mortal Kombat: Deception supports online play for both the PS2 and Xbox Live and features online matches and tournaments as well as online gameplay capabilities for both the board game and puzzle modes."
+}

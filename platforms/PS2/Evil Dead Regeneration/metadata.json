@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cranky Pants Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Evil Dead: Regeneration",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/evil-dead-regeneration",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Evil Dead: Regeneration takes over where the film Evil Dead 2 left off. You can play as Ash, who has been committed to an insane asylum where a mad scientist is doing experiments with the Necronomican. With the help of some firepower and your new sidekick, a 3-foot tall \"deadite,\" you can battle the scientist's unholy creations and save civilization."
+}

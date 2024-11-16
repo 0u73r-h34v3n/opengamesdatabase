@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Point of View"],
+	"genres": ["Gambling"],
+	"name": "World Championship Poker 2: Featuring Howard Lederer",
+	"publishers": ["Crave (US)", "Oxygen Interactive (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-championship-poker-2-featuring-howard-lederer",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WCP 2 features Howard Lederer, Greg Raymer, Clonie Gowen, Amir Vahidi, Paul Darden, Robert Williamson III, Matt Savage, and Annie Duke. World Championship Poker 2 features a much more detailed one player game, where you now have to work your way up the ranks, starting in your mom's basement. Once you start winning and accumulating money, you can spend your winnings on increasingly better pads, and furnishings. Hit a losing streak, and you may have to hock your stuff to stay in the game. 14 types of poker are featured, including Texas Hold'em, Five Card Draw, Seven Card Stud and Pineapple."
+}

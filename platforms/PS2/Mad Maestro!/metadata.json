@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Desert Productions"],
+	"genres": ["Music"],
+	"name": "Mad Maestro!",
+	"publishers": ["Sony|SCEI (JP)", "Eidos Interactive (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/03/14/mad-maestro",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mad-maestro!",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The city has announced plans to destroy the concert hall! The hero Takt is a young conductor attempting to recruit the best musicians, from all walks of life to put on a MEGA-CONCERT to save the concert hall. In order to accomplish this, Takt must travel around the beautiful city making people happy with his music, and recruiting them for his orchestra. Once he's got his ensemble together, it's time for the big show. A musical extravaganza at the Symphony Hall. Perform perfectly, and you will save the hall, and keep music alive for generations to come. Hit a bad note, and you'll be looking for a new gig!"
+}

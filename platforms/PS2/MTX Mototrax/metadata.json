@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Left Field Productions"],
+	"genres": ["Racing"],
+	"name": "MTX Mototrax",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/915031-mtx-mototrax/index.html",
+			"score": 75,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mtx-mototrax",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Push your bike to the limit.  MTX: Mototrax challenges race against seven other riders, perform outrageous gravity-defying stunts, and develop a career as an motocross athlete.  Play as or against any of the 12 top riders, earning money from contest wins and sponsorships to spend on customizing your attributes, upgrading your equipment, or buying access to new environments.  If you think you're the best, prove it in the online multiplayer mode, which includes over 25 tracks.  Accept the MTX: Mototrax challenge to become the ultimate motocross racer."
+}

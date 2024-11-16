@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idea Factory"],
+	"genres": ["Turn-based strategy"],
+	"name": "Chaos Wars",
+	"publishers": ["Idea Factory (JP)", "O3 Entertainment (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/chaos-wars",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "An immersive tactical role-playing experience featuring your favorite characters from such games as Growlanser, Shadow Hearts, Gungrave, Spectral Force, and many others."
+}

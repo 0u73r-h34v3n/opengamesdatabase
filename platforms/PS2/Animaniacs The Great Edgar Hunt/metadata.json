@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warthog"],
+	"genres": ["Action", "Platformer"],
+	"name": "Animaniacs: The Great Edgar Hunt",
+	"publishers": ["Ignition Entertainment"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/animaniacs-the-great-edgar-hunt/",
+			"score": 7.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Animaniacs: The Great Edgar Hunt is a third-person action adventure, which brings the colourful and hysterical world of the Animaniacs wonderfully to life. Players must guide the Warner brothers and sister Wakko, Yakko and Dot through six levels in a quest to locate the hidden Edgar trophies. Each Animaniac has his or her own special abilities, and each must be used in order to fully explore the luscious landscapes. Puzzle elements are featured in the game along with ever-changing enemies and obstacles. Five incredible 'Pinky & The Brain mini-games vary the pace of the adventure, as they explore the huge Animaniacs world, which is populated with dozens of characters from the cartoon."
+}

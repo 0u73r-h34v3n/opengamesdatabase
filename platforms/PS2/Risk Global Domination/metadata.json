@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cyberlore Studios"],
+	"genres": ["Board", "Turn-based strategy"],
+	"name": "Risk: Global Domination",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/risk-global-domination",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can play anyone, anytime, anywhere with Risk, the game of global domination.  Using the same hands-on military planning found in the original Risk board game, players now see battles come to life.  With each battle comes the chance for victory and advice from historic military leaders as you earn medals and special bonus content for strategic accomplishments.  This product will deliver a truly unique way to play the Risk game and provide an ideal social experience for up to six players in multiplayer mode and online."
+}

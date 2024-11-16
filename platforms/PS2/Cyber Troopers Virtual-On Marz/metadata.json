@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hitmaker"],
+	"genres": ["Action", "Fighting"],
+	"name": "Cyber Troopers Virtual-On Marz",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/virtual-on-marz/ps2-489830",
+			"score": 4.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/virtual-on-marz",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Corporate crime has plunged the Planet Mars into an explosive war zone overrun with towering mech warriors known as Virtuaroids. As a member of the Marz Special Investigation Unit, you'll pilot your war machine into the heart of intense battles, unleashing a hail of grenades, air mines, lasers, and missiles on enemies. Your missions include defeating enemy Virtuaroids and gigantic bosses, attacking enemy locations and convoys, and fighting alongside other Virtuaroids in battle. Discover the true identity of the mysterious forces that have infiltrated Mars, and restore peace on the planet."
+}

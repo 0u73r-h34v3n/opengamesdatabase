@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["RPG"],
+	"name": "Final Fantasy XII",
+	"publishers": ["Square Enix"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/459841-final-fantasy-xii/index.html",
+			"score": 91,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fantasy-xii",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The story of FINAL FANTASY XII takes place in a world called Ivalice, in an age when magic was commonplace and airships plied the skies, crowding out the heavens. War was on the horizon. Seeking to strengthen its base of power, the great Archadian Empire had been invading and subjugating its neighboring kingdoms one by one. The small Kingdom of Dalmasca was one such kingdom. Our story follows Vaan, a young man living on the streets of Dalmasca's Royal City of Rabanastre, the Princess Ashe, the sole remaining heir to the Dalmascan throne who had been given up for missing, as well as Vaan's friend Penelo, the sky pirate Balthier, Balthier's partner Fran and many more on an adventure through Ivalice that traces the mysteries behind the Archadian Empire's invasion."
+}

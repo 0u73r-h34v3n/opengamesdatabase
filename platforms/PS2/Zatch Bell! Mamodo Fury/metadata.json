@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mechanic Arms"],
+	"genres": ["Action", "Fighting"],
+	"name": "Zatch Bell! Mamodo Fury",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/zatch-bell!-mamodo-fury",
+			"score": 40,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players join Zatch, Kiyo and other characters from the hit manga and TV series Zatch Bell! as they battle to become the mighty mamodo king. This time, up to four players can choose from more than 20 different playable teams. With three gameplay modes including Story Mode, VS mode and Arcade Mode, players can experience all the action in environments faithful to the TV series. All voice acting is even done by the U.S. TV show cast."
+}

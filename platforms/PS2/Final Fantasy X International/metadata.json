@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|SquareSoft"],
+	"genres": ["RPG"],
+	"name": "Final Fantasy X International",
+	"publishers": ["Square Enix|SquareSoft (JP)", "Square Enix (KO, JP)"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fantasy-x",
+			"score": 92,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter a fantasy world where humans are on the brink of extinction. In this Final Fantasy you must stop a powerful force called \"Sin\" that destroys cities and lives. Along your journey you will meet Tidus: a star blitzball player, and Yuna: a young woman who is skilled in summoning and controlling aeons - powerful spirits of yore.  Final Fantasy X was the first Final Fantasy game to feature voiceovers with advanced facial expressions. Travel to uncharted seas and treacherous lands in a quest to save mankind."
+}

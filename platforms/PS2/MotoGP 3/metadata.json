@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Racing"],
+	"name": "MotoGP 3",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motogp-3",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "MotoGP 3 straps you on the greatest two-stroke and four-stroke performance cycles. Bikes from a variety of manufacturers--including Honda, Suzuki, Yamaha, Aprilia, and Kawasaki--appear in the game. With each bike, you can control both the rider's weight placement and an optional brake-assist feature. Test your bikes on 15 circuits, plus 20 new fantasy tracks. Challenges include drag races, time trials, slalom courses, and one-on-one races with the sport's top riders. As you conquer each unique challenge, you'll unlock special motorcycles and racers."
+}

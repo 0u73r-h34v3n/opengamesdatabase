@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action"],
+	"name": "Army Men: Sarge's Heroes 2",
+	"publishers": ["Midas Interactive Entertainment (EU)", "3DO (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/army-men-sarges-heroes-2/ps2-14566",
+			"score": 4.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/army-men-sarges-heroes-2",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sarge and the Bravo Company Commandos managed to foil the Tan Army's first assault, but do they have what it takes this time?  General Plasto has teamed up with Brigitte Bleu, a diabolically treacherous Blue Spy, the destroy the Green Nation once and for all. The adventure continues as Sarge and Vikki fight their way over pool tables, around a bedroom and across desktops to the final showdown against Plastro and his troops. Prepare for another gigantic battle!"
+}

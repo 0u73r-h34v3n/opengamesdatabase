@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Big Sky Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/spongebob-squarepants-revenge-of-the-flying-dutch/critic-reviews/?platform=playstation-2",
+			"score": 40,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A treasure turns into a terror in SpongeBob Squarepants: Revenge of the Flying Dutchman.  While cruising through Bikini Bottom, SpongeBob discovers several treasure chests.  Ignoring the warning signs, SpongeBob opens the chests, only to discover he has released the Flying Dutchman--an angry ghost that now wants to make SpongeBob and his friends part of his crew.  As you help SpongeBob stop the Dutchman from wreaking havoc in Bikini Bottom, you change costumes, collect gold coins, and interact with all your favorite characters from the TV show."
+}

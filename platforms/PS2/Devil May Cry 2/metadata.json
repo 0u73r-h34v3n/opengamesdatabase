@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Devil May Cry 2",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/01/28/devil-may-cry-2-2",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/devil-may-cry-2",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/ps2/action/devilmaycry2/review.html",
+			"score": 6.4,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_dmc2_ps2",
+			"score": 5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Dante, the world's most stylish demon slayer is back to shake the legions of the underworld to their knees in Devil May Cry 2.  This time Dante has a new devilish partner: Lucia, a mysterious and acrobatic heroine.  Don't let Dante's handsome face lull you as he has some moves of his own, including running and jumping on walls, aerial kicking and the ability to simultaneously shoot in two directions.  Unleash your inner demon as you battle hoards of monsters in massive, hellish environments."
+}

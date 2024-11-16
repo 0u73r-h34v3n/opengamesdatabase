@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "Sphinx and the Cursed Mummy",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sphinx-and-the-cursed-mummy",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ancient Egyptian mythology comes to life in the Sphinx and the Cursed Mummy. You play the role of Sphinx, a headstrong demigod who travels the world via portals to foil the evil plans of Set. Equipped with a magical sword and a blowpipe, you'll need all your wits, agility, and special powers to overcome powerful enemies. When being inconspicuous is the only solution, control Sphinx's reluctant hero friend, The Mummy. By finding the stolen magical crowns of Egypt, Sphinx can stop Set and save the world."
+}

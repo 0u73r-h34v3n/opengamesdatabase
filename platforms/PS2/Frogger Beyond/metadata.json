@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Platformer"],
+	"name": "Frogger Beyond",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Hop into the latest addition to the Frogger franchise with Frogger Beyond, a new adventure that takes you through eight expansive worlds. As the amphibious hero, Frogger, you'll encounter a wide range of enemies, obstacles, and new challenges. This time, you can snowboard ice-covered mountains, travel through lava caverns, and navigate the depths of outer space. Frogger Beyond revives the series with 40 new enemies, new frog abilities, and hidden areas and power-ups."
+}

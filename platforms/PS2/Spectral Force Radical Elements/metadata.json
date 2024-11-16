@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neverland"],
+	"genres": ["RPG"],
+	"name": "Spectral Force: Radical Elements",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Spectral Force: Radical Elements'' is an installment of the popular simulation RPG series. This time the story takes place in a small kingdom called Orutaded, 400 years before the first Neverland great wars. You play the role of the king of Orutaded named Tonaty, who is on a journey to seek helps from the allied kingdom Milria, to battle against the invading kingdom Rafarm. During battles, you can experience a large-scale combat of 1000 vs 1000 soldiers in the battle field. After completing a battle, you can collect elements, which can be used to create new troops, buildings and new technologies."
+}

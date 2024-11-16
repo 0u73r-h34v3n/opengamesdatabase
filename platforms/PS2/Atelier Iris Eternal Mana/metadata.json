@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Gust"],
+	"genres": ["RPG"],
+	"name": "Atelier Iris: Eternal Mana",
+	"publishers": [
+		"Gust (JP)",
+		"Nippon Ichi Software|NIS America (US)",
+		"Koei (EU)",
+		"THQ (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/atelier-iris-eternal-mana",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The latest installment in the ''Atelier'' saga features new characters and story elements. You'll play Kleing Kiesling, a young alchemist on a mission to unlock the secrets of alchemy. With the help of Mana, you can collect and customize a variety of weapons and items."
+}

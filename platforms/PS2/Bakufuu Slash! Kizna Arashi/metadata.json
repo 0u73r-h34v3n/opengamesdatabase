@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEI"],
+	"genres": ["RPG"],
+	"name": "Bakufuu Slash! Kizna Arashi",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Eye toy based role playing game in which you wear a paper talon to draw out symbols on the screen. When copied correctly they release various attacks with which to defeat the in game beasts. Also works with a series of game related cards which you can hold up to the camera to activate special skills."
+}

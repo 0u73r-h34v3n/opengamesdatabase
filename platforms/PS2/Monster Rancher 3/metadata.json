@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Simulation"],
+	"name": "Monster Rancher 3",
+	"publishers": ["Tecmo"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/monster-rancher-3",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Even monsters need to be trained, loved, and bred--and you can be the one to do it. The third installment in the Monster Rancher series lets you breed and train your own monster, and then enter it into fighting tournaments to battle for prizes and fame. New monsters are bred by pairing two existing ones or those spawned from music CDs, movie DVDs, or game discs. Monster Rancher 3 includes unlockable  levels, secret expeditions, and hundreds of new monsters."
+}

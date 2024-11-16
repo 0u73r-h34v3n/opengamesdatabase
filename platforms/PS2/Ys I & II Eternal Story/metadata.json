@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DigiCube"],
+	"genres": ["Action", "RPG"],
+	"name": "Ys I & II Eternal Story",
+	"publishers": ["DigiCube"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ys I & II Eternal Story is a port of the 1997 PC release of the remakes of both Ys I: Ancient Ys Vanished and Ys II: Ancient Ys Vanished - The Final Chaper. Included in this port along with the previous improvements are new characters and items. Ys I & II Eternal Story is also the prequel to [[Ys III: Wanderers from Ys]]."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Action", "Adventure"],
+	"name": "Sakurazaka Shouboutai",
+	"publishers": ["Irem"],
+	"regions": ["NTSC-J"],
+	"synopsis": "A squad-based firefighting game. Play as a firefighter who, besides directly battling blazes on foot, can command fellow firefighters and support vehicles. Coordinate the entire team's efforts in order to rescue the survivors before it's too late. Also features a detective-like mystery-solving element and minor multiplayer modes. This is one of the most impressive and cleverly designed games about firefighting in existence."
+}

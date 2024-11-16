@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "https://www.gamerankings.com/ps2/561219-jojo-no-kimyou-na-bouken-ougon-no-kaze/index.html",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Can you handle the power of the Stand? In the far future in Italy, the son of the evil vampire Dio, Giorno (nicknamed GioGio), has discovered the power of the \"Stand\", a psychic manifestation that can either assist or hinder the one affected by it. His Stand is the Golden Experience, which can drain the life of his foes to heal himself. GioGio, aided by several of his friends, feels an evil power looming before them, like nothing they've ever seen before. And before it's too late, they must destroy that evil...before it destroys them!"
+}

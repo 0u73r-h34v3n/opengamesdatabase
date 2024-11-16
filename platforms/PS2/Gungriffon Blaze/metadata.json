@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Game Arts"],
+	"genres": ["Action"],
+	"name": "Gungriffon Blaze",
+	"publishers": [
+		"Capcom (JP)",
+		"Working Designs (US)",
+		"Swing! Deutschland (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/gungriffon-blaze",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In a post-apocalyptic future where the nations of the world have splintered into numerous unstable factions, only the powerful Western Alliance can bring peace and stability once more. With an arsenal of powerful AWGS-class infiltration units at their disposal, these battle-hardened warriors have what it takes to rip off a quick CHM round and skeetch the less-skilled predatory scum of the New World Order. These hard-earned skills will be put to the ultimate test in six intense world theatres of operation with you in the vanguard position. That's right. You've been summoned to join this elite class of peacemakers. So put on a brave face and suck in that gut -- you've got a world to save."
+}

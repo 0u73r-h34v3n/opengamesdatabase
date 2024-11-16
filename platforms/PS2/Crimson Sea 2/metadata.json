@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Action", "Fighting"],
+	"name": "Crimson Sea 2",
+	"publishers": ["Koei (US, JP, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/crimson-sea-2",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Millions of light years away in the star system Theophilus, an unknown evil threatened mankind, an evil defeated by Sho- a rare human alien hybrid known as a \"Vipa,\" and the game's main character. However, that was only the beginning.  Taking place two years after the events of the original Crimson Sea, CRIMSON SEA 2 sees the IAG - the agency charged with the protection of the galaxy -in a state of near-collapse. Still reeling from a massive surprise attack, IAG Commander, Live-D organizes the remaining forces along with a rag-tag team of mercenaries and survivors. Sho's old friends from G-Squad are dispersed to different areas of the galaxy, but in light of the devastation, Sho searches for more help.   CRIMSON SEA 2 features over 60 missions and 3 two-player modes. Work together to bring down the enemy and clear a stage in \"Co-op\" mode, battle head-to-head \"death match\" style in \"Versus\" mode, or try to outscore your human opponent in \"Competition\" mode."
+}

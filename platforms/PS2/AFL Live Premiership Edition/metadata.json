@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["IR Gurus"],
+	"genres": ["Sports"],
+	"name": "AFL Live Premiership Edition",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL"],
+	"synopsis": "Following on AFL Live 2004, AFL Live: Premiership Edition boasts the latest team lists, added gameplay features, and unlockable content like videos from the 2003 season. Also new is the inclusion of the \"Wizard Home Loan Club\", a pre-season competition with knockout-matches."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Fighting"],
+	"name": "Shijyou Saikyou no Deshi Kenichi: Gekitou! Ragnarok Hachikengou",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot User Score",
+			"url": "http://www.gamespot.com/shijyou-saikyou-no-deshi-kenichi-gekitou-ragnaro/reviews/",
+			"score": 9.1,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The story focuses on Kenichi Shirahama, a 16-year-old high school student and a long-time victim of bullying. At the beginning of the story, he befriends transfer student Miu Fūrinji; and desires to become stronger, he follows her to Ryōzanpaku, a dojo housing several masters of diverse martial arts, led by her grandfather Hayato Fūrinji. After learning basics from Miu, Kenichi overcomes a high-ranking member of the school's karate club, and becomes a target for all the delinquents in the school. While initially training to protect himself, Kenichi eventually becomes a full disciple of Ryōzanpaku, and becomes enamored of Miu. Subsequently, Kenichi's daily routine is divided between training under the six masters of Ryōzanpaku, and his fights against the members of 'Ragnarok', a gang of bullies trying alternately to recruit or to vanquish him."
+}

@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "SSX 3",
+	"publishers": [
+		"Electronic Arts|EA Sports Big (US, JP)",
+		"Electronic Arts (EU, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/914646-ssx-3/index.html",
+			"score": 92,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ssx-3",
+			"score": 93,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drop in and conquer the massive, living mountain rife with ego-crushing challenges and gravity-bending thrills.  SSX 3 returns with more slopes and all-new hazards to overcome including lightning storms, vertical drops, serpentine slopestyle courses and avalanches.  Customize your rider's clothes, abilities, and moves.  Pull off three levels of awesome \"Uber tricks.\" Dominate the mountain, and then test your skills online.  It's a long way down, so make sure you're ready for the challenge."
+}

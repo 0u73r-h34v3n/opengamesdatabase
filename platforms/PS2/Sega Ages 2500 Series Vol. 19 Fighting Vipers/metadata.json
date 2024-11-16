@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Fighting"],
+	"name": "Sega Ages 2500 Series Vol. 19: Fighting Vipers",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Fight with flair in the return of Fighting Vipers, the classic arcade game from AM2 that was later playable on the Sega Saturn. Choose one of nine zany characters--including Grace the roller blader and Raxel the metal guitarist-- and break your opponent's costume-based armor to maximize damage. Take advantage of all-new online modes to battle friends across the world."
+}

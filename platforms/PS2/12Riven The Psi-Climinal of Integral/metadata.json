@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberFront"],
+	"genres": ["Adventure", "Visual Novel"],
+	"name": "12Riven: The Psi-Climinal of Integral",
+	"publishers": ["CyberFront"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot user score",
+			"url": "http://www.gamespot.com/12riven-the-psi-climinal-of-integral/",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "12Riven: The Psi-Climinal of Integral is a visual novel in which you follow a story while admiring the images and animations of the characters. In 12Riven, a musical background accompanies everything and the characters' voices are also present. Player interaction is limited to making choices, clicking to read the next text or scrolling through the images and sounds. An automatic scrolling option, present in 12Riven, can even reduce player interactions to almost zero; only the choice of option requires player interaction when this mode is active."
+}

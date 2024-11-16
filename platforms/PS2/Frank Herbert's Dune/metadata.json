@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["WideScreen Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Frank Herbert's Dune",
+	"publishers": ["Cryo Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "In the year 10,191, the Houses Atreides and Harkannen are fighting a bloody battle for the control of the desert planet Arrakis, known as Dune. Jessica, the Duke's concubine, and Paul, his son and heir to the throne, are the only members of the Atreides family to survive the massacre organised by the Baron Harkonnen with the secret help of the Emperor. During the two years you will spend among the Fremen as Paul, you will need to earn their trust and demonstrate your courage in order to become their Messiah, Maud'dib. Explore Dune, learn the Weirding Ways to fight the Sardukars, harass the Harkonnens, sabotage their Spice factories, mount the giant sand worms and use the Spice to foresee enemy positions... You must become a master in the art of infiltration and strike the enemy when he expects it least, if you would prepare the Fremen for the final assault... their ultimate battle for Independence."
+}

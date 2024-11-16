@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Destroy All Humans!",
+	"publishers": ["THQ (US, EU, JP)", "Sega (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/destroy-all-humans!",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "This is your chance to experience the other side of an alien invasion. In Destroy All Humans!, you play as an alien who must use a UFO, advanced weaponry, and special abilities to take over all of humanity. You'll terrorize the people of Earth with a variety of alien weaponry--the Ion Detonator, the Zap-O-Matic, and the Sonic Boom, or even the Quantum Deconstructor--on land or in the air."
+}

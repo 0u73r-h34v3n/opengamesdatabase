@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Sports"],
+	"name": "Sunny Garcia Surfing",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/sunny-garcia-surfing",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It's time to grab your stick and get ready to go off! Sunny Garcia Surfing captures the essence of surfing as players travel to secret surf spots around the world in search of the perfect wave. Drop in on a gnarly Fiddlesticks 30-foot wave or have fun sessions with Sandy Beach's 3-4 foot sets. Packed with ultra-realistic moves, players will be stoked as they pull off round-house cutbacks, lippers, and floaters, and catch unreal barrel rides."
+}

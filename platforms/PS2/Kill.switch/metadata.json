@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Kill.switch",
+	"publishers": ["Namco (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2004/04/15/killswitch-5",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/killswitch",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In kill.switch, you will take on the role of a highly skilled military operative with orders to start a war.  Travel to global 'hotspots' such as the Middle East, the Caspian Sea region, and North Korea.  Hide behind objects in your environment and lay down suppressing fire without even looking.  Fight through 15 action-packed scenarios featuring diverse missions and objectives that span the globe.  As the story unfolds, you'll begin to discover what's behind your dark agenda."
+}

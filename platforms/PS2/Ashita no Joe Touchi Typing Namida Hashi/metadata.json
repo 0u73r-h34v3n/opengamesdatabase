@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Dual"],
+	"genres": ["Action"],
+	"name": "Ashita no Joe Touchi: Typing Namida Hashi",
+	"publishers": ["SunSoft"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ashita no Joe Touchi is a touch typing learning game based on the anime/manga series. The game was also released with a Keyboard Pack for playing the game. The game plot follows the original manga books and the player progresses through the story by typing in each scene."
+}

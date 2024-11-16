@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coldwood Interactive"],
+	"genres": ["Racing"],
+	"name": "Ski-doo Snow X Racing",
+	"publishers": ["Valcon Games (US)", "Virgin Interactive|Virgin Play (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ski-doo-snow-x-racing",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the freedom to ride on the edge of control-adrenaline rush! Get ready to feel the excitement of snowmobile racing like never before. Shred snow in Canada, Russia, Sweden and the USA on authentic Ski-Doo snowmobiles. Perform crazy stunts as you race on a wide variety of tracks, from open country of Northern Sweden to a Cross Track in the heart of New York City. 7 authentic Ski-Doo snowmobiles including the latest REV XP models! 18 different courses located in 4 countries. 16 stunt moves to master and use to gain a speed boost. Customize your own snowmobile wiht parts, decals and paints."
+}

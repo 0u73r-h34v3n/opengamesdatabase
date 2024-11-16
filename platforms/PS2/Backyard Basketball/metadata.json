@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Humongous Entertainment"],
+	"genres": ["Sports"],
+	"name": "Backyard Basketball",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/backyard-basketball",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kid versions of NBA stars join the Backyard Kids in Backyard Basketball.  Play as your favorite NBA players, including Yao Ming, Tim Duncan, and Kevin Garnett in pulse-pounding three-on-three basketball action.  While these NBA stars and Backyard Kids are small, they can still hit devastating jump shots, grab opening tips, nail buzzer-beating three-pointers, and perform super dunks.  With a Season Play mode, awesome power-ups, and all-new 3D environments and details, backyard basketball never looked so good."
+}

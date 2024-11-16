@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zoom"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Mister Mosquito",
+	"publishers": ["Sony|SCEI (JP)", "Eidos Interactive (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mister-mosquito",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Yamada family will never know what bit them. You are Mister Mosquito, an uninvited guest in the Yamada's family home in Japan. In order to store up enough food for the coming winter, you will need to drink as much of their precious blood as possible while they are in bed, talking on the phone, watching tv, or even taking a bath. The Yamada family knows you are in the house, and they have plans to take you out. Deadly insecticides fill the air, and members of the family have the ability to crush you like a bug. You want a taste of their plasma. They want you dead. Something's gotta give."
+}

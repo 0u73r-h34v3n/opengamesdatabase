@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Action"],
+	"name": "Naruto: Uzumaki Chronicles 2",
+	"publishers": [
+		"Bandai|Namco Bandai Games (JP, US)",
+		"Bandai (KO)",
+		"Atari (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/naruto-uzumaki-chronicles-2",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A brand new tale arrives as Naruto faces different challenges to defend the Hidden Leaf Village and surrounding villages from the evil force trying to dominate it. An ancient organization, which was thought to have been disbanded, is alive and in search of orbs to resurrect a mechanical terror. It's now up to Naruto and all of the Hidden Leaf Genin to join forces with those of the Hidden Sand Village to stop this menace."
+}

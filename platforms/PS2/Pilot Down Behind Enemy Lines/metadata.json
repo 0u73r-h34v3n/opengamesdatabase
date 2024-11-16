@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Wide Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Pilot Down: Behind Enemy Lines",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameSpot (user ratings)",
+			"url": "https://www.gamespot.com/games/pilot-down-behind-enemy-lines/reviews/",
+			"score": 6.4,
+			"max_score": 10
+		}
+	],
+	"synopsis": "It's winter 1944 and your plane has just been shot down over Germany. The manhunt is now on! Pursued by the Germans, incapable of speaking without giving yourself away, all you have is your army pack and your only hope of survival is to reach Switzerland on foot. Based on the experiences of American pilots during WWII, this unique survival game combines elements of infiltration, action and strategy."
+}

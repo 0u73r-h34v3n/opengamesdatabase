@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Music"],
+	"name": "Alvin and the Chipmunks",
+	"publishers": ["Brash Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/alvin-and-the-chipmunks",
+			"score": 33,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by the #1 kids musical group of all time! Players will play as the Chipmunks as they rock their way to the top of the charts by winning the ultimate battle of the bands contest, Rockathonapalooza. Alvin and The Chipmunks will feature fun music gameplay, popular licensed songs spanning many different eras, and a variety of play modes including multiplayer, mini-games and more."
+}

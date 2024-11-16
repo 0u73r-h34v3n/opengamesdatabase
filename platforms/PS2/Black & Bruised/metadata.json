@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Fiction"],
+	"genres": ["Sports"],
+	"name": "Black & Bruised",
+	"publishers": ["Majesco (US)", "Sierra Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/black-bruised",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "To the fighters in Black & Bruised, boxing is no game; it's a matter of survival. Nineteen outrageous characters fight their way through grueling slugfests to win the pot or settle a score. You'll play through their intertwining stories as they battle each other in 21 different arenas. During each match, you can earn power-ups such as Armor, AutoSlip, Vamp, or Fire Damage to give your fighter a competitive advantage over your opponent."
+}

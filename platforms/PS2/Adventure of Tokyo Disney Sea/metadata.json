@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Adventure"],
+	"name": "Adventure of Tokyo Disney Sea",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The Disney characters are waiting for you! Come on an epic adventure! See all 7 parts of Tokyo Disney Sea park! "
+}

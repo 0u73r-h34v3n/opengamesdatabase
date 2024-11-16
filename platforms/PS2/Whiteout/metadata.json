@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Racing"],
+	"name": "Whiteout",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/whiteout",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rip the throttle and feel the power as 900cc's rocket you through the icy tundra and propel you into the sky. Whiteout lets you race as one of 12 professional SnoCross athletes across nine different winter locations. You'll soar through the open skies in one of 14 powerful sleds while you pull off more than 30 tricks. Practice your skills in the new objective-driven Arcade mode, plus Career, Time Trial, and Versus modes."
+}

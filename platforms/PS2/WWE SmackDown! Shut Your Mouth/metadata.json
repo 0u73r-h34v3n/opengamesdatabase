@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWE SmackDown! Shut Your Mouth",
+	"publishers": ["THQ (US, EU)", "Yuke's (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wwe-smackdown!-shut-your-mouth",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready to lay the smack down once again.  WWE Smackdown! Shut Your Mouth, the latest installment of the WWE Smackdown! series, puts you in the ring as the top World Wrestling Entertainment superstars battle it out in a quest to become the ultimate champion.  Choose from over 50 top WWE wrestlers such as legendary icons The Rock and Hollywood Hulk Hogan, or up-and-comers Lance Storm and The Hurricane.  Battle in over 100 match types and variations, a variety of unique arenas, an enhanced career mode, or multiplayer mode with up to six players."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["VIS Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "The Powerpuff Girls: Relish Rampage",
+	"publishers": ["Bam Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/481/481976.html",
+			"score": 3.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-powerpuff-girls-relish-rampage",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Mojo Jojo is fed up with The Powerpuff Girls. He's invented a scheme to put all of Townsville under his mind-control--Radio Jojo. But Mojo doesn't know his sour signals are strong enough to summon aliens to invade Townsville. Now, The Powerpuff Girls must defeat Mojo and annihilate the aliens before the Townsville citizens become aliens forever. Join this treacherous trio and battle your way through challenging missions and intense clashes in Townsville. The survival of these three superheroes depends on your ability to deploy super powers, complete action-packed missions, and destroy a host of enemies and villains."
+}

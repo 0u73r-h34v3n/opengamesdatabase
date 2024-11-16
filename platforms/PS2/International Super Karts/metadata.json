@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Brain in a Jar"],
+	"genres": ["Racing"],
+	"name": "International Super Karts",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "Racing across the tarmac only inches above the road, International Super Karts gives an adrenaline rush like nothing else. Using every ounce of your driving skill is a must in these high-speed, lightweight vehicles. Take part in a variety of championships, exhibition races and time trials to earn extra vehicles and claim the Karting crown."
+}

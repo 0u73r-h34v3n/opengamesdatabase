@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Global A"],
+	"genres": ["Action"],
+	"name": "Akudaikan",
+	"publishers": ["Global A"],
+	"regions": ["NTSC-J"],
+	"synopsis": "You are an evil magistrate in historic Japan. You took bribes from an unscrupulous merchant and got rich that way. Now Justice is out to get your head. Hire bouncers and lay traps to fend off the police forces that want to capture you."
+}

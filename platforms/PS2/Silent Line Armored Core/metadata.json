@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action"],
+	"name": "Silent Line: Armored Core",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Digital Jesters (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/silent-line-armored-core",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Explorers have uncovered a previously unknown megacity that is well protected from scouting incursions. When all attempts at penetrating the border are met with destruction, the call goes out to the Ravens, a team of mercenaries hired by the government. As a Raven, you must pilot armored mech suits and destroy enemy weapon systems. A new first-person view allows you to experience a mission from the cockpit. Silent Line: Armored Core also lets you go head-to-head with up to four players or team up for fierce two-on-two battles."
+}

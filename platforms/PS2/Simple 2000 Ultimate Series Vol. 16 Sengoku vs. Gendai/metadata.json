@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Psyworks|Psyworks Co. Ltd."],
+	"genres": ["Action"],
+	"name": "Simple 2000 Ultimate Series Vol. 16: Sengoku vs. Gendai",
+	"publishers": [
+		"D3Publisher (JP)",
+		"Midas Interactive Entertainment (EU, AU)"
+	],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Enter the toughest combat tournament on Earth as one of six lethal fighters. Using a mixture of powerful martial arts techniques, swordplay and good old-fashioned hot lead you must battle through the beautiful scenery of the Shogun's Island. Defeat hundreds of the enemy's evil minions in your struggle to reach his castle and claim victory over the other contestants."
+}

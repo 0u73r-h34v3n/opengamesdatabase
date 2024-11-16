@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BudCat"],
+	"genres": ["Music"],
+	"name": "Guitar Hero: Aerosmith",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/guitar-hero-aerosmith/xbox-360-14229605",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/guitar-hero-aerosmith",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Fire up the fret board, crank the amp to 11 and get ready to rock this way with Activision's Guitar Hero: Aerosmith.  Guitar Hero: Aerosmith is the first game built around the legendary music of America's greatest rock n' roll band: Steven Tyler, Joe Perry, Brad Whitford, Tom Hamilton and Joey Kramer. Fans will experience Aerosmith's GRAMMY award winning career, from their first gig to becoming rock royalty, in a way that no other entertainment vehicle offers."
+}

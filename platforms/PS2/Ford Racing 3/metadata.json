@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Razorworks"],
+	"genres": ["Racing"],
+	"name": "Ford Racing 3",
+	"publishers": ["Take-Two Interactive (EU)", "2K|2K Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ford-racing-3",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the Model T to the 2005 Mustang GT, Ford Racing 3 features a variety of vehicles from the Ford manufacturer. Jump behind the wheel of your favorite car, and then test your driving skills on challenging courses, including raceway, rally, and off-road competitions. You can unlock more tracks and vehicles in single-player races, or you can race against your friends online in multiplayer modes."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Amplitude",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/03/24/amplitude",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/amplitude",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter the rhythmic world of Amplitude, and let your senses take control. Fast gameplay allows you to mix and remix songs from recording artists such as Garbage, David Bowie, P.O.D., BT, Weezer, Pink, Dieselboy, blink-182, and Run DMC, within more than 25 immersive levels. Unleash your inner rhythm in five arenas--complete with artist music videos--either solo or online against FreQs nationwide. Stake your claim to top DJ with online chat, lobby functions, and ladder rankings."
+}

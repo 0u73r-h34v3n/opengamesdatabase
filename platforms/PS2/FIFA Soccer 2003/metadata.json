@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 2003",
+	"publishers": ["Electronic Arts (EU, JP)", "Electronic Arts|EA Sports (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fifa-soccer-2003",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Master the fundamentals of soccer in FIFA Soccer 2003. With more ball control and player moves, this year's FIFA Soccer puts the The Total Club Championship within your grasp. Unleash the skills of the world's greatest players through new player animations and signature skill moves. Experience pressure-cooker atmospheres as you take on Europe's elite teams in their own stadiums featuring actual team chants and songs. EA Sports Freestyle Control lets you produce a feint, one-touch pass, or skill move to leave your opponents standing."
+}

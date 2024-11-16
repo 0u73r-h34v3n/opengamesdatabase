@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["minori"],
+	"genres": ["Visual novel"],
+	"name": "Ef - a fairy tale of the two.",
+	"publishers": ["Comfort"],
+	"regions": ["NTSC-J"],
+	"synopsis": "There is more than one fairy tale. Otowa - The city that once experienced a great earthquake and widespread fires. In the present day, it has been resurrected with a beautiful city-scape reminiscent of the pages of a European fairy tale. The rebuilt city almost masks the memory of that unsavory disaster..."
+}

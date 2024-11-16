@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Collection"],
+	"name": "BioHazard Code: Veronica Kanzenhan / BioHazard 4 Value Pack",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Resident Evil Code: Veronica X]] and [[Resident Evil 4]].}}"
+}

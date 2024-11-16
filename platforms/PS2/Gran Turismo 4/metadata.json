@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Polyphony Digital"],
+	"genres": ["Racing"],
+	"name": "Gran Turismo 4",
+	"publishers": ["Sony|SCEI (JP, AS, KO)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/games/gran-turismo-4",
+			"score": 9.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/gran-turismo-4",
+			"score": 89,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/gran-turismo-4-review/1900-6118988/",
+			"score": 8.9,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_granturismo4_ps2",
+			"score": 8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "With authentic cars, courses, and car physics, Gran Turismo 4 adds an even more realistic racing simulation to the series. The characteristics of each car take into account weight, speed, friction, and more to deliver realistic handling. Test-drive new vehicles in courses located in various sites, such as Nurburgring Nordschleife, New York City, the Grand Canyon, and Tsukuba Circuit. Along with Career mode, Gran Turismo 4 highlights the new GT Photo mode and GT Online mode, which lets players around the world compete over the Internet."
+}

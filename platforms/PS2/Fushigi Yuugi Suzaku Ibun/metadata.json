@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idea Factory"],
+	"genres": ["Adventure"],
+	"name": "Fushigi Yuugi: Suzaku Ibun",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The game is based on the Anime series Fushigi Yuugi but from the perspective of a different character. The game mimics the story of the series, following all the milestones unless the player chooses different options. Depending on the player choices, some characters who didn't survive in the original series can be saved."
+}

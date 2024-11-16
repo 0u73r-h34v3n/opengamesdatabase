@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "ESPN International Winter Sports 2002",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/espn-international-winter-sports-2002/ps2-16552",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-international-winter-sports-2002",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "ESPN International Winter Sports 2002 brings the intensity of winter sports to life with 10 events, including alpine skiing, bobsledding, figure skating and snowboarding. Two-player competitive modes and rich graphics round out this all-inclusive winter sports game that gets the details right down to the spray of the snow and the glimmer of the ice."
+}

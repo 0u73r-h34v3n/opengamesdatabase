@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idea Factory"],
+	"genres": ["Collection"],
+	"name": "Hakuouki Twin Pack",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Hakuouki]] and [[Hakuouki: Zuisouroku]].}}"
+}

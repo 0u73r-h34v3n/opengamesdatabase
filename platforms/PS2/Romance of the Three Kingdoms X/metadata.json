@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["RPG", "Simulation", "Turn-Based Strategy"],
+	"name": "Romance of the Three Kingdoms X",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/romance-of-the-three-kingdoms-x",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Romance of the Three Kingdoms X'' is the tenth installment in Koei's strategy game series. You can discover China's turbulent history by taking on the roles of Ancient China's most extraordinary figures, including peasant-turned-emperor Liu Bei, conqueror Cao Cao, the elite warrior Zhao Yun, and brilliant strategist Zhuge Liang."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Platformer", "Compilation"],
+	"name": "Mega Man X Collection",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mega-man-x-collection",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can relive the classic Mega Man X series in this compilation of seven games: Mega Man X Collection. Mega Man X is the series of 2D platformer games featuring the game's namesake and his partner, the sword-wielding Zero. The collection features Mega Man X, X2, X3, X4, X5 and X6 as well as the North American debut of Mega Man Battle & Chase, the only Mega Man racing game. In addition to the classic titles, the collection features remixed soundtracks, sketch art and other Mega Man goodies. The plot follows the protagonist Mega Man X and his partner Zero as they battle Sigma and his army of \"Maverick\" robots. All six games are action platformers in which the player traverses a series of stages and gains the special weapons of defeated bosses. An European version was announced but it was canceled."
+}

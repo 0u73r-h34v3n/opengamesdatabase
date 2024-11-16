@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Collection"],
+	"name": "The King of Fighters 02/03",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-king-of-fighters-0203",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The eighth and ninth installments in the King of Fighters franchise make their ways to the PlayStation 2 in this double-pack collection of 2D fighting. This collection includes all of the great fighting teams, such as the Fatal Fury team and the Women Fighters team, comprising 39 characters from the King of Fighters series. Unleash special moves, superspecial moves, and combos in a variety of levels, and unlock more levels and bonus characters as you progress."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["RPG", "Action", "Adventure"],
+	"name": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fullmetal-alchemist-2-curse-of-the-crimson-elixir",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Fullmetal Alchemist 2: Curse of the Crimson Elixir'' is the fast-paced action RPG prequel to [[Fullmetal Alchemist and the Broken Angel]]. The second installment in the ''Fullmetal Alchemist'' series brings an enhanced battle system, cel-shaded graphics, thirty minutes of original animation and an enthralling storyline to the Playstation 2. Based on the wildly popular Japanese animation and comic of the same name, ''Fullmetal Alchemist 2'' follows the continuing journey of two brothers on their life-changing quest."
+}

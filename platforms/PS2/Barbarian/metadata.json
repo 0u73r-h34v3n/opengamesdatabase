@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Saffire"],
+	"genres": ["Action", "Fighting"],
+	"name": "Barbarian",
+	"publishers": ["Titus Software (US, EU)", "Taito Corporation (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/barbarian",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Barbarian blends the intensity of a fighting game with the deep storytelling of a role-playing game. Choose one from 10 different characters--all fighting to remove the evil Zuagg from power--and battle through several gameplay modes. In Quest mode, every choice you make and every battle you win or lose has consequences on the rest of the story. As you progress through 10 fighting arenas, you can enhance your character's speed, physical and magical attacks, and ability to lift objects and other characters. Follow your character's journey, upgrade it, save it on your memory card, and then challenge your friends in Combat mode with your very own personalized character."
+}

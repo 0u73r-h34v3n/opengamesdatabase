@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Japan Studio"],
+	"genres": ["Action", "Platformer"],
+	"name": "Ape Escape 3",
+	"publishers": [
+		"Sony|SCEI (AS, JP, KO)",
+		"Sony|SCE Korea (KO)",
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ape-escape-3",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Ape Escape 3, you can try to thwart another attempt by Specter and his evil monkeys to rule the world. Take control of Kei, or his sister Yumi, and use nets and other weapons to capture the meddlesome monkeys. The game also features transformations, which allow you to morph into different characters to complete parts of the game or to defeat bosses. In addition to story mode, you can play multiplayer minigames or play \"Mesal Gear Solid,\" a parody of the Metal Gear Solid franchise."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sugar & Rockets"],
+	"genres": ["Puzzle"],
+	"name": "I.Q. Remix+: Intelligent Qube",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/iq-remix-intelligent-qube-import-review/1900-2558014/",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "In the game, the player controls a character who must run around a platform made of cubes, clearing certain cubes as they approach. Cubes are \"cleared\" by marking a spot on the stage, waiting for the cube to roll on top of it, and then deactivating the marked spot. The PS2 version has all 3 previously released Intelligent Qube games."
+}

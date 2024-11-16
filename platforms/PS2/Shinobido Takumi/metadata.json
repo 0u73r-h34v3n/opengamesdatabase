@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Acquire"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shinobido Takumi",
+	"publishers": ["Spike"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Shinobido Takumi is an expansion pack to [[Shinobido: Way Of The Ninja]], contains 130 fan-made missions which have been judged and selected by the Spike development staff. The creators of the submitted missions chosen by the development team received in-game credit, a copy of the game and an additional commemorative bonus item."
+}

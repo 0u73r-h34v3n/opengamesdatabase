@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Doki Denki"],
+	"genres": ["Action", "Platformer"],
+	"name": "Disney Presents Piglet's Big Game",
+	"publishers": ["Gotham Games (US)", "Take-Two Interactive (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/piglets-big-game",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Piglet's friends are having nightmares and only you can stop them. With a magical telescope, you must peer into your friends' dreams and scare away evil Heffalumps and Woozles. Pooh, Roo, Owl, Eeyore, Rabbit, and Tigger are all in this dreamworld that spans seven different worlds. As Piglet, Pooh, and Tigger, you'll solve puzzles, make scary faces, and find Christopher Robin's balloons. Piglet's friends always tease him for being timid, but now it's his chance to prove his bravery."
+}

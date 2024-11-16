@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blitz Games"],
+	"genres": ["Music"],
+	"name": "Karaoke Revolution Presents: American Idol Encore",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/karaoke-revolution-presents-american-idol-encore",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Step into the spotlight and become an idol. Karaoke Revolution Presents: American Idol Encore delivers the most realistic recreation of the American Idol experience with an all-new next generation game engine and 40 smash hits from the 70's, 80's, 90's and today. Grab the mics and challenge your friends to find out who will be the next superstar and face the music as Simon Cowell, Paula Abdul and Randy Jackson critique your performances."
+}

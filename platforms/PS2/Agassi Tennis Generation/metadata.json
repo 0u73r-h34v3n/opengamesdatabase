@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Aqua Pacific"],
+	"genres": ["Sports"],
+	"name": "Agassi Tennis Generation",
+	"publishers": ["DreamCatcher Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/agassi-tennis-generation",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Agassi Tennis Generation brings you up close and personal to the biggest stars in tennis.  Play as Andre Agassi, or compete against him, as you smash, volley, lob, and serve on courts from all over the world in 16 tournaments.  The game features 32 unique players with realistic movements, various court surfaces, and three challenging game modes including Quick Match, Arcade, and Tournament.  Can you win your way to the top ranks of tennis stardom?"
+}

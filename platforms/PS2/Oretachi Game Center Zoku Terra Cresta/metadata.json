@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Reakosys"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Oretachi Game Center Zoku: Terra Cresta",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "'TERRA CRESTA' is a shooting game that was released from Nihon Bussan in 1985.  Players recapture parts that have been left in the ground.  Intercept the enemy in formation attack and aim to the space devil Mandora.       'Arcade Archives series' has faithfully reproduce the masterpiece of arcade games for PS4 system. Also support PS4 system features.  Players can share play screens and video with the SHARE feature, and players can also compete with other players for score online ranking.  Please enjoy the masterpiece that built a generation for video games."
+}

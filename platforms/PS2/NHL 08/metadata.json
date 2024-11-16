@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NHL 08",
+	"publishers": ["Electronic Arts (US)", "Electronic Arts|EA Sports (AU, EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-08",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Skill Stick gave you the power to deke the goalie in NHL 07 - now you can own the 1-on-1 matchup and undress opposing defenseman with complete control. Dynamic AI adjusts to your every move both on offense and defense, scouting your tendencies like a coach and making the necessary adjustments to shut down your money plays, forcing you to adjust your style of play. With new skating animations and responsiveness, you have the control to perform crossovers to maintain speed or carve tight turns for an immediate change in direction."
+}

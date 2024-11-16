@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sucker Punch"],
+	"genres": ["Action", "Platformer"],
+	"name": "Sly 2: Band of Thieves",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (KO, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/sly-2-band-of-thieves",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sly and his crew are back and ready to pull off another series of big heists. Word is out that Interpol has excavated the robotic remains of Clockwerk--Sly's nemesis and sworn enemy of the Cooper clan--and it's up to you to prevent it from being reassembled. To do this, you must once again enter the thieving world of pickpocketing, vent crawls, rooftop chases, and stealth attacks. Sly 2: Band of Thieves takes you on an adventure across numerous locations, including Paris, Prague, India, and the Canadian Wilderness."
+}

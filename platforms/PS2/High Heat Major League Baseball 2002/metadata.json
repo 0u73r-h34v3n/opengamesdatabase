@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Sports"],
+	"name": "High Heat Major League Baseball 2002",
+	"publishers": ["3DO"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/high-heat-major-league-baseball-2002",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The critics' favorite PC baseball game, High Heat Baseball, has come to bat on the PS2. This graphically rich simulator with down-to-the-pinstripes detail is also among the system's most configurable titles. A tuning feature will allow you to adjust the variable elements of the game, such as error frequency, and the not so variable, like physics. High Heat Baseball 2002 includes updated 2001 rosters, and with the game's player editor, you can add to (or subtract from) a laundry list of abilities. Beyond that, the game's create-a-player feature lets you build your ballplayer from the mound up."
+}

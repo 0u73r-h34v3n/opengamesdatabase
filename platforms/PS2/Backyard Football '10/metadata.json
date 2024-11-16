@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Humongous Entertainment"],
+	"genres": ["Sports"],
+	"name": "Backyard Football '10",
+	"publishers": ["Atari"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Backyard Football '10, featuring NFL players as kids, combines realistic NFL plays and strategies with wild arcade style power moves and comical scenarios so gamers of all ages can learn the fundamentals of football while having fun. Multiple levels make it easy enough for beginners, yet challenging enough for even die-hard football fans."
+}

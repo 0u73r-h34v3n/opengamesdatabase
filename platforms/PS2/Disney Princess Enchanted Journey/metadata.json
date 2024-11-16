@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Papaya Studios"],
+	"genres": ["Adventure"],
+	"name": "Disney Princess: Enchanted Journey",
+	"publishers": ["Disney Interactive Studios"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"synopsis": "Enter Disney Princess universes from the animated classic films Cinderella, The Little Mermaid, Snow White and Aladdin in Disney Princess: Enchanted Journey. From Disney Interactive Studios, Disney Princess: Enchanted Journey offers young girls the chance to meet and interact with the beloved Disney Princesses while encouraging creativity, exploration and positive messages. Players will customize their own unique heroine character and take part in a fun-filled adventure through four unique levels to help the Princesses restore order in their enchanted kingdoms and overcome evil."
+}

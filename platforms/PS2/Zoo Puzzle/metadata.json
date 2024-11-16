@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Buddiez|Buddiez", "Inc."],
+	"genres": ["Puzzle"],
+	"name": "Zoo Puzzle",
+	"publishers": ["Success (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "JeuxVideo (French)",
+			"url": "https://www.jeuxvideo.com/articles/0000/00004337_test.htm",
+			"score": 8,
+			"max_score": 20
+		}
+	],
+	"synopsis": "The objective of Zoo Puzzle is to remove the animal tiles that fill up the screen by aligning three or more in a row or column. Levels end when a pre-determined number of each animal tile has been removed. These quotas are listed underneath each animal symbol."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "ESPN NBA 2Night 2002",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-nba-2night-2002",
+			"score": 59,
+			"max_score": 100
+		}
+	],
+	"synopsis": "From the opening tip-off to player-of-the-game interviews, ESPN NBA 2Night 2002 combines full-court, fast-paced NBA action with comprehensive ESPN coverage. Endorsed by all-star guard Tracy McGrady of the Orlando Magic, this game lets you experience all the intensity and attitude of NBA basketball. Dramatic facial animations and game-specific sounds heighten the realism. The Featuring full ESPN integration, ESPN NBA 2Night 2002 offers informative stats, a new soundtrack featuring DJ Hi-Tek and others, unconventional camera angles, and entertaining play-by-play. Legendary NBA announcer Brent Musberger and ESPN's Stuart Scott hold court on commentary, while Philadelphia 76ers point guard Eric Snow delivers in-depth analysis."
+}

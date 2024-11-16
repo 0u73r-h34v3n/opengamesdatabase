@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Brain in a Jar"],
+	"genres": ["Racing"],
+	"name": "Golden Age of Racing",
+	"publishers": ["Midas Interactive Entertainment"],
+	"regions": ["PAL"],
+	"synopsis": "The mid 1960's was a time of racing legends. A time when race car drivers were the real heroes. Golden Age Of Racing gives you the chance to relive the best years of Grand Prix racing. These cars are high horse-power, no downforce, rear-wheel-drive works of automotive art. Take to ten of the most challenging tracks on the international circuit against incredibly intelligent opposition that knows how to hold a grudge. So strap yourself in to the seat and start your engine."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Treyarch"],
+	"genres": ["Sports"],
+	"name": "NHL 2K3",
+	"publishers": ["Sega (US)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2k3",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "More than just familiar faces and numbers, Sega Sports NHL 2K3 delivers player realism down to size, skill, and behavior, resulting in individuals that exhibit accurate styles of play. Grinders battle for pucks in the corners, elite players see the ice and create opportunities, and fast skaters exploit their speed. The all-new Franchise Mode lets you capitalize on player accuracy to develop a team that plays your brand of hockey."
+}

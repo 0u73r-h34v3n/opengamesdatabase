@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Anco"],
+	"genres": ["Sports"],
+	"name": "Sven-Goran Eriksson's World Cup Challenge",
+	"publishers": ["3DO (EU)", "Ubisoft (EU)"],
+	"regions": ["PAL"],
+	"synopsis": "Developed in conjunction with the England Manager and using his vast knowledge of the beautiful game, here is your chance to bring the most prestigious title in football back to English soil. Sven-Goran Eriksson's World Challenge brings you a whole new footballing experience delivering fast gameplay and intuitive control."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hamster"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Oretachi Game Center Zoku: Scramble",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Scramble your fighter and take on the enemy! The base is heavily guarded and you must guide your ship through five levels of enemy defenses before you can destroy your objective."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team Fusion"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 07",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fifa-07-soccer",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "FIFA 07 delivers complete authenticity with licenses for all the world's top leagues, including MLS and Mexican 1st Division in North America, and 26 others from over 20 nations. This year, you have the power to shape your club's destiny in the EA Sports Interactive Leagues, a new online mode that enables you to pit your club against supporters of your real-world opponents. The online interactive leagues feature the F.A. Premier League, Bundesliga, French League and the Mexican 1st Division. Experience the future of online gaming as you play your games according to the real-world schedule. When they play, you play. Track your team's progress as the aggregate results determine your club's position in the league table. This year, new intelligent A.I. ensures that your 11 men on the pitch make realistic decisions, finding space and passing like professionals. A complete overhaul of the game engine now means that you have to employ real world tactics, make split-second decisions and think like a player in order to win matches. Watch as your players jostle and collide realistically while trying to win balls. Experience the realism of the world's superstars, who come to life with signature moves and authentic playing styles and a more sophisticated shooting mechanic that gives you greater control to produce finesse shots. Plus you now have the ability to apply topspin or backspin to the ball for more creative set-pieces."
+}

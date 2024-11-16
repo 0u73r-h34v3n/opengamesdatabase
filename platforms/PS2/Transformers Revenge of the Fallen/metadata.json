@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Krome Studios"],
+	"genres": ["Adventure"],
+	"name": "Transformers: Revenge of the Fallen",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/transformers-revenge-of-the-fallen",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fate of the earth and the survival of the human race hang in the balance in the Transformers: Revenge of the Fallen. Based on Hasbro's legendary Transformers property, the game takes players on an action-packed journey that follows a similar storyline to that of the highly anticipated blockbuster film. Playing as both the Autobots and Decepticons, players are propelled into an adrenaline-pumping battle for supremacy across the globe where every second and every choice makes the difference between mankind's salvation and annihilation."
+}

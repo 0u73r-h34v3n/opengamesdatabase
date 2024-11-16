@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Black Box"],
+	"genres": ["Racing"],
+	"name": "Need for Speed: ProStreet",
+	"publishers": [
+		"Electronic Arts|EA Games (US, AU, EU, JP)",
+		"Electronic Arts (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/need-for-speed-prostreet",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Need for Speed: ProStreet is a ground-breaking Need for Speed experience where you're thrust to compete head to head against the best street racers in a multitude of racing showdowns. Need for Speed ProStreet accelerates street racing culture by providing the ultimate stage for the pursuit of street racing supremacy."
+}

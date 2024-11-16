@@ -1,0 +1,42 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Santa Monica"],
+	"genres": ["Action", "Adventure"],
+	"name": "God of War II",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEI (KO)",
+		"Sony|SCE Korea (KO)",
+		"Capcom (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2007/02/12/god-of-war-ii-review",
+			"score": 9.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/god-of-war-ii",
+			"score": 93,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/god-of-war-ii/reviews/god-of-war-ii-review-6167249/",
+			"score": 9.2,
+			"max_score": 10
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/god-of-war-ii-review",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "God of War saw Kratos, a mortal warrior, set upon an epic quest to dethrone a God. But his journey did not end there. In God of War II, Kratos sits atop his Olympus throne, as the new God of War - far more ruthless than Ares ever was. To end his continued torment, Kratos must journey to the far reaches of the earth and defeat untold horrors and alter that which no mortal, or god has ever changed, his fate. God of War II sets an epic stage for a devastating mythological war to end all wars. In God of War II, players retake the role of Kratos. Armed with the deadly blades and blistering rage, players are aided by new breath-taking magic and new brutal combat moves. The journey takes them through vividly striking environments where they are faced with a labyrinth of challenging puzzles and mini-games intricately woven into the story. The violent world of Greek mythology comes to life in gory detail as Kratos encounters new mythical characters, and compete in epic boss battles in his quest."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sims"],
+	"genres": ["Action", "Fighting"],
+	"name": "Sega Ages 2500 Series Vol. 11: Hokuto no Ken",
+	"publishers": ["Sega"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Hokuto no Ken is perhaps the most substantial upgrade in the Sega Ages 2500 series, being an remake of the 1986 Sega Mark III release of Hokuto no Ken (known as Black Belt in the west). It is presented entirely in 3D (though gameplay still takes place on a 2D plane). There are more moves and it is more closely linked to the anime. "
+}

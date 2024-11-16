@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crave"],
+	"genres": ["Racing"],
+	"name": "Butt Ugly Martians: Zoom or Doom!",
+	"publishers": ["Vivendi Games|Vivendi Universal Games (EU)", "Crave (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/butt-ugly-martians-zoom-or-doom!",
+			"score": 41,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Race the fastest, most futuristic vehicles in the universe to the ultimate finish line! Emperor Bog is fed up with the Butt-Ugly Martians' antics. To continue their assignment on Earth, the Butt-Uglies must win the Martian Conqueror's Cup -- a heart-pounding, interstellar racing championship."
+}

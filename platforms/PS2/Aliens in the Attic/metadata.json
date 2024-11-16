@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Revistronic"],
+	"genres": ["Action", "Adventure"],
+	"name": "Aliens in the Attic",
+	"publishers": ["Playlogic"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/aliens-in-the-attic",
+			"score": 26,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Aliens in the Attics for the PlayStation 2 gives players a whole new way to experience the story by assuming the identity of different alien explorers whose motives are to rid of the house guests so they can take over the mansion and possibly the world. Players will experience 15 exciting levels, four locations, and switch between players for fast paced action."
+}

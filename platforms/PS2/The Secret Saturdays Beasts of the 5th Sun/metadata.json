@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Secret Saturdays: Beasts of the 5th Sun",
+	"publishers": ["D3Publisher"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-secret-saturdays-beasts-of-the-5th-sun",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In The Secret Saturdays: Beasts of the 5th Sun, players will take control of multiple characters that include the entire Saturday family - Zak, Drew, Doc, Doyle and their pet cryptids, Zon, Komodo and Fiskerton - and some select Cryptids to fly, swing, pole vault and battle enemies. Players will adventure through 10 action packed levels in amazing environments from dangerous jungles to lost undersea cities to collect and interact with more than 30 never-before-seen Cryptids. Along the way, players will record the details of each find in their very own Cryptipedia. Fun puzzle elements allow players to locate hidden Cryptids and discover new paths as they fight recognizable enemies from the show including Van Rook, Piecemeal, Munya and the evil V.V. Argost."
+}

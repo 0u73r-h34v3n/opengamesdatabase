@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Banpresto"],
+	"genres": ["Turn-based strategy", "Simulation", "RPG"],
+	"name": "Dai-3-Ji Super Robot Taisen Alpha: Shuuen no Ginga e",
+	"publishers": ["Banpresto"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Dai-3-Ji Super Robot Taisen Alpha Shuuen no Ginga e'' is the 4th and final installment in the ''Super Robot Wars Alpha'' series. ''Alpha 3'' continues to use the Squad System from its prequel, [[Dai-2-Ji Super Robot Taisen Alpha]], where a maximum of four units can be assigned to a squad that counts as a single unit. Since all playable mecha are of different sizes, a size limit is placed, thus the player must consider building an effective squad. The system also received several improvements including Auto-Generate squads based on different attributes, improved squad attack animations, and more. ''Alpha 3'' also includes 60 new stages and bonus stages and 3 possible endings."
+}

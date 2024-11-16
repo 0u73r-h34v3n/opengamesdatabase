@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Studios"],
+	"genres": ["Racing", "Arcade", "Sports"],
+	"name": "SX Superstar",
+	"publishers": ["Acclaim"],
+	"regions": ["PAL"],
+	"synopsis": "In SX Superstar, you can become the star of Supercross racing. Take one of 24 riders from the poorhouse to the penthouse on 20 tracks around the world. On each track, you can grab big air and combo your way to glory against seven other riders. The cash you earn from each race can buy you better bikes, bigger houses, and other rewards. Showcase your new stuff and talent when you race your friends in multiplayer modes."
+}

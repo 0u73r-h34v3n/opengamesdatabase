@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ImaginEngine"],
+	"genres": ["Family"],
+	"name": "Konami Kids Playground: Dinosaurs - Shapes & Colors",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/konami-kids-playground-dinosaurs---shapes-colors",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Bringing the kinetic excitement of Konami Kids Playground to the Jurassic era, Dinosaurs Shapes and Colors features Rex, Bronto, Steg and Dac in twelve foot-stomping activities that make shapes and colors come to life. Kids will have hours of fun exploring the age of giant reptiles, and parents will appreciate the simple challenges that reinforce familiarity with shapes and colors."
+}

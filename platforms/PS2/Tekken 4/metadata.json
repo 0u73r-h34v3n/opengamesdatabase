@@ -1,0 +1,34 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Fighting"],
+	"name": "Tekken 4",
+	"publishers": [
+		"Namco (JP, US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (KO)",
+		"Sony|SCE Korea (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2002/09/24/tekken-4",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/tekken-4-review/1900-2881304/",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tekken-4",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tekken 4 marks the return of Namco's premier fighting franchise, Tekken.  This version features enhanced graphics, gameplay mechanics, and fearsome fighters.  Newcomers engage old favorites in interactive, multileveled arenas.  The addition of walls, terrain effects, position changes, and enhanced sidestepping will force you to adjust your fighting strategy.  Expanded game modes such as Training, Team Battle and the new Tekken Force provide the player with a deeper gameplay experience."
+}

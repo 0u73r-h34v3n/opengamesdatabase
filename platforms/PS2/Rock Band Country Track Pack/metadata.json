@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Rock Band Country Track Pack",
+	"publishers": ["MTV Games"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rock-band-country-track-pack",
+			"score": 50,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rock Band Country Track Pack is a standalone software product that allows owners of Rock Band and Rock Band 2 to keep the party going with 21 seminal hits from the history of country rock and beyond, hand-picked with care by Harmonix. This Track Pack is also compatible with most Guitar Hero and other instrument controllers."
+}

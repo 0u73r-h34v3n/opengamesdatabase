@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sandlot"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Simple 2000 Series Vol. 81: The Chikyuu Boueigun 2",
+	"publishers": ["D3Publisher (JP, KO)", "Essential Games (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Global Defence Force is a third-person action shooter. Choose from either an GDF infantryman or the flight-capable Pale Wing, each with different abilities and dozens of weapons each, and set out to shoot down hordes of giant insects, enormous robots, and UFOs of incredible scale. You can choose two weapons to carry for each mission, and pickups dropped by enemies will unlock new weapons and increase your character's maximum health. You can play the game split-screen cooperatively."
+}

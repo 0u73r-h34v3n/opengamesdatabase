@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Maxis"],
+	"genres": ["Simulation"],
+	"name": "The Sims 2: Pets",
+	"publishers": ["Electronic Arts|EA Games"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-sims-2-pets",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sims Have New Friends - Pets! Sims can share their lives with their new pets and add more fun to the Sims experience. From dogs, cats, caged animals and more, your Sims share new friends to experience life's precious moments. With so many different animals to choose from, there's no telling what unpredictable experiences could occur. Create-A-Pet: Choose from dozens of dog and cat breeds or customize features for a one-of-a-kind pet. You can even modify your pet's body shape by choosing from specific colors and unique markings. Don't like the way they act? Change their personality - from smart and sweet to silly and sloppy - anyone can create their ideal animal friend in The Sims 2 Pets. Your Sims can encourage and discipline pets, training them to shake, roll over, play dead, and more. Unruly pets might dig in the yard, claw the sofa, or topple the trash. Thankfully, a little training can go a long way. Create and control digital characters over a lifetime, setting their goals in life from popularity and romance, to fortune and family- their stories are in your hands. Use special codes to share unlockable pet accessories, fur types or markings with other The Sims 2 Pets players. Take your Sims and their pet for a romp at any of the nearby park areas, or head to the Central Town Park which is a favorite of pet owners. While there, watch your pet play well with others while your Sim can meet others and socialize with fellow animal lovers. Visit the adjoining Town Center, a great gathering spot for Sims that evolves over time. Once you've seen the latest styles and decided on a purchase, deck your pet out in the latest clothing and accessories around. From geek to chic and cool to casual, your Sim can customize their pet's look with one stop in the Town Center."
+}

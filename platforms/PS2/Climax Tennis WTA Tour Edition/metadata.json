@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Climax Tennis: WTA Tour Edition",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "20 of the most popular top players such as Elena Dokic and Martina Hingis appear under their real names. Depending on the game situation, the mental state of the player changes which can affect the result of the game. A realistic but easy to operate Tennis simulation. "
+}

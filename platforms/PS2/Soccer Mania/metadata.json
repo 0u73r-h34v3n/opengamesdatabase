@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Silicon Dreams"],
+	"genres": ["Sports"],
+	"name": "Soccer Mania",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lego-soccer-mania",
+			"score": 61,
+			"max_score": 100
+		},
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/561805-lego-soccer-mania/index.html",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Soccer Mania, you can play soccer any way you want. Start by building your own team from over 150 different players, ranging from pirates and knights to Arctic explorers. Then, practice your shots in the Skill Zone. Once you're ready for the big game, you can challenge the opposition across various action-packed environments, using power-ups to gain the competitive edge. Soccer Mania takes you on wild tracks with various themes, from the Wild West to Mars."
+}

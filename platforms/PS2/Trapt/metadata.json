@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Simulation", "RPG"],
+	"name": "Trapt",
+	"publishers": [
+		"Tecmo (JP, US)",
+		"Take-Two Interactive (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/trapt/ps2-690627",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/trapt",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Trapt, you can assume the role of Queen Allura, a woman framed for her father's murder and forced into exile. After fleeing into the Black Forest, you become an evil trap master, bent on revenge. You can find justice by strategically employing gruesome medieval traps on those that betrayed you. You can play through Story or Survival modes to unlock additional bonus content, including an even deeper story."
+}

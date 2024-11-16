@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tomb Raider: Anniversary",
+	"publishers": ["Eidos Interactive (EU, US, AU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tomb-raider-anniversary/ps2-835742",
+			"score": 7.8,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Inspired by the first Tomb Raider videogame, originally released in 1996, Lara Croft Tomb Raider: Anniversary is a totally new 2006 adventure for Lara, faithfully preserving the elements which made the original Tomb Raider such a classic. Using an enhanced \"Tomb Raider Legend\" game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artefact known only as the Scion up to today's technology standards and offer gamers a completely new gameplay experience. The puzzles are now more in depth and incorporate environmental interaction and physics driven solutions. The level design and flow of gameplay are inspired by the original videogame making Lara Croft Tomb Raider: Anniversary a brand new experience in gaming, while still invoking the nostalgia of the first adventure in Tomb Raiding."
+}

@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Monolith Productions"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "The Operative: No One Lives Forever",
+	"publishers": [
+		"Sierra Entertainment (US)",
+		"Vivendi Games|Vivendi Universal Games (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Link",
+			"url": "http://www.ign.com/articles/2002/04/23/no-one-lives-forever",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-operative-no-one-lives-forever",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In No One Lives Forever, you assume the role of Cate Archer, a beautiful, but deadly operative working for UNITY--a super-secret organization fighting to free the world from the clutches of H.A.R.M. From tense subterfuge to in-your-face combat, the game features spy action influenced by the 1960s and killer weapons, including a rocket-launching briefcase, a robotic poodle, and exploding lipstick. Through 60 levels of exotic locales, you must battle deadly arch villains, fight off killer sharks, skydive from a plummeting airliner, and explore twisted jungles."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Adrenium"],
+	"genres": ["Action", "Platformer"],
+	"name": "Lemony Snicket's A Series of Unfortunate Events",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Link",
+			"url": "http://www.ign.com/games/lemony-snickets-a-series-of-unfortunate-events/ps2-653006",
+			"score": 7.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/lemony-snickets-a-series-of-unfortunate-events",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the book series and the feature film, this game tells the tale of Violet, Klaus, and Sunny Baudelaire, whose parents perish in a fire. Soon after, they are sent to live with their sinister uncle, Count Olaf, in a cavernous mansion. Now you can help the Baudelaire orphans by using their special skills to journey through 15 missions, from the deep catacombs beneath Olaf's mansion to the gloomy shores of Lake Lachrymose. Collect household items and assemble them into contraptions for puzzle-solving and combat. Wield those items to battle Olaf's minions."
+}

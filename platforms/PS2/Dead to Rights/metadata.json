@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Dead to Rights",
+	"publishers": ["Namco (US, JP)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/games/dead-to-rights",
+			"score": 8.1,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/games/dead-to-rights/reviews/",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dead-to-rights",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_deadtorights_gc",
+			"score": 6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Meet Jack Slate, a cop framed for murder and facing execution.  Slate escapes from Iron Point Maximum-Security Penitentiary to bring down the criminals that framed.  In Dead to Rights, you play the role of Slate, as he fights through the hard streets and corrupt enemies of Grant City.  There are plenty of ways go about bringing the conspirators to justice--Jack can perform disarm moves, shoot different weapons, pick locks, fight hand-to-hand, and play minigames such as arm wrestling, bench press, and dancing.  In this gritty, crime-noir inspired epic, you're always on the run."
+}

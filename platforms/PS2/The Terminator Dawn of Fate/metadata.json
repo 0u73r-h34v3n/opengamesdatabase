@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Paradigm Entertainment"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "The Terminator: Dawn of Fate",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/terminator-dawn-of-fate/ps2-16857",
+			"score": 5.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-terminator-dawn-of-fate",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The machines of Skynet have risen, reaping a bloody harvest of human flesh across the globe. You are a soldier of Tech Com--a ragged team of human-resistance fighters intent upon stopping the cybernetic onslaught in postapocalyptic Los Angeles. The prequel to The Terminator film lets you play as three characters--each with specialized skills and abilities. Your ultimate goal is to travel back in time to 1984, with the hope of preventing a relentless Terminator model T-800 from murdering Sarah Connor--mother of resistance leader John Connor. Armies of cyborgs stand in your way, but you'll have plenty of new weapons and melee moves to clear the path."
+}

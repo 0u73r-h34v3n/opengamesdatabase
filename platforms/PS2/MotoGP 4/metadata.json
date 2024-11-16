@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bandai|Namco Bandai Games"],
+	"genres": ["Racing"],
+	"name": "MotoGP 4",
+	"publishers": [
+		"Sony|SCEE (EU)",
+		"Namco (JP)",
+		"Bandai|Namco Bandai Games (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/06/22/motogp4",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motogp-4",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In this motorcycle simulation, you can play as one of many licensed riders on a variety of bike styles and engine types. MotoGP4 includes a realistic physics engine and upgrade system. Play seven different game play modes on a variety of tracks and weather conditions. In single-player mode, you can earn Grand Prix points, which can be used to unlock tracks bikes, riders, and more. You can also race your bike online against other players or in offline two-player mode."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ITE Media"],
+	"genres": ["Action", "Platformer"],
+	"name": "Agent Hugo",
+	"publishers": ["ITE Media"],
+	"regions": ["PAL"],
+	"synopsis": "Hugo, the TV troll from the Danish television series, is on his way to start his first day at the espionage agency R.I.S.K. (Risky Intelligent Spy Knights) when he is attacked by members of the sinister organization SUSPECTRA. Their plans are threatening the entire city, but Agent Hugo soon discovers there is even more at stake."
+}

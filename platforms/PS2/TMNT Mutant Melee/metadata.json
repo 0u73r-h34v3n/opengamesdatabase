@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|Konami Computer Entertainment Hawaii"],
+	"genres": ["Action", "Fighting"],
+	"name": "TMNT: Mutant Melee",
+	"publishers": ["Konami"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tmnt-mutant-melee/ps2-780730",
+			"score": 6.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Teenage Mutant Ninja Turtles return in their first party game experience. Gather your friends to join you in a variety of minigames and adventures that feature more than 20 playable characters, including all four turtles, Casey Jones, April O'Neil, Master Splinter, and even the evil Shredder. TMNT Mutant Melee features two modes--adventure story and melee match--which are playable either solo or with up to three other players. In each mode, you can collect tokens to unlock additional content."
+}

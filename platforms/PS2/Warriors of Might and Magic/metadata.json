@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action"],
+	"name": "Warriors of Might and Magic",
+	"publishers": ["3DO (US, EU)", "Success (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/367319-warriors-of-might-and-magic/index.html",
+			"score": 49,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/warriors-of-might-and-magic",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Wrenched from the life he knew by unknown forces bent on his destruction, one man embarks upon a fateful journey of legendary proportions. Forced to wear a mask of shame, this renegade warrior sets out to learn the truth about himself and the world he is destined to save. As his nemesis draws ever closer, Alleron finds that hhe is the only one with the power to save his world from certain destruction."
+}

@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Platformer"],
+	"name": "The Simpsons Game",
+	"publishers": [
+		"Electronic Arts|EA Games (US, EU, AU)",
+		"Electronic Arts (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/939418-the-simpsons-game/index.html",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-simpsons-game",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Simpsons Game features a hilarious, sprawling, and mind-busting storyline crafted by the TV show's Emmy Award-winning writers. The action-comedy also features the full cast of voice actors from the TV show who reprise their roles for the game. In The Simpsons Game, Homer, Marge, Bart, and Lisa use exciting, all-new powers to save the world from rising chaos."
+}

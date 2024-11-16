@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eden Games"],
+	"genres": ["Action"],
+	"name": "Titeuf: Mega Compet",
+	"publishers": ["Atari"],
+	"regions": ["PAL"],
+	"synopsis": "Titeuf : Mega Compet is a party game, developped by Eden Games and published by Atari, on PlayStation 2 and Windows, and later on Game Boy Advance."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Left Field Productions"],
+	"genres": ["Racing"],
+	"name": "SCORE International Baja 1000",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/score-international-baja-1000",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Drive the most powerful off-road vehicles in this hair-raising quest for sand supremacy! Experience danger in wheel-to-wheel racing action over some of the wildest and most treacherous terrain the Baja has to offer, with the most insane crashes ever assembled in one game... strap yourself in, this isn't your grandpa's racing game!"
+}

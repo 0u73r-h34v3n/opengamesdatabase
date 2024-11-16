@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Microids"],
+	"genres": ["Racing"],
+	"name": "Ben Hur: Blood of Braves",
+	"publishers": ["Microids"],
+	"regions": ["PAL"],
+	"synopsis": "Ben Hur: Blood of Braves is a 3D chariot racing game set in the time of the Roman empire, where the player will race and battle his opponents across the circuits of the ancient world."
+}

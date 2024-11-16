@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "Alfa Romeo Racing Italiano",
+	"publishers": [
+		"Black Bean Games (EU)",
+		"Valcon Games (US)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/alfa-romeo-racing-italiano/ps2-726240",
+			"score": 4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/alfa-romeo-racing-italiano",
+			"score": 43,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You are the driver. You've been given a finely tuned car which has been prepared by some of Italy's finest mechanics and you know it is fast enough to win. But do you have the skills? In Racing Italiano winning comes down to how tuned you are! Put your skills to the test across a wide variety of racetracks from the hills of Tuscany to the streets of Milan, from the forever-challenging Laguna Seca to the incredibly fast Hockenheim circuit. Be the first to experience exclusive features such as the Tiger Effect, which gives you the ability to reverse time in the race, and many other extraordinary elements that Squadra Corse brings to the driving genre."
+}

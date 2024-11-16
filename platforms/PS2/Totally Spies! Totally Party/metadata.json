@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["OUAT Entertainment"],
+	"genres": ["Action"],
+	"name": "Totally Spies! Totally Party",
+	"publishers": ["Ubisoft (AU, EU)", "Valcon Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Sam, Alex and Clover decide to room together in their \"dream house.\" Life couldn't get cooler, until they've unwittingly made their home right above an Underground Secret Services Center. To prevent a catastrophic security leak, Jerry, the Center Chief has no choice but to take on them as special agents. The game is primarily based upon a series of mini-games distributed around 10 boards and a showroom. On each board, 1 to 3 players will be able to face-off with a \"bad guy.\" The players must win the mini-games in order to gain popularity points and lay traps against the bad guy. Watch out, the bad guys can also lay traps!"
+}

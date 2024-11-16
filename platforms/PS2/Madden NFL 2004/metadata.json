@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 2004",
+	"publishers": ["Electronic Arts|EA Sports (US, EU)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madden-nfl-2004",
+			"score": 94,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In its 14th season, Madden NFL Football isn't showing signs of slowing down. Madden NFL 2004 adds new features such as Playmaker Control and Owner Mode to it's deepen its football simulation. This year, players can make adjustments after the snap and create championship caliber plays with the easy-to-use Playmaker Control. The new Owner mode allows you build and manage your own stadium in addition to your own team. Compete against other players through EA Sports Online Tournaments. With new plays, modes, and online play, Madden NFL 2004 is the most complete, authentic installment in the series yet."
+}

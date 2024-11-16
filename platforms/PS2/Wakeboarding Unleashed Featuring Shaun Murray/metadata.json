@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Shaba Games"],
+	"genres": ["Sports"],
+	"name": "Wakeboarding Unleashed Featuring Shaun Murray",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/wakeboarding-unleashed-featuring-shaun-murray",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Wakeboarding Unleashed rips you across a lake by a high-powered speedboat as you perform tricks through dangerous terrain. As one of seven world-class wakeboarders, you'll crash into houseboats and catch huge air in nine exotic levels. If you become too tired, then drive the boat and help your friend pull off challenging technical tricks on the water. Wakeboarding Unleashed takes wakeboarding to the next level with realistic water, unique interaction with the rope, and a fun cooperative mode."
+}

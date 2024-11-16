@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Action", "Fighting"],
+	"name": "Bleach: Blade Battlers",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "In the Blade Battlers series, the player takes control of one of many characters from the source material. As with most other fighting games, the idea is to fight the opposing character, or characters in the free-for-all mode, until their health is fully depleted. Players can use their characters' special abilities taken from the series, such as Ichigo Kurosaki's ability to unlock his bankai state or Rukia Kuchiki's control over ice with her zanpakutō. Some of these abilities may alter the arena, such as Rukia's zanpakutō causing the battlefield to become covered in ice and making other players slide around."
+}

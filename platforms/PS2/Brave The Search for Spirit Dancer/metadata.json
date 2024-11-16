@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["VIS Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "Brave: The Search for Spirit Dancer",
+	"publishers": ["Sony|SCEE (EU)", "SouthPeak Games (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/brave-the-search-for-spirit-dancer",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Brave is the sole escapee of an attack by the vicious Wendigo spirit. His tribe enslaved, their only hope is that Brave can find Spirit Dancer, the greatest shaman to ever live. Only Spirit Dancer has the power to defeat the Wendigo and release them. So starts Brave's epic journey... Brave takes you on a journey through beautifully rich and interactive scenery. Hunt wolves in the depths of the forest, face stampedes of buffalo and canoe down crashing rapids in the search for Sprit Dancer. Master a range of talents from combat with a tomahawk and bow, to animal tracking and mimicry. Your hunting skills are surpassed only by initiation into the ways of the shaman. Overcome bizarre creatures and terrifying foes, learning to work alongside and possess animal spirits as you progress. Take on the shape of the smallest rabbit to escape down burrows or the form of a mighty bear spirit to battle your foes."
+}

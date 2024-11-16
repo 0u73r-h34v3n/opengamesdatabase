@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Warashi"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Simple 2000 Series Vol. 37: The Shooting: Double Shienryu",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Steel Dragon EX offers the best in classic 2D arcade action. Using a wealth of power ups and weaponry, you must save the earth from a robot invasion headed by incredibly powerful bosses across many varied stages."
+}

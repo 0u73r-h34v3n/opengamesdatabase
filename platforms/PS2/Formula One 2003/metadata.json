@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Studio Liverpool"],
+	"genres": ["Racing"],
+	"name": "Formula One 2003",
+	"publishers": ["Sony|SCEE"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/915239-formula-one-2003/index.html",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game features all ten teams and twenty drivers competing in the 2003 season (except for mid-season changes), as well as the sixteen circuits and Grands Prix that formed the championship calendar. The game also includes the new one-shot qualifying rules and points system introduced for the season, as well as the alterations to the Hungaroring and Suzuka circuits. There are eleven game modes available for single and multiplayer, including single player arcade and simulation single race, time trial and championship modes, multiplayer for up to 4 players and a non-interactive spectator option. Online connectivity is not supported."
+}

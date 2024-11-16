@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Echo Night: Beyond",
+	"publishers": ["From Software (JP)", "Agetec (US)", "Indie Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/echo-night-beyond",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A horrific crash on the Moon Colony has left you separated from your fianc&eacute;e. To reunite with her, you must journey into the paranormal world of Echo Night: Beyond. As you explore the different environments in the lunar colony, you'll find a desolate base haunted by the spectral remains of those who called it \"home.\" Through the fog and shadows, you must overcome your fears and solve a variety of challenging puzzles."
+}

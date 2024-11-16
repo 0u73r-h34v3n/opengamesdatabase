@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "ESPN Winter X-Games Snowboarding 2002",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/espn-winter-x-games-snowboarding-2002",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With real professional snowboarders, boards, and other assorted gear, ESPN's Winter X Games Snowboarding 2002 is one exciting trick-based snowboarding game.  Starring gold medallists Peter Line as well as over 12 other top-notch snowboarders, this PS2 snow-shredder boasts pre- and post-race coverage, with statistics from the biggest names in the sport."
+}

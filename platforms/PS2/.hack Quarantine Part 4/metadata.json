@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//Quarantine Part 4",
+	"publishers": ["Bandai (JP, US, KO)", "Atari (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/499/499465.html",
+			"score": 8.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackquarantine-part-4",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The final episode of the ''.hack'' saga, ''.hack Part 4: Quarantine'', is finally here and now the game has you rushing to complete it.  This time, you're against the clock as you play as the outlaw player Kite.  You must stop CC Corp from moving the game servers offline and killing comatose victims.  Upload your saved data from Part 3 and start out with leveled up characters and items to give you a head start.  It's your chance to finally unravel the mystery behind \"The World.\""
+}

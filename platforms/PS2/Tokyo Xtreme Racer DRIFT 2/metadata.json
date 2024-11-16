@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["Racing"],
+	"name": "Tokyo Xtreme Racer DRIFT 2",
+	"publishers": ["Genki (JP)", "Konami (AU, EU)", "Crave (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/938117-tokyo-xtreme-racer-drift-2/index.html",
+			"score": 52,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tokyo-xtreme-racer-drift-2",
+			"score": 46,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The mountains of Japan are calling - and so are your racing rivals. With the mysterious disappearance of the reigning champion, the tournament crown is suddenly up for grabs. Many will vie, only one can win. Do you have what it takes to race, grind and drift your way to the ultimate racing prize? Race in the dangerous mountains of Japan - Hakone, Niko, Haruna and Akagi - all faithfully recreated using the most advanced laser techniques to maintain every tight twist and hazardous turn. Enter your car in legal races held during the day for money - enter the underground races at night to defeat your bitter rivals. The championship and glory are waiting. Race over 180 true-to-life cars from 16 manufactures. Hunt down rivals on the track and in off road rallies. Unleash your inner gearhead with unlimited engine alterations. Tweak your car to the exact specification for your race and driving style. Beware of changing weather that affects your race. Experience an engaging story as you race where drifting was born."
+}

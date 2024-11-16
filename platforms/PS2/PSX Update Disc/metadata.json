@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|Sony Computer Entertainment"],
+	"genres": ["Tools"],
+	"name": "PSX Update Disc",
+	"publishers": ["Sony|Sony Corporation"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Software update discs for Sony digital video recorder (PSX) with a fully integrated PlayStation 2 video game console. The high cost of PSX (released in December 2003) resulted in poor sales, and the product was discontinued a year later (February 2005)."
+}

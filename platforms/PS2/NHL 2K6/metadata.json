@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["2K|2K Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 2K6",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2k6",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NHL 2K6 is a realistic hockey simulation in which you must take part in all aspects of running a franchise, from scheduling workouts to hitting a slap shot. The game includes revamped animations and more realistic player movement. NHL 2K6 also includes on-the-fly coaching that lets you make decisions during the game to affect your teams strategy and execution. You can even go online to challenge other gamers, track stats, or join a league."
+}

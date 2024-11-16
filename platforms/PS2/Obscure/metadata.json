@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Hydravision"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Obscure",
+	"publishers": ["Microids (EU)", "DreamCatcher Interactive (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/obscure",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by recent \"teen slasher\" movies and TV shows, Obscure takes you to a deserted high school rife with tortured screams and faceless creatures. In single-player mode, you'll play as one of five students teamed with a computer-controlled character. In cooperative mode, your friend can play as your partner. As you explore the school, you must combine your weapons with artificial or natural light sources to drive away the monsters."
+}

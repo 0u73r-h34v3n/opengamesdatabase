@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rage Software"],
+	"genres": ["Sports"],
+	"name": "David Beckham Soccer",
+	"publishers": ["Rage Software"],
+	"regions": ["PAL"],
+	"synopsis": "Developed under the watchful eye of international soccer superstar David Beckham, David Beckham Soccer offers the complete soccer experience.  The game features over 200 top international and club teams in which players compete throughout a vast array of competitions and game modes, including the exclusive \"Train with Beckham\" mode.  In Training Mode, players hone their skills with a series of tests devised by David Beckham, including corner shots, shooting, passing, and free kicks."
+}

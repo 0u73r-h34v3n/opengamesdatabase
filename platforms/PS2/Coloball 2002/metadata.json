@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vanpool"],
+	"genres": ["Turn-based strategy", "RPG", "Board"],
+	"name": "Coloball 2002",
+	"publishers": ["Enterbrain"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The board game \"Coliseum Ball\" where two teams fight on the ball is now on the PlayStation 2 as \"Coroball 2002\". Place units on the hexagonal panel on the surface of the ball, and if there are enemy units on the same panel, start the battle! Get point for defeating the opponent's unit! The game is decided by the score. Because it's a video game, you can play comfortably without the unit falling off the ball! "
+}

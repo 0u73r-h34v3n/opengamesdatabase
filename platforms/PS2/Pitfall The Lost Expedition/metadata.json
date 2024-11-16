@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Edge of Reality"],
+	"genres": ["Action", "Platformer"],
+	"name": "Pitfall: The Lost Expedition",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/589540-pitfall-the-lost-expedition/index.html",
+			"score": 72,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pitfall-the-lost-expedition",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Delving deep in the Peruvian Jungle, you assume the role of Pitfall Harry--a fearless, rough-and-ready treasure seeker who battles evil using his athletic ability and a knapsack filled with adventure gear.  Your mission: Race against a rival explorer to find hidden treasures, which could spell doom for you and your friends if they fall into the wrong hands.  The game challenges you to explore an obstacle-filled world featuring over 50 perilous levels, including lush rainforests, creature-ridden caves and vast glacial mountains.  You'll be swinging on vines, avoiding crocodiles and dodging rolling logs as you unearth artifacts and use your cunning to defeat dangerous foes."
+}

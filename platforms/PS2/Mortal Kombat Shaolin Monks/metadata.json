@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway Studios - Los Angeles"],
+	"genres": ["Action", "Fighting"],
+	"name": "Mortal Kombat: Shaolin Monks",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/mortal-kombat-shaolin-monks/ps2-709115",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mortal-kombat-shaolin-monks",
+			"score": 77,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/mortal-kombat-shaolin-monks-review/1900-6133891/",
+			"score": 7.5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Mortal Kombat: Shaolin Monks is an action adventure game set in the world of Mortal Kombat. As Liu Kang or Kung Lao, you must battle enemies to gain experience and customize your player. Combat features include air combat, juggling, weapons, interactive environments and an increased number of fatalities, \"mutalities,\" and brutalities. As you progress through the Outworld you can unlock additional classic Mortal Kombat characters."
+}

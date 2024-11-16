@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Princess Soft"],
+	"genres": ["Visual Novel"],
+	"name": "3LDK: Shiawase ni Narouyo",
+	"publishers": ["Princess Soft"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The name \"3LDK\" comes from the naming system the Japanese use to describe their apartments and homes. L"
+}

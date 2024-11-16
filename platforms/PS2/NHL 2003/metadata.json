@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 2003",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2003",
+			"score": 79,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In order to become a superstar in the NHL, you'll need a combination of speed, power, and moves. NHL 2003 gives you the abilities of all the stars and teams of pro hockey, but it's up to you to master them. This time, you have full control of the puck with Dynamic Deke Control and accurate puck physics. The game also features four game modes, including Create-a-Player, enhanced sounds and animations, and dynamic camera work to bring you closer to the NHL action."
+}

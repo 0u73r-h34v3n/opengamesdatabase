@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "International Superstar Soccer 2",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "The latest chaper in Konami's highly acclaimed ISS series combines the advanced capabilities of GAMECUBE and super-refined gameplay to provide you the ultimate football experience on Nintendo's next generation video game system. Enjoy state of the art graphics and ball physics, 5 exciting game modes, a choice of 58 national teams, professional live commentary and TV style presentation!"
+}

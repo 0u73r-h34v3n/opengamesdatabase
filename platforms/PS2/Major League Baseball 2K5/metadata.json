@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Kush Games"],
+	"genres": ["Sports"],
+	"name": "Major League Baseball 2K5",
+	"publishers": ["Take-Two Interactive"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/major-league-baseball-2k5",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Major League Baseball 2K5 debuts On Command Baserunning, that includes active picture-in-picture baserunning, and new gameplay features called Maximum Sliding and Baseburner Mode. Active picture-in-picture baserunning delivers both an exciting presentation style and an intuitive method to precisely control runners. The new baserunning mechanic utilizes the right analog thumbstick to choose how baserunners slide -- head or feet first -- in conjunction with hook sliding left or right of the base. Players will be able to reach a base quicker, get up more quickly from a slide, or avoid being tagged out with the new freedom found in Maximum Sliding. Baseburner Mode allows the gamer to play any 'at-bat' through the perspective of any baserunner, delivering precision control to gamers."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TOSE"],
+	"genres": ["Racing"],
+	"name": "Ferrari F355 Challenge",
+	"publishers": ["Sega (JP, US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/ferrari-f355-challenge/",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ferrari-f355-challenge",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ferrari F355 Challenge re-creates the complete Ferrari driving experience on the world's fastest racetracks. In five gameplay modes, you can race in popular racing venues around the world. Take on a friend in a split-screen head-to-head race, and then replay the action. Even amateur drivers can get up to speed using the new Assist function to hone their skills step-by-step. The game also features broadcast-style camera angles to further immerse you in the races."
+}

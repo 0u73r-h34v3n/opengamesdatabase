@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["DC Studios"],
+	"genres": ["Sports"],
+	"name": "Le Tour de France: Centenary Edition",
+	"publishers": ["Konami"],
+	"regions": ["PAL"],
+	"synopsis": "Le Tour de France: Centenary Edition is the most true and complete simulation of the tournament possible. Boasting a comprehensive roster of officially endorsed riders and teams, the Centenary Edition has been overseen by Konami and builds upon last year's initial Le Tour de France title with the addition of new game features, enhanced tactical elements and six new tracks painstakingly modelled on those of the 2003 Tour de France."
+}

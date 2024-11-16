@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Creat Studios"],
+	"genres": ["Racing"],
+	"name": "American Chopper",
+	"publishers": [
+		"Activision|Activision Value (US)",
+		"Zoo Digital Publishing (EU)"
+	],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/american-chopper",
+			"score": 47,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be hired into the shop of the hit tv series American Chopper. Here's your chance to create, build and ride the bikes featured on American Chopper. Experience firsthand all the hardwork, drama and thrill of creating the most sought after bikes in the world!"
+}

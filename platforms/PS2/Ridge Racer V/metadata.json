@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Namco"],
+	"genres": ["Racing"],
+	"name": "Ridge Racer V",
+	"publishers": ["Namco"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ridge-racer-v",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The asphalt of Ridge City is once again thundering with high-speed action and palm-sweating competition. The checkered flag is flying and so are the cars. Amazingly detailed visuals, from the glowing of heated brake pads tot he smoldering of tires in a power-slide, will have you captivated as the battle for supremacy races on. It's all about speed, power, and control. With Ridge Racer V, your search for unforgiving racing intensity is over."
+}

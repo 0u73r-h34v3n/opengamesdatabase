@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cattle Call"],
+	"genres": ["RPG"],
+	"name": "Tsugunai: Atonement",
+	"publishers": ["Sony|SCEI (JP)", "Atlus (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/tsugunai-atonement-141890/ps2-15809",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tsugunai-atonement",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Reise, the main character of the gam is a Raven. A sort of mercenary who takes dangerous jobs to earn a living. The game opens as Reise climbs an ancient tower to retrieve the Treasure Orb, a sacred artifact. In doing so he angers the gods who retaliate by separating Reise's body and soul. In order to atone for his sins Reise must demonstrate kindness and courage by assisting the denizens of a small fishing village."
+}

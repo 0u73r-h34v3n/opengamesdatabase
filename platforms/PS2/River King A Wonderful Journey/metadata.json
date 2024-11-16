@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Sports"],
+	"name": "River King: A Wonderful Journey",
+	"publishers": [
+		"Marvelous Entertainment (JP)",
+		"505 Game Street (EU)",
+		"Natsume Inc. (US)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/river-king-a-wonderful-journey/ps2-701270",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/river-king-a-wonderful-journey",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hook, line and sinker, you're part of a long line of fishing folk. From father to son and mother to daughter, knowing where and what to fish was always part of your family mangrove tree. Only one thing is missing from the long list of accomplishments, a fish that shook hooks for generations: The River King. Perhaps today, perhaps this cast, you'll feel the strum of a tight line as the legendary giant pulls you into angling immortality. Play as one of four family members. Assist villagers and other shoreline folk. Win it all in fishing and cooking contests. Take on crafty critters in tricky trivia challenges."
+}

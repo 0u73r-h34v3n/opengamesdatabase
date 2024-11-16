@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crave"],
+	"genres": ["Sports"],
+	"name": "Ski and Shoot",
+	"publishers": ["Crave"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Five new tracks await you, including two new original World Cup tracks. Savor the wintry atmosphere and compete against the top stars of this sport as virtual opponents."
+}

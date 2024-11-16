@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "MVP 06 NCAA Baseball",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/mvp-06-ncaa-baseball",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA Baseball makes its video game debut with MVP 06 NCAA Baseball. You can control all the aspects of your throws and swings with the right analog stick. The game includes licensed teams, equipment, and ballparks from around the country. You can also customize many aspects of gameplay by creating ballparks, players, and universities, and by taking part in recruiting and in-depth stat tracking. In addition to the Road to Omaha career mode, the game features various multiplayer games."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Asobo Studio"],
+	"genres": ["Action", "Platformer"],
+	"name": "WALL-E",
+	"publishers": ["THQ (US, EU, AU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/wall-e",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Players will take control of WALL-E and EVE through a fast-paced adventure based on the upcoming DisneyPixar film. The game will allow fans to relive some of the movie's most thrilling moments as they explore 10 worlds filled with non-stop action and adventure, along with head-to-head multiplayer challenges. Players will recognize the storyline, characters and key locations from the WALL-E film as they carry out intense missions, dodge dangerous enemies and navigate their way through a futuristic world."
+}

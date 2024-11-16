@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Sports"],
+	"name": "WWE SmackDown! vs. Raw",
+	"publishers": ["THQ (US, EU)", "Yuke's (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/wwe-smackdown!-vs-raw",
+			"score": 80,
+			"max_score": 100
+		}
+	],
+	"synopsis": "WWE SmackDown! vs. Raw brings two of wrestling's most popular game series together on the PS2. The game re-creates WWE programming with voice-overs and commentary throughout the season mode. During matches, you can learn a host of new gameplay moves, such as stare-downs, chop battles, and submission reversals. You can also try out situational challenges or create your own championship. Play as your favorite wrestler, including legends and Divas, and prove to the world that you have what it takes to be the WWE champion."
+}

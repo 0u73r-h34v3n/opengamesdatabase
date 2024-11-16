@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ensemble Studios"],
+	"genres": ["RTS"],
+	"name": "Age of Empires II: The Age of Kings",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_aoe2_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "The Age of Kings is set in the Middle Ages and contains thirteen playable civilizations. They are the Britons, Byzantines, Celts, Chinese, Franks, Goths, Japanese, Mongols, Persians, Saracens, Teutons, Turks, and the Vikings. Players aim to gather resources, which they use to build towns, create armies, and defeat their enemies. There are five historically based campaigns, which constrict the player to specialized and story-backed conditions"
+}

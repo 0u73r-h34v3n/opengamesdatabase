@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["Racing"],
+	"name": "Tokyo Xtreme Racer: Zero",
+	"publishers": ["Genki (JP)", "Crave (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/448657-tokyo-xtreme-racer-zero/index.html",
+			"score": 78,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/tokyo-xtreme-racer-zero",
+			"score": 76,
+			"max_score": 100
+		}
+	],
+	"synopsis": "No grandstands, no checkered flag--Tokyo Extreme Racer Zero is just pure head-to-head competition. Race through the streets of Tokyo at up to 200 miles an hour and challenge other racers to winner-take-all competitions. As you gain victories, you can customize your car with over 125 parts, new paint jobs, and stickers. You'll need a finely tuned machine, plus quick reflexes, and nerves of steel if you want to become Emperor of the Highway."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"name": "Ikki Tousen: Shining Dragon",
+	"publishers": ["Marvelous Entertainment (JP)", "Valcon Games (US)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ikkitousen: Shining Dragon is a fighting game based off the Ikki Tousen anime franchise. The game has an original storyline with Hakufu, Ryomou, and Kanu as the main playable characters. The game introduces a new character named Chousen, the Japanese counterpart of Diao Chan (one of the Four Beauties of ancient China)."
+}

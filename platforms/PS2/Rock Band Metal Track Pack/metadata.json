@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Harmonix Music Systems"],
+	"genres": ["Music"],
+	"name": "Rock Band Metal Track Pack",
+	"publishers": ["MTV Games"],
+	"regions": ["NTSC-U"],
+	"synopsis": "Summoning power from the metal gods on high, the Rock Band team has assembled 20 on-disc tracks exploding with bone-crushing, ear-lashing, face-melting metal including anvil-heavy cuts from Godsmack, Children of Bodom, Evile, Judas Priest, Bullet For My Valentine and more! Six of the on disc tracks are brand new to the Rock Band platform and will be exclusive to the Rock Band Metal Track Pack disc for a limited time before joining the Rock Band Music Store as downloadable content."
+}

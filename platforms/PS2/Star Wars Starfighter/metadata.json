@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["LucasArts"],
+	"genres": ["Simulation", "Action"],
+	"name": "Star Wars: Starfighter",
+	"publishers": [
+		"LucasArts (US, JP)",
+		"Activision (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/02/22/star-wars-starfighter-3",
+			"score": 9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-starfighter",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Courage, skill, and honor are the three primary qualities you must bring to Star Wars Starfighter, a flight adventure that features intense air and space combat. Join three starfighter pilots in a series of harrowing missions to save Naboo and the galaxy from the oppressive abuses of the Trade Federation. You'll pilot the Naboo N-1 and a variety of never-before-seen craft through real-world environments. Your fighting skills will be put to the test in more than 14 intense missions."
+}

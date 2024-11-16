@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Turn-based strategy"],
+	"name": "Romance of the Three Kingdoms XI",
+	"publishers": ["Koei", "Koei|Koei Tecmo Games (JP)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/romance-of-the-three-kingdoms-xi",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Rediscover an ancient civilization with an explosive history in the most stunning edition of Romance of the Three Kingdoms. Based on the 120-chapter novel that recounts the near collapse of China at the end of the Han Dynasty and the fateful events that followed during the 2nd and 3rd centuries A.D.. You will need to dig deep within to prove yourself adept at both the military and political arts in order to bring China under one rule."
+}

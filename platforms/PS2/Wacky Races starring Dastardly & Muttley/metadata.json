@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Infogrames"],
+	"genres": ["Racing"],
+	"name": "Wacky Races starring Dastardly & Muttley",
+	"publishers": ["Infogrames"],
+	"regions": ["PAL"],
+	"synopsis": "The wackiest, wildest cartoon racing game ever is here. Based on the original Hanna-Barbera cartoon, Wacky Races lets you join your favorite characters on a wild race where only your wits, your driving skills and your bag of dirty tricks will get you across the finish line first!  -11 wacky characters to play including Penelope Pitstop, Dick Dastardly & Muttley, and the Slag Brothers -Each vehicle has its own special gadgets and unique abilities -Race across 22 tracks filled with jumps, shortcuts, tunnels, and traps -Foil your adversaries with foul tactics and diabolical schemes -Select from multiple racing modes - Track Challenge, Wacky Cup, Dastardly Time Trials, Vs., Golden Muttley Challenge, and more!"
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Milestone|Milestone S.r.l"],
+	"genres": ["Racing"],
+	"name": "MotoGP 07",
+	"publishers": ["Capcom (EU, US, JP)", "THQ (AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/motogp-07-review/1900-6182321/",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/motogp-07",
+			"score": 62,
+			"max_score": 100
+		}
+	],
+	"synopsis": "As an officially licensed MotoGP title, MotoGP 07 for the PlayStation 2 will feature all the riders, bikes, teams and tracks from the 2007 season. Players can faithfully re-create the excitement and passion of the sport and experience the rivalries and competition synonymous with the world's premier motorcycling championship, as they ride for glory. Compete in a full season, create your own customised season, or select a one-off race either on your own or against a friend."
+}

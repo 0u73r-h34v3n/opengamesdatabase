@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 4: Xtreme Legends",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dynasty-warriors-4-xtreme-legends",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dynasty Warriors 4: Xtreme Legends includes all 42 characters from the original Dynasty Warriors 4, with new gameplay elements.  Engage in randomly generated skirmishes in Xtreme Mode.  Live the exploits of all warriors in Legends Mode.  Experience endurance-style duels in the Arena Challenge.  Play it by itself or in conjunction with the original using Xtreme Legends' disc swap feature.  Here's your chance to become a legend among legends."
+}

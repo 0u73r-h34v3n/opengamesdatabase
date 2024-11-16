@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Core Design|Core Design Ltd."],
+	"genres": ["Simulation"],
+	"name": "Thunderstrike: Operation Phoenix",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/thunderstrike-operation-phoenix",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A deadly new adversary has struck at all the principal nations, paralyzing the world. The world's allied forces immediately call for a global summit, merging their weapons resources and technologies into a clandestine project entitled Operation Phoenix. In control of the most advanced Gun-Ship technology known to man, you're the best shot the free world has for peace.  Your objective is clear: Resolve All Situations."
+}

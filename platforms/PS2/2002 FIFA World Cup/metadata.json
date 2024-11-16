@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "2002 FIFA World Cup",
+	"publishers": [
+		"Electronic Arts|EA Sports (US)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/2002-fifa-world-cup",
+			"score": 73,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kick off the FIFA World Cup season with 2002 FIFA World Cup, which captures every moment of glory, every emotion, and every sound of the global event. The game boasts licenses from the official FIFA World Cup, insignia, mascots, and the 20 new World Cup stadiums in Japan and Korea. Another enhancement includes Air Play, a new control scheme that delivers intuitive one-button headers, volleys, scissors kicks, juggling, and more. Choose your team and then compete in a seven-game series beginning with round-robin play, followed by playoffs that lead to the final match."
+}

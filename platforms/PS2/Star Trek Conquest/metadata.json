@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["4J Studios"],
+	"genres": ["Turn-based strategy"],
+	"name": "Star Trek: Conquest",
+	"publishers": ["Bethesda Softworks (US, JP)", "Koch Media (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-trek-conquest",
+			"score": 54,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Star Trek: Conquest is a single-player game of galactic conquest featuring a blend of strategy and action set in The Next Generation era. Players take control of Federation, Klingon, Romulan, Cardassian, Dominion, and Breen forces and lead them in a campaign to control the galaxy, one planet at a time. Players must build and manage their growing empires in turn-based strategy, and then engage in all out starship combat in real-time action."
+}

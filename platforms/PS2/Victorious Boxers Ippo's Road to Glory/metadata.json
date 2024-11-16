@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["ESP Software"],
+	"genres": ["Sports"],
+	"name": "Victorious Boxers: Ippo's Road to Glory",
+	"publishers": [
+		"ESP Software (JP)",
+		"Empire Interactive (EU, US)",
+		"AK Communications (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/victorious-boxers-ippos-road-to-glory",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Tape up your hands, pull on your gloves and get ready to go toe-to-toe with some of the most accomplished boxers you're ever likely to meet. Victorious Boxers places you directly in the ring as Ippo Makunouchi on his quest to become the champion. But first you must prove to the coach that you're worth training!"
+}

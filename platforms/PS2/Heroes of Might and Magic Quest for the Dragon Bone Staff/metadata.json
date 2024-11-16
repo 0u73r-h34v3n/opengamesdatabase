@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["New World Computing"],
+	"genres": ["Turn-based strategy"],
+	"name": "Heroes of Might and Magic: Quest for the Dragon Bone Staff",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/heroes-of-might-and-magic-quest-for-the-dragonbone-staff/ps2-15575",
+			"score": 7.7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/heroes-of-might-and-magic-quest-for-the-dragon-bone-staff",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Darkness reigns. Sinister creatures stalk the innocent. King Argus III lies helpless and unconscious, dying from the assassination attempt that has left him poisoned and weak. Malazak, the revenge-driven son of the Wyrm-Father, awaits King Argus's death so he can divide the kingdom between himself, a demon, and a dark minotaur. Only one possesses the power to set things right. You must find the DragonBone Staff."
+}

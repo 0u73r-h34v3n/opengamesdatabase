@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eighting"],
+	"genres": ["Action", "Fighting"],
+	"name": "Zatch Bell! Mamodo Battles",
+	"publishers": ["Bandai"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/zatch-bell!-mamodo-battles",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Every one thousand years, one hundred mamodo descend upon the earth to conduct the ultimate battle. The winning mamodo becomes the mighty king of the mamodo world. There is only one problem - in order for the mamodo to use their powerful spell books, they need a human partner! Join Zatch and Kiyo on their ultimate battle and help them to realize their special friendship. Play as your favorite mamodo team. Features game original spells/attacks. Featuring environments from the TV show. Featuring voice acting by the original TV show cast. Collect cards within the game to unlock more powerful mamodo."
+}

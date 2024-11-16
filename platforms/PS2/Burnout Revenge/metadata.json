@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Criterion Games"],
+	"genres": ["Racing"],
+	"name": "Burnout Revenge",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/burnout-revenge-review/1900-6132965/",
+			"score": 9.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/burnout-revenge",
+			"score": 90,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2005/09/09/burnout-revenge-3",
+			"score": 8.9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Burnout Revenge is a racing game in which your desire for destruction is as important as your ability to reach the finish line. The sequel to Burnout 3 adds some new features such as detailed car damage, crash combos, and a meter that rewards vengeance on the road. Game modes run the range from pure racing to pure destruction on a handful of real-world locations, including Detroit and Rome. Burnout revenge also supports online play for challenging other players."
+}

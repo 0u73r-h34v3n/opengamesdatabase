@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "The King of Fighters XI",
+	"publishers": [
+		"SNK Playmore (JP, KO, AU, US)",
+		"Ignition Entertainment (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/the-king-of-fighters-xi",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The world has been rocked by two major events - Mukai has stolen the Orochi seal and the theft of the Yata Mirror by Ash Crimson. Just as the dust had settled, a new King of Fighters tournament was announced - a tournament which brings together some familiar faces, as well as new comers to the world of King of Fighters. Not all is what it seems in this new tournament. There are too many unanswered questions. Too many mixed objectives. Who are the group 'Past Coming People' and what do they really plan to do? Where would Orochi's force finally land once the seal is finally open? Will Chizuru and his friends still be able to seal Orochi? And just what is Ash Crimsons' true plan? Total of 11 teams; 47 Characters, including 3 all new characters to the franchise. Exclusive PS2 characters: Mai Shiranui, Mr Big, Geese Howard, Tung Fu Rue, Robert Garcia, Hotaru Futaba, and EX Kyo Kusanagi. 7 Playable Boss Characters - Adelheid Bernstein, Gai Tendo, Sho Hayate, Jazu, Silver, Shion and Magaki. Fast paced action all the way - 3 new abilities added QUICK SHIFT, SAVING SHIFT and DREAM CANCEL, as well as the new JUDGEMENT SYSTEM and the introduction of SKILL STOCKS. Various modes of play including: Arcade Play, Team Play, Endless, Challenge and Practice. 14 New Endings not present in the arcade version."
+}

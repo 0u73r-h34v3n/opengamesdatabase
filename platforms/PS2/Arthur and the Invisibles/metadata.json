@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Etranges Libellules"],
+	"genres": ["Action", "Adventure"],
+	"name": "Arthur and the Invisibles",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/arthur-and-the-invisibles",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play through the incredible tale of Arthur and his two friends, Selenia and Betameche and explore the lush action-packed world of the Invisibles. Your Mission: Rescue Arthur's grandfather and recover the lost treasure."
+}

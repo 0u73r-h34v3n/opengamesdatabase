@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Collection"],
+	"name": "Shin Sangoku Musou 3 Premium Pack",
+	"publishers": ["Koei"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|Japanese editions of [[Dynasty Warriors 4|Shin Sangoku Musou 3]], [[Dynasty Warriors 4: Xtreme Legends|Shin Sangoku Musou 3 Moushouden]].}}"
+}

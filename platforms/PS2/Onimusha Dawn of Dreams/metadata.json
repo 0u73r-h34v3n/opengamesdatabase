@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure", "Hack and Slash", "Horror"],
+	"name": "Onimusha: Dawn of Dreams",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/03/04/onimusha-dawn-of-dreams",
+			"score": 8.8,
+			"max_score": null
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/onimusha-dawn-of-dreams",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Onimusha: Dawn of Dreams is the 4th installment in Capcom's third-person action franchise. You play as Soki, a young and powerful warrior who with the help of several people attempts to defeat the evil Hideyoshi and the Genma forces. There are new characters to join you that can be controlled through the artificial intelligence of the game and a new gameplay system that lets you take control of those characters throughout the game. In addition, you will be able to customize your character with items, weapons, guns, rings and necklaces."
+}

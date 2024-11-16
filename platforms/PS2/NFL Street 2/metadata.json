@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "NFL Street 2",
+	"publishers": ["Electronic Arts|EA Sports Big"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nfl-street-2",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for more fancy moves, new modes, and online play in the sequel to NFL Street. Now you can jump 15 feet high to make catches off the wall, dive into the end zone, or pull off wild jukes. You can master these new abilities in seven new game modes, including \"crush the carrier\" and \"own the city.\" Create your own player, master new skills, and hit the streets both offline and online."
+}

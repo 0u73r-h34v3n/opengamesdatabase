@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Starsphere Interactive"],
+	"genres": ["Simulation"],
+	"name": "Star Trek: Shattered Universe",
+	"publishers": ["TDK Mediactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-trek-shattered-universe",
+			"score": 42,
+			"max_score": 100
+		}
+	],
+	"synopsis": "All hands to battle stations.  Get ready for a frenetic experience in an entirely new breed of Star Trek game: Star Trek: Shattered Universe.  An intense, edgy, high-energy space-combat action game set in the dark mirror universe of Star Trek: The Original Series classic-era setting, the game challenges you to adapt to a new reality where the noble Federation is now an evil and relentless foe.  Prepare to journey on a variety of missions featuring the most intense space-combat ever, where friends become enemies, enemies become allies and all the rules are broken.  You must master the deadly art of fighter combat to survive the dangerous journey ahead."
+}

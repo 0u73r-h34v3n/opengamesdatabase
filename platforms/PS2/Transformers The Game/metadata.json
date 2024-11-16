@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Adventure"],
+	"name": "Transformers: The Game",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/transformers-the-game-review/1900-6173204/",
+			"score": 6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/transformers-the-game",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the 2007 live-action feature film, Transformers: The Game lets gamers control the outcome in the battle for Earth as they choose to protect it as Autobots or destroy it as Decepticons. The game is mainly a third-person action-shooter. All the robots have at least five attack types: a light weapon, a heavy weapon, a melee attack, and the ability to throw objects such as cars, lamp posts, trees, etc., and using a long object like a lamp post as a sword. As its title and characters imply, a robot can transform into a vehicle and vice versa, this gives the game some racing elements, as the player must, in some missions, race to certain point within a time limit or before a character of the opposing faction does. Each area is an open world environment, and there are also side-missions, Energon cubes and Autobot/Decepticon emblems scattered through the city, if accomplished successfully/collected the player can unlock trailers, production photos and unlock color schemes for certain characters."
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "NBA Live 08",
+	"publishers": [
+		"Electronic Arts|EA Sports (US, AU, EU, JP)",
+		"Electronic Arts (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nba-live-08",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NBA Live 08 introduces hot spots, where real NBA shot data is used to illuminate the locations on the floor where your players are most effective. Quickstrike Ballhandling, a new intuitive gameplay mechanic,  gives you the direct responsiveness you need to perform a full repertoire of ankle-breaking ball-handling moves that let you dominate on the perimeter. Couple this with all-new signature go-to moves that capture the essence of the NBA's best, and you can now play the game on a console like you see it from the stands."
+}

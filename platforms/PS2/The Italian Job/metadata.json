@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Climax Group"],
+	"genres": ["Racing"],
+	"name": "The Italian Job",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2003/06/25/the-italian-job-6",
+			"score": 6.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-italian-job",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Charlie Croker and his gang are left for dead in Venice after being double-crossed during one of the biggest gold heists ever. You must take on the role of Charlie and his gang members in their quest for revenge and the gold. Based on the film, The Italian Job's story mode challenges you to create the largest traffic jam in LA history, and then escape in supercharged Mini Coopers. Master four other action-packed modes, including stunt driving, circuit racing, and multiplayer modes for up to two players."
+}

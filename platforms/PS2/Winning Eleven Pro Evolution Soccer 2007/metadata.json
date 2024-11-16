@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Sports"],
+	"name": "Winning Eleven: Pro Evolution Soccer 2007",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/winning-eleven-pro-evolution-soccer-2007",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Winning Eleven: Pro Evolution Soccer 2007 expands upon the series' realism with faster gameplay, more responsive control and improved artificial intelligence. Players will now make intelligent runs without the ball, identifying opportunities and pointing to where they would like the ball to be delivered. Similarly, the game is now more physical, with defenders jockeying for position and strikers working to turn their opponent as they receive the ball."
+}

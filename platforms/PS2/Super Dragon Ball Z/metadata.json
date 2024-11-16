@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Crafts & Meister"],
+	"genres": ["Action", "Fighting"],
+	"name": "Super Dragon Ball Z",
+	"publishers": ["Banpresto (JP)", "Atari (EU, US, AU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/07/19/super-dragon-ball-z-review",
+			"score": 7.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/super-dragon-ball-z",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Master the unique fighting styles of 18 mighty Dragon Ball Z® warriors in an awesome fighting engine designed by Noritaka Funamizu, producer of Street Fighter II®. Behold devastating details of manga-based graphics, artfully created in the style of Dragon Ball creator, Akira Toriyama."
+}

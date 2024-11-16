@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Quantic Dream"],
+	"genres": ["Adventure", "Horror"],
+	"name": "Indigo Prophecy",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/663/663656.html",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/indigo-prophecy",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play both hunter and hunted in this psycho thriller. Set in New York, Indigo Prophecy gives you the chance to speak, explore, interact, fight, and confront unknown dark forces. In the story, you can play as Lucas Kane, one of the many ordinary people that suddenly begin killing total strangers. Constantly burdened by strange visions, you must keep one step ahead of the police as you try to find out what's happening to you. Fahrenheit lets you control one of four characters and lets you make decisions that affect the storyline."
+}

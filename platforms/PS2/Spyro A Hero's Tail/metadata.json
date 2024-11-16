@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Spyro: A Hero's Tail",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/spyro-a-heros-tail-review/1900-6112588/",
+			"score": 5.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/spyro-a-heros-tail",
+			"score": 60,
+			"max_score": 100
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/11/03/spyro-a-heros-tail",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Spyro must save the Dragon Realms from the Evil Red Dragon who has planted light-sapping Dark Gems all over the Dragon Realms in an attempt to control the world. With the help of his allies, Spyro must seek out and destroy all of the Dark Gems to return the land back to normal and to save the Dragon Realms from the evil dragon's tyrannical control. Guide Spyro as he uses his new dragon powers, abilities, and gadgets in lush environments rife with new villains."
+}

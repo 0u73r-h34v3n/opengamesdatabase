@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tigon"],
+	"genres": ["Action", "Adventure"],
+	"name": "Secret Service",
+	"publishers": ["Activision (US)", "Activision|Activision Blizzard (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/secret-service",
+			"score": 25,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Protect America's top leadership in Secret Service. Assume the role of an elite agent on Inauguration Day in Washington D.C. An extremist assault has been launched against the capitol - security has been compromised and it is unclear who is friend or foe. There is no time for negotiation as you are thrust out of the shadows and into the line of fire in order to protect the nation's leaders. The tactical first person action takes place among famous landmarks and everywhere in between, including both Marine One and Air Force One."
+}

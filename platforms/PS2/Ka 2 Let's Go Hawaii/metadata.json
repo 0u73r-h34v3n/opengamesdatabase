@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Zoom"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Ka 2: Let's Go Hawaii",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Sequel to '''[[Mister Mosquito]]'''. The game takes place in Hawaii, after the Yamada family wins a vacation from a local shop. The gameplay is essentially the same as in Mister Mosquito, but adds a number of new features. It allows the player to suck blood from any part of a human's body, not just designated points. Pressure points now allow the player to suck more blood from certain points. Finally, a new relaxation point system gives the player the opportunity to calm down an attacker if he is being chased."
+}

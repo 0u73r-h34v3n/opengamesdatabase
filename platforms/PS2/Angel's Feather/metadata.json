@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["BlueImpact"],
+	"genres": ["RPG", "Visual novel"],
+	"name": "Angel's Feather",
+	"publishers": ["Kid"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Angel's Feather'' is a Japanese boys' love visual novel game. It begins when Hamura Shou comes to Yuusei Academy, from there it branches out into the truth behind his past, and his twin brother, Kai's as well (though they both have the same name, they are referenced differently). It also portrays shōnen-ai between Kai and Nagi (his supposed best friend). "
+}

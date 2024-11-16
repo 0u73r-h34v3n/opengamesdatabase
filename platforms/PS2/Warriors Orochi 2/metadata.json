@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Warriors Orochi 2",
+	"publishers": ["Koei (JP, EU, US, AU)", "Koei|Koei Tecmo Games (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/warriors-orochi-2",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Shattering time and space, the venomous Serpent King Orochi kidnapped the Dynasty Warriors and Samurai Warriors in scheme to test his might. The heroes eventually defeated Orochi and his menacing army. While the slain Orochi lies in the netherworld, a mysterious alliance is hatching an otherworldly plan so that the Serpent King may rise again. Now a new group of warriors must join forces with history's finest in an effort to stop this evil resurrection. Warriors Orochi 2 takes place after the events of the original game. The game's main \"Story\" mode features storylines for the kingdoms of Wu, Wei, and Shu, and the Samurai Warriors, while a new Orochi storyline looks back to the first series of wars to expose some of the Serpent King's secrets. The game's newly added \"Dream\" mode features an original storyline different from that of Story Mode. A new two-player \"Versus\" mode comes action-packed with four different games including \"Tag Team\" matches that pit individual fighters in lethal head-to-head combat. The popular \"Team Battle System\" which lets players create their own three-person fighting unit returns for this sequel. At any given time, one warrior will be engaged in battle, while the other two are recuperating; restoring their Life Meters and Musou Gauges. Warriors Orochi 2 features an overwhelming lineup of over 90 playable characters from both franchises including Samurai Warriors 2 Extreme Legends, plus new characters from Chinese and Japanese history."
+}

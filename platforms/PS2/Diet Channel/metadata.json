@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action"],
+	"name": "Diet Channel",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Based on Konami's rhythm game series 'Dance Dance Revolution' and the Japanese TV program 'Dance TV', Diet Channel promises to help gamers shed those pounds with lots of hopping around on the dance mat controller. Select from a variety of exercise courses and work out with the help of the game's different modes, such as \"Honoo no Diet Challenge\" and \"Dumbell de Yasetemachoi\"."
+}

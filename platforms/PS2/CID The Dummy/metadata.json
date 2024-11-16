@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Twelve Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "CID The Dummy",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamesradar",
+			"url": "http://www.gamesradar.com/cid-the-dummy/",
+			"score": 2.5,
+			"max_score": 5
+		}
+	],
+	"synopsis": "CID THE DUMMY is a platform game that grabs you straight away with its amusing blend of action and puzzle-filled gameplay. Based around the multiple opportunities for a Crash Impact Dummy to get into mischief, the game blends classic platform elements such as timed jumps, collecting pick-ups, defeating enemies, and challenging boss battles with more cerebral elements such as puzzles, clever weapon use and route finding."
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pivotal Games"],
+	"genres": ["Action", "Shooter"],
+	"name": "Conflict: Desert Storm II - Back to Baghdad",
+	"publishers": [
+		"SCi (EU)",
+		"Gotham Games (US)",
+		"Capcom (JP)",
+		"Square Enix (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/conflict-desert-storm-ii---back-to-baghdad",
+			"score": 70,
+			"max_score": 100
+		}
+	],
+	"synopsis": "At the height of the 1991 Gulf War, 300 klicks into the heart of Iraq, you must command your squad of Special Forces operatives to strike at Iraq's evil dictator and his fascist regime.  Armed with an authentic arsenal of high-tech weapons and vehicles, your squad will face impossible odds in this battle against tyranny.  Only strategy and skill will ensure your survival through frantic firefights, gut-wrenching vehicular combat, and gripping stealth operations.  \"The Mother of All Battles\" is coming to your console in Conflict: Desert Storm II--Back to Baghdad."
+}

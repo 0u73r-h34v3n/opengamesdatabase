@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Takuyo"],
+	"genres": ["Visual Novel"],
+	"name": "Cherry Blossom",
+	"publishers": ["Takuyo"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Ouse Satsuki, a second year student of Sakurazono Gakuen receives one day on his cell phone a message from a stranger. The address of the sender is from a student on campus, but in the school there isn't any student with that name. Is the sender someone from the student council, or is it someone else?"
+}

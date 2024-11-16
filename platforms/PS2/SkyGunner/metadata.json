@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pixel Arts"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "SkyGunner",
+	"publishers": ["Sony|SCEI (JP)", "Atlus (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/skygunner",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Sky Gunner follows the story of three ace pilots--Ciel, Copain, and Femme--who are hired to protect the Eternal Engine, which is capable of perpetual motion. Little do they know that the criminal genius Ventre plans to use the town's celebration aboard the luxury airship Merveilleux as an opportunity to steal the Eternal Engine for his own evil ends. Now, as one of the three Sky Gunners, you must use specialized flying machines, advanced maneuvers, and special weapons to defeat the evil forces of Ventre."
+}

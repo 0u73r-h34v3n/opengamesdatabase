@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["GenePool"],
+	"genres": ["Action", "Adventure"],
+	"name": "X2: Wolverine's Revenge",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/spider-man-mysterios-menace-x2-wolverines-revenge-2-in-1-game-pack/ps2-481472",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/x2-wolverines-revenge",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "X-Men's most dangerous weapon is out for vengeance.  In X2 Wolverine's Revenge, you play as Wolverine as he rushes to find the antidote to a virus that was implanted into his body.  Unsheathe your razor-sharp claws, unleash lethal combo attacks, and use accelerated healing powers as you tear into intense action and stealth scenarios.  Face off with Sabretooth, Wendigo, Juggernaut, and Magneto, while Professor X and Beast help you search for a cure. As Wolverine, you can become the ultimate fighting machine."
+}

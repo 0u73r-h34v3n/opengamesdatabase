@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "College Hoops 2K8",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/college-hoops-2k8",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "College Hoops 2K8 continues the legacy of the NCAA franchise with all new features, including the 6th Man Advantage feature that lets the crowd atmosphere affect the game performance of teams, a training mode where players can improve their skills through practice, and more. College Hoops 2K8, the #1 rated college basketball game five years running returns to the Playstation 2, with the deepest feature enhancements in the history of the franchise. 2KU - Completely redesigned arena atmosphere creates the most authentic college basketball experience ever."
+}

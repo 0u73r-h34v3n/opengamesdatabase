@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Triple Play Baseball",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/triple-play-baseball",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With a winning history on PCs and other consoles, Triple Play Baseball now signs up to another big league gaming platform on the PlayStation 2. The move gives Triple Play another leap in realism, from the ultra-sharp graphics with real player faces and stadiums to the advanced AI that enables more realistic and flexible gameplay. The DUALSHOCK 2 controller's analog features are now a key element of the batting, pitching, and fielding control for a truer sports gaming experience. To get the game right, EA once again turned to the pros--American League MVP Jason Giambi of the Oakland A's and National League Manager of the Year Dusty Baker of the S.F. Giants lent their expertise on how to play hardball in the majors. Of course, in baseball, what it all boils down to is the showdown at the plate--the pitcher facing off against the batter for all the money. Triple Play Baseball again refines the game with a power zone/contact zone batting cursor--power hitters may have a tiny cursor, but it's all power zone, while more dependable sluggers will have a larger cursor but may have a smaller sweet spot. Batters are going to need all that control if they're hoping to tee off the pitching this year, which is also improved in control to give them every trick in the books. Players' skills are accurately based on player stats from last season, so if you see Mark McGwire at the plate or Randy Johnson on the mound, expect some bad things to go down."
+}

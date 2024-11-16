@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SunSoft"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Clock Tower 3",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/clock-tower-3",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Alyssa Hamilton is an ordinary girl, with ordinary dreams, who is about to discover a side of herself that she never knew she possessed. Only she has the power to destroy the Evil Servants--foul spirits who thrive on the trapped life force of their murdered victims' souls. To save her and these tortured innocents, you must unlock the mysteries surrounding the death of each soul. The legions of the dark world, however, won't succumb easily, so you must summon the sacred weapons necessary to banish them back to the nightmare realms."
+}

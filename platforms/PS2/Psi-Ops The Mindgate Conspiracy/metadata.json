@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Midway"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Psi-Ops: The Mindgate Conspiracy",
+	"publishers": ["Midway (US, EU)", "Capcom (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/psi-ops-the-mindgate-conspiracy",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Your most powerful weapon is your mind in Psi-Ops: The Mindgate Conspiracy, an action adventure game that combines Psi powers with weapons combat. A terrorist movement prepares to overthrow world order, you, an elite American Psi-operative soldier, must combat them. Practice powers of Telekinesis, Mind Control, Pyrokinesis, Mind Drain, Aura View, and Remote Viewing to win mind games against an army of brainwashed terrorists and powerful Psi agents. Fight through eight levels using your Psi powers, an arsenal of traditional weapons, and puzzle-solving skills."
+}

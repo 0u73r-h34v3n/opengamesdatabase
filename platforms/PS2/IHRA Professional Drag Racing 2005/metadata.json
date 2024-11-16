@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Bethesda Softworks"],
+	"genres": ["Racing"],
+	"name": "IHRA Professional Drag Racing 2005",
+	"publishers": ["Bethesda Softworks"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ihra-professional-drag-racing-2005",
+			"score": 30,
+			"max_score": 100
+		}
+	],
+	"synopsis": "IHRA Professional Drag Racing 2005 takes the series to the next level with realistic physics and intense racing action. If you're looking for instant action, you can try the Arcade mode, where you can choose from single event, elimination, or two-player split-screen racing. For more in-depth play, Simulation mode lets you experience all the challenges of leading a top racing team through a professional competitive season, while you earn money and improve your car. Customize your car's look in the new paint shop, where you have access to multiple pain layers and sponsor and manufacturer decals."
+}

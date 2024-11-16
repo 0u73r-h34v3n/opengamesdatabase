@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["UDS"],
+	"genres": ["Tools", "Music"],
+	"name": "EJay Clubworld",
+	"publishers": ["Empire Interactive (EU)", "Crave (US)", "Hamster (JP)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ejay-clubworld",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Make your own hit in a matter of minutes, without any musical training. The user-friendly tools of eJay Clubworld let you create your own sounds with synthesizers, drum machines, and even a virtual turntable. There are plenty of real-world clubs and locations--each with a different and current music style--for you to explore. Even three of your friends can join you in creating music. With help given to you along the way by DJ Carl Cox, you must ensure that the crowd in your Clubworld is jumpin'."
+}

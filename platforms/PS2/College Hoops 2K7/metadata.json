@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "College Hoops 2K7",
+	"publishers": ["2K|2K Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/college-hoops-2k7",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "With over 325 NCAA Division I schools, College Hoops 2K7 defines the college basketball experience. True College Atmosphere - The most immersive college game yet, College Hoops 2K7 puts the fans in the game and makes them a part of the team."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Madden NFL 09",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/madden-nfl-09",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Celebrating 20 Years of Innovation and counting, Madden NFL 09 delivers its most complete NFL football package ever. Whether you&rsquo;re a seasoned veteran or picking up the game for the first time, players of all skill levels will enjoy a unique, yet challenging experience with the innovative Adaptive Difficulty Engine, which tailors the game to match your playing style. Instantly improve your game with the all-new virtual Training Center or incorporate feedback with EA SPORTS BackTrack, allowing you to learn from your mistakes on the fly. With a new broadcast presentation and online leagues, plus more than 85 new features and enhancements, Madden NFL 09 is the most authentic and adaptable game in sports video game history."
+}

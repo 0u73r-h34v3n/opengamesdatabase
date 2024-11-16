@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA LA"],
+	"genres": ["Action", "Shooter"],
+	"name": "Medal of Honor: Frontline",
+	"publishers": ["Electronic Arts|EA Games (US)", "Electronic Arts (EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/medal-of-honor-frontline",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Head back behind enemy lines with Lt.  Jimmy Patterson in Medal of Honor Frontline.  In this installment of the Medal of Honor series, Lt.  Patterson is on a mission to infiltrate the German frontline and steal the HO-IX flying wing, an experimental Nazi weapon so powerful it could turn the tide of World War II.  All 20 levels and six major missions in the game are based on real World War II events.  You'll also find authentic weapons, including the Colt .45, Springfield sniper rifle, Panzerschreck rocket launcher, and Browning automatic rifle.  The World War II experience just got more intense."
+}

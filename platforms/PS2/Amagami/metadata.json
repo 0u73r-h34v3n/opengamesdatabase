@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Enterbrain"],
+	"genres": ["Adventure"],
+	"name": "Amagami",
+	"publishers": ["Enterbrain (JP)", "Kadokawa (JP)"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Two years ago, Junichi Tachibana got his heart broken by a girl who stood him up on a date on Christmas Eve. Now a second-year student in high school, Junichi is wary of love because of his past and dislikes celebrating Christmas. However this Christmas, his encounter with one of six girls from his school, Haruka Morishima, Kaoru Tanamachi, Sae Nakata, Ai Nanasaki, Rihoko Sakurai, or Tsukasa Ayatsuji will finally open up his heart to love again."
+}

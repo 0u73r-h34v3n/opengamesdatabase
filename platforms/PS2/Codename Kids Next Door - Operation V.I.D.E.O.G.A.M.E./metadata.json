@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["High Voltage Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Codename: Kids Next Door - Operation V.I.D.E.O.G.A.M.E.",
+	"publishers": ["Global Star Software"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/codename-kids-next-door-operation-videogame/ps2-763352",
+			"score": 4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/codename-kids-next-door-operation-videogame",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Get ready for an epic showdown. Father masterminds an arctic prison break to free some of the most notorious and nasty villains the kids have ever battled!"
+}

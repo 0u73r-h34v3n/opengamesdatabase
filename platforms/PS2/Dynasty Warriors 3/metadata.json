@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 3",
+	"publishers": [
+		"Koei (JP, US, EU, KO)",
+		"THQ (EU)",
+		"Koei|Koei Tecmo Games (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/516690-dynasty-warriors-3/index.html",
+			"score": 77,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dynasty-warriors-3",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The third installment of Dynasty Warriors tests your warrior spirit through vast lands and impossible odds.  Dynasty Warriors 3 features battlefield action with over 20 stages and 40 playable warriors.  Storm the battlefield with more bone-crushing moves, improved Musou attacks, and squad level commands to your massive elephant troops.  In addition to Endurance and Time Attack, Dynasty Warriors 3 also includes brand new two-player Versus and Cooperative modes.  Can you become a warrior worth a thousand?"
+}

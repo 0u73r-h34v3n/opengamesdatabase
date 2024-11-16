@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NHL 2001",
+	"publishers": ["Electronic Arts|EA Sports (US)", "Electronic Arts (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2001",
+			"score": 85,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EA's perennial hockey game flies on the power of the PlayStation 2. The graphics are unbelievable; the handling is as smooth as ever; the sound is to the rafters. That's all the stuff you knew from before. This is EA Sports, and that's how the game is played, with the volume up and your eyes bugging. Yet it's a whole new shot when NHL goes PlayStation 2, as no other system has had the kind of power to give you those jarring hits to the point where you watch the player bend over his back, his muscles impacting hard on the glass as his faceshield sends a cracking noise reverberating throughout the stadium that makes an old lady up in the cheap seats cry just a little bit. That's what you want in a hockey game. That, and options - buckets full of options. Here, the hats hit the ice with all 30 franchise teams and 20 international competitors, plus tournament and standard practice mode and charts packed with stats tracked throughout gameplay."
+}

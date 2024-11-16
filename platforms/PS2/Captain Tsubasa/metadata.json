@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Natsume Co.", "Ltd."],
+	"genres": ["Sports"],
+	"name": "Captain Tsubasa",
+	"publishers": ["Bandai|Namco Bandai Games"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/captain-tsubasa/reviews/",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Captain Tsubasa is based on the original anime series, wich Tsubasa Ozora plays for the Nankatsu team, you also can play a part of the OVA Shin Captain Tsubasa that takes place in the Word Europe Sub-16 Championship. The gameplay is based on a menu system that allows you to give commands for your teamates in specifics situations, but you can only control the captain of your team. "
+}

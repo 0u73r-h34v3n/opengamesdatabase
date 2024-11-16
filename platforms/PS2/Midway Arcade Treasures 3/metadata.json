@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Digital Eclipse"],
+	"genres": ["Compilation", "Arcade"],
+	"name": "Midway Arcade Treasures 3",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/midway-arcade-treasures-3",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Relive eight of Midway's classic arcade games in Midway Arcade Treasures 3. The game includes both single-player and multiplayer action. You can post your high scores via Xbox Live to see if you measure up to the best in the world. The games include: Badlands, Hydro Thunder, Off Road Thunder: Mud, Sweat, N' Gears, Race Drivin', San Francisco Rush The Rock: Alcatraz Edition, San Francisco Rush 2049, S.T.U.N. Runner, and Super Off Road with the Bonus Tracks Pack."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Z-Axis|Z-Axis", "Ltd."],
+	"genres": ["Action", "Fighting"],
+	"name": "X-Men: The Official Game",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/x-men-the-official-game/ps2-616279",
+			"score": 5.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/x-men-the-official-game",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Master the power of the X-Men. Obliterate enemies and objects as Wolverine using your lethal adamantium claws and crushing brute force. As Nightcrawler, scale walls, swing from rafters and teleport through environments to surprise enemies. Shoot ice bursts and create hailstorms as lightning-fast Iceman. For even more power, utilize fury and adrenaline modes. Become a part of the X-Men movie universe: Embark on a globe-spanning conflict featuring every element of the X-Men universe - from favorite villains to famous locations such as Alkali Lake, plus the voices and likenesses of key actors from the films. Battle fierce enemies, join forces with comrades. Face off against movie villains such as Pyro, Magneto and Sabretooth plus added foes like legions of Sentinels. Storm, Colossus and Cyclops join forces with you in gameplay that includes melee fighting, stealth-style action and time-based missions."
+}

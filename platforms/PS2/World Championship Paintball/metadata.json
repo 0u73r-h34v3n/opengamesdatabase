@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Coresoft"],
+	"genres": ["Action", "Shooter"],
+	"name": "World Championship Paintball",
+	"publishers": ["THQ"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-championship-paintball",
+			"score": 25,
+			"max_score": 100
+		}
+	],
+	"synopsis": "World Championship Paintball offers unprecedented game depth and paintball realism for the PlayStation 2. Advance your team bunker by bunker to World Championship supremacy. You can play in 6 different styles on over 20 different fields, or use the Playfield builder to continually generate new fields so no game will ever be the same."
+}

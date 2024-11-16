@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eighting"],
+	"genres": ["Action", "Fighting"],
+	"name": "Fate/unlimited codes",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "PlayStation 2 version of the arcade fighting game released earlier the same year. Based on the popular visual novel Fate/stay night and made by the original VN team alongside the 8ing dev team. Fate/unlimited codes features 17 playable characters from Fate/stay night and Fate/hollow ataraxia, all with unique moves and fighting styles. Comes with a new soundtrack containing both new tracks and remixes of old themes."
+}

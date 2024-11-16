@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Awesome Developments"],
+	"genres": ["Sports"],
+	"name": "Pool Paradise",
+	"publishers": ["Ignition Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pool-paradise",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Penniless on an idyllic South Pacific desert island, you discover a variety of pool tables scattered around the beach and in various huts. On the beach, sheltered under the palm trees, is a practice table where you can enhance your skills and watch the waves rolling in. When you feel you are good enough, you can enter the Competition Hut and start climbing the championship ladder. There are 11 sets of pool rules and 30 different computer opponents for you to challenge. It's not all over if you lose everything; there's a loan shark to lend you more cash--or bite your head off."
+}

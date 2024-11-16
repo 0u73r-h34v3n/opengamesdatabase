@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["CyberConnect2"],
+	"genres": ["Action", "RPG"],
+	"name": ".hack//G.U. vol. 2//Reminisce",
+	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN reviewer score",
+			"url": "http://ps2.ign.com/objects/751/751421.html",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "IGN userscore",
+			"url": "http://ps2.ign.com/objects/751/751421.html",
+			"score": 8.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/hackgu-vol-2reminisce",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The second installment of the exciting ''.hack//G.U.'' trilogy immerses players back in \"The World\".   What if your actions in a game challenged the course of your reality? What is reality? ''.hack//G.U. Vol. 2: Reminisce'' challenges players to ponder these questions, while delivering an epic Action-RPG experience. It picks up where players left off at the exhilarating conclusion of ''.hack//G.U. Vol. 1''.  After defeating the mysterious Tri-Edge, Haseo and his friends learn that they can not log out of \"The World\". But one of their own is whithering away - can she be saved in time? With new fighting abilities, new weapons, new party members and new enviornments to explore, Vol. 2 brings you deeper into the fantastical and creative \"World\" again."
+}

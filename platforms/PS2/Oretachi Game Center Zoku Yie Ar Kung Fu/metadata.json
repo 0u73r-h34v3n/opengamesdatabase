@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["M2"],
+	"genres": ["Action", "Fighting"],
+	"name": "Oretachi Game Center Zoku: Yie Ar Kung Fu",
+	"publishers": ["Hamster"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Oolong has spent his entire life training for the Martial Arts Championship. The Championship has attracted masters of different disciplines, all fighting to be named champion. In Yie Ar Kung-Fu, Oolong must use his own fighting moves and face masters of the throwing shuriken, nunchaku, bo, chain, and more to fulfill his destiny. Will you fight like a tiger or run away in shame?"
+}

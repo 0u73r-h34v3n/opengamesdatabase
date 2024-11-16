@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jorudan"],
+	"genres": ["Adventure"],
+	"name": "Bouken Shounen Club Gahou",
+	"publishers": ["Jorudan"],
+	"regions": ["NTSC-J"],
+	"synopsis": "You play as 10 year old boy Tokio who lives in a typical, small Japanese town during the Showa period (1950s). Tokio spends 30 days walking through the town, talking to people, and collecting items. The game lets you experience a bygone period of Japan."
+}

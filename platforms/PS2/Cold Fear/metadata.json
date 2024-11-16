@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Darkworks"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Cold Fear",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/cold-fear",
+			"score": 68,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/cold-fear-review/1900-6121119/",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2005/03/18/cold-fear",
+			"score": 7.6,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Cold Fear introduces a new kind of horror experience in a constantly shifting environment out at sea. You'll play as Tom Hansen, a US Coast Guard crewman whose team is sent to investigate an abandoned Russian whaling ship. As you delve deeper beneath the ship's bloodstained decks, you'll encounter hordes of evil creatures. To survive, you must eliminate your enemies, avoid traps, and get helpful information from other characters on the ship."
+}

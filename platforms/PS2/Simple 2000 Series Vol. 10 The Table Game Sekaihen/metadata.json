@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuki"],
+	"genres": ["Board"],
+	"name": "Simple 2000 Series Vol. 10: The Table Game Sekaihen",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Featuring an incredible array of over 15 brain testers including such favorites as Chess, Backgammon and Draughts, Ultimate Mind Games offers weeks of gameplay for every member of the family whatever their age, sex or level of gaming ability."
+}

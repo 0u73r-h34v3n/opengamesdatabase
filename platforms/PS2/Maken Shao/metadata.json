@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Atlus"],
+	"genres": ["Action", "Adventure"],
+	"name": "Maken Shao",
+	"publishers": ["Atlus (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Maken is a man-made life form created to delve into the human soul and cure mental disease. Take control of this creature in an adventure that takes you across the globe in a battle against a terrorist organization led by a Chinese god.   A 3D action adventure - Maken Shao lets you possess the bodies of key game characters, unlocking their memories and special attacks as you struggle to uncover who is behind a sinister conspiracy to change the fate of humankind forever."
+}

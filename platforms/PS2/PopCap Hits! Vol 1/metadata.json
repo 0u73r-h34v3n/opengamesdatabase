@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["PopCap"],
+	"genres": ["Compilation"],
+	"name": "PopCap Hits! Vol 1",
+	"publishers": ["PopCap"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/popcap-hits!-vol-1",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "PopCap brings casual hits to the PlayStation 2! BEJEWELED 2: Hall of Fame Inductee: Computer Gaming World 2002 (the only puzzle game inducted since Tetris in 1988). It's the gem-swapping puzzle classic, now on PlayStation 2! Players swap gems in sets of three or more for brilliant, explosive acgtion. Secret game modes, timed play, brain-twisting puzzles and more. Wildly addictive, high-carat fun!"
+}

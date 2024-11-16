@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Concepts"],
+	"genres": ["Sports"],
+	"name": "NHL 2K9",
+	"publishers": ["Take-Two Interactive (US, EU)", "Spike (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nhl-2k9",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Do you long for the days when hockey video games didn&rsquo;t require an engineering degree to master? 2K Sports has listened to the masses by bringing the fun back to hockey video games with an intuitive control scheme, hard-hitting action. Developed by award-winning Visual Concepts studios, NHL 2K9 brings a totally rebuilt NHL experience to life with a brand-new in-game presentation system, as well as fresh player animations and controls that fans will enjoy from the moment they play their first game, until well after they become a seasoned veteran. Further adding to an unmatched level of fun and celebrating the NHL&rsquo;s uniqueness are an all-new Zamboni mini-game, playoff beards, a new fighting engine and more!"
+}

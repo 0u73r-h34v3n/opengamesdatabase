@@ -1,0 +1,33 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Harry Potter and the Chamber of Secrets",
+	"publishers": [
+		"Electronic Arts|EA Games (US, JP)",
+		"Electronic Arts (EU)",
+		"Electronic Arts|Electronic Arts Victor (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2002/11/25/harry-potter-and-the-chamber-of-secrets-3",
+			"score": 8.4,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/harry-potter-and-the-chamber-of-secrets-review/1900-2901493/",
+			"score": 7.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/harry-potter-and-the-chamber-of-secrets",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Be Harry Potter in a new adventure with more magic, friends, and danger. In his sophomore year at Hogwarts School of Witchcraft and Wizardry, Harry stumbles upon a dark chapter in the school's past. In an effort to confront the powers at the heart of the Chamber of Secrets, you'll learn new spells, undertake new quests, make new friends, and challenge new adversaries. Do you dare take the chance that you might face the evil Lord Voldemort again?"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei", "Omega Force"],
+	"genres": ["Action", "Fighting"],
+	"name": "Dynasty Warriors 3: Xtreme Legends",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dynasty-warriors-3-xtreme-legends",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the untold stories of seven fierce generals; Lu Bu, Diao Chan, Meng Huo, Zhu Rong, Zhang Jiao, Dong Zhuo and Yuan Shao, in Musou Mode with this Xtreme Legends expansion to Dynasty Warriors 3. Battle your way through completely revamped stages with new scenarios and events. Discover weapons and new items, experience four all new Challenge Modes, and execute double Musou attacks in a one-player game! "
+}

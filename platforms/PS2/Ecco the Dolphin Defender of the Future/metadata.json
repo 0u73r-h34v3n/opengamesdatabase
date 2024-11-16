@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Appaloosa Interactive"],
+	"genres": ["Action", "Adventure"],
+	"name": "Ecco the Dolphin: Defender of the Future",
+	"publishers": ["Sony|SCEE (EU)", "Acclaim (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/03/04/ecco-the-dolphin-defender-of-the-future",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/ecco-the-dolphin-defender-of-the-future-review/1900-2852460/",
+			"score": 7.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ecco-the-dolphin-defender-of-the-future/critic-reviews",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When an evil force threatens to destroy the Earth, it's up Ecco the Dolphin to save the future! Everyone's favorite mammal makes his PlayStation 2 debut in Ecco the Dolphin: Defender of the Future, an all-new aquatic adventure of epic proportions! In order to save the planet and win back his future, Ecco must travel through mysterious and breathtaking underwater worlds filled with puzzles, friends, foes and danger while in search of the stolen dolphin-power that he must recover from the far reaches of time and space. The future of the Earth now rests on the fins of this friendly dolphin in the underwater gaming experience of a lifetime!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "Pro Race Driver",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/pro-race-driver",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Pro Race Driver immerses you in the heart of a global racing championship.  The game retains the series' core values of close-contact racing with real cars, real teams, real track, real drivers, and an astounding damage engine while introducing a character- based narrative and episodic storyline.  Choose from a fictional cast of racers and 42 licensed touring and racing cars to compete in real-world global championships.  Get ready for a true-to-life driving and performance experience."
+}

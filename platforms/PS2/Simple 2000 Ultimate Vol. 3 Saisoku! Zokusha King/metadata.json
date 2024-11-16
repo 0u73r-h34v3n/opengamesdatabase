@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["D3Publisher"],
+	"genres": ["Racing"],
+	"name": "Simple 2000 Ultimate Vol. 3: Saisoku! Zokusha King",
+	"publishers": ["D3Publisher (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Put the pedal to the metal in some of the meanest Japanese muscle cars ever seen. MaXXed Out Racing lets you tune up your own gas-guzzling high-speed monster! When you're ready to race take to treacherous Japanese streets, off-road hill runs and intense circuits in a quest to beat 12 of the meanest street racers in a series of tough challenges. MaXX out your car with a huge selection of paintwork, parts and upgrades to ensure that you become street racing champion!"
+}

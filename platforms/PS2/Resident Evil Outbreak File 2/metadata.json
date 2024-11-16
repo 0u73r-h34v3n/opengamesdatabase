@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Resident Evil Outbreak File #2",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/resident-evil-outbreak-file-2/ps2-675004",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/resident-evil-outbreak-file-2",
+			"score": 58,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A biological disaster has turned everyone around you into flesh-eating zombies, and now you and seven other survivors must work together to escape the city. In the sequel to Resident Evil: Outbreak, you can discover the truth behind the T-virus outbreak by exploring five new locales, including a zoo, the subway, and the police station. Like its predecessor, Resident Evil Outbreak File #2 features an online cooperative mode for up to four players."
+}

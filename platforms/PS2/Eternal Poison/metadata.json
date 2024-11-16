@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flight-Plan"],
+	"genres": ["Turn-based strategy"],
+	"name": "Eternal Poison",
+	"publishers": ["Banpresto (JP)", "Atlus (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/943922-eternal-poison/index.html",
+			"score": 71,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/eternal-poison",
+			"score": 65,
+			"max_score": 100
+		}
+	],
+	"synopsis": "It is said that deep within the realm of Besek, the Majin guard a powerful treasure known as the Eternal Poison. When the Princess of Valdia is kidnapped by the Majin, scores of heroes answer the King's call for help. Some hope to free the Princess, some seek the power of the Eternal Poison, and some possess other motives entirely..."
+}

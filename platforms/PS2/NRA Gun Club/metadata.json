@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jarhead Games"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "NRA Gun Club",
+	"publishers": ["Crave"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/nra-gun-club",
+			"score": 17,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The game puts over one hundred faithfully recreated firearms in the hands of the player who can try his or her skill in a wide range of immersive 3D practice environments, from indoor ranges with paper targets, to hillsides with poppers or on the skeet course with flying clay pigeons. A certification mode challenges would-be sharpshooters' skills, and detailed descriptions and information for every firearm make it a must-have for gun collectors and enthusiasts."
+}

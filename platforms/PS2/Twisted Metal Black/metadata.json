@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Incognito|Incognito Inc."],
+	"genres": ["Racing"],
+	"name": "Twisted Metal: Black",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/06/18/twisted-metal-black",
+			"score": 9.6,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "http://www.gamespot.com/reviews/twisted-metal-black-review/1900-2776616/",
+			"score": 9.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/twisted-metal-black",
+			"score": 91,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_twistedmetalblack_ps2",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Prepare for the next chapter in car combat.  The latest installment in the Twisted Metal series, Twisted Metal Black, has Calypso returning to host another contest of wreckage and devastation, in which the victor is allowed to have one wish granted.  Slip into the minds of insane contestants competing in over 20 deathmatch battlegrounds and nine single-player levels.  Drive 14 inventive vehicles equipped with tons of weapons in a variety of multiplayer and co-op modes, and discover the horrifying tale behind each of these tortured souls."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["The Code Monkeys"],
+	"genres": ["Trivia"],
+	"name": "Cheggers Party Quiz",
+	"publishers": ["Oxygen Interactive"],
+	"regions": ["PAL"],
+	"synopsis": "Cheggers Party Quiz is a typical quiz game starring UK TV presenter Keith Chegwin. One playing round consists of eight questions (mostly about movies) and up to four players. Every time a question is asked the players are presented with four answer possibilities. If one of them thinks he knows the answer he buzzes in and selects the answer - if it is correct he receives money. Who has the most money at the end of the round wins. Between the questions Chegwin makes humorous remarks."
+}

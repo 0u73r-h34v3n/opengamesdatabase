@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Bright Light"],
+	"genres": ["Board"],
+	"name": "Hasbro Family Game Night",
+	"publishers": ["Electronic Arts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hasbro-family-game-night",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join your host Mr. Potato Head as you play classic Hasbro games as well as exciting new versions. Hasbro Family Game Night features family favorites such as CONNECT FOUR, BATTLESHIP, YAHTZEE, BOGGLE, SORRY! and the all new, SORRY! Sliders."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Adventure", "Horror"],
+	"name": "Fatal Frame",
+	"publishers": ["Tecmo (JP, US)", "Wanadoo (EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fatal-frame",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on a true story, Fatal Frame recounts Miku's investigation for her brother Mafuyu, who has been missing for two weeks. Her latest clue leads her to the abandoned Himuro mansion, a place that local townsfolk fear. Gifted with a supernatural sixth sense, you'll guide Miku as she explores the areas in the mansion where Mafuyu was last seen investigating the disappearance of three other people. Armed with only a camera, you must discover the connection between mysterious disappearances, restless spirits, and ritual sacrifices."
+}

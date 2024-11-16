@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mass Media"],
+	"genres": ["Action"],
+	"name": "Nicktoons Movin'",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"synopsis": "Join hosts SpongeBob SquarePants and Patrick Star as they take kids through new interactive experiences. The PlayStation 2 EyeToy allows players to put their images inside the video game, where they must use their own body movements to control the action in 11 different minigames. All the minigames are based on Nickelodeon TV shows, including SpongeBob SquarePants, The Fairly OddParents, Jimmy Neutron Boy Genius, Rocket Power, and Danny Phantom, in addition to special cameo appearances from other Nicktoons."
+}

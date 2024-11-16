@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Victor Interactive Software"],
+	"genres": ["Tools"],
+	"name": "Cinema Surfing: Youga Taizen",
+	"publishers": ["Victor Interactive Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Cinema Surfing is an Interactive Cinema and DVD Reference Guide. Browse through thousands of movies, see production and cast lists, DVD covers and much more. The content covers movies from 1901 to 2001. "
+}

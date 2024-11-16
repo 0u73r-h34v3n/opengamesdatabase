@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Collection"],
+	"name": "Metal Gear Solid Set 3 + 2",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection| [[Metal Gear Solid 2: Substance]] and Konami Hall of Fame Edition of [[Metal Gear Solid 3: Snake Eater]].}}"
+}

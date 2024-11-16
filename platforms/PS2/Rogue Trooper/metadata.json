@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rebellion"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Rogue Trooper",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rogue-trooper",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on 2000 A.D. comic, the game is set on the war-torn, poisoned atmosphere of Nu Earth, Rogue Trooper is a genetic infantryman, one of an elite squad of biologically-engineered clone troops, created to overcome the planet's hostile atmosphere, unhindered in their fight against the enemy, the Nort Republic. After witnessing the betrayal and annihilation of his squad at the Quartz Zone Massacre, Rogue has gone AWOL, determined to hunt down the traitor who sent his brothers-in-arms to their deaths. Armed with the latest experimental weapons, Rogue's arsenal offers him a critical advantage over his opponents; encoded bio-chips containing the digitised personalities of his fallen comrades are stored in his gun, helmet and backpack, each offering their unique expertise and assistance, allowing Rogue to strategically outwit a sophisticated enemy. The game is a mix of intense 3rd person action and next generation stealth elements, with complex line-of-sight AI, multiple game paths, full tactical use of your bio-chip operated equipment and both single- and multiplayer online gameplay."
+}

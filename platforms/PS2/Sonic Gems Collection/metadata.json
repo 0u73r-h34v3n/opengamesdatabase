@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega|Sonic Team"],
+	"genres": ["Platformer", "Compilation"],
+	"name": "Sonic Gems Collection",
+	"publishers": ["Sega"],
+	"regions": ["PAL", "NTSC-J"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/sonic-gems-collection/reviews/",
+			"score": 6.3,
+			"max_score": 10
+		}
+	],
+	"synopsis": "9 classic titles from the Sonic the Hedgehog library previously available only in the arcade, on SEGA CD, SEGA Saturn, and Game Gear are now combined into one collection!"
+}

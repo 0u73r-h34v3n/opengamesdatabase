@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Stealth Studios"],
+	"genres": ["Racing"],
+	"name": "Wreckless: The Yakuza Missions",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/wreckless-the-yakuza-missions",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Welcome to Hong Kong, where mystery and intrigue, money and power, and East and West intermingle. As the Yakuza terrorizes citizens, you arrive on the scene to answer the call of the city. You'll command an elite police unit called the Dragons, or you can play as a couple of spies hired to defeat Tiger Takagi--the head of the Hong Kong Yakuza. In 40 wild missions, you'll fire at moving targets with car-mounted rocket launchers, maneuver through the destructive environments, and experience real-time crashes and vehicle deformation."
+}

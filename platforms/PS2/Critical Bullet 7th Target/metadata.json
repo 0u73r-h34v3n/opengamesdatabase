@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Flagship"],
+	"genres": ["Adventure", "Visual Novel"],
+	"name": "Critical Bullet: 7th Target",
+	"publishers": ["Capcom"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a sequel to the game Bounty Hunter Sara: Holy Mountain no Teiou. The stage is Neo Tokyo, a dark futuristic city where crime reigns and where no police force is strong and courageous enough to stop the criminals. This is where Sara Fitzgerald, a freelance bounty hunter, enters the picture. Your goal is to plunge into the crime world of Neo Tokyo and defeat the greatest mafia bosses who are pulling the strings."
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Action"],
+	"name": "Code Lyoko: Quest for Infinity",
+	"publishers": ["The Game Factory"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/code-lyoko-quest-for-infinity/ps2-14219399",
+			"score": 4.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/code-lyoko-quest-for-infinity",
+			"score": 51,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the tv series ''Code Lyoko'' the game emphasis on team interaction, puzzle solving, exploration and intense combat, Code Lyoko: Quest for Infinity will provide an exciting gaming experience for players of all ages. Fight, explore, drive and hack your way to victory in this action packed RPG adventure in the digital realm!"
+}

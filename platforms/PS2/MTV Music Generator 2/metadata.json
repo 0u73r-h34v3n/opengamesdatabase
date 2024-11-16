@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Jester Interactive"],
+	"genres": ["Tools", "Music"],
+	"name": "MTV Music Generator 2",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/mtv-music-generator-2",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Prepare for sound. Prepare for music. Prepare to generate. Whether you're a superstar DJ or just starting out, MTV Music Generator&trade;2 is all you need to crate killer tunes in minutes. From the makers of MTV Music Generator&trade;, it's music creation of PlayStation®2. It's easy. It's awesome."
+}

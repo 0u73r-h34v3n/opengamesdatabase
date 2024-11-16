@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Totally Games"],
+	"genres": ["Action"],
+	"name": "Dora the Explorer: Dora Saves the Mermaids",
+	"publishers": ["Take-Two Interactive (US, AU, EU)", "Sony|SCEA (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/dora-the-explorer-dora-saves-the-mermaids",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Dora and Boots need your help bringing a magic crown back to Mariana the Mermaid. Travel over land and sea to save her kingdom from a mean, garbage-dumping Octopus! Then help Dora dive to the rescue when she magically becomes a mermaid herself!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCE Foster City Studio"],
+	"genres": ["Action", "Fighting"],
+	"name": "Rise to Honor",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rise-to-honor",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Inspired by Hong Kong movies, Rise to Honor is a thrilling action game featuring both the voice and signature moves of film star and martial artist Jet Li.  The cinematic story follows Li's character, Kit Yun--a bodyguard for the crime lord Boss Chiang, who failed to stop Chiang's assassination.  Rise to Honor features a new 360-degree fight system that allows you to take on surrounding enemies.  Run across walls, pick up chairs, or wield stick weapons to fend off and attack enemies.  Travel through 11 action-packed worlds to fulfill Chiang's dying wish to deliver an important message to his daughter."
+}

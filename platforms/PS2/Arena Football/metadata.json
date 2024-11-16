@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Tiburon"],
+	"genres": ["Sports"],
+	"name": "Arena Football",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/arena-football",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Arena football charges onto consoles with EA Sports Arena Football. You can experience the action by controlling licensed players and teams in the only arena football game for current- or next-generation consoles. Smaller teams and a smaller field combine with confining walls to make Arena Football unlike any other football game you have played. The game includes an analog kicking system, detailed stat tracking, and the ability to customize your team and its players. Online play is also available."
+}

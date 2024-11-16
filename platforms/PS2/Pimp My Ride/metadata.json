@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Pimp My Ride",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/pimp-my-ride",
+			"score": 36,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Enter Pimp City, where bling is king, and style is everything. On these streets, if your car isn't fully pimped out, you'd be better off walking. You and Xzibit will take on the challenge of hooking up your homies, and transforming their hoopties, buckets and beaters into the hottest whips on the street, while redlining through the highways and alleyways of Pimp City. You choose the mods, you choose the route, but pimpin' ain't easy. It will take speed and style to hook them up. Do you have what it takes to Pimp Their Ride?"
+}

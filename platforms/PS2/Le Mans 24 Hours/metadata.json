@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Infogrames"],
+	"genres": ["Racing"],
+	"name": "Le Mans 24 Hours",
+	"publishers": ["Infogrames (EU, US)", "Sega (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/le-mans-24-hours",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The critically acclaimed high-speed endurance game races to the PlayStation 2 computer entertainment system. Le Mans 24 Hours is astonishingly fast, amazingly lifelike, and expertly tuned, unrivaled racing perfection."
+}

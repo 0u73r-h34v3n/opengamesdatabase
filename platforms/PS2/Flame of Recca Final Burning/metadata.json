@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami"],
+	"genres": ["Action"],
+	"name": "Flame of Recca: Final Burning",
+	"publishers": ["Konami"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Adventure/battle game, based on the TV anime series, Flame of Recca / Recca no Honoo. The game is best described as an interactive anime -- loaded with footage and high on story. Gameplay is confined to timed button entries during battle scenes and database item collection. Battles are displayed by splitting the screen in half. The left side shows one battling character (via pre-drawn anime movie sequences), the right side shows the other. Fighting-game-style bars at the top display each character's health, and a button system at the bottom allows players to execute commands and effect special attacks. The game features more than 30 characters from the series and ships with a bonus soundtrack CD. "
+}

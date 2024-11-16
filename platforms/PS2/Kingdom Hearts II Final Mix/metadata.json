@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "RPG"],
+	"name": "Kingdom Hearts II: Final Mix",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J"],
+	"synopsis": "''Kingdom Hearts II Final Mix'' improvements over the original, [[Kingdom Hearts II]], include an English voice cast, tweaks in all difficulty modes and a new \"Serious Mode\" difficulty, new areas and redesigned navigation maps, new scenes from the Japanese Manga, new boss battles against the mysterious Organization XIII, one of the fights that was a cut-scene in the original is now playable, and all censored parts of the game are no longer censored."
+}

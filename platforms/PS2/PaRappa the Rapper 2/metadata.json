@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["NanaOn-Sha"],
+	"genres": ["Music"],
+	"name": "PaRappa the Rapper 2",
+	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/466378-parappa-the-rapper-2/index.html",
+			"score": 67,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/parappa-the-rapper-2",
+			"score": 67,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The original rap star is back in the house! See if you have enough rhythm to keep the beat with everyone's favorite rappin' puppy. Join Parappa and a cast of new and familiar characters on a mission of the utmost importance: prevent the Evil Noodle Syndicate from turning everything into noodles. Check out the funky fresh tunes that are guaranteed to get your toes tappin' and your head bobbin'."
+}

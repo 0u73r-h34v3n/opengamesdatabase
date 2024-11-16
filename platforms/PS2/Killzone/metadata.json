@@ -1,0 +1,40 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Guerrilla"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Killzone",
+	"publishers": [
+		"Sony|SCEA (US)",
+		"Sony|SCEE (EU)",
+		"Sony|SCEI (KO)",
+		"Sega (JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2004/10/30/killzone-review",
+			"score": 7.5,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/killzone-review/1900-6112313/",
+			"score": 6.9,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/killzone",
+			"score": 70,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_killzone_ps2",
+			"score": 5,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Set in the near future during a period of planetary colonization, Killzone drops you in the middle of a war between the ISA Command and a militaristic separatist faction, the Helghast. As one of four ISA members, your initial objective is to escort a high-ranking official to an evacuation point. You can experience several gameplay modes, including single-player, multiplayer (team-based and competitive), and online play for up to 12 players. Players can equip themselves with an armory of more than 27 different weapons based on modern technology."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Fighting"],
+	"name": "Fantastic 4",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fantastic-4",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Based on the 2005 movie of the same name, Fantastic Four lets you control the team of superheroes known as the Fantastic 4. Each character possesses a unique set of abilities that you can use and combine in the hunt for Doctor Doom. The game includes single-player, cooperative, and two-player versus modes."
+}

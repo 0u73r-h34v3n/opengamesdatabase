@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Neversoft Entertainment"],
+	"genres": ["Music"],
+	"name": "Guitar Hero III: Legends of Rock",
+	"publishers": ["RedOctane (US, AU)", "Activision (AU, EU, JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/guitar-hero-iii-legends-of-rock/ps2-899095",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/guitar-hero-iii-legends-of-rock",
+			"score": 82,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Guitar Hero III: Legends of Rock drops you into the spotlight of the largest and most legendary rock concert ever. The star-studded soundtrack includes master tracks by such legendary artists as Guns N' Roses, The Rolling Stones, Beastie Boys, Muse and Pearl Jam, with added songs as made legendary by Kiss, Alice Cooper and Heart. Now drop that air guitar, tune your exclusive new Les Paul Guitar Controller and shred the night away with Guitar Hero III: Legends of Rock."
+}

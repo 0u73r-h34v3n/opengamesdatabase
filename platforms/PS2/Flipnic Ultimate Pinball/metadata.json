@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEI"],
+	"genres": ["Pinball", "Arcade"],
+	"name": "Flipnic: Ultimate Pinball",
+	"publishers": ["Sony|SCEI (JP)", "Ubisoft (EU)", "Capcom (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/flipnic-ultimate-pinball",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "You can play more than 100 levels, ranging from biological to theological, in the 3D pinball game Flipnic: Ultimate Pinball. In addition to traditional pinball modes, Flipnic Ultimate Pinball includes minigames and two-player modes such as Foosball Striker and Basketball 1-on-1. The game also adds valuable power-ups and skills like jumping to the traditional pinball experience. Watch the in-game training videos to learn how to collect bigger jackpots."
+}

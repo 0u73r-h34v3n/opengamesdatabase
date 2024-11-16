@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["Puzzle"],
+	"name": "Super Bust-A-Move",
+	"publishers": ["Taito Corporation (JP)", "Acclaim (US, EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2000/12/07/super-bust-a-move-3",
+			"score": 7,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/super-bust-a-move",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "BUST into a world of bubble-bursting puzzle-popping fun! Unlock secret characters, rescue captives and more. Conveyer belts challenge your Super BAM skills. Mind blowing, puzzle-packed addictive gameplay. Match bubble-berakng wits with a friend in 2 player Battle mode."
+}

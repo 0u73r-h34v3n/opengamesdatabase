@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["3DO"],
+	"genres": ["Action", "Platformer"],
+	"name": "Portal Runner",
+	"publishers": ["3DO"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/portal-runner",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Vikki G. and Leo the Lion meet adventure head on! After Vikki is led into a sinister trap set by her nemesis, Brigitte Bleu, Vikki and Leo are hurled through a portal into treacherous new worlds! Now they must work together to battle deadly foes, solve perplexing puzzles and explore new realms in search of a way home."
+}

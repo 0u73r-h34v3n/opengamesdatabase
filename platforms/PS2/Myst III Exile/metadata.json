@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Presto Studios"],
+	"genres": ["Adventure"],
+	"name": "Myst III: Exile",
+	"publishers": ["Ubisoft (US, EU)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/myst-iii-exile",
+			"score": 57,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Myst III: Exile, you must track a new villain through several surrealistic Ages. Only by exploring the landscape and solving puzzles will you uncover the truth behind this new adversary. This chapter in the Myst series lets you pan 360 degrees within the environments, giving you more freedom than ever before. Console versions of Myst III: Exile also include improved visuals, ambient sound, and a behind-the-scenes look at the making of Myst."
+}

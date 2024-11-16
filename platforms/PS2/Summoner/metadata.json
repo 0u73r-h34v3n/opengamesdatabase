@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Volition|Volition Inc."],
+	"genres": ["Action", "RPG"],
+	"name": "Summoner",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/summoner",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Born with the mark of the Summoner, Joseph possesses a power greater than emperors and gods. As a child, he summoned a demon to save his village, and watched in horror as those he loved were destroyed. Nine years later, the armies of Orenia invade, and Joseph must confront the prophecy he was born to fulfill."
+}

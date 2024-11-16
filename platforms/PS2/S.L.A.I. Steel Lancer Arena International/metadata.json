@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Genki"],
+	"genres": ["Action"],
+	"name": "S.L.A.I.: Steel Lancer Arena International",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/slai-steel-lancer-arena-international",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Konami brings the first online mech combat game to the PlayStation 2 with S.L.A.I.: Steel Lancer Arena International. The game puts you in the sport of the future, where players pilot their customized mechs to win cash. With a wide array of mech configurations and phantom stealth abilities, you can create a mech like no other. Tune up your machine with weapons, armor, and accessories. Once you're ready, you can enter multiple battlefields in single- and two-player contests, as well as four-player online mode."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Black Isle Studios"],
+	"genres": ["Action", "RPG"],
+	"name": "Baldur's Gate: Dark Alliance II",
+	"publishers": ["Interplay"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/baldurs-gate-dark-alliance-ii",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Embark on a new adventure for fortune, glory and power.  Baldur's Gate: Dark Alliance II, the sequel to [[Baldur's Gate: Dark Alliance]] starts you off on a road full of danger and magic.  Face a seemingly endless army of sinister enemies in over 80 levels of finger-numbing action.  Master skills, spells and deadly weapons while traveling through spectacular environments.  Customize your character and forge your own weapons.  It's up to you to rid the lands of evil by yourself or with a friend."
+}

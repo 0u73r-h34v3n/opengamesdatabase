@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Racjin"],
+	"genres": ["Puzzle", "RPG", "Action"],
+	"name": "Bomberman Land 2",
+	"publishers": ["Hudson"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Bomberman Land 2 is a sequel to Bomberman Land. Bomberman and his gang are invited to an all-new Bomberman Land theme park. It's up to you to collect all of the 125 Bompad pieces and also play some fun mini-games."
+}

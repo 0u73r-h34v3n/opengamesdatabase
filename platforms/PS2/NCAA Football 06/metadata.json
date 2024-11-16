@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "NCAA Football 06",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ncaa-football-06",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "NCAA Football 06 is a 3D college football simulation. You assume control of a college football franchise and make decisions concerning recruiting and coaching strategies, and then play out the game on the field. The new 'Quest for the Heisman' mode lets you follow a star player from high school training camp through the Heisman awards ceremony. NCAA Footbal 06 also features impact players and a breakaway mode, which gives you more control during clutch moments in the game."
+}

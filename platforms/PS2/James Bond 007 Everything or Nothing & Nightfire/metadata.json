@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "James Bond 007: Everything or Nothing & Nightfire",
+	"publishers": ["Electronic Arts"],
+	"regions": ["NTSC-J"],
+	"synopsis": "{{Collection|EA Best Hits editions of [[James Bond 007: Everything or Nothing]] and [[007: NightFire]].}}"
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["Puzzle", "Action", "Adventure"],
+	"name": "The Adventures of Cookie & Cream",
+	"publishers": [
+		"From Software (JP)",
+		"Agetec (US)",
+		"Empire Interactive (EU)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-adventures-of-cookie-cream",
+			"score": 78,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Adventures of Cookie & Cream offers puzzling challenges for the whole family. Two people must work cooperatively to help each other through challenging traps and past hungry critters in Adventure mode. As you complete each level, you'll open new areas in four-player mode, in which the winner is the player who grabs the most bonus items. The Adventures of Cookie & Cream combines elements from action, puzzle, platform, adventure, and party games to unite all kinds of gamers."
+}

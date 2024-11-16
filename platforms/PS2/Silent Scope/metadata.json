@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Konami|KCET"],
+	"genres": ["Action", "Shooter"],
+	"name": "Silent Scope",
+	"publishers": ["Konami"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/258047-silent-scope/index.html",
+			"score": 67,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/silent-scope",
+			"score": 63,
+			"max_score": 100
+		}
+	],
+	"synopsis": "A port of the classic arcade shooter. The President and his family have been kidnapped by lethal terrorists, and the government turns to an elite counter-terrorist sniper to neutralize the hostile threats. Your mission is to infiltrate the terrorist's headquarters, clear all areas of danger and return the President's family safely to the White House."
+}

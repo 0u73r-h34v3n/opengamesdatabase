@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["THQ|THQ Australia"],
+	"genres": ["Action", "Adventure"],
+	"name": "Avatar: The Last Airbender - Into the Inferno",
+	"publishers": ["THQ"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/avatar-the-last-airbender-into-the-inferno/ps2-14256474",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/avatar---the-last-airbender-into-the-inferno",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "In Avatar - The Last Airbender: Into the Inferno, players will play as Aang and friends in this action-packed video game based on the final season of the highly acclaimed TV series. New gameplay features will allow players to interact with characters from the TV show while performing thrilling martial arts moves to defeat the Fire Nation."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Fighting", "Horror"],
+	"name": "Buffy the Vampire Slayer: Chaos Bleeds",
+	"publishers": ["Vivendi Games|Vivendi Universal Games"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/buffy-the-vampire-slayer-chaos-bleeds",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Buffy the Vampire Slayer: Chaos Bleeds lets you play as six characters from the TV show--Buffy, Faith, Willow, Xander, Spike, and a friend from the past. Use each character's unique abilities to defeat an ancient evil that threatens to destroy them and their world. Set in both familiar and new locations, the game challenges you to overcome a variety of challenges. Chaos Bleeds also features several multiplayer modes, including Domination, Last Man Standing, Bunny Catcher, and Slayer Challenge."
+}

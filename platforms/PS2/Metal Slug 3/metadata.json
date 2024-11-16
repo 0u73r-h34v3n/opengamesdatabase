@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Metal Slug 3",
+	"publishers": ["SNK Playmore (JP)", "Ignition Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Not merely an arcade port, Metal Slug 3 for the PS2 sports brand-new features and original missions. Now you can choose from more than 10 new slug vehicles, including the Slug Copter and the Elephant Slug, and go head-to-head against submarines, large locusts, and giant bosses. Use handguns, power-up grenades, cannons, and more to battle evil forces. Fight alone or cooperatively with a friend in such locations as a deserted island in the South Seas, an underwater bioweapons factory, and outer space."
+}

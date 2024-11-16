@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Monster Hunter",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/monster-hunter",
+			"score": 68,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Monster Hunter challenges you to complete different quests while confronting a variety of creatures. As monster hunters, you'll battle against powerful beasts either alone or with the aid of others. The game's objectives vary from defeating beasts and protecting a town to collecting items. For every completed objective, you'll gain more weapons and equipment, which can also be upgraded in shops. Online multiplayer modes let you team up with three other players to both vanquish powerful monsters and accomplish tasks."
+}

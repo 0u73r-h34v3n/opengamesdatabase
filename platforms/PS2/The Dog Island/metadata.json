@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Yuke's"],
+	"genres": ["Adventure"],
+	"name": "The Dog Island",
+	"publishers": ["Yuke's (JP)", "Ubisoft (EU, AU, US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-dog-island",
+			"score": 56,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Imagine that you're on an island full of dogs. In The Dog Island for PlayStation 2, you play as a dog whose brother falls ill one day. In order to help your brother, you head to an island in search of a legendary flower. The game includes stages in grass planes, snowy fields and even deserts. You can select from a variety of dogs. This is an adorable adventure for kids, based on the best-selling franchise [https://en.wikipedia.org/wiki/Artlist_Collection:_The_Dog_and_Friends 'THE DOG']."
+}

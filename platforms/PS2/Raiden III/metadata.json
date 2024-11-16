@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Moss"],
+	"genres": ["Action", "Shoot'em up"],
+	"name": "Raiden III",
+	"publishers": [
+		"Taito Corporation (JP)",
+		"505 Game Street (EU)",
+		"UFO Interactive (US)",
+		"Sony|SCEA (US)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/games/raiden-iii/ps2-756208",
+			"score": 6.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/raiden-iii",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "One of the most beloved shooter franchises makes it way back to the PlayStation 2 with Raiden 3! All of the features that fans have grown to love are back, with even better graphics, sounds and gameplay that made this series legendary!"
+}

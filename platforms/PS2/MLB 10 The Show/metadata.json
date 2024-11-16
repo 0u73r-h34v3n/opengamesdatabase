@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEA"],
+	"genres": ["Sports"],
+	"name": "MLB 10: The Show",
+	"publishers": ["Sony|SCEA (US)", "Sony|SCEI (KO)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"synopsis": "Welcome to The Show All-Star. The best selling and highest rated baseball franchise is back in MLB 10 The Show throwing you into an unsurpassed baseball experience where big moments come alive. It's all here too; from AI Improvements to new personalized batting stances to Joe Mauer, newly crowned American League MVP, as the new cover athlete. Get ready. The Show is about to begin."
+}

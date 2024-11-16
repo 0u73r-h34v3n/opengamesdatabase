@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix"],
+	"genres": ["MMO", "RPG"],
+	"name": "Final Fantasy XI: Treasures of Aht Urhgan",
+	"publishers": ["Square Enix"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/final-fantasy-xi-treasures-of-aht-urhgan",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Final Fantasy XI is the first cross-platform, cross-continent massively multi-player online role-playing game in the world. With the release of this third expansion, players will uncover the legends surrounding the Aht Urghan Empire. With new jobs, including the highly requested Blue Mage and Corsair, additional areas to explore, and powerful new monsters, Treasures of Aht Urhgan expands the world of Vana'diel making it an even livelier place to visit."
+}

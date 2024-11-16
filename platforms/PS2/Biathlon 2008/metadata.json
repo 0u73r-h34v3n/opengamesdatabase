@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["49Games"],
+	"genres": ["Sports"],
+	"name": "Biathlon 2008",
+	"publishers": ["RTL (EU)", "Conspiracy Entertainment (US)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/biathlon-2008",
+			"score": 30,
+			"max_score": 100
+		}
+	],
+	"synopsis": "RTL Biathlon 2008 is the most beginner-friendly and at the same time most authentic game adaptation of the biathlon sport to date. 17 tracks in 13 international event locations, designed with enormous attention to detail, take the player on a journey through beautiful, snow-covered winter scenery. RTL Biathlon 2008 offers original athletes, original tracks and original rules, as well as an extensive career mode."
+}

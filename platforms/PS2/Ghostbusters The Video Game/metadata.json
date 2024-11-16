@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["War Drum Studios"],
+	"genres": ["Action"],
+	"name": "Ghostbusters: The Video Game",
+	"publishers": ["Atari (US, AU)", "Sony|SCEE (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/ghostbusters-the-video-game",
+			"score": 64,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Who ya gonna call? The Ghostbusters are back for an all new adventure in Ghostbusters: The Video Game. With Manhattan overrun again by supernatural creatures, take on the role of a new recruit joining the famous Ghostbusters team. Equipped with a variety of unique equipment and gadgets, hunt, fight, and wrangle a wide range of ghosts in an all-new battle to save New York City from its latest paranormal plague."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEI"],
+	"genres": ["Action"],
+	"name": "Ape Escape: Pumped & Primed",
+	"publishers": ["Sony|SCEI (JP)", "Ubisoft (US)"],
+	"regions": ["NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ape-escape-pumped-primed",
+			"score": 61,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When monkeys start appearing, you'll know something is wrong. Set in a computer-generated world, Ape Escape: Pumped & Primed follows your favorite characters from the Ape Escape series as they battle Specter and his monkeys in a computer-generated world. As Natalie, Spike, the Professor, or Jake, you must defeat your enemies with an array of gadgets and special abilities. You can play cooperatively with a friend in Story mode or go head-to-head in Versus mode."
+}

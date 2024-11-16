@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Core Design|Core Design Ltd."],
+	"genres": ["Action", "Adventure"],
+	"name": "Project Eden",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/014/014929.html",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/project-eden",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When mysterious problems occur at the Real Meat factory, the city calls the Urban Protection Agency for help. Project Eden gives control of this elite force consisting of four specialists. Lead your squad into vast caverns, snakelike tunnels, and luring dead ends. High-tech weapons and replenishing power cells increase your chances of survival against morphing enemies and treacherous paths. Descend into the darkness alone or with up to four other players cooperatively in multiplayer, or you can go head-to-head in Deathmatch mode."
+}

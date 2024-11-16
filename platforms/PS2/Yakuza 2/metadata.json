@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Adventure", "RPG"],
+	"name": "Yakuza 2",
+	"publishers": ["Sega (JP, KO, US, AU)", "Sega|Sega Europe (EU)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/yakuza-2",
+			"score": 77,
+			"max_score": 100
+		}
+	],
+	"synopsis": "''Yakuza 2'' plunges you once more into the violent Japanese underworld. In intense brutal clashes with rival gangs, the police, and the Korean mafia, you will have opportunities to dole out more brutal punishment. As the heroic Kazuma Kiryu from the original [[Yakuza]], explore Tokyo and now Osaka. Wander through the back alleys of Japan's underworld while trying to prevent an all-out gang war in over 16 complex, cinematic chapters written by Hase Seishu, the famous Japanese author who also wrote the first ''Yakuza''. Endless conflicts and surprise plot twists will immerse you in a dark shadowy world where only the strongest will survive."
+}

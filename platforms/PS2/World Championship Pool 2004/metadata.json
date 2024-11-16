@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Blade Interactive"],
+	"genres": ["Sports"],
+	"name": "World Championship Pool 2004",
+	"publishers": ["Jaleco Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/world-championship-pool-2004",
+			"score": 60,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Both die-hard pool fans and the casual pool players can practice with World Championship Pool 2004, a pool simulator that features single-player, multiplayer, and online play. In both real and fictitious venues, you'll play to unlock fun tables, unique ball sets, and world-class pool cues. Become a professional in six gameplay modes; including 8-Ball, 9-Ball, Career, Snooker, Trick Shots; and bonus games like Countdown, Target Table, and Minefield. Realistic ball physics and a dynamic camera system give World Championship Pool 2004 TV-style coverage complete with famous commentators."
+}

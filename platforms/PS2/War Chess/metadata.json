@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Board"],
+	"name": "War Chess",
+	"publishers": ["XS Games (EU)"],
+	"regions": ["PAL"],
+	"synopsis": "WarChess brings back the classic game of chess in a whole new way. XS Games brings you an entirely new chess game that will please both the chess player and the fantasy adventure fan. WarChess combines fantasy and chess and brings both elements into one to bring you this great \"battle\" chess game. Watch as your pieces fight and duke it out to take over the necessary position to take out the king!"
+}

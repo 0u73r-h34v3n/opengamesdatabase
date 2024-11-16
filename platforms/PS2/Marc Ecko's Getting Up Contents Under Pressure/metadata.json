@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Double Helix Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "Marc Ecko's Getting Up: Contents Under Pressure",
+	"publishers": ["Atari"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/marc-eckos-getting-up-contents-under-pressure",
+			"score": 69,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Marc Ecko's Getting Up: Contents Under Pressure is a game that explores the world of a graffiti artist. In a city where freedom of expression is being choked by a tyrannical mayor, you play as Trane, a youth trying to build his reputation from a rookie to the most reputable graffiti artist of all. Marc Ecko's Getting Up: Contents Under Pressure lets you experience the life of a tagger, having to fight in the street and scale obstacles to tag the most desirable locations."
+}

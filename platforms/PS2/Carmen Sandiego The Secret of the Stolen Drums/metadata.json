@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Adventure"],
+	"name": "Carmen Sandiego: The Secret of the Stolen Drums",
+	"publishers": ["Bam Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/carmen-sandiego-the-secret-of-the-stolen-drums",
+			"score": 53,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Join A.C.M.E. agent-in-training, Cole Gannon, along with Jules Argent and Shadow Hawkins, in an all-new action adventure on the trail of Carmen Sandiego--the world's greatest thief. This case takes Cole around the world: from a museum in New York and the beaches of New Zealand to the Incan ruins of Machu Picchu. While on the case, you'll need to use acrobatics, stealth, martial arts, and most of all, your wit, to stop Carmen from unearthing the drums and making off with the lost treasure."
+}

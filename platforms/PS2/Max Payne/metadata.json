@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Rockstar Games|Rockstar Toronto"],
+	"genres": ["Action", "Shooter"],
+	"name": "Max Payne",
+	"publishers": ["Rockstar Games (US, EU, KO)", "Electronic Arts (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/max-payne-review/1900-2831464/",
+			"score": 8,
+			"max_score": 10
+		},
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2001/12/12/max-payne-4",
+			"score": 8.1,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/max-payne",
+			"score": 80,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_maxpayne_ps2",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Max Payne is a man with nothing to lose--a fugitive undercover cop framed for murder, and now hunted by the cops and the mob.  As Payne, you'll uncover plot twists, engage in dramatic \"bullet-time\" firefights with thugs, and fight your way through an unforgiving New York blizzard.  Max can wield a variety of weapons including pistols, submachine guns, shotguns, sniper rifles, grenades, and Molotov cocktails.  Prepare yourself for an involving story combined with slick action."
+}

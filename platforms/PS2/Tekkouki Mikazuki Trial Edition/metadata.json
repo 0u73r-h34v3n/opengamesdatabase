@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sandlot"],
+	"genres": ["Demo"],
+	"name": "Tekkouki Mikazuki Trial Edition",
+	"regions": ["NTSC-J"],
+	"synopsis": "This is a one stage demo of destructible city engine for a planned game Tekkouki Mikazuki (named after the television series). Unfortunately, the series was received poorly and the game was cancelled. The series soundtrack disc was distributed alongside with the demo disc."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Sports"],
+	"genres": ["Sports"],
+	"name": "Fight Night Round 2",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/fight-night-round-2",
+			"score": 88,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to EA Sports' Fight Night 2004 maintains the original's analog control scheme and introduces a variety of new features. Now you have access to even more punches, including a new \"haymaker\" punch that is just powerful enough to knock down your opponent. Every hit counts in this game, as injuries reduce a fighter's ability to defend himself. Your cut man can tend to your injuries in between rounds to help you survive your opponent's devastating punches."
+}

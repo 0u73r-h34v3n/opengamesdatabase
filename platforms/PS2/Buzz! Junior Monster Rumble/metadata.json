@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Cohort Studios"],
+	"genres": ["Trivia"],
+	"name": "Buzz! Junior: Monster Rumble",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/buzz!-junior-monster-rumble",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Scare up some mayhem! BUZZ!™ Junior: Monster Rumble lets you choose a monster to explore the dark, spooky Monster Mansion. BUZZ!™ Junior: Monster Rumble provides 4-way mischievous action and lets players fully customize their Monsters."
+}

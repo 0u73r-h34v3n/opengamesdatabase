@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Pandemic Studios"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Star Wars: The Clone Wars",
+	"publishers": ["LucasArts"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/star-wars-the-clone-wars",
+			"score": 72,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Star Wars: The Clone Wars begins where Star Wars Episode II: Attack of the Clones ends.  As Jedi Anakin Skywalker, Mace Windu, or Obi-Wan Kenobi, you lead the Republic Army in the greatest battles of the epic Clone Wars.  Your mission is to stop the Separatists from reassembling an ancient Sith weapon of mass annihilation.  Then battle for survival in a variety of multiplayer games with up to four players, with Deathmatch, King-of-the-Hill, and even strategic Conquest games.  And engage over 30 unique combat units as you wage war across six worlds in the galaxy's most unforgettable conflict."
+}

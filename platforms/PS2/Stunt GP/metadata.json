@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Team 17"],
+	"genres": ["Racing"],
+	"name": "Stunt GP",
+	"publishers": ["Titus Software"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Gamespot",
+			"url": "http://www.gamespot.com/reviews/stunt-gp-review/1900-2826196/",
+			"score": 5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/stunt-gp",
+			"score": 49,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Hold on tight for the ultimate in radio-controlled racing! Stunt GP is as close as you will ever get to the gravity-defying stunts and lightning-speed racing of radio-controlled cards. In a range of beautifully rich environments, jam-packed with ramps, fly-overs, and the loop-the-loops, perform exhilarating daredevil stunts while racing sensational vehicles at breakneck speeds. Stunt GP's stunning visuals provide total player immersion for maximum fun and adrenaline-pumping action.   - Race the 16 sensational vehicles from Wild-Wheels, SpeeddDemon or Aeroblaster categories across 24 awesome, crazy tracks. Play in Arcade, Exhibition, Championship and Time trial modes to earn a place on the leader board - Customise your vehicles with thousands of possible different combinations to glean that last bit of speed or power or amazing stunts - Beat your friends: multiplayer-racing action, split-screen head to head action."
+}

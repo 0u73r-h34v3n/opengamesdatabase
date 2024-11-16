@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Vingt-et-un Systems"],
+	"genres": ["Racing"],
+	"name": "X-treme Express",
+	"publishers": ["Syscom (JP)", "Midas Interactive Entertainment (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "For the first time ever you have the chance to drive a train on the Playstation 2. You can compete in train races, pull some stock around, ram other trains of the track or just go for a spin through the countryside. You have 4 game modes to choose from: ''Grand Prix'': the main mode where you'll race on all the tracks avaible for the game, ''Tour'': in this mode you'll have to complete some special challegnes to unlock more trains, ''Free'': choose your favourite settings and start a race and ''Versus'': to compete with another player. "
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE"],
+	"genres": ["Trivia"],
+	"name": "Buzz! Brain of the UK",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL"],
+	"synopsis": "For the first time in Buzz!, the majority of Buzz!: Brain Of The UK questions cover topics specific to the UK. It's not just kings and queens, though, you'll find questions on diverse aspects of UK life: there'll be questions on bands, cities, sports personalities, television favourites, wildlife, food and more."
+}

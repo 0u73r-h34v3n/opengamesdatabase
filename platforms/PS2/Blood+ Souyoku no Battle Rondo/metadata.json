@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEI"],
+	"genres": ["Adventure"],
+	"name": "Blood+ Souyoku no Battle Rondo",
+	"publishers": ["Sony|SCEI"],
+	"regions": ["NTSC-J"],
+	"synopsis": "Licensed for the PlayStation 2 and PlayStation Portable systems by Sony Computer Entertainment, Blood+ is the follow-up to the vampire anime Blood the Last Vampire, telling the story of what happens between parts 1 and 2 of the anime. The game is split into two parts. In the Active Demo part, you work through the storyline, selecting your path through dialogue sequences. The game's action part is a full-fledged action-oriented battle system where you face off against enemies with your trusty sword. Enemies that have been defeated release crystals which are used to build up a special attack."
+}

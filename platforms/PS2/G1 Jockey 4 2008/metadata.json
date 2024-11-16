@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Koei"],
+	"genres": ["Sports"],
+	"name": "G1 Jockey 4 2008",
+	"publishers": ["Koei"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Beginning as a rookie you can compete in a variety of thrilling races and strive to improve your skills and thus gain access to better racehorses. You can choose how you want to progress: go for short-term goals such as raising your rank and winning prizes."
+}

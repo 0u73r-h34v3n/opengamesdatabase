@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Io Interactive"],
+	"genres": ["Action", "Adventure"],
+	"name": "Hitman: Blood Money",
+	"publishers": ["Eidos Interactive"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hitman-blood-money",
+			"score": 83,
+			"max_score": 100
+		}
+	],
+	"synopsis": "When assassins from Agent 47's contract agency, The ICA, are systematically eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. For Agent 47 it's business as usual, until suddenly he loses contact with The ICA. Sensing that he may be the next target, he travels to America, where he prepares to make a killing. Agent 47 is back and this time he's paid in cold, hard cash. How the money is spent will affect his passage through the game and the weapons at his disposal, resulting in a unique gameplay experience for each player. Powered by a new version of Io's stunning Glacier engine, Hitman: Blood Money delivers the most brutal and realistic simulation of life as the world's deadliest assassin."
+}

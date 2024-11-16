@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Idea Factory"],
+	"genres": ["Tools", "Actions"],
+	"name": "Mamimune * Mogacho no Print Hour",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The title is a mini-game with TV anime \"MamiMume Mogacho\" theme. Some of the game output as well as its characters' cards can be printer on a ''popegg'' printer (PS2 compatible printer)."
+}

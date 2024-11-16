@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Project Aces"],
+	"genres": ["Simulation"],
+	"name": "Ace Combat Zero: The Belkan War",
+	"publishers": [
+		"Namco (JP, US)",
+		"Sony|SCEI (KO, AS)",
+		"Sony|SCEE (EU)",
+		"Sony|SCE Australia (AU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/ace-combat-zero-the-belkan-war",
+			"score": 75,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Ace Combat Zero's gameplay is split into a single-player campaign mode and a two-player versus mode. The mechanics themselves are a mix of features from Ace Combat 4 and 5."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["TAITO"],
+	"genres": ["Simulation"],
+	"name": "Energy Airforce: Aim Strike!",
+	"publishers": ["Taito Corporation (JP)", "505 Game Street (EU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "Energy Airforce: aimStrike! is a PlayStation 2 game that focuses strictly on being an authentic flight simulator. All aircraft and weapons used in the game are either existing or prototypes used by the U.S. military. Realistic loads of weapons and fuel (although chaff and flares are unlimited) can be viewed from outside or from a realistic cockpit view. When flying the aircraft in cockpit view, the pilot's leg can be seen depressing appropriately.\n<br />The game follows a generic storyline and could be considered to be a parody of the Gulf War of 1991. A small sandy desert country (whose capital is \"Ad Barath\") has a military coup d'état (hinting to the Ba'ath Party) and gives birth to a militarized dictatorship. The country then uses its air superiority to invade a peaceful neighbor to the south (which denotes Kuwait). At this point, the player's organization steps in to combat the dictatorship and restore freedom to the besieged country."
+}

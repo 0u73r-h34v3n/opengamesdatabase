@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"genres": ["Demo"],
+	"name": "Namco Transmission Demo Disc v3.2",
+	"publishers": ["Namco"],
+	"regions": ["NTSC-U"],
+	"synopsis": "This demo disc contains Namco demos: [[MotoGP 4]], [[Pac-Man World 3]], [[Urban Reign]], [[We Love Katamari]], videos: [[Ace Combat 5: The Unsung War]], Bounty Hounds (PSP), [[Namco Museum 50th Anniversary]], [[Pac-Man World Rally]], Ridge Racer (PSP), [[Tales of Legendia]], [[Tekken 5]], [[Time Crisis 3]], [[Time Crisis: Crisis Zone]], [[Xenosaga Episode II: Jenseits von Gut und Bose]] as well as some game saves."
+}

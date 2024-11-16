@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Sony|SCEE London Studio"],
+	"genres": ["Music"],
+	"name": "SingStar Party Hits",
+	"publishers": ["Sony|SCEE (EU)", "Sony|SCE Australia (AU)"],
+	"regions": ["PAL"],
+	"synopsis": "SingStar Summer Party features classic songs and videos that just capture that summer feeling: tracks from Blondie, Rihanna, David Bowie, Klaxons and Peter Andre to name just a few. With a track list bursting with feel-good favourites, your SingStar Summer Party will turn even the most reluctant guest into a stage worthy Show stopper."
+}

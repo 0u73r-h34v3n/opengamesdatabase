@@ -1,0 +1,41 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Square Enix|SquareSoft"],
+	"genres": ["RPG"],
+	"name": "Final Fantasy X",
+	"publishers": [
+		"Square Enix|SquareSoft (JP)",
+		"Square Enix|Square Electronic Arts (US)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEE (EU)",
+		"Square Enix (KO, US, JP)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2001/12/19/final-fantasy-x",
+			"score": 9.5,
+			"max_score": 10
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/final-fantasy-x-review/1900-2832771/",
+			"score": 9.3,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/final-fantasy-x",
+			"score": 92,
+			"max_score": 100
+		},
+		{
+			"name": "Eurogamer",
+			"url": "https://www.eurogamer.net/articles/r_ffx_ps2",
+			"score": 9,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Enter a fantasy world where humans are on the brink of extinction. In this all-new Final Fantasy RPG, you must stop a powerful force called \"Sin\" that destroys cities and lives. Along your journey, you will meet Tidus--a star blitzball\" player--and Yuna--a young woman with who is skilled in summoning and controlling aeons - powerful spirits of yore. Final Fantasy X is the first Final Fantasy game to feature voiceovers with advanced facial expressions. Travel to uncharted seas and treacherous lands in a quest to save mankind."
+}

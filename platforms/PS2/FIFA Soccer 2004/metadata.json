@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Electronic Arts|EA Canada"],
+	"genres": ["Sports"],
+	"name": "FIFA Soccer 2004",
+	"publishers": ["Electronic Arts (EU, JP)", "Electronic Arts|EA Sports (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/fifa-soccer-2004",
+			"score": 84,
+			"max_score": 100
+		}
+	],
+	"synopsis": "FIFA Soccer kicks its game up a few notches with new installment, FIFA Soccer 2004.  This year's action features more advanced levels of player detail and responsiveness.  Play as one of the best players from 16 leagues and 350 teams, from Europe's super leagues to the Americas.  Plus, a new Career Mode gives you the chance to take a team from the lower divisions, battle through ranks, sign new players, and turn them into champions.  With immersive atmospheres, total realism with the world's premier clubs, and improved gameplay, FIFA Soccer 2004 looks to reach the goals of soccer fans."
+}

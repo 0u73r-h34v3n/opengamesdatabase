@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["SNK Playmore"],
+	"genres": ["Action", "Fighting"],
+	"name": "The King of Fighters 2002: Unlimited Match",
+	"publishers": ["SNK Playmore"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The King of Fighters 2002: Unlimited Match is a remake of The King of Fighters 2002 made by SNK Playmore. It features new teams, a new visual layout, new game balancing, new desperation moves and spliced artwork during super attacks. Several teams have a different theme from their previous appearances, and many teams have brand new compositions written for them. Like in The King of Fighters '98 Ultimate Match, this game also includes a Neo Geo adaption of the original version and a gallery of the older illustrations made by Nona, but only on PS2 version. "
+}

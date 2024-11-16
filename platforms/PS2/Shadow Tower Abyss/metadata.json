@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["From Software"],
+	"genres": ["RPG"],
+	"name": "Shadow Tower Abyss",
+	"publishers": ["From Software"],
+	"regions": ["NTSC-J"],
+	"synopsis": "First Person Dungeon Crawler akin to [[King's Field: The Ancient City]]. The game is set within the citadel first featured in ''Shadow Tower'' from PS1, and sees the return of a number of familiar non-player characters. The protagonist, an explorer, is in search of an arcane spear thought to have given great powers to the long-dead ruler of the kingdom, and ushered in an age of unrivalled prosperity. What remains of the kingdom today is largely covered over by the forest, save for the tower itself. Once inside the citadel, the protagonist encounters a mysterious Old Man, who traps him within and forces him to climb to the very top of the structure to escape"
+}

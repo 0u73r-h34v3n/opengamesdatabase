@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Red Tribe"],
+	"genres": ["Action", "Platformer"],
+	"name": "Looney Tunes: Acme Arsenal",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/looney-tunes-acme-arsenal",
+			"score": 38,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Looney Tunes: Acme Arsenal is an action-adventure game featuring seven playable Looney Tunes characters, including Bugs Bunny, Daffy Duck, Tazmanian Devil, Foghorn Leghorn, Marvin the Martian, Gossamer and a special secret character, all rendered in high-definition, next-generation graphics. Engaging in one or two player cooperative gameplay, gamers find themselves immersed in fast-paced combat, puzzle solving challenges and vehicle-based action in rich environments inspired by the popular, outlandish cartoon tales. Players command an arsenal of ACME melee and projectile weapons in outrageous battles and travel to various locations such as Camelot, Ancient Egypt, Mars, the Wild West, the trenches of World War II and more."
+}

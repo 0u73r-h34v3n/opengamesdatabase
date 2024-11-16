@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Farsight Studios"],
+	"genres": ["Gambling"],
+	"name": "Hard Rock Casino",
+	"publishers": ["Crave (US)", "Oxygen Interactive (EU, AU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hard-rock-casino",
+			"score": 45,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Now you can play blackjack, video poker, and slots--no matter how close or far you are from Las Vegas. Hard Rock Casino combines the most popular casino games in one package, complete with realistic cards and casino gameplay. Each game includes help files and supports familiar keypad controls. In this authentic casino simulation, you can develop your skills and strategies and increase your winnings to become a casino master."
+}

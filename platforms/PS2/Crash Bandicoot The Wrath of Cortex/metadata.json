@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Platformer"],
+	"name": "Crash Bandicoot: The Wrath of Cortex",
+	"publishers": [
+		"Vivendi Games|Vivendi Universal Games (US)",
+		"Universal Interactive (EU)",
+		"Konami (US, EU, JP)",
+		"HanbitSoft (KO)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://ps2.ign.com/objects/015/015616.html",
+			"score": 7.4,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/crash-bandicoot-the-wrath-of-cortex",
+			"score": 66,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The fifth Crash adventure features engaging gameplay, quirky characters and exotic locales.  Still smarting from his last defeat, Dr. Neo Cortex has developed a new diabolical plan to steal ancient crystals and unleash destructive gods on Crash and the planet Earth.  With Crash and his sister Coco, it's now up to you to find and return all the crystals across dangerous levels, including a volcanic island, a Japanese village, and the jungles of Africa.  You'll find many ways to move around, whether you maneuver a Jeep, fly a hang glider, or pilot a Crash-Mech.  But don't marvel too long at the new inventions, because you might find yourself in a heap of destruction."
+}

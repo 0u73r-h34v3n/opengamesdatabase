@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Codemasters"],
+	"genres": ["Racing"],
+	"name": "Colin McRae Rally 3",
+	"publishers": ["Codemasters"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/552269-colin-mcrae-rally-3/index.html",
+			"score": 85,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/colin-mcrae-rally-3",
+			"score": 86,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Live the life of a rally driver and prove your skills around the world. As part of the Ford Rally Sport Team, you'll have access to authentic high-performance rally cars, including Mitsubishi Lancer EVO 7, Subaru Impreza WRX, Citroen Saxo Kit Car, and Ford Focus RS WRC. It's a race against the clock through 56 stages from the United Kingdom to the United States. If you damage your car or the landscape, the path to the finish line will be a shaky one."
+}

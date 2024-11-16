@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Mere Mortals"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "Obliterate",
+	"publishers": ["Atari (AU)", "Phoenix Games (EU)"],
+	"regions": ["PAL"],
+	"synopsis": "Earth is under attack and only you can save the planet! Alien blobs have travelled across the galaxy to mount an attack, and you must Obliterate them all. Armed with a laser weapon, you must blast your way through dozens of levels of alien attack. The action starts on Earth, but your battle will continue into space and all the way back to the alien homeworld. Obliterate is a fun, cartoon, arcade-action game, set over 36 levels, and 3 worlds. Button-bashing blasting is mixed with skilful spot-on shooting over a huge variety of challenges. Don't just beat the alien blobs - Obliterate them."
+}

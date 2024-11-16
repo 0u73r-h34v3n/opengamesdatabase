@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Platformer"],
+	"name": "The Ant Bully",
+	"publishers": ["Midway"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2006/08/02/the-ant-bully-review-3",
+			"score": 5.5,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/the-ant-bully",
+			"score": 52,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Go pick on someone your own size! After bullying an innocent ant colony, a young boy named Lucas is magically shrunk down to ant size and embarks on a remarkable adventure. Play as Lucas, experiencing the dangerous and thrilling life of an ant as you battle, explore and forge new friendships with natives and other species in his new ant world. Based on exciting moments from the upcoming digitally animated family adventure The Ant Bully, and featuring all-new challenges created especially for the game, help Lucas evolve from recluse to hero in his quest to save the colony from extermination."
+}

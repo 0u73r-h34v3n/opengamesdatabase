@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Enterbrain"],
+	"genres": ["Action"],
+	"name": "Panzer Front Ausf.B",
+	"publishers": ["Enterbrain (JP)", "505 Game Street (EU, AU)"],
+	"regions": ["PAL", "NTSC-J"],
+	"synopsis": "You are sent out to the North African front of WWII where hell has broken loose. As the commander of a tank squadron you are going to need all your nerves, wits and strategy to succeed in your mission and gain victory."
+}

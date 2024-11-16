@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Level-5"],
+	"genres": ["RPG"],
+	"name": "Dragon Quest VIII: Journey of the Cursed King",
+	"publishers": ["Square Enix"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/583527-dragon-quest-viii-journey-of-the-cursed-king/index.html",
+			"score": 90,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/dragon-quest-viii-journey-of-the-cursed-king",
+			"score": 89,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Dragon Warrior series makes its debut on the PlayStation 2 with Dragon Quest VIII: Journey of the Cursed King. You can play as a young guardsman who must fight against a curse that he is mysteriously immune to. Characters in the game are designed by the creator of the Dragonball characters and are cel-shaded to provide an \"anime\" feel. The game is set in a large 3D world ravaged by the effects of the curse. The game also includes a playable demo of Final Fantasy XII."
+}

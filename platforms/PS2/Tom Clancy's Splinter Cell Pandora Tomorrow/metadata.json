@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Ubisoft|Ubisoft Shanghai"],
+	"genres": ["Action", "Adventure"],
+	"name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+	"publishers": ["Ubisoft"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tom-clancys-splinter-cell-pandora-tomorrow",
+			"score": 87,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The sequel to Splinter Cell makes its way to the PlayStation 2 and GameCube with a host of exclusive content, including a new jungle mission, alternate pathways in revisited missions, and booby-trap gameplay. Splinter Cell Pandora Tomorrow once again casts you in the role of Sam Fisher, whose mission is to destroy top secret documentation held in the embassy of militia leader Suhadi Sadono. With Sam's all-new moves and prototype gear, you must infiltrate buildings and spare the hostages."
+}

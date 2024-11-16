@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Otomate"],
+	"genres": ["Adventure"],
+	"name": "Armen Noir",
+	"publishers": ["Idea Factory"],
+	"regions": ["NTSC-J"],
+	"synopsis": "The story is set in the near future, in a corrupt city called Moebius, where the gap between rich and poor is growing bigger and bigger."
+}

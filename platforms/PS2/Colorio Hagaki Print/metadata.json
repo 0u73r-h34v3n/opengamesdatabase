@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Epson"],
+	"genres": ["Tools"],
+	"name": "Colorio: Hagaki Print",
+	"publishers": ["Epson"],
+	"regions": ["NTSC-J"],
+	"synopsis": "This software allows to import digital images, process them and print them as postcards to an Epson inkjet printer connected via USB to the PlayStation. "
+}

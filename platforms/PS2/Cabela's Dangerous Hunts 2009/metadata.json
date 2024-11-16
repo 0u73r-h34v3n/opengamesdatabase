@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["FUN Labs"],
+	"genres": ["Sports"],
+	"name": "Cabela's Dangerous Hunts 2009",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Players will face raw danger as they encounter the fiercest animals on earth, including lions, grizzly bears, jaguars and more. Accurately modeled Cabela's equipment in the game means the firearms, tactics and gear are all realistic and precise - but this won't always help in the face of an unpredictable, open environment packed with avalanches, elephant stampedes, and piranha infested waters. If you do miss a shot and fail to stop a charging man-eating animal, you will be forced to fight it via a melee defense - but pay attention; it's likely another nearby animal will join the attack.   Cabela's Dangerous Hunts 2009 will also feature a wide variety of gameplay modes, including fan favorite Action Zone, and hunting scenarios ranging from surprise animal attacks to strategic hunts."
+}

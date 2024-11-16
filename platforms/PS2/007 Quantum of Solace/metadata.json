@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eurocom Entertainment Software"],
+	"genres": ["Action", "Shooter", "Arcade"],
+	"name": "007: Quantum of Solace",
+	"publishers": ["Activision (EU, US, KO, AU)", "Square Enix (JP)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/articles/2008/11/11/quantum-of-solace-review-2",
+			"score": 7.8,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/quantum-of-solace",
+			"score": 73,
+			"max_score": 100
+		},
+		{
+			"name": "GameSpot",
+			"url": "https://www.gamespot.com/reviews/james-bond-quantum-of-solace-review/1900-6200423/",
+			"score": 7,
+			"max_score": 10
+		}
+	],
+	"synopsis": "Introducing a more lethal and cunningly efficient Bond, the game blends intense first-person action with a unique third-person cover combat system that allows players to truly feel what it is like to be the ultimate secret agent as they use their stealth, precision shooting and lethal combat skills to progress through missions. Blending the action of the \"Quantum of Solace\" feature film with the \"Casino Royale\" movie, the title propels players into the cinematic experience of international espionage. Quantum of Solace marks the first time players can become the dangerous and cunning Bond as portrayed by Daniel Craig. "
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Eutechnyx"],
+	"genres": ["Racing"],
+	"name": "Hummer Badlands",
+	"publishers": ["Global Star Software (US)", "2K|2K Games (EU)"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/hummer-badlands",
+			"score": 48,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Swap paint like never before as you drive every Hummer vehicle available, customized with incredible add-ons! Battle head-to-head in multi-player mode or pit Hummer against Hummer in extreme off-road challenges! Features include being able to drive every Hummer available, multiple game modes, racing on or off-road, as well as many others for hours of enjoyment!"
+}

@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Polyphony Digital"],
+	"genres": ["Racing"],
+	"name": "Tourist Trophy",
+	"publishers": [
+		"Sony|SCEI (JP,TW)",
+		"Sony|SCEA (US)",
+		"Sony|SCE Australia (AU)",
+		"Sony|SCEE (EU)"
+	],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "GameRankings",
+			"url": "http://www.gamerankings.com/ps2/929988-tourist-trophy/index.html",
+			"score": 77,
+			"max_score": 100
+		},
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/playstation-2/tourist-trophy",
+			"score": 74,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Experience the true essence of motorcycle racing in Tourist Trophy, the real riding simulator. With unrivaled physics and graphics, the developers of the best-selling \"Gran Turismo\" franchise have captured the fluid movement of man and machine, featuring perfected handling and rider perspective. Ride on more than 35 courses and more than 100 sportbikes from more than a dozen manufacturers, including Honda, Kawasaki, BMW Motorrad, and Ducati."
+}

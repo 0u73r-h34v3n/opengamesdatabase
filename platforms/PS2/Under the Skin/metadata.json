@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Adventure"],
+	"name": "Under the Skin",
+	"publishers": ["Capcom"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/under-the-skin",
+			"score": 55,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Play as Cosmi, a rascally alien who pulls pranks and initiates panic on planet Earth. You must prove yourself to your superiors on planet Trick by pulling pranks on the clueless citizens of Earth. To walk freely among the inhabitants of KoKo Town, you can assume their identities by zapping them with a special DNA ray gun. If your true alien identity is discovered, chaos will ensue, and you'll have an angry mob on your tail."
+}

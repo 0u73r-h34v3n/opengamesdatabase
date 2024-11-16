@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Creat Studios"],
+	"genres": ["Racing"],
+	"name": "Biker Mice from Mars",
+	"publishers": ["The Game Factory"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/biker-mice-from-mars",
+			"score": 27,
+			"max_score": 100
+		}
+	],
+	"synopsis": "The Biker Mice From Mars are on a quest to get hold of the Regenerator - the only device that can save their home planet from destruction. They must first rescue Stoker who is being held captive at Rump Towers as he is the only one who can build it for them. Help the trio crush the crooks and restore order int he galaxy as you battle through lots of melee combat missions and action-packed racing. Each Biker Mice has cool individual special attacks to help them in their battle against evil. Let's rock and ride!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Virtuos"],
+	"genres": ["Racing"],
+	"name": "Pimp My Ride: Street Racing",
+	"publishers": ["Activision"],
+	"regions": ["PAL", "NTSC-U"],
+	"synopsis": "Pimp My Ride: Street Racing is an arcade-style racer, where style matters more than anything else. Players are rewarded with new vehicles and customizations for participating in and winning street races around the world. Before races players can customize their vehicles to ensure that their personalized whip has what it takes to beat out the competition."
+}

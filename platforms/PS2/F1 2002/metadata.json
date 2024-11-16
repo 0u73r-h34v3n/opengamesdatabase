@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["Visual Sciences"],
+	"genres": ["Racing"],
+	"name": "F1 2002",
+	"publishers": ["Electronic Arts (JP, EU)", "Electronic Arts|EA Sports (US)"],
+	"regions": ["PAL", "NTSC-J", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "IGN",
+			"url": "http://www.ign.com/articles/2002/06/13/f1-2002",
+			"score": 7.6,
+			"max_score": 10
+		},
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/f1-2002",
+			"score": 81,
+			"max_score": 100
+		}
+	],
+	"synopsis": "Kick off a brand-new season of racing with all the speed, glamour, and rivalry of Formula One. Officially licensed from the Formula One Administration Limited, F1 2002 features real drivers, teams, cars, and tracks from the 2002 FIA Formula One World Championship. Join new teams--Toyota and Renault--and complete all-new challenges that test your driving skills. The higher you place in each race, the more points you receive, and the closer you are to the Constructor's Cup."
+}

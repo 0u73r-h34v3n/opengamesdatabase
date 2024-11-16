@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"developers": ["HB Studios Multimedia"],
+	"genres": ["Sports"],
+	"name": "Rugby 2005",
+	"publishers": ["Electronic Arts|EA Sports"],
+	"regions": ["PAL", "NTSC-U"],
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "http://www.metacritic.com/game/playstation-2/rugby-2005",
+			"score": 71,
+			"max_score": 100
+		}
+	],
+	"synopsis": "EA Sports Rugby 2005 incorporates all the major Rugby teams, players, and tournaments, including the Tri-Nations, Super 12 and many more authentic and prestigious events from the world of Rugby. The game incorporates a completely upgraded graphical engine with individually differentiated players, realistic motion-captured player animations, dramatic lighting and cameras, and stadiums that are accurate with details such as crowd reactions, songs, and chants. EA SPORTS Rugby 2005 plays realistically with on-the-fly play-calling, right analog stick controls for fakes and crushing hits and improved kicking control. The game also features a \"Rugby 101\" training mode outlining the rules, controls, and tactics of the sport through videos and interactive challenges."
+}
