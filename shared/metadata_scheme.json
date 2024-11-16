@@ -22,13 +22,49 @@
 			"type": "array",
 			"items": { "type": "string" }
 		},
-		"languages": {
+		"locales": {
 			"type": "array",
 			"items": {
 				"anyOf": [
 					{
+						"const": "DE",
+						"description": "German"
+					},
+					{
+						"const": "ES",
+						"description": "Spanish"
+					},
+					{
+						"const": "FR",
+						"description": "French"
+					},
+					{
+						"const": "IT",
+						"description": "Italy"
+					},
+					{
+						"const": "JA",
+						"description": "Japanese"
+					},
+					{
+						"const": "KO",
+						"description": "Korean"
+					},
+					{
+						"const": "PL",
+						"description": "Polish"
+					},
+					{
+						"const": "PT",
+						"description": "Portuguese"
+					},
+					{
 						"const": "RU",
 						"description": "Russian"
+					},
+					{
+						"const": "UK",
+						"description": "Ukrainian"
 					}
 				]
 			}
