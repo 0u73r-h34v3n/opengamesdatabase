@@ -167,7 +167,6 @@
 					},
 					"url": {
 						"type": "string",
-						"format": "uri",
 						"description": "The URL to the review or review platform."
 					},
 					"score": {
