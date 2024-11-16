@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"name": "Tekken 3",
+	"release_date": "November 06, 1998",
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	]
+}
