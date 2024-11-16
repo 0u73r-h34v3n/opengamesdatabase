@@ -3,6 +3,9 @@
 	"description": "Games Metadata Scheme",
 	"type": "object",
 	"properties": {
+		"$schema": {
+			"type": "string"
+		},
 		"acronyms": {
 			"type": "array",
 			"items": { "type": "string" }
