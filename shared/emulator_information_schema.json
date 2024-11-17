@@ -1,0 +1,24 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"description": "Emulator Information about game",
+	"type": "object",
+	"properties": {
+		"$schema": {
+			"type": "string"
+		},
+		"compatibility": {
+			"type": "string",
+			"enum": ["UNKNOWN", "UNSUPPORTED", "PLAYABLE", "PERFECT"]
+		},
+		"retro_achievements": {
+			"type": "object",
+			"properties": {
+				"id": {
+					"type": "integer"
+				}
+			},
+			"required": ["id"]
+		}
+	},
+	"additionalProperties": false
+}
