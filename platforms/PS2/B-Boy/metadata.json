@@ -3,11 +3,7 @@
 	"developers": ["FreeStyleGames"],
 	"genres": ["Music"],
 	"name": "B-Boy",
-	"publishers": [
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Evolved Games (US)"
-	],
+	"publishers": ["Sony", "Evolved Games (US)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

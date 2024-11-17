@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Konami|KCEJ"],
+	"developers": ["Konami"],
 	"genres": ["Action", "Adventure"],
 	"name": "Metal Gear Solid 2: Sons of Liberty",
-	"publishers": ["Konami (US, JP, EU, KO)", "Sony|SCEE (EU)"],
+	"publishers": ["Konami (US, JP, EU, KO)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

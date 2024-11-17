@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["i4 Corporation|i4 Corporation / David Fotland"],
+	"developers": ["i4 Corporation"],
 	"genres": ["Board"],
 	"name": "AI Igo 2003",
 	"publishers": ["GeneX"],

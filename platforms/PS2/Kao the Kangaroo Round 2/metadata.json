@@ -3,10 +3,7 @@
 	"developers": ["Tate Interactive"],
 	"genres": ["Action", "Platformer"],
 	"name": "Kao the Kangaroo Round 2",
-	"publishers": [
-		"JoWooD Entertainment|JoWooD Entertainment AG (EU)",
-		"Atari (US)"
-	],
+	"publishers": ["JoWooD Entertainment", "Atari (US)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,10 +3,7 @@
 	"developers": ["Activision"],
 	"genres": ["Sports"],
 	"name": "Rapala Pro Fishing",
-	"publishers": [
-		"Activision|Activision Value (US)",
-		"Zoo Digital Publishing (EU)"
-	],
+	"publishers": ["Activision", "Zoo Digital Publishing (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

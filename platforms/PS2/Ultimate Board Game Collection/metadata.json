@@ -3,11 +3,7 @@
 	"developers": ["Jack of All Games"],
 	"genres": ["Board"],
 	"name": "Ultimate Board Game Collection",
-	"publishers": [
-		"Valcon Games (US)",
-		"Empire Interactive (EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Valcon Games (US)", "Empire Interactive (EU)", "Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

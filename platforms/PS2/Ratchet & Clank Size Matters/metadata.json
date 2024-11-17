@@ -3,12 +3,7 @@
 	"developers": ["High Impact Games"],
 	"genres": ["Action", "Shooter", "Arcade", "Platformer"],
 	"name": "Ratchet & Clank: Size Matters",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (KO, JP)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
 	"genres": ["Demo"],
 	"name": "PlayStation Underground: Holiday 2001",
-	"publishers": ["Sony|Sony Computer Entertainment"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-U"],
 	"synopsis": "PlayStation Underground was an American video game magazine. The magazine was issued in form of CDs with no paper media at all. A total of 17 issues was released during the period from March, 1997 to 2001. After that the magazine merged with Official U.S. PlayStation Magazine. Each issue consists of two CD discs."
 }

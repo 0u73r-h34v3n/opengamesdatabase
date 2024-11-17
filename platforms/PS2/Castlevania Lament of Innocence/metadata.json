@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Konami|KCET"],
+	"developers": ["Konami"],
 	"genres": ["Action", "Adventure"],
 	"name": "Castlevania: Lament of Innocence",
-	"publishers": ["Konami (US, JP, EU)", "Sony|SCEA (US)"],
+	"publishers": ["Konami (US, JP, EU)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

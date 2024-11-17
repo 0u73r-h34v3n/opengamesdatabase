@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|Studio Liverpool"],
+	"developers": ["Sony"],
 	"genres": ["Racing"],
 	"name": "Wipeout Fusion",
-	"publishers": ["Sony|SCEE (EU)", "Bam Entertainment (US)"],
+	"publishers": ["Sony", "Bam Entertainment (US)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

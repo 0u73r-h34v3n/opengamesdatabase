@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
 	"genres": ["Demo"],
 	"name": "PlayStation Underground: Jampack Summer 2001",
-	"publishers": ["Sony|SCEA"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-U"],
 	"synopsis": "A collection of demos from the Official PlayStation Magazine. The disc contains demos of [[ATV Offroad Fury]], [[Cool Boarders 2001]], [[ICO]], [[Klonoa 2: Lunatea's Veil]], [[Soul Reaver 2]], [[MX 2002 Featuring Ricky Carmichael]], [[Red Faction]], [[Star Wars Starfighter]], [[Zone of the Enders]], videos of [[Drakan: The Ancients' Gates]], [[Gauntlet Dark Legacy]], [[Okage: Shadow King]] as well as Behind-the-Scenes movies on Cool Boarders 2001 and Star Wars: Starfighter."
 }

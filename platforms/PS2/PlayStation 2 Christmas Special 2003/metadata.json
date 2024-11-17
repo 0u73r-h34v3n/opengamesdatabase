@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
 	"genres": ["Demo"],
 	"name": "PlayStation 2 Christmas Special 2003",
-	"publishers": ["Sony|Sony Computer Entertainment"],
+	"publishers": ["Sony"],
 	"regions": ["PAL"],
 	"synopsis": "A demo DVD. Disc contents:"
 }

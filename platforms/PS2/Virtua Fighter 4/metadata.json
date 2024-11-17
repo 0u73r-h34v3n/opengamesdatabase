@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sega|Sega AM2"],
+	"developers": ["Sega"],
 	"genres": ["Action", "Fighting"],
 	"name": "Virtua Fighter 4",
-	"publishers": ["Sega (JP, US)", "Sony|SCEE (EU)"],
+	"publishers": ["Sega (JP, US)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

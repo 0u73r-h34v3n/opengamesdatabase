@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sega|Sonic Team"],
+	"developers": ["Sega"],
 	"genres": ["Compilation"],
 	"name": "Sonic Mega Collection Plus",
-	"publishers": ["Sega (US, JP, AU, EU)", "Sega|Sega Europe (EU)"],
+	"publishers": ["Sega (US, JP, AU, EU)", "Sega"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

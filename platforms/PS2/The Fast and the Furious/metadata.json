@@ -3,10 +3,7 @@
 	"developers": ["Eutechnyx"],
 	"genres": ["Racing"],
 	"name": "The Fast and the Furious",
-	"publishers": [
-		"Bandai|Namco Bandai Games (US, EU)",
-		"Electronic Arts|EA Games (AU)"
-	],
+	"publishers": ["Bandai", "Electronic Arts"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|Sony Bend"],
+	"developers": ["Sony"],
 	"genres": ["Action", "Shooter"],
 	"name": "Syphon Filter: The Omega Strain",
-	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (KO)"],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

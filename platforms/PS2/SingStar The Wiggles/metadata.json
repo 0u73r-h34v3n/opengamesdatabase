@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEE London Studio"],
+	"developers": ["Sony"],
 	"genres": ["Music"],
 	"name": "SingStar: The Wiggles",
-	"publishers": ["Sony|SCE Australia"],
+	"publishers": ["Sony"],
 	"regions": ["PAL"],
 	"synopsis": "The Wiggles have become a worldwide phenomenon over their 19 year career, selling over 23 million DVDs and 7 million CDs worldwide. Now, with their first ever full computer game release, thousands of young fans of The Wiggles in Australia and New Zealand will be able to experience the interactive and rewarding experience of singing along to their favourite tunes. Anthony Field, Jeff Fatt, Sam Moran, Murray Cook, together with children's favourites Dorothy the Dinosaur and Captain Feathersword will be featured in the computer game debut, that will lead children and families through their classic songs, such as 'Hot Potato' and 'Wake up Jeff!'"
 }

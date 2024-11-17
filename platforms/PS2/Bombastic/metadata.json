@@ -3,7 +3,7 @@
 	"developers": ["Shift"],
 	"genres": ["Puzzle"],
 	"name": "Bombastic",
-	"publishers": ["Sony|SCEI (JP)", "Capcom (US, EU)"],
+	"publishers": ["Sony", "Capcom (US, EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,15 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Square Enix|SquareSoft"],
+	"developers": ["Square Enix"],
 	"genres": ["RPG"],
 	"name": "Final Fantasy X",
-	"publishers": [
-		"Square Enix|SquareSoft (JP)",
-		"Square Enix|Square Electronic Arts (US)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEE (EU)",
-		"Square Enix (KO, US, JP)"
-	],
+	"publishers": ["Square Enix", "Sony", "Square Enix (KO, US, JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

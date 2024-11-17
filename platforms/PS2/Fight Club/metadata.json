@@ -3,10 +3,7 @@
 	"developers": ["Genuine Games"],
 	"genres": ["Action", "Fighting"],
 	"name": "Fight Club",
-	"publishers": [
-		"Vivendi Games|Vivendi Universal Games (US)",
-		"Sierra Entertainment (EU)"
-	],
+	"publishers": ["Vivendi Games", "Sierra Entertainment (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Blast! Entertainment|Blast! Entertainment Ltd"],
+	"developers": ["Blast! Entertainment"],
 	"genres": ["Adventure"],
 	"name": "Safari Adventures Africa",
-	"publishers": ["Blast! Entertainment|Blast! Entertainment Ltd"],
+	"publishers": ["Blast! Entertainment"],
 	"regions": ["PAL"],
 	"synopsis": "Safari Adventures is a collection of 3D adventure games dedicated to children from 6 to 9 years old. The game includes five 3D games mixing discovery & exploration on each continent, where the child discovers the various planet ecosystems and resolves the problems linked to the environmental degradation."
 }

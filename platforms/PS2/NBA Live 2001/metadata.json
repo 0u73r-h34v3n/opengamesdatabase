@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Electronic Arts|EA Sports"],
+	"developers": ["Electronic Arts"],
 	"genres": ["Sports"],
 	"name": "NBA Live 2001",
-	"publishers": [
-		"Electronic Arts|EA Sports (US)",
-		"Electronic Arts|Electronic Arts Victor (JP)",
-		"Electronic Arts (EU)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

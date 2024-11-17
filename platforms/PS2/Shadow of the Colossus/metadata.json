@@ -3,13 +3,7 @@
 	"developers": ["Team Ico"],
 	"genres": ["Action", "Adventure"],
 	"name": "Shadow of the Colossus",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEI (JP, KO)",
-		"Sony|SCE Korea (KO)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEE (EU)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

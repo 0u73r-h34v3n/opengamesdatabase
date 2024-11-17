@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Volition|Volition Inc."],
+	"developers": ["Volition"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "The Punisher",
 	"publishers": ["THQ"],

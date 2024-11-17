@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Rockstar Games|Rockstar North"],
+	"developers": ["Rockstar Games"],
 	"genres": ["Collection"],
 	"name": "Grand Theft Auto: The Trilogy",
-	"publishers": ["Rockstar Games (US, EU)", "Sony|SCEA (US)"],
+	"publishers": ["Rockstar Games (US, EU)", "Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"synopsis": "One of the most popular and critically acclaimed franchises in entertainment history. The original Grand Theft Auto trilogy now available in a limited edition PlayStation 2 System box set."
 }

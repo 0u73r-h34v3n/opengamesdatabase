@@ -3,11 +3,7 @@
 	"developers": ["Ganbarion"],
 	"genres": ["Action", "Fighting"],
 	"name": "One Piece: Grand Adventure",
-	"publishers": [
-		"Bandai|Namco Bandai Games (US, EU)",
-		"Bandai (KO)",
-		"Atari (AU)"
-	],
+	"publishers": ["Bandai", "Bandai (KO)", "Atari (AU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

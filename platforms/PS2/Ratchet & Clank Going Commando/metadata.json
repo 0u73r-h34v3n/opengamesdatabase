@@ -3,12 +3,7 @@
 	"developers": ["Insomniac Games"],
 	"genres": ["Action", "Platformer"],
 	"name": "Ratchet & Clank: Going Commando",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (JP, KO)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

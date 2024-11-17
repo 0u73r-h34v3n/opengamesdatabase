@@ -1,12 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Electronic Arts|EA Redwood Shores"],
+	"developers": ["Electronic Arts"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "James Bond 007: Everything or Nothing",
-	"publishers": [
-		"Electronic Arts (JP, EU)",
-		"Electronic Arts|EA Games (US, JP)"
-	],
+	"publishers": ["Electronic Arts (JP, EU)", "Electronic Arts"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

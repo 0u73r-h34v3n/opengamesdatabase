@@ -3,7 +3,7 @@
 	"developers": ["Namco"],
 	"genres": ["Racing"],
 	"name": "MotoGP",
-	"publishers": ["Namco (JP, US, EU)", "Sony|SCEE (EU)"],
+	"publishers": ["Namco (JP, US, EU)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

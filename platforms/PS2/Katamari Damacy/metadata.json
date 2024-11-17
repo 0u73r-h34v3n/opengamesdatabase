@@ -3,11 +3,7 @@
 	"developers": ["Now Production"],
 	"genres": ["Action", "Adventure"],
 	"name": "Katamari Damacy",
-	"publishers": [
-		"Namco (JP, US)",
-		"Bandai|Namco Bandai Games (JP)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Namco (JP, US)", "Bandai", "Sony"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

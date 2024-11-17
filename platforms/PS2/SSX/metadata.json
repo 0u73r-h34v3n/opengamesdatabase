@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Electronic Arts|EA Sports Big"],
+	"developers": ["Electronic Arts"],
 	"genres": ["Sports"],
 	"name": "SSX",
-	"publishers": [
-		"Electronic Arts|Electronic Arts Victor (JP)",
-		"Electronic Arts|EA Sports Big (US)",
-		"Electronic Arts (EU)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

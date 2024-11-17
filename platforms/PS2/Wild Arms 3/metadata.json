@@ -3,7 +3,7 @@
 	"developers": ["Media Vision"],
 	"genres": ["RPG"],
 	"name": "Wild Arms 3",
-	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)", "Ubisoft (EU)"],
+	"publishers": ["Sony", "Ubisoft (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

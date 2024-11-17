@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Konami|KCEO Inc"],
+	"developers": ["Konami"],
 	"genres": ["Sports"],
 	"name": "ESPN National Hockey Night",
 	"publishers": ["Konami"],

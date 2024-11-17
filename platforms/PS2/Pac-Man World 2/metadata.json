@@ -3,7 +3,7 @@
 	"developers": ["Namco"],
 	"genres": ["Action", "Platformer"],
 	"name": "Pac-Man World 2",
-	"publishers": ["Namco (US, JP)", "Sony|SCEE (EU)"],
+	"publishers": ["Namco (US, JP)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

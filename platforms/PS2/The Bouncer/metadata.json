@@ -3,11 +3,7 @@
 	"developers": ["DreamFactory"],
 	"genres": ["Action", "Fighting"],
 	"name": "The Bouncer",
-	"publishers": [
-		"Square Enix|SquareSoft (JP)",
-		"Square Enix|Square Electronic Arts (US)",
-		"Sony|SCEE (EU)"
-	],
+	"publishers": ["Square Enix", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

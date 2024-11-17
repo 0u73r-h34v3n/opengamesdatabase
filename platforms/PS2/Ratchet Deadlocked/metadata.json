@@ -3,13 +3,7 @@
 	"developers": ["Insomniac Games"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Ratchet: Deadlocked",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (AS, JP, KO)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCE Korea (KO)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

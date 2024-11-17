@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEE London Studio"],
+	"developers": ["Sony"],
 	"genres": ["Music"],
 	"name": "SingStar Latino",
-	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"synopsis": "Grab a mic and put your spin on some of the most popular Latin hits of all time with SingStar® Latino! With over 20 authentic music videos, you and your friends can perform like musical pop stars."
 }

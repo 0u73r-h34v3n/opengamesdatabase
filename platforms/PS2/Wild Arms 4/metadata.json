@@ -3,11 +3,7 @@
 	"developers": ["Media Vision"],
 	"genres": ["RPG"],
 	"name": "Wild Arms 4",
-	"publishers": [
-		"Sony|SCEI (JP)",
-		"Xseed Games (US)",
-		"505 Game Street (EU, AU)"
-	],
+	"publishers": ["Sony", "Xseed Games (US)", "505 Game Street (EU, AU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Square Enix|SquareSoft"],
+	"developers": ["Square Enix"],
 	"genres": ["Sports"],
 	"name": "All Star Pro-Wrestling",
-	"publishers": ["Square Enix|SquareSoft"],
+	"publishers": ["Square Enix"],
 	"regions": ["NTSC-J"],
 	"synopsis": "All Star Pro-Wrestling is based on Japanese wrestling rather than American. The game can be played in several modes selected in the \"Match Make\" menu; these include exhibition matches, championships, tournaments, or leagues separated by weight. Depending on the mode chosen, different wrestling rings can be chosen to battle, as well as the referee and the time limit. 26 real-life wrestlers are initially available, notably Jyushin Thunder Liger, The Great Muta, Don Frye, Koji Kanemoto, Antonio Inoki, and Masahiro Chono. <br>"
 }

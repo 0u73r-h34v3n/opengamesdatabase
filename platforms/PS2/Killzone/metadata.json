@@ -3,12 +3,7 @@
 	"developers": ["Guerrilla"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Killzone",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (KO)",
-		"Sega (JP)"
-	],
+	"publishers": ["Sony", "Sega (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

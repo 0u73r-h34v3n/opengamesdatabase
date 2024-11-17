@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Gameshastra|Gameshastra Inc."],
+	"developers": ["Gameshastra"],
 	"genres": ["Racing"],
 	"name": "Cart Kings",
-	"publishers": ["Sony|SCEE"],
+	"publishers": ["Sony"],
 	"regions": ["PAL"],
 	"synopsis": "This licensed racing game features characters from the popular Indian comic magazines Tinkle and Amar Chitra Katha. Characters race through streets and around famous monuments in bullock carts, with gameplay similar to classic games like Super Mario Kart."
 }

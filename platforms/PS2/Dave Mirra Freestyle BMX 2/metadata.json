@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Z-Axis|Z-Axis", "Ltd."],
+	"developers": ["Z-Axis", "Ltd."],
 	"genres": ["Sports"],
 	"name": "Dave Mirra Freestyle BMX 2",
 	"publishers": ["Acclaim"],

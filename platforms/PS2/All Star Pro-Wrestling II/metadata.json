@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Square Enix|SquareSoft"],
+	"developers": ["Square Enix"],
 	"genres": ["Sports"],
 	"name": "All Star Pro-Wrestling II",
-	"publishers": ["Square Enix|SquareSoft"],
+	"publishers": ["Square Enix"],
 	"regions": ["NTSC-J"],
 	"reviews": [
 		{

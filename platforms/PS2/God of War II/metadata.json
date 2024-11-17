@@ -1,16 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCE Santa Monica"],
+	"developers": ["Sony"],
 	"genres": ["Action", "Adventure"],
 	"name": "God of War II",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEI (KO)",
-		"Sony|SCE Korea (KO)",
-		"Capcom (JP)"
-	],
+	"publishers": ["Sony", "Capcom (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

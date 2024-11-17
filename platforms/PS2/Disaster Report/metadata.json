@@ -3,11 +3,7 @@
 	"developers": ["Irem"],
 	"genres": ["Action", "Adventure"],
 	"name": "Disaster Report",
-	"publishers": [
-		"Irem (JP)",
-		"Agetec (US, EU, AU)",
-		"Granzella|Granzella Inc. (JP)"
-	],
+	"publishers": ["Irem (JP)", "Agetec (US, EU, AU)", "Granzella"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

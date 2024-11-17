@@ -3,11 +3,7 @@
 	"developers": ["T&E Soft"],
 	"genres": ["Sports"],
 	"name": "Disney Golf",
-	"publishers": [
-		"Capcom (JP)",
-		"Electronic Arts|EA Games (US)",
-		"Electronic Arts (EU)"
-	],
+	"publishers": ["Capcom (JP)", "Electronic Arts", "Electronic Arts (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

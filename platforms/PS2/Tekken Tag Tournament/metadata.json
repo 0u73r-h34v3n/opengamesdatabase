@@ -3,7 +3,7 @@
 	"developers": ["Namco"],
 	"genres": ["Action", "Fighting"],
 	"name": "Tekken Tag Tournament",
-	"publishers": ["Namco (JP, US, KO)", "Sony|SCEE (EU)"],
+	"publishers": ["Namco (JP, US, KO)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,12 +3,7 @@
 	"developers": ["Project Aces"],
 	"genres": ["Simulation"],
 	"name": "Ace Combat Zero: The Belkan War",
-	"publishers": [
-		"Namco (JP, US)",
-		"Sony|SCEI (KO, AS)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["Namco (JP, US)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

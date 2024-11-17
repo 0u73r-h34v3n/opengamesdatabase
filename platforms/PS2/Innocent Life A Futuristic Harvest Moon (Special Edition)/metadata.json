@@ -3,11 +3,7 @@
 	"developers": ["ArtePiazza"],
 	"genres": ["Simulation", "RPG"],
 	"name": "Innocent Life: A Futuristic Harvest Moon (Special Edition)",
-	"publishers": [
-		"Marvelous Entertainment (JP)",
-		"Natsume Inc. (US)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Marvelous Entertainment (JP)", "Natsume Inc. (US)", "Sony"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

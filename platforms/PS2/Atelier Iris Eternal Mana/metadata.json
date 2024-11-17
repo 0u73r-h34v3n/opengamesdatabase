@@ -3,12 +3,7 @@
 	"developers": ["Gust"],
 	"genres": ["RPG"],
 	"name": "Atelier Iris: Eternal Mana",
-	"publishers": [
-		"Gust (JP)",
-		"Nippon Ichi Software|NIS America (US)",
-		"Koei (EU)",
-		"THQ (AU)"
-	],
+	"publishers": ["Gust (JP)", "Nippon Ichi Software", "Koei (EU)", "THQ (AU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,10 +3,7 @@
 	"developers": ["Artificial Mind and Movement"],
 	"genres": ["Action", "Adventure"],
 	"name": "Mercenaries 2: World in Flames",
-	"publishers": [
-		"Electronic Arts (US, JP)",
-		"Electronic Arts|EA Games (EU, AU)"
-	],
+	"publishers": ["Electronic Arts (US, JP)", "Electronic Arts"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

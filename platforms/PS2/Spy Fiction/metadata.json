@@ -3,11 +3,7 @@
 	"developers": ["Access Games"],
 	"genres": ["Action", "Adventure"],
 	"name": "Spy Fiction",
-	"publishers": [
-		"Access Games (JP)",
-		"Sammy Studios (US)",
-		"Sega|Sega Europe (EU)"
-	],
+	"publishers": ["Access Games (JP)", "Sammy Studios (US)", "Sega"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

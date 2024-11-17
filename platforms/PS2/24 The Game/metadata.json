@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCE Studio Cambridge"],
+	"developers": ["Sony"],
 	"genres": ["Action", "Adventure"],
 	"name": "24: The Game",
-	"publishers": [
-		"2K|2K Games (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["2K", "Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

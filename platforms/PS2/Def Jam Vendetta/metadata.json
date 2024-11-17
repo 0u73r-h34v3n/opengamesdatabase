@@ -1,12 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Aki|Aki Corp."],
+	"developers": ["Aki"],
 	"genres": ["Sports"],
 	"name": "Def Jam Vendetta",
-	"publishers": [
-		"Electronic Arts|EA Sports Big (US)",
-		"Electronic Arts (EU, JP)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (EU, JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

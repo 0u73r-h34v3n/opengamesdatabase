@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCE Japan Studio"],
+	"developers": ["Sony"],
 	"genres": ["Family"],
 	"name": "Doko Demo Issho: Watashi Naehon",
-	"publishers": ["Sony|SCEI"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J"],
 	"synopsis": "Doko Demo Issho is a well-known japanese game series for little kids. This games title translates to My Picture Book. While reading the story, the player adds illustrations and words to create a picture book with the characters of the series."
 }

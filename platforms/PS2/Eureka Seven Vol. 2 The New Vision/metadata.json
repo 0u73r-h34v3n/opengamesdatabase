@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Bandai|Namco Bandai Games"],
+	"developers": ["Bandai"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Eureka Seven Vol. 2: The New Vision",
-	"publishers": ["Bandai (JP)", "Bandai|Namco Bandai Games (US)"],
+	"publishers": ["Bandai (JP)", "Bandai"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,10 +3,7 @@
 	"developers": ["Electronic Arts"],
 	"genres": ["Action", "Platformer"],
 	"name": "The Simpsons Game",
-	"publishers": [
-		"Electronic Arts|EA Games (US, EU, AU)",
-		"Electronic Arts (EU)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

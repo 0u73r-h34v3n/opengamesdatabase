@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEI"],
+	"developers": ["Sony"],
 	"genres": ["RPG"],
 	"name": "Sagashi ni Ikouyo",
-	"publishers": ["Sony|SCEI"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J"],
 	"synopsis": "You are a young adventurer, looking for challenge. Travel through deep dungeons and battle those who would seek to stop you. A large cast of characters aid and propel players in this treasure hunting, monster battling adventure game. Magic, weaponry and team cooperation will see them through their quests."
 }

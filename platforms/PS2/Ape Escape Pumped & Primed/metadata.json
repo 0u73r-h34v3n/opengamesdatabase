@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEI"],
+	"developers": ["Sony"],
 	"genres": ["Action"],
 	"name": "Ape Escape: Pumped & Primed",
-	"publishers": ["Sony|SCEI (JP)", "Ubisoft (US)"],
+	"publishers": ["Sony", "Ubisoft (US)"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

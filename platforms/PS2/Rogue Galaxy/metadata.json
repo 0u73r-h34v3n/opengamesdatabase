@@ -3,12 +3,7 @@
 	"developers": ["Level-5"],
 	"genres": ["Action", "RPG"],
 	"name": "Rogue Galaxy",
-	"publishers": [
-		"Sony|SCEI (JP, KO)",
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

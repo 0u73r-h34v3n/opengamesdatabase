@@ -3,7 +3,7 @@
 	"developers": ["Zoom"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Mister Mosquito",
-	"publishers": ["Sony|SCEI (JP)", "Eidos Interactive (US, EU)"],
+	"publishers": ["Sony", "Eidos Interactive (US, EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

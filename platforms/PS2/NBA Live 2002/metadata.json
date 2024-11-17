@@ -3,10 +3,7 @@
 	"developers": ["Electronic Arts"],
 	"genres": ["Sports"],
 	"name": "NBA Live 2002",
-	"publishers": [
-		"Electronic Arts (US, EU)",
-		"Electronic Arts|Electronic Arts Victor (JP)"
-	],
+	"publishers": ["Electronic Arts (US, EU)", "Electronic Arts"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

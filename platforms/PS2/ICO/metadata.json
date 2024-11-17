@@ -3,12 +3,7 @@
 	"developers": ["Team Ico"],
 	"genres": ["Action", "Adventure"],
 	"name": "ICO",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEI (JP)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,10 +3,7 @@
 	"developers": ["Eurocom Entertainment Software"],
 	"genres": ["Action", "Platformer"],
 	"name": "Ice Age 2: The Meltdown",
-	"publishers": [
-		"Vivendi Games (US, JP)",
-		"Vivendi Games|Vivendi Universal Games (EU)"
-	],
+	"publishers": ["Vivendi Games (US, JP)", "Vivendi Games"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

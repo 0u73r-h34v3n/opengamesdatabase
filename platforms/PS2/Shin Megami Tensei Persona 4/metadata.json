@@ -3,11 +3,7 @@
 	"developers": ["Atlus"],
 	"genres": ["RPG"],
 	"name": "Shin Megami Tensei: Persona 4",
-	"publishers": [
-		"Atlus (JP, KO, US)",
-		"Square Enix (AU, EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Atlus (JP, KO, US)", "Square Enix (AU, EU)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

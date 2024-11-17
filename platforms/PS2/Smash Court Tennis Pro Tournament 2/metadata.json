@@ -3,7 +3,7 @@
 	"developers": ["Namco"],
 	"genres": ["Sports"],
 	"name": "Smash Court Tennis Pro Tournament 2",
-	"publishers": ["Sony|SCEE (EU)", "Namco (US, JP)"],
+	"publishers": ["Sony", "Namco (US, JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

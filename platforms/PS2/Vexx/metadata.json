@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Acclaim|Acclaim Studios Austin"],
+	"developers": ["Acclaim"],
 	"genres": ["Action", "Platformer"],
 	"name": "Vexx",
 	"publishers": ["Acclaim"],

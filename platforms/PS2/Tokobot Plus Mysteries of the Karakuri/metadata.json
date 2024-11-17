@@ -3,11 +3,7 @@
 	"developers": ["Tecmo"],
 	"genres": ["Action", "Platformer"],
 	"name": "Tokobot Plus: Mysteries of the Karakuri",
-	"publishers": [
-		"Tecmo (US, JP)",
-		"Take-Two Interactive (EU, AU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Tecmo (US, JP)", "Take-Two Interactive (EU, AU)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,11 +3,7 @@
 	"developers": ["CyberConnect2"],
 	"genres": ["Action", "Fighting"],
 	"name": "Naruto: Ultimate Ninja",
-	"publishers": [
-		"Bandai (JP, US, KO)",
-		"Bandai|Namco Bandai Games (US)",
-		"Atari (AU, EU)"
-	],
+	"publishers": ["Bandai (JP, US, KO)", "Bandai", "Atari (AU, EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

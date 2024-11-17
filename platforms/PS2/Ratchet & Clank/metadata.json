@@ -3,7 +3,7 @@
 	"developers": ["Insomniac Games"],
 	"genres": ["Action", "Platformer"],
 	"name": "Ratchet & Clank",
-	"publishers": ["Sony|SCEA (US)", "Sony|SCEE (EU)", "Sony|SCEI (AS, JP)"],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

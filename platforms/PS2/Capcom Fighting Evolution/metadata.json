@@ -3,7 +3,7 @@
 	"developers": ["Capcom"],
 	"genres": ["Action", "Fighting"],
 	"name": "Capcom Fighting Evolution",
-	"publishers": ["Capcom (US, JP, EU, KO)", "Sony|SCEA (US)"],
+	"publishers": ["Capcom (US, JP, EU, KO)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

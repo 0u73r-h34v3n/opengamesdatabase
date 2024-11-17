@@ -6,8 +6,8 @@
 	"publishers": [
 		"LucasArts (US, JP)",
 		"Activision (EU)",
-		"Electronic Arts|Electronic Arts Victor (JP)",
-		"Sony|SCEA (US)"
+		"Electronic Arts",
+		"Sony"
 	],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [

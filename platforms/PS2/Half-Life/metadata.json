@@ -3,10 +3,7 @@
 	"developers": ["Gearbox Software"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Half-Life",
-	"publishers": [
-		"Sierra Entertainment (US, EU)",
-		"Vivendi Games|Vivendi Universal Games (EU)"
-	],
+	"publishers": ["Sierra Entertainment (US, EU)", "Vivendi Games"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

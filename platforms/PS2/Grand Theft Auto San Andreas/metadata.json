@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Rockstar Games|Rockstar North"],
+	"developers": ["Rockstar Games"],
 	"genres": ["Action", "Adventure"],
 	"name": "Grand Theft Auto: San Andreas",
-	"publishers": [
-		"Rockstar Games (US, EU, AU, JP)",
-		"Capcom (JP)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Rockstar Games (US, EU, AU, JP)", "Capcom (JP)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

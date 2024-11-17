@@ -3,12 +3,7 @@
 	"developers": ["S-Neo"],
 	"genres": ["Sports"],
 	"name": "Fire Pro Wrestling Returns",
-	"publishers": [
-		"Spike (JP)",
-		"Agetec (US)",
-		"505 Games (EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Spike (JP)", "Agetec (US)", "505 Games (EU)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

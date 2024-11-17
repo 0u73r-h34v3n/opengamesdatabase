@@ -3,13 +3,7 @@
 	"developers": ["Clap Hanz"],
 	"genres": ["Sports"],
 	"name": "Hot Shots Tennis",
-	"publishers": [
-		"Sony|SCEI (JP)",
-		"Sony|SCE Korea (KO)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

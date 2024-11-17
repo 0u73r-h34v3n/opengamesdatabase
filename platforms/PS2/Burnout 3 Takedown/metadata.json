@@ -3,10 +3,7 @@
 	"developers": ["Criterion Games"],
 	"genres": ["Racing"],
 	"name": "Burnout 3: Takedown",
-	"publishers": [
-		"Electronic Arts|EA Games (US)",
-		"Electronic Arts (EU, AU, JP, US)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (EU, AU, JP, US)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

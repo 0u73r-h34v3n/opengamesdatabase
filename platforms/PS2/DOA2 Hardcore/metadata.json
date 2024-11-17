@@ -3,12 +3,7 @@
 	"developers": ["Team Ninja"],
 	"genres": ["Action", "Fighting"],
 	"name": "DOA2: Hardcore",
-	"publishers": [
-		"Tecmo (US, JP)",
-		"Sony|SCEE (EU)",
-		"Koei|Koei Tecmo Games (JP)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Tecmo (US, JP)", "Sony", "Koei"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

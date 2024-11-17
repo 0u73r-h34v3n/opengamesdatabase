@@ -1,14 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEE London Studio"],
+	"developers": ["Sony"],
 	"genres": ["Action"],
 	"name": "EyeToy: Play 3",
-	"publishers": [
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEA (US)",
-		"Sony|SCEI (KO)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J"],
 	"reviews": [
 		{

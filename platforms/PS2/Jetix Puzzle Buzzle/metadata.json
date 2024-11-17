@@ -3,10 +3,7 @@
 	"developers": ["Broadsword Interactive"],
 	"genres": ["Puzzle"],
 	"name": "Jetix Puzzle Buzzle",
-	"publishers": [
-		"Mastertronic (AU)",
-		"Blast! Entertainment|Blast! Entertainment Ltd (EU)"
-	],
+	"publishers": ["Mastertronic (AU)", "Blast! Entertainment"],
 	"regions": ["PAL"],
 	"synopsis": "Build a high tower from falling pieces of all shapes and sizes before the rising water below destroys your progress in this fun and frantic puzzle game! Jump up to catch the shape you need, rotate it and place it in your tower without leaving gaps. To win, you must reach the top before your opponent does!"
 }

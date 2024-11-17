@@ -3,10 +3,7 @@
 	"developers": ["Eko Software"],
 	"genres": ["Action"],
 	"name": "Garfield: Lasagna World Tour",
-	"publishers": [
-		"Blast! Entertainment|Blast! Entertainment Ltd (EU)",
-		"Conspiracy Entertainment (US)"
-	],
+	"publishers": ["Blast! Entertainment", "Conspiracy Entertainment (US)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

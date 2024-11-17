@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|Sony Studio Liverpool"],
+	"developers": ["Sony"],
 	"genres": ["Racing"],
 	"name": "Formula One 2003",
-	"publishers": ["Sony|SCEE"],
+	"publishers": ["Sony"],
 	"regions": ["PAL"],
 	"reviews": [
 		{

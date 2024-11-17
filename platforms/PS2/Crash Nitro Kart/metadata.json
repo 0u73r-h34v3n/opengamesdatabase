@@ -3,10 +3,7 @@
 	"developers": ["Vicarious Visions"],
 	"genres": ["Racing"],
 	"name": "Crash Nitro Kart",
-	"publishers": [
-		"Vivendi Games|Vivendi Universal Games (US, EU, AU)",
-		"Konami (JP)"
-	],
+	"publishers": ["Vivendi Games", "Konami (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

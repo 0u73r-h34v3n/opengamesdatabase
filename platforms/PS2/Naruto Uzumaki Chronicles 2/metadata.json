@@ -3,11 +3,7 @@
 	"developers": ["Racjin"],
 	"genres": ["Action"],
 	"name": "Naruto: Uzumaki Chronicles 2",
-	"publishers": [
-		"Bandai|Namco Bandai Games (JP, US)",
-		"Bandai (KO)",
-		"Atari (EU, AU)"
-	],
+	"publishers": ["Bandai", "Bandai (KO)", "Atari (EU, AU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

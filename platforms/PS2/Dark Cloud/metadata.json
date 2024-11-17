@@ -3,7 +3,7 @@
 	"developers": ["Level-5"],
 	"genres": ["Action", "RPG"],
 	"name": "Dark Cloud",
-	"publishers": ["Sony|SCEI (JP)", "Sony|SCEA (US)", "Sony|SCEE (EU)"],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

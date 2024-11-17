@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEI"],
+	"developers": ["Sony"],
 	"genres": ["Action"],
 	"name": "Finny the Fish & the Seven Waters",
-	"publishers": ["Sony|SCEI (JP)", "Natsume Inc. (US)"],
+	"publishers": ["Sony", "Natsume Inc. (US)"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,10 +3,7 @@
 	"developers": ["Smart Bomb Interactive"],
 	"genres": ["Racing"],
 	"name": "Pac-Man World Rally",
-	"publishers": [
-		"Bandai|Namco Bandai Games (US, EU)",
-		"Electronic Arts|EA Games (AU)"
-	],
+	"publishers": ["Bandai", "Electronic Arts"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

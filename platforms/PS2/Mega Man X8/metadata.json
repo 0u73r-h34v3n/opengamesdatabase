@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Valuewave|Valuewave Co.", "Ltd."],
+	"developers": ["Valuewave", "Ltd."],
 	"genres": ["Action", "Platformer"],
 	"name": "Mega Man X8",
 	"publishers": ["Capcom"],

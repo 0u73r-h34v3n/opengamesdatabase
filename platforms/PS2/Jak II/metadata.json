@@ -3,12 +3,7 @@
 	"developers": ["Naughty Dog"],
 	"genres": ["Action", "Platformer"],
 	"name": "Jak II",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (KO, JP)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

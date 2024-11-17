@@ -3,10 +3,7 @@
 	"developers": ["Avalanche Software"],
 	"genres": ["Action", "Adventure"],
 	"name": "Disney's Meet the Robinsons",
-	"publishers": [
-		"Disney Interactive Studios (US, AU, EU, JP)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Disney Interactive Studios (US, AU, EU, JP)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

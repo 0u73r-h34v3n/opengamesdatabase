@@ -3,11 +3,7 @@
 	"developers": ["Monolith Soft"],
 	"genres": ["RPG"],
 	"name": "Xenosaga Episode II: Jenseits von Gut und Bose",
-	"publishers": [
-		"Namco (AS, JP, US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["Namco (AS, JP, US)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

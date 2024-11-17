@@ -3,12 +3,7 @@
 	"developers": ["Zipper Interactive"],
 	"genres": ["Action", "Shooter"],
 	"name": "SOCOM 3: U.S. Navy SEALs",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEI (KO)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

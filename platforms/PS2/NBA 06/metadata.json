@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEA Sports Studio"],
+	"developers": ["Sony"],
 	"genres": ["Sports"],
 	"name": "NBA 06",
-	"publishers": ["Sony|SCEA Sports Studio"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-U"],
 	"reviews": [
 		{

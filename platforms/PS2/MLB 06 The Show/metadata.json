@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEA San Diego Studios"],
+	"developers": ["Sony"],
 	"genres": ["Sports"],
 	"name": "MLB 06: The Show",
-	"publishers": ["Sony|SCEA (US)", "Sony|SCE Korea (KO)"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"synopsis": "MLB' 06: The Show reports to camp with the new Game Time Decisions feature, bringing more depth to Franchise and Season Modes by providing scenarios in which users will need to take full control of their team and decide which players to place in the line up at critical times. Additionally, the new 40-Man Roster feature offers the ability to take full control of a team's roster and manage all 40 players for each and every game. For a complete package of online options, MLB'06: The Show now offers head-to-head gameplay for both King of the Diamond and Rivalry Mode to go along with 32-team tournaments, live sports tickers, downloadable rosters, instant messaging and more. Additionally, the implementation of a new online news service provides users with MLB updates on news and events from around the league or their favorite team. Returning gameplay favorites include, Release Point Pitching, the Pitching Confidence Meter, Guess Pitch, EyeToy functionality, and Career Mode with the all-new Career Spotlight feature that underscores accomplishments and showcases them in the limelight."
 }

@@ -3,12 +3,7 @@
 	"developers": ["Frontier Developments"],
 	"genres": ["Adventure"],
 	"name": "Dog's Life",
-	"publishers": [
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Hip Games (US)",
-		"Success (JP)"
-	],
+	"publishers": ["Sony", "Hip Games (US)", "Success (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

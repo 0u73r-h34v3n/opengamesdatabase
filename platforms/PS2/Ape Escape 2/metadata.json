@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCE Japan Studio"],
+	"developers": ["Sony"],
 	"genres": ["Action", "Platformer"],
 	"name": "Ape Escape 2",
-	"publishers": ["Sony|SCEI (JP)", "Sony|SCEE (EU)", "Ubisoft (US)"],
+	"publishers": ["Sony", "Ubisoft (US)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

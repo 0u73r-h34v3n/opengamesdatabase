@@ -3,10 +3,7 @@
 	"developers": ["Warthog"],
 	"genres": ["Action", "Adventure"],
 	"name": "Harry Potter and the Sorcerer's Stone",
-	"publishers": [
-		"Electronic Arts|EA Games (US, EU, JP)",
-		"Electronic Arts (JP)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

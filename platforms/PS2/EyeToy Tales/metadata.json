@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEK", "YBM Sisa.com"],
+	"developers": ["Sony", "YBM Sisa.com"],
 	"genres": ["Action", "Family"],
 	"name": "EyeToy: Tales",
-	"publishers": ["Sony|SCEI (KO)"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J"],
 	"synopsis": "EyeToy Tales uses children's stories from around the world to engage kids in interactive learning activities. These include spelling, math, memory and other such edutainment mini-games. "
 }

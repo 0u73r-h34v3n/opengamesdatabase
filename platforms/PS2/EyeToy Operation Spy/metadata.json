@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEE London Studio"],
+	"developers": ["Sony"],
 	"genres": ["Action", "Adventure"],
 	"name": "EyeToy: Operation Spy",
-	"publishers": ["Sony|SCEE (EU)", "Sony|SCEA (US)"],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

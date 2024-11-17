@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sega|Sega AM2"],
+	"developers": ["Sega"],
 	"genres": ["Simulation"],
 	"name": "Aero Elite: Combat Academy",
 	"publishers": ["Sega"],

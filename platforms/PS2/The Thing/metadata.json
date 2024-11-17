@@ -3,11 +3,7 @@
 	"developers": ["Computer Artworks"],
 	"genres": ["Action", "Adventure", "Horror"],
 	"name": "The Thing",
-	"publishers": [
-		"Black Label Games (US, EU)",
-		"Konami (JP)",
-		"Vivendi Games|Vivendi Universal Games (US)"
-	],
+	"publishers": ["Black Label Games (US, EU)", "Konami (JP)", "Vivendi Games"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

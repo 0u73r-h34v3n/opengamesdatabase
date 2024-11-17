@@ -3,10 +3,7 @@
 	"developers": ["High Voltage Software"],
 	"genres": ["Action", "Fighting"],
 	"name": "Hunter: The Reckoning Wayward",
-	"publishers": [
-		"Vivendi Games|Vivendi Universal Games (US)",
-		"Sierra Entertainment (EU)"
-	],
+	"publishers": ["Vivendi Games", "Sierra Entertainment (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,11 +3,7 @@
 	"developers": ["LucasArts"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Star Wars Bounty Hunter",
-	"publishers": [
-		"LucasArts (US, EU, JP)",
-		"Electronic Arts (JP)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["LucasArts (US, EU, JP)", "Electronic Arts (JP)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

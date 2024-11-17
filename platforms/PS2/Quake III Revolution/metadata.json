@@ -3,10 +3,7 @@
 	"developers": ["Bullfrog Productions"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Quake III Revolution",
-	"publishers": [
-		"Electronic Arts (US, EU)",
-		"Electronic Arts|Electronic Arts Victor (JP)"
-	],
+	"publishers": ["Electronic Arts (US, EU)", "Electronic Arts"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,14 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Incognito|Incognito Inc."],
+	"developers": ["Incognito"],
 	"genres": ["Action", "Fighting"],
 	"name": "War of the Monsters",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Capcom (JP)",
-		"Sony|SCEI (KO)"
-	],
+	"publishers": ["Sony", "Capcom (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

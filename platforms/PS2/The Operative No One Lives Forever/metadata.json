@@ -3,10 +3,7 @@
 	"developers": ["Monolith Productions"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "The Operative: No One Lives Forever",
-	"publishers": [
-		"Sierra Entertainment (US)",
-		"Vivendi Games|Vivendi Universal Games (EU)"
-	],
+	"publishers": ["Sierra Entertainment (US)", "Vivendi Games"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

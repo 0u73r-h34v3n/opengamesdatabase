@@ -3,12 +3,7 @@
 	"developers": ["Naughty Dog"],
 	"genres": ["Action", "Platformer"],
 	"name": "Jak and Daxter: The Precursor Legacy",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEI (JP, KO)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

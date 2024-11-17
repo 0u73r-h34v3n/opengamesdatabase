@@ -3,11 +3,7 @@
 	"developers": ["Namco"],
 	"genres": ["RPG"],
 	"name": "Tales of Legendia",
-	"publishers": [
-		"Namco (JP, US, AS)",
-		"Sony|SCEI (KO)",
-		"Bandai|Namco Bandai Games (JP)"
-	],
+	"publishers": ["Namco (JP, US, AS)", "Sony", "Bandai"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

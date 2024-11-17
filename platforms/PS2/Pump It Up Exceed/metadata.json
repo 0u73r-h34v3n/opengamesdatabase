@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Andamiro|Andamiro U.S.A. Corp."],
+	"developers": ["Andamiro"],
 	"genres": ["Music"],
 	"name": "Pump It Up: Exceed",
-	"publishers": ["Andamiro|Andamiro U.S.A. Corp. (KO)", "Mastiff (US)"],
+	"publishers": ["Andamiro", "Mastiff (US)"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

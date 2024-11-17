@@ -3,11 +3,7 @@
 	"developers": ["Stormfront Studios"],
 	"genres": ["Sports"],
 	"name": "Tiger Woods PGA Tour 2001",
-	"publishers": [
-		"Electronic Arts|EA Sports (US)",
-		"Electronic Arts (EU)",
-		"Electronic Arts|Electronic Arts Victor (JP)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

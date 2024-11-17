@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Milestone|Milestone S.r.l"],
+	"developers": ["Milestone"],
 	"genres": ["Racing"],
 	"name": "Hannspree Ten Kate Honda SBK",
-	"publishers": [
-		"Black Bean Games (EU, AU)",
-		"Valcon Games (US)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Black Bean Games (EU, AU)", "Valcon Games (US)", "Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

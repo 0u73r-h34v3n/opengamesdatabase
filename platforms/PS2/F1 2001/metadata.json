@@ -1,12 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Electronic Arts|EA Sports"],
+	"developers": ["Electronic Arts"],
 	"genres": ["Racing"],
 	"name": "F1 2001",
-	"publishers": [
-		"Electronic Arts|Electronic Arts Victor (JP)",
-		"Electronic Arts (US, EU)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (US, EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

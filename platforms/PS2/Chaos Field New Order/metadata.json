@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["MileStone|MileStone Inc."],
+	"developers": ["MileStone"],
 	"genres": ["Action", "Shoot'em up"],
 	"name": "Chaos Field: New Order",
-	"publishers": ["MileStone|MileStone Inc."],
+	"publishers": ["MileStone"],
 	"regions": ["NTSC-J"],
 	"reviews": [
 		{

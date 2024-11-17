@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Square Enix|SquareSoft"],
+	"developers": ["Square Enix"],
 	"genres": ["RPG"],
 	"name": "Final Fantasy X International",
-	"publishers": ["Square Enix|SquareSoft (JP)", "Square Enix (KO, JP)"],
+	"publishers": ["Square Enix", "Square Enix (KO, JP)"],
 	"regions": ["NTSC-J"],
 	"reviews": [
 		{

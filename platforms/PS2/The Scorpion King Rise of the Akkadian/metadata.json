@@ -1,12 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Vivendi Games|Vivendi Universal Games"],
+	"developers": ["Vivendi Games"],
 	"genres": ["Action", "Fighting"],
 	"name": "The Scorpion King: Rise of the Akkadian",
-	"publishers": [
-		"Vivendi Games|Vivendi Universal Games (US)",
-		"Universal Interactive (US, EU)"
-	],
+	"publishers": ["Vivendi Games", "Universal Interactive (US, EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

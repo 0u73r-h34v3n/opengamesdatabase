@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Bandai|Namco Bandai Games"],
+	"developers": ["Bandai"],
 	"genres": ["Collection"],
 	"name": "Pac-Man Power Pack",
-	"publishers": ["Bandai|Namco Bandai Games"],
+	"publishers": ["Bandai"],
 	"regions": ["NTSC-U"],
 	"synopsis": "{{Collection| [[Pac-Man World 2]], [[Pac-Man World 3]] and [[Pac-Man World Rally]].}}"
 }

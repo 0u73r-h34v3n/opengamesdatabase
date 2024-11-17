@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["2K|2K Sports"],
+	"developers": ["2K"],
 	"genres": ["Sports"],
 	"name": "NHL 2K6",
-	"publishers": ["2K|2K Sports"],
+	"publishers": ["2K"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

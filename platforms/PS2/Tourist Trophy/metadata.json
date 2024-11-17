@@ -3,12 +3,7 @@
 	"developers": ["Polyphony Digital"],
 	"genres": ["Racing"],
 	"name": "Tourist Trophy",
-	"publishers": [
-		"Sony|SCEI (JP,TW)",
-		"Sony|SCEA (US)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEE (EU)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

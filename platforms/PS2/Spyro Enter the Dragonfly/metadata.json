@@ -3,10 +3,7 @@
 	"developers": ["Check Six Games"],
 	"genres": ["Action", "Platformer"],
 	"name": "Spyro: Enter the Dragonfly",
-	"publishers": [
-		"Universal Interactive (US, EU)",
-		"Vivendi Games|Vivendi Universal Games (AU)"
-	],
+	"publishers": ["Universal Interactive (US, EU)", "Vivendi Games"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

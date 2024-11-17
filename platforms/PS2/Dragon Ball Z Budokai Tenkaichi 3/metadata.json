@@ -3,11 +3,7 @@
 	"developers": ["Spike"],
 	"genres": ["Action", "Fighting"],
 	"name": "Dragon Ball Z: Budokai Tenkaichi 3",
-	"publishers": [
-		"Bandai|Namco Bandai Games (JP)",
-		"Bandai (KO)",
-		"Atari (EU, US, SA, AU)"
-	],
+	"publishers": ["Bandai", "Bandai (KO)", "Atari (EU, US, SA, AU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

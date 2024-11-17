@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Bandai|Namco Bandai Games"],
+	"developers": ["Bandai"],
 	"genres": ["Racing"],
 	"name": "MotoGP 4",
-	"publishers": [
-		"Sony|SCEE (EU)",
-		"Namco (JP)",
-		"Bandai|Namco Bandai Games (US)"
-	],
+	"publishers": ["Sony", "Namco (JP)", "Bandai"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

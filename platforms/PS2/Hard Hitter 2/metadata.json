@@ -1,10 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Magical Company|Magical Company (Mahou)"],
+	"developers": ["Magical Company"],
 	"genres": ["Sports"],
 	"name": "Hard Hitter 2",
 	"publishers": [
-		"Magical Company|Magical Company (Mahou) (JP)",
+		"Magical Company",
 		"Midas Interactive Entertainment (EU)",
 		"Eolith (KO)"
 	],

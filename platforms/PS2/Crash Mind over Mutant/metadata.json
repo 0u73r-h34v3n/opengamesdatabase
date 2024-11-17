@@ -3,10 +3,7 @@
 	"developers": ["Radical Entertainment"],
 	"genres": ["Action", "Platformer"],
 	"name": "Crash: Mind over Mutant",
-	"publishers": [
-		"Activision|Activision Blizzard (US)",
-		"Sierra Entertainment (AU, EU)"
-	],
+	"publishers": ["Activision", "Sierra Entertainment (AU, EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|Sony Computer Entertainment America"],
+	"developers": ["Sony"],
 	"genres": ["Demo"],
 	"name": "Kiosk Demo Disc 2.8",
-	"publishers": ["Sony|Sony Computer Entertainment"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-U"],
 	"synopsis": "This disc is a compilation of PlayStation 2 game demos for interactive kiosks. "
 }

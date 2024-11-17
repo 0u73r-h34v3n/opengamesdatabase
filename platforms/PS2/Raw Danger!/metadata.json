@@ -3,11 +3,7 @@
 	"developers": ["Irem"],
 	"genres": ["Action", "Adventure"],
 	"name": "Raw Danger!",
-	"publishers": [
-		"Irem (JP)",
-		"Agetec (EU, US)",
-		"Granzella|Granzella Inc. (JP)"
-	],
+	"publishers": ["Irem (JP)", "Agetec (EU, US)", "Granzella"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

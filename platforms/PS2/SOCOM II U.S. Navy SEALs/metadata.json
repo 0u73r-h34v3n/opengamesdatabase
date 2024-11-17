@@ -3,12 +3,7 @@
 	"developers": ["Zipper Interactive"],
 	"genres": ["Action", "Shooter"],
 	"name": "SOCOM II: U.S. Navy SEALs",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (JP)",
-		"Sony|SCE Australia (AU)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -3,10 +3,7 @@
 	"developers": ["Blue Tongue Entertainment"],
 	"genres": ["Simulation"],
 	"name": "Jurassic Park: Operation Genesis",
-	"publishers": [
-		"Vivendi Games|Vivendi Universal Games (US)",
-		"Konami (EU, JP)"
-	],
+	"publishers": ["Vivendi Games", "Konami (EU, JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

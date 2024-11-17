@@ -3,10 +3,7 @@
 	"developers": ["Electronic Arts"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "X-Squad",
-	"publishers": [
-		"Electronic Arts|Electronic Arts Victor (JP)",
-		"Electronic Arts (US, EU)"
-	],
+	"publishers": ["Electronic Arts", "Electronic Arts (US, EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

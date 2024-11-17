@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
 	"genres": ["Demo"],
 	"name": "Official PlayStation 2 Magazine Demo 79",
-	"publishers": ["Sony|Sony Computer Entertainment", "Future Publishing"],
+	"publishers": ["Sony", "Future Publishing"],
 	"regions": ["PAL"],
 	"synopsis": "{{OPSM2Info}}"
 }

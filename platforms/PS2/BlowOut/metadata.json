@@ -3,11 +3,7 @@
 	"developers": ["Terminal Reality"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "BlowOut",
-	"publishers": [
-		"Majesco (US)",
-		"Zoo Digital Publishing (EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Majesco (US)", "Zoo Digital Publishing (EU)", "Sony"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

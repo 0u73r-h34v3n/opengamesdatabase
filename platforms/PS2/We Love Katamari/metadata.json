@@ -3,11 +3,7 @@
 	"developers": ["Now Production"],
 	"genres": ["Action", "Puzzle"],
 	"name": "We Love Katamari",
-	"publishers": [
-		"Namco (JP, US, AU)",
-		"Electronic Arts (EU)",
-		"Bandai|Namco Bandai Games (JP)"
-	],
+	"publishers": ["Namco (JP, US, AU)", "Electronic Arts (EU)", "Bandai"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

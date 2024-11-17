@@ -3,12 +3,7 @@
 	"developers": ["Gust"],
 	"genres": ["RPG"],
 	"name": "Atelier Iris 3: Grand Phantasm",
-	"publishers": [
-		"Gust (JP)",
-		"Nippon Ichi Software|NIS America (US)",
-		"THQ (AU)",
-		"Koei (EU)"
-	],
+	"publishers": ["Gust (JP)", "Nippon Ichi Software", "THQ (AU)", "Koei (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

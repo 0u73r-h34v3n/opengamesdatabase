@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEA"],
+	"developers": ["Sony"],
 	"genres": ["Collection"],
 	"name": "ESA Foundation Compilation Set",
-	"publishers": ["Sony|SCEA"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-U"],
 	"synopsis": "{{Collection|NTSC-U editions of [[Splashdown: Rides Gone Wild]], [[ATV Offroad Fury 2]] and [[Need for Speed: Hot Pursuit 2]] and has its unique serial (SCUS-97530).}}"
 }

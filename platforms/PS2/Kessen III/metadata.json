@@ -3,11 +3,7 @@
 	"developers": ["Koei"],
 	"genres": ["RTS"],
 	"name": "Kessen III",
-	"publishers": [
-		"Koei (JP, US, EU)",
-		"Koei|Koei Tecmo Games (EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Koei (JP, US, EU)", "Koei", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

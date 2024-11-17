@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["LucasArts|Lucas Learning"],
+	"developers": ["LucasArts"],
 	"genres": ["Racing"],
 	"name": "Star Wars: Super Bombad Racing",
-	"publishers": ["LucasArts|Lucas Learning (US)", "LucasArts (EU)"],
+	"publishers": ["LucasArts", "LucasArts (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

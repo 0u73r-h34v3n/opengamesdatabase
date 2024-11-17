@@ -3,11 +3,7 @@
 	"developers": ["Square Enix"],
 	"genres": ["MMO", "RPG"],
 	"name": "Final Fantasy XI",
-	"publishers": [
-		"Square Enix|SquareSoft (JP)",
-		"Square Enix (JP, EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Square Enix", "Square Enix (JP, EU)", "Sony"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

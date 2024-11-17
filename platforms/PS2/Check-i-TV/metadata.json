@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEI"],
+	"developers": ["Sony"],
 	"genres": ["Tool"],
 	"name": "Check-i-TV",
-	"publishers": ["Sony|SCEI"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J"],
 	"synopsis": "Check-i-TV was an experiment created by Sony. You could connect your PS2 with an i-mode capable mobile phone through a connection cable. The program would use this connection to access i-mode services such as news, sports or user-posted content. The Check-i-TV would use this data to generate a News Broadcast using sock-puppet like characters as hosts. However, the i-mode based service went offline in 2002. "
 }

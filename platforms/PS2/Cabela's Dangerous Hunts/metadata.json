@@ -3,10 +3,7 @@
 	"developers": ["Sand Grain Studios"],
 	"genres": ["Sports"],
 	"name": "Cabela's Dangerous Hunts",
-	"publishers": [
-		"Activision|Activision Value (US)",
-		"Zoo Digital Publishing (EU)"
-	],
+	"publishers": ["Activision", "Zoo Digital Publishing (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

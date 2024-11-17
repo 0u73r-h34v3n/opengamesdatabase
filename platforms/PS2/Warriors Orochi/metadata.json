@@ -3,11 +3,7 @@
 	"developers": ["Omega Force"],
 	"genres": ["Action", "Fighting"],
 	"name": "Warriors Orochi",
-	"publishers": [
-		"Koei (JP, KO, US, EU, AU)",
-		"Koei|Koei Tecmo Games (JP, EU)",
-		"Sony|SCEA (US)"
-	],
+	"publishers": ["Koei (JP, KO, US, EU, AU)", "Koei", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

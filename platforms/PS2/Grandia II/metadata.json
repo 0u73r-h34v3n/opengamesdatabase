@@ -3,11 +3,7 @@
 	"developers": ["Game Arts"],
 	"genres": ["RPG"],
 	"name": "Grandia II",
-	"publishers": [
-		"Ubisoft (US, EU)",
-		"Square Enix|Enix Corporation (JP)",
-		"Game Arts (JP)"
-	],
+	"publishers": ["Ubisoft (US, EU)", "Square Enix", "Game Arts (JP)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

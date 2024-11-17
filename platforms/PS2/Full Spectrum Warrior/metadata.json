@@ -3,12 +3,7 @@
 	"developers": ["Pandemic Studios"],
 	"genres": ["RTS"],
 	"name": "Full Spectrum Warrior",
-	"publishers": [
-		"THQ (US, EU, KO)",
-		"Sega (JP)",
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)"
-	],
+	"publishers": ["THQ (US, EU, KO)", "Sega (JP)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

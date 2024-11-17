@@ -1,13 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Square Enix|SquareSoft"],
+	"developers": ["Square Enix"],
 	"genres": ["RPG"],
 	"name": "Unlimited Saga",
-	"publishers": [
-		"Square Enix|SquareSoft (JP)",
-		"Square Enix (US)",
-		"Atari (EU)"
-	],
+	"publishers": ["Square Enix", "Square Enix (US)", "Atari (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEA San Diego Studios"],
+	"developers": ["Sony"],
 	"genres": ["Sports"],
 	"name": "MLB 11: The Show",
-	"publishers": ["Sony|SCEA (US)", "Sony|SCEI (KO)"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J", "NTSC-U"],
 	"synopsis": "The #1 selling, highest rated baseball franchise is back in MLB The Show '11. Experience new ways to play The Show with the NEW PURE Analog controls. Team up in ALL NEW CO-OP play, get called up to the Big Leagues with new and improved Road to the Show features and compete for real world prizes in MLB The Show's ALL NEW Challenge of the Week."
 }

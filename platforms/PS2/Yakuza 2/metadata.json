@@ -3,7 +3,7 @@
 	"developers": ["Sega"],
 	"genres": ["Action", "Adventure", "RPG"],
 	"name": "Yakuza 2",
-	"publishers": ["Sega (JP, KO, US, AU)", "Sega|Sega Europe (EU)"],
+	"publishers": ["Sega (JP, KO, US, AU)", "Sega"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

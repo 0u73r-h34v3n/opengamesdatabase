@@ -3,12 +3,7 @@
 	"developers": ["Insomniac Games"],
 	"genres": ["Action", "Platformer"],
 	"name": "Ratchet & Clank: Up Your Arsenal",
-	"publishers": [
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Australia (AU)",
-		"Sony|SCEI (JP, AS, KO)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

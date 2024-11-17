@@ -3,11 +3,7 @@
 	"developers": ["Omega Force"],
 	"genres": ["Action", "Fighting"],
 	"name": "Dynasty Warriors 3",
-	"publishers": [
-		"Koei (JP, US, EU, KO)",
-		"THQ (EU)",
-		"Koei|Koei Tecmo Games (JP)"
-	],
+	"publishers": ["Koei (JP, US, EU, KO)", "THQ (EU)", "Koei"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

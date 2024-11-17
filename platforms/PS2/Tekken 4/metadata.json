@@ -3,12 +3,7 @@
 	"developers": ["Namco"],
 	"genres": ["Action", "Fighting"],
 	"name": "Tekken 4",
-	"publishers": [
-		"Namco (JP, US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCEI (KO)",
-		"Sony|SCE Korea (KO)"
-	],
+	"publishers": ["Namco (JP, US)", "Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

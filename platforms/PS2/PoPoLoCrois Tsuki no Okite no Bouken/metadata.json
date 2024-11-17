@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Sony|SCEI"],
+	"developers": ["Sony"],
 	"genres": ["RPG"],
 	"name": "PoPoLoCrois: Tsuki no Okite no Bouken",
-	"publishers": ["Sony|SCEI"],
+	"publishers": ["Sony"],
 	"regions": ["NTSC-J"],
 	"synopsis": "PoPoLoCrois: Tsuki no Okite no Bouken is the direct sequel to [[PoPoLoCrois: Hajimari no Bouken]]. The game continues the story of Pinon PakaPuka and Luna as they adventure through the kingdom of Popolocrois."
 }

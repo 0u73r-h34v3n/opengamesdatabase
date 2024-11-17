@@ -3,11 +3,7 @@
 	"developers": ["Black Ops Entertainment"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Fugitive Hunter: War on Terror",
-	"publishers": [
-		"Encore Software|Encore Software",
-		"Inc. (US)",
-		"Play It! (EU)"
-	],
+	"publishers": ["Encore Software", "Inc. (US)", "Play It! (EU)"],
 	"regions": ["PAL", "NTSC-U"],
 	"reviews": [
 		{

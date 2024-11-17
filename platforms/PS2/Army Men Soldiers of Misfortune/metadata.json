@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Big Blue Bubble|Big Blue Bubble Inc."],
+	"developers": ["Big Blue Bubble"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Army Men: Soldiers of Misfortune",
 	"publishers": ["DSI Games"],

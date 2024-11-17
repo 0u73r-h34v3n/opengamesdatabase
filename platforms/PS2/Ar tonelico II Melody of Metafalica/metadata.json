@@ -3,11 +3,7 @@
 	"developers": ["Gust"],
 	"genres": ["RPG"],
 	"name": "Ar tonelico II: Melody of Metafalica",
-	"publishers": [
-		"Banpresto (JP)",
-		"Bandai|Namco Bandai Games (JP)",
-		"Nippon Ichi Software|NIS America (US, EU)"
-	],
+	"publishers": ["Banpresto (JP)", "Bandai", "Nippon Ichi Software"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

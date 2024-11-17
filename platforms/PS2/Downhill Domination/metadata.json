@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Incognito|Incognito Inc."],
+	"developers": ["Incognito"],
 	"genres": ["Sports"],
 	"name": "Downhill Domination",
-	"publishers": ["Sony|SCEA (US)", "Codemasters (EU)", "Sony|SCEI (JP)"],
+	"publishers": ["Sony", "Codemasters (EU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

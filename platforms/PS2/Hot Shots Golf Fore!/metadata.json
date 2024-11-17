@@ -3,12 +3,7 @@
 	"developers": ["Clap Hanz"],
 	"genres": ["Sports"],
 	"name": "Hot Shots Golf Fore!",
-	"publishers": [
-		"Sony|SCEI (JP)",
-		"Sony|SCEA (US)",
-		"Sony|SCEE (EU)",
-		"Sony|SCE Korea (KO)"
-	],
+	"publishers": ["Sony"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{

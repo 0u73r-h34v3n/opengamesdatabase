@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
-	"developers": ["Cavia|Cavia Inc."],
+	"developers": ["Cavia"],
 	"genres": ["Action", "Shooter", "Arcade"],
 	"name": "Ghost in the Shell: Stand Alone Complex",
-	"publishers": ["Sony|SCEI (JP)", "Bandai (US)", "Atari (EU, AU)"],
+	"publishers": ["Sony", "Bandai (US)", "Atari (EU, AU)"],
 	"regions": ["PAL", "NTSC-J", "NTSC-U"],
 	"reviews": [
 		{
