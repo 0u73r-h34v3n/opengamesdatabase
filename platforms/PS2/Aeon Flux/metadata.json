@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
 	"developers": ["Terminal Reality"],
 	"genres": ["Action", "Adventure"],
 	"name": "Aeon Flux",

@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
 	"developers": ["Rockstar Games"],
 	"genres": ["Action", "Shooter"],
 	"name": "Max Payne 2: The Fall of Max Payne",

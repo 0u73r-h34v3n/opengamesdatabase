@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
 	"genres": ["Tools"],
 	"name": "10th Anniversary PlayStation & PlayStation 2 All Soft Catalogue Special SaveData Collection",
 	"publishers": ["Media Works"],

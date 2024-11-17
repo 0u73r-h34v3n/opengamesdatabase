@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_scheme.json",
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
 	"developers": ["Koei"],
 	"genres": ["Sports"],
 	"name": "Winning Post 4 Maximum 2001 & G1 Jockey 2 2001",

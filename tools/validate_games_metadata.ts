@@ -4,7 +4,7 @@ import { readdir } from "node:fs/promises";
 const ajv = new Ajv();
 
 (async () => {
-	const metadataScheme = await Bun.file("./shared/metadata_scheme.json").json();
+	const metadataScheme = await Bun.file("./shared/metadata_schema.json").json();
 
 	const schema = metadataScheme;
 	const validate = ajv.compile(schema);
