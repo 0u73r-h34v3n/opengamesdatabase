@@ -18,6 +18,9 @@
 			"type": "array",
 			"items": { "type": "string" }
 		},
+		"franchise": {
+			"type": "string"
+		},
 		"genres": {
 			"type": "array",
 			"items": { "type": "string" }
