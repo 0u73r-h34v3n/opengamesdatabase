@@ -52,7 +52,11 @@ async function hasGameRegionsInformation(
 			withFileTypes: true,
 		});
 
-		for (const gameFolder of gamesFoldersList) {
+		const sortedGamesFoldersList = gamesFoldersList.sort((a, b) =>
+			a.name.toLowerCase().localeCompare(b.name.toLowerCase()),
+		);
+
+		for (const gameFolder of sortedGamesFoldersList) {
 			if (!gameFolder.isDirectory()) {
 				continue;
 			}
