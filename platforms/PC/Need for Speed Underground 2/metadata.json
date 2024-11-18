@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Canada"],
+	"franchise": "Need for Speed",
+	"genres": ["Racing"],
+	"name": "Need for Speed: Underground 2",
+	"publishers": ["Electronic Arts"],
+	"release_date": "November 9, 2004",
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/need-for-speed-underground-2/critic-reviews/?platform=pc",
+			"score": 82
+		},
+		{
+			"name": "IGN",
+			"url": "https://www.ign.com/games/need-for-speed-underground-2",
+			"score": 8.3
+		}
+	],
+	"synopsis": "As you explore the city, you'll encounter rival racers who will show you all the hot spots in underground racing. After each race, you can improve your car's performance with various upgrades, ranging from the gear ratio to the suspension. The game includes more than 30 tuner cars from a variety of manufacturers, such as Mitsubishi, Nissan, Toyota, and more. You can even challenge racers from around the world in the game's online mode.\nThe game is based around tuning cars for street races, resuming the Need for Speed: Underground storyline."
+}
