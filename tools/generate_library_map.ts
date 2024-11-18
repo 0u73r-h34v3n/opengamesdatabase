@@ -2,6 +2,7 @@ import { readdir, exists } from "node:fs/promises";
 
 type GameMap = {
 	folder: string;
+	emulators?: Array<string>;
 };
 
 async function hasGameRegionsInformation(
@@ -31,6 +32,27 @@ async function hasGameRegionsInformation(
 	}
 
 	return regionsInformationState;
+}
+
+const EMULATORS = ["PCSX2"];
+async function getEmulatorsListInFolder(route: string) {
+	const emulatorsListInFolder = [];
+
+	for (const emulator of EMULATORS) {
+		const hasEmulatorFile = await exists(`${route}/${emulator}.json`);
+
+		if (!hasEmulatorFile) {
+			continue;
+		}
+
+		emulatorsListInFolder.push(emulator);
+	}
+
+	if (emulatorsListInFolder.length === 0) {
+		return undefined;
+	}
+
+	return emulatorsListInFolder.sort();
 }
 
 (async () => {
@@ -75,13 +97,15 @@ async function hasGameRegionsInformation(
 				gameMetadata?.regions,
 			);
 
+			const emulatorsListInFolder =
+				await getEmulatorsListInFolder(gameFolderRoute);
+
 			platforms[name][gameName] = {
+				emulators: emulatorsListInFolder,
 				folder: gameFolder.name,
 				...regionInformation,
 			};
 		}
-
-		console.log(Object.keys(platforms), platform);
 
 		if (!platforms[name]) {
 			continue;
