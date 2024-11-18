@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Black Box"],
+	"franchise": "Need for Speed",
+	"genres": ["Racing"],
+	"name": "Need for Speed: Most Wanted",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		},
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 15, 2005",
+	"reviews": [
+		{
+			"name": "Metacritic",
+			"url": "https://www.metacritic.com/game/need-for-speed-most-wanted-2005/critic-reviews/?platform=pc",
+			"score": 82
+		}
+	],
+	"synopsis": "Wake up to the smell of burnt asphalt as the thrill of illicit street racing permeates the air. From the makers of the hit Need for Speed Underground series, Need for Speed Most Wanted challenges players to become the most notorious and elusive street racer.\nCombining illicit street racing and tuner customization with the intensity of strategic police pursuit that surpasses any Hollywood-style chase scene, Need for Speed Most Wanted will be on every gamer's 'must-have' list this holiday season. Out-race rivals, evade cops and exploit hundreds of miles of open road as gamers make their way up the Blacklist"
+}
