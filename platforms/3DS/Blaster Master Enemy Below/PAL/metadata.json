@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Blaster Master Enemy Below",
+	"publishers": ["Sunsoft"],
+	"release_date": "December 8, 2011",
+	"serial_number": "QAEP",
+	"synopsis": "An old enemy has returned, and the world is once again in danger. Only Jason, hero of the original Blaster Master, and his all-terrain tank Sophia the 3rd can save the day. Blaster Master Enemy Below brings the series’ trademark mix of action and exploration to the small screen. Shoot through enemy-infested environments in your tank, and then jump out to continue the fight on foot. Explore eight sprawling catacombs, battle bosses to win upgrades for Sophia the 3rd and delve deeper into the enemies’ lair."
+}

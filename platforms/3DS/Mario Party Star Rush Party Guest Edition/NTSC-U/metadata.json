@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario Party Star Rush Party Guest Edition",
+	"publishers": ["Nintendo"],
+	"release_date": "November 4, 2016",
+	"serial_number": "BABE",
+	"synopsis": "Mario™ and friends invite you to be their party guest! Think fast and have a blast in this free version of the Mario Party Star Rush game. Connect with a player that has the full version to enjoy all multiplayer modes with up to 4 players. No matter how you party, it’s instant fun for everyone! Break free of turn order and choose your path across bite-sized, open maps in Toad Scramble. You and up to 3 friends roll the dice, roam the board, and recruit fan-favorite allies, like Yoshi™, Daisy™, and Waluigi™! The bigger your party, the faster you can earn stars and coins in frantic minigames. Pit your skills against friends by racing through minigames in Coinathlon or navigating a board in Balloon Bash. As you play multiplayer, single-player bonuses unlock, including Goomba Gold Rush, which has you blasting enemies with cannons, and a museum you can add characters to by tapping compatible amiibo™ figures. Partying is tough business!"
+}

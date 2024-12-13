@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "つっぱり大相撲",
+	"synopsis": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションゲームです。 力士を育てて、番付(ランク)を上げ、横綱への昇進を目指します。一場所では15日間の取り組みが行われ、勝利数によって昇進できるかどうかが決まります。「つっぱり」や「はたき」など相撲特有の技のほか、普通の相撲では見ることのできない隠し技も用意されています。"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "My Style Studio: Hair Salon",
+	"publishers": ["Cypronia"],
+	"release_date": "December 12, 2013",
+	"serial_number": "JZ2E",
+	"synopsis": "Choose between five cute characters and cut and style them in whatever way you want. Use lots of different tools – from a simple scissors to a curling iron and decorate the final look with hats, glasses and other fun accessories. realistic hair styling 5 cute characters 13 different tools lots of different accessories: hats, glasses and much more smooth and beautiful animations"
+}

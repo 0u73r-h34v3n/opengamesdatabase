@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Breath of Fire II",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 6, 2016",
+	"serial_number": "UBBE",
+	"synopsis": "Featuring a wide range of characters and a vast world to explore, Breath of Fire II is the sequel to the hit role-playing game. Set 500 years after the original, Ryu’s father and sister are abducted but the village-folk have mysteriously forgotten them. Ryu teams up with fellow orphan Bow and they embark on an incredible adventure. The game features multiple gameplay viewpoints (such as the isometric view during battles, famous from the first game) and exciting abilities like shaman fusing and dragon transformations. This is the US version of the game."
+}

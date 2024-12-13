@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Little Battlers eXperience",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 4, 2015",
+	"serial_number": "ADNZ",
+	"synopsis": "In a world where toys are more than just child’s play, you play as Van Yamano, a young boy entrusted with a one-of-a-kind LBX, a tiny customisable robot, which is capable of saving the world from the brink of disaster! Create your own LBX from more than 4,000 unique parts, each with their own abilities and designs that change the look and performance of your custom robot. Complete more than 130 different Armour Sets or mix and match parts to create the ultimate battlin’ bot!"
+}

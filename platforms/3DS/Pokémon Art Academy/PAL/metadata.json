@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GAME FREAK Inc.", "Headstrong Games"],
+	"genres": ["Coaching", "Drawing", "Educational", "Health"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pokémon Art Academy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 4, 2014",
+	"serial_number": "BPCP",
+	"synopsis": "Grab your stylus and start your Pokémon-drawing journey in Pokémon Art Academy, only on Nintendo 3DS family systems! This Pokémon-themed iteration of the Art Academy series offers budding illustrators and Pokémon fans alike 40 lessons to learn how to paint, sketch and draw with beloved Pokémon characters. Along the way, students of Pokémon Art Academy can pick up actual illustration skills that they can transfer onto real canvas or paper, or share their digital masterpieces with the world. Pokémon Art Academy boasts 40 lessons in which players can encounter favourite Pokémon from throughout the series – even including those from the recent Pokémon X and Pokémon Y games – such as Pikachu, Oshawott, Charizard, Torchic, Fletchling, Fennekin and many more! Progress through four different levels of lesson, beginning with first drawings in Starter, discovering new skills during Novice and Apprentice, and culminating with mastering a new talent in Graduate courses. Learn how to draw colourful Pokémon profiles, then build up Pokémon out of simple shapes like a cartoonist. Later lessons introduce colouring techniques such shading, shadow and depth that bring drawings to life. For the first time in the Art Academy series, it’s even possible to add a finishing touch by placing completed artwork against a selection of backgrounds for dramatic effect."
+}

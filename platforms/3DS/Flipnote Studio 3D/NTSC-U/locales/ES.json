@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Flipnote Studio 3D",
+	"synopsis": "Flipnote Studio 3D te permite crear animaciones en 3D. Sólo crea dibujos secuenciales en cada página, como si fuera una libreta, y reproduce la nota para verlos cobrar vida. Con la gran selección de herramientas artísticas del programa puedes dar vida a todo, desde sencillos garabatos hasta dibujos animados."
+}

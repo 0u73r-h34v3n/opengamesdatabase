@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Rainbow Snake",
+	"synopsis": "Rainbow Snake est un beau jeu classique. Manger de la nourriture, serpent peint en différentes couleurs. Recueillir un serpent coloré et éviter les murs verts. Au fil du temps, le serpent gagne de la vitesse! Mécanique de jeu simple Vous pouvez mourir quand vous frappez le mur et vous ne pouvez pas vous manger Le serpent prend de la vitesse, soyez plus prudent"
+}

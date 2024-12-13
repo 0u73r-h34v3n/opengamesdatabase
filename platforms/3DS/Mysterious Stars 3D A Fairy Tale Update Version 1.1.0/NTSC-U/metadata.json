@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Mysterious Stars 3D: A Fairy Tale Update Version 1.1.0",
+	"publishers": ["Collavier"],
+	"release_date": "August 10, 2017",
+	"serial_number": "KFXE"
+}

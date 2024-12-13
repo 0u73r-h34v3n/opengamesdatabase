@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Japanese Rail Sim 3D - Journey in Suburbs #1",
+	"publishers": ["Sonic Powered"],
+	"release_date": "June 11, 2015",
+	"serial_number": "ARJE",
+	"synopsis": "Take a trip on the local railway of Gifu Prefecture, located in the center of the Japanese Archipelago! Staged on the Nagaragawa Railway, weaving between stunning greenery and clear streams, you can experience driving on the railway and enjoy seeing daily life in the Japanese countryside passing by the window through stunning 3D video. A variety of trivia of the sites along the Nagaragawa Railway can be collected by earning high scores when traveling between stations."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Examu"],
+	"genres": ["Music", "Puzzle", "Rhythm"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hello Kitty and the Apron of Magic - Rhythm Cooking",
+	"publishers": ["Rising Star Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 6, 2015",
+	"serial_number": "BHKP",
+	"synopsis": "Join Hello Kitty and her friends in the kitchen for this fun-packed cooking caper, jammed with mini-games that see you baking to the beat. Learn the joys of cooking and the power of rhythm simultaneously, making new friends and coming up with tasty treats in time to the music!"
+}

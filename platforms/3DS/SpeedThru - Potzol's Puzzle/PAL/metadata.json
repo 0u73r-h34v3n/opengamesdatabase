@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "SpeedThru - Potzol's Puzzle",
+	"publishers": ["Nintendo"],
+	"release_date": "April 5, 2012",
+	"serial_number": "JELP",
+	"synopsis": "Put your quick thinking and reactions to the test in this puzzle game with a twist, literally! The god of destruction, Kaotl, has stolen the heart of Creatl, the god of creation. You must take control of the floating Guardian stones, twisting and slotting them through the openings in walls as you hurtle towards them, and collect the hearts to restore Creatl. As well as 90+ stages in single player mode, you can also enjoy two player modes via local wireless or even sharing one Nintendo 3DS system!"
+}

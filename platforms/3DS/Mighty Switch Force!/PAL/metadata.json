@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mighty Switch Force!",
+	"publishers": ["WayForward"],
+	"release_date": "December 22, 2011",
+	"serial_number": "JMFP",
+	"synopsis": "Meet Patricia Wagon, cybernetic police officer on a mission to put the Hooligan Sisters back behind bars. By activating her Siren Helmet, Patricia can shift the machine matrix of Planet Land, altering the world around her. Use your wits and trusty Pellet Gun to blow crime away! Update includes: - 5 bonus levels - enhanced 3D graphics - quick-retry feature"
+}

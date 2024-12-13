@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Spelunker",
+	"publishers": ["Tozai Games"],
+	"release_date": "July 18, 2013",
+	"serial_number": "TBNP",
+	"synopsis": "The underground pyramid awaits! Grab your oxygen tank, bombs and flares and explore uncharted caves in search of the legendary pyramid and its vast treasures. Swing from ropes and ladders, make use of mining carts and boats, collect jewels, sacks of money and more as you navigate the hazardous terrain. You must keep your wits about you, as the caves hold many dangers. Scalding steam vents, venomous bats and the avenging spirits of old spelunkers lurk in every corner of this massive labyrinth!"
+}

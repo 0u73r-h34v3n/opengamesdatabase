@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ピンボール66匹のワニ大行進",
+	"synopsis": "このソフトは、1989年に発売されたゲームボーイ用のピンボールゲームです。 ワニだらけのピンボールで、高得点をめざします。画面下のフリッパーを操作してボールを打ち返し、ターゲットに当てたりレーンを通したりすると得点がアップ。特定のホールやワニの口にボールを入れるとボーナス面へ。大量得点を狙えます。"
+}

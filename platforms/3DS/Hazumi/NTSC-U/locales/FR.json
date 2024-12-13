@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Hazumi",
+	"synopsis": "Hazumi est un jeu d'action et de réflexion dans lequel vous prenez les commandes d'une balle de couleur. Votre objectif est simple : détruire tous les blocs de cristal, niveau après niveau. Mais attention : vous pouvez uniquement détruire un bloc s'il est de la couleur de la balle. Pour déjouer tous les pièges et sortir indemne des labyrinthes, vous devrez faire preuve de stratégie, d'audace... et d'un soupçon de chance ! Avec plus de 100 casse-tête, un éditeur de niveau, des commandes intuitives, de somptueux graphismes de type \"\"pixel art\"\" et un gameplay captivant, Hazumi vous tiendra en haleine des jours durant !"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES"],
+	"name": "CosmiBall 3D",
+	"publishers": ["DESK INK"],
+	"release_date": "October 6, 2022",
+	"serial_number": "CCME",
+	"synopsis": "Cruise through space in this beginner-friendly A-to-B platformer. Take your time, enjoy the music, and hone your skills as you toy with the physics of the CosmiBall. Compete with your friends and family to see who can make the fastest route!"
+}

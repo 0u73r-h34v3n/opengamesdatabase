@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong Jr.",
+	"publishers": ["Nintendo"],
+	"release_date": "June 14, 2012",
+	"serial_number": "TAKE",
+	"synopsis": "Original Release Date: June 1986 Based on the popular arcade game, Donkey Kong Jr. is the sequel to the immensely successful Donkey Kong™. Play as Donkey Kong's son, and rescue your dad who has been kidnapped and imprisoned in a cage by Mario™. Use your jumping and climbing abilities to clamber up vines and chains, gather vital fruit and keys, and open the cage to free your father. Make sure you avoid the pesky birds, nasty electric sparks, and creepy chompers! Four different worlds filled with numerous climbing and jumping puzzles await you in this timeless classic."
+}

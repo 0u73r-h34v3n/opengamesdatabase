@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nami Tentou"],
+	"genres": ["Arcade", "Racing", "Shooter"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Lifespeed",
+	"publishers": ["Nami Tentou"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 2, 2017",
+	"serial_number": "CALP",
+	"synopsis": "Lifespeed is the ultimate race for survival. Battle your galactic opponents while flying at high speed through exciting tunnels. Your planet needs you! One thousand years ago a Great War threatened to engulf the galaxy. The United Government was formed to stop the impending Armageddon. Now there is a new genocide called Lifespeed. Instead of war, disputes about resources and survival are settled on the track. Each rider is forced to compete for their planet’s survival and for the chance to become Archon. You are Cypher Reid."
+}

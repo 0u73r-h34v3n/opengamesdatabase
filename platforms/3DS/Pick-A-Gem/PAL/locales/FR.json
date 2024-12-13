@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pick-A-Gem",
+	"synopsis": "Retrouvez la joie du jeu de réflexion et affrontez le monde pour atteindre les plus hautes places du classement ! Pick-A-Gem est un jeu de match 3 dans lequel le joueur doit combiner un maximum de gemmes en un temps limité. Les gemmes sont récupérées en touchant le bas de l'écran et en créant une chaîne de même couleur. Cette chaîne doit se composer d'au moins trois gemmes de couleur identique. Le joueur gagne de l'expérience au fil des parties. Cela débloque des nouvelles fonctionnalités telles que des bonus, des gemmes spéciales et le mode \"Frenzy\". Plus le joueur est expérimenté et plus il gagne de points."
+}

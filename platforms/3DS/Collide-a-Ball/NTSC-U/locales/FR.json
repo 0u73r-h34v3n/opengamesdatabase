@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Collide-a-Ball",
+	"synopsis": "Dans ce jeu de casse-tête unique, vous devez créer un itinéraire pour que deux balles se rencontrent au même endroit au même moment. Une balle bleue et une balle rouge partent d'emplacements différents dans le niveau. Positionnez et pivotez des objets tels que des panneaux d'accélération et des pentes pour préparer la route que les balles doivent emprunter afin qu'elles arrivent ensemble au drapeau. Une fois que tout est en place, appuyez sur « Départ » pour lancer les deux balles. Pourrez-vous faire en sorte que les deux balles se rencontrent en même temps au drapeau d'arrivée ? Collide-a-Ball comprend trois modes de jeu : Jeu Libre, Prêt ? Partez ! et Balle Unique. Jeu Libre Installez les objets afin que les deux balles atteignent l'objectif en même temps. Prêt ? Partez ! Estimez le délai nécessaire entre les balles pour qu'elles atteignent le drapeau d'arrivée ensemble. Balle Unique Installez des objets tout au long du niveau pour que la balle s'arrête au drapeau d'arrivée."
+}

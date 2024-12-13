@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Shovel Software Insurance Claim",
+	"publishers": ["Batafurai"],
+	"release_date": "August 18, 2022",
+	"serial_number": "CF6P",
+	"synopsis": "Welcome to Shovel Software! We are happy to inform you that you are eligible for the insurance provided by our company! Please purchase to continue! Focus! Tap fast and claim the highest insurance score, revealing a terminated employee's text files."
+}

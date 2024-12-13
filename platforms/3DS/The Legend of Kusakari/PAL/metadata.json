@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Legend of Kusakari",
+	"publishers": ["Nnooo"],
+	"release_date": "August 25, 2016",
+	"serial_number": "KSBP",
+	"synopsis": "Help the heroes and CUT that GRASS! You know what's the worst thing ever? Fighting slimes and dragons knee-deep in grass and weeds. Well if Kusakari has anything to do with it, it wont be that way for long. Get your scythe sharpened and jump into this quirky Japanese adventure puzzle game. Slice through over 50 levels of grass-filled action and help those heroes save the kingdom, in battle grounds fit to have a picnic on! Up to the challenge? Compete for the most grass cut in the endless grass cutting competition and record your best cut in the online leader boards!"
+}

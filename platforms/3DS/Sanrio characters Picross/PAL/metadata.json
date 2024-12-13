@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sanrio characters Picross",
+	"publishers": ["JUPITER"],
+	"release_date": "June 28, 2018",
+	"serial_number": "LSCP",
+	"synopsis": "This is a puzzle game using Sanrio characters. Solve Picross puzzles to unveil pictures and get cute stickers to decorate your screen with! Or use them on game backgrounds! Enjoy Picross with your own background!"
+}

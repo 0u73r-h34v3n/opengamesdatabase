@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Fatal Fracture",
+	"publishers": ["RandomSpin Games"],
+	"release_date": "October 10, 2019",
+	"serial_number": "LABE",
+	"synopsis": "Destroy all enemies in an endless cycle of levels."
+}

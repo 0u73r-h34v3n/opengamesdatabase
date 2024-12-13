@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "City Connection",
+	"publishers": ["HAMSTER"],
+	"release_date": "October 17, 2013",
+	"serial_number": "TBUP",
+	"synopsis": "NES™ classic City Connection is a driving action game which sees you race across all the highways of the world! After breaking into a New York paint store you get behind the wheel of a customised automobile. You must avoid pesky cats and the ever-present police who will stop at nothing to bring your journey to a screeching halt. Utilising oil cans and death-defying jumps, throw your assailants off your trail and travel the world from New York to Japan in this exciting arcade classic!"
+}

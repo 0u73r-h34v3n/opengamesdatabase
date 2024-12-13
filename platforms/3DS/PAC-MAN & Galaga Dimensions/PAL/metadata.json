@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Namco Bandai Games"],
+	"genres": ["Action", "Compilation", "Platformer"],
+	"locales": ["ES"],
+	"name": "PAC-MAN & Galaga Dimensions",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "August 26, 2011",
+	"serial_number": "APGP",
+	"synopsis": "Get your hands on a whole lot of arcade action as two gaming greats burst onto Nintendo 3DS. PAC-MAN & Galaga Dimensions is a collection of six complete games, including four previous titles from the PAC-MAN and Galaga franchises, as well as two brand new games designed to harness the power of Nintendo 3DS."
+}

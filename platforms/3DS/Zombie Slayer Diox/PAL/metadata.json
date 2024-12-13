@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Zombie Slayer Diox",
+	"publishers": ["UFO Interactive"],
+	"release_date": "July 5, 2012",
+	"serial_number": "JZSP",
+	"synopsis": "Zombie Slayer Diox™ is a rhythm-action game with a side-scrolling twist! You are put into the jeans and leather boots of a samurai guitarist in the year 20xx. Zombies have taken over most major cities in the world and our hero, Diox, is on a quest to put an end to the undead. Diox lures the zombies with his sweet songs and sick guitar solos, and he cuts them down with his mighty katana when they get close. There is a rumour deep within zombie territory, a super guitar amp exists that can be used to kill thousands of zombies at once with a strum of a simple power chord..."
+}

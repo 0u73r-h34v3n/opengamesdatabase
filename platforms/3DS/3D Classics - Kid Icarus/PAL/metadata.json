@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Classics - Kid Icarus",
+	"publishers": ["Nintendo"],
+	"release_date": "February 2, 2012",
+	"serial_number": "SAAP",
+	"synopsis": "Enjoy classic games in a new dimension with the 3D Classics range, remastered with immersive 3D visuals! Kid Icarus™ is an action-platformer from the creators of Metroid™; starring angelic warrior Pit, who must rescue the goddess Palutena and save Angel Land from the evil Medusa. Armed with his trusty bow and arrow, Pit must battle from the underworld to the sky, to seek out the Three Sacred Treasures. Only then will Pit have the power to take on Medusa. Look out for Pit's return in Kid Icarus™: Uprising for Nintendo 3DS!"
+}

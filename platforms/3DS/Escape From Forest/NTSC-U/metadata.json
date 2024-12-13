@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Escape From Forest",
+	"publishers": ["Vadim Gafton"],
+	"release_date": "August 6, 2020",
+	"serial_number": "J5JE",
+	"synopsis": "Run, run away. You have to escape from this dangerous, terrible forest. Danger breathes in your back and it's gaining speed, it will soon catch you up, run faster. Just don't hit the tree!"
+}

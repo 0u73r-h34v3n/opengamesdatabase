@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["FR"],
+	"name": "Harvest Moon: Skytree Village",
+	"publishers": ["Natsume Inc."],
+	"release_date": "January 31, 2017",
+	"serial_number": "AVAE"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "BYE-BYE BOXBOY!",
+	"publishers": ["Nintendo"],
+	"release_date": "April 12, 2017",
+	"serial_number": "KCKE",
+	"synopsis": "Wait... a box is the last defense against annihilation?! Well, fear not — Qbby is no ordinary box. Using his four startling new powers, you must solve hundreds of puzzles across 18 deadly worlds. Create boxes to climb, hover, warp, and bomb your way to salvation! Whether you're a newcomer or an old vet, thinking outside the box has never been more fun."
+}

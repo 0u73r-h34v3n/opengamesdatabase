@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Zero Escape - Virtue's Last Reward",
+	"publishers": ["Aksys Games"],
+	"release_date": "August 22, 2013",
+	"serial_number": "AKGE",
+	"synopsis": "Nominated for Best Story at the 2013 GDC Awards and named IGN’s Best 3DS/DS Story of 2012, Zero Escape: Virtue’s Last Reward is a thrilling visual novel and spiritual sequel to the critically-acclaimed hit, Zero Escape: Nine Hours, Nine Persons, Nine Doors, also known as 999. After being kidnapped by a masked figure, Sigma awakens in an elevator with a girl named Phi. They soon learn that they, along with seven others, are about to play a game of life and death—The Nonary Game: Ambidex Edition. Each participant is equipped with a bracelet that will kill them if they break the rules. Controlled by a mysterious rabbit named Zero III, the Nonary Game will force its players to decide who to trust and who to betray. If they can solve a series of fiendishly difficult puzzles, then perhaps they can uncover the mystery behind Zero III. Sigma will need all his wits to survive and escape alive, but who can he trust and who must he betray?"
+}

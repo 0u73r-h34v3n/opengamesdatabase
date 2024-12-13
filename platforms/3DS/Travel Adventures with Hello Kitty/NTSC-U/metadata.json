@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Idea Factory"],
+	"genres": ["Party", "Puzzle"],
+	"locales": ["ES", "FR"],
+	"name": "Travel Adventures with Hello Kitty",
+	"publishers": ["Rising Star Games"],
+	"release_date": "October 1, 2013",
+	"serial_number": "AHKE",
+	"synopsis": "The world famous & incredibly popular Hello Kitty is back and starring in an all new, 3D, interactive adventure. Join Hello Kitty and her Sanrio friends as they travel the world playing games and collecting outfits and items from a number of countries. You can help Hello Kitty in a Paris fashion show or paddle down a dangerous river in Kenya. You can also collect mementos of your trips and unlock new outfits for Hello Kitty. Best of all, using the Nintendo 3DS System's camera and the special Hello Kitty AR Card, you can even take Hello Kitty along with you on your own real life trips!"
+}

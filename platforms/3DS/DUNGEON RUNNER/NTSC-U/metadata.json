@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "DUNGEON RUNNER",
+	"publishers": ["Denvzla Estudio"],
+	"release_date": "July 2, 2020",
+	"serial_number": "K27E",
+	"synopsis": "DUNGEON RUNNER is a platform game in which we will have to flee from monster through a dangerous dungeon . An endless corridor with a colorful visual style where the game will end when we collide and the monster catches us."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Monster Hunter 4 Ultimate",
+	"synopsis": "Esta es información actualizada requerida para acceder al \"Área de regalos\" en \"Monster Hunter 4 Ultimate\", donde puede descargar elementos gratuitos. En el caso de que la información actualizada (ver. 1.1) no se haya descargado, \"Área de regalos\" en \"Monster Hunter 4 Ultimate\" no puede accederse. Tras descargar, contáctese con el personaje ama de llaves, seleccione \"Contenido descargable\", y luego \"Área de regalos\". Solicitamos que descargue la información de actualización (ver. 1.1), y nos disculpamos por cualquier inconveniente."
+}

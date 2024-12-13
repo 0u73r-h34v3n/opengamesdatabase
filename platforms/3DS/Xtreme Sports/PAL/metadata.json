@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Xtreme Sports",
+	"publishers": ["WayForward"],
+	"release_date": "August 7, 2014",
+	"serial_number": "QA4P",
+	"synopsis": "The Xtreme Cola Company has invited all-comers to Xtreme Island to become the Xtreme Sports champion! Guppi and her boyfriend Fin take up the challenge, with your help! From the makers of cult classic Shantae comes this colourful spin on high-adrenaline sports. Try your hand at surfing, street luge, in-line skating, skateboarding and even skyboarding! Explore the island to find friends, foes and even a few hidden treats. Practise hard and then compete in events to win medals; there are more than 400 to collect!"
+}

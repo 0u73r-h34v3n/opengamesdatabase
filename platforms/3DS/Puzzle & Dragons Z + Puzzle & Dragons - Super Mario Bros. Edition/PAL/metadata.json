@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GungHo Online Entertainment"],
+	"genres": ["Puzzle", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 16, 2015",
+	"serial_number": "KPMP",
+	"synopsis": "Mysterious Orbs have suddenly appeared in the Mushroom Kingdom! Bowser has abused the power of the Orbs to kidnap Princess Peach, and Mario must puzzle and battle his way to rescue her. With a host of Super Mario Bros. characters at your side, set out on a unique adventure! Battle your enemies using the Puzzle & Dragons technique of lining up three or more coloured Orbs to unleash attacks. As you advance through the various worlds and courses, you will befriend all kinds of Mario characters. Strengthen and transform them to improve your team and complete your quest! In the demo, you’ll be able to try the 4-Colour Course and the slightly easier 3-Colour Course. Characters such as Boo Mario and Ice Luigi will even make an appearance!"
+}

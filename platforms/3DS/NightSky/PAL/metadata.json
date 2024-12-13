@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "NightSky",
+	"publishers": ["Nicalis"],
+	"release_date": "February 21, 2013",
+	"serial_number": "JNSP",
+	"synopsis": "NightSky is an action-puzzle game that offers an ambient gameplay experience unlike any other on Nintendo 3DS™ with cerebral challenges that fill uniquely designed picturesque worlds. Each of these worlds is broken into different areas in which the player must manoeuver a sphere by using realistic physics to advance. There are no enemies, no bosses, and no violence in NightSky. An intuitive experience is friendly for casual and mainstream gamers. NightSky also offers a formidable challenge for hardcore players, with an unlockable Alternative mode. The original soundtrack by experimental jazz musician Chris Schlarb will further heighten the surreal 3D experience."
+}

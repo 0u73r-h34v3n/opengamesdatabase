@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "S.C.A.T.",
+	"publishers": ["Natsume Inc."],
+	"release_date": "January 22, 2015",
+	"serial_number": "TD6E",
+	"synopsis": "In the year 2029, Supreme Commander Vile Malmort and his army land on Earth, setting in motion their plans for world domination. Humanity's last hope now resides in the hands of the Special Cybernetic Attack Team, or SCAT for short. Play as a male or female half-human and half-machine soldier, solo or with a friend. Blast and fly through relentless enemies and bosses while collecting power-ups that provide new weapons, speed boosts, and life recoveries. Your main objective is to send these alien invaders back home packing. Get ready, soldier. You're Earth's only hope."
+}

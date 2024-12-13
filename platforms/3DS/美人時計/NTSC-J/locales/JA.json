@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "美人時計",
+	"synopsis": "360人の女性が手書きボードで現在時刻をお知らせする時計です。 1分ごとに画像が切り替わり、毎時ちょうどを動画でお知らせします。 アラームやタイマーを設定したり、登録したお気に入りの画像や動画をいつでも見ることができます。"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Wario Land II",
+	"publishers": ["Nintendo"],
+	"release_date": "December 20, 2012",
+	"serial_number": "QAJE",
+	"synopsis": "Original Release Date: March 1999 What kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and the Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me! With lots of hidden treasures, bonus games, and multiple endings, we're in for our own voyage of discovery!"
+}

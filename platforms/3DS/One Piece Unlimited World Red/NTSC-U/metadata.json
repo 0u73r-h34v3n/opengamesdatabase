@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ganbarion"],
+	"genres": ["Action", "Adventure"],
+	"name": "One Piece: Unlimited World Red",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "July 8, 2014",
+	"serial_number": "BUWE",
+	"synopsis": "Set sail on a gripping adventure in the New World with the beloved Straw Hat Crew in ONE PIECE Unlimited World Red."
+}

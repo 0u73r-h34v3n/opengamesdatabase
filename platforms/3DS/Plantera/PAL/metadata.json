@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR"],
+	"name": "Plantera",
+	"publishers": ["Ratalaika Games"],
+	"release_date": "February 9, 2017",
+	"serial_number": "KL8P"
+}

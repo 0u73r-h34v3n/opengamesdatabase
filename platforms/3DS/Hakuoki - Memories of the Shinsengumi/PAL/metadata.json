@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hakuoki - Memories of the Shinsengumi",
+	"publishers": ["Rising Star Games"],
+	"release_date": "November 28, 2013",
+	"serial_number": "AH9P",
+	"synopsis": "Fixes an issue with Hakuoki Memories – game will no longer crash if the player has not created a save file prior to starting the additional content."
+}

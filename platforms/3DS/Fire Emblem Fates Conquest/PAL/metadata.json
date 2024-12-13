@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Role-Playing", "Strategy"],
+	"locales": ["ES"],
+	"name": "Fire Emblem Fates: Conquest",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 20, 2016",
+	"serial_number": "BFYP",
+	"synopsis": "Fire Emblem Fates comes in two versions, each with their own story to tell. Join Hoshido in Fire Emblem Fates: Birthright, or fight alongside Nohr in Fire Emblem Fates: Conquest. Choose to stay with the beloved Nohrian siblings you grew up with, though they're not related by birth. Can you and your royal siblings survive long enough to stop a war?"
+}

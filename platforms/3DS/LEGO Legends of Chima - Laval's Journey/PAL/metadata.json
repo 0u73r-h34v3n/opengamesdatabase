@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "LEGO Legends of Chima - Laval's Journey",
+	"publishers": ["WB Games"],
+	"release_date": "June 19, 2013",
+	"serial_number": "APRP",
+	"synopsis": "Minor game play tweaks and bug fixes"
+}

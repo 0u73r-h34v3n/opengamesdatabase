@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 CONCEPTIONⅡ",
+	"synopsis": "ニンテンドー3DSソフト『CONCEPTIONⅡ 七星の導きとマズルの悪夢』のゲーム難易度最適化に必要な更新データです。 『CONCEPTIONⅡ 七星の導きとマズルの悪夢』をお持ちのお客様は、必ずダウンロードください。 ※更新される内容は以下になります。 ･「果実系アイテム」の使用上限を調整 ･6章以降の敵のパラメーターと取得経験値を調整 ･「ハードレザー」の入手確率を調整 ･8章キズナイベントによるKP取得を可能に変更"
+}

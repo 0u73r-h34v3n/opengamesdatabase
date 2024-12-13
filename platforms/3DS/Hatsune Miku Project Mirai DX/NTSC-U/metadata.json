@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["SEGA"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hatsune Miku: Project Mirai DX",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "September 8, 2015",
+	"serial_number": "BRXE",
+	"synopsis": "Hatsune Miku: Project Mirai DX is a 3D rhythm action game starring the world’s most famous virtual singer Hatsune Miku. Project Mirai DX features 48 full length versions of fan-favorite songs with multiple play styles and game modes that people of any age or skill level can enjoy. Join the Miku phenomenon by expressing yourself through fun creative tools, sharing your cute customizations, and experiencing some of the best music from the world’s favorite digital diva!"
+}

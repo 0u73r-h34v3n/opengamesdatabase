@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man V",
+	"publishers": ["CAPCOM"],
+	"release_date": "May 22, 2014",
+	"serial_number": "RCGE",
+	"synopsis": "After another of Dr. Wily's failed attempts at world domination, peace reigns on Earth once more. Or so it would seem... During a peaceful stroll with his sister Roll, Mega Man is confronted by a powerful robot called Terra that drops from the sky! The enemy easily defeats Mega Man, then quickly dispatches an army of robots to conquer Earth. Waking up in Dr. Light's laboratory, Mega Man is given a new and powerful weapon to defeat the alien invasion--the Mega Arm. Now equipped to take down his enemies, Mega Man sets off to restore peace once. Use the aid of weapon upgrades and companion assists as you blast your way through waves of robotic foes, and solve the mystery behind this alien attack!"
+}

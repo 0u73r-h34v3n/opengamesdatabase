@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Swords & Soldiers 3D",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "May 16, 2013",
+	"serial_number": "JS2E",
+	"synopsis": "Prepare for an encounter with a freakishly large pepper: Swords & Soldiers 3D is coming your way! Rewrite history as you take control of the brutal Vikings, the devious Aztecs or the crafty Chinese in their global quest to win the favor of the Gods! Swords & Soldiers 3D is a side-scrolling strategy game that lets you control an entire army and lets you wield devastating magical abilities. Demolish your enemy’s castle at the end of these two-dimensional battlefields and lead your troops to victory! Features: Strategic fun like you’ve never seen before! Command Aztecs, Vikings and Chinese in 30 missions! Endlessly challenging single player skirmish battles! Earn tricky achievements!"
+}

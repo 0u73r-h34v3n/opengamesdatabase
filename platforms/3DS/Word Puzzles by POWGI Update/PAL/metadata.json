@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Word Puzzles by POWGI: Update",
+	"publishers": ["Lightwood Games"],
+	"release_date": "March 3, 2016",
+	"serial_number": "KWPP",
+	"synopsis": "This update fixes an issue that could result in an unsolvable puzzle if you scan an amiibo whose nickname contains certain letters with accents."
+}

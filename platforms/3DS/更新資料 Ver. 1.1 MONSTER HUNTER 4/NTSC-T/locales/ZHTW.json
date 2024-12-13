@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新資料 Ver. 1.1  MONSTER HUNTER 4",
+	"synopsis": "這是用於修正Nintendo 3DS軟件「MONSTER HUNTER 4」的非法公會任務的更新資料。 擁有「MONSTER HUNTER 4」的玩家請務必要下載。 2013年11月13日以後，只有完成更新的「MONSTER HUNTER 4」才可以進行「和遠方的人遊戲（網路通訊）」。 ※即使不進行更新也能使用「一人遊戲」與「和附近的人遊戲(鄰近主機通訊)」， 但在這種情況下，有可能會受到非法公會任務的影響。"
+}

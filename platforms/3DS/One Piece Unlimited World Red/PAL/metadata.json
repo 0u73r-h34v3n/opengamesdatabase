@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ganbarion Co.", "Ltd"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "One Piece Unlimited World Red",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 27, 2014",
+	"serial_number": "BUWP",
+	"synopsis": "Set sail for the New World and join the Straw Hat Pirates for a fun-filled, action-packed adventure! Encounter familiar enemies, master many moves and show off your skills at the Battle Coliseum in ONE PIECE Unlimited World Red on Nintendo 3DS and 2DS!"
+}

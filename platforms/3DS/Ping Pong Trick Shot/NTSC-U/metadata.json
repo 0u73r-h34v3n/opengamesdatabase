@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ping Pong Trick Shot",
+	"publishers": ["STARSIGN"],
+	"release_date": "September 1, 2016",
+	"serial_number": "KP9E",
+	"synopsis": "Test your ball throwing skills across a variety of challenges as you attempt to throw a ball into a cup on the other othe side of the screen. Use the Circle Pad or Stylus to fling a ball at just the right trajectory and power to make it land inside the cup. Use items such as warp holes, trampolines and moving platforms to overcome seemingly impossible levels. Challenge your throwing skills across four game modes: Score Attack, Mission Mode Challenge Mode and Time Attack. Score Attack Mode How many times out of 20 throws can you get the ball into the cup? Mission Mode Challenge yourself to five random stages with specific bounce criteria. Challenge Mode Can you complete all stages with 35 balls? Time Attack How many times can you throw the ball into the cup in one minute?"
+}

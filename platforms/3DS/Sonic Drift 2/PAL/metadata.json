@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic Drift 2",
+	"publishers": ["SEGA"],
+	"release_date": "July 4, 2013",
+	"serial_number": "GADP",
+	"synopsis": "Start your engines and prepare for the race of your life!Choose from seven of your favourite Sonic characters including Sonic, Knuckles and Dr. Eggman (AKA Dr. Robotnik) and race your way to the finish line. Use each racer’s special ability to gain an edge over the competition and win the fabled Chaos Emeralds! Race across 17 courses in the ultimate Chaos Grand Prix! Challenge a friend via local two-player multiplayer! Choose between seven classic Sonic characters including Sonic, Tails, Knuckles, Amy Rose and the nefarious Dr. Eggman!"
+}

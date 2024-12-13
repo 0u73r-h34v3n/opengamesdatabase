@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Johnny HotShot",
+	"publishers": ["UFO Interactive"],
+	"release_date": "November 8, 2012",
+	"serial_number": "JHHE",
+	"synopsis": "YEEEEEEE-HAAAAAAA! Johnny HotShot™ is an arcade action unlike any other! After being warped into the world of one of Johnny’s favorite arcade games, Cowboy Hotshot, Johnny must take on the role of sheriff and purge the town of the bandits led by Mr. Wang! Test your reaction skills in the Shooting Gallery, unleash justice upon bandits in the Saloon Shootout, and master the art of Lassoing bandits in Catch ‘Em All! Will Johnny every make it back to his own world? Why is Mr. Wang in the Cowboy Hotshot arcade machine? Do these questions even matter? Justice shall prevail!"
+}

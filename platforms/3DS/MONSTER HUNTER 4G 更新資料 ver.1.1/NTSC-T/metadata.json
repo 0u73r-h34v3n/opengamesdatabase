@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Action Rpg", "Role-Playing"],
+	"locales": ["ZHTW"],
+	"name": "MONSTER HUNTER 4G 更新資料 ver.1.1",
+	"publishers": ["Capcom Asia"],
+	"release_date": "November 26, 2014",
+	"serial_number": "BFGZ"
+}

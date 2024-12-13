@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Monster Hunter 4 Ultimate Special Demo",
+	"publishers": ["CAPCOM"],
+	"release_date": "February 5, 2015",
+	"serial_number": "KFGE",
+	"synopsis": "In Monster Hunter™ 4 Ultimate you'll embark on an epic journey, traveling across a vast world hunting larger than life beasts as you search for the source of a mysterious virus. Travel with a caravan of fellow hunters and merchants as you make your way across multiple locales, each with its own unique look and feel in the largest Monster Hunter™ ever! This grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Choose from 14 different weapon classes such as the Dual Blades or Gunlance, or try one of the new weapons classes, the agile Insect Glaive or the devastating Charge Blade. Craft hundreds of different armor sets, each with their own unique skills and stats as you become the ultimate hunter. But don't hunt alone! Form a party with up to three other friends locally or via the Nintendo Network to take on the fiercest foes together."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Binding of Isaac - Rebirth",
+	"publishers": ["Nicalis"],
+	"release_date": "July 23, 2015",
+	"serial_number": "CBRE",
+	"synopsis": "The Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey, players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets, and fight his way to safety. The Binding of Isaac: Rebirth is the ultimate of remakes with an all-new highly efficient game engine, all-new hand-drawn pixel style artwork, highly polished visual effects, all-new soundtrack and audio by Ridiculon, and hundreds upon hundreds of designs, redesigns and re-tuned enhancements by series creator, Edmund McMillen."
+}

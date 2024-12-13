@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "DodgeBox",
+	"synopsis": "Un divertido juego donde se utiliza la pantalla táctil para evitar la caída de las cajas! Se vuelve más difícil a medida que continúa!"
+}

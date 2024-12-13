@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ice Climber",
+	"publishers": ["Nintendo"],
+	"release_date": "May 2, 2013",
+	"serial_number": "TAMP",
+	"synopsis": "Conquer treacherous peaks, leap across icy chasms and swat snow-dwelling beasts – solo or with a friend – in this NES™ classic. Use your hammer to bash blocks and to defend yourself from the wildlife as you head towards the summit. Make it through all eight floors to reach the bonus stage and grab as many vegetables as you can before hitching a lift on a friendly condor. In two player mode, either work together to reach the mountaintop or compete to see who can get the glory first!"
+}

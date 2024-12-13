@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Metroid II - Return of Samus",
+	"publishers": ["Nintendo"],
+	"release_date": "November 24, 2011",
+	"serial_number": "RA4P",
+	"synopsis": "The Game Boy's exclusive chapter in the Metroid series sees Samus Aran on a mission to rid planet SR388 of the Metroid menace. Battle through a sprawling underworld, seeking out every last Metroid, and build up your arsenal by discovering mysterious artifacts. Enjoy new abilities like the Spider Ball, and powerful new weapons like the Plasma Beam, as you eradicate the Metroids once and for all."
+}

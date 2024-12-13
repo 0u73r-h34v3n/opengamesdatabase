@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Tecmo Bowl",
+	"synopsis": "Pon a prueba tus habilidades contra la consola u otro jugador en un partido de fútbol americano. Desde el momento del saque, ¡tú controlas cada pase, carrera y tacleada! El jugador puede elegir de entre 12 equipos. En la ofensiva, se puede elegir entre dos jugadas de pase y dos de carrera. La defensa consiste en intentar adivinar cuál jugada va a elegir el oponente y luego controlar a uno de los defensores antes del saque. Se usa un sencillo medidor de potencia para realizar las patadas de goles de campo, de puntos extra y de despeje."
+}

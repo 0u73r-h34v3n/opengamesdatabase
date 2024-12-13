@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Word Logic by POWGI",
+	"publishers": ["Lightwood Games"],
+	"release_date": "August 18, 2016",
+	"serial_number": "KWEP",
+	"synopsis": "Enjoy six brand new POWGI word puzzles with this bumper collection of games. This time, the games share a common theme of logic and deduction. Solve hundreds of pencil-and-paper style puzzles using the stylus and a choice of intuitive touch-screen controls or handwriting recognition. The puzzles included are: Kriss Kross The classic word-fit puzzle. Place words into the grid using their length as a guide, and using logic to make sure everything overlaps correctly! Ladders Make new words by changing one letter at a time. Can you turn one word into another in a limited number of steps? Crypto A cipher puzzle (also known as a cryptogram) which reveals a quote when you crack the code! Word Sudoku It's sudoku with words! Place nine letters according to usual sudoku rules. As an extra clue, one row or column will spell a word. Gaps Several words have one letter missing. Deduce the correct letter to fill in the gaps and spell a new word! Wordsweeper Drawing inspiration from Minesweeper, the clues tell you which letter can be placed in an adjacent square. It's a crossword-style puzzle solved using logic! POWGI puzzles are all expertly hand-crafted for your enjoyment and puzzling pleasure!"
+}

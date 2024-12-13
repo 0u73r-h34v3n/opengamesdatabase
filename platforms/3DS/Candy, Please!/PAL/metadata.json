@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Candy, Please!",
+	"publishers": ["Nostatic Software"],
+	"release_date": "January 26, 2017",
+	"serial_number": "KCUP",
+	"synopsis": "Ahh, Halloween - a time to dress up, carve pumpkins and amass glorious amounts of candy! In order to collect enough candy, once around the neighborhood just won't do - you are going to need several different costumes to pull it off. - Classic adventure game fun. - Explore a lighthearted, interactive world and solve puzzles. - Search your house and the neighborhood for what you need to make costumes. - Carve your own pumpkin. - Go trick-or-treating and collect that sweet, sweet candy. Let nothing stop you from getting your fair share - and more!"
+}

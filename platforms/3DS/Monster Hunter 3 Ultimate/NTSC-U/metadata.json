@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Monster Hunter 3 Ultimate",
+	"publishers": ["CAPCOM"],
+	"release_date": "March 19, 2013",
+	"serial_number": "AMHE",
+	"synopsis": "Discover the epic world of Monster Hunter as you journey through more than 200 exhilarating quests, battle larger-than-life monsters and create hundreds of weapons and armor. Don't hunt alone! Hunt with your two AI companions in single player quests or team up with up to 3 players via local connection. A fully customizable touch screen allows you to personalize your hunting experience and local Nintendo 3DS search feature allows you to find other hunters near your location. Nintendo StreetPass™ functionality gives you the ability to share you guild card with fellow hunters."
+}

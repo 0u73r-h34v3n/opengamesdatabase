@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.2 ダンボール戦機 爆ブースト",
+	"synopsis": "ニンテンドー3DSソフト『ダンボール戦機　爆ブースト』の更新データです。『ダンボール戦機 爆ブースト』をお持ちのお客様は、必ずダウンロードしてください。2周目以降のゲームプレイにおいて、アイテム画面に表示がない装備アイテムを外すと再度装備できなくなる不具合を改善します。"
+}

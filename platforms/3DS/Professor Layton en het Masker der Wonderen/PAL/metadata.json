@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["FR", "NL"],
+	"name": "Professor Layton en het Masker der Wonderen",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 26, 2012",
+	"serial_number": "AKKH",
+	"synopsis": "Naast 150 verse breinbrekers en een nieuwe serie minigames in de professors koffer, biedt Professor Layton en het Masker der Wonderen toegang tot 365 extra dagelijkse puzzels die worden verdeeld via het Nintendo Network. Dat is dus elke dag een nieuwe puzzel, tot een jaar na de lancering van het spel."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory"],
+	"genres": ["Platformer"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby: Triple Deluxe",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 2, 2014",
+	"serial_number": "BALE"
+}

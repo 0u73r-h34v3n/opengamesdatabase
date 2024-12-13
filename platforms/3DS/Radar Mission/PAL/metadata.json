@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Radar Mission",
+	"publishers": ["Nintendo"],
+	"release_date": "June 23, 2011",
+	"serial_number": "RAMP",
+	"synopsis": "The screen flickers to life in the dead of night... An intermittent beep-beep-beep pulses out of the speaker... Words on the screen spell out an urgent message from across the waves: \"ENEMY FLEET APPROACHING STOP DEPLOY IN ATTACK FORMATION STOP\" There's no time to lose. Steel your nerves and take command of a fleet of warships and engage an enemy fleet in battle, trying to sink their ships. Battles can be either fought using radar in Game A or controlling a submarine in Game B. This version of the game does not have multiplayer functionality."
+}

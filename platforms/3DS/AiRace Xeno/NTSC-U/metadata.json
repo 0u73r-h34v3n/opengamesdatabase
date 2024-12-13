@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "AiRace Xeno",
+	"publishers": ["QubicGames"],
+	"release_date": "June 12, 2014",
+	"serial_number": "JYSE",
+	"synopsis": "After the success of its predecessors, AiRace Xeno brings back the speed and adrenaline to your Nintendo 3DS™! Take the challenge and pilot the most advanced and powerful jets as you compete to beat your best time. Race on stunning high-speed tracks featuring extremlely difficult tunnels, spectacular halls and hidden shortcuts. Take speed to a whole new level and enjoy a frantic new gaming experience: Take the challenge - fly extreme speeds across 9 adrenaline-fueled tracks Stunning environments packed with challenging obstacles, tunnels, shortcuts and more Take control of one of 3 high-speed, futuristic jets powered with advanced technology High-performance graphics and immersive 3D effects that put you in the middle of the action Compete against fellow competitors around the world in online leaderboards Fantastic replay value with special achievements to be unlocked"
+}

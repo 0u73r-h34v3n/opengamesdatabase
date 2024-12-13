@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Drawing", "Software"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Nintendo Letter Box",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 22, 2011",
+	"serial_number": "JFRP",
+	"synopsis": "Share messages and more with your friends in a fun, new way with Nintendo Letter Box. This free software allows you to send and receive messages via StreetPass. Write a greeting or make a drawing, in 2D or 3D, and your friends will see the message animate as if it is being re-created before their eyes! You can also share photos and sound effects from your Nintendo 3DS, and you can even use Play Coins to unlock new stationery designs."
+}

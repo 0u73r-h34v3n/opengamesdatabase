@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GIANTS Software"],
+	"genres": ["Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Farming Simulator 18",
+	"publishers": ["Focus Home Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 6, 2017",
+	"serial_number": "A8FP",
+	"synopsis": "Become a modern farmer in Farming Simulator 18! Plant, harvest, and trade in crops, including for the first time sunflowers. Diversify your activity with animal husbandry and forestry. Develop and expand your very own farm... wherever you go! • More than 50 farming vehicles including AGCO brands • Breed and transport animals: cows, sheep, and for the first time, pigs • Plant crops, sell the product of your labor, and invest your profits! • Develop your farm in a new American environment"
+}

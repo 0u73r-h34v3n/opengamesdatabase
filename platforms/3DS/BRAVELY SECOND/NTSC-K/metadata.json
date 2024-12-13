@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Silicon Studio"],
+	"genres": ["Action Rpg", "Role-Playing"],
+	"locales": ["KO"],
+	"name": "BRAVELY SECOND",
+	"publishers": ["Nintendo"],
+	"release_date": "March 10, 2016",
+	"serial_number": "BSEK"
+}

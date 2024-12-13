@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Steamworld Dig",
+	"publishers": ["Image & Form"],
+	"release_date": "August 8, 2013",
+	"serial_number": "JSTE",
+	"synopsis": "10/10 - \"...an utterly phenomenal video game.\" - PocketGamer.co.uk 9/10 - \"A totally unexpected love letter to bold concepts.\" - NintendoWorldReport.com 9/10 - \"...super-fun, addictive and inspired gameified manual labour...\" - GamesBlip.com SteamWorld Dig is a platform mining adventure. Take the role as Rusty, a lone mining steambot, as he arrives to an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below... Carve a path through the earth, and explore a deep underground world full of secrets, treasure and terrors. Uncover the remnants of Human civilization, a degenerate race of dynamite-wielding troglodytes. Meet the weird and interesting townsfolk of Tumbleton and help the community get back on its feet. Beautiful, high-res graphics with dynamic lights and multiple parallaxed background layers."
+}

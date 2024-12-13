@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ice Station Z",
+	"publishers": ["Wobbly Tooth"],
+	"release_date": "November 3, 2016",
+	"serial_number": "KZSP",
+	"synopsis": "MULTIPLAYER OPEN WORLD ZOMBIE SURVIVAL for Nintendo 3DS™ After a strange virus spreads across an Arctic island you are left alone to survive. Scavenge for food, drink, medical supplies, weapons, ammunition, clothes, fuel and other useful equipment. Find shelters, vehicles and other interesting locations to help you survive during day and night. Features Single Player, Local Play and Internet Multiplayer (Worldwide with anyone plus Game Chat). Go scavenging, fishing and hunting with friends or alone, it's up to you how you survive."
+}

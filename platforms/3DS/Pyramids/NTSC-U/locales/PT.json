@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pyramids",
+	"synopsis": "Pyramids é um jogo de puzzle/plataforma em que o explorador tenta sair da pirâmide com seu tesouro. Esta tarefa não será fácil. Há muitas armadilhas, monstros e perigos que desafiarão sua destreza e talento. O jogador tem que usar TNT e uma arma, mas seu melhor amigo é uma pá que permite construir e destruir tijolos. Estes tijolos são usados como escadas, pontes , proteções... O explorador poderá se aventurar ao longo de 54 desafiadores níveis em 3D divididos em 6 mundos. No fim de cada nível, o jogador obterá uma classifcação em estrelas que servirá para desbloquear mais níveis: 1 estrela por acar o nível 2 estrelas por acabar o nível e ficar com todo o tesouro 3 estrelas por acabar o nível e ficar com todo o tesouro dentro do tempo limite O jogo permite usar o QR Code para desbloquear novos níveis colocados na página da Web do Pyramids."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "TABLE TENNIS INFINITY",
+	"publishers": ["RCMADIAX"],
+	"release_date": "July 6, 2017",
+	"serial_number": "CADP",
+	"synopsis": "Take the excitement of a PING PONG table on the go with TABLE TENNIS INFINITY! In this exciting portable version, move your paddle with the touch screen to hit the balls. The speed increases as your score goes up - endless fun for everyone!"
+}

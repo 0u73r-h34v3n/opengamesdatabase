@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Witch & Hero 3",
+	"synopsis": "Witch and Hero 3 est un jeu d'action où vous contrôlez en même temps la Sorcière, le Héros et le Petit Héros. Les deux héros sont physiquement forts et continueront à se battre, peu importe combien de fois ils sont battus. La Sorcière, cependant, est vulnérable, et encore plus faible sous forme de pierre ; si elle meurt, le jeu est terminé. Lorsque les Héros protègent la Sorcière et se battent, ils peuvent recueillir le sang des monstres vaincus. Quand le pouvoir magique de la Sorcière est à son maximum, elle peut être guérie en prenant temporairement la forme d'une pierre et utiliser la magie pour se défendre contre les ennemis. Terminez les niveaux en battant les Boss et prenez votre revanche sur le Démon final."
+}

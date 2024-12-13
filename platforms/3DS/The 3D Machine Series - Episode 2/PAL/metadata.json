@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The 3D Machine Series - Episode 2",
+	"publishers": ["Ka-Ching Cartoons"],
+	"release_date": "December 6, 2012",
+	"serial_number": "MA9P",
+	"synopsis": "Igor has been abducted by brain-eating aliens! The professor tries to save his assistant, but this attempt leads them to an even more frightening foe. Can Igor and the professor survive this deep space adventure? Length 2:30 min"
+}

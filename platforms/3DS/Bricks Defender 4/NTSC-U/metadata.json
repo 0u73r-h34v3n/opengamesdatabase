@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bricks Defender  4",
+	"publishers": ["nuGAME"],
+	"release_date": "February 4, 2021",
+	"serial_number": "A91E",
+	"synopsis": "Bricks Defender is a brick breaker game where you will face off against the computer opponent through 15 exciting levels. Do your best to defend your own blocks while at the same time aiming to destroy the blocks of the computer opponent."
+}

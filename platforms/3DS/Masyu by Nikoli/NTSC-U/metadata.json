@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hamster"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Masyu by Nikoli",
+	"publishers": ["HAMSTER"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 19, 2012",
+	"serial_number": "JM9E",
+	"synopsis": "With the Nikoli puzzle series, you can enjoy high-quality \"Masyu\" puzzles, created by Nikoli, who gave the world-famous puzzle \"Sudoku\" name. The Nintendo 3DS allows for the realization of simple and easy to play operability. \"Masyu by Nikoli\" contains 50 sudoku puzzles. \"Masyu\" is a puzzle in which you draw a line through the spaces according to the rules. Learn the attributes of the black and white circles and you'll be able to play in no time. The patterns through which lines can be drawn are more numerous than you can imagine, and discovering tactical moves is also fun. To ensure your long-term enjoyment, we're prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Masyu\" game."
+}

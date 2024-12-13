@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mutant Mudds",
+	"publishers": ["Atooi"],
+	"release_date": "June 21, 2012",
+	"serial_number": "JMDP",
+	"synopsis": "NEW! Now featuring 20 FREE BONUS LEVELS. This brings the total level count to 80!! Love pixels? Fond of platformers? Is there a special place in your heart for the 8-bit and 16-bit era? Want to have fun? Yes!? Well, you’ve come to the right place, my friend. Mutant Mudds is a “12-bit” action platformer full of pixels and platforming fun! Our hero, Max, may be just a 2D sprite, but he can leap into the third dimension by jetting between the background and the foreground playfields with his trusty jetpack in this unique dimensionally-woven experience. Armed with a heavy-duty water cannon, Max has what he needs to vanquish his long-term nemeses: the Mutant Mudds. Max must blast and hover his way across the soiled landscape to seek out mysterious Water Sprites. Legend says collecting all of the mysterious Water Sprites will wash the filthy Mutant Mudds away for good!"
+}

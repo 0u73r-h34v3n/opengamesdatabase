@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Classics Urban Champion",
+	"publishers": ["Nintendo"],
+	"release_date": "August 18, 2011",
+	"serial_number": "SADP",
+	"synopsis": "Enjoy classic games in a new dimension with the 3D Classics range, remastered with immersive 3D visuals! In 3D Classics Urban Champion, prove you're the toughest guy on the streets. Block, punch and dodge your way through opponents to force them back - and down the open manholes! Plus you'll have to contend with angry neighbours dropping flower pots and avoid the attentions of the police, too. Battle solo against computer controlled foes or face off against a friend via Nintendo 3DS Local Play."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ZeptoLab"],
+	"genres": ["Compilation", "Puzzle", "Strategy"],
+	"locales": ["ES"],
+	"name": "Cut the Rope®: Triple Treat",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 28, 2014",
+	"serial_number": "BR3P",
+	"synopsis": "‘Green and greedy’ is the best way to sum up Om Nom®, a little monster who adores sweets, and it’s your job to keep him fed in Cut the Rope®: Triple Treat, available for Nintendo 3DS. This three-in-one compilation comprises the original hit, Cut the Rope, along with its sequels, Cut the Rope: Experiments and Cut the Rope: Time Travel. Across more than 650 levels, you’re faced with the task of landing a sugary treat into Om Nom’s mouth by cutting increasingly elaborate rope arrays. You’ll need to plan your approach, and ensure good timing to get the elusive sweetie down to Om Nom so he can scoff it. As the difficulty rises, and the puzzles get more and more fiendish, you’ll need to utilise floating bubbles, steam valves and teleporting portals in order to keep the little monster full."
+}

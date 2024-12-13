@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Splash or Crash",
+	"publishers": ["Nintendo"],
+	"release_date": "February 28, 2013",
+	"serial_number": "JHSP",
+	"synopsis": "You know how it goes: drop a stone into a well, and wait for the satisfying splash. But did you ever consider the stone’s story? In Splash or Crash you play as the stone; or iron ball, jewel and yet more items bizarrely discarded into the abyss. Each item has different speed and durability. Your task is to guide its descent, avoid obstacles and stay in one piece until splashdown. Progress to unlock more items and new, tougher wells. You can also swap high scores with other players via StreetPass™."
+}

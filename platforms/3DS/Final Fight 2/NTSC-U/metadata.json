@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Final Fight 2",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 8, 2016",
+	"serial_number": "UA6E",
+	"synopsis": "The Mad Gear Gang has returned, and they’re out for revenge! They've kidnapped Guy's master, Genryusai, and his daughter, Rena, who is also Guy's fiancée. Join Haggar and newcomers Maki and Carlos to take down the Mad Gear Gang once and for all! Take control of any of the three heroes and make use of their unique abilities in a fast-paced adventure which will take you to all locations of the globe. And you're not alone, either - you can also have a friend join the fight to bring an end to the Mad Gear Gang! This is the US version of the game."
+}

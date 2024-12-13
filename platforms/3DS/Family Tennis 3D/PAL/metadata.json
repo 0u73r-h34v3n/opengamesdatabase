@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Family Tennis 3D",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "March 7, 2013",
+	"serial_number": "JK3P",
+	"synopsis": "The Family series comes to Nintendo 3DS™ with a casual tennis game! New characters join in to bring the number of playable characters to eight and there are six different courts, all exploding with variety. With the addition of Easy Mode, absolutely anyone can play with the press of a button and look great while doing it. Start with the Tournament to unlock everything in the gallery, then why not try the minigames: Roulette Rally, Human Backboard, and Survivor?"
+}

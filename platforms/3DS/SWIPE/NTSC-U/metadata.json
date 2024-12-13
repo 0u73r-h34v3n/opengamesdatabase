@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "SWIPE",
+	"publishers": ["RCMADIAX"],
+	"release_date": "July 27, 2017",
+	"serial_number": "CACE",
+	"synopsis": "It's time to SWIPE! Move up, down, left and right to avoid the oncoming black dots. Collect as many crystals as you can to get the high score! Share your score with family and friends to see who can get the highest score - endless fun for everyone!"
+}

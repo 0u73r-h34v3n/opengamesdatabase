@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Theatrhythm Final Fantasy - Curtain Call",
+	"publishers": ["Inc.", "Square Enix"],
+	"release_date": "September 16, 2014",
+	"serial_number": "BTHE",
+	"synopsis": "Offers in-game purchases Tap Into a Timeless Legacy of Music! A sequel to the first FINAL FANTASY rhythm action game, THEATRHYTHM FINAL FANTASY CURTAIN CALL™ expands on the original in every way with new gameplay modes, 221 songs, and over 60 playable characters. Featuring music that spans the full breadth of the storied FINAL FANTASY franchise, players tap along to the memorable beats and harmonies as the adorable, stylized characters battle and quest through their worlds. The music of over 20 titles is brought together in one package, fusing together the moving scores, cinematic visuals, and role-playing elements the series is known for."
+}

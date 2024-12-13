@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Avanquest Software", "GSP"],
+	"genres": ["Action", "Platformer"],
+	"name": "Doodle Jump Adventures",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 15, 2013",
+	"serial_number": "AEGP",
+	"synopsis": "How high can you jump? Take the \"adventure of a lifetime\" with Doodle Jump Adventures on the Nintendo 3DS with exclusive new content."
+}

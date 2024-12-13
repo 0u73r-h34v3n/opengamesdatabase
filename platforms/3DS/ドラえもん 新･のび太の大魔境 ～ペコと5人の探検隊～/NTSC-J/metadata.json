@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ドラえもん 新･のび太の大魔境 ～ペコと5人の探検隊～",
+	"publishers": ["フリュー"],
+	"release_date": "March 6, 2014",
+	"serial_number": "BNMJ"
+}

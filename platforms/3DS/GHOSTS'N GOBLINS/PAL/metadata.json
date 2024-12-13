@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "GHOSTS'N GOBLINS",
+	"publishers": ["CAPCOM"],
+	"release_date": "January 3, 2013",
+	"serial_number": "TA4P",
+	"synopsis": "Renowned as one of the most challenging platform games of all time, Ghosts'n Goblins pits brave knight, Arthur on a hair-raising journey to rescue his beloved princess from her supernatural captors. Arm yourself with weapons like the Javelin, Dagger or Axe, and battle your way through six monster-infested stages until the final confrontation with the Devil himself! But beware the Devil's tricks. The princess may be further than you think..."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Demon's Crest",
+	"publishers": ["CAPCOM"],
+	"release_date": "December 15, 2016",
+	"serial_number": "UBHE",
+	"synopsis": "From a lowly enemy in the Ghosts ‘n Goblins series, to spin-off Gargoyle’s Quest, Firebrand the demon now finds himself fighting to restore peace in the demon realm. Firebrand must recover the six stones of the powerful Demon’s Crest before they fall into the claws of his nemesis Phalanx. As well as being able to breath fire and fly, Firebrand can transform into six unique guises with special abilities that will prove invaluable to his quest. With three different endings to discover, can you save the realms from total anarchy? This is the US version of the game."
+}

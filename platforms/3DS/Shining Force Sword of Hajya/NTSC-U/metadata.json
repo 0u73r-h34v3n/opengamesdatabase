@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Shining Force: Sword of Hajya",
+	"publishers": ["SEGA"],
+	"release_date": "June 13, 2013",
+	"serial_number": "GASE",
+	"synopsis": "The peaceful Kingdom of Cypress has been disrupted by the corrupt ambition of the evil King Iom. Terror rampages across the land as the Castle of Cypress is invaded and the magical Sword of Hajya is taken! It will take strength, courage, agility, and your keen sense of strategy to defy this ominous power and bring peace back to the land. Features: An intense Role-Playing Game with a unique twist of action, adventure and strategy! Choose from 18 unique characters including Warriors, Mages, Healers, Archers, Birdmen, and Centaurs. Command any 12 at one time to fight against darkness!"
+}

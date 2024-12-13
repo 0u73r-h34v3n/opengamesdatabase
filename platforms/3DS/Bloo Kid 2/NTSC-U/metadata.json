@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bloo Kid 2",
+	"publishers": ["winterworks"],
+	"release_date": "May 7, 2015",
+	"serial_number": "KBKE",
+	"synopsis": "Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack. Run, jump and swim your way through FIVE huge worlds with nine levels each. Master brutal bossfights and discover lots of secrets in the world of Bloo Kid 2. After rescuing his girlfriend from the hands of the evil wizard, Bloo Kid and Pink Girl enjoy life with their newborn \"Pink Kid\". But then, a whole new adventure starts just out of the bloo... Bloo Kid 2 features: five worlds with nine levels each handcrafted, colorful pixel-graphics a full chiptune soundtrack epic boss battles tons of secrets"
+}

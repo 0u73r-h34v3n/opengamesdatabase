@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bit Dungeon Plus",
+	"publishers": ["Dolores Ent."],
+	"release_date": "July 13, 2017",
+	"serial_number": "KBYE",
+	"synopsis": "Bit Dungeon+ is an action roguelike endless adventure. You and your loved one were captured by demons! You have been trapped in a dungeon for a thousand years asleep... You wake up trapped in cell, grab your weapon and let the quest to find her soul begin! Just like the classic quarter crunchers of old, if you die you lose everything and start all over. Can you make it to the end and save the day? Features: Large procedural dungeon generation, every time you play is different Randomly generated items Save slots Massive Bosses Unlockables Multiple endings"
+}

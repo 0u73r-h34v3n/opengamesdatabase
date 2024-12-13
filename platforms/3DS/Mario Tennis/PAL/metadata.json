@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Tennis",
+	"publishers": ["Nintendo"],
+	"release_date": "January 2, 2014",
+	"serial_number": "QAWP",
+	"synopsis": "The Game Boy™ Color version of Mario Tennis is a winning mix of court action and RPG. Train your character from novice to pro as you rise through the ranks of the Royal Tennis Academy, before taking on the champion himself: Mario! Build up your skills in Mario Tour career mode, jump right into the action with exhibition matches and relax with minigames while playing as Luigi, Donkey Kong and more. There is even a dictionary to help you brush up on your tennis terminology!"
+}

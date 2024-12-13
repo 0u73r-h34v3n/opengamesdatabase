@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Destronaut 3D",
+	"publishers": ["Petite Games"],
+	"release_date": "March 30, 2017",
+	"serial_number": "CD3P",
+	"synopsis": "Fight against waves of invaders in this arcade space shooter and collect power-ups to increase your fire power. Try to beat your high-score in Classic or Time Attack mode. If you like classic arcade shooters then you will love Super Destronaut 3D."
+}

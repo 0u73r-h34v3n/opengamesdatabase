@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rainbow Snake",
+	"publishers": ["Vadim Gafton"],
+	"release_date": "May 10, 2018",
+	"serial_number": "LRSP",
+	"synopsis": "Rainbow Snake Is A Beautiful Classic Game. Eating Food, Snake Painted In Different Colors. Collect a colorful snake and avoid the green walls. Over time, the snake is gaining speed! - Simple Game Mechanics - You can die when you hit the wall and you can't eat yourself - The snake is gaining speed, be more careful"
+}

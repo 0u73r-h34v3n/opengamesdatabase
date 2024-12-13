@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GIANTS Software"],
+	"genres": ["Simulation"],
+	"name": "Farming Simulator 14",
+	"publishers": ["Focus Home Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 5, 2014",
+	"serial_number": "BFSP",
+	"synopsis": "Don't leave your farm unattended at any time thanks to the portable version of Farming Simulator and manage all the needs of your property at any time and place to make it stand out and become a successful business."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"name": "Yo-Kai Watch 3",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 12, 2019",
+	"serial_number": "ALZS",
+	"synopsis": "Get ready for a tale of two heroes in two cities in YO-KAI WATCH™ 3, only for Nintendo 3DS family systems. Join Nate as he adapts to life in the strange new town of St. Peanutsburg, and help Hailey Anne – Springdale’s newest hero – open up her very own Yo-kai Detective Agency in a hemisphere-spanning adventure! Switch between two wacky stories, battle all-new bosses, befriend over 600 Yo-kai, and master a fresh grid-based battle system in the biggest Yo-kai adventure yet!"
+}

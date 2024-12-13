@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Paper Mario: Sticker Star",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 11, 2012",
+	"serial_number": "AG5E",
+	"synopsis": "When an accident scatters stickers across the land, Mario™ sets off on an adventure to repair a torn world. Searching Forests, Deserts and Mountains, Mario collects stickers to solve puzzles and battle monsters. In a first for the series, there are no experience points, so finding power-ups to improve Mario’s abilities is more important than ever. Mixing sticker-based gameplay elements with the traditional action-battle system of the Paper Mario™ series delivers a new twist on a classic franchise. Flatten-out characters, roll out towns, and walk through living, breathing dioramas in a brand-new Paper Mario adventure on the Nintendo 3DS™ system!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fish On 3D",
+	"publishers": ["Agetec"],
+	"release_date": "August 22, 2013",
+	"serial_number": "AFAP",
+	"synopsis": "FISH ON 3D features a variety of game modes appealing to those who enjoy either a realistic fishing simulation or an arcade style experience. Earn Titles, Lures and increase your score by accomplishments achieved during the game. Tournament Mode is the main game mode that features three tournament classes: Amateur, Professional and Masters. Each tournament class has five different cups (Iron, Bronze, Silver, Gold and Platinum). A cup can be comprised of either a single stage or multiple. Challenge Mode is perfect for a quick game. There are three courses (Beginner, Standard and Expert), each with three stages. Stages have a set time limit and weight quota. Catch the big fish hidden in each stage to earn a star. Collect three stars to unlock the next course. Use the Nintendo 3DS gyro sensor to experience the beauty of the 3D underwater scenery in the Exploration Mode. Taking advantage of the portability of Nintendo 3DS, players can exchange lures and share their fishing information with other players via StreetPass. Features: - 10 unique locations. - 400 lures to collect. - 75 different Titles. - Tutorial and Training Modes."
+}

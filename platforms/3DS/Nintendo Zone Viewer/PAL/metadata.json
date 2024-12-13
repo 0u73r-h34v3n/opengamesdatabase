@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Denyu-sha", "Nintendo"],
+	"genres": ["Multimedia", "Software"],
+	"locales": ["ES"],
+	"name": "Nintendo Zone Viewer",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 25, 2012",
+	"serial_number": "HMAP",
+	"synopsis": "Bring your Nintendo 3DS System to any of over 29,000 locations to receive an automatic and free connection Wi-Fi. Once connected, discover Nintendo Zone: watch game previews, 3D videos and full length animations, play demos and trivia challenges, find retailer promotions and coupons - and much more! To get started, tap the blinking Nintendo Zone icon on the HOME Menu of your Nintendo 3DS system."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Alleyway",
+	"publishers": ["Nintendo"],
+	"release_date": "June 7, 2011",
+	"serial_number": "RACP",
+	"synopsis": "Originally released at the launch of the Game Boy, Alleyway is a fondly remembered update to the classic ‘bat and ball’ style of games. The aim is simple: survive and rack up a huge high score! Take control of the paddle and deflect the ball to break the blocks, but don’t let it drop. Break all the blocks to move onto the next of 32 challenging stages. It starts out simple but later levels introduce walls of blocks that move horizontally or vertically. You can also enjoy bonus stages where the aim is to break as many blocks as possible within the time limit."
+}

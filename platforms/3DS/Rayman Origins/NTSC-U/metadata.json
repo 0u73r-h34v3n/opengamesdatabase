@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rayman Origins",
+	"publishers": ["Ubisoft"],
+	"release_date": "March 14, 2013",
+	"serial_number": "ARME",
+	"synopsis": "A Massive World: Rayman Origins includes over 60 levels of 2D platforming gameplay. Epic Boss Fights: A giant pink monster with hundreds of eyes. A possessed, mountainous golem...and more! Variety of Gameplay: Rayman Origins is a platformer at its core but also features many elements of action, adventure, shooter and beat-’em-up gameplay. StreetPass Functionality: Taking advantage of StreetPass, you can share your progression, number of collectibles, time played, unlocked achievements, and avatar with others. Unique Approach, Unique Game: Rayman Origins was created by Michel Ancel with a small team of artists and developers to produce not only high-quality graphics and gameplay, but a creative and unique experience. Rebirth of a Platforming Legend: It’s been 15 years since the first launch of Rayman. Rayman Origins brings back many of the classic characters, revived in their original 2D form, as well as a whole new world of characters and environments."
+}

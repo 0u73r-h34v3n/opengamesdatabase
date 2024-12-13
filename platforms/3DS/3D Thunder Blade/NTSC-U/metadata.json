@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Thunder Blade",
+	"publishers": ["SEGA USA"],
+	"release_date": "May 14, 2015",
+	"serial_number": "JT7E",
+	"synopsis": "3D Thunder Blade is a recreation of a one-of-a-kind combat originally released in 1987, re-mastered for the Nintendo 3DS™ hand-held system. In 3D Thunder Blade, players control a helicopter and use guns and missiles to destroy enemy vehicles while flying between buildings, through caves, and into enemy bases. The re-mastered version boasts stereoscopic 3D visuals and adds a host of new features. Some of the additional features include: gyro controls, adjustable difficulty settings, Circle Pad Pro support, and a load of options that recreate the look and feel of the original arcade machine. Replay saving and stage select are also available! 3D Thunder Blade also introduces brand new remixes of the original in-game music that can be toggled ‘on’ and ‘off’ and an unlockable Special Mode with updated gameplay, new enemies, and a more powerful fighter."
+}

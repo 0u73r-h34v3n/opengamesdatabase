@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Harold's Walk",
+	"publishers": ["Luke Vincent"],
+	"release_date": "October 28, 2021",
+	"serial_number": "CE7P",
+	"synopsis": "Explore 3D worlds and discover all the secret objects in Harold's Walk. Master the use of your special abilities to reach new areas."
+}

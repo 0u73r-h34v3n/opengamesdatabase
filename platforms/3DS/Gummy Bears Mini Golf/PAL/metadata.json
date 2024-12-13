@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gummy Bears Mini Golf",
+	"publishers": ["PT Consulting"],
+	"release_date": "October 24, 2013",
+	"serial_number": "AQMP",
+	"synopsis": "Gummy Bear Mini Golf is an entertaining 3D mini golf game which immerses everyone into the world of crazy golf. This party style game is ideal for all age groups and can be played up to 4 players simultaneously. The simple tap and flick interface is ideal for all level of gamers, so whether you are a professional golfer or just an amateur, this game is for you! Each of the 30+ custom holes is located in their own unique fun theme with a total of four 9 hole courses to conquer plus 20 achievements to earn for upgrading you with rewards such as merchandise, personalised golf balls, clubs, clothing and much more Fun, lovable party game based on mini crazy golf 4 themed environments 30+ bespoke holes across 4 courses Choose from 5 distinct games including league and tournament modes Multiplayer hot seat mode allowing up to 4 players to compete simultaneously CPU opponents 20 achievements to earn and upgrade Additional game content to unlock and use"
+}

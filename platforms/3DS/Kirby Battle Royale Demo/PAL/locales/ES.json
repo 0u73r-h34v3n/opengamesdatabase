@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Kirby Battle Royale Demo",
+	"synopsis": "Kirby está a punto de participar en un torneo en el que se verá las caras con su rival más temible hasta la fecha: ¡él mismo! Hasta cuatro jugadores podrán enfrentarse en combates de lo más diversos, ¡pero solo un Kirby quedará en pie! En esta versión de prueba podrás disputar tres tipos de combates diferentes y usar tres habilidades distintas tanto en modo individual como en multijugador. ¡El modo de juego local y el modo descarga también están disponibles para que te puedas medir a tus amigos!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gargoyle's Quest",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 25, 2011",
+	"serial_number": "RAXP",
+	"synopsis": "The fascinating epic adventure from the Game Boy era makes a comeback on the Nintendo 3DS! You are the Gargoyle Firebrand, the proud guardian of the Ghoul Realm. The Destroyers have returned to wipe our your planet… and they take no prisoners! Use your breath of fire and your flying ability to combat the enemy. Fight heroically, and you'll recover stolen magic items that will strengthen you for your many battles."
+}

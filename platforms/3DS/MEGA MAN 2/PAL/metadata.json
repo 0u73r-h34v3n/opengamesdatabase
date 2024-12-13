@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "MEGA MAN 2",
+	"publishers": ["CAPCOM"],
+	"release_date": "February 7, 2013",
+	"serial_number": "TA5P",
+	"synopsis": "Regarded as one of the greatest action games of all time, Mega Man 2 improves upon its already superb predecessor. With even more stages and Robot Masters, its sheer size and scope are enough to get gamers' hearts palpitating. The year is 200X. Dr. Light’s super-robot, Mega Man, has succeeded in defeating the nefarious Dr. Wily and peace reigns over the planet. However, Dr. Wily returns with a new army of Robot Masters to challenge our hero. Can Mega Man save the world again?"
+}

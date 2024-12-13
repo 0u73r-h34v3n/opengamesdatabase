@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mom Hid My Game!",
+	"publishers": ["KEMCO"],
+	"release_date": "December 21, 2017",
+	"serial_number": "CBMP",
+	"synopsis": "Let's find the game console Mom hid! Is it inside the chest or on the shelf? Could it be under the sofa, too? Where is it!? Find the 'game' in each level using various items! An easy-going and funny escape game awaits!"
+}

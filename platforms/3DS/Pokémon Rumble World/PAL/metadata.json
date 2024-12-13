@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ambrella", "The Pokémon Company"],
+	"genres": ["Action"],
+	"locales": ["ES"],
+	"name": "Pokémon Rumble World",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 22, 2015",
+	"serial_number": "ECFP",
+	"synopsis": "Wind up for an exciting adventure with Toy Pokémon in Pokémon Rumble World, available for Nintendo 3DS family systems. In this action-packed title, battle through a variety of environments to collect more than 700 Toy Pokémon, and explore the kingdom of toys as your Mii!"
+}

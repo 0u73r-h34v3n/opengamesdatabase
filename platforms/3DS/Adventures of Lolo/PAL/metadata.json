@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Adventures of Lolo",
+	"publishers": ["HAL Laboratory", "Inc."],
+	"release_date": "October 16, 2014",
+	"serial_number": "TD3P",
+	"synopsis": "When Princess Lala is kidnapped, Prince Lolo sets off to the rescue. Use your mind and wits to brave a trap-laden castle and rescue Lala! Adventures of Lolo features 50 cunningly designed puzzle rooms. Collect all the heart framers to open the treasure chest in each room. However, monsters are out to stop you, and obstacles block your progress. By collecting certain heart framers you can earn magic shots that turn enemies into eggs to use as rafts. But beware: enemies won’t stay in their shells for long!"
+}

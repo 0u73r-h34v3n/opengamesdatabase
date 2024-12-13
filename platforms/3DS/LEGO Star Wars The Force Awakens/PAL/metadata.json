@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["FR", "NL", "PT"],
+	"name": "LEGO Star Wars: The Force Awakens",
+	"publishers": ["WB Games"],
+	"release_date": "June 28, 2016",
+	"serial_number": "BLWP",
+	"synopsis": "Patch which will take LEGO STAR WARS: The Force Awakens to v1.1.0 and contains a number of fixes throughout the game. • Fixed a crash on the character customizer due to a memory leak. • Fixed a crash that could potentially occur when opening the Galaxy Map • Fixed an issue that could prevent the user from continuing play if they paused the game immediately after exiting from a freeplay mission. • Several rare memory crashes throughout the game addressed. • Fixed being unable to use the touch screen to change vehicles in flight sections. • Fixed an issue that could occur when rapidly swapping character that caused the “MISSING STRING” text to occur. • Updated credits."
+}

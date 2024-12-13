@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Thorium Wars - Attack of the Skyfighter",
+	"publishers": ["Big John Games"],
+	"release_date": "August 28, 2014",
+	"serial_number": "JTZE",
+	"synopsis": "Humanity thought that its victory in the war with the Thorions, a race of fearless war machines run amok, would restore peace to the Earth. But a generation later, humanity's worst fear is realized: the Thorions have returned, seeking revenge and aiming to wipe out the human race in a quest to dominate the galaxy. It's up to you to go on the attack against the Thorions and defeat them in battle once more. Pilot your choice of three Skyfighters across alien worlds to protect human colonies and destroy Thorion forces. Blast away at hulking mechs, menacing gun turrets, and swarming drones. Push your dogfighting skills to their limits against adept Thorion Skyfighters."
+}

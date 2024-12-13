@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Picdun 2 - Witch's Curse",
+	"publishers": ["INTENSE"],
+	"release_date": "May 2, 2013",
+	"serial_number": "JPDP",
+	"synopsis": "In the new Picdun, take on 60 dungeon levels with a young lady as your partner--an Archer, Whipper or Spellcaster. Cover all tiles on a floor to reveal the hidden picture. Battle dynamic, powerful enemies! You're cursed and can't attack, so protect your partner with a shield and guide her attacks. Uncover the mystery of the Witch's Curse!"
+}

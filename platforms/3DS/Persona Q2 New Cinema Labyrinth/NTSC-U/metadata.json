@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["P-Studio"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Persona Q2: New Cinema Labyrinth",
+	"publishers": ["SEGA"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "M"
+		}
+	],
+	"release_date": "June 4, 2019",
+	"serial_number": "AQ2E",
+	"synopsis": "Welcome to the ultimate Persona experience. The sequel to the beloved dungeon crawler, Persona Q2, arrives on Nintendo 3DS™. Join the cast of P3, P4, and P5 as they are thrown into a new and mysterious world. Can our favorite heroes defeat monsters, discover treasure, and navigate their way out of the labyrinth?"
+}

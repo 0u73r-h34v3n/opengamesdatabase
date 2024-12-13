@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "もっと気軽に!お絵描き工房プラス",
+	"regions": ["NTSC-J"]
+}

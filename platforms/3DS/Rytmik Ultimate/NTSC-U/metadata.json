@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rytmik Ultimate",
+	"publishers": ["Cinemax"],
+	"release_date": "December 10, 2015",
+	"serial_number": "KRUE",
+	"synopsis": "Rytmik is a powerful pocket music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or tracks for your Friday night set-list. Thanks to new features, Rytmik Ultimate takes music creation to a whole new level. Every instrument is now a wavetable synthesizer. With the advanced effect module, you have more power to shape sounds with the ADSR envelope, vibrato, portamento, noise shaper, or digital delay. In addition to that, the drawable waveform synth module allows users to draw and modify their own wave and use it as a sample oscillator – with that you can use Rytmik Ultimate as a sonically unique chiptune synthesizer. Rytmik Ultimate comes with a sound library of more than 750 instruments. Once your work is complete, you can save it in WAV format. Rytmik allows you to share your songs with other users through the Rytmik Cloud."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BLOK DROP CHAOS",
+	"publishers": ["RCMADIAX"],
+	"release_date": "December 14, 2017",
+	"serial_number": "CDCP",
+	"synopsis": "In BLOK DROP CHAOS you must act quick to catch the fallen blocks. Collect the correct number of blocks and advance to the next level. Endless fun for everyone!"
+}

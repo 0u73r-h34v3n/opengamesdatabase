@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Star Soldier",
+	"publishers": ["KONAMI"],
+	"release_date": "October 24, 2013",
+	"serial_number": "TBLE",
+	"synopsis": "The standard for vertically scrolling shooters, Star Soldier is the original game that spawned all of the titles in the long-running Soldier series. Go inside a floating space station inhabited by a giant computer known as Starbrain. Your mission: to stop Starbrain's galactic invasion by piloting Caesar, a new, compact space fighter through 16 deadly stages. Collect power capsules to increase three different attributes of your ship: firepower, movement speed, and defensive shields. Blast wave after wave of approaching enemies or use the innovative Trap Zone feature to fly beneath a land mass and avoid incoming fire. Conquer each stage to make your way to the final confrontation with Starbrain!"
+}

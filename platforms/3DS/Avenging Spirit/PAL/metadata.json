@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Avenging Spirit",
+	"publishers": ["City Connection"],
+	"release_date": "August 11, 2011",
+	"serial_number": "RARP",
+	"synopsis": "You have been deep sixed by gangsters and turned into a ghost. To make matters worse, the mob has kidnapped your girlfriend and held her for ransom, they want the secret of ghost energy. To rescue her and get even with the mob, you must inhabit any one of 20 different creatures and search for your girlfriend on 6 dangerous levels. So grab a body, any body, make a beeline to the big rescue, and rescue your doll face."
+}

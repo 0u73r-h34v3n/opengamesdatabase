@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Quarters, Please!",
+	"publishers": ["Nostatic Software"],
+	"release_date": "October 10, 2019",
+	"serial_number": "LQPP",
+	"synopsis": "Get ready for some arcade game action! \"Quarters, Please!\" is a bustling arcade playground. Relax and watch the neighborhood kids enjoy playing, or kick them off and play the games yourself. Can you rise to the challenge and beat their high scores? Test your skills in five exciting arcade games inspired by retro classics: \"Nebula\" - Destroy wave after wave of dive-bombing insectoid aliens. \"Dino Dig\" - Protect your underground lair by breathing fire on the invading ghost miners. \"Bound 'n Bash\" - Drive, smash and jump your way through numerous challenging stages of fast-paced racing action. \"Meteors\" - Blow those pesky space rocks into tiny bits. \"Face Invaders\" - The alien horde descends. Shoot them all and protect your base!"
+}

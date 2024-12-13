@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "대왕 디디디로 쿵쿵 Z",
+	"publishers": ["Nintendo"],
+	"release_date": "September 24, 2014",
+	"serial_number": "JVQK"
+}

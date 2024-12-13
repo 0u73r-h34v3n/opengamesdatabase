@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Xenoblade Chronicles 3D",
+	"synopsis": "Ceci est une mise à jour du jeu Xenoblade Chronicles 3D. Ce téléchargement n'inclut pas la version complète du jeu. Pour utiliser cette mise à jour, vous devez avoir la version complète de Xenoblade Chronicles 3D et une console New Nintendo 3DS XL. Le téléchargement de cette mise à jour n'est pas nécessaire pour les utilisateurs ayant acheté la version téléchargeable du jeu. Détails de la mise à jour : Une erreur, à cause de laquelle la musique de fond et certains sons sortaient en mono quels que soient les paramètres choisis, a été corrigée."
+}

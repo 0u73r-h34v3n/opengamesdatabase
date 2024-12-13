@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic Boom - Shattered Crystal",
+	"publishers": ["SEGA"],
+	"release_date": "November 21, 2014",
+	"serial_number": "BSYP",
+	"synopsis": "In Sonic Boom™: Shattered Crystal, Amy discovers a secret ancient language and manuscript detailing the history and whereabouts of a Lost Crystal of Power. The evil and vile villain, Lyric, kidnaps Amy in his eagerness to get his claws on this long-forgotten power that has been hidden throughout the jungles and canyons of a mysterious new island. Sonic must team up with Tails, Knuckles and newest member of the team Sticks who is Amy’s best friend as they follow her footsteps to save her from the clutches of Lyric and his robot army. Lyric is bent on powering up his army of robots and stopping Sonic and team at all costs in his quest to destroy the world. By working as a team, they will prove they are stronger together than they are apart."
+}

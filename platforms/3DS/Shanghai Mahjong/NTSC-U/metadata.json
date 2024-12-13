@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Shanghai Mahjong",
+	"publishers": ["Nacon"],
+	"release_date": "March 12, 2015",
+	"serial_number": "BSME",
+	"synopsis": "Bamboos, Circles, Winds, Dragons: assemble splendid tiles, fully modelled in 3D, by traditional colour and clear the playing area to win! 5 game modes The authentic Shanghai Mahjong game on your Nintendo 3DS™ A Time Attack mode so you can break all the records!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "S.C.A.T.",
+	"publishers": ["Natsume Inc."],
+	"release_date": "December 4, 2014",
+	"serial_number": "TD6P",
+	"synopsis": "In the year 2029, humanity faces certain extinction. An alien force led by Supreme Commander Vile Malmort is poised to destroy the Earth. Our greatest scientists were assembled to stop this menace. From their laboratory came mankind’s last hope: S.C.A.T., the Special Cybernetic Attack Team! Featuring one or two-player simultaneous action, fly your jetpack-equipped warrior through five challenging stages swarming with enemies. Use multiple weapon systems and your orbiting cannon pods to clear a path and put an end to Vile Malmort’s plans!"
+}

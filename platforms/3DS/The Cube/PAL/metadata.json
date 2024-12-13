@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Funbox Media", "Route 1 Games"],
+	"genres": ["Party", "Trivia"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Cube",
+	"publishers": ["Funbox Media"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2013",
+	"serial_number": "ACZP",
+	"synopsis": "Have you got what it takes to beat The Cube? If you’re a fan of the TV show, you know that the aim of the game is to win seven consecutive challenges chosen by The Cube in order to walk away with the maximum prize of £250,000. Money ratings shown are illustrative only. No cash prizes are offered for playing this game. It’s the same on your Nintendo 3DS™, although there are a couple of extra challenges and new ways to play. You can even challenge friends and family to see if anyone has what it takes. And because you‘re playing for fun not real cash, you can play as many times as you like."
+}

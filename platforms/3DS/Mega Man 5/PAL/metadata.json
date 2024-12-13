@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man 5",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 28, 2014",
+	"serial_number": "RCGP",
+	"synopsis": "The last of the Game Boy™ Mega Man™ series begins with the hero being defeated at the hands of new foe, Terra! Mega Man returns to the fight upgraded with the new Mega Arm, vowing to defeat Terra and repel his army of Stardroids – evil robots from space! Mega Man has robots of his own to support him, though. Rush the robot dog returns and is joined by newcomer Tango the cybernetic cat. Plus, collect power chips to unlock new upgrades in Dr. Light’s lab. You’ll need all your skills to defeat the alien invaders!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Country 2:  Diddy's Kong Quest",
+	"publishers": ["Nintendo"],
+	"release_date": "March 24, 2016",
+	"serial_number": "UAJE",
+	"synopsis": "Donkey Kong has been kidnapped by the evil Kaptain K. Rool, who is demanding DK's hard-earned banana hoard as a ransom! But there's no way the Kongs are going to give it up that easily! In this pirate-themed sequel to the hit Donkey Kong Country™, guide Diddy or Dixie Kong through eight wild worlds of comical action across the Kremling-infested Crocodile Isle. Discover new secrets, learn new abilities, meet new Kong family members, and take the reins of new animal buddies such as Squitter the Spider and Rattly the Rattlesnake. This is the US version of the game."
+}

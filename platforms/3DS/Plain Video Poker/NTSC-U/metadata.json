@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Plain Video Poker",
+	"publishers": ["PouncingKitten Games"],
+	"release_date": "June 26, 2014",
+	"serial_number": "KVPE",
+	"synopsis": "Do you like video poker? Of course you do, but you don't need to waste your time (and your money) at the casino. With a dozen video poker games, Plain Video Poker brings the authentic casino experience home. No gimmicks, no-frills, just Plain Video Poker. What are you waiting for?"
+}

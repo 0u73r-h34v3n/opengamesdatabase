@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Alleyway",
+	"synopsis": "La versione originale di Alleyway è stata distribuita al lancio del Game Boy ed è un aggiornamento molto amato dei classici giochi con racchetta e pallina. L'obiettivo è semplice: sopravvivere e accumulare una quantità smisurata di punti! Comanda la barra e devia la sfera in modo che distrugga tutti i blocchi. In questo modo, potrai avanzare attraverso i 32 elettrizzanti livelli. Ma attenzione a non far cadere la sfera! L'inizio è semplice, ma i livelli più avanzati presentano muri di blocchi che si muovono in orizzontale o in verticale. Prova anche i livelli bonus, in cui lo scopo è distruggere il maggior numero di blocchi entro il tempo limite."
+}

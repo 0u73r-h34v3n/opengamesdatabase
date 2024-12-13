@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bandai Namco Studios Inc", "Sora Ltd."],
+	"genres": ["Action", "Fighting", "Software"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Smash Controller",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 14, 2015",
+	"serial_number": "KXCP",
+	"synopsis": "No more passing around controllers! You never have to sit out in a couch session of Super Smash Bros.™ for Wii U again, as Smash Controller transforms your Nintendo 3DS™ system into your own controller for the game. It also enables you to conveniently bring along your own customized fighters, no matter whose Wii U™ console you're playing on. Any system from the Nintendo 3DS™ family can be used as a Smash Controller. All of the up to eight players in a game of Super Smash Bros.™ for Wii U can play using their own Nintendo 3DS system, each with a copy of Smash Controller or Super Smash Bros.™ for Nintendo 3DS."
+}

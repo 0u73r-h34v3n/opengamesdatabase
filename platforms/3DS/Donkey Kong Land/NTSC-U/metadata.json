@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong Land",
+	"publishers": ["Nintendo"],
+	"release_date": "February 26, 2015",
+	"serial_number": "RA3E",
+	"synopsis": "Cranky Kong doesn't think Donkey Kong has proven himself to be a hero yet. So, he decides to work out a deal with the closest villain that he knows. K. Rool and his baddies have hidden bananas in new places across Donkey Kong Island in another attempt to outwit the best-friend duo. And the only response is for Donkey Kong and Diddy Kong to go off on another adventure! With over 30 levels plus tons of hidden secrets, swing, roll, jump, and barrel blast through worlds swarming with returning and original enemies. Creep along a mysterious pirate ship, trudge through fierce snow, swim in an unbelievable aquatic temple, and start some crazy capers in the sky. There will also be some animal friends waiting to help out. Cranky Kong is off his rocker if he thinks Donkey Kong won't step up to the challenge."
+}

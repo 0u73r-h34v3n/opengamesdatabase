@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby's Dream Land 2",
+	"publishers": ["Nintendo"],
+	"release_date": "August 1, 2013",
+	"serial_number": "RBNE",
+	"synopsis": "Original Release Date: May 1995 Kirby™ returns and has joined forces with new friends in this thrilling sequel! The Rainbow Bridges that connect the seven Rainbow Islands have disappeared! Help Kirby solve the mystery! Search through the different islands while battling King DeDeDe and his horde of evil minions. Along the way, meet Rick the Hamster, Kine the Fish, and Coo the Owl. Each possesses important abilities that can multiply the magnitude of Kirby's powers! Earn the mysterious Rainbow Sword, and prepare to face Kirby's most menacing rival ever--the evil Dark Matter!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ナッツ&ミルク",
+	"synopsis": "このソフトは、1984年に発売されたファミリーコンピュータ用のパズルアクションゲームです。 主人公のミルクを操作し、ラウンド内に散らばるフルーツを全部食べ、恋人のヨーグルのもとへたどり着くとラウンドクリアです。途中、ライバルの「ナッツ」が追いかけてくるので、ジャンプやロープを駆使してつかまらないようにかわします。 「GAME EDITOR」ではフルーツやキャラクターを自由に配置して、オリジナルのラウンドを作成できます。"
+}

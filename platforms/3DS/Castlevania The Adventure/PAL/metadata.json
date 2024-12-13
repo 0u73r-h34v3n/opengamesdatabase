@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Castlevania The Adventure",
+	"publishers": ["KONAMI"],
+	"release_date": "July 5, 2012",
+	"serial_number": "RBPP",
+	"synopsis": "Count Dracula has risen from his grave to threaten Transylvania, and only the chosen one - who wields the mystic whip - can stand in his way. Castlevania The Adventure was the first of the series to appear on Game Boy™. Taking place before the original Castlevania™ for NES™, it stars Christopher Belmont, ancestor of the original game's hero Simon. Wield your trusty whip, seek out upgrades to increase its power, and battle Dracula and his minions to save the day."
+}

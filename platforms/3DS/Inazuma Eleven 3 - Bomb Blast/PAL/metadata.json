@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Inazuma Eleven 3 - Bomb Blast",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 27, 2013",
+	"serial_number": "AXBZ"
+}

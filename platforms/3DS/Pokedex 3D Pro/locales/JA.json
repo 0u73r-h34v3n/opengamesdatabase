@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pokedex 3D Pro",
+	"synopsis": "これまでに登場した600以上のポケモンの情報を見ることができます。また、3Dで表示されたポケモンの姿や動きを見たり、鳴き声が聴けたり、覚える技などの情報を検索することができます。「ARファインダー」を使えば、ポケモンと一緒に写真を撮ることも。さらに、ポケモンのさまざまな問題に挑戦できる新機能も登場。"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Crashmo",
+	"publishers": ["Nintendo"],
+	"release_date": "November 22, 2012",
+	"serial_number": "JAUE",
+	"synopsis": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await. Push, pull, and slide each puzzle's colorful blocks in order to climb to the top—just be careful where those blocks go. Unsupported blocks will come crashing down! The Crashmo game contains plenty of puzzles to test your skills, and enhanced puzzle-creation and puzzle-sharing features mean that even when all the puzzles are cleared, the fun never has to stop!"
+}

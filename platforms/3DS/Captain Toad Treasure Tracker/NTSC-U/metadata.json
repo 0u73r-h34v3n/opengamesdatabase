@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Captain Toad: Treasure Tracker",
+	"publishers": ["Nintendo"],
+	"release_date": "July 12, 2018",
+	"serial_number": "BZPE",
+	"synopsis": "Captain Toad stars in his own puzzling quest on the Nintendo 3DS™ family of systems! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey™ game! Watch them come to life in stereoscopic 3D using the touch-controlled game camera. Super Gems and Power Stars are hidden across each puzzling course you’ll explore. As you reclaim the treasure stolen by the monstrous, greedy bird, Wingo, you’ll eventually be able to play as Toadette! These tiny heroes will have to waddle, hide, pluck, chuck, and power-up through enemy-infested locales like towers, wild-west shanties, and Goomba waterparks—all bursting with goodies to find and secrets to unearth. It’s all in the name of treasure! Aim your head-mounted flashlight at adventure!"
+}

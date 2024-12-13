@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["5th Cell"],
+	"genres": ["Action", "Puzzle"],
+	"name": "Scribblenauts Unmasked: A DC Comics Adventure",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 3, 2013",
+	"serial_number": "AD6P",
+	"synopsis": "Join Maxwell as he unites with Batman™, Superman™ and the rest of The Justice League™ to restore order to the DC Comics universe! Challenge your imagination as you battle the mightiest villains through an exciting, action-flled adventure. Then enjoy endless replayability with all-new, dynamic puzzles that feature a different take on the mission depending on your location."
+}

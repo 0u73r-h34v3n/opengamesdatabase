@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Legend of Zelda - A Link Between Worlds",
+	"publishers": ["Nintendo"],
+	"release_date": "November 22, 2013",
+	"serial_number": "BZLP",
+	"synopsis": "The Legend of Zelda: A Link Between Worlds follows on from the story of the 1991 Super NES instalment, telling a new story in the kingdom of Hyrule. The 3D visuals of Nintendo 3DS bring a new layer of depth to the game world, allowing you to experience heights like never before. It might once have been difficult to tell the difference between floor levels, but they are now quite clear, lending more realism to the battles and dungeon exploration!"
+}

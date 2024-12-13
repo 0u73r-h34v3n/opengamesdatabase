@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monolith Soft"],
+	"genres": ["Action", "Fighting", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Project X Zone",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "July 5, 2013",
+	"serial_number": "AXXP",
+	"synopsis": "It’s the crossover event of the century! Prepare for epic battles featuring some of gaming’s best-known heroes as franchises from Capcom, SEGA and Namco Bandai come together in Project X Zone, only on Nintendo 3DS."
+}

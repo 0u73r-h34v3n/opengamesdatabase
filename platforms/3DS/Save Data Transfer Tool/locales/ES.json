@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Save Data Transfer Tool",
+	"synopsis": "Esta aplicación permite transferir datos de guardado desde una tarjeta de Nintendo 3DS a la versión descargable y adquirida por separado del mismo programa. Necesitarás lo siguiente para utilizar este programa: • Una tarjeta de Nintendo 3DS compatible con este programa • Una versión descargable del programa de la tarjeta de juego Precaución Al mover los datos de guardado a la versión descargable, no podrán volver a transferirse a la tarjeta de juego. Los datos de guardado de la tarjeta de juego se formatearán."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario’s Super Picross",
+	"synopsis": "Esta versão para a Super NES do popular jogo de \"palavras cruzadas com imagens\" foi originalmente lançada apenas no Japão e contém centenas de quebra-cabeças relaxantes, porém, desafiantes. Cada puzzle Picross consiste numa grelha numerada de blocos que revelam uma imagem quando colocados corretamente. No modo principal de Mario, uma jogada errada significa perder tempo. No entanto, no modo mais difícil de Wario, os erros não são indicados, por isso tem cuidado."
+}

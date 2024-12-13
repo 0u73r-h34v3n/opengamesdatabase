@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artefacts Studio"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My Riding Stables 3D - Jumping for the Team",
+	"publishers": ["TREVA"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 2, 2013",
+	"serial_number": "AAPP",
+	"synopsis": "An exciting new 3D horse adventure awaits you! The ranch is in great danger! Only winning the worldwide biggest jumping tournament can save it. But that means join up with your old rival Pamela and train the horses. Will the two of you succeed? • Enjoy 13 mini games. • Design your own horse by choosing from 26 breeds. • Make your own horse appear on the AR Card with Augmented Reality and play together. • StreetPass™: Compare your show jumping results with players near you and earn fantastic prizes!"
+}

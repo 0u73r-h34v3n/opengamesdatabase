@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "2048",
+	"synopsis": "Disfruta de 2048, el rompecabezas de deslizar números más adictivo. Mueve todas las baldosas en una dirección, duplica las baldosas del mismo número. Llega a la baldosa 2048 antes de que se llene el tablero. Prueba diferentes modos de juego con 1024, 2048 y 4096 objetivos para tener desafíos adicionales. Hay 20 logros que desbloquear para disfrutar horas y horas de divertido rompecabezas. ¡Prueba 2048 hoy y verás por qué es uno de los mejores juegos de puzzle de todos los tiempos!"
+}

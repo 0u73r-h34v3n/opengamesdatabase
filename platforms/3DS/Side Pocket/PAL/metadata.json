@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Side Pocket",
+	"publishers": ["G-MODE"],
+	"release_date": "November 10, 2011",
+	"serial_number": "RA7P",
+	"synopsis": "Chalk up your cue and prepare to hit the baize, in this deep yet pocket-sized pool simulation. In 9-Ball mode, simply try to knock the numbered balls into the holes. With no limit on the number of shots, it's perfect for beginners. When you want a challenge, try Pocket mode. Work your way up from rookie to world class champ. You'll also need to prove yourself with trick shots too!"
+}

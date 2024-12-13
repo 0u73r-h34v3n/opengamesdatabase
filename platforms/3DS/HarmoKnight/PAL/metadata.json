@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "HarmoKnight",
+	"publishers": ["Nintendo"],
+	"release_date": "March 28, 2013",
+	"serial_number": "AQ7P",
+	"synopsis": "HarmoKnight combines side-scrolling platforming with rhythm-action gameplay to create an exciting and colourful experience. Each stage has a musical track that must be used as a guide to perform specific moves such as hitting enemies, jumping gaps and striking musical plants in the background. Thanks to the game’s intuitive two-button control system, picking up the basics is really simple… but that doesn’t mean that saving Princess Ariana from the Noizoids is going to be easy!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BYE-BYE BOXBOY!",
+	"publishers": ["Nintendo"],
+	"release_date": "March 23, 2017",
+	"serial_number": "KCKP",
+	"synopsis": "BYE-BYE BOXBOY! revolves around the main character Qbby’s ability to create boxes, which he can use to protect himself, to reach higher places or to activate switches. Each level consists of a few puzzles, which makes the game easy to pick up! BYE-BYE BOXBOY! introduces special boxes and escort phases where Qbby must lead another character to the end of the level. It includes amiibo support too!Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

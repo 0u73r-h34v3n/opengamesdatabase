@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "FIFTEEN",
+	"synopsis": "En FIFTEEN tienes que reorganizar los bloques para mostrar en orden de 1 a 15. Al usar la pantalla táctil puedes modificar la posición de cada bloque para conseguir el objetivo. ¡El orden inicial de los bloques es aleatorio y se suma al desafío sin final!"
+}

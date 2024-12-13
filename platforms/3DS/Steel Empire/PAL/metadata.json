@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Steel Empire",
+	"publishers": ["Teyon"],
+	"release_date": "December 17, 2015",
+	"serial_number": "JPUP",
+	"synopsis": "Dance with bullets and shoot down the enemy in Steel Empire now on Nintendo 3DS™! Steel Empire is a steam punk shoot'em up game featuring a frantic combat filled with powerful enemies and insane obstacles. Enjoy a beautiful world and retro game-play as you dodge and shoot your way through classical stages. Choose one of 4 difficulty settings according to your set of skills and fight the evil empire! See how well you did using the Replay Mode and show your worth by getting all achievements. Steel Empire, originally released on Sega Genesis and Game Boy™ Advance, is finally available on Nintendo 3DS™!"
+}

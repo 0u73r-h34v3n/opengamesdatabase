@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Fat Dragons",
+	"publishers": ["Nostatic Software"],
+	"release_date": "February 22, 2018",
+	"serial_number": "LFDE",
+	"synopsis": "Fly your dragon and do battle against enemy dragons invading your territories! Fight within the ruins of an ancient city, then do combat among the trees in a lush jungle. Dodge the molten fireballs launched from an erupting volcano, and avoid pounding rain storms and lightning strikes amidst the clouds - all while taking out your enemies! Light-hearted arcade action. Colorful retro-styled graphics."
+}

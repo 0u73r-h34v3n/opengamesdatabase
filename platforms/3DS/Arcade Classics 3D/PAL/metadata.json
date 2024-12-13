@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Arcade Classics 3D",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "November 7, 2013",
+	"serial_number": "ARDP",
+	"synopsis": "6 of the most playable games of all time Puzzles, action, shooters all in one purchase! Play the great classics today in modern themes in 3D environments. Endless addictive gameplay with massive replay ability utilising full on 3D for an amazing experience! Once you pick it up You just won’t be able to put it down."
+}

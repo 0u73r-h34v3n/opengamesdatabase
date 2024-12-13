@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PAC-MAN",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "November 29, 2012",
+	"serial_number": "TA6E",
+	"synopsis": "Original Release Date: November 1993 You control everyone's favorite iconic Pac-Man as you navigate through mazes, eating Power Dots while simultaneously avoiding the devious Ghosts. Warp from one edge of the maze to the other using the Warp Tunnels, or eat a Power Pellet to turn the tables and make the Ghosts vulnerable! In order to clear the stage, you'll need to eat all the Pac-Dots! See just how far you can get through the stages before losing all your lives! Fruits, such as cherries and strawberries, will give you extra points to help you reach the highest score!"
+}

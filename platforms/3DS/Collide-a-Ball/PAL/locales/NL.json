@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Collide-a-Ball",
+	"synopsis": "Maak een parcours om twee ballen op hetzelde moment en dezelfde plaats samen te brengen in deze unieke puzzelgame. Een rode en een blauwe bal starten vanaf verschillende plaatsen in het veld. Plaats en draai objecten zoals hellingen en versnellingspanelen om de trajecten van de ballen voor te bereiden, zodat ze de vlag op hetzelfde moment bereiken. Als je klaar bent druk je op Start om de ballen te laten rollen. Kun jij ervoor zorgen dat de twee ballen de vlag op hetzelfde moment bereiken? Collide-a-Ball bevat drie spelvarianten: Vrij spelen, Wacht en ga! en Enkele bal. Free Play (Vrij spelen) Plaats objecten zodat twee ballen de vlag op hetzelfde moment bereiken. Wait and Go! (Wacht en ga!) Bepaal de tijdsvertraging die nodig is zodat de twee ballen de vlag op hetzelfde moment bereiken. Single Ball (Enkele bal) Plaats objecten in het veld om één bal precies bij de vlag te laten stoppen."
+}

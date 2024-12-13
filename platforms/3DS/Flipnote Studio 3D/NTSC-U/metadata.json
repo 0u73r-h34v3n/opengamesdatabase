@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES"],
+	"name": "Flipnote Studio 3D",
+	"publishers": ["Nintendo"],
+	"release_date": "December 1, 2016",
+	"serial_number": "JKZE",
+	"synopsis": "Flipnote Studio 3D allows you to create 3-D animated flipnotes. Simply create sequential drawings on each page, like a flip-book, and play the flipnote to watch them come to life. You can bring everything from simple doodles to animated cartoons to life with the software's powerful selection of artistic tools."
+}

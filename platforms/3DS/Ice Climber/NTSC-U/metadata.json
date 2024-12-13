@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ice Climber",
+	"publishers": ["Nintendo"],
+	"release_date": "January 31, 2013",
+	"serial_number": "TAME",
+	"synopsis": "Original Release Date: October 1985 As Popo, players use a trusty mallet to work their way up the mountain. They chip away at the blocks overhead, then jump up through the resulting hole to the mountain's next level. Once Popo reaches the top level, he enters a fast-moving bonus stage in which he can pick up veggies and, hopefully, reach the summit for a big point payoff. Of course, not everyone's supportive of Popo's pastime. Toppies fill Popo's holes, so players must jump through the gaps quickly. It's easy to slip off some of the icy levels, as Polar Bears, Toppies, and other ferocious fauna don't want players up there. There are 32 challenging peaks to scale. How will you fare?"
+}

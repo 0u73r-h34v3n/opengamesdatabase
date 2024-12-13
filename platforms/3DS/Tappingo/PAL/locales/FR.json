@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Tappingo",
+	"synopsis": "Tappingo est un jeu qui vise à résoudre des puzzles pour révéler une image. Les joueurs peuvent résoudre des puzzles en prolongeant les blocs numérotés en lignes. Lorsque toutes les lignes sont prolongées dans la longueur correcte, le puzzle est résolu. Règles de base du jeu -Des blocs numérotés doivent être prolongés en lignes. -Le chiffre qui se trouve au-dessus du bloc indique la correcte longueur de la ligne. -Les lignes ne s’arrêteront que si elles touchent un autre bloc, une ligne ou le bord de l'écran. -Lorsque tous les blocs numérotés montrent le symbole 'OK' le puzzle est résolu."
+}

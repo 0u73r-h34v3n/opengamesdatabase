@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Bravely Second: End Layer Demo",
+	"publishers": ["Nintendo"],
+	"release_date": "February 11, 2016",
+	"serial_number": "KHSZ",
+	"synopsis": "This demo focusing on the Three Cavaliers – Yew Geneolgia, Janne Angard, and Nikolai Nikolanikov – will act as a prelude to the adventure, and even allow players to unlock rewards in the full version of the game, depending on their progress in the demo. The Bravely Second™: End Layer demo: The Ballad of the Three Cavaliers can be completed multiple times, however only a completed save file can be used to unlock rewards in the full game."
+}

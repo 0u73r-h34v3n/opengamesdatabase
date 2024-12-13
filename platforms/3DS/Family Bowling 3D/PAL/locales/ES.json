@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Family Bowling 3D",
+	"synopsis": "Juego de bolos protagonizado por Billy, Sarah, Papa y Mama. Los tres modos de juego incluyen Modo Principal, donde compites contra la familia; Juego Libre, juego a tu gusto con 1-4 jugadores; y Modo Desafío, donde te enfrentarás a grandes desafíos. Intenta hacer un juego perfecto en los 5 escenarios del juego."
+}

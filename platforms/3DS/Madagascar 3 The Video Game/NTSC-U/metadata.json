@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monkey Bar Games", "Vicious Cycle Software"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Madagascar 3: The Video Game",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 5, 2012",
+	"serial_number": "AMCE",
+	"synopsis": "The friendly characters of Madagascar land in a circus and bring us their crazy adventures in an action-adventure video game."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Puzzle Labyrinth",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "June 9, 2016",
+	"serial_number": "KQMP",
+	"synopsis": "Puzzle Labyrinth is a game where the player must solve puzzles and find items to open doors that lead to the exit of a maze. With 60 stages filled with traps and monsters getting in the way, it is sure to keep players entertained till the last minute of their escape...if they ever manage to."
+}

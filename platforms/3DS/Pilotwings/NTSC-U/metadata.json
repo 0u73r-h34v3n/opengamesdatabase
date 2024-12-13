@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pilotwings",
+	"publishers": ["Nintendo"],
+	"release_date": "April 14, 2016",
+	"serial_number": "UAKE",
+	"synopsis": "Welcome to Pilotwings Flight Club, where your career can really soar! This Super NES™ classic puts a fun new spin on flight simulation. Pilot a range of flying machines and advance through the ranks. Soar through the floating rings in a biplane. Perform a precision skydive on to a distant target. Catch the thermals on a hang-glider. You can even test the experimental Rocketbelt! The best graduates will be called on to pilot a helicopter in a daring rescue mission. With Pilotwings, the sky's the limit! This is the US version of the game."
+}

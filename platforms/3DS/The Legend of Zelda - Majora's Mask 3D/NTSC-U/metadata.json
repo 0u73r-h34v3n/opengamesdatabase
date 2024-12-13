@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Grezzo"],
+	"locales": ["ES", "FR"],
+	"name": "The Legend of Zelda - Majora's Mask 3D",
+	"publishers": ["Nintendo"],
+	"release_date": "February 27, 2015",
+	"serial_number": "AJRE"
+}

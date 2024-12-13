@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Sports"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "FIFA 13",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 25, 2012",
+	"serial_number": "AF8P",
+	"synopsis": "FIFA 13 brings the biggest and most comprehensive game changes in franchise history that revolutionize artificial intelligence, dribbling, ball control and physical play to create a true physical battle for the ball across the pitch, having freedom and creativity in attack plays and picking up the unpredictability of football."
+}

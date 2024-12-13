@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Nano Assault EX",
+	"publishers": ["Shin’en Multimedia"],
+	"release_date": "March 7, 2013",
+	"serial_number": "JNAP",
+	"synopsis": "Stop the deadly Nanostray virus in Nano Assault EX. Experience a fast-paced action shooter, set within a visually stunning cellular system that leaps off the screen in full 3D. Nano Assault EX features online rankings, support for Circle Pad Pro and full stereoscopic 3D graphics."
+}

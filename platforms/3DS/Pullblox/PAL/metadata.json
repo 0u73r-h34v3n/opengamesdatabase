@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pullblox",
+	"publishers": ["Nintendo"],
+	"release_date": "December 8, 2011",
+	"serial_number": "JCAP",
+	"synopsis": "Pullblox is a unique part-puzzle, part-platform game that will tax your brain and creativity! Children in Pullblox Park have been trapped inside giant block puzzles – ‘pullblox’ – that are as big as houses. So it's tiny hero Mallo to the rescue! Climb the structures, pushing and pulling blocks to use as steps, and rescue the children. If you make a mistake, simply rewind time and try again! There are more than 200 pullblox to enjoy, and you can also create your own in Pullblox Studio and exchange them with friends via QR Code™."
+}

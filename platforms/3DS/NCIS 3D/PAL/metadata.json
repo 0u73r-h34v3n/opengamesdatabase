@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Adventure", "Simulation"],
+	"locales": ["ES"],
+	"name": "NCIS 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "October 28, 2011",
+	"serial_number": "ANCP",
+	"synopsis": "For the first time ever, the world of the NCIS TV show comes to your living room in an all-new NCIS story arc written with the writers of the show. Work as the NCIS team to solve complex murder, espionage and terrorist cases. Discover exciting connections between the four original cases as you crack each one, and work towards solving the overall investigation."
+}

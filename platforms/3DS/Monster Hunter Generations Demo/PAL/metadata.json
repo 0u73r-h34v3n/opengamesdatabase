@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Monster Hunter Generations: Demo",
+	"publishers": ["CAPCOM"],
+	"release_date": "June 30, 2016",
+	"serial_number": "BXVP",
+	"synopsis": "The hunt is about to begin in the world of Monster Hunter! Take up the role of a hunter, seeking out and vanquishing a variety of colossal creatures. Or, for the first time, choose to fight as a Felyne in Prowler mode and see the world through their little furry eyes! - Customise your unique hunting style, weapon type and choose from an array of devastating Hunter Arts for NEW powerful moves in battle. - Hunt alone offline or with your fellow hunters, whether as a Hunter or Prowler, through local and online co-operative multiplayer! Happy Hunting! Supports 4 Players online and 4 Players via Local Play"
+}

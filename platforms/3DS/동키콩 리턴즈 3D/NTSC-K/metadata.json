@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monster Games"],
+	"genres": ["2d Platformer", "Action"],
+	"locales": ["KO"],
+	"name": "동키콩 리턴즈 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "June 3, 2014",
+	"serial_number": "AYTK"
+}

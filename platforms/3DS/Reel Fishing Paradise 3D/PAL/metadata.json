@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Reel Fishing Paradise 3D",
+	"publishers": ["Funbox Media"],
+	"release_date": "October 24, 2013",
+	"serial_number": "ARFP",
+	"synopsis": "Travel to over a dozen stunning locales in your quest to become a master angler. Fish in tranquil lakes, rocky coastal waters, and more, all in 3D that brings every leaping fish and splash of water to life. A huge variety of fish will test the expertise of even the most seasoned fishing veterans, from wily bass to powerful Bluefin tuna. 15 Stages, 40 Fish, and over 100 pieces of tackle! A variety of fishing techniques, from bait fishing to fly! Catch, keep, and care for fish in two fully customisable 3D fish tanks!"
+}

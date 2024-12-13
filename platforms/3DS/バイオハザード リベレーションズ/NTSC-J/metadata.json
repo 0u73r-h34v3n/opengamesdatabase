@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Shooter", "Survival Horror"],
+	"locales": ["JA"],
+	"name": "バイオハザード リベレーションズ",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "D"
+		}
+	],
+	"release_date": "March 7, 2013",
+	"serial_number": "ABRJ"
+}

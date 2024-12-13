@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Music", "Rhythm"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hello Kitty & Friends - Rockin' World Tour",
+	"publishers": ["Rising Star Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 13, 2015",
+	"serial_number": "BKTP",
+	"synopsis": "Head to the stage together with Hello Kitty and friends, for this musical puzzle game and travel around the world with your band. Discover both rhythm and puzzle gameplay and be rewarded with a huge array of collectables when the curtain falls on your exciting live show!"
+}

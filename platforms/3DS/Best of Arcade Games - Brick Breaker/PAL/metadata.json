@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Arcade Games - Brick Breaker",
+	"publishers": ["Nacon"],
+	"release_date": "February 5, 2015",
+	"serial_number": "JGUP",
+	"synopsis": "Rediscover all the pleasure of breakout in this timeless classic! Discover lots of increasingly complex obstacles to get by in the 50 levels of Adventure mode: moving bricks, one-ways, indestructible bricks... Extra balls, inverted screen, strafing... unlock ten bonuses and penalties, each more surprising than the last. Only a few bricks left to break? Take direct control of the ball and aim it wherever you want to earn the victory!"
+}

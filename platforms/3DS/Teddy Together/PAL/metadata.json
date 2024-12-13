@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arika"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Teddy Together",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 1, 2016",
+	"serial_number": "AKMP",
+	"synopsis": "Become best friends with a teddy bear brought to life in Teddy Together. Take care of a special teddy bear who can talk, walk and play games in a title that’s ideal for parents and children to play together. Who hasn’t dreamed of their favourite toy coming to life? Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

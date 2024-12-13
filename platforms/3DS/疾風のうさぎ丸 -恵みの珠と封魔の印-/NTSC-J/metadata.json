@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "疾風のうさぎ丸 -恵みの珠と封魔の印-",
+	"publishers": ["アークシステムワークス"],
+	"release_date": "October 10, 2012",
+	"serial_number": "JSPJ"
+}

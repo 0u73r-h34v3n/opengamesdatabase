@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Stack 'em High",
+	"synopsis": "Empilez le plus grand nombre possible de petites voitures, petits trains et jouets en peluche dans le temps limite, en les maintenant en équilibre ! Choisissez la position pour déposer chacun des jouets, en les empilant le plus haut possible sans qu’ils basculent au-delà des bords. Pour passer au niveau suivant, vous devez empiler assez de jouets pendant le temps limite ! Relevez le défi tout seul à travers des douzaines de niveaux aux plate-formes de formes diverses, ou affrontez un ami sur une connexion sans fil! Chaque mission a des critères différents, tels que le temps limite alloué ou le nombre d’objets. Trois modes de jeu disponibles : Mode Mission 40 missions différentes où les joueurs ont pour objectif d’empiler 10 voitures, de déposer 5 trains, etc. Mode Libre Choisissez une forme de plate-forme et un jouet, et voyez combien d’objets vous pouvez empiler pendant le temps limite. Mode Confrontation Affrontez un ami ou l’ordinateur."
+}

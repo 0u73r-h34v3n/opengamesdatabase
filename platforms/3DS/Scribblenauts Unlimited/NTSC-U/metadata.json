@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Scribblenauts Unlimited",
+	"publishers": ["WB Games"],
+	"release_date": "December 6, 2012",
+	"serial_number": "ASLE",
+	"synopsis": "Venture into a wide-open world featuring gorgeous 3D elements where the most powerful tool is your imagination. Help Maxwell solve robust puzzles in seamless, free-roaming levels by summoning any object you can think of. Leverage the StreetPass functionality of the Nintendo 3DS system to see all of the creative solutions to puzzles by players in your area. And for the first time, learn the backstory about Maxwell’s parents, 41 siblings (including his twin sister Lily), and how he got his magical notepad."
+}

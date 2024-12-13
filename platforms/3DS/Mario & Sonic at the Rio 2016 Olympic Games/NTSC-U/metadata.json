@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Party", "Sports"],
+	"name": "Mario & Sonic at the Rio 2016 Olympic Games",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "March 18, 2016",
+	"serial_number": "BGXE",
+	"synopsis": "Join Mario, Sonic and their pals to compete in the Olympic Games – with Mii characters, too! Compete in 14 supercharged Olympic Games events and 14 Plus events with a special Mario and Sonic twist Become a member of a prestigious gym in the Road to Rio Story mode Switch your Mii character’s clothes to unleash your individuality and boost different abilities!"
+}

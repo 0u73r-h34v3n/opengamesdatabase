@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Urban Trial Freestyle",
+	"publishers": ["Tate Multimedia"],
+	"release_date": "June 27, 2013",
+	"serial_number": "AT8P",
+	"synopsis": "Deceptively deep and addictive ZTGD.com Genuinely engrossing experience DigitalChumps.com Take to the streets on your freestyle trials bike, using the urban landscape to pull spectacular tricks - backflips, 360s, wallrides, ollies, and more. Customise your bike to boost your performance. Choose between speed and style, developing your own unique riding style. With the level editor, you can create your own trial tracks for endless hours of fun!"
+}

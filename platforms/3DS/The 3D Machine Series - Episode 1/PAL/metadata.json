@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The 3D Machine Series - Episode 1",
+	"publishers": ["Ka-Ching Cartoons"],
+	"release_date": "December 6, 2012",
+	"serial_number": "MA8P",
+	"synopsis": "A giant lizard wreaks havoc in a Japanese metropolis. Igor and the professor must chase this menacing monster through the concrete jungle in order to zap it back to its comic book. Length 2:30 min"
+}

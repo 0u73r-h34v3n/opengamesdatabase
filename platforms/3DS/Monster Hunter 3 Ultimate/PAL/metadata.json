@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Monster Hunter 3 Ultimate",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 22, 2013",
+	"serial_number": "AMHP",
+	"synopsis": "Take up arms and venture into a world of spectacular surroundings and challenging monsters in Monster Hunter 3 Ultimate on Nintendo 3DS. With all-new monsters, equipment and weapons and over 200 action-packed quests to tackle, Monster Hunter 3 Ultimate is the most expansive game in the series to date. In this action role-playing game for Nintendo 3DS, players use skill and strategy to hunt down enormous monsters. Over 200 quests and a vast variety of weapons and armour types give players plenty to discover, while multiplayer options bring friends into the fray. Hunters can work together to slay the toughest monsters locally, with fellow Nintendo 3DS owners or with players of Monster Hunter 3 Ultimate on Wii U."
+}

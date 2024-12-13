@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sonic - Lost World",
+	"publishers": ["SEGA USA"],
+	"release_date": "October 29, 2013",
+	"serial_number": "ARVE",
+	"synopsis": "When the Deadly Six threaten to destroy his world, Sonic’s new moves & power-ups are the only way to defeat them before it’s too late! In his latest plot to defeat Sonic and rule the world, Dr. Eggman has harnessed the power of six menacing creatures known as the Deadly Six. However, when the Deadly Six rise up against their new master, Sonic must unite with his arch nemesis Eggman and explore the mystical Lost Hex in order to take them on head-to-head. Use Sonic’s amazing new moves & incredible Color Powers to speed across a variety of unique terrains, racing inside, outside & upside down in every level."
+}

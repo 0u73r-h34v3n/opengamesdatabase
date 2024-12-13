@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Galaga",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "March 13, 2014",
+	"serial_number": "TCUE",
+	"synopsis": "Move right and left to defend against the missiles and attacks of the Galaga aliens and the Galaga Commander. Aliens attack in formations using a variety of attack patterns. Rescue a captured fighter to combine with it, forming a Dual Fighter with twice the firepower! Earn Perfect Bonuses more easily by using a Dual Fighter on the Challenging Stages!"
+}

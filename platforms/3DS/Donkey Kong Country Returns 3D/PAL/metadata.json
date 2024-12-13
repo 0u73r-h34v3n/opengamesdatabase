@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monster Games"],
+	"genres": ["2d Platformer", "Action", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Country Returns 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 24, 2013",
+	"serial_number": "AYTP",
+	"synopsis": "Go ape with the swingin’ king of the jungle! Donkey Kong and his simian sidekick Diddy Kong are back for more action-packed platforming antics in Donkey Kong Country Returns 3D, an enhanced version of Wii adventure Donkey Kong Country Returns, only on Nintendo 3DS and Nintendo 3DS XL!"
+}

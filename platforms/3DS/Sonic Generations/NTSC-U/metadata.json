@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sonic Generations",
+	"publishers": ["SEGA USA"],
+	"release_date": "September 5, 2013",
+	"serial_number": "ASNE",
+	"synopsis": "The ultimate celebration of 20 years in Sonic gaming, Sonic Generations delivers the definitive gaming experience for Sonic fans new and old. Sonic’s universe is thrown into chaos when a mysterious new power comes into force, creating ‘time holes’ which take Sonic and his friends back in time. While there, Sonic runs into some very familiar characters from his past including a younger, classic version of himself! Now they must defeat their enemies, save their friends, and find out who is behind this diabolical deed. Play as both Classic Sonic and Modern Sonic in the ultimate Sonic experience. Master the moves of each character as they race through each environment on their own specially designed track. 2 Player Versus Mode Take on your friends and earn valuable status points. StreetPass Collect new content and unlock bonus material, increasing variety, interaction and replayability."
+}

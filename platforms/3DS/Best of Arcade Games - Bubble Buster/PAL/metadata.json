@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Arcade Games - Bubble Buster",
+	"publishers": ["Nacon"],
+	"release_date": "February 19, 2015",
+	"serial_number": "JGVP",
+	"synopsis": "Rediscover a timeless puzzle game with Bubble Buster! Solve 50 puzzles in Adventure mode and play any level you want in Free mode. Precise aim, wildcard bubbles... unlock lots of bonuses using the points you accumulate while playing. Take on obstacles never seen before in games of the genre, such as magic bubbles that change colour!"
+}

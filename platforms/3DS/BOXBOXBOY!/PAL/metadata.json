@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BOXBOXBOY!",
+	"publishers": ["Nintendo"],
+	"release_date": "June 30, 2016",
+	"serial_number": "KCAP",
+	"synopsis": "It’s time to think outside the box once again. Our boxy hero, Qbby, has a new power that lets him create TWO sets of boxes. He’ll put every box to use to survive perilous traps across more than 120 puzzling levels. Learn new tricks and box formations to get past obstacles like switches, spikes and even lasers! If you’ve played the critically-acclaimed first game, BOXBOY!, every costume earned can be carried over into BOXBOXBOY!"
+}

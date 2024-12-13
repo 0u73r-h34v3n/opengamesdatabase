@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 G1グランプリ",
+	"synopsis": "ニンテンドー3DSソフト『G1グランプリ』の更新データです。 「ウマピークエストの不具合」「対戦モードの不具合」などの改善と「登録済み対戦馬のパスワード表示機能」の追加が行われます。 また、いつの間に通信での配信を終了した「ブラピークエスト」が追加されます。 『G1グランプリ』をお持ちのお客様は、必ずダウンロードしてください。 詳細につきましては、『G1グランプリ』の公式サイトをご参照ください。"
+}

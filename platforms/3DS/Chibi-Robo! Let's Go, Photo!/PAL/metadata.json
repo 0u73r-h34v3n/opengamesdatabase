@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skip Ltd."],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Chibi-Robo! Let's Go, Photo!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 3, 2014",
+	"serial_number": "JPMP",
+	"synopsis": "The Curator dreams of immortalising real-world objects as NostalJunk to put on display, and it’s your job as Chibi-Robo to help him fill his Exhibition rooms with your very own photographs! Using your Nintendo 3DS or 2DS cameras, line up in-game shapes with real-life objects, take a snap, then watch them be transformed into the coveted NostalJunk! Explore the human world as the helpful robot hero and see things from a new – and Chibi – perspective, as you meet a cast of colourful and hilarious characters, including a sushi-slinging squid, a high-flying super hero, and an eccentric pair of chefs. Solve their problems and clean up the world to earn Happy points to buy Silhouette films for your camera. The more happiness you spread, the faster you can realise The Curator’s dream of having as many NostalJunk aficionados admire his exhibits as possible. Look out for NostalJunk Contests and win exclusive costumes for Chibi-Robo to flaunt in-game: starting at launch, SpotPass contests will take place for a limited time, and players can submit their prized photos as NostalJunk to Nintendo!"
+}

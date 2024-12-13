@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BLASTER MASTER",
+	"publishers": ["Sunsoft"],
+	"release_date": "January 10, 2013",
+	"serial_number": "TA3P",
+	"synopsis": "Blaster Master tells the story of an ordinary kid, Jason, who becomes an extraordinary warrior on a quest to save the Earth. One of the most innovative games of the NES era, Blaster Master combines side-scrolling and top down perspective sections, as Jason battles radioactive monsters on foot or behind the wheel of Sophia the 3rd, a heavily armed multi-purpose vehicle. Battle through eight huge areas, upgrade Sophia's arsenal to hover or drive up walls, and rid the planet of the mutant menace!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario's Picross",
+	"publishers": ["Nintendo"],
+	"release_date": "July 14, 2011",
+	"serial_number": "RAJP",
+	"synopsis": "In the 1995 puzzle classic Mario’s Picross, over 200 challenging picture puzzles await to be mastered. Reveal the hidden pictures in each puzzle by filling in the correct squares in the grid. Hint numbers at the edges will tell you how many squares in each row or column should be filled. After completing the regular picross modes, a Time Trial mode will put your picross skills to a true test."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Smash Cat Heroes",
+	"publishers": ["TOMCREATE"],
+	"release_date": "April 17, 2014",
+	"serial_number": "JN2E",
+	"synopsis": "Slash and smash enemies coming at you from all directions in non-stop cat-attack action Smash Cat Heroes! Take control of one of the samurai cats and go in search for the legendary Super Cat Food that will supposedly grant its eater all the power in the world! Each playable character has its own fighting style with short and long range attacks, plus special and hyper attacks. Collect coins on your travels to level up your cat's abilities, increasing their attack strength, smash attacks, speed, HP and defenses. Stand still to charge your energy gauge when the coast is clear and then use the energy for special and hyper attacks that inflict heavy damage. Pull of a series of attacks without getting hit to charge the Combo counter and trigger the devastating Spinning Cat Attack!"
+}

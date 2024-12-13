@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong 3",
+	"publishers": ["Nintendo"],
+	"release_date": "December 5, 2013",
+	"serial_number": "TB4E",
+	"synopsis": "Based on the third game in the enormously popular arcade series, Donkey Kong 3 introduces an exterminator named Stanley as he desperately tries to protect the flowers in his greenhouse from Donkey Kong. Armed only with a can of bug spray, Stanley must force Donkey Kong higher and higher into the greenhouse rafters until Donkey Kong is off the screen and the next stage is reached. But not surprisingly, Donkey Kong isn’t going to move without a fight, so he sends wave after wave of bugs, bees, and other creatures toward Stanley. Not only must Stanley repel the insects in order to save the flowers, but he’ll have to keep an eye out for projectiles thrown by Donkey Kong himself. If Stanley is good enough, he’ll be able to grab a can of more powerful bug spray and really get Donkey Kong moving. It all adds up to frantic fun that anyone can enjoy!"
+}

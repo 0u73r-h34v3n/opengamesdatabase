@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Compile Heart"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hello Kitty Happy Happy Family",
+	"publishers": ["Nacon"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 11, 2014",
+	"serial_number": "BHHP",
+	"synopsis": "Play with Kitty and her entire family. Learn while having fun with 25 entertaining workshops. Collect hundreds of images and disguises for Kitty and Mimmy!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Board Games - Mahjong",
+	"publishers": ["Nacon"],
+	"release_date": "February 5, 2015",
+	"serial_number": "JPEP",
+	"synopsis": "Rediscover all the pleasure of Mahjong in this timeless classic! Learn how to play and test your abilities by solving 60 boards in Adventure mode, or play a single game at your leisure in Free mode. Stuck in a level? Use your bonus and make the entire board simpler in a split second! Discover the brand new Moving walkway mode: finish the levels more quickly by using the extra tiles that scroll alongside the board. Choose classic or modern tiles and become a Mahjong pro!"
+}

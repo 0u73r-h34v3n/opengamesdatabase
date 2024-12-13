@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ideas Pad"],
+	"genres": ["Puzzle"],
+	"locales": ["ES"],
+	"name": "Puzzler World 2013",
+	"publishers": ["Koch Media"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 23, 2013",
+	"serial_number": "AZLP",
+	"synopsis": "From the world's most well-known puzzle brand comes a new collection of puzzle favorites, including NEW for 2013 - Loko, Maze-A-Pix, Backwords, Number Jig, and more than a thousand more! Work through over 1200 puzzles in 27 different categories."
+}

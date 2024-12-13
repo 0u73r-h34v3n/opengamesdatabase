@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["rokapublish GmbH"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Atlantic Quest",
+	"publishers": ["Maximum Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 15, 2014",
+	"serial_number": "BAQE",
+	"synopsis": "A ship has capsized in the ocean, leaking oil into the water and damaging marine life. Play 120 levels as four fish friends as they work to save the inhabitants of the sea in this exciting puzzle adventure! Help the clever clownfish, powerful shark, explosive crab, and serious octopus return the ocean to its clear blue brilliance! Collect power-ups as you explore 12 stunning underwater locations, and play additional fun mini-games. Switch between three different Match-3 game modes and earn bonus puzzles as you progress. The fate of the sea is up to you…will you be able to save your friends in time?!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Quiet, Please!",
+	"publishers": ["Nostatic Software"],
+	"release_date": "January 5, 2017",
+	"serial_number": "KQPP",
+	"synopsis": "Classic, lighthearted adventure game fun! Use your wits and a bit of mischief to explore, interact with your environment and solve puzzles in this bundle of three old-school adventure games: \"Quiet, Please!\", \"Quiet Christmas\" and \"Vacation Vexation\". Quiet, Please! After an annoying day at school, you just want some peace and quiet. But everything at home is so noisy! Dad is channel surfing, Mom is yapping on the phone and your pesky kid brother won't go to bed! Quiet Christmas It's Christmas Eve and you just want to go to bed and wake up on Christmas morning. But the tree is broken, the house is too cold, Mr. Peabody's tacky Xmas display is annoying and as always your little brother won't go to bed. Vacation Vexation Ah, the family seaside vacation. Sun, sand and... annoyances galore. Explore, solve puzzles and play arcade mini-games."
+}

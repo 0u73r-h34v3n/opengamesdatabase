@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "CUP CRITTERS",
+	"publishers": ["RCMADIAX"],
+	"release_date": "December 1, 2016",
+	"serial_number": "CCRP",
+	"synopsis": "In CUP CRITTERS, you must manipulate gravity to keep those crazy balls in the cups. As you advance, your score gets higher and the tricks get more difficult. Great fun for casual players and core gamers alike!"
+}

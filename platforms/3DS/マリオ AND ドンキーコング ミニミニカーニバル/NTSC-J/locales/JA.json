@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "マリオ AND ドンキーコング ミニミニカーニバル",
+	"synopsis": "下画面のタイルをうまく並べ替えて、「おもちゃのミニマリオ」を制限時間以内にゴールへと導くアクションパズルゲームです。ミニマリオは、パネルに描かれた道に沿って進み、その様子は上画面で立体的にリアルタイムに映し出されます。ミニゲームも収録されているほか、オリジナルのステージを作って世界中のユーザーと交換することもできます。"
+}

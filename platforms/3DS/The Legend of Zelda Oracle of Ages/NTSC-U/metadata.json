@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Legend of Zelda: Oracle of Ages",
+	"publishers": ["Nintendo"],
+	"release_date": "May 30, 2013",
+	"serial_number": "QADE",
+	"synopsis": "Original Release Date: May 2001 A pall of darkness has fallen over the land of Labrynna. The Sorceress of Shadows, Veran, has captured the Oracle of Ages and is using her power for the ways of vil. But hope is not lost…yet. Link™ has been summoned to Labrynna by the Triforce, and he'll need to bend the very fabric of time to save the Oracle. And he must hurry, for time is running out... Play the Harp of Ages! Travel through time to affect events in both past and present! Use tons of items! Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like the Boomerang and Roc's Feather. Link gets reinforcements! Fly, swim, and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!"
+}

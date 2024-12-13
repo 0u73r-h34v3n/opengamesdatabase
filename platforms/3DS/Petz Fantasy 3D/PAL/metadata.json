@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Petz Fantasy 3D",
+	"publishers": ["Ubisoft"],
+	"release_date": "June 13, 2013",
+	"serial_number": "APFP",
+	"synopsis": "Hatch magic eggs into adorable fantasy creatures. Nurture them and watch their magical powers grow in 3D! -Care for your Pets and watch how they react to you in 3D! -Jump from one magical world to another and play fun mini-games to teach them magical powers."
+}

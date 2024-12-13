@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Super Strike Beach Volleyball",
+	"publishers": ["Natsume Inc."],
+	"release_date": "April 14, 2016",
+	"serial_number": "JBEE",
+	"synopsis": "Hit the beach for some high-octane volleyball action! Train your character to become the best in Campaign Mode! See how many opponents you can defeat in a row in Survivor Mode! Play at your own pace and relax in Free Play Mode! With eight characters to choose from – each with their own unique Super Shot – you’re free to mix and match to make the ultimate beach volleyball duo! Can you defeat your rivals to become King of the Beach? It’s up to you! Train your character in six attributes! Three different modes of play! Alternate swimsuits and unique Super Shots!"
+}

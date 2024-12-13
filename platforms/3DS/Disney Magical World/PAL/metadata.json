@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["h.a.n.d Inc."],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Disney Magical World",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 24, 2014",
+	"serial_number": "AMQP",
+	"synopsis": "Endless opportunities for creativity and customisation allow the imagination to run wild in Disney Magical World. With more than 1,000 items, players can hone their design skills to create hundreds of personalised Disney-themed outfits, accessories and furniture. Aspiring restaurateurs can design a café from its décor to its menu. As they foster its success through careful management, players can earn valuable in-game coins and even pique the interest of favourite Disney characters to stop by for a meal. The personal “My Room” retreat above the café offers another customisable opportunity with even more items and furniture. After creating a personalised avatar and a customised dream life, players embark on a 3D fantasy adventure featuring more than 60 iconic Disney characters across a main central plaza and its surrounding worlds inspired by Alice in Wonderland, Cinderella, Aladdin and more. It’s all Disney, all the time as players interact with beloved characters, manage a café to earn in-game coins, set off on ghost-hunting quests and even visit friends’ towns via Local Play."
+}

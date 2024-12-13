@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Coaster Creator 3D",
+	"publishers": ["Big John Games"],
+	"release_date": "May 29, 2014",
+	"serial_number": "JC2P",
+	"synopsis": "Build your own roller coasters using fast and intuitive touch screen drawing and editing controls. Then jump right into a coaster cart seat to experience the ride in thrilling 3D. Use the Track Wizard to add Loops, Corkscrews, and Twists. Take Mii™ characters for a ride on your coaster. Share your coasters with friends. In career mode you will start as a coaster design apprentice and work your way up to a master designer. Along the way you will unlock new theme park locations, cart models, decals, and more. Use these items to build custom Theme Parks for your coaster to roll through. Select a steel, wooden, or inverted track type, and then draw the basic track design on the touch screen. Coaster Creator 3D will turn this design into a completed roller coaster in full 3D in just seconds. Coaster Creator 3D allows players to quickly and easily create thrilling 3D rollercoasters. The possibilities are unlimited."
+}

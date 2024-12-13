@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Party", "Sports"],
+	"locales": ["ES"],
+	"name": "Mario & Sonic at the London 2012 Olympic Games",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 10, 2012",
+	"serial_number": "ACMP",
+	"synopsis": "Carry the Olympic spirit with you wherever you go as Mario & Sonic at the London 2012 Olympic Games comes to Nintendo 3DS. Featuring over 50 all-new events and some of gaming’s brightest stars, Mario & Sonic at the London 2012 Olympic Games takes you straight to the heart of the host city and into athletic action brought to life in stunning 3D! Up to four players will discover multiple ways to control the fun, using the features of Nintendo 3DS to tap, blow and tilt their way to victory as they go for gold!"
+}

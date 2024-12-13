@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Go! Go! Kokopolo 3D Update Ver. 1.1",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "May 4, 2017",
+	"serial_number": "JKPE"
+}

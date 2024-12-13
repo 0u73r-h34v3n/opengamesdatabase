@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Grezzo"],
+	"locales": ["KO"],
+	"name": "젤다의 전설 무쥬라의 가면 3D",
+	"publishers": ["Nintendo"],
+	"release_date": "July 14, 2016",
+	"serial_number": "AJRK"
+}

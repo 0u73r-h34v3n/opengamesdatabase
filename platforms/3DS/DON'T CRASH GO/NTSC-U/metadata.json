@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "DON'T CRASH GO",
+	"publishers": ["RCMADIAX"],
+	"release_date": "April 20, 2017",
+	"serial_number": "CDGE",
+	"synopsis": "DON'T CRASH! This is the only rule of the game. Move left and right to change lanes, collect coins, and avoid a crash at all costs. Addictive and fun for everyone!"
+}

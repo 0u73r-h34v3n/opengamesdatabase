@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Metroid: Samus Returns Announcement Trailer",
+	"publishers": ["Nintendo"],
+	"release_date": "June 13, 2017",
+	"serial_number": "SQHE",
+	"synopsis": "Experience the immersive 3D visuals of Metroid™: Samus Returns! In this game, you brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. This masterful reimagining of her Game Boy™ adventure features classic Metroid gameplay along with a wealth of exciting new content sure to please new and veteran fans alike. *This trailer was first shown during E3 2017."
+}

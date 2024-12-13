@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Game & Watch Gallery 3",
+	"publishers": ["Nintendo"],
+	"release_date": "February 5, 2015",
+	"serial_number": "QA6E",
+	"synopsis": "With the third of the Game & Watch Gallery series, you can enjoy five different games in both their original and revised releases: Egg - Catch your eggs before they hatch! Turtle Bridge - Carry the packages across the turtles' backs! Green House - Protect your plans from the pesky pests! Mario Bros.™ - Help Mario™ and Luigi™ keep the factory flowing! Donkey Kong Jr.™ - Grab the key, and free Donkey Kong™! There are also six extra games that can be unlocked and played in Classic mode!"
+}

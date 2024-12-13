@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Maze Breaker V",
+	"publishers": ["nuGAME"],
+	"release_date": "October 22, 2020",
+	"serial_number": "A5KE",
+	"synopsis": "The goal of Maze Breaker is to hit and break all the blocks to clear a level, while avoiding obstacles, and getting the highest score possible."
+}

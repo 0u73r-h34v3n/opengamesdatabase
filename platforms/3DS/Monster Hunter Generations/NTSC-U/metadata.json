@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Monster Hunter Generations",
+	"publishers": ["CAPCOM"],
+	"release_date": "July 15, 2016",
+	"serial_number": "BXXE",
+	"synopsis": "Experience the most dynamic Monster Hunter experience yet! Take on the role of a fledgling monster hunter and face down larger than life beasts as you journey to become the ultimate hunter. Along your journey you'll defend each of the game’s four villages from new major threats—the Fated Four - powerful new monsters that have emerged. Monster Hunter Generations introduces all new gameplay mechanics including Hunting Styles and Hunter Arts that allow you to fully customize your playstyle. Take to the skies and attack monsters from mid-air using the Aerial style or perform deadly counter attacks using the Adept style. Master a variety of Hunter Arts to unleash devastating attacks against your enemies or generate powerful buffs for you and your teammates. With hundreds of quests in store, there are tons of challenges to tackle in a solo adventure. But remember, don't hunt alone! Form a party with up to three other friends locally or online to take on the toughest challenges together!"
+}

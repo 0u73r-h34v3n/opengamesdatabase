@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Puzzle"],
+	"name": "Puzzler World 2012 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 28, 2012",
+	"serial_number": "APWP",
+	"synopsis": "With Puzzler World 2012 3D, players can collect trophies in a personal trophy cabinet as proof of skill, collect hint tokens for help on tricky clues and puzzles, and teach the game to remember individual letters and numbers using the handwriting recognition feature."
+}

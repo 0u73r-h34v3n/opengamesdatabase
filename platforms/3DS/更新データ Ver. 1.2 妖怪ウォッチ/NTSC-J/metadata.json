@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Role-Playing"],
+	"locales": ["JA"],
+	"name": "更新データ Ver. 1.2 妖怪ウォッチ",
+	"publishers": ["レベルファイブ"],
+	"release_date": "July 25, 2014",
+	"serial_number": "AYWJ"
+}

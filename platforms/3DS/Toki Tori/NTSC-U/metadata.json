@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Toki Tori",
+	"publishers": ["Two Tribes Publishing"],
+	"release_date": "August 30, 2012",
+	"serial_number": "QARE",
+	"synopsis": "Original Release Date: September 2001 He may be a small, yellow chicken, but Toki Tori is no coward! He's the hero of this egg-cellent puzzle platformer in which he must rescue all of his kidnapped brothers and sisters, who are still in their fragile eggs. In this Game Boy™ Color classic, you must keep Toki Tori safe by avoiding monsters and traps while working out how to collect all the eggs in each level before the timer runs out. Luckily, there are lots of items to aid Toki Tori's mission. So what are you waiting for? Time to get cracking!"
+}

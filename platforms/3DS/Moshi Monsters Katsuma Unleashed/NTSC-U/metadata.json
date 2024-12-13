@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sumo Digital"],
+	"genres": ["Action", "Platformer"],
+	"name": "Moshi Monsters: Katsuma Unleashed",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 5, 2013",
+	"serial_number": "ADME",
+	"synopsis": "In this all-new, fresh and friendly, monster-ific adventure, you get to help Katsuma and the rest of the Moshi menagerie save the world from the evil schemes of Dr. Strangeglove and his destructive robot Moshlings by bashing and dashing their way through six worlds, packed with intense battles, wild boss showdowns and glittering treasures to discover."
+}

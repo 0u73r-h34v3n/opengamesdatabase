@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Chaotic Moon Games"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "IT"],
+	"name": "Hello Kitty Picnic with Sanrio Characters",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 26, 2013",
+	"serial_number": "AHLD",
+	"synopsis": "Join the perfect picnic with Hello Kitty and with her Sanrio friends!"
+}

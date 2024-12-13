@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dillon's Rolling Western The Last Ranger",
+	"publishers": ["Nintendo"],
+	"release_date": "April 11, 2013",
+	"serial_number": "JGWE",
+	"synopsis": "Armadillo ranger Dillon is back, and this time he’s brought the cavalry. Join Dillon on new missions to protect each town. Gather supplies, fortify each town, and equip gun towers during the day. Recruit new allies by battling and defeating them throughout the game. As night falls, voracious grocks rise up from the underground. The only things standing between the decimation of the town and livestock are you, your hired gun, and the gun towers manned by locals. In addition to keeping villages safe from the waves of approaching enemies, Dillon must now also protect a train that moves throughout each of the game’s main stages. Get ready to roll!"
+}

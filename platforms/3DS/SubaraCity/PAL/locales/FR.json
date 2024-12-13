@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "SubaraCity",
+	"synopsis": "SubaraCity est un jeu de réflexion de construction de ville. Il est joué en touchant les blocs qui sont de la même couleur. Les bâtiments sur les blocs peuvent se combiner pour en créer des plus gros lorsqu'ils sont connectés. La règle est très simple mais le jeu est bien plus profond à l'intérieur. Votre petite décision va orienter le futur de cette ville en un seul instant. Développez votre ville pour la faire grossir, et grossir, pour faire une \"SubaraCity\" !"
+}

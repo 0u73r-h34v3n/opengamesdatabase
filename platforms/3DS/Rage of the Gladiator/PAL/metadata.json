@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rage of the Gladiator",
+	"publishers": ["Gamelion"],
+	"release_date": "September 19, 2013",
+	"serial_number": "JRGP",
+	"synopsis": "Rage of the Gladiator is a fantasy-based fighting game where you must fight for your life in the arena. Prove yourself by conquering all opponents!"
+}

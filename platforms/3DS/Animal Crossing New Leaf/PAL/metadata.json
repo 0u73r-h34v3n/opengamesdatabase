@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Life Simulation", "Management Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Animal Crossing: New Leaf",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 14, 2013",
+	"serial_number": "EGDP",
+	"synopsis": "Moving to a new town and making new friends is a big step… but it's even bigger when you're the mayor! Get ready to enjoy a whole new life in a town shaped entirely by you as Animal Crossing: New Leaf comes to Nintendo 3DS and Nintendo 3DS XL. Continuing the much-loved freeform gameplay from previous Animal Crossing titles, Animal Crossing: New Leaf is a game without any restrictions. There are no goals, no story, not even an ending – instead, you can enjoy life in your new town in any way you choose. And since time in the game moves at the same pace as in the real world, every day brings new experiences! Your first steps in Animal Crossing: New Leaf come about by accident: shortly after arriving in town, a mix-up by Isabelle the town clerk sees you become the mayor! Although you can still do whatever you please, your new powers as mayor allow you to shape the town in any way you wish. From creating public works projects that add buildings, bridges and all kinds of decorative items to laying down ordinances (a fancy word for laws) that dictate how your town runs. You've now got the freedom to make the town of your dreams! If non-stop sunshine is more your thing, then a trip to the island might be just what you need! Take the boat ride with Kapp'n, then explore an island full of tropical fruits, insects and fish to your heart's content. And while you're there, consider enjoying a tour or two – play minigames either alone, with friends or online with other players, then trade in the medals you earn for some souvenirs to take back home. There's even more freedom to express yourself in Animal Crossing: New Leaf! You can buy new clothes – tops, trousers, skirts, hats, masks and even shoes – from the Able Sisters or the Shoe Shank, improve your home with new rooms and renovations, and create your own exhibits in the local museum. Or you can head out to listen to K.K. Slider in concert or behind the decks in Club 101, go shopping on Main Street, or customise your home and furniture by creating your own designs at the Re-Tail shop. All this awaits, and much more besides! You can also enjoy Animal Crossing: New Leaf with your friends, family and even people you've never met! Up to four people can live in the same town on a single Game Card (playing at different times), which allows you to share the experience with those close to you. Alternatively, you can get together simultaneously with friends who also own a copy of the game – either online or via Local Play – to visit the island, enjoy minigames or just hang out doing whatever you want! You can also use StreetPass to share your home with other people and visit the homes of others in the Happy Home Exhibition, or travel to other people's towns online while you sleep in the Dream Suite. Packed with new animals, new experiences and new ways to have fun, both long-time fans of Animal Crossing and newcomers to the series are sure to enjoy everything that Animal Crossing: New Leaf has to offer. It's a new life... live it how you please!"
+}

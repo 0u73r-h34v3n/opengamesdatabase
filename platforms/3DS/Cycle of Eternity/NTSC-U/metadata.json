@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Cycle of Eternity",
+	"publishers": ["Vadim Gafton"],
+	"release_date": "April 19, 2018",
+	"serial_number": "CESE",
+	"synopsis": "The story is twisted around three graduates of the space fleet, who fell into a time trap. Trying to get home they get into an even bigger mess. Fight with enemies, improve your ships, go through the story and try to free your heroes from the space trap! Classic turn-based RPG with the unusual story in the space."
+}

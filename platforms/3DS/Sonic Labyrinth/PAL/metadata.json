@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Action", "Adventure", "Arcade", "Platformer", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic Labyrinth",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 10, 2012",
+	"serial_number": "GAFP",
+	"synopsis": "Dr. Robotnik has tricked Sonic into wearing a pair of magical sneakers that prevent Sonic from running at super-sonic speeds. Sonic thought quickly though: \"These sneakers keep my feet from moving fast, but they won't slow down my Super Spin Dash!\" The only thing that can restore Sonic's speed are the Chaos Emeralds hidden in Dr. Robotnik's super labyrinth. Help Sonic find the Chaos Emeralds before his time runs out as he spins through four Labyrinth zones, each containing three regular stages and a Boss stage. -Step into special sneakers to make you run faster. But hurry, the power only lasts a short time -Use square warp gates to help you find special items -Grab 100 rings in the bonus stage to win an extra try"
+}

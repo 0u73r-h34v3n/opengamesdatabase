@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Batman - Arkham Origins Blackgate",
+	"publishers": ["WB Games"],
+	"release_date": "October 25, 2013",
+	"serial_number": "AZEE",
+	"synopsis": "Become the Batman Uncover the sinister plots inside Blackgate Prison. Use stealth, Bat gadgets or brute force to take down your rivals. Investigate the Scene Employ Batman's unprecedented detective skills to scrub a crime scene clean with an all-new environment analysis system. Continue the Story See what happens after the events of the Arkham Origins console game, told in an innovative 2D presentation and comic-style cut scenes."
+}

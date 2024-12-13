@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Kojima Productions"],
+	"genres": ["Action", "Adventure", "Stealth Action"],
+	"name": "Metal Gear Solid 3D: Snake Eater",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "18"
+		}
+	],
+	"release_date": "March 9, 2012",
+	"serial_number": "AMGP",
+	"synopsis": "October 16, 1962. The President of the United States received word that the Soviet Union had deployed nuclear missiles in Cuba. The world trembled in fear as the prospect of nuclear war loomed ever closer. After days of tense negotiations, the Soviets finally agreed on the 28th to withdraw their missiles from Cuban soil. With the resolution of this incident, later to be known as the Cuban Missile Crisis, it seemed that humanity had survived yet another threat to its existence."
+}

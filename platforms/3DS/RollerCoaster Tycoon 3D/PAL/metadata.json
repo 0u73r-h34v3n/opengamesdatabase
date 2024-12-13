@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Construction Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "RollerCoaster Tycoon 3D",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 26, 2012",
+	"serial_number": "AC8P",
+	"synopsis": "Scream if you want to go faster, as the world of theme park simulation arrives in the palm of your hand with Rollercoaster Tycoon 3D for Nintendo 3DS. Design and build the wildest rollercoasters imaginable, then ride them in stunning 3D!"
+}

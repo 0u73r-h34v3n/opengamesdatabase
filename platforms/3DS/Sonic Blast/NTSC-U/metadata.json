@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sonic Blast",
+	"publishers": ["SEGA"],
+	"release_date": "June 20, 2013",
+	"serial_number": "GAGE",
+	"synopsis": "In this fully rendered Game Gear classic, Dr. Eggman (AKA Dr. Robotnik) has stolen the Chaos Emeralds and it's up to Sonic the Hedgehog and Knuckles the Echidna to stop him. Guide Sonic and Knuckles through mazelike Zones and defeat Dr. Eggman’s mechanical menaces to show him that there’s nothing a determined Hedgehog or Echidna can't overcome. Play as Sonic or Knuckles as you race through 14 levels in search of hidden Power-ups. Use Sonic's new Double Jump to access hard-to-reach areas. Take advantage of Knuckles' climbing skills to gain extra points. Look out for Big Rings to enter Bonus Stages where there are extra lives and Chaos Emeralds to be found."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Double Dragon",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "June 23, 2011",
+	"serial_number": "RAUP",
+	"synopsis": "Re-experience the first handheld appearance of the acclaimed Double Dragon series! In this side-scrolling beat 'em up you fight your way through rival gangs' turfs using jumps, punches, kicks and more to save the kidnapped girl Marian. This version of the game does not have multiplayer functionality."
+}

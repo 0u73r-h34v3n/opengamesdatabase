@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MercurySteam"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Castlevania: Lords of Shadow Mirror of Fate",
+	"publishers": ["Konami Digital Entertainment GmbH"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "March 8, 2013",
+	"serial_number": "ACFP",
+	"synopsis": "What was once Gabriel Belmont is now a powerful vampire called Dracula. Join his descendants, the famed Belmont clan as they seek his ultimate destruction. • Intense whip combat and platforming. • Huge adventure with deep exploration and challenges. • Explore Dracula's castle and discover its darkest secrets."
+}

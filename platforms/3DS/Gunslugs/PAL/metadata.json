@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gunslugs",
+	"publishers": ["Engine Software"],
+	"release_date": "June 16, 2016",
+	"serial_number": "KGWP",
+	"synopsis": "Gunslugs is a fast paced run and jump game with procedurally generated levels and a rogue-like permadeath element. You get one life, and the only way you can extend that is by running into the Voodoo priest selling continue statues. Unlock the roster of Gunslugs heroes as you go, and use them to advance your way to the gates of Hell to defeat the final boss."
+}

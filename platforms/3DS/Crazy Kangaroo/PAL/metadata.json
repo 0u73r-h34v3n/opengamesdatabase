@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crazy Kangaroo",
+	"publishers": ["Gamelion"],
+	"release_date": "September 13, 2012",
+	"serial_number": "JKGP",
+	"synopsis": "A ground-breaking, super-addictive and unbelievably cute platform game from Gamelion that delivers pure awesomeness! MEET BARNEY - a cute kangaroo that was caught by evil poachers but luckily fell out of the aeroplane and now has to make his way home. Help him - you two should hop along together just fine! With intuitive Motion Sensor and Circle Pad controls, and handcrafted graphics, CRAZY KANGAROO is simply perfect. Give it a shot!"
+}

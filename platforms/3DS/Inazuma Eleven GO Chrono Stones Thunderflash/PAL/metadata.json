@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Football", "Role-Playing", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Inazuma Eleven GO Chrono Stones: Thunderflash",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 27, 2015",
+	"serial_number": "ARAP",
+	"synopsis": "In this huge football RPG, the player stars as a young schoolboy, Arion Sherwind, who discovers football has been erased from existence by an evil organisation from the future! Recruit the ultimate squad, travel through time, and win matches against rivals to rediscover Arion's friends, and restore football to its former glory in Inazuma Eleven GO Chrono Stones: Thunderflash on Nintendo 3DS and 2DS!"
+}

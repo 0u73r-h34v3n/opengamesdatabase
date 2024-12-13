@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Radiohammer",
+	"publishers": ["Aksys Games"],
+	"release_date": "December 10, 2015",
+	"serial_number": "KRHE",
+	"synopsis": "Rock the beat with Radiohammer in this rhythm action romp developed by Arc System Works and Vinyl Lab! Play as the world’s most famous super DJs and protect the peace with the power of love and music! Drop the beat on the bad guys as you shuck and jive your way through hordes of the morally maligned! Time your strikes to make the world a safer, funkier place with your superior sonic skills and impeccable rhythm. Take down massive villains and fend off furious flashers with groovy tunes and masterful mixes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arika", "Namco Bandai Games"],
+	"genres": ["Action", "Fighting"],
+	"locales": ["ES"],
+	"name": "TEKKEN 3D PRIME EDITION",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "February 17, 2012",
+	"serial_number": "ATKP",
+	"synopsis": "TEKKEN 3D PRIME EDITION for Nintendo 3DS will see the famous King of Iron Fist Tournament fought in 3D for the first time, with the unique functionality of Nintendo 3DS delivering a more realistic and dynamic TEKKEN experience. Players will choose from a selection of more than 40 characters and do battle on totally new stages alongside others redesigned especially for Nintendo 3DS."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "マリオのピクロス",
+	"synopsis": "このソフトは、1995年にゲームボーイ用ソフトとして発売されたパズルゲームです。 縦列と横列に表示される数字が意味するのは、「連続して削ることができるマスの数」。数字にしたがってマスを削り、その結果から、さらに削ることができるマスを推測します。マスをすべて正しく削ると絵が完成し、ステージクリア。収録されている全256ステージのクリアを目指します。"
+}

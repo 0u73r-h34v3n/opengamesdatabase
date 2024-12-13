@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Arcade"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ninja Gaiden III: The Ancient Ship of Doom",
+	"publishers": ["KOEI TECMO EUROPE"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 23, 2014",
+	"serial_number": "TBRP",
+	"synopsis": "The original NES™ adventures of Ryu Hayabusa conclude with Ninja Gaiden III: The Ancient Ship of Doom. Falsely accused of murder, Ryu must battle through seven action-packed stages to clear his name. Armed with his trusty sword and ninja power, Ryu can now grab platforms and pipes to perform swift attacks on enemies from above or below. You’ll need all of Ryu’s skills at your disposal to defeat the forces of evil and uncover the true culprit."
+}

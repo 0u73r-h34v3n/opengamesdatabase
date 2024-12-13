@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Binding of Isaac: Rebirth",
+	"publishers": ["Nicalis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "October 29, 2015",
+	"serial_number": "CBRP",
+	"synopsis": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. On his journey, Isaac will find bizarre treasures, face droves of strange creatures, discover secrets, and fight his way to safety. This is the ultimate of remakes with an all-new highly efficient game engine, new pixel style artwork, polished visual effects, all-new soundtrack, and hundreds of new designs, redesigns and enhancements."
+}

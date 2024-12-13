@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sushi Striker: The Way of Sushido",
+	"publishers": ["Nintendo"],
+	"release_date": "June 8, 2018",
+	"serial_number": "AFWP",
+	"synopsis": "The ultimate food fight! In the fast-paced world of conveyor-belt sushi fighting, match coloured plates of sushi to hurl tall stacks of plates at your opponent. The more matches you make, the taller the plate stack and the stronger your attacks will be. Defend your homeland from invading enemies in this puzzling action game so more people can enjoy delicious sushi in peace. May the best sushi striker reign supreme! Supports 2 Players online and 2 Players via Local Play"
+}

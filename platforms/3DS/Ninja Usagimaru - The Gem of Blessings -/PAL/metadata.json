@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ninja Usagimaru - The Gem of Blessings -",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "October 15, 2015",
+	"serial_number": "JSPP",
+	"synopsis": "You control Usagimaru, and sets off on a journey to rescue captivated villagers from the evil grasps of the Mononoke. Your mission is to bring the villagers to the safety of the Usagi Statue. In each stage there will be a captured villager, and the path to rescue them is filled with various traps and Mononoke. Use the various tools you have at possession, and utilise the terrain and even the Mononoke themselves in order to rescue the villagers, and finally bring them to safety!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Monster Hunter Stories Demo",
+	"publishers": ["Nintendo"],
+	"release_date": "August 10, 2017",
+	"serial_number": "KZZP",
+	"synopsis": "Play the demo and get a free item! If you have save data for the Monster Hunter Stories™ demo on your Nintendo 3DS family system, you can get a free Rider’s Outfit for Navirou when you purchase the full game! Take flight on a whirlwind adventure through a vast new world, filled with amazing places to explore and new friends to meet!"
+}

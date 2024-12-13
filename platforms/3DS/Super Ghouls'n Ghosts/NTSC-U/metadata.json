@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Ghouls'n Ghosts",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 20, 2016",
+	"serial_number": "UAPE",
+	"synopsis": "The third game in the legendary Ghosts’n Goblins series, Super Ghouls’n Ghosts follows brave Sir Arthur’s quest through demon-infested lands to rescue the kidnapped princess. Battle through deadly stages and beat each level’s boss to progress. But watch out: if Arthur is injured his armour breaks, leaving him only in his boxer shorts! Originally developed exclusively for Super NES™, this supremely challenging platformer won critical acclaim and became an instant bestseller. This is the US version of the game."
+}

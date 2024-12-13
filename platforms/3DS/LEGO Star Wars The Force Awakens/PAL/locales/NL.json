@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "LEGO Star Wars: The Force Awakens",
+	"synopsis": "Deze patch tilt LEGO STAR WARS: The Force Awakens naar v1.1.0 en bevat een aantal probleemoplossingen. • Het spel crashte als personages werden aangepast. Dit kwam door een memory leak, maar het probleem is verholpen. • Het spel crashte soms bij het openen van de Galaxy Map, maar ook dit is verholpen. • Als een speler direct na een vrij spelen-missie het spel pauzeerde, kon hij soms niet meer verder met het spel. Dit probleem is nu opgelost. • Het probleem waarbij het geheugen crashte tijdens het spel is opgelost. • De speler kon soms tijden het vliegen niet meer op het touchscreen tikken om van voertuig te wisselen. Dit is nu verholpen. • Als een speler snel van personage wisselde, trad er soms een probleem op waarbij de tekst 'MISSING STRING' verscheen, en ook dit is opgelost. • De credits zijn bijgewerkt."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "PICROSS e",
+	"synopsis": "Esta es la serie de \"crucigramas de imágenes\", desarrollada por Nintendo desde 1995 como marca propia. En esta serie, tendrás que utilizar números para completar todo tipo de ilustraciones. Sus reglas son sencillas, por lo que el juego puede ser disfrutado por todo tipo de personas. Esta versión se ha implementado una nueva función de navegación para que los puzles puedan ser resueltos más fácilmente. Hay 3 tamaños de crucigramas: 5x5, 10x10 y 15x15. No subestimes los crucigramas por ser pequeños. Hay bastantes crucigramas que serán un reto. Termina un crucigrama antes de que se acabe el tiempo y la imagen aparecerá a color."
+}

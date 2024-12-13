@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby's Pinball Land",
+	"publishers": ["Nintendo"],
+	"release_date": "July 12, 2012",
+	"serial_number": "RBZE",
+	"synopsis": "Original Release Date: November 1993 Choose your world and take aim! Kirby™ will be launched into the fast-paced dangers of uncharted worlds, but you can help him face his foes head on. It's a pinball race to check out each new world's surprise enemies and pitfalls. Flip Kirby in battles against lethal eyeballs, a shooting tree and mace-swinging maniacs. Take aim and leap to new worlds. Three different pinball games, four screens tall, with tons of secret bonus levels!"
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Teyon"],
+	"genres": ["Simulation"],
+	"locales": ["JA"],
+	"name": "きょうりゅうペット3D",
+	"publishers": ["テヨンジャパン"],
+	"release_date": "March 13, 2013",
+	"serial_number": "JDDJ"
+}

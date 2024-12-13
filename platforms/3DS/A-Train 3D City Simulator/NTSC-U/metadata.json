@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "A-Train 3D: City Simulator",
+	"publishers": ["Natsume Inc."],
+	"release_date": "April 14, 2015",
+	"serial_number": "AALE",
+	"synopsis": "Offers in-game purchases In A-Train 3D: City Simulator, you become the CEO of a transportation company of a city. As CEO, it's your job to take on the challenges your city is facing. Build train and bus lines, purchase subsidiaries, and help turn your fledgling city into a thriving metropolis! But watch out! If you run out of funds, or aren't able to complete your goals, you'll be fired! Therefore, you'll have to do your best to keep the company going strong! Keep the cities, towns, and outlying villages running smoothly! Buy and place complex transportation systems to increase population! Map Editor Mode: Lets you build and set scenario requirements to beat!"
+}

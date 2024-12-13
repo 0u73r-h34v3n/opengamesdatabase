@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TT Games"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "LEGO Marvel Super Heroes: Universe in Peril",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 21, 2013",
+	"serial_number": "AL5P",
+	"synopsis": "LEGO® Marvel™ Super Heroes: Universe in Peril for Nintendo 3DS™ features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world. Players will chase down Cosmic Bricks as they travel across key locations from the Marvel Universe, such as Stark Tower, Asteroid M, a Hydra base and the X-Mansion."
+}

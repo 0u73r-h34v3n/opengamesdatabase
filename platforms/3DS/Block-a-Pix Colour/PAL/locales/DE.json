@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Block-a-Pix Colour",
+	"synopsis": "Block-a-Pix ist ein Block-Puzzle, bei dem in jedem Raster ein Bild versteckt ist. Enthüllen Sie das Bild, indem Sie das Raster in kleinere rechteckige Blöcke teilen. Jeder Block muss eine Hinweisnummer enthalten, die Ihnen die Anzahl der von diesem Block abgedeckten Gitterquadrate und die Farbe des Blocks angibt. Block-a-Pix kann immer mit logischen Schlussfolgerungen gelöst werden. Man muss niemals raten! Dieses Spiel enthält 120 exklusive Rätsel, die von Conceptis Ltd. entworfen wurden. Die Rätsel reichen in ihrem Schwierigkeitsgrad und in ihrer Größe von kleinen Einführungsbildern bis hin zu riesigen scrollbaren Rastern mit sehr detaillierten Bildern."
+}

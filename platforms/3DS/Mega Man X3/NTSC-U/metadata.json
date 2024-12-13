@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man X3",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 11, 2016",
+	"serial_number": "UA5E",
+	"synopsis": "Just when it seemed like a cure for the Reploids had been found, suddenly the once-peaceful robots are turning back into rogue Mavericks. As Maverick Hunters, Mega Man X and Zero spring into action. Mega Man X3 is the final chapter of the series on Super Nintendo. Play as Mega Man X or, for the first time, as Zero who has even more powerful weaponry. In addition to the classic run-and-gun gameplay, collect armour and new Enhancement Chips to upgrade your abilities further. Do you have the skills to fight this latest outbreak? This is the US version of the game."
+}

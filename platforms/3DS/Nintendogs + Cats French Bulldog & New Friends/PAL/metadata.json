@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Simulation", "Virtual Pet"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Nintendogs + Cats: French Bulldog & New Friends",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 19, 2013",
+	"serial_number": "ADBP",
+	"synopsis": "nintendogs puppies are back in the palm of your hand on the Nintendo 3DS system, with even cuter and more expressive puppies and, for the first time, kittens!"
+}

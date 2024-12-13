@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Summer Carnival '92 RECCA",
+	"publishers": ["Kaga Electronics"],
+	"release_date": "September 5, 2013",
+	"serial_number": "TAVE",
+	"synopsis": "Experience the frenetic pace of this classic top-down shooter. Created for a gaming competition back in 1992, Summer Carnival ’92 RECCA makes its way to North American shores for the first time! Widely considered one of the most challenging shooters ever made, you must fight your through wave after wave of enemy ships, and defeat the boss at the end of each stage. There are five primary weapons, and five secondary weapons, all of which can be powered-up. Prepare for takeoff to carry out the ultimate mission for the survival of humankind!"
+}

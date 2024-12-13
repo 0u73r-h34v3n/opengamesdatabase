@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic the Hedgehog",
+	"publishers": ["SEGA"],
+	"release_date": "June 13, 2013",
+	"serial_number": "GATP",
+	"synopsis": "Get into gear with Sonic the Hedgehog! Originally released for the Game Gear, play as Sonic as he speeds through zones and frees animals from their mechanical prisons with his devastating spin attacks! Blaze through five super challenging zones and defeat all of Dr. Eggman’s (AKA Dr. Robotnik) machines in order to put an end to his evil schemes! Features: - Dash through five super challenging zones with three acts in each zone. - Soar through bonus levels brimming with springs, bumpers, flippers and more."
+}

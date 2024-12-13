@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["h.a.n.d Inc."],
+	"genres": ["Simulation"],
+	"locales": ["ES", "FR"],
+	"name": "Disney Magical World",
+	"publishers": ["Nintendo"],
+	"release_date": "April 11, 2014",
+	"serial_number": "AMQE"
+}

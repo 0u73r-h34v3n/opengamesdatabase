@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ambition of the Slimes",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "August 11, 2016",
+	"serial_number": "KQSE",
+	"synopsis": "Ambition of the Slimes is a turn-based strategy RPG that controls the slimes to battle. Different kinds of slimes have their own abilities, you have to choose the proper slime to take over the enemy and consider how to battle with them. Many tactics can be used in battle and your choice is the key to victory. Try another method if you cannot defeat your enemy because the slimes are too weak to battle by themselves."
+}

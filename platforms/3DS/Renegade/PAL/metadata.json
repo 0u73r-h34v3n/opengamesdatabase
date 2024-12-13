@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Renegade",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "February 20, 2014",
+	"serial_number": "TCLP",
+	"synopsis": "Renegade was a highly influential benchmark in the beat ‘em up genre. Step into the shoes of a vigilante who must battle his way through subways, parks, alleyways and parking lots. You can even burn rubber on a motorcycle. Pick up items like a hamburger that restores life, a heart that increases your lives by one and an item that gives your bike a boost. You’ll need all the help you can get to take out the many street punks, killer kung-fu females, outlaw bikers and array of bosses standing in your way."
+}

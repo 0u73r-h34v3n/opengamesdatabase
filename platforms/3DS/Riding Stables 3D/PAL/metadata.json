@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Riding Stables 3D",
+	"publishers": ["TREVA"],
+	"release_date": "October 14, 2021",
+	"serial_number": "AMUP",
+	"synopsis": "An exciting 3D horse adventure awaits you! Which family will win the coveted pasture? Immerse yourself in this gripping tale of true friendship and sinister plots. Train the ranch horses, take good care of them, and prepare for the final deciding tournament. • Exciting mini games • Appealing story with 30 different quests. • StreetPass™: compare results with friends and other players. • Several mini games with first person view. • Augmented Reality feature: The horse magically appears in front of you."
+}

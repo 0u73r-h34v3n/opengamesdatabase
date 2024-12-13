@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PICROSS e3",
+	"publishers": ["JUPITER"],
+	"release_date": "October 3, 2013",
+	"serial_number": "JETE",
+	"synopsis": "The new Picross e3 is equipped with a navigation function. It includes an all-new mode called \"Mega Picross\" that's a must-see for fans! Picross is a \"Picture Crossword Puzzle Game\" in which you use numbers as hints to complete illustrations. The rules are simple and easy to understand. Anyone can do it! Beginners and intermediate players alike will be able to enjoy these 150 all-new puzzles! The new Picross includes an all-new mode, \"Mega Picross,\" which has \"Mega Numbers,\" numbers which span two rows. It can be difficult to determine where to fill Mega Numbers, so a different kind of logic from the normal Picross may be necessary. You can change the rules for each puzzle to your own liking as you play."
+}

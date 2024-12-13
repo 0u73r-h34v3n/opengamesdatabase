@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Wario Land 3",
+	"publishers": ["Nintendo"],
+	"release_date": "August 29, 2013",
+	"serial_number": "QAPE",
+	"synopsis": "Trapped inside a magical music box, the invincible Wario is on a dangerous quest to help a mysterious figure recover its lost powers! Smash, bash, and crash you way through more than two dozen gigantic levels in search of hidden keys, treasures, and mystical music boxes. Become Fat Wario, Zombie Wario, Vampire Wario and more! But be careful, Wario’s wacky transformations may help or hinder you in your quest. Seek out the 100 Treasures to reveal secrets, open new levels and power-up Wario with even more abilities. Test your wits on level after intricate level and flex your muscles in action-packed boss fights!"
+}

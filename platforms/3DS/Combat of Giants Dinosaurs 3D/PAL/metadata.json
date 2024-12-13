@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Quebec"],
+	"genres": ["Action", "Fighting"],
+	"locales": ["ES"],
+	"name": "Combat of Giants Dinosaurs 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 31, 2011",
+	"serial_number": "ATTP",
+	"synopsis": "Explore a captivating 3D Jurassic world! After the great success of the previous Combat of Giants titles, Combat of Giants Dinosaurs 3D pushes the thrill to bigger heights by immersing you in a 3D cataclysmic Jurassic world on Nintendo 3DS!"
+}

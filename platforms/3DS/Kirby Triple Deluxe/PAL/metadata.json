@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory", "Inc."],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Kirby: Triple Deluxe",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 16, 2014",
+	"serial_number": "BALP",
+	"synopsis": "Scroll side-to-side and shift back-to-front in Kirby: Triple Deluxe, only on Nintendo 3DS family systems! Discover hidden depths as Kirby leaps in and out of the background to explore new areas, solve puzzles and dodge enemies. But beware, bad guys lie in wait both before and behind you, and they can attack from all directions!"
+}

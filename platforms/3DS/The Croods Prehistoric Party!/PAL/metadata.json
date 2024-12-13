@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Torus Games"],
+	"genres": ["Action", "Board Game", "Party", "Platformer"],
+	"locales": ["ES"],
+	"name": "The Croods: Prehistoric Party!",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 12, 2013",
+	"serial_number": "AQRP",
+	"synopsis": "The Croods: Prehistoric Party! combines the ultimate fun of a family party game with Croods-style action as you journey through 30 unique and addictive multiplayer minigames. Game boards bring the Croods’ world to life, complete with hazards, never-before-seen creatures from the film, hilarious surprises and rough-and-tumble competition that only the Croods can bring."
+}

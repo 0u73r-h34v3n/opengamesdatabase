@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Baseball",
+	"publishers": ["Nintendo"],
+	"release_date": "July 28, 2011",
+	"serial_number": "RABP",
+	"synopsis": "Strategy, skill and determination. It takes all three to win in Baseball! Choose a starting pitcher from your bullpen (Mario is an old favourite). Hurl fastballs past the batter. If he connects, your outfield backs up to snag a fly. A sturdy infield backs you up on grounders and pop-ups. Three outs later and your team is up. Take a strike to feel out the pitcher. Then drive a long one. It's a home run! You can even choose between American or Japanese-style modes. This version of the game does not have multiplayer functionality."
+}

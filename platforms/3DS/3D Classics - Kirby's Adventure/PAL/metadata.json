@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Classics - Kirby's Adventure",
+	"publishers": ["Nintendo"],
+	"release_date": "November 17, 2011",
+	"serial_number": "SAFP",
+	"synopsis": "Enjoy classic games in a new dimension with the 3D Classics range, remastered with immersive 3D visuals! In 3D Classics Kirby's Adventure, Kirby must reassemble the pieces of the Star Rod so that the people of Dream Land can dream once again. Originally on NES, Kirby's Adventure introduced Kirby's copy ability; allowing the innocent pink blob to fire lasers, burst into flames, become a giant mallet, and more. With lots of minigames and secrets to discover, too, Kirby’s Adventure – like Kirby – is full of surprises!"
+}

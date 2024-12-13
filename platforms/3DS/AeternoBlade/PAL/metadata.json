@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Corecell Technology"],
+	"genres": ["2d Platformer", "Action"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "AeternoBlade",
+	"publishers": ["CORECELL"],
+	"release_date": "May 27, 2014",
+	"serial_number": "ACUP",
+	"synopsis": "AeternoBlade v1.1 Update This update will fix the following important issues: 1. Fix a struck bug where you can enter Eternal Void twice via Great Pyramid stage and will got lock-up in that stage. 2. Fix an issue with \"Freeze Gear\" item, which you will lose it forever if you miss the puzzle once. Results in never be able to complete a 100% save game. 3. Fix application freezes and crashes while loading. 4. Fix attack timing in Jump-Down-Attack move. 5. Fix \"Return to last checkpoint\" command when fighting with Chrono Lord."
+}

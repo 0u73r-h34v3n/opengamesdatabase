@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Balloon Pop Remix",
+	"publishers": ["UFO Interactive"],
+	"release_date": "September 6, 2012",
+	"serial_number": "JB9E",
+	"synopsis": "The ultimate popping puzzler is back! Balloon Pop® Remix takes the classic Balloon Pop® formula and turns it on its head! Use the stylus to draw lines on the puzzle board and all the balloons in the line’s path will pop, leading into mesmerizing chain reactions! With a deep story mode, 100+ stages in puzzle mode, exhilarating endless mode, and a pick-up-and-play mini-games mode, there is absolutely no shortage of delightful content to pop through!"
+}

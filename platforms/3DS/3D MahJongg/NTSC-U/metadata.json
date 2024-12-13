@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D MahJongg",
+	"publishers": ["Joindots"],
+	"release_date": "November 22, 2012",
+	"serial_number": "AG2E",
+	"synopsis": "3D MahJongg gives you a huge variety of levels, gameplay variations and graphics themes. In 3D MahJongg, the goal is to find pairs of matching tiles in order to remove all tiles from the board. This sounds like a simple task, but you will soon find that a savvy strategy - along with a bit of luck - is the key to success. Gameplay is direct and intuitive via the touch screen. You can closely observe everything on the 3D screen and make extensive changes to the way you view the tile layout. And you'll love the fabulous six graphics themes from \"Farm\" to \"Zombies\". In Adventure Mode, you will need to master 200 levels in order to unlock all tiles, backgrounds etc. You can then use these elements in free gameplay to create custom levels. You can also switch between classic rules and \"Rivers\" rules at any time. 2 game versions: Classic and Rivers mode Adventure Mode with 200 levels Free gameplay with more than 10,000 variations 6 themes: Asia, Farm, Princess, Sea, Casino and Zombies"
+}

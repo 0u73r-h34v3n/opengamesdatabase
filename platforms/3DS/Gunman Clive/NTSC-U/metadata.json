@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Gunman Clive",
+	"publishers": ["Hörberg Productions"],
+	"release_date": "January 3, 2013",
+	"serial_number": "JGCE",
+	"synopsis": "In the year of 18XX, the west is overrun by thugs and outlaws. A group of bandits have kidnapped Mayor Johnsons daughter and are spreading havoc across the land. Only Gunman Clive can bring order to the west and save the girl! Jump and shoot your way across diverse and challenging levels and fight massive bosses. Gunman Clive is an old-school sidescrolling platform game set in the old west with full 3D graphics and a unique artstyle. Bring out your inner cowboy and get ready for some real gunslinger action."
+}

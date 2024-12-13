@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD", "Retro Studios"],
+	"genres": ["Kart Racing", "Party", "Racing"],
+	"locales": ["ES", "FR"],
+	"name": "Mario Kart 7",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 4, 2011",
+	"serial_number": "AMKE"
+}

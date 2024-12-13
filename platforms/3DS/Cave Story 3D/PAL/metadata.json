@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc.", "Nicalis"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cave Story 3D",
+	"publishers": ["Nippon Ichi Software America"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 11, 2011",
+	"serial_number": "ACVP",
+	"synopsis": "Cave Story 3D on Nintendo 3DS lets players enjoy arguably the most famous indie game of recent years on a handheld, in full 3D. Ideal for players looking for fast-paced action, light puzzle-solving and a world to explore on the go!"
+}

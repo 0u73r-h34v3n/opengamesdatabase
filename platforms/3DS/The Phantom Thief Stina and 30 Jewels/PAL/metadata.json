@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Phantom Thief Stina and 30 Jewels",
+	"publishers": ["Agetec"],
+	"release_date": "June 20, 2013",
+	"serial_number": "JS3P",
+	"synopsis": "Sneak pass the guards, bypass the security codes and experience the rush of stealing the jewels. The year is 2120, and humanoid robot helpers are commonplace, even among thieves. Not that the Phantom Thief Stina is a commonplace thief! This self-proclaimed artiste and her pack of burglar bots are taking on Detective Sara and her robotic security team in an epic battle of wits! Heist all 30 jewels to complete the game and unlock the detective mode. Play as detective Sara and deploy her robotic security team to protect the jewels against the Phantom Thief. Are you able to protect the jewels against the Phantom Thief? A real-time strategy and action game that allow you to play as both the hero and villain; which one will you excel at? Features: - Unlock additional game mode! - Play as the thief or the detective! - 30 Challenging Stages!"
+}

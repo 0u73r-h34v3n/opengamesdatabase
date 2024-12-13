@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Chronus Arc",
+	"publishers": ["KEMCO"],
+	"release_date": "October 1, 2015",
+	"serial_number": "JCNE",
+	"synopsis": "The Chronus Fragments are needed to prepare for the Time Rewinding, which only takes place once every 10 years. On their way to the Chronus Shrine to get the Fragments, Loka and his teacher Teth are surrounded by a mysterious man named Geppel and his gang. They demand the Fragments. While Teth plays for time, Loka, the main character, rushes out of the cave on his own to fetch reinforcements. He is successful, but Teth and Geppel are nowhere to be found. Aiming to gather information about his missing teacher, Teth, and Geppel, who is trying to get his hands on the Fragments, Loka decides to set out on a journey with his friend Sarna. The game features familiar quests, but also dungeons filled with puzzles to solve, and characters who grow and can be developed as the story progresses with the class change system. Also, additional dungeons and special items are available for extra fun by collecting Mana! Don't miss out on Loka and his friends' grand adventure!"
+}

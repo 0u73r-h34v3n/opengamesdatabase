@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Tennis",
+	"publishers": ["Nintendo"],
+	"release_date": "June 7, 2011",
+	"serial_number": "RADP",
+	"synopsis": "Serve, volley, lob, smash… all the moves of the real sport are faithfully recreated, yet simple enough for anyone to perform, in the Game Boy classic Tennis. Four levels of increasingly tricky CPU opponents are ready to take you on; so you’ll need fast reactions and careful timing to become the champ. Perform power serves, skilful shots, lofty lobs and killer cross-courts, as you rise up the ranks. Close calls will be up to the umpire to decide; who may look strangely familiar… This version of the game does not have multiplayer functionality."
+}

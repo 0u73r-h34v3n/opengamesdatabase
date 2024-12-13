@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Shinobi",
+	"publishers": ["SEGA"],
+	"release_date": "March 15, 2012",
+	"serial_number": "GACE",
+	"synopsis": "Only you can save them. As Joe Musashi, Red leader of the Oboro School of Shinobi, your destiny awaits. An evil force emanating from Neo City has captured your fellow students. Attack with your powerful katana as you battle for their freedom. Each ninja you rescue adds their formidable weaponry, training and Ninjutsu magic to yours. Destroy the enemies with bombs, shurikens, a crescent blade and more. Use the magic of the ninja to wreak havoc with the force of a tornado or the blinding glow of lightning. When all else fails, turn your body into a living bomb and explode with concussive damage. Do not stop until the City of Fear is annihilated! Are you ready for the challenge of Ninja warfare? Special abilities include running on water, swinging from a crescent blade and walking on ceilings Ninjutsu magic includes tornadoes, earthquakes and energy fields"
+}

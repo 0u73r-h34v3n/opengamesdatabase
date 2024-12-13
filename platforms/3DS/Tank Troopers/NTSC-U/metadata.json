@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Tank Troopers",
+	"publishers": ["Nintendo"],
+	"release_date": "February 16, 2017",
+	"serial_number": "KTWE",
+	"synopsis": "ATTENTION! Calling all troopers for 6-player* tank warfare! Choose a tank, pick troopers, and battle your friends via local wireless. Each trooper has a special ability, from electric shocks to healing. Deploy them tactically to win 30+ custom tanks with unique stats. Battle with bombs, on teams, or in a free-for-all—but always fight! Fight! FIGHT! The single-player mode contains 30 stages, so you’ll have to devise a multitude of strategies and maneuvers to conquer them all. Not to mention, each stage will issue you a new challenge, such as defeating an enormous tank that makes yours look like a chew toy. You can take on these challenges aboard your own customized tank or use a provided one. Either way, your tank will have a specific crew capacity and stats. As you battle, you’ll find power-ups, like camouflage and Stamina Meat, while earning coins that you can spend to get more troopers, tanks, and paint jobs. Make sure this fight is one your friends and enemies won’t soon forget!"
+}

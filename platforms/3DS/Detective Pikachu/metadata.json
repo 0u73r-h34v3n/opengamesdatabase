@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Creatures Inc"],
+	"genres": ["Action", "Adventure", "Point-And-Click"],
+	"name": "Detective Pikachu",
+	"publishers": ["Nintendo"],
+	"regions": ["PAL"],
+	"release_date": "March 23, 2018",
+	"serial_number": "A98A",
+	"synopsis": "Detective Pikachu is on the case! Put your detective hat on – it’s time to crack the case of a boy’s missing father in Detective Pikachu, a unique adventure game filled with beloved Pokémon. Follow the story of Tim Goodman, an 18-year-old university student with a strong sense of justice, and form an unlikely partnership with a peculiar talking Pikachu! Gather evidence, interview witnesses, and piece together a variety of clues to unravel the many mysteries surrounding Ryme City. This game also supports Japanese Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

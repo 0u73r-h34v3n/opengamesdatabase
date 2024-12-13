@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Metroid",
+	"publishers": ["Nintendo"],
+	"release_date": "March 1, 2012",
+	"serial_number": "TADE",
+	"synopsis": "Original Release Date: August 1986 The first installment of the immensely successful Metroid series introduces us to the hideous title creatures and the slick, cybernetic bounty hunter Samus Aran. As Samus™, your mission is to penetrate the space pirates' home planet, Zebes, and keep them from destroying the galaxy with the dangerous life forms known as Metroids. Metroid has all the high-tech weaponry, creepy tunnels and crawly alien creatures that anyone could ask for. With its deep and complex game play, excellent music and a rare sense of setting, it establishes a frightening ambience that will haunt and entertain you for a very long time."
+}

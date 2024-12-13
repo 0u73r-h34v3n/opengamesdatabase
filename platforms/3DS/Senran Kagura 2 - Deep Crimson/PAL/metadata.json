@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TamSoft"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Senran Kagura 2 - Deep Crimson",
+	"publishers": ["Marvelous Europe"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "August 27, 2015",
+	"serial_number": "BNUP",
+	"synopsis": "SENRAN KAGURA 2: Deep Crimson is the latest Nintendo 3DS™ title in the infamous SENRAN KAGURA franchise. For those who aren’t familiar, expect a fast-paced beat ‘em up game with insane combo chains, plenty of playable characters, hilarious cutscenes and an abundance of tantalising action! The game picks up directly where its Nintendo 3DS™ predecessor SENRAN KAGURA Burst left off, and follows the Hanzo & Hebijo Shinobi Academies as they battle for good and evil respectively. This time however there is a greater evil at work, as the tyrannous tycoon behind the Hebijo Academy is hell-bent on raining terror across all of Japan by utilising a destructive army of summoned demons! This great danger thrusts the girls together and forces them to unite and work as one in a way the series has never seen before. FEATURES: Pair Battles For the first time ever, two shinobi warriors from opposing academies must fight together, and the dual character combo system allows for spectacular and devastating joint attacks. Improved graphics and stellar audio The graphical improvement from ‘Burst’ is dramatic, with full 3D environments, improved animations and a better framerate! This is combined with original Japanese voice-overs to create a gorgeous experience all-round. Local & Nintendo Wi-Fi Connection Co-op mode For the first time on Nintendo 3DS™, two players will be able to join forces and play the story or special missions together via ad hoc multiplayer or online. Improved Dressing Room The dressing room is stocked with hundreds of items, and this time up to two shinobi can be present in the dressing room at once! Also, for the very first time in the series you can pose the girls in a variety of positions, and even pose them in real life environments using the Nintendo 3DS™’ built-in camera!"
+}

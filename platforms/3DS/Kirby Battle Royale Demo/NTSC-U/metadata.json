@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby Battle Royale Demo",
+	"publishers": ["Nintendo"],
+	"release_date": "January 4, 2018",
+	"serial_number": "BB4E",
+	"synopsis": "In this demo, Kirby enters a tournament against his toughest rival yet…himself! The demo allows players to try 3 battles in the single-player and multiplayer* modes. Try the Sword, Cutter, and Beetle ability, and transfer Meta Knight and coins as a bonus to the main game once the full version is purchased!"
+}

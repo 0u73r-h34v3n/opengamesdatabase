@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rayman",
+	"publishers": ["Ubisoft"],
+	"release_date": "May 31, 2012",
+	"serial_number": "QALE",
+	"synopsis": "The original Rayman, the critically-acclaimed classic platforming adventure, is now available! Known for its groundbreaking animations and music, Rayman is a game that stands the test of time. One fateful day in the Glade of Dreams, the evil Mr. Dark threatens the world and traps the Electoons. It is up to Rayman to free them and defeat the evil forces. Over 70 levels of platforming madness Explore 6 unique worlds Menacing enemies and epic boss battles Fun for all, but difficult to defeat..."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Puzzler Brain Games",
+	"publishers": ["Maximum Games"],
+	"release_date": "April 23, 2013",
+	"serial_number": "AAGE",
+	"synopsis": "The world’s best-selling puzzle brand brings you Puzzler Brain, an all-new collection of puzzles to keep your mind sharp! Put your memory, literary, numerical, and visual skills to the test with 20 brand new fun puzzles, a new Practice mode to exercise your skills, and all-new medals to unlock. Do you have what it takes to be the ultimate Puzzler Brain champion? Work through the Professor’s program to find out! Review your progress with the in-game Progress Tracker and test as many times as you wish. Get your brain working with the ultimate puzzle compilation!"
+}

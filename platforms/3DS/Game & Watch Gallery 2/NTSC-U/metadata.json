@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Game & Watch Gallery 2",
+	"publishers": ["Nintendo"],
+	"release_date": "May 24, 2012",
+	"serial_number": "QAKE",
+	"synopsis": "With the second of the Game & Watch Gallery series, you can enjoy five different games, both in their original and revised releases. Classic versions will take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters, bringing you to the present with improved play control, color and sound effects. Parachute - Rescue the parachutists. Helmet - Don't get hit in the head. Chef - Flip up a gourmet meal. Vermin - Whack the enemies. Donkey Kong™ - Rescue your kidnapped sweetie."
+}

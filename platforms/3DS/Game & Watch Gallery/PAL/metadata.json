@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Game & Watch Gallery",
+	"publishers": ["Nintendo"],
+	"release_date": "July 21, 2011",
+	"serial_number": "RAKP",
+	"synopsis": "Game & Watch Gallery is a revival of the classics: four masterpieces from the Game & Watch series! Manhole: Keep up with the moving pedestrians and do not allow them to fall into uncovered manholes. Fire: The building is on fire! Can you safely bounce the escapees to the ambulance? Octopus: Avoid the tentacles and dive down to the treasure stowed in the chest. Oil Panic: The pipes are leaking! Catch the dripping oil and find a way to get rid of it. Besides the Classic Mode, all games can be played in the exciting Modern Mode that combines the simple movements of the original games with new graphics featuring your favourite Nintendo characters!"
+}

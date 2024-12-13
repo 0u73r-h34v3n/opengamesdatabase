@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Anime Workshop",
+	"publishers": ["Collavier"],
+	"release_date": "March 1, 2018",
+	"serial_number": "KTCP",
+	"synopsis": "Let's make animation easily with characters written by yourself! Character animation is more easy than Cartoon. Less time and effort! You can post the animation you made on the internet and show it to your friends. Since the movement of a character can be reused as an object. When making the next story, animation can be made quicker and easier. Let's shape your story!"
+}

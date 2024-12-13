@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Toybox Inc."],
+	"genres": ["Adventure", "Simulation"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hometown Story",
+	"publishers": ["Natsume Inc."],
+	"release_date": "October 22, 2013",
+	"serial_number": "AHXE",
+	"synopsis": "Hometown Story takes you to a lush, green village tucked away in the countryside. The shop you inherited has brought you back to your hometown. However, the shop has become run down, and no one wants to even window shop there anymore. Can you turn the shop around and even expand it, or is it destined to stay in the red forever? You won't have to go it alone, though. You'll get help from a magical sprite named Pochica, who will help you get the store back up and running, and introduce you to all of the unique characters who reside in the town. The villagers will all change and grow throughout the game, and that person who you thought might be up to no good when you first met them just might have a heart of gold! Your experiences will be completely different from anyone else's. You'll never know what to expect in Hometown Story!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Magic Pockets"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Fashion World 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 26, 2011",
+	"serial_number": "AF3P",
+	"synopsis": "Create unique clothes and trends, create the wardrobe of your dreams! A series of different challenges will allow you to customize the most fashionable clothes and dress stars: for a fashion magazine cover, a film premiere or even for the casting of the most popular TV series."
+}

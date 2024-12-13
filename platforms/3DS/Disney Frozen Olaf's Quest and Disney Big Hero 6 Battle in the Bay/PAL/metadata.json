@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Action", "Adventure", "Compilation", "Platformer", "Puzzle"],
+	"name": "Disney Frozen: Olaf's Quest and Disney Big Hero 6: Battle in the Bay",
+	"publishers": ["Maximum Family Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 3, 2016",
+	"serial_number": "BF6Z",
+	"synopsis": "2 Disney adeventure games in 1 great double pack!"
+}

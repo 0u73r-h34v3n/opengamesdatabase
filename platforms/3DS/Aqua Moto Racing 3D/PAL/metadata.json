@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Aqua Moto Racing 3D",
+	"publishers": ["Zordix"],
+	"release_date": "June 27, 2013",
+	"serial_number": "JMTP",
+	"synopsis": "Experience the thrill of high powered watercraft and break-neck stunts in exotic locations of heaving oceans and sandy beaches. Buy new watercraft and use their extra speed to win the career Championships and unlock new Achievements. Challenge your friends in local multiplayer mode. Get Ready For The Waveride Of Your Life!"
+}

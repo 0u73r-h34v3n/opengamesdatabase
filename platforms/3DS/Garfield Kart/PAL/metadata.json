@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artefacts Studios"],
+	"genres": ["Kart Racing", "Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Garfield Kart",
+	"publishers": ["Microids"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 25, 2015",
+	"serial_number": "AGPP",
+	"synopsis": "Join Garfield and his friends in the funniest fast and furry-ious game! • 16 different circuits withstunning 3D environments from the world of Garfield • 8 characters (Garfield, Odie, Jon, Nermal, Arlene, Liz, Harry and Squeak) • Use your driving skills (skids, mini jumps, shortcuts) • 8 bonuses for some crazy attacks and defenses"
+}

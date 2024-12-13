@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pokémon Puzzle Challenge",
+	"publishers": ["Nintendo"],
+	"release_date": "November 27, 2014",
+	"serial_number": "QBAP",
+	"synopsis": "Journey to Johto for a different kind of Pokémon challenge, as you put your puzzling skills to the test against the toughest gym leaders! Classic Pokémon like Pikachu, Chikorita, Totodile and Pichu will help you take on challengers and rival Pokémon. Use your lightning-fast reflexes to clear blocks and form chains and combos to rack up huge scores. Choose from six thrilling modes including Marathon, Challenge, Time Zone, Line Clear, Puzzle and the gripping Garbage! mode as you try to hang on for big points while blocks rain down."
+}

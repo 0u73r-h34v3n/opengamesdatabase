@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Classics - Xevious",
+	"publishers": ["Nintendo"],
+	"release_date": "July 21, 2011",
+	"serial_number": "SABE",
+	"synopsis": "3D Classics: Xevious revisits the popular vertical-scrolling arcade game, bringing back favorite elements of the classic to enjoy in both 2D and 3D! In this enhanced version, view Solvalou from a mid-air perspective, gauging incoming fire from down below while the scenery and aerial enemies fly on by! Pilot the advanced fighter-bomber through 16 hazardous areas and destroy as many targets as possible. Annihilate the Andor Genesis for extra points and earn a place in the High Scores! The age-old question stands for the long-time and new fans of this arcade classic--are you devious enough to beat Xevious?"
+}

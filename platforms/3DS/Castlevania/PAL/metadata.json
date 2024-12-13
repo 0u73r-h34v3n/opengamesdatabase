@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Castlevania",
+	"publishers": ["KONAMI"],
+	"release_date": "February 14, 2013",
+	"serial_number": "TA8P",
+	"synopsis": "Castlevania marked the beginning of Konami’s acclaimed series which is still going strong today. As vampire hunter Simon Belmont, you must fight your way through Dracula's castle teeming with ghosts, goblins, demons and yet more supernatural creatures; through six challenging levels to finally confront the count. You'll need your wits and weapons to survive; because when you finally meet Dracula, you know he’ll be going for the jugular. So keep your courage up and your stake sharp!"
+}

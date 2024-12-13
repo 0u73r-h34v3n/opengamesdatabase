@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Wakedas",
+	"synopsis": "WAKEDAS es un juego rompecabezas casual. Hay varias células de color en cada nivel cubo, hay que moverlas en direcciones diferentes con el fin de hacer coincidir los mismos colores juntos y separarlos de los otros. Además de las células individuales de colores, hay también: Células multicolores Células rotantes Células fijas Características: - ¡Ponte a prueba con 300 diferentes rompecabezas! - ¡Separa y combina colores similares con pasos mínimos! Trata de resolver todos los divertidos rompecabezas WAKEDAS."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Digger Dan DX",
+	"publishers": ["Four Horses"],
+	"release_date": "May 19, 2016",
+	"serial_number": "KGXE",
+	"synopsis": "Digger Dan has found an old mine full of caves, still brimming with treasure. Can you guide him in the right direction by digging through the earth to collect the gems and nuggets of gold? Work out your path carefully as you push rocks out of the way or you could find Dan caught in one of the many traps. As you dig deeper and deeper through the 125 caves, you will uncover secret gems buried in the earth, unravel the mysteries of the wormholes which transport you around the level, blow holes in walls with the abandoned barrels full of TNT and collect pickaxes to release gems that are trapped in rock. Challenge yourself to complete the cave, beat the timer and collect the hidden secret gem on every level. Features: Four themed areas Stereoscopic 3D layering High score tables for every level 4 save slots 60fps smooth action"
+}

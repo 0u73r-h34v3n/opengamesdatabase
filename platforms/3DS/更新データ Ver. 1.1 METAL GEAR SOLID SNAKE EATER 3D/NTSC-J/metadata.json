@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "更新データ Ver. 1.1 METAL GEAR SOLID SNAKE EATER 3D",
+	"publishers": ["KONAMI"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "D"
+		}
+	],
+	"release_date": "July 5, 2012",
+	"serial_number": "AMGJ"
+}

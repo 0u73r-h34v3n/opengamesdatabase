@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Parking Star 3D",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "June 26, 2014",
+	"serial_number": "JWJP",
+	"synopsis": "It's a parking game. Your goal is to get the \"Park Star\". Park the car as quickly as possible, while keeping any damage to your ride to a minimum. Visit the Tokyo Tower, the Louvre Museum in Paris, the Burj Al Arab Hotel in Dubai, and Tienanmen Square! In Parking Star, you can enjoy all these famous places around the world by driving. This is a casual game that simulates real parking. Use your accomplished driving skills to park at specific locations as fast as possible. With bonuses awarded for passing a level, you can upgrade your vehicle, or just buy a new car! ##Features## - 5 city levels that include: Beijing, Dubai, Paris, Tokyo, and New York - 40 maps to explore. - 4 different vehicle types that have their own unique properties. - 7 different paint jobs for your car. - Replay any unlocked level to earn more stars, and spend them on better cars."
+}

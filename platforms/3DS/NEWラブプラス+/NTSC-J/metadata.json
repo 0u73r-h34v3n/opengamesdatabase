@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "NEWラブプラス+",
+	"publishers": ["KONAMI"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "March 27, 2014",
+	"serial_number": "BLPJ"
+}

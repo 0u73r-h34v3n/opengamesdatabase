@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Quest of Dungeons",
+	"synopsis": "Quest of Dungeons é um dungeon crawler por turnos, um roguelike com o velhinho estilo 16-bits. Um poderoso e maléfico Senhor das Trevas roubou toda a luz, colocando-a numa lanterna mágica, então, sua missão é entrar no seu esconderijo e derrotá-lo. Jogando como um Guerreiro, Feiticeiro, Assassino ou um Xamã, vai ter que atravessar masmorras, derrotar seus inimigos e usar tudo o que encontrar no caminho para sobreviver. Poderá aprender novas habilidades em livros que irá encontrar ao longo do percurso e comprar/vender itens em lojas. O jogo é aleatório, portanto nunca vai encontrar os inimigos, objetos ou o mesmo percurso sempre que recomeçar o jogo. Funcionalidades: Masmorras aleatórias Armas procedimentais Bosses Missões 4 Níveis de dificuldade Morte permanente - Quando morrer é o fim, deverá recomeçar. \"Game over man, game over!\" Loja - compra e vende armas e itens Tabela de classificações –compare seus Pontos com a comunidade"
+}

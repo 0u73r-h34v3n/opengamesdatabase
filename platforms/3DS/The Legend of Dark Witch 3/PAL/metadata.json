@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Legend of Dark Witch 3",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "December 21, 2017",
+	"serial_number": "KEPP",
+	"synopsis": "The Legend of Dark Witch 3 - Wisdom and Lunacy is a 2D side-scrolling action shooting game. The player (Zizou) advances through a variety of stages while using their Shot and Lord Attack to defeat enemies. Defeating the bosses at the end of stages clears the stage. Beating all stages clears the game. When you start the game you'll play through the Opening Stage. Upon clearing that, you'll move on to the Stage Select Screen where you have 8 stages to choose from. The Syega Fragments and Tres collected during stages can be used to Power Up the player character. After defeating a certain number of enemies in a stage, or reaching certain places you'll receive Syega Fragments which can be used to activate slots temporarily. NOTE: While playing on the New Nintendo 3DS™, the 3D display can be used throughout the entire game. If played on the Nintendo 3DS™, 3D display can only use outside of gameplay segments (Menus etc.)"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PICROSS e",
+	"publishers": ["JUPITER"],
+	"release_date": "June 13, 2013",
+	"serial_number": "JEXE",
+	"synopsis": "This is the series of \"picture crossword puzzles\" in which you use numbers as hints to complete illustrations that Nintendo has been developing as its own brand of game software since 1995. Anyone can enjoy it with its simple and easy to understand rules. With this version's newly implemented Navigation feature, the puzzles can be solved more smoothly than ever. There are 3 types of puzzle sizes: 5x5, 10x10, and 15x15. Don't take puzzles lightly because they're small. There are plenty of challenging puzzles as well. Complete a puzzle within the time limit and the illustration will be displayed in color."
+}

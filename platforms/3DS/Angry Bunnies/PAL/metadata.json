@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Angry Bunnies",
+	"publishers": ["Cypronia"],
+	"release_date": "November 28, 2013",
+	"serial_number": "JANP",
+	"synopsis": "Angry Bunnies is a challenging physics-based demolition, with addictive gameplay set in 3D Stereoscopic scenery. There are 150 fun levels to enjoy, perfectly suited for short bursts of gaming. Each level requires logic and force to solve. Game Features: 3D stereoscopic experience 150 streamlined levels Challenging physics-based demolition Comical characters with special abilities Hours of gameplay and replay value"
+}

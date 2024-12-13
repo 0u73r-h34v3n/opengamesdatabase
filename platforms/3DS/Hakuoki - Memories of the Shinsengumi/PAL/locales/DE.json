@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Hakuoki - Memories of the Shinsengumi",
+	"synopsis": "Problem in Hakuoki Memories behoben: Das Spiel stürzt nicht mehr ab, falls der Spieler keine Speicherdatei angelegt hat, bevor er mit zusätzlichem Inhalt begonnen hat."
+}

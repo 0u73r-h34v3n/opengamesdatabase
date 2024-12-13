@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Hazumi",
+	"synopsis": "Hazumi es un juego de acción y puzles donde deberás controlar una bola de colores. Tu objetivo en cada nivel es destruir todos los bloques de cristal. Sólo puedes destruir un bloque si es del mismo color que la bola. ¡En tu camino encontrarás trampas mortales y laberintos, así que deberás ser hábil! ¡Con más de 100 puzles, un editor de nivel, estilo gráfico pixel art y un modo de juego adictivo, Hazumi te mantendrá entretenido durante días!"
+}

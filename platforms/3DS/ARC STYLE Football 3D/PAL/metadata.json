@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "ARC STYLE: Football 3D",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "August 22, 2013",
+	"serial_number": "JA3P",
+	"synopsis": "Enjoy this simple soccer game which does away with detailed rules. There is room for endless customization with the ability to change your teams' names and uniforms, and create every team member's features from scratch. You can even use your own photographed face on your team members! You can also use Nintendo 3DS™ Local Play with this game and enjoy multiplayer matches."
+}

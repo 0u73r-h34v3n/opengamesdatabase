@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Doctor Lautrec and the Forgotten Knights",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "December 13, 2011",
+	"serial_number": "ADLE",
+	"synopsis": "Join Doctor Lautrec on a riotous treasure hunt across 19th century Paris. Solve 3D puzzles and uncover the secret at the heart of the mystery"
+}

@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "리듬 세상 더 베스트 플러스",
+	"publishers": ["Nintendo"],
+	"release_date": "December 1, 2016",
+	"serial_number": "BPJK"
+}

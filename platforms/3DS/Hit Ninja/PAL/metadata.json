@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hit Ninja",
+	"publishers": ["Petite Games"],
+	"release_date": "February 9, 2017",
+	"serial_number": "CCHP",
+	"synopsis": "In this arcade game your task is to hit all the targets with your shuriken. Beat the target score on every level and become a ninja legend! Enjoy the intuitive and fun launch mechanic which becomes more challenging at higher levels! This colourful 3D graphics and the Japan inspired settings is waiting for you!"
+}

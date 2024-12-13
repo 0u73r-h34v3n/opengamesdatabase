@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Queen TV-Game 2",
+	"publishers": ["Batafurai"],
+	"release_date": "January 31, 2022",
+	"serial_number": "CC4P",
+	"synopsis": "You’ve already switched. It’s too late. Love Hero is removed from channel 2600. A lonely King is without a Queen. A physical XN update with new data slowly faded the King’s SD3 memory. His only memory with the Queen was watching Love Hero on TV. The Queen’s soul calls to him shouting their first encounter. The King finds out his Queen has been trapped out permanently from data transfer. He locates the Queen and sets out on one final journey! A journey he will not win."
+}

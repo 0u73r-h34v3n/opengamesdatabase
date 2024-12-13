@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TamSoft"],
+	"genres": ["Action"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Senran Kagura 2 - Deep Crimson",
+	"publishers": ["Marvelous (XSEED)"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "M"
+		}
+	],
+	"release_date": "September 15, 2015",
+	"serial_number": "BNUE",
+	"synopsis": "Offers in-game purchases The naughty yet very nice ninja girls of the SENRAN KAGURA universe return to the Nintento 3DS™ in a fresh, new 2.5D side-scrolling brawler. Featuring the series’ trademark high-flying, clothes-ripping battle mechanics, SENRAN KAGURA 2: Deep Crimson follows the events of SENRAN KAGURA Burst, sending all 12 of the original cast members on another supernatural martial arts adventure through modern Japan. For the first time in the series, shinobi can fight in pairs, covering each other’s backs or combining special techniques as needed, or fight alone to give their partners time to recover after bouts of intense combat. One player can control both team members, switching back and forth at will, or two players can fight together in co-op mode, side by side."
+}

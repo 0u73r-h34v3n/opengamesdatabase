@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Camelot Software Planning"],
+	"genres": ["Sports", "Tennis"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Tennis Open",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 18, 2012",
+	"serial_number": "AGAP",
+	"synopsis": "MARIO TENNIS OPEN on Nintendo 3DS offers players tactical tennis with depth like never before! Use buttons, the Touch Screen or new gyro controls - perfect for beginners! Play online against friends or challengers from your region and work your way up the leaderboard to become champion. Exchange data with other users via StreetPass and customise your player with any coins you win."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PIX3D",
+	"publishers": ["Gamelion"],
+	"release_date": "December 20, 2012",
+	"serial_number": "JPXE",
+	"synopsis": "One thousand levels, 3 different game modes. Battle against time and get the highest score in the greatly-addictive pix puzzle game – PIX3D. Imagine a picture. A simple picture. A pix art picture. Now break it down to every single pixel. That's a colorful mess, huh? So PIX3D is about fixing that mess to reproduce a beautiful pixel art picture. It's challenging, addictive and it piques your curiosity. With finely-tuned controls, using the stylus or Circle Pad, simple but amazing graphics and retro 8-bit music, the game introduces us to its unique world. Enjoy three different modes, fight against time and show the world how PIX3D you are!"
+}

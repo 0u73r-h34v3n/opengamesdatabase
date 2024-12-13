@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hazumi",
+	"publishers": ["Gamelion"],
+	"release_date": "January 22, 2015",
+	"serial_number": "KHZP",
+	"synopsis": "Hazumi is a game of action and puzzle-solving where you control a colored ball. Your goal in each level is to destroy all crystal blocks. You can only remove a block if it matches the color of the ball. Deadly traps and labyrinths will stand in your way, so use cunning to your advantage! Featuring over 100 puzzles, a level editor, pixel art graphics and immensely addictive gameplay, Hazumi will keep you entertained for days!"
+}

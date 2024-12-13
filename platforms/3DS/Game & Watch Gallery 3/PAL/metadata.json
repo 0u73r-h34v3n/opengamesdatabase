@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Game & Watch Gallery 3",
+	"publishers": ["Nintendo"],
+	"release_date": "September 25, 2014",
+	"serial_number": "QA6P",
+	"synopsis": "Flash back to the '80s with Game & Watch Gallery 3, featuring original and updated versions of five handheld classics. Experience the original LCD-style versions plus modern remakes with enhanced graphics, sound and gameplay. Egg: catch them before they hatch. Turtle Bridge: carry the packages across the turtles' backs. Greenhouse: protect plants from pesky pests. Donkey Kong Jr.™: grab the key and free DK. Mario Bros.™: help Mario™ and Luigi™ keep the factory flowing. Plus, play well and you can unlock new features and even hidden classic games!"
+}

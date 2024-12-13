@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Columns",
+	"publishers": ["SEGA"],
+	"release_date": "June 13, 2013",
+	"serial_number": "GAEP",
+	"synopsis": "Drift back in time to a bygone civilisation, the ancient world of Phoenicia. Play a game that originated among the Phoenician merchants. It's incredibly captivating, yet easy to pick up. You'll find yourself losing track of time!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Legend of Zelda: A Link to the Past",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 14, 2016",
+	"serial_number": "UABE",
+	"synopsis": "On a dark and stormy night, young Link embarks on an adventure he – and you – will never forget! Princess Zelda has been taken prisoner and an evil wizard is attempting to unleash Ganon, the king of darkness. Only Link has the courage to save Hyrule! A Link to the Past is the critically-acclaimed Super NES chapter in the Legend of Zelda saga; famous for its atmospheric graphics and sound, ingenious dungeons, and for introducing now-classic items such as the Hookshot, Pegasus Boots and Master Sword. This is the US version of the game."
+}

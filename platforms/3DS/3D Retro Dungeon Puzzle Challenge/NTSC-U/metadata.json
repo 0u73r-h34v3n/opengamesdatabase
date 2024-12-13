@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Retro Dungeon Puzzle Challenge",
+	"publishers": ["Skunk Software"],
+	"release_date": "May 3, 2018",
+	"serial_number": "CDPE",
+	"synopsis": "The game starts with a brief tutorial. Then it ramps up with interactive puzzles and action. Ending with an epic boss battle. Please give it a try."
+}

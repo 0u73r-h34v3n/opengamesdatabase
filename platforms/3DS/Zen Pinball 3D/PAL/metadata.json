@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Zen Pinball 3D",
+	"publishers": ["Zen Studios"],
+	"release_date": "December 1, 2011",
+	"serial_number": "JENP",
+	"synopsis": "Zen Pinball 3D for Nintendo 3DS brings an incredible stereoscopic 3D experience to the acclaimed video game pinball series for the first time ever. Featuring four beautifully crafted original tables, Zen Pinball 3D features the most advanced ball physics in a video pinball game to date, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more! Zen Pinball 3D for Nintendo 3DS is the definitive pinball experience on portable game consoles."
+}

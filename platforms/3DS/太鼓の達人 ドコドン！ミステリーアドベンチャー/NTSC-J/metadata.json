@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Namco Bandai Games"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["JA"],
+	"name": "太鼓の達人 ドコドン！ミステリーアドベンチャー",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "June 16, 2016",
+	"serial_number": "BT8J"
+}

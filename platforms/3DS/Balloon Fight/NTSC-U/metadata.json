@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Balloon Fight",
+	"publishers": ["Nintendo"],
+	"release_date": "May 2, 2013",
+	"serial_number": "TALE",
+	"synopsis": "Original Release Date: June 1986 Controlling a character to pop your opponents’ balloons before they pop yours sounds easy, doesn't it? Don’t be fooled by this game’s simple premise or cute exterior, though–underneath these you’ll find a surprisingly challenging game with strategy to spare. After mastering the easy-to-learn controls, you still have to get a grip on the game’s impressively realistic physics. And if that’s not enough, there are still the ever-increasing enemies and environmental hazards like lightning and water. Or try the game’s second mode, Balloon Trip, if you feel like taking a break from the action and just want to see how long you can stay aloft. And, hey, who doesn’t like popping balloons sometimes?"
+}

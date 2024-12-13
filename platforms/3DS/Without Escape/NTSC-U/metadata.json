@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Without Escape",
+	"publishers": ["Bumpy Trail Games"],
+	"release_date": "July 18, 2019",
+	"serial_number": "CEPE",
+	"synopsis": "Without Escape harkens back to first-person graphic adventures of the early ‘90s, which relied on pre-rendered backgrounds and full-motion video to tell interactive stories. Explore the confines of your own home as you flip between a mundane existence and a horrifying otherworld. Can you escape the nightmare and find the answers you’re looking for? Features: - Reconnect with the past through classic point-and-click exploration. - Overcome enigmatic puzzles that will test your wits. - Immerse yourself in your home’s oppressive atmosphere with an atmospheric soundtrack. - Discover multiple endings, secrets, and Easter eggs."
+}

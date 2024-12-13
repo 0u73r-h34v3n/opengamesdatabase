@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "バルーンファイト",
+	"synopsis": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 風船で空中に浮かび、体当たりで敵の風船を割って倒していきます。勢いがつくとなかなか止まれない、ふわふわした独特の操作感が特徴です。画面中の敵を倒してステージをクリアする「通常モード」と、横スクロールのステージで雷をよけながら進む「BALLOON TRIPモード」があります。"
+}

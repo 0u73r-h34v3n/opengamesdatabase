@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Wario Land 3",
+	"publishers": ["Nintendo"],
+	"release_date": "December 5, 2012",
+	"serial_number": "QAPP",
+	"synopsis": "Once again, greed has got the better of Wario. Trapped inside a mystical music box, Wario must find his way out - while grabbing all the loot along the way, of course! Wario Land 3 is a huge platform adventure with day and night versions of each level, with 100 treasures to discover, plus bags of secrets and the typically wacky Wario humour! Wario can also gain new abilities like Electric Wario, Invisible Wario, Vampire Wario and more. There is even a Time Attack Mode and a golf minigame to discover!"
+}

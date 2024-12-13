@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "B.O.O.L: Master labyrinth puzzles",
+	"publishers": ["Michael Wührer"],
+	"release_date": "November 12, 2020",
+	"serial_number": "CF2E",
+	"synopsis": "B.O.O.L: Master labyrinth puzzles is a fun and challenging puzzle game for everyone. B.O.O.L. stands for 'Box Out Of Labyrinth' and means to get the box out of the labyrinth and describes the aim of the game. Your task is to get the box out of the labyrinth to the target. This sounds like a simple task? You did the calculation without the puzzle masters. The game box cannot be moved freely, but only up, down, left and right and only up to the next obstacle without stopping in between. But that's not all, you only have a certain number of moves at your disposal. Get ready and face the challenge of more than 120 labyrinth puzzles. - Puzzles in three difficulty levels. - Puzzles contain doors, switches and the four elements earth, fire, water and air. - Give your creativity free rein and create your own labyrinth puzzles with the editor on 100 free memory slots."
+}

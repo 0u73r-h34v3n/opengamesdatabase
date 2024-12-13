@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Solitaire",
+	"publishers": ["Zen Studios"],
+	"release_date": "August 2, 2012",
+	"serial_number": "JSLE",
+	"synopsis": "3D Solitaire for the Nintendo 3DS brings the classic game of Solitaire to beautiful stereoscopic 3D environments. Featuring easy pick-up-and-play action, 3D Solitaire stacks the deck in three beautiful 3D environments! Players can unlock a user photo mode allowing them to use their own pictures as backgrounds for the game for a more customized look. 3D Solitaire can be played on the top screen in brilliant 3D or on the touch screen with the stylus for a more hands-on approach. Unlock rewards and play in two different modes for a fun solitaire experience fit for all ages and skill levels."
+}

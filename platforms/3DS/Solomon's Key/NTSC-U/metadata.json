@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Solomon's Key",
+	"publishers": ["KOEI TECMO AMERICA"],
+	"release_date": "September 19, 2013",
+	"serial_number": "TBPE",
+	"synopsis": "As Dana, a skilled and talented hero, you must strategically maneuver through over 40 stages using mysterious block-creation skills and other magical powers. Free the captive Fairy in each stage by finding the Bell, and escape by grabbing the Magic Key. Use quick thinking and magical firepower to discover hidden items and evade numerous enemies as you race against the clock! Solomon's Key also features over 10 secret levels and multiple endings you can unlock! Do you have what it takes to unravel the secrets of Solomon's Key?"
+}

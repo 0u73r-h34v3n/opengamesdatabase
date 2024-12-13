@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Citizens of Earth",
+	"publishers": ["SEGA EUR"],
+	"release_date": "January 22, 2015",
+	"serial_number": "JUYP",
+	"synopsis": "You've just been elected as Vice President of the World... So what now? Recruit your friends, your family, and everyone else around town to join your party and fight your battles! In this modern-day retro-RPG, you have returned home from the campaign trails for a little taxpayer-funded vacation... to find things have gone mad! Only YOU have the charisma it takes to delegate all the dirty work and save the world. So don't ask what you can do for your countrymen...Ask what your countrymen can do for you!"
+}

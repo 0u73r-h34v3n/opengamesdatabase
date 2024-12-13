@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ニコリの数独3D ～8つのパズルで1000問～",
+	"publishers": ["ハムスター"],
+	"release_date": "August 29, 2013",
+	"serial_number": "ANQJ"
+}

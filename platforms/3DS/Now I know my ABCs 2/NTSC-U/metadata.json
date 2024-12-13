@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Now I know my ABCs 2",
+	"publishers": ["Skunk Software"],
+	"release_date": "February 1, 2018",
+	"serial_number": "CDEE",
+	"synopsis": "Now I know my ABCs 2, is a fun and interactive way to learn the alphabet. You're shown step-by-step how to write each letter. Your goal is to write every letter in both lowercase and uppercase. After you complete writing each letter a cool animation plays, giving positive reinforcement to help encourage the learning of even more letters!"
+}

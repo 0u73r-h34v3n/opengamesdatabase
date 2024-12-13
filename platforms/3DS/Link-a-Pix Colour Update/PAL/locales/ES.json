@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Link-a-Pix Colour: Update",
+	"synopsis": "This update fixes an issue which could potentially leave a puzzle in an unsolvable state."
+}

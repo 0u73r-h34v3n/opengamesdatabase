@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vanpool"],
+	"genres": ["Action", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dillon's Dead-Heat Breakers",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 25, 2018",
+	"serial_number": "A9EP",
+	"synopsis": "Race down enemy grocks and rock them in battle to defend frontier villages. Action meets tower defence in Dillon’s Dead-Heat Breakers! This time, The Red Flash himself, Dillon, will team up with your own animalised Mii character. Be strategic and use your whole team! You’ll need their help to face each wave of transforming monsters."
+}

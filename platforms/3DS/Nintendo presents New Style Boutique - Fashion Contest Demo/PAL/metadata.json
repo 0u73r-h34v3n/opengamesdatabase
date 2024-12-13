@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD", "syn Sophia"],
+	"genres": ["Business Simulation", "Demo", "Health", "Simulation"],
+	"locales": ["ES"],
+	"name": "Nintendo presents: New Style Boutique - Fashion Contest Demo",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 2, 2012",
+	"serial_number": "AX9P",
+	"synopsis": "Convince the judges that you’re the only style icon in town – by participating in Fashion Contests! Choose from a selection of models, come up with an outfit based on a certain theme and perfect their hair and make-up – dress to impress and you might just come out on top as THE best stylist in town!"
+}

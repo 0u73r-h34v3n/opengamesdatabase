@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "1001 Spikes",
+	"publishers": ["Nicalis"],
+	"release_date": "June 3, 2014",
+	"serial_number": "JSKE",
+	"synopsis": "Jim Hawkins, the world-renowned archaeologist, has gone missing while exploring the frozen reaches of Antarctica. Before his disappearance, he entrusted his daughter Tina with a map to the long forgotten ruins of Ukampa Temple in South America, along with a letter warning that death waits behind its every corner. In that letter, he posed a challenge to his estranged son, Aban Hawkins: to venture forth into the deadly ruins in search of a legendary treasure rumored to lie behind the Golden Door of Poko-Mum. Can Aban survive the endless traps of Ukampa and surpass his famous father once and for all?"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Galaxy Force II",
+	"publishers": ["SEGA USA"],
+	"release_date": "December 12, 2013",
+	"serial_number": "JGFE",
+	"synopsis": "Halcyon, ruler of the invading Fourth Empire, has marked Junos as his final target in a galaxy wide campaign for dominance. Sending the bulk of his forces, he attacks with a single purpose – to eliminate all life forms in the system in order to build the seat of his power on the ashes of each of its five planets. As the star pilot of the governing Space Federation, it’s up to you to strap yourself into your TRY-X and turn the tables on Halcyon. Re-mastered in 3D, Galaxy Force II 3D features drastically improved visuals and supports 16:9 wide screen and GamePad Pro. Arcade fans can now also enjoy Galaxy Force II in Arcade Cabinet mode!"
+}

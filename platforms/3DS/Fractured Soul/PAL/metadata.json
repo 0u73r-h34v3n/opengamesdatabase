@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fractured Soul",
+	"publishers": ["Endgame Studios"],
+	"release_date": "January 10, 2013",
+	"serial_number": "JFDP",
+	"synopsis": "Old-school platforming on two screens! Fractured Soul is a classic side-scrolling platform game with a twist: it is played across both screens at once! Created by platform gamers for platform gamers, and exclusively for Nintendo 3DS, Fractured Soul literally adds a new dimension to this much-loved genre."
+}

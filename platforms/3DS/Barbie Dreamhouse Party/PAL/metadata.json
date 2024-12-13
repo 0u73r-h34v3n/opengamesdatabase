@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Torus Games"],
+	"genres": ["Party"],
+	"locales": ["ES"],
+	"name": "Barbie Dreamhouse Party",
+	"publishers": ["Little Orbit"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 22, 2013",
+	"serial_number": "AAVP",
+	"synopsis": "Join Barbie and her friends on an adventure that will take fans behind the pink doors and into the fantastical world of the Dreamhouse! Based on the popular Barbie web series Life in the Dreamhouse, dolls everywhere will have the opportunity to explore the Dreamhouse and play fabulous mini-games."
+}

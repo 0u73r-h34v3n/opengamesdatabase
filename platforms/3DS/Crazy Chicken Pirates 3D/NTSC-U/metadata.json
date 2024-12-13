@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Crazy Chicken Pirates 3D",
+	"publishers": ["Teyon"],
+	"release_date": "August 16, 2012",
+	"serial_number": "JMNE",
+	"synopsis": "The splendor and the beauty of the Chicken Island would make it an ideal vacation spot - if it weren't for those pirates. A one-legged captain, a gunner, a cutlass-wielding chicken and a treasure hunter... the island is home to countless perils, hidden extras and mysteries. The lords of the island are by no means willing to surrender themselves and their treasure without a fight. Crazy Chicken Pirates 3D is a point & shoot action game where you take aim at birds as they scurry through the island and plunge bravely into the waves for a desperate counterattack. You only have 90 seconds to complete your raid by slaying pirates and collecting all hidden treasures."
+}

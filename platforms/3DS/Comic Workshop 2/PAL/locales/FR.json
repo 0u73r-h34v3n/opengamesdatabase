@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Comic Workshop 2",
+	"synopsis": "- Une autocorrection pour les courbes a été ajoutée. Les coups de dessin même rapides auront un résultat arrondi. - Les icones d’aperçu des tailles du crayon ou outil à flou, ainsi que l’outil à texte sont à présent plus nettement affichées. - Correction d’une erreur critique lors de petites sélections ayant un niveau de zoom plus élevé que 100%. - Le niveau de densité pour le crayon, la gomme et l’outil à traits a été amélioré. - Un bug visuel après la création d’une petite et mince case a été corrigé. - La taille des textes affichés dans les fenêtres pop-up a été adaptée pour une meilleure lisibilité. - Divers bugs mineurs ont été corrigés. Ceci est une mise à jour pour l’application Comic Workshop 2. Ce téléchargement ne contient pas la version complète du logiciel. Pour pouvoir utiliser cette mise à jour, vous devez posséder la version complète de Comic Workshop 2."
+}

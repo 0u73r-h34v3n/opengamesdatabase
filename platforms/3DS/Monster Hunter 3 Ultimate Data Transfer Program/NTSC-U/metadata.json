@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Monster Hunter 3 Ultimate Data Transfer Program",
+	"publishers": ["CAPCOM"],
+	"release_date": "March 21, 2013",
+	"serial_number": "JMUE",
+	"synopsis": "Hunt anytime anywhere! The Monster Hunter 3 Ultimate Data Transfer Program allows players to transfer their Monster Hunter 3 Ultimate saved data from their Wii U system to their Nintendo 3DS. Now gamers can take their hunting from their living room to the streets."
+}

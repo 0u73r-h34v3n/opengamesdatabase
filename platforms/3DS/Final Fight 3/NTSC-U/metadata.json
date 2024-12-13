@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Final Fight 3",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 8, 2016",
+	"serial_number": "UA7E",
+	"synopsis": "The Mad Gear gang has been defeated, but a new group known as Skull Cross has risen from the ashes, sparking a fresh crime wave in Metro City. Mayor Mike Haggar and Guy prepare to take them on with Cody's old friend, Lucia. Joining them is Dean, a mystery man with a grudge. Together they vow to bring Skull Cross down! This is the US version of the game."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Classics - Excitebike",
+	"publishers": ["Nintendo"],
+	"release_date": "June 7, 2011",
+	"serial_number": "SAEP",
+	"synopsis": "Enjoy select classic gaming gems remastered in 3D, with the 3D Classics line. 3D Classics Excitebike brings the original NES wheelie-poppin’ motocross masterpiece to Nintendo 3DS. Roar across the dirt and take down rival riders to claim victory in the main event, or design your own levels in the track editor! Play solo and practise your techniques, or race against computer-controlled rivals in a thrilling Challenge Race to qualify for the prestigious Excitebike Championship! Excitebike’s high-octane racing and high-flying hurdles make it an enduring, crowd-pleasing classic."
+}

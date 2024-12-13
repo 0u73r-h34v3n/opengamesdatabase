@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Super Mario Bros.",
+	"publishers": ["Nintendo"],
+	"release_date": "February 16, 2012",
+	"serial_number": "TAAE",
+	"synopsis": "Original Release Date: October 1985 Rediscover Mario & Luigi's first great adventure! One day, the Mushroom Kingdom was invaded by the Koopas, a tribe of turtles famous for their black magic. The quiet, peace-loving Mushroom People were turned into stones, bricks, and even plants, and the kingdom fell into ruin. The only one who can undo the magic spell is Princess Toadstool, the daughter of the Mushroom King. Unfortunately, she is in the hands of evil king Bowser™. Mario™ learns of the Mushroom People's plight and sets out to free the Mushroom Princess from the Koopas and restore the fallen kingdom. Jump, kick shells, and throw fireballs through eight action-packed worlds in this iconic NES classic!"
+}

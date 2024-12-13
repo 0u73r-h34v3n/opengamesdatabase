@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ドラえもん のび太のひみつ道具博物館",
+	"publishers": ["フリュー"],
+	"release_date": "March 7, 2013",
+	"serial_number": "AD9J"
+}

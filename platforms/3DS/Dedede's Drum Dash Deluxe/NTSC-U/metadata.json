@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dedede's Drum Dash Deluxe",
+	"publishers": ["Nintendo"],
+	"release_date": "August 29, 2014",
+	"serial_number": "JVQE",
+	"synopsis": "Bounce to the beat as Kirby’s longtime rival in King Dedede’s rhythm action game! Jump on drums collecting coins and avoiding enemies while tapping buttons in sync with catchy Kirby tunes! This standalone deluxe game includes content not found in Kirby™: Triple Deluxe, including all-new stages, new obstacles and more!"
+}

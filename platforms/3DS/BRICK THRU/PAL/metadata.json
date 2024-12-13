@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BRICK THRU",
+	"publishers": ["RCMADIAX"],
+	"release_date": "March 1, 2018",
+	"serial_number": "CB3P",
+	"synopsis": "Welcome to high speed brick dodging with BRICK THRU. The player must quickly dash left or right finding an open space in the game board as the oncoming bricks try to knock you out. See how long you can go and rack up a high score! Endless fun for everyone!"
+}

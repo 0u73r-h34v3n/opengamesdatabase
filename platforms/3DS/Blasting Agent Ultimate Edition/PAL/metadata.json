@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Blasting Agent: Ultimate Edition",
+	"publishers": ["Ratalaika Games"],
+	"release_date": "August 18, 2016",
+	"serial_number": "KBJP",
+	"synopsis": "Trouble in Antarctica! The Black Hand of Fate, an international Terrorist Group, has constructed a secret base within the heart of a Volcano, and has built a massive army of bio-engineered soldiers and genetic monsters to take over the world! You are the only one that can put a stop to their dastardly plans. You are the Blasting Agent! Featuring - Classic jump-and-shoot gameplay - A variety of levels, enemies, and secrets - Challenging and unique boss fights - Collectible upgrades and power-ups - Unlockable Boss Rush mode - Unlockable Hard Mode with costume rewards - Unlockable second playable character! - Fight with guns or martial arts! Choose your way!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man 7",
+	"publishers": ["CAPCOM"],
+	"release_date": "July 14, 2016",
+	"serial_number": "UANE",
+	"synopsis": "Dr. Wily has finally been imprisoned but Mega Man’s fight is far from over. Wily’s backup plan springs into action: four evil robots attack the city; the perfect distraction to make his escape. Mega Man and Rush are soon on Wily’s trail, and so are Bass and Treble: another robot and canine companion. Who are these mysterious newcomers, and can they be trusted? Jump and blast your way through action-packed levels, face off against fiendish new bosses, discover hidden items and power ups, and send Dr. Wily back behind bars! This is the US version of the game."
+}

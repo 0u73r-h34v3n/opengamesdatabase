@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Street Fighter Alpha 2",
+	"publishers": ["CAPCOM"],
+	"release_date": "July 28, 2016",
+	"serial_number": "UA2E",
+	"synopsis": "Street Fighter Alpha 2 explodes onto Virtual Console™ with its trademark lightning-fast gameplay, Custom Combo System and innovative Alpha Counters. Push your talents to the limit as you discover new moves and counters for every attack. Neutralise your opponents' attacks with high and low Alpha Counters and execute Custom Combos to create your own rapid-fire assaults. All your favourite warriors are back, including previously hidden characters Dan, Akuma and Bison, plus new fighters including Rolento, Gen and Sakura. This is the US version of the game."
+}

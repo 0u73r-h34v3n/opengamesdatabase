@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Legend of Zelda Ballad of The Goddess",
+	"publishers": ["Nintendo"],
+	"release_date": "November 30, 2016",
+	"serial_number": "SP5E",
+	"synopsis": "See The Legend of Zelda: Skyward Sword Main Theme performed by a full orchestra in 3D*. This and other songs were included on a CD packed with the Legend of Zelda™: Skyward Sword on the Wii™ console, released in Dec. 2011. *This video was also available via the Nintendo Video application in 2011."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "MYSTICAL NINJA starring GOEMON",
+	"publishers": ["Inc.", "Konami Digital Entertainment"],
+	"release_date": "September 13, 2012",
+	"serial_number": "RBRE",
+	"synopsis": "Original Release Date: April 1998 A mysterious group of pirates called \"The Black Ship Gang,\" appear in the Great Edo Harbor, and begin wreaking havoc across the land. Join Goemon and his friends Ebisumaru and Sasuke as they battle to save ancient Japan from the clutches of the evil gang, and rescue their fellow ninja Yae from the gang's clutches. MYSTICAL NINJA starring GOEMON is an action role-playing game featuring three different characters to control, each with unique skills. Fight your way from Karakuri Castle, through bustling villages, all the way to Skull Island. Visit towns and question the inhabitants for clues, buy items to aid your quest, and solve brain-teasing puzzles to seek out Yae and defeat the pirates."
+}

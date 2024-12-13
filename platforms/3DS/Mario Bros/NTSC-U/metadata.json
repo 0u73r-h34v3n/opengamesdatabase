@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario Bros",
+	"publishers": ["Nintendo"],
+	"release_date": "January 30, 2014",
+	"serial_number": "TB7E",
+	"synopsis": "Mario™ and Luigi™ are doing some underground plumbing when all sorts of strange creatures come flying out of the pipes. Help the two brothers clear stages by collecting coins and avoiding getting hit by enemies. Crabs, turtles, and fighter flies must be cleared out by jumping underneath the platform they step on and then kicking them away. But beware! Just when you think you got rid of them, they come back for more! Play alone or with a friend. Either way, this is one underground classic you will want to play time and time again."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Solitaire",
+	"publishers": ["Zen Studios"],
+	"release_date": "June 7, 2012",
+	"serial_number": "JSLP",
+	"synopsis": "3D Solitaire for the Nintendo 3DS™ brings the classic game to beautiful stereoscopic 3D environments. Featuring multiple modes of play, player rewards and fun environments, 3D Solitaire provides classic gameplay for the Nintendo 3DS™."
+}

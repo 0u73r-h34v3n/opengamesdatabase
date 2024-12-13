@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Adventure Labyrinth Story",
+	"synopsis": "Adventure Labyrinth Story ist ein Rogue-artiges RPG, welches dich herausfordert den unbekannten Dungeon zu erobern. Um den legendären Schatz zu finden, musst in die Tiefen des Dungeons eintauchen, Waffen und Schilder finden, magische Stäbe und Tränke benutzen um gegen die Monster zu kämpfen. Jedesmal wenn du ein Dungeon betrittst, ändert es sich in Struktur und Design. Die verfügbaren Items und herausfordernden Monster ändern sich ebenfalls jedesmal aufs Neue. Du kannst die Herausforderung jedes Mal aufs Neue annehmen, selbst wenn du sie bereits gemeistert hast. Bei Niederlage verlierst du sämtliche Gegenstände. Auch dein Level wird auf 1 zurückgesetzt. Zutaten, welche du im Dungeon findest, können in der Bar zu Essen verarbeitet werden, welches dir positive Effekte und EXP für dein nächstes Abenteuer verleihen. Benutze deine Items im vollen Umfang um Monster zu besiegen, seltene Schätze zu finden und die Geheimnisses des Labyrinth zu enthüllen!"
+}

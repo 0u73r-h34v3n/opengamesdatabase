@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Picross e2",
+	"synopsis": "Esta es la secuela de \"Picross e\" con una función de navegación que hacer el juego aún más sencillo. Así como el juego anterior, este juego contiene 150 puzles además de un modo de juego completamente nuevo llamado \"Micross\". \"Picross\" es un \"juego de crucigramas de imágenes\", en el que utilizas números para completar ilustraciones. Sus reglas son sencillas y fáciles de entender, por lo que el juego puede ser disfrutado por todo tipo de personas."
+}

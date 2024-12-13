@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tecmo"],
+	"genres": ["Action", "Arcade"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ninja Gaiden II: The Dark Sword of Chaos",
+	"publishers": ["KOEI TECMO EUROPE"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "August 29, 2013",
+	"serial_number": "TBKP",
+	"synopsis": "In this sequel to the original NES™ Ninja Gaiden, return to the role of Ryu Hayabusa and embark on a mission to vanquish a deadly new enemy, Ashtar, and destroy the Sword of Chaos. Use speed, agility and Ninjutsu fighting techniques to progress through multiple stages, battling enemies and defeating bosses. Increase Ryu’s powers and recover strength by finding items along the way. Ryu can now also create copies of himself that constantly follow him, repeating his moves."
+}

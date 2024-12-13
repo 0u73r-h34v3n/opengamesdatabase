@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pix3D",
+	"publishers": ["Gamelion"],
+	"release_date": "November 22, 2012",
+	"serial_number": "JPXP",
+	"synopsis": "Let's go back a few years. Okay, let's say 25. To the old days, when everything looked simple, and the rest was just fantasy. The main aim of PIX3D is to bring pixels dispersed in space into line to complete beautiful pixel art pictures. But never seen before pixel particle effects and wonderful 8-bit music will also bring back fond memories of youth for some, and for those too young to remember, it will be a great showcase of old times!"
+}

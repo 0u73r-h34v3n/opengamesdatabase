@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Milon´s Secret Castle",
+	"publishers": ["KONAMI"],
+	"release_date": "September 26, 2013",
+	"serial_number": "TBWP",
+	"synopsis": "In a world where music is language, an evil warlord imprisons the queen and steals all the musical instruments. The heroic Milon mounts a rescue mission, armed with only magic bubbles to help him reveal hidden items and to defeat enemies. This cult platform classic is packed with music references. Look out for music boxes that transport Milon to a bonus stage where you must collect notes to turn them into cash."
+}

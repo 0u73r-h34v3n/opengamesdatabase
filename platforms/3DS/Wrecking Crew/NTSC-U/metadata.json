@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Wrecking Crew",
+	"publishers": ["Nintendo"],
+	"release_date": "March 7, 2013",
+	"serial_number": "TAGE",
+	"synopsis": "Original Release Date: October 1985 In the days before Mario™ and Luigi™ became sports stars in their downtime from saving the Princess, they tried their hands as one-man wrecking crews. With a hammer as their only tool, players take control of the brothers and set out to destroy ladders, rip out pipes, knock out walls, and detonate explosive devices. But make sure to plan your path of destruction carefully, as each building is designed as its own clever puzzle—if you’re not careful, you can easily trap yourself in a dead end! Adding to the excitement and challenge are fireballs, enemies, and an angry foreman roaming the buildings, all trying to stop you from moving on to the next stage. With 100 buildings to demolish and the ability to construct your own, it’s a wonder Mario and Luigi ever got back to saving the Mushroom Kingdom!"
+}

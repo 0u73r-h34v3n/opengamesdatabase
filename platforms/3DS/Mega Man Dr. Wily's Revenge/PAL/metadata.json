@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man: Dr. Wily's Revenge",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 15, 2011",
+	"serial_number": "RAWP",
+	"synopsis": "They're alive, and ripping up the town! Insane industrial wizard Dr. Wily has revived 8 of his Robot Masters in another try at taking over the world. Dr. Wily's really raving this time. As you blaze and blast your way closer, he runs further into even nastier mazes, and hides behind terrifying tons of mechanized maniacs, including the all-new, Mega Man Hunter!"
+}

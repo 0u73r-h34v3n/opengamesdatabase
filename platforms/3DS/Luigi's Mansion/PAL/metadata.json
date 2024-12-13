@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Luigi's Mansion",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 19, 2018",
+	"serial_number": "BGNP",
+	"synopsis": "Nintendo GameCube classic Luigi’s Mansion has been remade for Nintendo 3DS family systems! Fans of Luigi’s Mansion 2 can now explore the original mansion where Mario went missing. Luigi’s something of a scaredy-cat, but these classic ghosts and traps are no match for his vacuum cleaner! Besides, the mansion’s map will be displayed on the bottom screen. If you work up the courage, fight the ghosts of your past battles in the new boss rush mode! Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

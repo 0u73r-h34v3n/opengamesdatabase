@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 BRAVELY DEFAULT FtS",
+	"synopsis": "ニンテンドー3DSソフト『BRAVELY DEFAULT -For the Sequel-』の更新データです。 ･一部データを引き継いでゲームを始めるとDの手帳の「NEW」が消えない場合がある問題を修正しました。 ･一部データを引き継いでゲームを始めるとDの手帳の一部ページを解放できなくなる場合がある問題を修正しました。 ･スクエニメンバーズのパスワード入力時に「%」が入力できない問題を修正しました。 ･強くてニューゲームをするとスクエニメンバーズ上の「強敵討伐数」がリセットされる問題を修正しました。"
+}

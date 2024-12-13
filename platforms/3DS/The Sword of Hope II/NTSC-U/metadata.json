@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Sword of Hope II",
+	"publishers": ["KEMCO"],
+	"release_date": "July 12, 2012",
+	"serial_number": "RBVE",
+	"synopsis": "The Sword of Hope II is a Role Playing Game released in 1996, for the handheld video game device Game Boy. You will take on the role of young Prince Theo of Riccar, going on an adventure to find out the truth of the mystery which is threatening the Kingdom. The key to solve the numerous puzzles and gimmicks are the commands like \"look\", \"open\" and \"hit\". You will find your way looking around and finding many places and items during the adventure, with some friends waiting for to lend their hands on the way."
+}

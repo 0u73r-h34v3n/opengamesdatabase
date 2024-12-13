@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "escapeVektor",
+	"synopsis": "Vektor lleva una eternidad atrapado en la CPU. Al menos, a él se lo parece. Y tú eres su única esperanza de escapar. Ayúdale a recuperar la memoria y a destruir a los diferentes tipos de enemigos que han sido enviados para darle caza. Pero ten cuidado: ¡la CPU se irá volviendo más peligrosa a medida que Vektor progrese! ¡En tu CPU hay todo un mundo por descubrir! En ella se esconden 150 niveles (nodes), 27 mundos (zones) y 4 habilidades que podrás desbloquear y mejorar: Detonate para destruir enemigos, Boost y Super Boost para ir más rápido que ellos y Boostenate para abrirte paso rompiendo con todo. ¡Úsalas para ayudar a Vektor a escapar! Con los marcadores en línea podrás competir con tus amigos, para ver quién es el mejor de tu zona o el mejor entre los mejores. Usa wildcards (comodines) para duplicar tu puntuación en cada nivel, ¡y subir como la espuma en los marcadores!"
+}

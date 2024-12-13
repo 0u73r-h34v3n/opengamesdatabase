@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genius Sonority"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pokémon Link: Battle!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 13, 2014",
+	"serial_number": "JR8P",
+	"synopsis": "Pokémon Link: Battle! is a Nintendo 3DS game where players battle Pokémon to capture them through fast-paced puzzles. When you catch a wild Pokémon, it is called a Link. Your goal in this game is to Link every last Pokémon. In Pokémon Link: Battle!, you must make matches of the same Pokémon from among all the many Pokémon that fill your Link Box—the large field of Pokémon on the lower screen. The Pokémon that appears on the top screen is the wild Pokémon that you are facing in battle. Line up three Pokémon in a row to clear your Pokémon from the box, and to attack and reduce the HP of the wild Pokémon that you face. When its HP reaches zero, you will be able to Link that Pokémon! As time passes, the wild Pokémon will also lash out to attack you in return. When you’re attacked by a wild Pokémon, the Link Box will lose some of its energy. The wild Pokémon you face may even try to get in your way! If the Link Box’s energy reaches zero, it’s game over. Pokémon Link: Battle! features all 718 Pokémon discovered to date, including those that just debuted in Pokémon X and Pokémon Y. And all of the Pokémon appearing in Pokémon Link: Battle! have a new look with cool and cute icons. Pokémon Link: Battle! is compatible with your Nintendo 3DS system’s StreetPass function. When you pass by another person who is playing Pokémon Link: Battle!, you will be able to exchange play data with each other. If you have set Favorite Pokémon, they will also be shared with others, and any Pokémon you receive from others in this way will become one of your allies!"
+}

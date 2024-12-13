@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ping Pong Trick Shot 2",
+	"publishers": ["STARSIGN"],
+	"release_date": "April 20, 2017",
+	"serial_number": "KPWE",
+	"synopsis": "Test your ball throwing skills across a variety of new challenges in the follow up to Ping Pong Trick Shot! Use the Circle Pad or Stylus to throw a ball at just the right trajectory and power to make it land inside the cup. The sequel introduces new challenging technical levels, improved ball physics and futuristic cyber graphics. Four game modes are included. Score Attack Mode Throw the ball into the cup as many times as possible with 20 throws. Mission Mode Throw the ball into the cup as many times as possible on five random levels with a specific number of bounces. Challenge Mode Challenge yourself to complete all stages with 35 throws. Time Attack Mode Throw the ball into the cup as many times as possible in 60 seconds."
+}

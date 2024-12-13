@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sushi Striker: The Way of Sushido",
+	"publishers": ["Nintendo"],
+	"release_date": "June 8, 2018",
+	"serial_number": "AFWE",
+	"synopsis": "Help Musashi end the Empire’s tyrannical monopoly of the world’s sushi supply by becoming a Sushi Striker! Devour conveyor-belt sushi, matching plates and sushi types to defeat any enemy or boss who stands between you and victory. Befriend Sushi Sprites and use their powerful skills in battle. Deliciously strategic action-RPG-puzzle battles await!"
+}

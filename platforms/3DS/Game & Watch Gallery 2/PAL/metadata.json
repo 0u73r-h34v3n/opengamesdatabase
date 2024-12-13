@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Game & Watch Gallery 2",
+	"publishers": ["Nintendo"],
+	"release_date": "May 3, 2012",
+	"serial_number": "QAKP",
+	"synopsis": "Game & Watch Gallery 2 is a collection of five classic handheld games; playable in their original 80s version and a remastered version with enhanced graphics, sound, and new gameplay. Parachute - catch the parachutists before they fall into the sea. Helmet - dodge the falling tools and head for the shed. Chef - juggle ingredients with your frying pan as long as you can. Vermin - use your mallets to keep the moles and other critters at bay. Donkey Kong - destroy the platform below DK while avoiding the barrels."
+}

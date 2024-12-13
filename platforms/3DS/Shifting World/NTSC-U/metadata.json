@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Shifting World",
+	"publishers": ["Aksys Games"],
+	"release_date": "September 19, 2013",
+	"serial_number": "ASZE",
+	"synopsis": "Shifting World is first of the SHIFT series to adapt the famous puzzle gameplay to full 3D. Shift the world, from black to white and white to black. Use that to your advantage to overcome the game’s obstacles and find your way out of the room. A new layer of puzzles: switch from 3D to 2D and from 2D to 3D with a button. Traverse various puzzles that require you to phase in and out of 2D and 3D to complete! Over 60 levels total in Adventure Mode and Time Attack Mode! Conquer them all and become a Shifting World master!"
+}

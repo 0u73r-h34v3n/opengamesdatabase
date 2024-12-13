@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "UP UP BOT",
+	"publishers": ["RCMADIAX"],
+	"release_date": "June 14, 2018",
+	"serial_number": "CBQP",
+	"synopsis": "In UP UP BOT help your robot friend climb the platforms by tapping the Touch Screen. Be careful and watch out for bad robots trying to stop you from progressing even higher. Endless fun for everyone!"
+}

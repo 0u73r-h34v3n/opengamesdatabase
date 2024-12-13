@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "10-in-1 - Arcade Collection",
+	"publishers": ["Gamelion"],
+	"release_date": "August 1, 2013",
+	"serial_number": "JAQP",
+	"synopsis": "Let's go back a few years. OK... say 30, to the old days, when everything looked really simple and the rest was left to your imagination. The main aim in the 10 in 1: Arcade collection is to survive the classic challenge and achieve the highest score possible. Retro arts, particle effects and wonderful 8-bit music will also bring back fond memories of youth for some, and for those too young to remember, it will be a great showcase of the old times!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario’s Super Picross",
+	"synopsis": "Diese Super NES-Version des beliebten Bilderkreuzworträtsels wurde ursprünglich nur in Japan veröffentlicht und umfasst mehrere hundert entspannende und doch herausfordernde Knobeleien. Jedes Picross-Puzzle besteht aus einem nummerierten Gitter aus Kacheln, die ein Bild preisgeben, wenn sie korrekt abgemeißelt werden. In Marios Hauptmodus bedeutet eine falsche Aktion einen Zeitverlust. Im schwereren Wario-Modus werden Fehler jedoch nicht angezeigt, sei also vorsichtig."
+}

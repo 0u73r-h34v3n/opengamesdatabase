@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Good-Feel"],
+	"genres": ["Platformer"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby's Extra Epic Yarn",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 8, 2019",
+	"serial_number": "BE4E",
+	"synopsis": "One ticked-off sorcerer just banished Kirby, warping the poor puffball to a yarn world in need of saving. The twist? Having a yarn body is epic! Kirby can transform into knitted wonders like tanks and flying saucers. Plus, his new ravel abilities mimic his classic copy abilities, adding something new to every stage of this action-adventure game! Ravel abilities allow Kirby to drop buttons like bombs or wield a wire like a sword. And that’s just the beginning of all the makeshift magic. Dead end? Unzip a secret passage. Too dark? Unbutton the night to shed some light. Boss blocking your way? Unravel its face! As you play, you’ll collect decorative treasures for Kirby’s Pad. Show yours off with the StreetPassTM feature! If story mode isn’t tough enough, see if you can earn more collectibles in Devilish Mode. In this harder mode, you must survive without invincibility as devils obstruct your path through each stage. There are also all-new minigames starring Meta Knight and King Dedede!"
+}

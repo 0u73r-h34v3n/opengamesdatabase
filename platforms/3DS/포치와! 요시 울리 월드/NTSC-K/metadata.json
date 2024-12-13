@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "포치와! 요시 울리 월드",
+	"publishers": ["Nintendo"],
+	"release_date": "March 4, 2017",
+	"serial_number": "AJNK"
+}

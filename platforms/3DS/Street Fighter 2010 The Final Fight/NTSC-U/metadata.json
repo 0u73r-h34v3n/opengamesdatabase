@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Street Fighter 2010: The Final Fight",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 4, 2014",
+	"serial_number": "TDWE",
+	"synopsis": "Retirement has never been so short lived for this fighter. It has been 25 years since Ken left the glory days of his fighting career. Since then, he has been working with his friend Troy to create \"Cyboplasm\"–an innovative formula that can turn ordinary humans into superbeings of incredible strength. But one day, Ken arrives at their lab to find the formula stolen and a pile of jelly where he should have found Troy... Navigate across the galaxy as Ken follows the trail of his friend's murderer. Jump, climb, and fight your way past monstrous enemies as you complete the objective for each stage. Just like in his days in the Street Fighter world, Ken can punch and kick his way through danger, but he can also fire power shots from a distance. Will Ken be able to find justice at the end of his journey?"
+}

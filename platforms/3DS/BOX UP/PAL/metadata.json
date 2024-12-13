@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BOX UP",
+	"publishers": ["RCMADIAX"],
+	"release_date": "October 27, 2016",
+	"serial_number": "CBXP",
+	"synopsis": "Can you BOX UP? Guide the box up the screen without hitting any of the platforms. Levels are randomly generated to add an extra challenge. How high of a score can you obtain? Easy pick up and play action for all ages. Try BOX UP today!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pinball: Revenge of the Gator",
+	"publishers": ["Nintendo"],
+	"release_date": "September 5, 2013",
+	"serial_number": "RCCP",
+	"synopsis": "Revenge of the Gator is a snappy pinball simulation that packs a table full of tricks and traps into a perfect pocket size. There are four scrolling screens and three bonus stages to get your teeth into. Direct the ball into certain spots to trigger extra balls and score multipliers. But don’t let the ball fall, or the hungry gator below will swallow it up. You can also grab a friend and engage in the two player mode by taking turns to see who can score the highest."
+}

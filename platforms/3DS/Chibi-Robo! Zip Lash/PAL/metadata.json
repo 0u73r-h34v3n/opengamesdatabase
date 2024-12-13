@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skip Ltd."],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Chibi-Robo! Zip Lash",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 6, 2015",
+	"serial_number": "BXLP",
+	"synopsis": "In this 2D platforming adventure, players control a little robot called Chibi-Robo as he travels the world to put a stop to an alien invasion. Using his plug and cord or ‘Chibi-Plug’, players can attack enemies and, using a variety of moves, get around each stage to find a variety of collectibles including real-world snacks to deliver to Chibi-Robo’s friends. The game features real snacks of third parties and includes depictions of real snacks of third parties. Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

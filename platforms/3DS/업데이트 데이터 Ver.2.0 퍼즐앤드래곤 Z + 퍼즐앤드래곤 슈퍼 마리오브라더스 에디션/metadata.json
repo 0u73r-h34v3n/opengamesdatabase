@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "업데이트 데이터 Ver.2.0  퍼즐앤드래곤 Z + 퍼즐앤드래곤  슈퍼 마리오브라더스 에디션",
+	"regions": ["NTSC-K"]
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Team Kirby Clash Deluxe",
+	"publishers": ["Nintendo"],
+	"release_date": "April 13, 2017",
+	"serial_number": "JLKP",
+	"synopsis": "The peaceful Dream Kingdom is under attack from a sudden onslaught of enemies! Combine the might of four puffball heroes and embark on daring quests for up to four players via Local Play, or with computer-controlled team-mates. Equip Team Kirby with powerful weapons and armour, master each of the unique fighting roles, and restore peace to the Dream Kingdom by defeating infamous foes from the Kirby universe! Can you become the ultimate heroes? Supports 4 Players via Local Play"
+}

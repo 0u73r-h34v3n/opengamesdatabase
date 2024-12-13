@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BIONIC COMMANDO",
+	"publishers": ["CAPCOM"],
+	"release_date": "December 29, 2011",
+	"serial_number": "RBDP",
+	"synopsis": "A ruthless army stands ready for war, but the one man who can stop it has been captured. As Rad Spencer, the Bionic Commando, use your high-tech grapple hook and assault rifle to infiltrate the enemy’s stronghold in a daring mission to rescue Super Joe. This Game Boy™ version of the NES™ classic brings you all the platform-swinging, gun-toting action of the original plus a brand new graphical style. Reunite with your ally, take out the evil Director Wiseman, and bring peace to the world."
+}

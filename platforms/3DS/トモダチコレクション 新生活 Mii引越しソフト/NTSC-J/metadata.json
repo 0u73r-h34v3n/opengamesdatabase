@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Health", "Simulation", "Strategy"],
+	"locales": ["JA"],
+	"name": "トモダチコレクション 新生活 Mii引越しソフト",
+	"publishers": ["任天堂"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "April 18, 2013",
+	"serial_number": "NAAJ",
+	"synopsis": "Tomodachi Collection: New Life Mii Relocation Software allows you to transfer Miis (And only Miis) from your Tomodachi Collection game cartridge for NDS to your Tomodachi Collection: New Life save (cart or digital). This title was only released in Japan due to Tomodachi Collection having only released there. The Mii moving tool also transfers the Mii's Liked Foods, Loved Foods, Disliked Foods and all Birth Information. Phrases are also carried across versions. Clothing, relationships and interiors are NOT carried over. Only 100 Miis can be transferred. Miis and Save Data will not be erased from the Tomodachi Collection cartridge. \"Tomodachi Collection New Life: Mii Relocation Software\" is a tool that allows you to move Mii created in the Nintendo DS game \"Tomodachi Collection\" to the Nintendo 3DS game \"Tomodachi Collection: New Life\". You can easily transfer the same Mii to be a resident of \"Tomodachi Collection: New Life\" without having to start from scratch. Up to 100 Mii's can be moved. Mii's will not be deleted from your Nintendo DS. Tomodachi Collection save data, relationships, satisfaction levels, clothes, etc. cannot be transferred."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Vampire: Master of Darkness",
+	"publishers": ["SEGA"],
+	"release_date": "July 4, 2013",
+	"serial_number": "GAQP",
+	"synopsis": "The shadow of Dracula has spread over Victorian England. Make your way through strange and forbidding streets and cavernous warehouses while fighting his army of monsters. Find Dracula, the Master of Darkness, and rescue England from his terrifying grasp. Arm yourself with powerful weapons ranging from swords to bombs and pistols! Defeat terrifying monsters across five rounds in order to put an end Dracula."
+}

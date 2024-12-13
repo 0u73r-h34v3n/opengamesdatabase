@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ZHTW"],
+	"name": "鐵道日本！長良川鐵道 出發篇 (繁體中文版)",
+	"publishers": ["Sonic Powered"],
+	"release_date": "May 7, 2014",
+	"serial_number": "ARJW"
+}

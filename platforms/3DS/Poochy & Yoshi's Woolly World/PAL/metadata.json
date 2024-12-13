@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Good-Feel"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Poochy & Yoshi's Woolly World",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 3, 2017",
+	"serial_number": "AJNP",
+	"synopsis": "Poochy & Yoshi’s Woolly World is an adventure game set in a world of yarn. This game contains some new features, as well as every stage available in the Wii U version of Yoshi's Woolly World. There are exclusive new stages focused on Poochy. Time Poochy’s jump to collect beads as you head for the goal. Poochy Pups also appear for the first time. These little helpers jump on suspicious spots to indicate where you should look for secrets and collectables. In Poochy & Yoshi's Woolly World you can also design your own Yoshi patterns and use them in-game! What will your Yoshi look like?Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

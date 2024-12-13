@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "BlazBlue - Clone Phantasma",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "August 21, 2014",
+	"serial_number": "JB2E",
+	"synopsis": "Cute versions of the BlazBlue characters fight against hordes of enemies in this action battle game. With just one button press, the characters show off a variety of impressive and cute moves. The rules are simple: just knock a certain number of enemies off the stage! Utilize each of the characters' unique abilities to blast them away! There are two main game modes. In Story Mode, you play through each of the character's different stories, as they find themselves caught up in an unfolding mystery. Solve the mystery of the Clones! In Challenge Mode, you attempt to knock as many of the oncoming enemies off of the stage as possible. Master a character, and try to beat your personal best! Get ready for some fast-paced battle action as you blast away droves of enemies at once!"
+}

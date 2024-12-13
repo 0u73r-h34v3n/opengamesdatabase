@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Picross e",
+	"synopsis": "Esta es la serie de \"crucigramas de imágenes\", desarrollada por Nintendo desde 1995 como marca propia. En esta serie, tendrás que utilizar números para completar todo tipo de ilustraciones. Sus reglas son sencillas, por lo que el juego puede ser disfrutado por todo tipo de personas. En esta versión, se ha implementado una nueva función de navegación para que los puzles puedan ser resueltos más fácilmente."
+}

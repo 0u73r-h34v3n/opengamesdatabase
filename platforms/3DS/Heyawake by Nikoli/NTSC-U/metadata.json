@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hamster"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Heyawake by Nikoli",
+	"publishers": ["HAMSTER"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 6, 2012",
+	"serial_number": "JHWE",
+	"synopsis": "With the Nikoli puzzle series, you can enjoy high-quality Sudoku-like puzzles, created by Nikoli, who gave the world-famous Sudoku puzzle its name. The Nintendo 3DS allows for the realization of simple and easy-to-play operability. \"Heyawake\" is a puzzle in which you fill in the spaces according to the rules. It's called \"Heyawake\" (\"split rooms\") because the board is divided into rooms. This puzzle first appeared in 1992, but a plethora of solutions has been developed, allowing for a very progressive puzzle. Each time you discover a new strategic move, your problem-solving skills will improve. To ensure your long-term enjoyment, we've prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Heyawake\" game."
+}

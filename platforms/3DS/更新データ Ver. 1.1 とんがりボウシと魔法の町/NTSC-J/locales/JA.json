@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 とんがりボウシと魔法の町",
+	"synopsis": "ニンテンドー3DSソフト『とんがりボウシと魔法の町』の更新データです。 本更新データを適用することにより、すでに多数の配信データをダウンロードしてある状態で、新たな配信データをダウンロードした際にストップする問題が改善されます。 『とんがりボウシと魔法の町』をお持ちのお客様で、問題の症状がある場合はダウンロードをお願いします。"
+}

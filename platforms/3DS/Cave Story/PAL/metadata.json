@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nicalis"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cave Story",
+	"publishers": ["Nicalis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 1, 2014",
+	"serial_number": "JD9P",
+	"synopsis": "Cave Story takes you into a rare world where a curious race of innocent rabbit-like creatures, called Mimiga, run free. You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village you discover that the once-carefree Mimiga are in danger at the hands of a maniacal scientist. Their only hope rest squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name. Take control and learn the origins of this world’s power, stop the delusional villain and save the Mimiga!"
+}

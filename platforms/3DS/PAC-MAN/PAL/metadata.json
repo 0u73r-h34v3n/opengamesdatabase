@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "PAC-MAN",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "August 4, 2011",
+	"serial_number": "RAZP",
+	"synopsis": "Someone's got the munchies again! Gobble, gobble, gulp! Who's munching Power Pellets? Who's zipping around the maze at top speed, chomping up ghosts and scoring big points? It's Pac-Man, the world's hungriest character! Devour a fruit treat and get a big bonus score. But if you're caught by the little haunters, you're ghostflakes! Use the warp tunnel for a quick escape. Hours of ghost-chomping action! This version of the game does not have multiplayer functionality."
+}

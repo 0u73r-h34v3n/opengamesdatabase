@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["PT"],
+	"name": "Professor Layton and the Miracle Mask",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 26, 2012",
+	"serial_number": "AKKP",
+	"synopsis": "The fifth game in the series features 150 brand new brainteasers and a new set of three minigames courtesy of the Professor’s Trunk. Professor Layton and the Miracle Mask also boasts 365 additional Daily Puzzles distributed via the Nintendo Network – one puzzle a day for a whole year from the day of the game’s launch."
+}

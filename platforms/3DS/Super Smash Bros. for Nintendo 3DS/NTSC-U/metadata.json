@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bandai Namco Studios Inc", "Sora Ltd."],
+	"genres": ["Action", "Fighting"],
+	"locales": ["ES", "FR"],
+	"name": "Super Smash Bros. for Nintendo 3DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "July 18, 2015",
+	"serial_number": "AXCE",
+	"synopsis": "A Smash in the Hand Super Smash Bros. for Nintendo 3DS is the first portable entry in the renowned series, in which game worlds collide. Up to four players battle each other locally or online using some of Nintendo’s most well-known and iconic characters across beautifully designed stages inspired by classic portable Nintendo games. It’s a genuine, massive Super Smash Bros. experience that’s available to play on the go, anytime, anywhere. FEATURES: - Smash and crash through “Smash Run” mode, a new mode exclusive to the Nintendo 3DS version that gives up to four players five minutes to fight solo through a huge battlefield while taking down recognizable enemies from almost every major Nintendo franchise and multiple third-party partners. Defeated enemies leave behind power-ups to collect. Players who collect more power-ups have an advantage once time runs out and the battle with opponents begins. - Compete with classic characters from the Super Smash Bros. series like Mario, Link, Samus and Pikachu, along with new challengers like Mega Man, Little Mac and newly announced Palutena, the Goddess of Light from the Kid Icarus games. For the first time players can even compete as their own Mii characters. - Customize different aspects of your character when playing locally or online with friends in a variety of multiplayer modes. - View most elements of the high-energy action at silky-smooth 60 frames per second and in eye-popping stereoscopic 3D. - Fight against friends and family locally or online, or battle random challengers all over the world online in “For Fun” or “For Glory” modes."
+}

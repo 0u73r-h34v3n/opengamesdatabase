@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Luigi's Mansion",
+	"publishers": ["Nintendo"],
+	"release_date": "October 11, 2018",
+	"serial_number": "BGNE",
+	"synopsis": "G-g-ghosts! Time to suck those suckers up because Luigi is back in the first portable version of this spooky classic. After winning a mansion in a contest he didn’t enter, he must beat its many bosses and puzzles. Follow a map on the touchscreen, shine a flashlight, blow fire, shoot water, stun ghosts, and trap them…before Mario is trapped forever! All this ghost-catching tomfoolery pays off! As you suck ‘em up with your Poltergust 3000, you could also rake in millions in hidden, in-game riches for our hard-luck hero. Make sure to search every area using the Game Boy Horror’s map on your touchscreen and activate its Boo Radar to track down every Boo in the mansion or spot ghosts’ weak points. After beating and capturing boss ghosts, you can select their portraits from the gallery to best your own score in tense rematches—a new feature in the Nintendo 3DS version!"
+}

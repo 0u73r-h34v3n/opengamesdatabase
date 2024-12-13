@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Board Games - Solitaire",
+	"publishers": ["Nacon"],
+	"release_date": "February 19, 2015",
+	"serial_number": "JSEP",
+	"synopsis": "Rediscover Solitaire and its most popular variations in this timeless classic! Take a moment to relax with one of 5 variations: Freecell, Golf, Pyramid, Klondike and Spider, with many more adjustable options for each variation. Stuck? Use brand new bonuses such as card swap to get yourself out of the situation! Play a quick game at any time in Free mode or take on 40 increasingly harder challenges in Adventure mode."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Keep",
+	"publishers": ["Cinemax"],
+	"release_date": "September 11, 2014",
+	"serial_number": "JWPE",
+	"synopsis": "Enter the Keep as an unsung hero on a quest to destroy the nefarious wizard Watrys. Explore the subterranean depths in this first-person dungeon crawler featuring real-time combat, a unique rune magic system, exploration, and puzzle solving. This game will awaken memories of what made old-school RPG dungeons so much fun to play while you fight, hunt for hidden treasures, and avoid deadly traps. Get to know your enemies, find their weaknesses, and crush them. Experiment with magic to discover powerful spells. Only the strongest will survive. To defeat the seemingly undefeatable Watrys, you will need to level up your character and find powerful armor and weapons. The game controls were designed with a stylus in mind so mastering both sword and magic is a fun and intuitive experience. Do you have what it takes to stand against such evil? Then don’t procrastinate and enter. The Keep awaits you ..."
+}

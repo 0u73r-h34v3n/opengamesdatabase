@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "2048",
+	"synopsis": "Amusez-vous avec 2048, le plus addictif des jeux de puzzle coulissant avec des nombres. Déplacez toutes les tuiles dans une même direction, doublez les tuiles du même nombre. Atteignez la tuile 2048 avant que la grille se remplisse. Essayez différents modes de jeux avec pour objectif 1024, 2048 ou 4096, et relevez ainsi des défis supplémentaires. Le jeu comporte 20 accomplissements à débloquer, pour des heures et des heures de plaisir à résoudre des casse-têtes."
+}

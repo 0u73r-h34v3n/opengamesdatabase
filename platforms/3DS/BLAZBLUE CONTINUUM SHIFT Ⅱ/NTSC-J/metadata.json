@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "BLAZBLUE CONTINUUM SHIFT Ⅱ",
+	"publishers": ["アークシステムワークス"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "April 25, 2013",
+	"serial_number": "ABLJ"
+}

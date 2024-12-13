@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sonic Labyrinth",
+	"publishers": ["SEGA"],
+	"release_date": "June 27, 2013",
+	"serial_number": "GAFE",
+	"synopsis": "Dr. Eggman (AKA Dr. Robotnik) has tricked Sonic into wearing a pair of magical sneakers that prevent him from running at super-sonic speeds. The only things that can remove these sluggish shoes and restore Sonic's speed are the Chaos Emeralds hidden within Dr. Eggman’s Super Labyrinth. Spin through four labyrinth zones, each containing three regular stages and a Boss stage. Seek out square warp gates to find special items, and earn extra lives by grabbing 100 rings in Bonus stages. Find the Chaos Emeralds before time runs out!"
+}

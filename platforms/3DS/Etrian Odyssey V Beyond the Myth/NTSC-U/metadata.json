@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Atlus"],
+	"genres": ["Action Rpg", "Role-Playing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Etrian Odyssey V: Beyond the Myth",
+	"publishers": ["ATLUS"],
+	"release_date": "October 17, 2017",
+	"serial_number": "BMZE",
+	"synopsis": "Etrian Odyssey V chronicles the quest of a new adventurer as he or she attempts to reach the crown of the towering Yggdrasil Tree. For it is said that whoever braves the dangers of the dreaded Yggdrasil Labyrinth and reaches the summit will have their greatest wish fulfilled. Each culture has their own myth, some say great power will be granted, others believe the great mysteries will be solved. Some believe the ultimate techniques can be mastered there, and a number believe the lost treasures can be found at the top of the Yggdrasil Tree’s boughs. There's a reason why no one has ever reached the top. Dangerous creatures and terrifying FOEs roam the labyrinth on every floor, so prepare to test your mettle with challenging turn-based battles. Form your own party and partner up to unleash devastating attacks Personalize your party to work to your advantage! With endless character customization, adventurers will cast and create their own party from four unique races and ten different classes to explore the uncharted labyrinth. By utilizing the bottom screen of the Nintendo 3DS™, you will become your own cartographer. Fill your map and mark the locations of treasures, doors, enemies, environmental obstructions, and other important landmarks you find while traversing the many strata of the perilous dungeon."
+}

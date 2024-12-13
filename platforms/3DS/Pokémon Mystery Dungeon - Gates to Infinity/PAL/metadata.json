@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Spike Chunsoft"],
+	"genres": ["Roguelike", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pokémon Mystery Dungeon - Gates to Infinity",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 17, 2013",
+	"serial_number": "APDP",
+	"synopsis": "The Pokémon Mystery Dungeon series has come to Nintendo 3DS! Players take on the role of a Pokémon and explore a world packed with excitement, adventure and dungeons with ever-changing layouts! Battle other Pokémon and recruit them to your team, help turn Pokémon Paradise into a thriving city and use the outer cameras of your Nintendo 3DS to discover Magnagates leading to new dungeons!"
+}

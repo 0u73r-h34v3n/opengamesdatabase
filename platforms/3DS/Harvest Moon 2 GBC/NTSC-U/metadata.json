@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Harvest Moon 2 GBC",
+	"publishers": ["Natsume Inc."],
+	"release_date": "October 16, 2014",
+	"serial_number": "QA7E",
+	"synopsis": "The honorable mayor of your local town has given you a farm at an unbelievable price—for FREE! But there's a catch. You must restore the farm to its former glory within a certain amount of time, or he will reclaim the property and turn it into a theme park! Choose between playing as a boy or a girl farmer, and then grab your gloves and dig into a list of chores. Clear the land so you can plant and harvest crops. Raise happy cows, chickens, and sheep so that they can provide resources to sell and start you on the path to riches! Build new structures on your land, and watch your farm grow into an investment! Prove to the mayor that you have what it takes!"
+}

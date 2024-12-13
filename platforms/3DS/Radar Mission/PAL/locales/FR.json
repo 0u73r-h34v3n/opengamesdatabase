@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Radar Mission",
+	"synopsis": "Le signal d'alarme retentit... Votre écran de contrôle s'allume soudain... Le quartier général vous a envoyé un message de la plus haute importance : « FLOTTE ENNEMIE PROCHE STOP DÉPLOYEZ-VOUS POUR L'ATTAQUE STOP » Il n'y a pas de temps à perdre. Prenez la tête de votre flotte navale et coulez les navires ennemis. Les batailles peuvent être menées à l'aide du radar en mode Game A, ou aux commandes d'un sous-marin en mode Game B. Cette version du jeu ne comporte pas de mode multijoueur."
+}

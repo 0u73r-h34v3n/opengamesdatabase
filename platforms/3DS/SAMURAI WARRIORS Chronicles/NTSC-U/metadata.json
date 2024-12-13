@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Omega Force", "Tecmo Koei Games"],
+	"genres": ["Action", "Adventure"],
+	"name": "SAMURAI WARRIORS: Chronicles",
+	"publishers": ["Koei Tecmo Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "March 27, 2011",
+	"serial_number": "A66E",
+	"synopsis": "SAMURAI WARRIORS: Chronicles on the Nintendo 3DS lets you step into ancient Japanese history as a hero! Take on hordes of enemies and command your characters to turn the tide of epic battles in this action adventure game!"
+}

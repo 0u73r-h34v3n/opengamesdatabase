@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong Land III",
+	"publishers": ["Nintendo"],
+	"release_date": "February 26, 2015",
+	"serial_number": "RCKE",
+	"synopsis": "Fame-and-fortune seekers have journeyed far and wide in search of the fabled Lost World. Eager to find it first, Donkey Kong and Diddy Kong set off to discover its entrance, unaware that Baron K. Roolenstein and his Kremling Krew are hot on their tail! Meanwhile, Dixie Kong is left behind to babysit her younger cousin, Kiddy Kong. But that won't stop her from answering the call of adventure! Help Dixie Kong and Kiddy Kong through 36 Kremling-infested levels, each containing their own secret areas and bonus levels! While Dixie Kong's Helicopter Spin is useful for hovering away from obstacles, Kiddy Kong's Somersault will allow you to roll over land and water! Animal friends are back to help, and there are plenty collectibles and items to find along the way. Help the adventuring duo be the first to uncover the entrance to the secret Lost World!"
+}

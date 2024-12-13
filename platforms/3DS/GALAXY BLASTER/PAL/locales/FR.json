@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "GALAXY BLASTER",
+	"synopsis": "Dans GALAXY BLASTER, vous devez défendre votre vaisseau des navires étrangers venant en sens inverse. Déplacez votre pagaie à gauche ou à droite, puis touchez l'écran pour tirer au canon. Attention, si la cible entre dans votre base, ou que vous manquez les cibles trop de fois, le jeu est terminé !"
+}

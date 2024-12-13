@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Punch-Out!!",
+	"publishers": ["Nintendo"],
+	"release_date": "April 28, 2016",
+	"serial_number": "UALE",
+	"synopsis": "Prepare for a knockout experience in Super Punch-Out!!, the Super Nintendo sequel to the classic boxing game! Face off against your favourite opponents from the arcade and NES versions, along with a roster of all-new foes, on your way to the top of the WVBA (World Video Boxing Association) rankings. Take on 16 opponents in Championship Mode, learning their techniques and weak points to take them down, or practise your skills on single opponents in Time Attack Mode. Bold, colourful graphics and dramatic sound effects set the scene for what promises to be the fight of your life! This is the US version of the game."
+}

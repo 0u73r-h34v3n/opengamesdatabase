@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Imagine Fashion Designer 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 25, 2011",
+	"serial_number": "AGUP",
+	"synopsis": "Hold your head up high and work that look - because Nintendo 3DS is about to host your dream of becoming a member of the international fashion pack, a muse to other designers, and example for stylists everywhere to follow: Imagine™ Fashion Designer 3D has arrived!"
+}

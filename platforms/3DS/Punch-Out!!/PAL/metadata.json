@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo R&D3"],
+	"genres": ["Boxing", "Fighting", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Punch-Out!!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 1, 2012",
+	"serial_number": "TACP",
+	"synopsis": "What rookie boxer Little Mac lacks in size, he more than makes up for in determination. And with trainer Doc Louis by his side, Little Mac is ready to make a big impact. Punch-Out!! pits your pint-sized pugilist against such diverse rivals as the fragile-jawed Frenchman Glass Joe, sucker-punching Russian Soda Popinski and the Hollywood heavyweight Super Macho Man. Use jabs, body blows, hooks and uppercuts to discover your opponent's weak spot and make the winning blow. Also, look out for an appearance by Mario as the referee!"
+}

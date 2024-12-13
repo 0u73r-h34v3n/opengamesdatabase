@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "FRONT LINE",
+	"synopsis": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 軍曹を操作してステージを進み、敵陣の占領を目指します。ピストルや手りゅう弾を駆使して四方八方から襲ってくる敵を倒し、ステージの最後にある敵陣の大砲を手りゅう弾で破壊すればステージクリア。青色の戦車や装甲車は自軍のものなので、乗り込むことができます。"
+}

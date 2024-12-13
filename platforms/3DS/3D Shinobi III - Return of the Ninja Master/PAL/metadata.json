@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Shinobi III - Return of the Ninja Master",
+	"publishers": ["SEGA"],
+	"release_date": "December 19, 2013",
+	"serial_number": "JSNP",
+	"synopsis": "Joe Musashi’s sworn enemies, the Neo Zeed, have returned! Controlled by Shadow Master, a formidable ninja cloned from Joe’s own bloodline, the syndicate holds the city captive with its vicious crime ring. Utilize deadly weapons and lethal ninja arts in order to stand against the hordes of bio-ninja and save your city! In addition to its all-new 3D presentation, 3D Shinobi III features a Round Select Mode and customizable input setting which allows you to assign each action to specific buttons."
+}

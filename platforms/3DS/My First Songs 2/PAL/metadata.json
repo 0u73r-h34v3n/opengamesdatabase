@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My First Songs 2",
+	"publishers": ["Ringzero Games"],
+	"release_date": "December 11, 2014",
+	"serial_number": "JFXP",
+	"synopsis": "My First Songs 2 is the best interactive music game for kids, with a playlist of 14 popular children’s songs, charming 3D animations, and lots of cute characters and animals! Sing along and pop bubble notes: try to catch them all! Playlist: - Head Shoulders Knees and Toes - Deck the Hall - Ten Little Indians - Hey Diddle Diddle - Humpty Dumpty - If You’re Happy and You Know It - Little Miss Muffet - Pop Goes the Weasel - Row, Row, Row Your Boat - The Muffin Man - The Wheel on the Bus - We Wish You A Merry Christmas - Little Bo Peep - Oh Where Has My Little Dog Gone"
+}

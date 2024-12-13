@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "GRADIUS",
+	"publishers": ["KONAMI"],
+	"release_date": "November 1, 2012",
+	"serial_number": "TAYP",
+	"synopsis": "The planet of Gradius is doomed. Only you, at the helm of the prototype Vic Viper fighter, can save Gradius and the galaxy from the evil Bacterions. The first in the classic series, Gradius introduced the now familiar system of collecting capsules to boost your ship's abilities; missiles, increased speed, laser beam, force field and more. You must use your skills as a pilot and choose your weapons wisely, as you face off against waves of enemies and enormous bosses. Never forget: shoot the core!"
+}

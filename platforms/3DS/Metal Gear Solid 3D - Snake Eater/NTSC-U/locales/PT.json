@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Metal Gear Solid 3D - Snake Eater",
+	"synopsis": "Quando dados de salvamento são criados em um nível específico (dentro do WIG) com o Botão Deslizante Pro, algumas vezes o jogo trava depois de carregado e é possível que os dados sejam corrompidos. Esse problema foi corrigido."
+}

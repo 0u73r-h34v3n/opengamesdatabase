@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ocean Runner",
+	"publishers": ["Teyon"],
+	"release_date": "December 24, 2015",
+	"serial_number": "JRUP",
+	"synopsis": "Meet Gilbert, a bachelor fish who has fallen deeply in love with the beautiful Pearlina. Like all stunning fish, Pearlina’s one and only dream is to have the largest pearl in the ocean and like any love struck fish, Gilbert is on a mission to find it! Explore the colorful corals of the ocean in this thrilling underwater runner! Help Gilbert to win his love by earning enough pearls to unlock all the story pieces and reveal the final ending. Dodge and dash at oncoming creatures as you aim to swim the furthest and top the online leaderboards. Venture through caves and collect power-ups, treasure chests and golden shells in this ultimate surf under the sea!"
+}

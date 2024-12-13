@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mia's Picnic",
+	"publishers": ["Nellyvision"],
+	"release_date": "October 15, 2020",
+	"serial_number": "A41P",
+	"synopsis": "Join Mia for her summer adventures as she picnic’s her way across her island home in this fast paced fruit collection game. Help her make her favorite recipes and try out some new ones. Test your memory and skill as you race to collect the fruit she needs by selecting twisting and turning lines of matching fruit across the board. As you progress through the game Mia will ask for more varied ingredients for her picnic treats and you'll get to help out some of Mia’s friends too! With over 100 story led levels and wonderful original art depicting Mia’s Island this game is a real treat."
+}

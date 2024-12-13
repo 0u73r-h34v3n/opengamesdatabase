@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man 3",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 14, 2014",
+	"serial_number": "RCEP",
+	"synopsis": "The dastardly Dr. Wily has taken control of an off-shore oil rig, aiming to drill to the centre of the Earth to collect energy for his latest invention. Sounds like a recipe for disaster and only Mega Man can stop it! Assisted by cyber-canine Rush and robotic helper Eddie, you must progress through Dr. Wily's fiendish fortress, battling various Robot Masters and collecting their weapons before facing the mad scientist and his ultimate creation!"
+}

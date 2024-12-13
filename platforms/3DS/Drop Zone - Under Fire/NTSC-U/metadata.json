@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Drop Zone - Under Fire",
+	"publishers": ["Selectsoft"],
+	"release_date": "January 29, 2015",
+	"serial_number": "KDZE",
+	"synopsis": "Dive into action with Drop Zone! Get the adrenaline flowing as you blast your way through free fall. Adjust your velocity while maneuvering around buildings and automated fire in a 360º immersive sky-dive simulation. Pick up weapons and bonuses, and feel the thrill of blasting robot ships as you rush towards your jump target! Over 100 action-packed levels 360º immersive free-fall simulation Exciting first person perspective in 3D Highly detailed city graphics Packed with a variety of obstacles, bonuses, enemies and weapons"
+}

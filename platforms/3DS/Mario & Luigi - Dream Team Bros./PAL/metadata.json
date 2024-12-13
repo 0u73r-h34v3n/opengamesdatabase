@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AlphaDream", "Good-Feel"],
+	"genres": ["Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario & Luigi - Dream Team Bros.",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 12, 2013",
+	"serial_number": "AYMP",
+	"synopsis": "In this fourth instalment of the popular RPG series Mario & Luigi, the story opens with Princess Peach and her staff, plus brothers Mario and Luigi in tow, being invited for a sightseeing trip to the mysterious Pi’illo Island by its equally mysterious proprietor, Dr Snoozemore. But after an initially hospitable welcoming to the island – albeit with Dr Snoozemore noticeably absent – things take a turn for the worse when Princess Peach is kidnapped and pulled into a Dream World by a new enemy in the series, the ghostly bat king Antasma."
+}

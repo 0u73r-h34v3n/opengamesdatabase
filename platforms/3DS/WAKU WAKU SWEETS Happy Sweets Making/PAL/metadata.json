@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "WAKU WAKU SWEETS: Happy Sweets Making",
+	"publishers": ["Sonic Powered"],
+	"release_date": "March 29, 2018",
+	"serial_number": "BSWP",
+	"synopsis": "Let's make lots of sweets at the yearning sweets shop! With easy operation, you can make sweets happily! You can learn how to make sweets with over 100 kinds of fun while playing! There are many recipes including cakes, cookies, Japanese sweets and so on. Wish to make delicious sweets at sweets shop Let's make your dreams come true!"
+}

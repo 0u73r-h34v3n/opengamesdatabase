@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skip Ltd."],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Chibi-Robo! Photo Finder",
+	"publishers": ["Nintendo"],
+	"release_date": "January 9, 2014",
+	"serial_number": "JPME",
+	"synopsis": "Become one of the world’s best tiny robot helpers by doing your part to open a new museum. Collect Happy Points by vaccuming, picking up trash, and helping a cast of colorful characters, and then use those Happy Points to purchase special film that lets you photograph real-world objects and transport them into the game for the museum’s displays! Mr. Curator wants to immortalize objects from your day-to-day life, and it’s Chibi-Robo’s job to collect them! Lead Chibi-Robo on a scavenger hunt, taking photos of real-world objects with the Nintendo 3DS Camera so that he can transport them into his world for the museum’s collection. Along the way, you’ll meet eclectic characters who need Chibi Robo’s help, like a sushi-slinging squid, a high-flying super hero, and an eccentric pair of chefs. The more happiness you spread, the faster your quest for exhibits can progress. Just make sure Chibi-Robo doesn’t run out of watts. He’s a tiny robot, after all."
+}

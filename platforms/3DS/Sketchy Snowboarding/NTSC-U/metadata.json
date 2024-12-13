@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES"],
+	"name": "Sketchy Snowboarding",
+	"publishers": ["Side Hit Studios"],
+	"release_date": "July 11, 2019",
+	"serial_number": "CFCE",
+	"synopsis": "Sketchy Snowboarding is a hand drawn infinite snowboarder where no two runs are the same. Carve, ollie, grab, grind, and spray folklore beasts to progress through 100 unique challenges. The rules are simple: Carve to the left of red gates. Carve to the right of blue gates. Don't run into stuff. Send it deep. The \"art\", sound, and code was created in Colorado and outdoors whenever possible. This project kept me sane during a skateboarding injury in 2018 and I hope you have as much fun playing it as I did making it."
+}

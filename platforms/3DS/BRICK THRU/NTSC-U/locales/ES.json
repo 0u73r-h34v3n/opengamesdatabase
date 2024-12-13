@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "BRICK THRU",
+	"synopsis": "Bienvenido al juego de esquivar ladrillos rápidamente con BRICK THRU. El jugador debe correr rápidamente hacia la izquierda y la derecha, encontrando un espacio abierto en el tablero a medida que los ladrillos se aproximan e intentan golpearte. ¡Ve cuánto puedes durar y acumula una puntuación alta! ¡Diversión interminable para todos!"
+}

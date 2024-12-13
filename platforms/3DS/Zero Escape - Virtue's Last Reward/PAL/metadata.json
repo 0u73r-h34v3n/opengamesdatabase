@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Zero Escape - Virtue's Last Reward",
+	"publishers": ["Rising Star Games"],
+	"release_date": "November 23, 2012",
+	"serial_number": "AKGP",
+	"synopsis": "Will you choose to ally, or to betray? Solve the puzzles and uncover the mysteries as you discover your own morality, with 24 captivating endings! There is Zero Escape!"
+}

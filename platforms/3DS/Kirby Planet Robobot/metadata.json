@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory", "Inc."],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Kirby: Planet Robobot",
+	"publishers": ["Nintendo"],
+	"regions": ["NTSC-U", "PAL"],
+	"release_date": "June 10, 2016",
+	"serial_number": "AT3A",
+	"synopsis": "Planet Popstar is being invaded by the Haltmann Works Company and its robotic army, and only Kirby can put a stop to it in Kirby: Planet Robobot. Take the fight to the evil corporation using Kirby's trademark Copy Abilities plus all-new abilities, and turn their own technology against them by taking control of the powerful Robobot Armour! Take a break from the main adventure, you can also get stuck into some fun minigames: partner with pals to take on bosses in Team Kirby Clash, or go for a high score in Kirby 3D Rumble! Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

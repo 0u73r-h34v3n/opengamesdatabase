@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Japanese Rail Sim 3D  Journey in suburbs #1 Vol. 4",
+	"publishers": ["Sonic Powered"],
+	"release_date": "March 24, 2016",
+	"serial_number": "KJ4E",
+	"synopsis": "Scenes of verdant mountains and clear streams come to life on screen in real photographic 3D visuals! A journey on local rail through Gifu prefecture, located in the center of the Japanese archipelago. In the fourth volume, you'll drive from Yamada Station to Hokuno Station. Aim for higher scores by stopping the train exactly on time and exactly on the mark! You're sure to encounter plenty of charming information and moving experiences by the time you've driven all the way to the end of the Nagaragawa Railway."
+}

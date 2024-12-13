@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Word Search by POWGI",
+	"publishers": ["Lightwood Games"],
+	"release_date": "April 16, 2015",
+	"serial_number": "KWBE",
+	"synopsis": "With more than 300 puzzles to solve, Word Search by POWGI will keep you puzzling for hours! An intuitive touch-screen interface puts you straight into the action with no complex controls to learn! Follow your progress through 28 different categories, from animals, nature and science to school life, hobbies and careers. POWGI's word search puzzles are expertly hand-crafted for your enjoyment and are stuffed to the brim with words in every direction!"
+}

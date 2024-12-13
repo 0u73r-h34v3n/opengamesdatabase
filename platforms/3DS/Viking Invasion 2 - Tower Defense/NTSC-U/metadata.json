@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Viking Invasion 2 - Tower Defense",
+	"publishers": ["Nacon"],
+	"release_date": "February 21, 2013",
+	"serial_number": "JVYE",
+	"synopsis": "After the success of the first game, follow the whacky new adventures of Olaf the Viking and his group in this cartoon-style fantasy Tower Defense. During their journey, these terrible bearded warriors with a debatable sense of humour will have to travel to places that are more offbeat than ever. Your mission: stop them from pillaging everything in their path! Build your towers at the most strategic locations to block the advance of the Viking units. To counter the drakkars, Valkyries and even the god Odin, upgrade your defences and unlock new buildings. 12 maps 30 ennemies 8 types of towers 96 upgrades"
+}

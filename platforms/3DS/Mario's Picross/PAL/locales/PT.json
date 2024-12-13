@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario's Picross",
+	"synopsis": "No clássico jogo de puzzles Mario’s Picross, lançado pela primeira vez em 1995, há mais de 200 puzzles desafiantes à espera de serem resolvidos. Revela as imagens escondidas em cada puzzle ao preencheres corretamente os quadrados da grelha. Os números que aparecem nos cantos indicam-te quantos quadrados têm de ser preenchidos em cada fila ou coluna. Depois de completares os modos normais, serás confrontado com um modo contrarrelógio que será um verdadeiro teste às tuas capacidades."
+}

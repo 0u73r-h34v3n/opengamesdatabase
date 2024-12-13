@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Torus Games"],
+	"genres": ["Action", "Adventure", "Compilation", "Party", "Platformer"],
+	"name": "The Combo Pack - Madagascar 3: Europe's Most Wanted + Croods Prehistoric Party!",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 15, 2013",
+	"serial_number": "AGCP",
+	"synopsis": "This combo pack contains the full versions of both Madagascar 3: The Video Game and The Croods: Prehistoric Party. It is loaded with action and adventure featuring your favorite DreamWorks Animation characters and is sure to provide hours of fun for kids of all ages. In Madagascar 3: The Video Game, adventure across Europe as Alex the Lion, Marty the Zebra, Gloria the Hippo and Melman the Giraffe while you find a way home under the perfect cover: a traveling circus. The Croods: Prehistoric Party. combines the ultimate fun of a family party game with Croods style action as you journey through 30 unique and addictive mini games."
+}

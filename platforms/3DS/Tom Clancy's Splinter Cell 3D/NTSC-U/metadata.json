@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Tom Clancy's Splinter Cell 3D",
+	"publishers": ["Ubisoft"],
+	"release_date": "February 7, 2013",
+	"serial_number": "ASCZ",
+	"synopsis": "Coming exclusively to the Nintendo 3DS™, Tom Clancy’s Splinter Cell 3D is the highly anticipated hand held game in the multimillion-selling Splinter Cell series and one of the most critically acclaimed franchises of all time. Sam Fisher is sent behind enemy lines in the Korean Peninsula to prevent WWIII, by investigating the responsible party that sunk the USS Clarence E Walsh, U.S.’s most advanced cruiser. Through his investigation, Sam learns that the key parties who are planning to use the Masse Kernels to launch WWIII are war comrade Douglas Shetland, Displace International, and Admiral Otomo, the Third Echelon Information Self Defense Force (I-SDF) contact. The cutting edge hardware of the new Nintendo 3DS™ allows Splinter Cell fans to play in immersive 3D and ability to interact with the game like nothing before."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "クイックス",
+	"synopsis": "1990年にゲームボーイで発売されたアクションゲームです。 「マーカー」を動かして線を引き、囲んだエリアを占領していきます。ステージ内を動き回る敵「クイックス」や、線の上を移動して追いかけてくる「スパーク」などをかわしながら、占領率99％クリアを目指します。"
+}

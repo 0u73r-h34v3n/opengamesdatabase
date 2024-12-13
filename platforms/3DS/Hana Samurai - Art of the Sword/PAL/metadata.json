@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hana Samurai - Art of the Sword",
+	"publishers": ["Nintendo"],
+	"release_date": "October 11, 2012",
+	"serial_number": "JLLP",
+	"synopsis": "Leave button mashing behind. Hana Samurai: Art of the Sword is about precision swordplay, battlefield finesse, and martial-arts style. As the heroic title character, you’ll travel a world rife with cherry-blossom beauty and deadly danger to rescue the legendary Princess Cherry Blossom. Her kidnapper has set dozens of blade-wielding henchmen in your path, and you’ll have to exercise your best battle senses to defeat them and save her. Learn to predict your foes’ moves, deftly dodge their attacks, and create opportunities for devastating counterattacks. Start with the Sakura Sword, a little health, and some basic training from your water-spirit guide. Make your way from battleground to battleground fighting wave after wave of increasingly cunning enemies. Fight through huge castles to duel epic bosses. And don’t forget to stop at small villages along the way to get help, gear, encouragement (and distraction) from the quirky townsfolk. Prove that you truly are the Sakura Samurai!"
+}

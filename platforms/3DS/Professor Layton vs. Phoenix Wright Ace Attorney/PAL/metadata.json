@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5 & Capcom"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Professor Layton vs. Phoenix Wright: Ace Attorney",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 28, 2014",
+	"serial_number": "AVSZ",
+	"synopsis": "The puzzle professor and the ace attorney unite in Professor Layton vs. Phoenix Wright: Ace Attorney, only on Nintendo 3DS! Solve puzzles to investigate as Professor Layton, present evidence to the judge as Phoenix Wright, and crack the ultimate case!"
+}

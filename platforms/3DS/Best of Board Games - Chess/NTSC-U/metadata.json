@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Best of Board Games - Chess",
+	"publishers": ["Nacon"],
+	"release_date": "June 18, 2015",
+	"serial_number": "JCFE",
+	"synopsis": "Rediscover all the pleasure of chess in this timeless classic! Play with chessmen fully modelled in 3D and change the camera from the new 3D view to the traditional 2D view at any time. Learn new strategies in Adventure mode and improve your game with 90 additional challenges. Set the difficulty to match your level thanks to an advanced artificial intelligence (up to 2,100 Elo)."
+}

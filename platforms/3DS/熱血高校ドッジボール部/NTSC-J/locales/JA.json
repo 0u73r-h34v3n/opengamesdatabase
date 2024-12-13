@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "熱血高校ドッジボール部",
+	"synopsis": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 くにおくん率いる熱血高校が、ドッジボール大会に出場して世界一をめざします。相手チームの内野手にシュートを当てて体力を減らし、内野手3人の体力をなくすと勝利になります。「必殺シュート」や「ナイスシュート」を当てると、相手の体力を大きく減らすことができます。"
+}

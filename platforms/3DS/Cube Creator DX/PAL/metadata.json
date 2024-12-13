@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Big John Games"],
+	"genres": ["Action", "Simulation"],
+	"locales": ["FR"],
+	"name": "Cube Creator DX",
+	"publishers": ["Big John Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 8, 2018",
+	"serial_number": "A9CP"
+}

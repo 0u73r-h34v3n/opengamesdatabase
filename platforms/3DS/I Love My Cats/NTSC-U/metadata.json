@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "I Love My Cats",
+	"publishers": ["Nacon"],
+	"release_date": "July 23, 2015",
+	"serial_number": "ALKE",
+	"synopsis": "Become a best friend to the animals by taking in abandoned kittens. Look after them every day so they flourish with their new family: feed them, stroke them, tend them, raise them and play with them. Discover the town around you: take them for walks in the park, enter competitions on the beach and buy new toys for them at the market. 8 cat breeds: Siamese, Maine Coon, Abyssinian, Tabby, British Shorthair, Havana Brown, Scottish Fold, Snowshoe. 15 activities for playing and caring for your kittens. Change the way they look with a wide range of accessories."
+}

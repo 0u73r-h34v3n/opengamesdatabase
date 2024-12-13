@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario’s Super Picross",
+	"synopsis": "Cette version Super Nintendo du fameux jeu de casse-tête sorti uniquement au Japon dans les années 90 propose des centaines de défis à la fois complexes et relaxants. Chaque casse-tête Picross consiste en une grille numérotée, dont il faudra noircir les cases pour découvrir une image. Dans Mario's Super Picross, la moindre erreur vous fera perdre du temps, mais dans Wario's Super Picross, vos erreurs ne seront pas indiquées, alors faites attention !"
+}

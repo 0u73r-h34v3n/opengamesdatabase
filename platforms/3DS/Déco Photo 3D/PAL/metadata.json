@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Drawing", "Simulation"],
+	"locales": ["DE", "FR", "IT", "NL"],
+	"name": "Déco Photo 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 12, 2012",
+	"serial_number": "JCVF",
+	"synopsis": "Amusez-vous à prendre des photos et faites preuve d'imagination pour les décorer ! Avec Déco Photo 3D, réalisez de superbes clichés partout où vous allez avec les appareils photo de votre Nintendo 3DS. Personnalisez-les ensuite avec des cadres, des décors et des éléments déco de votre création avant de les partager avec vos amis (veuillez noter que les photos prises avec ce logiciel ne s'afficheront pas en 3D). Vous pouvez apparaître sur vos photos aux côtés de vos amis grâce au retardateur, ou bien acheter du contenu additionnel sur la boutique déco pour exprimer toute votre créativité !"
+}

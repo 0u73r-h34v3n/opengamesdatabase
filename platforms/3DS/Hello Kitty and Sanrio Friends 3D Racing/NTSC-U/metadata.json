@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hello Kitty and Sanrio Friends 3D Racing",
+	"publishers": ["Majesco Entertainment"],
+	"release_date": "November 11, 2014",
+	"serial_number": "BKYE",
+	"synopsis": "It’s a fun rainbow race to the finish line with Hello Kitty and her super cute friends! Drive cars, planes and boats through 3D environments including Chococat’s Tropical Island, Little Twin Stars’ Galaxy and Hello Kitty’s Happy Town. Compete against 9 other racers as you pick up cool power-ups, then unlock 20 different mini games that will challenge your skills. Customize your vehicles and character outfits to make the game your own. Play as your favorite Sanrio characters including Hello Kitty, My Melody, Keroppi, Badtz-Maru and many more!"
+}

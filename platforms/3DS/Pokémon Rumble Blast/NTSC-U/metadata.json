@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Pokémon Rumble Blast",
+	"publishers": ["Nintendo"],
+	"release_date": "January 13, 2012",
+	"serial_number": "ACCE",
+	"synopsis": "Battle more than 600 Toy Pokémon in this 3D action-packed adventure! As the first Pokémon™ game created exclusively for the Nintendo 3DS™ system, Pokémon Rumble Blast gives fans the chance to experience unique, fun and fast-paced Pokémon battles in 3D without the need for special glasses. As they explore imaginative levels filled with Toy Pokémon, players can battle and collect more than 600 Toy Pokémon in all – including Pokémon from the Pokémon Black Version and Pokémon White Version games. For added social fun, players can use a local wireless connection to team up, battle and collect Toy Pokémon together, or use the Nintendo 3DS system’s built-in StreetPass™ feature to challenge other players’ Toy Pokémon collections."
+}

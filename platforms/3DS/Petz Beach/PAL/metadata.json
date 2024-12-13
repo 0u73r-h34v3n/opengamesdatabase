@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Petz Beach",
+	"publishers": ["Ubisoft"],
+	"release_date": "November 6, 2014",
+	"serial_number": "APIP",
+	"synopsis": "Go on exciting beach adventures with your Petz! Care for a wide variety of dogs, cats and 6 exclusive exotic seaside animals such as a dolphin and a polar bear. Explore the beach town and complete quests and fun activities with your Petz. Expand your town, welcome new pets and unlock new buildings like the exotic petting park."
+}

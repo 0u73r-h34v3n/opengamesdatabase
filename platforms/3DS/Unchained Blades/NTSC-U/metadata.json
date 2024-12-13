@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Unchained Blades",
+	"publishers": ["Marvelous (XSEED)"],
+	"release_date": "January 3, 2013",
+	"serial_number": "JUCE",
+	"synopsis": "Though Fang is already renowned as the ruthless and feared Dragon Emperor, his lust for strength brings him to the doorsteps of the great Goddess Clunea. When he arrogantly demands that she finds him a fitting opponent to defeat, the offended creator banishes him to crawl upon the ground in a weakened state. Now Fang must traverse dangerous living temples of the Goddess' creation, known as Titans, in order to meet his maker once again and exact his revenge. But he cannot do it alone... Journey through grid-based dungeons in first-person view with your seven allies in classic turn-based combat, all while fighting over 180 varieties of monsters that you can convince to fight alongside you in battle."
+}

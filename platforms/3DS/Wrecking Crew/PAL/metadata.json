@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Wrecking Crew",
+	"publishers": ["Nintendo"],
+	"release_date": "May 9, 2013",
+	"serial_number": "TAGP",
+	"synopsis": "In NES™ classic Wrecking Crew, Mario and Luigi swap their plumber’s caps for hard hats as they take on the role of demolition engineers! One or two players must demolish every obstacle in each enemy-infested level, while working out the most destructive route through the networks of ladders and scaffolds. Wrecking Crew also includes a mode for designing your own levels. This Virtual Console™ version also features the ability to save your creations, which was not possible in the NES original."
+}

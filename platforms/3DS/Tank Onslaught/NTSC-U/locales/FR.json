@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Tank Onslaught",
+	"synopsis": "Rencontrez le gameplay reconnaissable dans le jeu \"Tank Onslaught\" Le champ d'action est visible d'en haut. Le joueur, contrôlant son char, doit détruire tous les chars ennemis à un niveau qui apparaît progressivement dans la partie supérieure du terrain de jeu."
+}

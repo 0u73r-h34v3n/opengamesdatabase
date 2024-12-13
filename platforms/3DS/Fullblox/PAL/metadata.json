@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fullblox",
+	"publishers": ["Nintendo"],
+	"release_date": "May 14, 2015",
+	"serial_number": "KAAP",
+	"synopsis": "Free to Start; Free to Discover! Now everyone can try out the renowned Pullblox series. Fullblox is the fourth puzzle-platforming game in the Pullblox series, again starring the charming character Mallo and his friends. It builds on the gameplay of Pullblox, which revolves around pulling and pushing block layers to create a path to the goal atop of a structure. For the first time in the series players expand blocks into all four directions (including the rear) of a structure. Offers in-game purchases."
+}

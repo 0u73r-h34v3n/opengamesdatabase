@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Behaviour Interactive"],
+	"genres": ["Action", "Platformer"],
+	"name": "Snoopy's Grand Adventure",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 6, 2015",
+	"serial_number": "BPEP",
+	"synopsis": "Take Snoopy on a grand adventure through amazing environments, created in his imagination, as he tries to find Charlie Brown and all his friends."
+}

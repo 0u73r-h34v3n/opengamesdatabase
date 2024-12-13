@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Picross e6",
+	"publishers": ["JUPITER"],
+	"release_date": "July 30, 2015",
+	"serial_number": "KP6P",
+	"synopsis": "The 6th game in the Picross e series, with a Navigation Feature! New to this title, each puzzle can be played in either Picross or Mega Picross mode! Enjoy over 300 puzzles, including special puzzles. You can also choose the fill animation for the puzzle screen. Picross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images. The rules are simple and easy to grasp. Anyone can do it!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mini Mario & Friends: amiibo Challenge",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 28, 2016",
+	"serial_number": "KPCP",
+	"synopsis": "Mini Mario & Friends: amiibo Challenge is based on the Mario vs. Donkey Kong series. Enjoy this fast-paced puzzle game where you can manipulate the environment with the Touch Screen to safely guide your character past various environmental hazards and enemies to the level exit. If you have an amiibo (sold separately), you can play ingenious puzzles that require super-quick wits and fast reflexes to beat. Your aim is to guide the clockwork Mini Toys towards the Goal Door in each stage, using the Nintendo 3DS Touch Screen to position all sorts of items, such as Girders, lifts and springs to help them on their way. Mini Toys will keep on moving automatically, so plan the safest route possible and use every tool at your disposal to stop them from falling into traps – or into the clutches of enemies! Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

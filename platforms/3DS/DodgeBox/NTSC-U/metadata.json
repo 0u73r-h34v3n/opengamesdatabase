@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "DodgeBox",
+	"publishers": ["StickBit"],
+	"release_date": "May 18, 2017",
+	"serial_number": "CDAE",
+	"synopsis": "A fun game where you use the Touch Screen to avoid falling boxes! It gets harder as it continues!"
+}

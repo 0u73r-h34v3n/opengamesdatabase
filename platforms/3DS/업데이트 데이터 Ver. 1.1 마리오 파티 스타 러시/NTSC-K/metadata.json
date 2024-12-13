@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nd Cube"],
+	"genres": ["Arcade", "Party"],
+	"locales": ["KO"],
+	"name": "업데이트 데이터 Ver. 1.1 마리오 파티 스타 러시",
+	"publishers": ["Nintendo"],
+	"release_date": "July 5, 2017",
+	"serial_number": "BAAK"
+}

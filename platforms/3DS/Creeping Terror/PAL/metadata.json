@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Creeping Terror",
+	"publishers": ["Aksys Games"],
+	"release_date": "October 31, 2017",
+	"serial_number": "KJEP",
+	"synopsis": "Trapped below a creepy abandoned mansion deep in the forest, a group of friends find themselves on the run from a terrifying monster. Using only her wits and what's around her, Arisa must uncover the secrets of the mansion, and figure out how to escape...before it's too late."
+}

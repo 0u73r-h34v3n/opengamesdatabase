@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hiding Out",
+	"publishers": ["Green Lightning"],
+	"release_date": "November 6, 2017",
+	"serial_number": "BHGE",
+	"synopsis": "The police think you're a bank robber! Find 100 pieces of a photo of the real robber in this single-screen game inspired by classic arcade games! Simple, retro-style gameplay Five modes of play Nonviolent, family friendly Anyone can play!"
+}

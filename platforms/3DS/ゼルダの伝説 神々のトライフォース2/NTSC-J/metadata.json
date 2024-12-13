@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["JA"],
+	"name": "ゼルダの伝説 神々のトライフォース2",
+	"publishers": ["任天堂"],
+	"release_date": "December 26, 2013",
+	"serial_number": "BZLJ"
+}

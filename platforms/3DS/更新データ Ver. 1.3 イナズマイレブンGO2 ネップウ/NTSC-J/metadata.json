@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level Five"],
+	"genres": ["Arcade", "Soccer", "Sports"],
+	"locales": ["JA"],
+	"name": "更新データ Ver. 1.3 イナズマイレブンGO2 ネップウ",
+	"publishers": ["レベルファイブ"],
+	"release_date": "April 10, 2013",
+	"serial_number": "ANPJ"
+}

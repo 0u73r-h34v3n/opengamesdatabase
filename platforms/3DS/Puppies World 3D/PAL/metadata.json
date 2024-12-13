@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["M-tea-O"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Puppies World 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 11, 2011",
+	"serial_number": "ACTP",
+	"synopsis": "In Puppies 3D, puppy lovers can bond and interact with a family of the most adorable puppies in a lifelike, 3D world, and choose from the most popular breeds. Players can adopt their very own puppies, take care of them, play with them, exercise them, train them, and socialize, all in an incredibly realistic and interactive three-dimensional environment!"
+}

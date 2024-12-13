@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Word Wizard 3D",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "November 14, 2013",
+	"serial_number": "AWWZ",
+	"synopsis": "WORD WIZARD 3D Is a collection of classic word games. The player is invited to create, compose and find words in addictive and absorbing gameplay. Levels of difficulty naturally increase as the players advance through the game making it suitable for all ages."
+}

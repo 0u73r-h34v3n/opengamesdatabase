@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "I am an Air Traffic Controller - AIRPORT HERO NARITA",
+	"publishers": ["Sonic Powered"],
+	"release_date": "May 25, 2017",
+	"serial_number": "AN6P",
+	"synopsis": "Control Japan's Tokyo-Narita Airport in [I am an Air Traffic Controller Airport Hero Narita], where many flights from around the world come and go every day. With the terminal placed between two runways, taxiing takes a long time in this airport and thus ground control can be tricky. You will need to pay attention to not only air control, but also to the position and movement of taxiing airplanes. Anticipate well to control successfully. Give the appropriate directions and guide the airplanes smoothly! Game controls are simple. Just select the direction details which are automatically displayed. Enjoy the airport scenery and the bustle of passenger planes as you work through 20 stages!"
+}

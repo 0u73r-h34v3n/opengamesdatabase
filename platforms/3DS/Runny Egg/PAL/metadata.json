@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Runny Egg",
+	"publishers": ["TOMCREATE"],
+	"release_date": "January 28, 2016",
+	"serial_number": "JTMP",
+	"synopsis": "Take control of an egg with legs and run as fast as you can through a course littered with dangers to reach the egg stand at the end! Duck and dodge your way through each stage, avoiding collisions that will damage and eventually break your shell and spoil the egg! Reach the goal as quickly as possible and without breaking the egg's shell! Earn Egg Points for making it through each stage and extra points for accomplishing a task. Use your Egg Points to enhance your egg's HP, Speed and Shell. Collect the chicks scattered throughout each stage to increase your rate of hatching. Getting 100 chicks will hatch your egg, making you invincible for a short period of time!"
+}

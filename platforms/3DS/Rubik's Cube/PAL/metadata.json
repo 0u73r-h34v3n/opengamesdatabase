@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rubik's Cube",
+	"publishers": ["Cypronia"],
+	"release_date": "June 23, 2016",
+	"serial_number": "JLQP",
+	"synopsis": "The official Rubik’s Cube game is here! Play anywhere, anytime on the most authentic digital representation of the Rubik’s Cube available. Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Game Features: -Intuitive touch controls -Cube 2x2x2 and Cube 3x3x3 -Solver -Camera Capture -Internet rankings The game is developed under the license of the Rubik's Brand Ltd."
+}

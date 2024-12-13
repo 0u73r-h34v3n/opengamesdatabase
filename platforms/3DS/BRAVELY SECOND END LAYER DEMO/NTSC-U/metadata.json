@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "BRAVELY SECOND: END LAYER DEMO",
+	"publishers": ["Nintendo"],
+	"release_date": "March 10, 2016",
+	"serial_number": "KHSE",
+	"synopsis": "Square Enix’s critically acclaimed Bravely Default game is all set to enjoy a much-lauded sequel and you can try a portion of it out right now, for free! In the Bravely Second™: End Layer demo: The Ballad of the Three Cavaliers, you’ll return to the land of Luxendarc and embark on a bonus adventure not found in the main game. Join the Three Cavaliers on a mission from Her Holiness Agnès Oblige to investigate strange happenings in the desert of Harena. Make sure to try out different jobs during your adventure—mix and match abilities and secondary job commands to take down tough enemies and bosses. Whether they’re formidable fighters and mages looking to test their skills, giant trolls with a chip on their shoulder, or alien entities with a bent for drama, all of them pose a risky challenge…along with the irresistible promise of great rewards."
+}

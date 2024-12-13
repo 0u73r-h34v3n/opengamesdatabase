@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Canada"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES", "NL"],
+	"name": "FIFA 12",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2011",
+	"serial_number": "AF2P",
+	"synopsis": "With hundreds of licensed teams, thousands of star players and scores of tournaments to tackle, you’d be forgiven for thinking EA SPORTS FIFA 12 was too big to put in your pocket. But as the hit soccer series arrives on Nintendo 3DS for the first time, football fans everywhere are invited to do just that and take the beautiful game with them wherever they go! FIFA 12 offers a jam-packed portable footy experience, featuring classic 11 vs. 11 matches, 5-a-side street soccer and innovative control options. And for the first time in a FIFA game, players can choose to enjoy every kick in stereoscopic 3D! In 11 vs. 11 matches, play as clubs from top leagues like the Barclays Premiership, Bundesliga, MLS and many, many more! From Kaká to Rooney, see your favourite players in authentic kits and stunning stadium settings as you compete to bag trophies in 50 real-world tournaments. In Be A Pro mode, create your own player and grow their skills over successive seasons, or tackle Career Mode and choose to play or manage your way to glory, setting goals along the way and achieving them to earn performance enhancements. As you’d expect, you never need to play alone in FIFA 12, with two-player matches possible via local wireless play. The Nintendo 3DS system doesn’t just transform the FIFA experience with stunning 3D visuals, optional Touch Screen controls can also be used to give players increased accuracy when they find themselves through on goal. Simply tap your chosen spot between a set of goalposts that appear on the Touch Screen to determine exactly where you want to aim your shot. You aren’t guaranteed to score, but there can be no more complaints that the ball didn’t go where you wanted it to! The Touch Screen also comes into play for set-pieces as you plot the course of free kicks with unparalleled precision. If you want to experience football away from the stadium spotlights, FIFA 12 also invites you to take to the streets and compete in 5 vs. 5 matches around the globe. Decked out in the latest streetwear styles, you could find yourself anywhere from France to Brazil as you tackle the fast-paced challenges of 5-a-side footy. These frantic street matches also act as a training ground for your self-created star in the game’s Be A Pro mode, meaning you won’t become an international star without first serving your apprenticeship amid the dirt and dust of the concrete jungle. Take a whole universe of football on the move as FIFA 12 arrives on Nintendo 3DS to ensure the game you love is at your fingertips no matter where you are."
+}

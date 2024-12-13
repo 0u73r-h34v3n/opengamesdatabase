@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Legend of Zelda: Oracle of Seasons",
+	"publishers": ["Nintendo"],
+	"release_date": "May 30, 2013",
+	"serial_number": "QACP",
+	"synopsis": "Onox, the General of Darkness, has imprisoned the Oracle of Seasons to drain life from the land. Link must control the seasons themselves to turn the tide of evil! Change seasons at will – like conjuring winter to cross rivers - to solve puzzles and explore the land. Befriend animals to aid you, collect mysterious rings and conquer eight dungeons to recover the Essences of Nature. Plus - link with The Legend of Zelda™: Oracle of Ages via passwords to conclude your quest. Unlock secrets in both games, carry over items and reveal the ultimate boss battle!"
+}

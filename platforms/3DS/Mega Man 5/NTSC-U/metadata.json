@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man 5",
+	"publishers": ["CAPCOM"],
+	"release_date": "May 16, 2013",
+	"serial_number": "TBEE",
+	"synopsis": "Protoman has gone berserk! Destroying half the city was not enough. Now, he has kidnapped Dr. Light and is holding him and the entire city hostage. Speeding to the rescue is Mega Man and his modified Mega Buster, but eight of Protoman's cybernetic soldiers plan to send Mega Man to the scrap heap for good! Feel the weight of the world on your shoulders as you battle Gravity Man! Chip away at the rock-life defenses of Stone Man and bring him crumbling down! Hit the surf and sail up against the tidal power of Wave Man! Guide Mega Man through 13 action-packed stages and defeat all eight of Protoman's robots, then get ready for the fight that pits brother against brother in the battle of the century!"
+}

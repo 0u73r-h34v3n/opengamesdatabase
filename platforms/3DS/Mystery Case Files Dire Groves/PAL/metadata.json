@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Big Fish Games", "astragon"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mystery Case Files Dire Groves",
+	"publishers": ["Engine Software", "MSL"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "April 10, 2014",
+	"serial_number": "ADHP",
+	"synopsis": "The Celtic legend of Dire Grove has been passed down from generation to generation for centuries. Considered a fairytale, its telling was meant to frighten small children into staying in their beds through the night. A recently unearthed artifact in the United Kingdom, however, proves the dark legend to be true! Use your wits and Hidden Object talents to follow the trail of a group of missing graduate students in Mystery Case Files: Dire Grove!"
+}

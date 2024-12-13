@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Casual Games",
+	"publishers": ["Nacon"],
+	"release_date": "March 5, 2015",
+	"serial_number": "BCSP",
+	"synopsis": "Finally! Best of Casual Games combines all of the fun of Zuma, Hidden Object, Match-3 and time management games in a single, explosive package! Collect hundreds of puzzle pieces while finishing forty levels with different degrees of difficulty. - A compilation of 4 amazing games - Travel to the four corners of Europe through photos that you piece together - A game adapted to both children and adults, through different levels of difficulty"
+}

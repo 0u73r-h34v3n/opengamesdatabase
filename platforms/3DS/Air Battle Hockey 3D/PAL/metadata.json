@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Air Battle Hockey 3D",
+	"publishers": ["Agetec"],
+	"release_date": "May 23, 2013",
+	"serial_number": "JAHP",
+	"synopsis": "The basic rules are familiar: use a racket to hit a ball into the opponent's goal. The first one to score ten points wins. The game features special Skills and Targets. There are six different offensive and defensive skills. Play aggressive and attack with the Lightning Shot skill which changes direction of the ball during mid-flight, tricking your opponent in scoring a goal. Play defensive and use the Hyper Racket skill to increase the size of your Racket improving protection of your goal. Watch for Targets that appear during the game, hitting those triggers various events, such as an increase ball speed or reducing your opponent’s skill gauge to zero. In addition to the Two-Player Battle Mode, there is also Endless Mode, a squash-like game where you compete for a high score. Features: - Challenge a friend in Two-Player Battle Mode. (Local Play) - Increase your skill gauge to unleash special attacks. - Hit various targets to alter the game. - Enjoy the non-stop Endless Mode."
+}

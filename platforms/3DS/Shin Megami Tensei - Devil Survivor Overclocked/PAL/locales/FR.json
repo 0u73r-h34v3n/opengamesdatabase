@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Shin Megami Tensei - Devil Survivor Overclocked",
+	"synopsis": "L’installation du correctif réglera les problèmes suivants : - Le blocage du jeu lors de l'invocation d'un démon en combat. - Le blocage aléatoire qui se produisait lors des « accidents » à la Salle des ventes - Les erreurs d'affichage de texte Une fois le correctif téléchargé, il s'installera automatiquement. Si la mise a jour a été réussie, la mention « ver 1.1 » apparaîtra sur l'écran titre au lancement du jeu. Veuillez nous excuser pour tout désagrément que ces problèmes ont pu vous causer et nous vous recommandons de télécharger le correctif afin de vivre une meilleure expérience de jeu."
+}

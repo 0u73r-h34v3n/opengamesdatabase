@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Metroid",
+	"publishers": ["Nintendo"],
+	"release_date": "March 10, 2016",
+	"serial_number": "UACE",
+	"synopsis": "When space pirates snatch the last remaining Metroid, bounty hunter Samus Aran is called back into action! Use new abilities like the grappling beam and x-ray scope to navigate the massive labyrinths of planet Zebes; battling enemies and enormous bosses with an arsenal of beams, missiles and bombs. Super Metroid is renowned as one of the greatest 2D action games ever made, and paved the way for the Metroid™ Prime series with its innovative blend of exploration, action and secrets galore. This is the US version of the game."
+}

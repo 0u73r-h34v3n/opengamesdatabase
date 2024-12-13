@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Alleyway",
+	"synopsis": "Lanzado originalmente durante el estreno de Game Boy, Alleyway es una entrañable reinterpretación de los juegos clásicos basados en hacer rebotar una bola. El objetivo es simple: ¡sobrevivir y conseguir puntos! Desplaza la plataforma para hacer rebotar la bola y lanzarla contra el muro, ¡pero que no se caiga! Destruye todos los bloques para pasar al siguiente nivel. ¡Hay 32 en total! El juego empieza de forma sencilla, pero a medida que avances, irán apareciendo hileras de bloques que se desplazan horizontal o verticalmente. También jugarás fases de bonificación en las que tendrás que destruir todos los bloques que puedas a contrarreloj."
+}

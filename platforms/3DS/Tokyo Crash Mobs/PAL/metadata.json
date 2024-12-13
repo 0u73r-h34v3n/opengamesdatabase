@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Tokyo Crash Mobs",
+	"publishers": ["Nintendo"],
+	"release_date": "January 17, 2013",
+	"serial_number": "JUEP",
+	"synopsis": "Queues: an annoying fact of life or, as in Tokyo Crash Mobs, the inspiration for a new type of puzzle game! This wacky action puzzler lets you indulge your queue-busting desires by throwing or rolling people into queues; match three of the same colour together and they disappear - moving you a step closer to the front. Play in Story Mode as would-be bargain hunters Grace and Savannah, or Team Battle using the Nintendo 3DS gyro sensor to fend off shopaholic ninjas and UFOs!"
+}

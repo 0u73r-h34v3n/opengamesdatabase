@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Riding Stables 3D",
+	"publishers": ["Joindots"],
+	"release_date": "December 20, 2012",
+	"serial_number": "AMUE",
+	"synopsis": "An exciting 3D horse adventure awaits you! Which family will win the coveted pasture? What is the big secret that will force someone resort to illegal practices? Immerse yourself in this gripping tale of true friendship and sinister plots. Train the ranch horses, take good care of them, and prepare for the final deciding tournament. Experience riding events like show jumping and mounted archery in first-person view. Enjoy 11 mini games with tasks like longing, teaching tricks, feeding and grooming. Get to know the 15 in-game protagonists and master more than 30 tasks. Design your own horse by choosing from 26 breeds, selecting coat, mane and much more."
+}

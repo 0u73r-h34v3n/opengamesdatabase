@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kersploosh!",
+	"publishers": ["Nintendo"],
+	"release_date": "March 7, 2013",
+	"serial_number": "JHSE",
+	"synopsis": "Be one with the stone from the toss to the splash. With a sharp mind and a deft touch on the Circle Pad, master the journey to the bottom of wells filled with obstacles. As you learn to maneuver each stone in free fall and complete each level, you’ll unlock more stones and wells. Embrace the challenges that lie ahead…for the flight is at hand. Each well is designed differently, with various hazards to impede your journey. Some wells have pizzas that break apart; others contain floating cookies that will sacrifice their delicious lives to stop you from getting to the bottom. With a selection of stones, such as the beefy iron ball and the fragile gem, race as fast as possible to the bottom of each well. Then turn on the StreetPass feature and share your speedy conquests with others!"
+}

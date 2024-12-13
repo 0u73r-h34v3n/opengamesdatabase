@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Shin Megami Tensei - Devil Survivor Overclocked",
+	"synopsis": "A atualização resolve os seguintes problemas: - O jogo não travará ao invocar um diabo durante a batalha - O jogo não travará durante os acidentes da casa de leilões - Os erros do texto foram corrigidos Depois de baixar a atualização, esta instala-se automaticamente. Se a atualização é correta, o texto “ver 1.1” aparecerá no ecrã de título depois de iniciar o jogo. Pedimos desculpa pelo incómodo que esses problemas possam ter causado e recomendamos baixar a atualização para melhorar a experiência de jogo.LanguageInfo_en_DisplayGenre"
+}

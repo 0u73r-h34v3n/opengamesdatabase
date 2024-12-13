@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Castlevania II: Simon's Quest",
+	"publishers": ["KONAMI"],
+	"release_date": "January 16, 2014",
+	"serial_number": "TCBE",
+	"synopsis": "In this one-player adventure you once again take on the role of Simon Belmont and duel to the death with Count Dracula. Grab your legendary whip, Vampire Killer, and roam freely through Transylvania on a quest to find the count’s missing body parts. These are the key to breaking an evil curse put upon Simon by the count. This quest won't be easy, though, for you must battle hideous fiends who stalk the land. In addition to the intense action and tight control the Castlevania series is known for, this sequel also introduced several unique game-play elements into the fold. Build experience the longer you play, buy weapons and items from merchants, or talk with villagers to get clues (some of which are false!). Watch as day turns to night and then back again. Take a deep breath, steady your nerves, and help Simon end his curse and defeat the count once and for all!"
+}

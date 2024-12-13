@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Galaga",
+	"synopsis": "Déplacez-vous vers la gauche ou vers la droite pour vous défendre contre les missiles et les attaques des extraterrestres Galaga et de leur capitaine. Les extraterrestres attaquent en formation et possèdent diverses stratégies. Si vous sauvez un vaisseau qui a été capturé, il s'alliera avec vous pour former un double vaisseau, avec une puissance de feu deux fois supérieure! Dans les niveaux plus difficiles, utilisez le double vaisseau afin de gagner des bonus de niveau parfait!"
+}

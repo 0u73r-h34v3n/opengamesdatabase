@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Pyramids",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "October 27, 2011",
+	"serial_number": "JA9E",
+	"synopsis": "Pyramids is a platform/puzzle game where an explorer tries to get out the pyramids with his loot. The task will not be easy. Many traps, monsters and dangers will put your dexterity and ingenuity to the test. The player will have to use TNT and a gun but his best friend remains his shovel which allows him to create and destroy bricks. These bricks will be used as stairs, bridges, protections... The explorer will venture through 54 challenging 3D levels divided in 6 worlds. At the end of each level, the player will obtain a star rating which will be used to unlock levels: 1 star for finishing the level 2 stars for finishing the level and stealing all the loot 3 stars for finishing the level and stealing all the loot in a given time The game will let the player use QR Code to unlock free news levels put on the Pyramids web page."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Tinboy",
+	"synopsis": "Tinboy est un jeu de plate-formes et de réflexion basé sur la physique, et dont le niveau de difficulté est élevé. Une brillante scientifique crée un petit robot humanoïde. Elle teste ensuite sa création en la plaçant dans différents environnements. En utilisant un arc spécial, le robot doit atteindre la sortie de chacun d'entre eux. Prenez le contrôle du robot et résolvez les 60 casse-têtes physiques de la scientifique."
+}

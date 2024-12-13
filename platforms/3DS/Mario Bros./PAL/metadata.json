@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Bros.",
+	"publishers": ["Nintendo"],
+	"release_date": "January 9, 2014",
+	"serial_number": "TB7P",
+	"synopsis": "Mario Bros. is a treasure trove of gaming history. The follow-up to the hit Donkey Kong™, it was not only the first time our hero was known as Mario, it also introduced his brother Luigi, green pipes, coins and even more now-familiar elements of the Mario series. The gameplay is simple yet challenging: eliminate all the enemies in each level for a big score. However, Mario cannot jump on enemies from above so must hit them from below and finish them off with a kick. Add a second player as Luigi for even more fun!"
+}

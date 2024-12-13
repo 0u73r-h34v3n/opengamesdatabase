@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sumico",
+	"synopsis": "En Sumico hay que combinar números y operadores (o símbolos matemáticos) para hacer operaciones cuyo resultado sea igual al número objetivo (Target). Sumico ofrece 82 niveles en el modo Campaign (campaña) y además un modo Endless (infinito). Te espera un montón de diversión con números y operadores para romperte la cabeza. Nunca te lo habrás pasado tan bien con las matemáticas."
+}

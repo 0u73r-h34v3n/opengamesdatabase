@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Zeus Quests Remastered Anagenissis of Gaia",
+	"publishers": ["Crazysoft"],
+	"release_date": "May 10, 2018",
+	"serial_number": "CFRP",
+	"synopsis": "'Zeus Quests Remastered' is a silly point and click adventure game with light-hearted humour. It combines Greek Mythology with Sci-Fi in a twisted way! You control Zeus (Boss of Olympus) which is a wacky character. He tries to fix a time machine to save the planet from explosion. Everything happens in Greek mythology timeframe. The characters and dialogues are silly and translated into 6 languages. There is English Voice over in some cut scenes. We use Vector art, a unique cartoonish style."
+}

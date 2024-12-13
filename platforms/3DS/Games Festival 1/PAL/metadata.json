@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nacon"],
+	"genres": ["Party"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Games Festival 1",
+	"publishers": ["BigBen Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 3, 2013",
+	"serial_number": "AAEP",
+	"synopsis": "Hear ye! Hear ye! Hear ye! Gather round and join in the fun of the fair! Amusements for one and all, dart and balloon games, games of skill, and even the famous hook-a-duck! On your own or with your friends, the only thing missing is candyfloss!"
+}

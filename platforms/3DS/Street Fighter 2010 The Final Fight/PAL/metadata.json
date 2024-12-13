@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Street Fighter 2010: The Final Fight",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 2, 2014",
+	"serial_number": "TDWP",
+	"synopsis": "Ken from the Street Fighter™ series becomes a bionic warrior, out to avenge the death of his friend, in this spin-off side-scrolling shooter. Aliens have stolen a superhuman serum so, with his newly enhanced abilities, Ken must battle across the planets to stop them. Use your weaponry and athletic skills to liberate each planet, and seek out specific target enemies to clear the stage. Ken can backflip to evade damage, which can be upgraded to perform a powerful kick. It's time to take the fight from the streets and into space!"
+}

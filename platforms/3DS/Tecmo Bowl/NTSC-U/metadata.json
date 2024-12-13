@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Tecmo Bowl",
+	"publishers": ["KOEI TECMO AMERICA"],
+	"release_date": "September 12, 2013",
+	"serial_number": "TBBE",
+	"synopsis": "Match your gridiron skills against the computer or another human player. From the snap, total control of every pass, run, and tackle is in your hands! The player can select from 12 teams. On offense there are two run and two pass plays to choose from. Defense consists of trying to guess which offensive play the opponent will select and then taking control of one of the defensive players before the snap. A simple power-meter system is used for kicking field goals, extra points, and punts."
+}

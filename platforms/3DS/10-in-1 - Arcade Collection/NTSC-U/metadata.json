@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "10-in-1 - Arcade Collection",
+	"publishers": ["Gamelion"],
+	"release_date": "August 15, 2013",
+	"serial_number": "JAQE",
+	"synopsis": "Ten minigames filled with retro arts, music, sound effects and fun. One hundred levels filled with a host of enemies to destroy. Dozens of collectable items and power-ups are waiting to help you achieve victory. Battle against time and enemies to achieve the highest score in each challenge in this 10 in 1: Arcade Collection. Every minigame has a new 3D approach to the famous classics. Enjoy hours of fun reliving fond memories of your youth and, if you're too young to remember, see what computer games looked like in the old days!"
+}

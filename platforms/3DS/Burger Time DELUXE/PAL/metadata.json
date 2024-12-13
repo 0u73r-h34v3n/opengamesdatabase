@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Burger Time DELUXE",
+	"publishers": ["G-MODE"],
+	"release_date": "October 27, 2011",
+	"serial_number": "RA6P",
+	"synopsis": "Chef Peter Pepper has a problem. A rival is out to stop him from creating the ultimate burger, by sending his evil food minions to take over his kitchen. You must dodge deadly hot dogs, pesky pickles and evil eggs, as you traverse the platforms to assemble the ingredients for your burgers. Fortunately, Peter has one weapon that instils fear in any food foe: his trusty pepper grinder. Burger Time Deluxe is a classic that never goes stale!"
+}

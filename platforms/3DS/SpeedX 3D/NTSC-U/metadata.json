@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "SpeedX 3D",
+	"publishers": ["Gamelion"],
+	"release_date": "August 30, 2012",
+	"serial_number": "JSXE",
+	"synopsis": "SpeedX 3D for Nintendo 3DS is a stunning tunnel racer that tests a player's skill and transports him or her into a trance filled with great electronic music and hypnotic graphics. SpeedX 3D offers four game modes introducing the player to more and more challenging places at a speed that increases with every second. The question is: how far can the player go without losing concentration? Four game modes - Stages, Endless, Survival, and Zones - will test even the most experienced players. Speed beyond the limits - first-person view and 3D effects immerse the player in the game world and deliver brand new emotions. Start small - a perfect learning curve will hook new players and hold the attention of even the most proficient."
+}

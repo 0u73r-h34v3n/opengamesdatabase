@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "New Super Mario Bros. 2 Special Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 4, 2014",
+	"serial_number": "BMAP",
+	"synopsis": "Mario returns to Nintendo 3DS in a side-scrolling action adventure, packed with great power-ups and crammed with coins! Players can expect classic Mario action with a golden twist - an extra challenge to collect one million coins! As well as playing solo, or teaming up with a friend via Local Play, there's Coin Rush mode, where the aim is to grab as many coins as possible in the time limit, adding a strategic edge to the fun!"
+}

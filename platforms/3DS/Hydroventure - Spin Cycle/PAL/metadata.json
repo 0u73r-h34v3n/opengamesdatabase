@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hydroventure - Spin Cycle",
+	"publishers": ["Nintendo"],
+	"release_date": "December 13, 2012",
+	"serial_number": "JA2P",
+	"synopsis": "Prepare to have your world turned upside down! Hydroventure: Spin Cycle stars Eddy, a Water Spirit on an aquatic quest to save friends trapped in a magic book. Through each story-themed stage, tilt your Nintendo 3DS system to slosh Eddy through the world; solving puzzles and defeating the evil Goop. Eddy can transform too. As a block of ice, he can stick to walls, while as a cloud he can summon lightning and rain. Get ready to take Eddy for a spin, on an adventure that’s anything but dry. In some game stages, background text not relevant to the gameplay experience has been kept in English for atmospheric reasons."
+}

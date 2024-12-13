@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Operation COBRA",
+	"publishers": ["StickBit"],
+	"release_date": "January 11, 2018",
+	"serial_number": "CCBE",
+	"synopsis": "You find yourself stranded in an unfamiliar place, surrounded by mud. You have no chance of escaping this zombie-filled island. Your only chance of survival is to fight off the zombies."
+}

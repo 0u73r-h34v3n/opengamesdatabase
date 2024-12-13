@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "PICROSS e",
+	"synopsis": "Esta é uma série de puzzles em que se tem que usar os números como pistas para completar gravuras, desenvolvida pela Nintendo desde 1995. Com as suas regras simples qualquer pessoa está apta para jogar. Nesta nova versão há ainda uma função de navegação implementada para que os puzzles possam ser resolvidos mais facilmente. Há 3 tipos de tamanho de puzzles, 5x5, 10x10 e 15x15. Mas não se deixe enganar pelo tamanho, há imensos puzzles que provam ser um verdadeiro desafio. Complete um puzzle no tempo dado e a gravura aparerá colorida."
+}

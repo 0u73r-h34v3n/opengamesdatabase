@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Super Hang On",
+	"publishers": ["SEGA"],
+	"release_date": "November 28, 2013",
+	"serial_number": "JHAP",
+	"synopsis": "Gear up for ultimate speed in Super Hang-On. Tour through 48 challenging tracks on four continents and discover the rush of true arcade game play as you blaze through checkpoints in a race to beat the clock and your competitors. Experience the thrill of street bike racing and earn your place at the top of the scoreboards in this must-have classic. In addition to its all-new 3D presentation, 3D Super Hang-On also features Tilt Controls and a Moving Cabinet mode!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "LEGO Legends of Chima - Laval's Journey",
+	"publishers": ["WB Games"],
+	"release_date": "June 25, 2013",
+	"serial_number": "APRE",
+	"synopsis": "In this all new story, join Laval the lion and his friends on an action-packed journey as you explore the world of Chima and fight to defeat the power-hungry Cragger to restore justice and the balance of CHI to the land. Explore the Lion Temple, Eagle Spire, Gorilla Forrest and more as they harness the power of CHI to leap, swing, fly and fight through 15 levels of intense action!"
+}

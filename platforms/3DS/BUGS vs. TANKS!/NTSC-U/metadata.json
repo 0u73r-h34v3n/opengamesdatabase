@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "BUGS vs. TANKS!",
+	"publishers": ["LEVEL-5"],
+	"release_date": "June 20, 2013",
+	"serial_number": "JS4E",
+	"synopsis": "From Keiji Inafune, creator of the MEGA MAN series and many other hit titles, BUGS vs. TANKS! is a new take on the survival action genre. When a panzer squad from the battlefields of World War II is shrunk to the size of a bug, they find themselves engaged in intense battles with the insects as they fight to return to normal size. Featuring over 30 World War II chassis and turrets pulled straight from the history books, you'll build up your tank ordnance and customize it with over 80 types of paint and styles. Engage with up to four friends in CO-OP missions via local wireless play that put you in challenging fights against giant bugs that will live up to your nightmares. You can also call on their tanks for friendly cover fire via StreetPass! Fight your war across terrains from grassy fields to murky swamps, choosing your difficulty and firing style for maximum accessibility."
+}

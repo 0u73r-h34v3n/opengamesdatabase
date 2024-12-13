@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD", "Retro Studios"],
+	"genres": ["Kart Racing", "Party", "Racing"],
+	"locales": ["DE", "ES", "FI", "FR", "IT", "NL", "PT"],
+	"name": "Mario Kart 7",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 2, 2011",
+	"serial_number": "AMKP",
+	"synopsis": "Soar through the sky and dive underwater as the world of racing gets bigger and better - and enters the third dimension! Not only can you now customise your kart to your heart's content, you are also able to put yourself in the driving seat and steer by using motion controls. The multiplayer fun has also been greatly enhanced. Play against people who are nearby, or use the Internet to play with people from all over the world in all-new ways!"
+}

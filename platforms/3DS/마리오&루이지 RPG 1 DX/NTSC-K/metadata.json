@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Alphadream"],
+	"genres": ["Action Rpg", "Role-Playing"],
+	"locales": ["KO"],
+	"name": "마리오&루이지 RPG 1 DX",
+	"publishers": ["Nintendo"],
+	"release_date": "April 12, 2018",
+	"serial_number": "BRMK"
+}

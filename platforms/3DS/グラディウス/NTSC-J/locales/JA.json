@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "グラディウス",
+	"synopsis": "このソフトは、1986年に発売されたファミリーコンピュータ用のシューティングゲームです。 敵要塞ゼロスを破壊し惑星グラディウスを救うため、超時空戦闘機ビックバイパーを操作して亜時空星団バクテリアンと戦います。移動スピードが上がる「SPEED UP」、レーザーを発射する「LASER」など、赤いエネルギーカプセルを取るたびにパワーアップの種類が変化します。"
+}

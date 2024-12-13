@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "6180 the moon",
+	"publishers": ["Turtle Cream"],
+	"release_date": "March 16, 2017",
+	"serial_number": "CB6P",
+	"synopsis": "Simple space, dynamic jump. 6180 the moon is a platformer game with a unique mechanic. It offers a fresh, unseen game play style by connecting both of upper and bottom screens. This allows in a mechanic with delightfully long jumps and no fear of slipping to death. In addition to the unique gameplay, 6180 the moon delivers a unique storyline. The Sun has gone. The Moon sets off on a journey to find the Sun. Along the journey will be hazardous courses and deep realizations."
+}

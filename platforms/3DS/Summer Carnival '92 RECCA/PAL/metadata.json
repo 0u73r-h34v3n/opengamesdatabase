@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Summer Carnival '92 RECCA",
+	"publishers": ["Kaga Electronics"],
+	"release_date": "August 15, 2013",
+	"serial_number": "TAVP",
+	"synopsis": "Developed by Naxat Soft for their Summer Carnival tournament in 1992, RECCA is a fast, furious shooter that pushed the NES™ to never-before-seen speeds. Battle through stages swarming with enemies, collecting power-ups for your primary and secondary weapons. Hold fire for a moment and plasma energy will build up, to be used as a shield or launched as a plasma bomb. Even RECCA’s soundtrack is hard core, with some of the most impressive music on the NES. This tour de force of technical wizardry and intense action is not for the faint-hearted!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mini Sports Collection",
+	"publishers": ["RAINYFROG"],
+	"release_date": "March 9, 2017",
+	"serial_number": "KTNE",
+	"synopsis": "Compete for the best times and scores in 12 different sports! Mini Sports Collection focuses on the fun part of each sport throwing you straight into the heart of each one! Bat in Baseball, shoot clay targets in Skeet Shooting, take down opponents in Wrestling, smash the ball in Tennis! Quick reflexes, fast button presses and accurate controls are required to make the highest rankings and succeed in 24 different achievements. Compete in solo events or try multiple event tournaments! The following 12 sports are included: 100m Sprint, Pro Wrestling, Skeet Shooting, Baseball, Speed Skating, Fencing, Rugby, Tennis, Soccer, Archery, Hammer Throw, Table Tennis"
+}

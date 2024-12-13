@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Severed",
+	"publishers": ["DrinkBox Studios"],
+	"release_date": "October 13, 2016",
+	"serial_number": "KSVE",
+	"synopsis": "Take control of a one-armed warrior named Sasha, wielding a living sword on her journey through a nightmare world in search of her family. Swipe-based touch controls will let you solve puzzles, find secrets, and do battle with a host of disturbing monsters. As the journey goes on, you’ll unlock new abilities, ascend an RPG-style upgrade tree, and tease apart the mysteries of the dark fantasy universe Sasha finds herself in."
+}

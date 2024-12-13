@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PET HOSPITAL",
+	"publishers": ["NEOPICA"],
+	"release_date": "November 26, 2015",
+	"serial_number": "AZFE",
+	"synopsis": "The best veterinary clinic game on the Nintendo 3DS™! Hamsters, birds, cats, dogs, horses... become a real veterinarian and take care of your favourite animals! Dr Robert's clinic is going through difficult times and needs your skills to develop and expand. Examinations, diagnostics and treatments: heal your patients and unlock new veterinary health centres so you can receive all patients furred and feathered. Features: Impressive vet simulation in 3D Fur shaded animals 23 treatments and operations"
+}

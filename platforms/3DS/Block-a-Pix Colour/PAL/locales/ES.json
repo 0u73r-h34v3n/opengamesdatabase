@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Block-a-Pix Colour",
+	"synopsis": "Block-a-Pix es un puzle de rellenar bloques donde cada cuadrícula tiene una imagen escondida en su interior. Revela la imagen dividiendo la cuadrícula en bloques rectangulares más pequeños. Cada bloque contiene una pista en forma de número, que indica el número de cuadrados de la cuadrícula cubiertos por ese bloque y el color con el que debe pintarse. Block-a-Pix siempre puede resolverse utilizando la lógica y la deducción. ¡Nunca tienes que adivinar! El juego contiene 120 puzles exclusivos, diseñados por Conceptis Ltd. Los puzles varían en dificultad y tamaño, desde pequeñas imágenes introductorias hasta enormes cuadrículas desplazables con imágenes muy detalladas."
+}

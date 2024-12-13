@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man Legacy Collection",
+	"publishers": ["CAPCOM"],
+	"release_date": "February 23, 2016",
+	"serial_number": "BMME",
+	"synopsis": "Mega Man Legacy Collection is a celebration of 8-bit history. Featuring faithful reproductions of the series’ origins with the original six Mega Man games, the Legacy Collection will remind long-time fans and introduce newcomers to what made Mega Man such a popular and iconic character. Mega Man Legacy Collection will feature all six games and much more. In addition to the six Mega Man games, Mega Man Legacy Collection features new ways to experience the classic games with the Museum Mode and new Challenge Mode. Challenge Mode remixes gameplay segments from all six games, with plenty of scaling difficulty objectives for experienced players to conquer yet serving as a good starting point for new players, too. Museum Mode contains a comprehensive collection of history, high-res art and original concept pieces – a mega treat for any fan of Mega Man and video game history. Use your Mega Man amiibo™ to unlock new challenges created by Mega Man fans just like you!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "SHOOT THE BALL",
+	"publishers": ["RCMADIAX"],
+	"release_date": "November 10, 2016",
+	"serial_number": "CBAP",
+	"synopsis": "In SHOOT THE BALL, your objective is simple - use the touch screen to \"shoot\" the ball into the open space scoring a point. Each shape is randomly given a speed and color to increase the difficulty. Challenge your family and friends to beat your session score. How many times can you SHOOT THE BALL?"
+}

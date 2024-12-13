@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Columns",
+	"publishers": ["SEGA"],
+	"release_date": "June 13, 2013",
+	"serial_number": "GAEE",
+	"synopsis": "Drift back in time to ancient Phoenicia and challenge yourself with Columns, an addictive game played by Middle Eastern Merchants centuries ago. In this mesmerizing pastime, tinker with your riches to align glittering jewels across, down, or diagonally. As you line up colors, the gems vanish and more sparklers drop from above. The challenge increases as jewels fall more rapidly. You must quickly align them before the columns reach the top. For additional challenge, try to eliminate the flashing jewel before your time runs out in Flash Columns or take on a friend in local multiplayer! With three degrees of difficulty and ten different levels, Columns will challenge a novice to an expert."
+}

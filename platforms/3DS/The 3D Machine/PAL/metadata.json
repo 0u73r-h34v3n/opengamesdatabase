@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The 3D Machine",
+	"publishers": ["Ka-Ching Cartoons"],
+	"release_date": "April 19, 2012",
+	"serial_number": "MAAP",
+	"synopsis": "After an inventor makes a breakthrough, he leaves his incapable assistant alone with his new wonder invention, which leads to wealth, love...and catastrophe!"
+}

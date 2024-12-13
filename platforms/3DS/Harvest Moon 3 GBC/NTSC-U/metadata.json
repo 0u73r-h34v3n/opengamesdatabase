@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Harvest Moon 3 GBC",
+	"publishers": ["Natsume Inc."],
+	"release_date": "December 11, 2014",
+	"serial_number": "QA8E",
+	"synopsis": "Years have passed since you made improvements to your grandfather's old farm and turned it into a successful business. Now a friend on a remote island has called for help to restore their own farm! Never one to turn down a fellow farmer in need, you're ready to tackle the unique challenges this opportunity will bring. Farming on the mainland is tough, but raising animals and harvesting crops offshore is going to be tougher! With different shops to explore, fun characters to encounter, and many tasks to do, there is plenty to keep you occupied on your tropical adventure. Maybe you'll even find a companion to share it with!"
+}

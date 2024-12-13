@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Land III",
+	"publishers": ["Nintendo"],
+	"release_date": "October 30, 2014",
+	"serial_number": "RCKP",
+	"synopsis": "Donkey Kong™ and Diddy Kong™ have gone to seek their fortune by finding the fabled Lost World, leaving Dixie Kong™ literally holding the baby. However, Dixie decides to find the Lost World before anyone else, bringing cousin Kiddy Kong™ along for the ride. Play as Dixie or Kiddy across 36 Kong-sized levels of platforming action and adventure. Get a little help from your animal friends Squitter the spider, Squawks the parrot, Ellie the elephant and Enguarde the swordfish, as you seek out secrets to uncover the truth behind the Lost World!"
+}

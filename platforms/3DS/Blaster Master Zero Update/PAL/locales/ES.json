@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Blaster Master Zero: Update",
+	"synopsis": "Esta actualización contiene las siguientes correcciones para el juego Nintendo 3DS \"Blaster Master Zero\". ■Ver.1.4.1 # Corregido un error que bloqueaba el juego cuando derrotado como Jason en vista lateral durante el modo Destructor de Jefes # Corregidos algunos problemas para permitir una experiencia de juego más cómoda."
+}

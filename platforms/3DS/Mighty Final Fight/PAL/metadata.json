@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mighty Final Fight",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 9, 2014",
+	"serial_number": "TDMP",
+	"synopsis": "Haggar, Guy and Cody are back to rescue Haggar’s kidnapped daughter and clean up the streets of Metro City! Mighty Final Fight takes the concept of the original arcade version but shrinks the characters to mini proportions, yet beefs up the gameplay with the addition of an experience system to level-up characters’ abilities. Unlike other versions you can play as each of the three main characters. Brawl your way through five hard-hitting levels, plus bonus rounds, before the face-off with the final boss."
+}

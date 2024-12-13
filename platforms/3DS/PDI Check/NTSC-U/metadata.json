@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES"],
+	"name": "PDI Check",
+	"publishers": ["PDI Check"],
+	"release_date": "May 23, 2019",
+	"serial_number": "LPDE",
+	"synopsis": "PDI Check is an interactive multiple-choice game utilizing the unique color, 3-dimensional screen on the Nintendo 3DS™ system to quickly and accurately measure near visual acuity, color vision and stereopsis."
+}

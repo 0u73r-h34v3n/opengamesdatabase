@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Castlevania: The Adventure",
+	"publishers": ["Inc.", "Konami Digital Entertainment"],
+	"release_date": "October 25, 2012",
+	"serial_number": "RBPE",
+	"synopsis": "Original Release Date: December 1989 After getting his wings clipped, the death-defying Count Dracula has risen again. Desiring revenge even more than blood, he'll descend upon you with fangs glistening by the light of the full moon. Play the role of another hero from the long lineage of vampire hunters, the Belmont clan. Battle your way through the Count's maze of torture chambers and vampire crypts. Unlock the castle's secrets by locating hearts, crystals and crosses. You must also possess the strength to master the Mystic Whip, which wards off unearthly evils, like the She Worm. So risk your neck and accept the challenge. If you fail to destroy Dracula now, he will rule the night forever."
+}

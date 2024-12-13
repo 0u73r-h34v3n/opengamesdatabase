@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Banana Bliss: Jungle Puzzles",
+	"publishers": ["Teyon"],
+	"release_date": "December 19, 2013",
+	"serial_number": "JSRE",
+	"synopsis": "Discover the dense jungle trails with Morris the monkey and gather all the scattered hearts on Paradise Island for his beloved sweetheart Molly. Swing, run and climb through the jungle canopy, by-passing and destroying dangerous critters from spiked urchins to poisonous snails that will try to get in your way! Locate hidden bananas in each level to unlock bonus levels and with every banana revealed you can save your play and watch it back with the built-in replay function, Playback! With over 300 levels to complete in 7 jungle-inspired worlds there will be no time for monkeying around in these blissful jungle puzzles! Features: Swing through over 300 puzzles in 7 jungle-inspired worlds! Climb and interact with boulders, bars and other items to clear each puzzle Avoid or destroy the jungle critters that roam aimlessly around the jungle Earn a Banana Bonus in each level to save the level's replay and watch it back with Playback!"
+}

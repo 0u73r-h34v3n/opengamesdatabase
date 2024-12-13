@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Fantasy", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Pokémon Ultra Moon",
+	"publishers": ["Nintendo", "The Pokémon Company"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 17, 2017",
+	"serial_number": "A2BP",
+	"synopsis": "Return to Alola for an alternate adventure in Pokémon Ultra Sun and Pokémon Ultra Moon for Nintendo 3DS. Immerse yourself in a journey where you will be able to catch an endless number of Pokémon and discover the new forms of Solgaleo and Lunala. Prepare your Poké Balls and get everyone in this new installment!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pyramids 2",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "December 11, 2014",
+	"serial_number": "JYHP",
+	"synopsis": "The Pyramid master is back!....... Enjoy Gaming gives you 54 new levels and 3 new pyramid worlds. New, improved and varied gameplay, new features and a built-in Editor to create your own levels to play and share with other players. Masses of gameplay, masses of fun! The creation of new styles of levels with more varied contents has made Pyramids 2 a far more testing game that has more variety than the original very successful Pyramids."
+}

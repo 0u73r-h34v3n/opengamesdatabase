@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "GALAXY BLASTER",
+	"synopsis": "No GALAXY BLASTER, terá de defender a sua nave de naves alienígenas que o estão a atacar. Mova o paddle para esquerda ou para a direita e toque no ecrã para disparar as armas. Tenha cuidado, se os alvos entrarem na sua base, ou se falhar os alvos demasiadas vezes, perde o jogo!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Big Hero 6: Battle in the Bay",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 23, 2015",
+	"serial_number": "BH6Z",
+	"synopsis": "Disney Big Hero 6: Battle in the Bay lets players interact with all six members of the squad, each in unique ways."
+}

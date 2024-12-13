@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션 체험판",
+	"publishers": ["Nintendo"],
+	"release_date": "May 1, 2015",
+	"serial_number": "KPMK"
+}

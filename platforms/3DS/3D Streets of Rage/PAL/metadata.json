@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Streets of Rage",
+	"publishers": ["SEGA"],
+	"release_date": "December 19, 2013",
+	"serial_number": "JRAP",
+	"synopsis": "In the grips of a vicious crime syndicate, this once peaceful city has become a center of violence and mayhem. Amidst this chaos, three young police officers are determined to tackle the problem head-on. Taking control of one of three ex-officers, use their special hand-to-hand combat abilities to take down the syndicate and save the city. In addition to its all-new 3D presentation, 3D Streets of Rage also features Local Multiplayer and a Single Hit KO mode to help you power through the city’s crime."
+}

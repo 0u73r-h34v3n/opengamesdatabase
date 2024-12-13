@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure", "Fantasy", "Horror"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Luigi's Mansion 2",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 28, 2013",
+	"serial_number": "AGGP",
+	"synopsis": "Luigi is back on a mission to remove a bunch of stubborn ghosts from some super-spooky mansions in Luigi’s Mansion 2 for Nintendo 3DS. Armed with his trusty “Poltergust” ghost-grabbing vacuum cleaner, Mario’s brother takes centre stage to capture those pesky phantoms. Sure, Luigi’s the nervous type who’d rather be as far from these ghosts as he can get, but a reluctant hero can still save the day! This hair-raising title is the first sequel to the 2002 Nintendo GameCube launch title, Luigi’s Mansion, and brings back all the thrills of the original with bags of new fun features too. The stereoscopic 3D visuals bring the murky mansions, ghastly ghosts and spooky surroundings to life, so you can experience all the haunting chills and supernatural fun the game has to offer."
+}

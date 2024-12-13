@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "たまご大冒険",
+	"publishers": ["トムクリエイト"],
+	"release_date": "April 24, 2013",
+	"serial_number": "JTMJ"
+}

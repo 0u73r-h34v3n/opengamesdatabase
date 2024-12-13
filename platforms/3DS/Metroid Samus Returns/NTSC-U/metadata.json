@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mercury Steam"],
+	"genres": ["Action", "Platformer", "Shooter"],
+	"locales": ["ES", "FR", "KO", "PT", "ZHTW"],
+	"name": "Metroid: Samus Returns",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "September 15, 2017",
+	"serial_number": "A9AE",
+	"synopsis": "Best Handheld Game, The Game Awards 2017 Explore a hostile alien planet as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in a masterful reimagining of her 1991 Game Boy™ adventure. This intense, side-scrolling action platformer revitalizes classic gameplay with stunning 3D visuals and a wide range of new content sure to please both new and veteran players. Metroid™ II: Return of Samus™ has been completely rebuilt, with reconstructed maps, gear upgrades, new abilities that use a special energy called “Aeion,” a powerful melee counterattack, and 360-degree aiming. A wealth of hidden paths, power-ups, and secrets await—find enough of them, and you may even start to unravel the mysteries of Planet SR388’s past. A touchscreen-enabled mapping system and informative menus help new players brave the depths of SR388 and track their artillery and inventory while immersing themselves in the haunting isolation, deep exploration, brutal environments, and fierce battles that hardcore Metroid fans demand."
+}

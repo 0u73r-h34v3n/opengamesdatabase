@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["3hs"],
+	"genres": ["Software"],
+	"name": "hShop",
+	"publishers": ["3hs"],
+	"release_date": "May 27, 2022",
+	"serial_number": "3HSA",
+	"synopsis": "3hs allows you to install content from hShop on your 3DS system directly, omitting the need to use FBI and the website. This means you no longer have to scan QR codes or use CIA files to install content from hShop."
+}

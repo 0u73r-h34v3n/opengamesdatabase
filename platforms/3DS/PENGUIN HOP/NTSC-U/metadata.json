@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PENGUIN HOP",
+	"publishers": ["RCMADIAX"],
+	"release_date": "July 5, 2018",
+	"serial_number": "CBJE",
+	"synopsis": "Ready to cool down? In PENGUIN HOP help your penguin friend hop from each ice landing, but be careful you don't fall in. How high of a score can you get? Endless fun for everyone!"
+}

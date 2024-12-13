@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mystery Case Files Dire Grove",
+	"publishers": ["MSL"],
+	"release_date": "April 3, 2014",
+	"serial_number": "ADHE",
+	"synopsis": "The Celtic legend of Dire Grove has been passed down from generation to generation for centuries. Considered a fairytale, its telling was common at campfires and as a bedtime story meant to frighten small children into staying in their beds through the night. However, a recently unearthed artifact in the United Kingdom corroborates the legend and so begins a journey of survival for a small band of graduate students in the secluded resort of Dire Grove."
+}

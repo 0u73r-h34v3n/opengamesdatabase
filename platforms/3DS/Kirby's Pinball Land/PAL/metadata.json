@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Kirby's Pinball Land",
+	"publishers": ["Nintendo"],
+	"release_date": "July 26, 2012",
+	"serial_number": "RBZP",
+	"synopsis": "Take a spin with Kirby in this Game Boy™ classic, to defeat King Dedede and his minions through the power of pinball! Bounce Kirby around three action-packed tables filled with enemies, bonuses and secrets galore. Kick back with wacky minigames and battle the bosses at the end of each stage. Kirby's Pinball Land is filled with fun touches that Kirby fans will love and plenty of action for pinball wizards to flip over!"
+}

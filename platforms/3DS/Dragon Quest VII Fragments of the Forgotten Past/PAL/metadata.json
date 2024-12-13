@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artepiazza", "Square Enix"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dragon Quest VII: Fragments of the Forgotten Past",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 16, 2016",
+	"serial_number": "AD7P",
+	"synopsis": "Travel to the past to save the present in this timeless quest Travel to the past to save the present as you restore forgotten lands and battle an unknown evil in this classic DRAGON QUEST adventure – completely reimagined from the ground up for the Nintendo 3DS system. Customise your party from more than 30 vocations and level up in turn-based battles to learn new spells and abilities in this timeless quest! - Rebuilt visuals and a complete retelling of the story make this a fresh way to experience this classic game - Explore a beautifully designed world that you shape as you travel back and forth in time - Meet an iconic cast of classic characters and monsters designed by critically acclaimed manga and game artist Akira Toriyama - Customise your party from more than 30 vocations and level up in turn-based battles to learn new spells and abilities - Expand and share your adventure even more with the StreetPass feature – send and receive traveller’s tablets to explore new dungeons that contain rare monsters and unique equipment"
+}

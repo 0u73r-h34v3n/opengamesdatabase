@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["BiP Media"],
+	"genres": ["Management Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My Exotic Farm",
+	"publishers": ["BigBen Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2013",
+	"serial_number": "ABUP",
+	"synopsis": "Play as a farmer in the savanna! Buy new animals, feed them, care for them and make your African farmyard a happy one to unlock lots of bonuses. Cultivate your land to feed your ostriches, and gather their eggs to sell at the market. Giraffes, lions, elephants, crocodiles… make your farm prosper like a real farmer! Customise the name, size and colour of your farm and animals, and trade your animals with those of your friends."
+}

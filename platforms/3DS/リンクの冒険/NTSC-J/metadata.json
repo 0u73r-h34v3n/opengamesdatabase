@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "リンクの冒険",
+	"publishers": ["任天堂"],
+	"release_date": "June 6, 2012",
+	"serial_number": "TANJ"
+}

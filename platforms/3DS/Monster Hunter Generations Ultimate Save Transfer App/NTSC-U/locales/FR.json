@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Monster Hunter Generations Ultimate Save Transfer App",
+	"synopsis": "Cette application vous permet de transférer des données de sauvegarde depuis le jeu Monster Hunter Generations sur Nintendo 3DS vers le jeu Monster Hunter Generations Ultimate sur Nintendo Switch. Remarque : une copie de chacun des jeux susmentionnés est indispensable au transfert des données de sauvegarde. Pour en savoir plus sur le type de données transférées, veuillez consulter le site Internet officiel."
+}

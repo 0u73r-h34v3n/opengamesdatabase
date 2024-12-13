@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sadame",
+	"publishers": ["Oizumi Amuzio"],
+	"release_date": "February 25, 2016",
+	"serial_number": "JFTE",
+	"synopsis": "Choose the role of a Samurai, Ninja, Monk or Rogue and confront an invasion of Japanese traditional Yokai taking over the nation. Hack and slash your way through an army of monsters using Swordsmanship, Ninjitsu, pole sword, bow, and supernatural powers. Enhance your skills by defeating waves of enemies and slaying evil bosses lying in wait. Level up and customize your hero to take on tougher foes and learn new combo skills for devasting attacks. Unselected heroes will support you as an Assist - or you can send them to Assist other players via StreetPass™! Hack your way through 23 stages based on Japanese historic battles across four chapters, all beautifully hand-drawn using classic 2D Japanese art style."
+}

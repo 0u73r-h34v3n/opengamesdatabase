@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PET INN 3D",
+	"publishers": ["NEOPICA"],
+	"release_date": "January 21, 2016",
+	"serial_number": "KP3E",
+	"synopsis": "Become the manager of a hotel for cats and dogs and take care of your pets: take your puppies out for a walk in the park, teach them to jump over a skipping-rope, pet them, play frisbee with them… Brush your cats, teach them to hunt, train them for an obstacle course… and make them purr! Choose between 16 breeds of cats and dogs: Dalmatian, Labrador, Husky, Siamese, Tabby… Features: Impressive care simulation in 3D! Cute and lovely fur shaded animals 16 different breeds 14 minigames"
+}

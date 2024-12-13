@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Zen Pinball",
+	"publishers": ["Zen Studios"],
+	"release_date": "January 12, 2012",
+	"serial_number": "JENE",
+	"synopsis": "Zen Pinball 3D for Nintendo 3DS brings an incredible stereoscopic 3D experience to the acclaimed video game pinball series for the first time ever. Featuring four beautifully crafted, original tables, Zen Pinball 3D features the most advanced ball physics in a pinball video game to date, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more! Zen Pinball 3D for Nintendo 3DS is the definitive pinball experience on portable game systems. • Earth Defense pits the player against hordes of hostile aliens as they try to take the planet by storm! • Players will experience life as a novice sorcerer who must master the trade of summoning spectacular natural phenomena in Shaman. • Travel back to the middle ages to the Kingdom of Camelot and become a Knight of the Round Table in Excalibur. • Experience the unexplored jungles of El Dorado as you hunt for hidden treasures and uncover the mysteries of ancient civilization."
+}

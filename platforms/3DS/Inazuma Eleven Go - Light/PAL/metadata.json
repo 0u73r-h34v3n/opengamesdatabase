@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc", "Level 5"],
+	"genres": ["Football", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Inazuma Eleven Go - Light",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 13, 2014",
+	"serial_number": "AE4P",
+	"synopsis": "Summon up your fighting spirit as Raimon Jr. High takes to the pitch again! New footie stars, new moves and a whole new adventure’s kicking off in Inazuma Eleven GO: Light and Inazuma Eleven GO: Shadow on Nintendo 3DS family systems! So, if you’re a football fan and reckon you’ve got what it takes to put together the very best team from over a thousand players, sign up with Inazuma Eleven GO: Light or Inazuma Eleven GO: Shadow today – game on!"
+}

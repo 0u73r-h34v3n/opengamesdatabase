@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Batman - Arkham Origins Blackgate",
+	"publishers": ["WB Games"],
+	"release_date": "November 7, 2013",
+	"serial_number": "AZEP",
+	"synopsis": "Batman: Arkham Origins Blackgate is a 2.5-D game developed by Armature Studios that brings the Batman Arkham experience for the first time to Nintendo 3DS™. A companion game to Batman: Arkham Origins, players can continue the storyline of the console version and discover more details of the Dark Knight’s past."
+}

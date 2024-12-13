@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Samurai Sword Destiny",
+	"publishers": ["UFO Interactive"],
+	"release_date": "June 14, 2012",
+	"serial_number": "JSSP",
+	"synopsis": "You control a deadly female samurai, Akane, with a single goal in mind: to find and bring her missing elder brother home. On Akane’s quest, she will encounter deadly ambushes, storm enemy castle rooftops, and square off against seemingly indomitable opponents. With the help of dozens of upgrades available to enhance her fighting abilities, Akane just might have a fighting chance against the forces that stand in her path!"
+}

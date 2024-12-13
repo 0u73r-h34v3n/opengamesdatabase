@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong Land 2",
+	"publishers": ["Nintendo"],
+	"release_date": "February 26, 2015",
+	"serial_number": "RCJE",
+	"synopsis": "K. Rool has kidnapped Donkey Kong, and he's demanding the entire banana hoard as ransom! It's up to Diddy Kong and Dixie Kong to rescue their kidnapped pal. Play as either Kong and take advantage of their unique abilities. Diddy Kong's Cartwheel can take out the bulkiest of baddies, while Dixie Kong's Helicopter Spin will let you hover over some tricky spots. There's also a wild assortment of friendly animals ready to help out the two little Kongs. There are over 40 levels to complete—each filled with special traps, collectibles, dastardly Kremlings, and a boatload of barrels to blast out of!"
+}

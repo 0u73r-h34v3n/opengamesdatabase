@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Cooking Mama 5 - Bon Appetit!",
+	"publishers": ["Majesco Entertainment"],
+	"release_date": "September 16, 2014",
+	"serial_number": "BC5E",
+	"synopsis": "The original kitchen diva that created the cooking genre is set to school you with 60 brand new mouth-watering recipes and over 30 household mini-games. Cook your way through classic fare, exotic cultural dishes and sweet treats to delight the palate! Fun stylus-based activities will keep you busy around the house and prove to Mama that you’ve got the culinary chops to play in her kitchen!"
+}

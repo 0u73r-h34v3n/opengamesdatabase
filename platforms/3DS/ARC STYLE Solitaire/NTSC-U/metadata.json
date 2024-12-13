@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "ARC STYLE: Solitaire",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "January 30, 2014",
+	"serial_number": "JKME",
+	"synopsis": "In ARC STYLE: Solitaire, you will be able to enjoy the most popular of all solitaire card games which can be played alone, Klondike, and the easy-to-understand game Monte Carlo, loved by young and old alike. Choose whether you wish to play on the 3D screen or the Touch Screen, and enjoy solitaire with as much challenge or help as you'd like, thanks to helpful features like undo, hints, and the ability to save and return to your games later. Play to win because the more times you do, the more decks and backgrounds you will unlock to enjoy your ideal solitaire game! Some can even be gotten with play coins!"
+}

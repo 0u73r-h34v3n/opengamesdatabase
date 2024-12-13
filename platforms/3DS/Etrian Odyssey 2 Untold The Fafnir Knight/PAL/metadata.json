@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Atlus"],
+	"genres": ["Role-Playing"],
+	"locales": ["DE", "ES"],
+	"name": "Etrian Odyssey 2 Untold: The Fafnir Knight",
+	"publishers": ["NIS America"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "February 11, 2016",
+	"serial_number": "BM9P",
+	"synopsis": "Journey into ancient ruins and a mystifying labyrinth filled with danger in Etrian Odyssey 2 Untold: The Fafnir Knight, a first-person dungeon-crawling RPG for Nintendo 3DS family systems. Delve into the Yggdrasil Labyrinth, explore its many twists and turns, and fight a variety of strange monsters in turn-based combat. As you trample through the dungeon, confront large and powerful beasts visible outside of battle, then muster the courage to take on these potent adversaries – or evade them completely. Be careful – they move with each step you take, so watch their movements closely."
+}

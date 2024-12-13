@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Yakari - The Mystery of Four Seasons",
+	"publishers": ["Microids"],
+	"release_date": "July 2, 2015",
+	"serial_number": "AYRP",
+	"synopsis": "Step into the shoes of your favourite hero in his new adventure! Head off on an adventure with Yakari to solve the Four Seasons mystery. Discover why winter came all of a sudden for Yakari and his tribe. Brave the elements in a universe full of colour. Your friends the animals will accompany you throughout your adventure."
+}

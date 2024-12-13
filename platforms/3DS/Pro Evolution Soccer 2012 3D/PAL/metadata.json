@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Football", "Sports"],
+	"name": "Pro Evolution Soccer 2012 3D",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 1, 2011",
+	"serial_number": "AE2P",
+	"synopsis": "Watch a world of football come to life in the palm of your hand in PES 2012 3D – Pro Evolution Soccer for Nintendo 3DS. PES 2012 3D follows on from the soccer series’ Nintendo 3DS debut by adding new features that make this season more immersive than ever. Try your hand at Touch Screen controls, sample new game modes and take on all-comers in intense online matches!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario Bros. Deluxe",
+	"publishers": ["Nintendo"],
+	"release_date": "February 27, 2014",
+	"serial_number": "QA5P",
+	"synopsis": "This souped-up version of the all-time classic was a big hit on Game Boy™ Color. Super Mario Bros. Deluxe features all 32 original levels from the 1985 classic, plus a whole lot more! In Challenge mode, revisit classic levels and collect special red coins and Yoshi eggs to beat the high score. Or race against a familiar foe through eight special courses in You Vs Boo mode! There are even challenging secret levels to be discovered, for a true test of your Super Mario Bros. skills!"
+}

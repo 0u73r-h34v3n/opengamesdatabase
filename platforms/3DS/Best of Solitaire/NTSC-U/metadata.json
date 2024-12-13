@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Best of Solitaire",
+	"publishers": ["cosmigo"],
+	"release_date": "January 8, 2015",
+	"serial_number": "JVTE",
+	"synopsis": "Best of Solitaire features 101 variations of the most well-known and best-loved single-player card game including Klondike, Freecell, Spider, Pyramid, Yukon. Most games have custom gameplay options so you can enjoy the game with your favourite rules. On-screen instructions allow learning of new Solitaire variations. Statistics are available for players who love to track their wins. Save the game status any time for later. The game's style and interface has been designed for easy intuitive operation with the stylus or the +Control Pad. Sit back and relax as you enjoy the endless challenge and fun with this fantastic Solitaire game collection."
+}

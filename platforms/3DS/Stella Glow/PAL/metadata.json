@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Imageepoch"],
+	"genres": ["Strategy", "Turn-Based Strategy"],
+	"locales": ["ES", "FR"],
+	"name": "Stella Glow",
+	"publishers": ["NIS America"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 11, 2016",
+	"serial_number": "BS3P"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Arcade Games - Tetraminos",
+	"publishers": ["Nacon"],
+	"release_date": "February 26, 2015",
+	"serial_number": "JTEP",
+	"synopsis": "Rediscover a timeless puzzle classic with Tetraminos! Become a Tetraminos pro over 50 levels with increasing difficulty. Find the best place for your pieces and eliminate as many lines as possible in one go. Earn points to unlock bonuses that can be used at any time: bombs, piece storage... Discover the new Real Gravity game mode and build the highest Tetraminos tower possible before it collapses!"
+}

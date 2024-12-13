@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Urban Trial Freestyle 2: Update",
+	"publishers": ["Tate Multimedia"],
+	"release_date": "March 17, 2017",
+	"serial_number": "KTHP",
+	"synopsis": "- Corrected position of the stunts and adjusted scoring in Stunt Mode - Reworked Decors and the Camera in the Level Editor - Tweaked difficulty of the Challenge Tracks - Minor bug fixes"
+}

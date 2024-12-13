@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Kirby Battle Royale",
+	"synopsis": "Ver. 3.0 [2018.02.02發佈] ●增加Copy Ability(複製能力)「Sleep」。 ●平衡了Copy Ability(複製能力)的強弱。 ●「Online Battle(網上對戰)」的「Battle Royale」中，當檢測到為集中瞄向一名玩家以延長回合的話，回合會以作廢終結。 ●修正各種問題讓遊戲暢順運行 ※下載更新資料(Ver. 3.0)後，將無法與使用前版本的玩家進行鄰近主機連線。 ※必須使用更新資料(Ver. 3.0)後才能進行網上對戰。 先前所更新的內容也包含於Ver.3.0內。"
+}

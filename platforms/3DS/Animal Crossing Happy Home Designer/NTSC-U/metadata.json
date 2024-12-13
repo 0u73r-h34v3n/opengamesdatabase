@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": [
+		"Business Simulation",
+		"Construction Simulation",
+		"Role-Playing",
+		"Simulation"
+	],
+	"locales": ["ES", "FR"],
+	"name": "Animal Crossing: Happy Home Designer",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 16, 2015",
+	"serial_number": "EDHE"
+}

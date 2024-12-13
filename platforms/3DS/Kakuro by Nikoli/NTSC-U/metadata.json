@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hamster"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kakuro by Nikoli",
+	"publishers": ["HAMSTER"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 31, 2012",
+	"serial_number": "JK6E",
+	"synopsis": "With the Nikoli puzzle series, you can enjoy high-quality kakuro puzzles, created by Nikoli, who gave the world-famous puzzle its name. The Nintendo 3DS allows for the realization of simple and easy to play operability. Kakuro by Nikoli contains 50 kakuro puzzles. In kakuro, you break down the totaled numbers given as hints to fill in the spaces. While we say \"break down the numbers,\" in Nikoli's kakuro very little calculation is actually required, with concentration and the power of deduction being the most necessary attributes. To ensure your long-term enjoyment, we've prepared both a Stage Clear mode and a Random mode. In Stage Clear mode, you progress by clearing puzzles one by one, and in Random mode puzzles are generated at random. Please enjoy this high-quality kakuro game."
+}

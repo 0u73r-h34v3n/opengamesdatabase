@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "My Exotic Farm",
+	"publishers": ["Nacon"],
+	"release_date": "March 6, 2014",
+	"serial_number": "ABUE",
+	"synopsis": "Play as a farmer in the savanna! Buy new animals, feed them, care for them and make your African farmyard a happy one to unlock lots of bonuses. Cultivate your land to feed your ostriches, and gather their eggs to sell at the market. Giraffes, lions, elephants, crocodiles… make your farm prosper like a real farmer! Customize the name, size and color of your farm and animals, and trade your animals with those of your friends."
+}

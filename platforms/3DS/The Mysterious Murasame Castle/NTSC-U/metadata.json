@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Mysterious Murasame Castle",
+	"publishers": ["Nintendo"],
+	"release_date": "August 7, 2014",
+	"serial_number": "TCZE",
+	"synopsis": "One stormy night in feudal Japan, a mysterious force begins to take control over Murasame Castle and its lands. Each lord in four neighboring castles has taken possession of a dark sphere of power, allowing them to summon ninja armies and monsters that wreak havoc in the villages. Takamaru, a brave and young samurai apprentice, has been sent to investigate. He must infiltrate all four castles and defeat the lords before making his way to Murasame Castle. Use sword and shuriken attacks against the swarms of enemies, and unlock the secret behind the source of evil."
+}

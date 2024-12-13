@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Save Data Transfer Tool",
+	"synopsis": "Mithilfe dieser Software können Speicherdaten von einer Nintendo 3DS-Karte auf eine separat erworbene herunterladbare Version der entsprechenden Software übertragen werden. Um diese Software verwenden zu können, wird Folgendes benötigt: • Eine Nintendo 3DS-Karte, die diese Software unterstützt • Eine herunterladbare Version der Software auf der Karte Hinweis! Wurden Speicherdaten auf die herunterladbare Version übertragen, können sie nicht zurück auf die Karte übertragen werden. Die Speicherdaten auf der Karte werden zurückgesetzt."
+}

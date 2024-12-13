@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Beenox"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Skylanders SuperChargers Racing",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2015",
+	"serial_number": "BL5P",
+	"synopsis": "Kick your Skylanders adventure into high gear with Skylanders SuperChargers Racing on Nintendo 3DS family systems! Take the race wherever you go in high-octane combat racing with your favourite Skylanders characters – and some guest stars, too!"
+}

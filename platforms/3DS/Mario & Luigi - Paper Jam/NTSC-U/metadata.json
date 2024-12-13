@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AlphaDream"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario & Luigi - Paper Jam",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 22, 2016",
+	"serial_number": "AYNE",
+	"synopsis": "Paper Mario™ is jumping off the page and into the quirky adventures of Mario™ and Luigi™! Become a superstar team of Mario Bros. to take on quests, take down enemies, and untangle these two classic universes in this playful new entry in the Mario and Luigi RPG series. The Mario & Luigi: Paper Jam game is the newest entry in the wild and popular Mario and Luigi RPG series. The denizens of Paper Mario are spilling out of the pages of a mysterious book and making mischief in the Mushroom Kingdom. You’ll call on the talents of Mario, Luigi, and Paper Mario to solve puzzles, track Toads, chase Nabbit, race Yoshi™, and more in a variety of quests to separate and save the two worlds. Looking for a change of pace?...er, tempo? Challenge giant bosses using a combo of rhythm-based micro-games and an equally giant papercraft."
+}

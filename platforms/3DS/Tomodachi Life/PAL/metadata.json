@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Health", "Life Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Tomodachi Life",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 6, 2014",
+	"serial_number": "EC6P",
+	"synopsis": "Put your Mii centre stage in a world full of possibilities with Tomodachi Life, a quirky game starring you and everyone you know, only on Nintendo 3DS family systems. Populate your very own island paradise with the Mii characters of your choice and watch the drama unfold!"
+}

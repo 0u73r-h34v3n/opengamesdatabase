@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT", "ZHTW"],
+	"name": "Mario Sports Superstars",
+	"publishers": ["Nintendo"],
+	"release_date": "March 24, 2017",
+	"serial_number": "AUNE",
+	"synopsis": "Five full-on sports—Soccer, Tennis, Golf, Baseball, and Horse Racing—bring the challenge and depth you demand to Nintendo 3DS™ systems. Take on friends and rivals in local or online multiplayer*, hone skills in training, or tackle single-player tournaments. Whether you pick Mario, Waluigi, or one of sixteen others, you’re on the road to superstardom! Before long, you’ll have mastered the ins and outs of each sport: learn when to use an infield shift in Baseball, change your team’s formation in Soccer, and more. Even Horse Racing is surprisingly deep! Build a stable of horses and train them well to win the day in the first-ever horse races in series history. But remember: these aren’t normal sports—they’re Mario Sports. Expect unexpected thrills and power up to stomp the competition."
+}

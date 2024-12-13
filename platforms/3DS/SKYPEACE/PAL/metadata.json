@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "SKYPEACE",
+	"publishers": ["Sonic Powered"],
+	"release_date": "December 22, 2016",
+	"serial_number": "JKJP",
+	"synopsis": "SKYPEACE is a high-speed action game where you clear stages by carefully avoiding the enemies that appear. Feel the excitement of using simple manoeuvres to get tons of coins! Collect coins consecutively to trigger a combo, and string together combos to get a hi-score. Also enjoy challenges by earning achievements through a variety of conditions! Enjoy exhilarating, high-speed action, unfolding in the air!"
+}

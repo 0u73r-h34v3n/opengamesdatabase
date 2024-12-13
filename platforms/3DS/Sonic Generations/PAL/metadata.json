@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sonic Team"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic Generations",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 25, 2011",
+	"serial_number": "ASNP",
+	"synopsis": "Sonic’s universe is thrown into chaos when a mysterious new power sends Sonic back in time. Whilst there, Sonic runs into a younger version of himself! Now they must team up to defeat their enemies, save their friends, and find out who is behind this diabolical deed. Sonic Generations allows players to play as both Classic and Modern Sonic - taking advantage of their unique abilities. Master Classic Sonic’s spin dash, and grind and boost as Modern Sonic as you run through levels created exclusively for the Nintendo 3DS console. The Nintendo 3DS version also includes additional bonus stages, as well as the exclusive 2 player versus mode - beat your friends and win the ultimate bragging rights! You can also use Street Pass to collect new content and unlock bonus material throughout the game!"
+}

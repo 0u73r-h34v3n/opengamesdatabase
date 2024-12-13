@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Pushmo",
+	"publishers": ["Nintendo"],
+	"release_date": "December 8, 2011",
+	"serial_number": "JCAE",
+	"synopsis": "A kindly old inventor created a park and filled it with incredible puzzle-like climbing toys called Pushmo. But a little trickster has trapped kids inside the Pushmo, and now it's up to our hero, Mallo, to push, pull, and climb his way through the puzzling playground to save his friends! The Pushmo™ game features over 250 fun and challenging puzzles. As you solve them, you'll discover new gadgets that will add to the challenge. Complete certain sets of Pushmo to open additional game features, such as Pushmo Studio. In Pushmo Studio, you can create, play, and even share your very own Pushmo puzzle creations! With adorable characters, charming 3D graphics, and endless replay value, puzzle fans of all ages should enjoy Pushmo™. Check out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started."
+}

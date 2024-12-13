@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Survivor Heroes",
+	"publishers": ["Nacon"],
+	"release_date": "October 16, 2014",
+	"serial_number": "BSHP",
+	"synopsis": "The Survivor adventure just like you were there! Customize your hero. Explore the island to gather precious resources. Manage your energy levels, tribe camp and popularity. Take on the opposing tribe in the famous immunity challenges. Win the great Survivor adventure!"
+}

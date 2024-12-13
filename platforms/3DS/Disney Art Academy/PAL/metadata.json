@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Headstrong Games"],
+	"genres": ["Drawing", "Educational"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Disney Art Academy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 15, 2016",
+	"serial_number": "BWDP",
+	"synopsis": "Master the art of drawing beloved Disney and Pixar characters!"
+}

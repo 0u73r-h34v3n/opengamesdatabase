@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GSP"],
+	"genres": ["Action", "Arcade"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Cloudy with a Chance of Meatballs 2",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 11, 2013",
+	"serial_number": "AD5Z",
+	"synopsis": "Prepare to jump into food-filled fun in Cloudy with a Chance of Meatballs 2. Join Flint Lockwood and his friends on their journey to save Swallow Falls and discover new friends, Foodimals, along the way. Cloudy with a Chance of Meatballs 2 is packed with fast and energetic puzzle-based gameplay that players of all ages will love."
+}

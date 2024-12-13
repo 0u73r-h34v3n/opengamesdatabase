@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "サマーカーニバル'92 烈火",
+	"synopsis": "このソフトは、1992年に発売されたファミリーコンピュータ用のシューティングゲームです。 「レーザー」「ホーミング」などの5種類のショットと、5種類のオプションを使い分けながらステージを攻略します。一定時間ショットを撃たずにいるとプラズマエネルギーがチャージされ、敵弾を防ぎます。フルチャージしたショットは炸裂して大きなダメージを与えられます。"
+}

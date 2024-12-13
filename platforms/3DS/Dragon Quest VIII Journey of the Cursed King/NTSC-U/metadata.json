@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dragon Quest VIII: Journey of the Cursed King",
+	"publishers": ["Nintendo"],
+	"release_date": "January 20, 2017",
+	"serial_number": "BQ8E",
+	"synopsis": "Uncover the story of the Cursed King as you save the world from a twisted magician in this genre-defining role-playing game. Across the vast world you’ll wage turn-based battles against more than 250 monsters designed by artist Akira Toriyama. This updated classic also includes new dungeons, bosses, items, quests, scenes, and a new possible ending! There’s a rhythm to fighting, earning items, using them to craft something better in the alchemy pot, and returning to battle, stronger than ever. As you level up, upgrade your warriors’ skills to learn mighty attacks. For the first time, Red the bandit and Monster Arena owner Morrie join your party as playable characters! There are also new outfits that change each hero’s look, which makes for some perfect in-game photo ops. You can share the pictures you take via StreetPass™ encounters. Plus, you can form and battle teams of monsters to earn rewards in the Monster Arena. Now the must-play version of this classic game is exclusive to the Nintendo 3DS™ family of systems."
+}

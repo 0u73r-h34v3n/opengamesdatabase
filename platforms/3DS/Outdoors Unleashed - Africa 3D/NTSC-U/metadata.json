@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Outdoors Unleashed - Africa 3D",
+	"publishers": ["Teyon"],
+	"release_date": "August 30, 2012",
+	"serial_number": "JAFE",
+	"synopsis": "Head into the deepest reaches of Africa, armed with your wits, your skills, and an array of high-powered weapons and accessories! Experience action arcade hunting excitement like never before as you explore 35 challenging missions across a variety of terrain. Match the right weapon to the situation to maximize your score, as you hunt over 15 different big game animals and birds. Pull off amazing long shots, zoom in for spectacular head shots, and take down dangerous predators before they attack! Earn achievements, purchase new weapons, and aim for the best score as you fight your way through the safari!"
+}

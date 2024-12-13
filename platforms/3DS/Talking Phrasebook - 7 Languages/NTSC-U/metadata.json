@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Talking Phrasebook - 7 Languages",
+	"publishers": ["Sanuk Games"],
+	"release_date": "December 11, 2014",
+	"serial_number": "JPHE",
+	"synopsis": "Don't get lost in translation when you travel! This phrasebook covers most situations you may encounter, with 780 useful expressions in 7 languages, organized in 53 categories. Translate from any language to any other among English, French, German, Italian, Portuguese, Spanish and Dutch! Get both the spelling and the pronunciation right, as everything is written and spoken! This application is offline: it does not require network access."
+}

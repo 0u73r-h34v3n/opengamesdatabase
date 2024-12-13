@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "サイドポケット",
+	"synopsis": "このソフトは、1990年にゲームボーイ用ソフトとして発売された、ビリヤードゲームです。 クッションに当てて的球を反射させる「バンクショット」、強い回転を手球に与える「マッセ」など、手球を撞くポイントを変えることで、多彩なショットを繰り出します。 数字の小さい番号の的球に当てながら9番を落とす「9-BALL」と、すべての的球をポケットに入れることでクリアとなる「POCKET-GAME」の2種類のモードを収録。"
+}

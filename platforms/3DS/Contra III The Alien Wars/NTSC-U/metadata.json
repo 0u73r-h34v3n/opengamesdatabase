@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Contra III The Alien Wars",
+	"publishers": ["KONAMI"],
+	"release_date": "May 12, 2016",
+	"serial_number": "UAQE",
+	"synopsis": "In the year 2636, the Alien War rages on, and it's up to two soldiers, Jimbo and Sully, to stop the invasion. In this Super NES classic, you can battle through six stages of non-stop, run-and-gun action, collecting power-ups including bombs, flamethrowers, spread shots, lasers and homing guns. Please note, this title was originally released in Europe as \"Super Probotector: Alien Rebels\". This is the US version of the game."
+}

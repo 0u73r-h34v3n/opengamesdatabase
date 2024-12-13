@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Moco Moco Friends",
+	"publishers": ["Aksys Games"],
+	"release_date": "January 21, 2016",
+	"serial_number": "BM5P",
+	"synopsis": "Moco Moco Friends is an exciting twist on the adventure RPG genre. Build your skills and amass loads of cuddly monsters to become the ultimate Plushkin Master! Battle against your rivals, scavenge items, venture through massive dungeons, evolve your Plushkin monsters, and travel with your companions across the magical realm of Dreamtopia!"
+}

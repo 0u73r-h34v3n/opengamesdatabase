@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Pixel Hunter",
+	"publishers": ["Lemondo Games"],
+	"release_date": "October 6, 2016",
+	"serial_number": "CAXE",
+	"synopsis": "Pixel Hunter is 3D side-scroller game, designed in Voxel and 8Bit style. The game is about a hunter, whose weapons were stolen by different animals. His only thought is to return them all. The main objective of the game is to go through the worlds such are: Forest Mountain Arctic Volcano Beach During your trip you’ll meet with different enemies like: animals, birds, amphibians and fishes. By the end of each level you have to fight with Boss, which will return you the stolen weapon. Features: Awesome 3D Voxel and 8bit graphics! Perfect mix of retro and modern game styles! 5 worlds with various environments and unique soundtracks per each! Epic fights with bosses at the end of each level! Multiple gameplays within one game (side-scroller, runner, boss fights)!"
+}

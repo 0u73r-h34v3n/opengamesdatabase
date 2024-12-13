@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["M2"],
+	"genres": ["Adventure", "Arcade", "Compilation", "Puzzle", "Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "SEGA 3D Classics Collection",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 4, 2016",
+	"serial_number": "AK3P",
+	"synopsis": "A collection of 9 classic SEGA games in one game! From the arcades straight to your Nintendo 3DS™, experience the classics that defined the genres in gameplay. Choose a game to suit your mood! Shooting, racing, action, puzzle, and more! With: Power Drift Puyo Puyo 2 Maze Walker Fantasy Zone II: The Tears of Opa-Opa Fantazy Zone II W Sonic The Hedgehog Thunder Blade Galaxy Force II Altered Beast"
+}

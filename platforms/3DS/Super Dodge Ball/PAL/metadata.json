@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Dodge Ball",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "June 5, 2014",
+	"serial_number": "TB9P",
+	"synopsis": "Sports don’t come much faster and more intense than dodge ball, and this classic NES™ simulation brings you all the fun without the bruises! In World Mode, take charge of Team USA and face off against rival teams around the world to become number one. But beware: certain teams’ courts have obstacles like slippery ice or swamps. Alternatively, compete against a friend in Versus Play, and hone your skills without rules in the free-for-all Bean Ball mode for one or two players."
+}

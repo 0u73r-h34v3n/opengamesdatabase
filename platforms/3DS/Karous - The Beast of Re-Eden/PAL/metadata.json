@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Karous - The Beast of Re-Eden",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "July 2, 2015",
+	"serial_number": "BKEP",
+	"synopsis": "Two sisters escape their fate as research subjects and fight to survive using aircrafts of war. Karous -The Beast of Re:Eden- is a 3D vertical shoot 'em up game. This game allows players to design their own aircraft by letting them choose which weapons and items they take with them into battle. The player's aircraft can use shields, different shots, bombs, and swords. Each of these will also level up the more they're used and increase in power. Additional weapons and items will unlock as the player progresses, as well. Karous -The Beast of Re:Eden- features over 100 missions to complete along with a number of achievements in addition to boss battles. Unlike other, traditional shooting games, Karous' mission system gives the player the freedom to follow multiple, branching paths which can lead to different endings."
+}

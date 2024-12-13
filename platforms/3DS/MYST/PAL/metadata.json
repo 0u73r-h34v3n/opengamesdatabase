@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hoplite Research"],
+	"genres": ["Adventure", "Point-And-Click"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "MYST",
+	"publishers": ["Funbox Media"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 5, 2013",
+	"serial_number": "AM7P",
+	"synopsis": "The amazing adventure title which is ideally suited for the platform, features 6 worlds, many puzzles and clues, MYST offers over 80 hours of immersive gameplay. This version also gives gamers extra content to explore with new landscapes and with the RIME Age added to enhance the storyline. As in the original MYST, players will solve puzzles, explore surroundings and interact with items that deliver clues which players must piece together answers in order to solve the mysteries that lie within."
+}

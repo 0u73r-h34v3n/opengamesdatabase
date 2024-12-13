@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Tangram Style",
+	"publishers": ["Moving Player"],
+	"release_date": "August 8, 2013",
+	"serial_number": "JT8P",
+	"synopsis": "Through an incredible journey in the tropical jungle, resolve the mysteries of the \"forgotten tangrams\" and retrieve all the lost idols of the ancient Maya civilization. In Tangram Style, resolve more than 600 tangrams though 4 different game modes and collect the many trophies hidden in the forgotten temples' ruins."
+}

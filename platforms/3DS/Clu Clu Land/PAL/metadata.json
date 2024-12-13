@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Clu Clu Land",
+	"publishers": ["Nintendo"],
+	"release_date": "May 8, 2014",
+	"serial_number": "TCRP",
+	"synopsis": "Released in the early days of the NES, Clu Clu Land is a unique and fast-paced action-maze game! Manoeuvre Bubbles around the levels by grabbing posts with her outstretched hands and swinging in your chosen direction. To win, explore the whole maze to uncover all of the gold bars! But beware! Spiky sea urchins can pop Bubbles like a real bubble if she touches them. Luckily, Bubbles can defend herself with a sonic shockwave that will stun her enemies! Clu Clu Land can be played solo or with a friend in simultaneous two-player mode."
+}

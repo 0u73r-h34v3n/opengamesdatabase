@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mighty Bomb Jack",
+	"publishers": ["KOEI TECMO AMERICA"],
+	"release_date": "December 6, 2012",
+	"serial_number": "TAUE",
+	"synopsis": "Original Release Date: July 1987 The hero of the game, Jack, must make his way through 16 levels of a pyramid in order to defeat the demon Belzebut and rescue the royal Pamera family. Each level is split into two parts: an action zone and a Royal Palace room. Action zones can be split up into several portions, and contain power-ups, such as money bags, Mighty Coins, and Mighty Drinks, usually hidden in treasure chests. Mighty Coins allow Jack to change colors, and Mighty Drinks add 10 seconds to the game's timer."
+}

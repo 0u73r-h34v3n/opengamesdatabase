@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NIKOLI Co.,LTD"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sudoku by Nikoli",
+	"publishers": ["HAMSTER"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 10, 2012",
+	"serial_number": "JH4E",
+	"synopsis": "With the Nikoli puzzle series, you can enjoy high-quality sudoku puzzles, created by Nikoli, who gave the world-famous puzzle its name. The Nintendo 3DS system makes this game simple and easy to play. Sudoku by Nikoli contains 50 sudoku puzzles. Sudoku is a puzzle game in which you must place numbers from 1-9 into a 9x9 grid that is also divided into horizontal and vertical lines and 3x3 squares. When the puzzle is finished, each line and square will contain the numbers 1-9. With everything from simple puzzles to super-difficult ones, this game is popular with a wide range of players, from beginners to veterans. To provide long-term enjoyment, both a Stage Clear and a Random mode are included. In Stage Clear mode, you progress by clearing puzzles one by one and in Random mode puzzles are generated at random. Please enjoy this high-quality sudoku game."
+}

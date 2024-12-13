@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D OutRun",
+	"publishers": ["SEGA"],
+	"release_date": "March 12, 2015",
+	"serial_number": "JYRP",
+	"synopsis": "3D Out Run™ is the critically acclaimed 1986 driving game designed by Yu Suzuki, re-mastered and enhanced for the Nintendo 3DS™ system. 3D Out Run includes all of Out Run’s original content, alongside two new songs and runs at 60 frames per second, which is twice the speed of the original version. The game features a built in Stage Select option that allows players to save and resume progress mid-game, has adjustable difficulty settings, and includes unlockable car customization options. Additionally, players are able to choose from a number of real-life arcade cabinets wherein everything from the appearance to the environmental sounds of the specific cabinet are recreated, providing a true and authentic arcade experience."
+}

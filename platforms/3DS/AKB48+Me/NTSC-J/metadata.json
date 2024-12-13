@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Enterbrain", "Jupiter", "Kadokawa Shoten"],
+	"genres": ["Music", "Role-Playing", "Simulation"],
+	"locales": ["JA"],
+	"name": "AKB48+Me",
+	"publishers": ["Enterbrain", "Kadokawa Shoten"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "October 25, 2012",
+	"serial_number": "AKBJ"
+}

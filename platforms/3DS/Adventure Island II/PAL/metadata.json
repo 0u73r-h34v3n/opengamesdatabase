@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Adventure Island II",
+	"publishers": ["KONAMI"],
+	"release_date": "March 27, 2014",
+	"serial_number": "TCKP",
+	"synopsis": "That Evil Witch Doctor never gives up! Not content with kidnapping Princess Leilani in the first Adventure Island, now he’s swiped her sister Tina! Eight islands of perilous platform action stand between you and your sweetheart. Prepare to battle dinosaurs, survive avalanches and outwit the Witch Doctor’s minions. Higgins is helped by four dinosaurs with abilities on land, sea and even in the air. With the help of his companions, only Master Higgins can restore peace to the island and save Tina!"
+}

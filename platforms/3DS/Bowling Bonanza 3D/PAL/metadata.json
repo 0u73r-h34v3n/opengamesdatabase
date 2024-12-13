@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Clockwork Games"],
+	"genres": ["Bowling", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Bowling Bonanza 3D",
+	"publishers": ["Enjoy Gaming", "Mastertronic"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 24, 2013",
+	"serial_number": "AB6P",
+	"synopsis": "For both the casual and the serious gamer Bowling Bonanza boasts full 3D rigid body physics. Create any kind of shot by adjusting your stance, direction or ball spin or for the more serious, position the ball and shape the shot as required So whether you want a simple easy and fun bowling game or a full on simulation this game is for you! Choose from Quick Play, Arcade, league and tournament game modes Multiplayer hot seat up to 4 players CPU opponents have 5 difficulty settings Full Rating and progress system from Rookie to Legend 10+ bowling environments 30+ bowling balls 10+ sets of pins to choose from and unlock Ball customisation including weight & size. Full spin control and shot shape setup Fully adjustable address position including position and direction Save your favourite shots and watch video playback Full 3D physics in full 3D environments"
+}

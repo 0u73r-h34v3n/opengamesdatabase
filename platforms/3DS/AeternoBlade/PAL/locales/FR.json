@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "AeternoBlade",
+	"synopsis": "AeternoBlade v1.1 Mise à jour Cette mise à jour corrigera les importants problèmes suivants : 1. Un bug de collision lorsque vous entrez dans l'Eternal Void deux fois via le niveau de la Grande Pyramide, vous laissant enfermés dans celui-ci. 2. Un problème avec l'objet \" Freeze Gear \", que vous perdrez pour toujours si vous ratez le puzzle une fois. Le jeu ne pouvant donc jamais être complété à 100%. 3. Annihilation des freezes et plantages lors des chargements. 4. Le timing du mouvement offensif Saut-Bas-Attaque. 5. La commande \" Retourner au dernier checkpoint \" quand vous combattez Chrono Lord."
+}

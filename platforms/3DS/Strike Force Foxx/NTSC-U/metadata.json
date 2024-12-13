@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Strike Force Foxx",
+	"publishers": ["Big John Games"],
+	"release_date": "July 17, 2014",
+	"serial_number": "JXNE",
+	"synopsis": "Strike Force Foxx is a side-scrolling, 3D retro chopper attack-and-rescue game with a modern feel. You are Captain Raymond Foxx, guiding your Razor-One helicopter through intense missions, battling the enemy and saving your citizens from terror. The mission is in: you’ve been ordered to destroy the terrorist organization, Grid, who is taking over your country. You also need to rescue all of your civilians that have been taken hostage by Grid, while you pursue the elusive Dr. Synchros, the mastermind behind the hostile takeover. Players will take to the air in their helicopter in more than 35 missions to eliminate the numerous hazardous obstacles, including gunmen, tanks, helicopters, planes, machine-gunning jeeps, heat-seeking missiles, gunboats, battleships, submarines, and more. Along the way, players can upgrade their chopper with new, more powerful weapons to eradicate the enemy more efficiently."
+}

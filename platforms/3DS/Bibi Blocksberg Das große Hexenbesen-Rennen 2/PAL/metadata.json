@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Arcade", "Racing"],
+	"locales": ["DE"],
+	"name": "Bibi Blocksberg: Das große Hexenbesen-Rennen 2",
+	"publishers": ["Kiddinx Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 11, 2013",
+	"serial_number": "AA3D",
+	"synopsis": "Die Fortsetzung des Erfolgstitels!"
+}

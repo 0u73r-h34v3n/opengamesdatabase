@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong 3",
+	"publishers": ["Nintendo"],
+	"release_date": "December 12, 2013",
+	"serial_number": "TB4P",
+	"synopsis": "Unique to the classic series, Donkey Kong 3 is a frantic action game starring newcomer Stanley, whose greenhouse has been invaded by the troublesome ape and swarms of angry insects. Armed with a spray can, you must push Donkey Kong up the screen while fending off the swarms of bugs intent on stealing Stanley's precious flowers. Avoid the coconuts that DK throws at you, and try to grab the power spray can for a few seconds of supercharged spraying as you aim for a high score!"
+}

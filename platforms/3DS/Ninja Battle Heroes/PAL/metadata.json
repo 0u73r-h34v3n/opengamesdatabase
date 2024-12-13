@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ninja Battle Heroes",
+	"publishers": ["TOMCREATE"],
+	"release_date": "July 23, 2015",
+	"serial_number": "JNNP",
+	"synopsis": "Grab your katana and a ninja throwing stars and embark on a journey that will take you across Japan in your mission to find the missing Yukimura and his Beast Brigade! Use your katana to slash through enemies coming at you front and back as you make your way through cities, forests and across water falls. Take out enemies in the distance with ninja throwing stars before they shoot or charge towards you. Absorb Spirit from each enemy you defeat and use it to summon powerful heroes that you've rescued on your journey. Make use of their powers including firewalls, ice pillars, cyclones, quakes and even flight as you come face to face with greater and greater foes on your journey to find the missing Beast Brigade!"
+}

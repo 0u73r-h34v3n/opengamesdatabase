@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Castlevania Ⅱ Simon's Quest",
+	"publishers": ["KONAMI"],
+	"release_date": "January 16, 2014",
+	"serial_number": "TCBP",
+	"synopsis": "Famous vampire hunter Simon Belmont is back, in Castlevania II: Simon’s Quest. Following his victory against Dracula in the original game, Belmont is struck by the Count’s deadly curse and must track down and destroy Dracula’s missing body parts to save himself. Castlevania II expands on its predecessor with the addition of new adventure elements and also a day and night system. During daytime, talk to the locals and gather clues and weapons, and prepare for the creatures that appear when the sun goes down!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ping Pong Trick Shot",
+	"synopsis": "Testez votre technique de lancer de balles lors de défis variés et tentez de lancer la balle dans un verre situé de l'autre côté de l'écran. Utilisez le pad circulaire ou le stylet pour donner à la balle la puissance et la trajectoire voulues pour atterrir dans le verre. Utilisez des objets comme des téléporteurs, des trampolines et des murs mobiles pour triompher de niveaux en apparence impossibles. Mettez vos techniques de lancer à l'épreuve dans quatre modes de jeu : Attaque de Score, Mode Mission, Mode Défi et Mode Contre-la-Montre. Score Attack Mode (Attaque de Score) Combien des 20 balles disponibles pourrez-vous lancer dans le verre ? Mission Mode (Mode Mission) Attaquez-vous à cinq niveaux aléatoires aux exigences propres. Challenge Mode (Mode Défi) Pourrez-vous terminer tous les niveaux avec 35 balles ? Time Attack (Mode Contre-la-Montre) Combien de coups au but pourrez-vous accumuler en une minute ?"
+}

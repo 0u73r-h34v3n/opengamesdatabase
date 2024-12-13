@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Land",
+	"publishers": ["Nintendo"],
+	"release_date": "October 16, 2014",
+	"serial_number": "RA3P",
+	"synopsis": "Donkey Kong teams up with his sidekick, Diddy Kong, on a new adventure in this platformer inspired by the classic Donkey Kong Country™. Face flying pigs, deadly Zingers and reptilian Kremlings, as you journey through a mysterious pirate ship, perilous snow, an unbelievable underwater temple and crazy capers in the sky. Fun fact: the original Game Boy version was released with a special banana-yellow Game Pak!"
+}

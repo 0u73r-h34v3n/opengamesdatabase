@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GSP"],
+	"genres": ["Board Game", "Cards", "Chess", "Poker", "Strategy"],
+	"name": "50 Classic Games",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 2, 2012",
+	"serial_number": "AF6P",
+	"synopsis": "Whether you want to play a quick, challenging game or a white-knuckle adventure, hours of fun and entertainment await you. There's something for everyone in this collection of classic games including Chess, Mahjongg, Sudoku, Backgammon, Texas Hold Em Poker, Solitaire and more."
+}

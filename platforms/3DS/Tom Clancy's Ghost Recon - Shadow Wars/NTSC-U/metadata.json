@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Tom Clancy's Ghost Recon - Shadow Wars",
+	"publishers": ["Ubisoft"],
+	"release_date": "January 24, 2013",
+	"serial_number": "AGRE",
+	"synopsis": "Build, train, and equip the ultimate elite special ops team using the latest in high-tech weapons and gear. From the hot deserts of Kazakhstan to the towns and villages of Ukraine and the frozen lands of Siberia, you must discover and disable the secret Soviet-era “Dead Hand” bases which Russian ultranationalist Yuri Treskayev is using to build an army of drones to seize power. Eye-popping 3D cutscenes and in-game effects Over 35 missions and 20 skirmish maps Choose from six unique classes: Commando, Recon, Sniper, Gunner, Medic, and Engineer Challenge your friends with one-on-one duel maps let you determine who the real special ops squad leader is Unlock new skills and equipment, equipping your ghosts with the most advanced combat gear—and even drones!"
+}

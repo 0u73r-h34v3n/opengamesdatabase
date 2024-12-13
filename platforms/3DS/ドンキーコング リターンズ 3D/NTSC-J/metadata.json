@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monster Games"],
+	"genres": ["2d Platformer", "Action"],
+	"locales": ["JA"],
+	"name": "ドンキーコング リターンズ 3D",
+	"publishers": ["任天堂"],
+	"release_date": "June 13, 2013",
+	"serial_number": "AYTJ"
+}

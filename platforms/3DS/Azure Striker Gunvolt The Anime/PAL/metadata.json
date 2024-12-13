@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Azure Striker Gunvolt: The Anime",
+	"publishers": ["Inti Creates"],
+	"release_date": "February 9, 2017",
+	"serial_number": "KVGP",
+	"synopsis": "The Azure Striker Gunvolt series, which released on the Nintendo 3DS in August 2014 is striking back onto the scene with an anime adaptation. It is a standalone OVA that's about as long as an episode of a TV anime show that features the original Japanese voice cast and a brand new English dub. Put together by superstar anime studios LandQ Studios and Touhoku Shinkai, the Gunvolt anime presents a scenario that fans of the series will be familiar with while simultaneously presenting a deeper look into the world of Azure Striker Gunvolt."
+}

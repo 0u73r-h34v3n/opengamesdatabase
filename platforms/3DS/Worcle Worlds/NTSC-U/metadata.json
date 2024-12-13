@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Worcle Worlds",
+	"publishers": ["Lightwood Games"],
+	"release_date": "October 26, 2017",
+	"serial_number": "KWLE",
+	"synopsis": "Worcle - short for \"Words in a Circle\" - is a new puzzle game from Lightwood Games. Shoot balls into the circle to make words. Create words of three or more letters to clear the balls but watch out for the swirling vortex! Don't let the circle fill up or you'll get sucked in and it's game over. Clear the circle completely for bonus points or create cascades of words for high scoring multipliers. Journey through 10 unique game worlds, each with their own rules and letter mixes. Take on a friend in the brand new Battle Mode, using Local Play or Online Play. Compete in online leaderboards that not only track your best score, but also your best words!"
+}

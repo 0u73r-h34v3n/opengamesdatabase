@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Sims"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "The Sims™ 3",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 25, 2011",
+	"serial_number": "AS3P",
+	"synopsis": "For the first time ever, enjoy a complete life simulation experience in 3D on handheld with The Sims™ 3 for Nintendo 3DS. From the creators of the world's most popular life simulator franchise, The Sims™ 3 is now maximised for a fully 3D world. Create Sims, the characters unique to The Sims franchise, with unique personalities, fulfil their desires and control their lives within a living neighbourhood. Unlock new Karma Powers with Karma Points and unleash amazing effects on your Sims. As you guide your Sims through life, you'll build relationships and experience different careers like Criminal, Athlete or Musician to unlock new items, outfits and various rewards. Share your Sims with other Nintendo 3DS owners using StreetPass."
+}

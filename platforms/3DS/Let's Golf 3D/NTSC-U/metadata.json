@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Let's Golf 3D",
+	"publishers": ["Gameloft"],
+	"release_date": "July 28, 2011",
+	"serial_number": "JLGE",
+	"synopsis": "Have a golf adventure with Let’s Golf 3D, the fun & colorful golf game available on the Nintendo 3DS system! Pick from eight unique characters, each with their own special powers and play on 108 holes in six far-out 3D locations like the Mayan jungle. Thanks to the 3D gameplay, you’ll see the distance to the green and your ball trajectory like never before. Unlock new gear like hats and clubs to customize your character and unlock new powers, like rewinding time, as you gain experience. You can even grab a friend for exciting multiplayer matches on the same Nintendo 3DS system to share the fun!"
+}

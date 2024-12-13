@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Musicverse: Electronic Keyboard",
+	"publishers": ["Abylight"],
+	"release_date": "February 18, 2016",
+	"serial_number": "KMKE",
+	"synopsis": "Share your musical genius using Musicverse: Electronic Keyboard! Record the melody stuck in your head wherever you are and show it to the world, no limits with Miiverse™, Facebook and Twitter! Listen and play the creations of Miko in Japan, John in Canada and Magnus in Europe... Everyone just a note away! Both if you are an expert or the first time playing, Musicverse guides you easily through all the possibilities just at your fingertips in your Nintendo 3DS™. Features: Store up to 128 creations. Share your music trough Miiverse, Facebook and Twitter. Import other user's music from Miiverse or QR Code patterns. Export your creations in AAC format to the SD card. Included video tutorials. Left handed mode. Chord scale visualization. Key zoom function. Real time quantization. Automatic accompaniment with 14 musical styles and 4 variations. 8 programmable chords. 32 instruments. Integrated sequencer with independent chord and melody tracks. Metronome."
+}

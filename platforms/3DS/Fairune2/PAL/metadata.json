@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fairune2",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "October 27, 2016",
+	"serial_number": "KFUP",
+	"synopsis": "Fairune 2 is a fantasy puzzle-solving adventure RPG. Which has you explore the map by solving puzzles, tricks and beating monsters. You are requested by the mysterious book that can say where to find the lost fairy. In this adventure, you encounter the wonderful girl that may lead you to the truth of the world. With much greater content than the prequel game, the power-up 8-bit taste graphics and sounds will bring forth the new reminiscent game-play."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pick-A-Gem",
+	"synopsis": "¡Prueba la nueva sensación de puzzle y compite con el mundo para lograr la mayor puntuación de la tabla de clasificación! Pick-A-Gem consiste en combinar 3 gemas iguales. El jugador tiene límite de tiempo para tomar tantas gemas como sea posible. Para tomar gemas debes tocar en la parte inferior de la pantalla y crear una cadena del mismo color. Con cada juego aumenta el nivel de experiencia del jugador. Esto da acceso a nuevas funciones como bombas, dinamitas, multiplicadores mayores, monedas, cofres ¡e incluso modo frenesí! Un nivel superior de experiencia también ayuda a ganar más puntos."
+}

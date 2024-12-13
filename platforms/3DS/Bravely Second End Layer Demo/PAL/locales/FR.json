@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Bravely Second: End Layer Demo",
+	"synopsis": "Cette démo consacrée aux Trois Cavaliers (Yew Généolgia, Janne Angard et Nikolaï Nikolanikov) sera le prélude de l'aventure. Elle permet aux joueurs de débloquer des récompenses dans la version complète du jeu, selon leur progression dans la démo. La Démo de Bravely Second™ : End Layer: The Ballad of the Three Cavaliers, peut être terminée plusieurs fois, mais il vous faudra un fichier de sauvegarde de la démo terminée pour débloquer des récompenses dans la version complète du jeu."
+}

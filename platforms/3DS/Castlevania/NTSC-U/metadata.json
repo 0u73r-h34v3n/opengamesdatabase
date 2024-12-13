@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Castlevania",
+	"publishers": ["Inc.", "Konami Digital Entertainment"],
+	"release_date": "April 4, 2013",
+	"serial_number": "TA8E",
+	"synopsis": "Step into the shadows of the deadliest dwelling on earth. You've arrived at Castlevania, and you're here on business: To destroy the curse of the Evil Count, once and for all. Take arms as Simon Belmont as you make your way through six monstrous floors filled with bats, ghosts, zombies and every kind of ghoulish creature that you can imagine. Use the legendary whip, Vampire Killer, and a host of deadly weapons to battle your way to Dracula's chamber and to the ultimate duel of good versus evil."
+}

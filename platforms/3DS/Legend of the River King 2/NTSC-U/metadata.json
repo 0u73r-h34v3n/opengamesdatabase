@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Legend of the River King 2",
+	"publishers": ["Natsume Inc."],
+	"release_date": "September 18, 2014",
+	"serial_number": "QA9E",
+	"synopsis": "Mean-hearted spirits control the River King and Sea King, the biggest fish in the world. An angel appears to you and your brother, asking you to track down these fish. But before you're ready to begin the search for the elusive water beasts, you'll need to score smaller fry to feed yourself and save up to purchase better tackle and rods. Just be careful, because wild animals may prey on your catch of the day! With all manners of angling to enjoy, from freshwater fly-fishing to deep-sea trolling to collecting a variety of insects and plant life, you'll have hours of nonstop fun in this role-playing adventure!"
+}

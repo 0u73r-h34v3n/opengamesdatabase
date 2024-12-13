@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Legend of Zelda: Ocarina of Time 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 7, 2011",
+	"serial_number": "AQEP",
+	"synopsis": "Legend of Zelda: Ocarina of Time 3D is an unforgettable classic from the Nintendo 64 console, reborn on Nintendo 3DS. Enjoy Zelda 3D and enter the land of Hyrule in this action adventure andembark on a quest through time to combat evil!"
+}

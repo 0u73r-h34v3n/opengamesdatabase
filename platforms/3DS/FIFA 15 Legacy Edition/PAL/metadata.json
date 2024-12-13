@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Sports"],
+	"genres": ["Football", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "FIFA 15: Legacy Edition",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2014",
+	"serial_number": "BFTP",
+	"synopsis": "FIFA 15 Legacy Edition on Nintendo 3DS™ delivers unmatched authenticity that reflects the current football season with updated kits and rosters and over 30 officially licensed leagues, 50 real-world tournaments, 500 authentic clubs and 12,500 players but no updates to gameplay or game modes. Play traditional 11 versus 11 matches or free your game in epic 5-v-5 street matches with full 3D effects. Play as a real-world superstar or re-create yourself and compete in 3D Street Football Mode. Optional touch screen controls deliver pin-point shooting and passing at your finger-tips."
+}

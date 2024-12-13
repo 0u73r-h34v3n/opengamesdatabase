@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Scarygirl Illustration Kit",
+	"publishers": ["Square One Games"],
+	"release_date": "November 13, 2014",
+	"serial_number": "KSGE",
+	"synopsis": "Vector drawing and animation for illustrators of all ages. Scarygirl Illustration Kit is an easy, fun, and powerful vector illustration and animation program that lets you create your own MP4 movies and share them with the world! Let Bunniguru guide you through the intuitive interface and soon you'll be creating and animating illustrations just like the pros. Export illustrations to your SD card in JPG or SVG format and movies in MP4 format."
+}

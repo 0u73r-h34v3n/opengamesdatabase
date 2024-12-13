@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Adventure", "Platformer", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Skylanders SWAP Force",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 18, 2013",
+	"serial_number": "BSFP",
+	"synopsis": "Share your skills and swap your way to victory! In Skylanders SWAP Force, mix and match characters’ top and bottom halves to create powerful new combined warriors. If you like the skip in the step of one SWAP Force character but prefer the weaponry of another, simply clip the favoured parts together and place them on the new Portal of Power for the best of both worlds."
+}

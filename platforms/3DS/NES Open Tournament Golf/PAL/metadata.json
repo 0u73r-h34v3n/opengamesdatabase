@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "NES Open Tournament Golf",
+	"publishers": ["Nintendo"],
+	"release_date": "August 23, 2012",
+	"serial_number": "TAHP",
+	"synopsis": "Tee off with Mario (and Luigi in two-player mode) in this classic sporting simulation. In NES Open Tournament Golf, choose from three international courses – UK, US and Japan – and three different game types – Stroke Play, Match Play and Tournament. Set up your shot on the overhead map screen by choosing the correct club and adjusting for wind speed and direction, then switch to the action screen and make your shot using careful timing!"
+}

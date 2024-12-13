@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario & Yoshi",
+	"publishers": ["Nintendo"],
+	"release_date": "May 2, 2013",
+	"serial_number": "TARP",
+	"synopsis": "Mario & Yoshi is a fast-paced NES puzzle game in which you must mix and match falling characters and piece together eggshells to free the Yoshi trapped inside. Simply move Mario back and forth to catch the falling Little Goombas, Boo Buddies, Bloopers and Piranha Plants. Capture creatures between two eggshell halves and you’ll release a Yoshi; the more creatures you capture, the larger the Yoshi and the bigger the bonus! Mario & Yoshi also features a split-screen, simultaneous two-player mode that brings Luigi into play."
+}

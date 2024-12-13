@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "PINK DOT BLUE DOT",
+	"publishers": ["RCMADIAX"],
+	"release_date": "March 9, 2017",
+	"serial_number": "CDBE",
+	"synopsis": "Welcome to PINK DOT BLUE DOT. Tap the screen in this variation of the classic game while keeping the colors in sync. Endless fun for everyone - give it a try today!"
+}

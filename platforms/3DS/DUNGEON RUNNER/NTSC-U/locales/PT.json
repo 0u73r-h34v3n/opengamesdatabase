@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "DUNGEON RUNNER",
+	"synopsis": "DUNGEON RUNNER é um jogo de plataforma em que teremos que fugir do monstro através de uma masmorra perigosa. Um corredor sem fim, com um estilo visual colorido, onde o jogo termina quando colidimos e o monstro nos pega."
+}

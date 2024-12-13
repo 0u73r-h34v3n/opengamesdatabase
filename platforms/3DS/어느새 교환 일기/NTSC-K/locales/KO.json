@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "어느새 교환 일기",
+	"synopsis": "터치펜으로 직접 ｢일기｣를 쓸 수 있는 소프트웨어입니다. 자신만의 일기를 쓸 수 있는 것은 물론, 본 소프트웨어를 다운로드한 닌텐도 3DS끼리 ｢엇갈림 통신｣을 이용하여 ｢친구 목록｣에 등록된 상대와 일기를 주고받을 수도 있기 때문에, 가족이나 친구와의 커뮤니케이션 수단으로도 즐길 수 있습니다. 사진이나 음성을 붙인 일기, 작성한 부분이 튀어나와 보이는 3D 펜으로 작성한 깊이감 있는 신기한 일기 등 다양한 일기를 보낼 수 있습니다."
+}

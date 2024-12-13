@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Slice It!",
+	"publishers": ["Aksys Games"],
+	"release_date": "February 4, 2016",
+	"serial_number": "JL2P",
+	"synopsis": "Brain-tickling geometric puzzles are the name of the game with Slice It! Use the stylus to draw straight lines through a shape to make smaller identical shapes within a limited number of tries. Easy to learn but hard to master, become one with your stylus to cut those extra tricky shapes down to size! Variety is the slice of life with hundreds of different stages to slice through! Special themes, music and other unlockables keep you coming back for more. Developed by Arc System Works and COM2US."
+}

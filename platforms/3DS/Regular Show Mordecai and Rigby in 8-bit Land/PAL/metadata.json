@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward"],
+	"genres": ["Action", "Adventure"],
+	"name": "Regular Show: Mordecai and Rigby in 8-bit Land",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 8, 2013",
+	"serial_number": "AEBP",
+	"synopsis": "Mordecai and Rigby are trapped inside a video game and must travel through the pixilated land of 8-Bit to find their way out. This hijinx-filled adventure is packed with platforming, space shooting, and old-school top down video game mania, and comes fully loaded with tons of Regular Show characters and jokes."
+}

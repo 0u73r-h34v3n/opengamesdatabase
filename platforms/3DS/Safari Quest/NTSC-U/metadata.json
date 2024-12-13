@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Safari Quest",
+	"publishers": ["Maximum Games"],
+	"release_date": "November 11, 2014",
+	"serial_number": "BSQE",
+	"synopsis": "Embark on a quest to find the white lion in this exciting puzzle safari! In a land known as Africania, you’ll encounter several challenges as you take photos of the surrounding wildlife. With 10 lush landscapes and a total of 10 puzzle-filled levels, this Match-3 adventure will keep you on your toes!"
+}

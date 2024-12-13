@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "LEGO Marvel's Avengers",
+	"synopsis": "Diese Patch-Anwendung aktualisiert LEGO® MARVEL’s Avengers auf v1.2.0, um die Unterstützung von E-Commerce im Spiel zu integrieren. v1.1.0 • Behebung eines seltenen Absturzfehlers beim Wechsel zu Black Widow in Level 7. • Der Spieler wird jetzt nicht mehr plötzlich in den Frachtcontainer gesperrt, wenn er Lola ins Wasser schubst. • Behebung der Fehler mehrerer Missionsskripte in den HUB-Levels, die man bei Fehlschüssen nicht abschließen konnte. • Behebung mehrerer seltener Speicherabstürze während des Spiels. • Behebung mehrerer UI-Probleme während des Spiels. • Verbesserungen von Texten und Audiodateien."
+}

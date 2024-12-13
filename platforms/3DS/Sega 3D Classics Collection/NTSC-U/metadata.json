@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sega 3D Classics Collection",
+	"publishers": ["SEGA USA"],
+	"release_date": "April 26, 2016",
+	"serial_number": "AK3E",
+	"synopsis": "A collection of 9 classic SEGA games in one game! From the arcades straight to your Nintendo 3DS, experience the classics that defined the genres in gameplay. Choose a game to suit your mood! Shooting, racing, action, puzzle, and more! Now including games that have only previously been released in Japan! With: Power Drift Puyo Puyo 2 Maze Walker Fantasy Zone II: The Tears of Opa-Opa Fantazy Zone II W Sonic The Hedgehog Thunder Blade Galaxy Force II Altered Beast"
+}

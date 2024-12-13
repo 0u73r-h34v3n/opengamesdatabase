@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FI", "FR", "IT", "NL", "PT"],
+	"name": "Moonbound",
+	"publishers": ["Jouni Mutanen"],
+	"release_date": "January 27, 2022",
+	"serial_number": "LMBP",
+	"synopsis": "[ Can YOU survive back to Earth? ] Moonbound is a challenging 2D arcade action game that forces the player to make quick decisions under pressure. The player controls an astronaut who is returning to Earth after completing a geological survey mission in the Beta Iridian solar system. The astronaut's ship is suddenly damaged by an explosion! The energy crystals that are used as the ship's main power source are ejected out of the ship and land on six different moons. The player must return all of the remaining crystals to the ship to be able to return to Earth. Game features : * Survive through over 30 levels of challenging 2D arcade action! * Encounter different enemies and environmental hazards on six moons * Two game modes - Story Mode and Arcade Mode * Four difficulty levels - Easy, Normal, Hard and Hardcore * Level selection - Start a new game at any level * Music player - Listen to all of the game's music tracks"
+}

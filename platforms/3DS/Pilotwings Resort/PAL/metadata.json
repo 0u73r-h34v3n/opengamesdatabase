@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Flight Simulation", "Simulation", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pilotwings Resort",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 22, 2012",
+	"serial_number": "AWAP",
+	"synopsis": "Pilotwings Resort on Nintendo 3DS takes your Mii on 3D a tour around Wuhu Island by hang glider, rocket belt or plane! Ace objectives in Mission Mode or relax with Free Flight Mode in this aerial sports game!"
+}

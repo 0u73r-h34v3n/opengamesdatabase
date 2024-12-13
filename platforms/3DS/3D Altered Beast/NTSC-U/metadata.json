@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Altered Beast",
+	"publishers": ["SEGA USA"],
+	"release_date": "December 5, 2013",
+	"serial_number": "JA7E",
+	"synopsis": "Summoned from the dead by Zeus, shape shift into various beasts and fight off hordes of demons to rescue the captured Athena from the clutches of Neff. Transform into a variety of beasts and fight off throngs of demons sent forth by the evil Neff. The mighty shape-shifting god will challenge you in various, hideous forms in each level, but you are armed to the teeth with transformative tricks of your own! In addition to its all-new 3D presentation, 3D Altered Beast also supports local multiplayer, and a Random Transformation Mode."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Save Data Transfer Tool",
+	"synopsis": "A Transferência de Dados de Jogo permite que os usuários do Nintendo 3DS transfiram dados salvos de um jogo em formato físico para o mesmo jogo em formato digital. Os jogadores que originalmente compraram um jogo em formato físico poderão continuar jogando a partir do ponto onde pararam, se decidirem baixar o mesmo jogo em formato digital. Os dados salvos transferidos para um jogo em formato digital não poderão ser movidos de volta para o jogo em formato físico."
+}

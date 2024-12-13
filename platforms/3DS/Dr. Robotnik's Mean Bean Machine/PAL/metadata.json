@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dr. Robotnik's Mean Bean Machine",
+	"publishers": ["SEGA"],
+	"release_date": "June 13, 2013",
+	"serial_number": "GARP",
+	"synopsis": "The evil Dr. Eggman (AKA Dr. Robotnik) has built a machine that will turn the poor people of Beanville into machines, but there’s safety in numbers! In this colourful puzzle game, help them out by pairing them into groups of four matching colours so they can stick together and escape certain doom! Features: - A challenging puzzle game! Pile up four bean folk of the same colour so they can stick together and escape! - Defeat Dr. Eggman’s henchmen in order to reach the evil doctor and save Beanville once and for all!"
+}

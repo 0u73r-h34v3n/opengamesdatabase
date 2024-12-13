@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory"],
+	"genres": ["Action", "Adventure"],
+	"name": "Kirby: Planet Robobot",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 10, 2016",
+	"serial_number": "AT3E",
+	"synopsis": "Harness the power of a mysterious mech to stop ruthless invaders from mechanizing Kirby's home world. Smash through tough obstacles, lift heavy objects with ease, and scan enemies to shape-shift into new Modes with powerful abilities in this supercharged action-platformer!"
+}

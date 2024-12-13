@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Collide-a-Ball",
+	"publishers": ["STARSIGN"],
+	"release_date": "September 15, 2016",
+	"serial_number": "KDEE",
+	"synopsis": "Set up a course to make two balls meet at the same place and time in this unique puzzle game. A red and blue ball start from different places in the stage. Position and rotate objects such as slopes and acceleration panels to prepare the path for the balls to travel so they meet at the goal flag at the same time. Once you've set the scene hit Start to trigger the two balls rolling. Can you make the two balls collide at the goal flag at the same time? Collide-a-Ball includes three games modes: Free Play, Wait and Go! and Single Ball Free Play Position objects to make the two balls meet at the goal flag at the same time. Wait and Go ! Judge the time delay needed between two balls to make them meet at the goal flag at the same time. Single Ball Position objects around the stage to make one ball stop exactly on the goal flag."
+}

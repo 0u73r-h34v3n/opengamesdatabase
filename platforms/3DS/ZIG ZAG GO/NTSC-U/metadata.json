@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "ZIG ZAG GO",
+	"publishers": ["RCMADIAX"],
+	"release_date": "January 25, 2018",
+	"serial_number": "CAZE",
+	"synopsis": "Shapes on the go with ZIG ZAG GO! Use the touch screen to switch directions quickly and avoid oncoming shapes. Endless fun for everyone!"
+}

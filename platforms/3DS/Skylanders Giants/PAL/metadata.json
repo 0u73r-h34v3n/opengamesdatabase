@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES", "FR"],
+	"name": "Skylanders Giants",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 19, 2012",
+	"serial_number": "AG6P",
+	"synopsis": "Thousands of years ago, the Giants fought epic battles in Skylands but were banished to Earth. With a new threat looming, it's time to bring them back to join forces with the Skylanders to defeat KAOS. Only you can put them on the Portal of Power® to unleash their strength in the ultimate battle to save Skylands!"
+}

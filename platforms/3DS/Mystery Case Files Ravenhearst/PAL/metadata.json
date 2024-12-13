@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Big Fish Games", "astragon"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mystery Case Files Ravenhearst",
+	"publishers": ["Engine Software", "MSL"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 1, 2014",
+	"serial_number": "AAQP",
+	"synopsis": "Rumors surrounding the history of stately Ravenhearst Manor have circulated for decades. The recently acquired diary of Emma Ravenhearst may hold the key to unraveling the mystery behind this eerie place, but the pages are missing. You assume the role of the master detective as you unlock the secrets buried deep in Ravenhearst®, and scour a myriad of intriguing rooms in the manor in your search for cleverly hidden clues. Only when you have located and re-assembled all the lost diary pages will you uncover the story of the house and, ultimately, solve the mystery."
+}

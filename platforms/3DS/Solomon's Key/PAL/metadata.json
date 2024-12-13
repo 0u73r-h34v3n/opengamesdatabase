@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Solomon's Key",
+	"publishers": ["KOEI TECMO EUROPE"],
+	"release_date": "August 22, 2013",
+	"serial_number": "TBPP",
+	"synopsis": "To save his world from demons, Dana the Wizard goes on a dangerous quest to find Solomon's Key and seal the monsters away. An audacious mix of action game and puzzler, Solomon's Key was one of the toughest challenges on the NES™, but also one of its most endearing adventures. Combine logic and reflexes to unravel the mysteries of each room. Bright minds are needed to unlock its secrets, and only a few have been deemed worthy of seeing all the different endings. Will you be clever enough?"
+}

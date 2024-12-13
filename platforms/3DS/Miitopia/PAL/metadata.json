@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Miitopia",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 28, 2017",
+	"serial_number": "ADQP",
+	"synopsis": "Have you ever wondered what it’d be like to go on an adventure with your best friend, your crush and…your teacher?! Miitopia makes it happen! The big question is – who will you take with you? Everyone in Miitopia is a Mii! Whether it’s the fearless hero, the beautiful Princess or even the evil Dark Lord, you decide who stars in this story. You could have your best mates join you in battle, dress Grandad up like a King, or turn Mum into the big baddy. The choice is yours! Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

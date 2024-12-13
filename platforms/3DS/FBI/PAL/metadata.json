@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Steveice10"],
+	"genres": ["Software"],
+	"name": "FBI",
+	"publishers": ["Steveice10"],
+	"release_date": "April 11, 2015",
+	"serial_number": "CFBI",
+	"synopsis": "FBI is an open source title manager for the 3DS, which allows you to install/uninstall homebrews in CIA format."
+}

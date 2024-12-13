@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Witch & Hero",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "April 18, 2013",
+	"serial_number": "JWHE",
+	"synopsis": "Witch & Hero is an 8-bit style action game. You play as a hero accompanied by a witch taking on the evil Medusa, whom has destroyed many villages and towns with the monsters that stand before her. Medusa turned the witch into stone, so she is no longer able to move. So it’s up to the hero to defeat the monsters and collect their blood in order to recover the witch for a limited duration. The witch’s destructive magic easily destroys monsters, but you will have to rely on the hero’s will power primarily. He is able to try and try again, but the witch cannot, thus the hero must protect her. Features: Retro 8-bit pixel graphics and sound, along with simple controls Wipe out huge waves of monsters through 20 stages with 2 difficulties Choose between trial mode and infinite mode for an in-depth challenge"
+}

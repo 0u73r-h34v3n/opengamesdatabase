@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Save Data Transfer Tool",
+	"synopsis": "Questo software permette di trasferire dati di salvataggio da una scheda di gioco per Nintendo 3DS alla versione scaricabile dello stesso software acquistata separatamente. Per utilizzare questo software sono necessarie: • una scheda di gioco per Nintendo 3DS compatibile; • una versione scaricabile del software presente nella scheda di gioco. Attenzione! Una volta trasferiti i dati di salvataggio alla versione scaricabile, non si potrà trasferirli nuovamente alla scheda di gioco. I dati nella scheda di gioco saranno reinizializzati."
+}

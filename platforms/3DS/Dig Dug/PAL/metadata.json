@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dig Dug",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "April 18, 2013",
+	"serial_number": "TA9P",
+	"synopsis": "Get on down with Dig Dug, and wage underground war with your trusty pump! Vanquish persistent Pookas and fiery Fygars to clear each stage. Defeat enemies by inflating them with air or by dropping rocks on them from above. Earn bonus points by collecting fruit or defeating deep-dwelling foes. This classic game blends old-school arcade action with strategy; try to lure multiple enemies into position and satisfyingly squash them with a single rock!"
+}

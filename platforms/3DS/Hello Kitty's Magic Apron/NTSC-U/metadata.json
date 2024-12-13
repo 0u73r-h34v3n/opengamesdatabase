@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hello Kitty's Magic Apron",
+	"publishers": ["Rising Star Games"],
+	"release_date": "January 28, 2016",
+	"serial_number": "BHKE",
+	"synopsis": "Get ready to cook up a storm, because Hello Kitty is back with an all-new rhythm action experience – one that’s really packed with flavour! Join Hello Kitty and her friends in the kitchen in this fun-packed cookery caper, jammed with mini games designed expressly with young players in mind. Learn the joys of cooking and the power of rhythm simultaneously, making new friends and coming up with tasty treats to the beat. Cute visuals, lots of unlockables and the option to create your own Hello Kitty-themed photos come together for hours of fun, all in the cute and lovable style that is Hello Kitty."
+}

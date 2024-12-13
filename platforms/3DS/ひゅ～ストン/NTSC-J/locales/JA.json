@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ひゅ～ストン",
+	"synopsis": "ひゅ～ストンは、井戸を落下する石となり、石の視点を楽しむ、思わず声が出てしまう落下アクションゲームです。立体視による圧倒的な迫力とスリリングな落下感覚を体験できます。石の操作はスライドパッドのみとシンプルです。成績はすれちがい通信で他のプレイヤーと交換できます。"
+}

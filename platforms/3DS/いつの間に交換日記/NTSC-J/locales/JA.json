@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "いつの間に交換日記",
+	"synopsis": "タッチペンで手がきの「日記」を簡単にかくことができるソフトです。フレンド登録した友だちに、すれちがい通信で写真や音声付きの日記や、3Dペンを使って奥行きを感じる不思議な日記などを送ることができます。 日記はかいた順番どおりに再生され、アニメーションを観ている感覚で楽しめます。"
+}

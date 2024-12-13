@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Sims"],
+	"genres": ["Life Simulation", "Simulation"],
+	"name": "The Sims™ 3 Pets",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 21, 2011",
+	"serial_number": "AS4P",
+	"synopsis": "The Sims™ 3 Pets expansion pack includes many new animals such as horses, cats, dogs, snakes, lizards, birds and turtles. The player creates their pet in a similar fashion to the 'Create A Sim' feature with many customisation abilities. The player may choose from a selection of breeds for each pet such as Labradors and Kelpies (dogs). There are now traits for pets allowing them to have their own personalities and identities. Pets can now be controlled similar to sims and have their own skills, quests and interactions. Cats and dogs can learn hunting and collecting skills and horses can be jumped or raced at the all new equestrian centre."
+}

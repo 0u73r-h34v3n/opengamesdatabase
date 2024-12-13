@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["nuGAME"],
+	"genres": ["Arcade"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Bricks Defender 2",
+	"publishers": ["nuGAME"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 3, 2020",
+	"serial_number": "K44P",
+	"synopsis": "Bricks Defender 2 is a brick breaker game where you will face off against the computer opponent through 15 exciting levels. Do your best to defend your own blocks while at the same time aiming to destroy the blocks of the computer opponent."
+}

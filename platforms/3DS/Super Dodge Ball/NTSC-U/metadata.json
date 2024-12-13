@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Super Dodge Ball",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "June 18, 2014",
+	"serial_number": "TB9E",
+	"synopsis": "Thrash, bash, and smash the competition. In Super Dodge Ball, you take control of the USA Dodge Ball team and travel the world in an effort to become the best dodge ballers around. Step onto playing fields in countries all over the globe and use a combination of normal and super shots to help take down your opponents. But be careful, as some destinations have surfaces that can affect your footing! Manage the team as you think best, and swap out characters with other players that better fit your playing style. Two players can enjoy a head-to-head game or play a spirited round of Bean Ball, a six character free-for-all. Three difficulty levels are available (Easy, Medium, and Hard); which one you choose will depend on your skill and courage. Do you have what it takes to lead Team USA to the ultimate prize and win the world championship of dodge ball?"
+}

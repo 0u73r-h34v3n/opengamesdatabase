@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dillon's Rolling Western",
+	"publishers": ["Nintendo"],
+	"release_date": "February 22, 2012",
+	"serial_number": "JAME",
+	"synopsis": "Can you protect the innocent and live to tell the tale? Try out your luck, partner, in the Dillon’s Rolling Western game—a unique combination of tower-defense strategy and character-driven action! Meet Dillon, the armadillo ranger, and his trusty sidekick Russ as they travel the Wild West to aid ten frontier villages that are in need of some home improvements. By day, Dillon will scour the plains for resources in order to build up the villages’ defenses. By night, the unrelenting forces of the Grocks attack and it is up to our stoic hero to save the day! Plan out your tactical defenses, and use Dillon’s fighting skills with the stylus to roll and claw down the oncoming enemies. At each village, you will spend three days and nights to assess the situation and prepare a plan of attack. Use your time well to meet with the villagers, upgrade abilities and learn more about Dillon’s past. Replay villages to test out new strategies and obtain a higher star rating to unlock new villages!"
+}

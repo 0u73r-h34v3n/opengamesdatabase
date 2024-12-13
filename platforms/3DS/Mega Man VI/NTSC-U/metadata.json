@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man VI",
+	"publishers": ["CAPCOM"],
+	"release_date": "June 20, 2013",
+	"serial_number": "TBFE",
+	"synopsis": "From the United States, Canada and Japan they came. The world's premier designers and their finest robotic warriors traveled to do battle in the First Annual Robot Tournament. On the eve of the Grand Championship, the mysterious Mr. X announced that the entire tournament was just a scheme to get his hands on the world's most powerful robots! Mega Man must battle through 16 levels to defeat this ferocious new foe."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sumico",
+	"publishers": ["Engine Software"],
+	"release_date": "January 29, 2015",
+	"serial_number": "KSME",
+	"synopsis": "Ready for a new type of puzzle game? In Sumico you match numbers and operators to make sums that equal the target numbers. Sumico offers an 82-level Campaign and an Endless Mode. So, a lot of brain wrenching numbers and operators are waiting for you. Have fun!"
+}

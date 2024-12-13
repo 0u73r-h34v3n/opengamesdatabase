@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Tails Adventure",
+	"publishers": ["SEGA"],
+	"release_date": "June 20, 2013",
+	"serial_number": "GAVP",
+	"synopsis": "Sonic’s trusty sidekick flies solo in his very own adventure! When Tails stumbles upon a small part of what looks to be a very large machine, he decides to embark on a journey to find its source! As Tails, fly through 12 action-packed stages on a quest to gather all the mechanical parts and discover the secret of their origin. Gather items to augment Tails’s various abilities! Use your wits to defeat enemies across 12 stages, in order to discover the origin of the mysterious machines!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ash",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "October 13, 2016",
+	"serial_number": "KASP",
+	"synopsis": "Ash is a classic turn-based RPG, featuring a massive, fully-realized world with lush visuals, and a wonderfully compelling story. These are strange days for Aghaus. By order of the Magistrate, the Royal Guard is to assemble for deployment in two days’ time. It has been years since I last left the capital, and further still that I can remember such a command being issued! But what need is there for a Royal Guard, when no King sits upon the throne? Though my oath binds me to his service, the Magistrate is not my liege. He rules in the absence of a rightful heir. My men await their orders; they too are uneasy. It is for their sake that I stay my tongue, and place my faith in the Almighty that my fears are unfounded. Tomorrow, we make for the East."
+}

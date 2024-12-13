@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Rubik's Cube",
+	"synopsis": "Jouer partout, en tout moment, avec la représentation numérique la plus authentique du cube Rubik disponible sur le marché. Le cube Rubik est un puzzle de combinaisons en 3D inventé en 1974 par le sculpteur et professeur d'architecture hongrois Ernő Rubik. Options du jeu : Commandes tactiles intuitives Cube 2x2x2 et cube 3x3x3 Solutionneur Saisie de l'action par une caméra Classements sur Internet Le jeu est développé sous licence de Rubik's Brand Ltd."
+}

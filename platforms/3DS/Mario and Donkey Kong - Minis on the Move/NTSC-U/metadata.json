@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario and Donkey Kong - Minis on the Move",
+	"publishers": ["Nintendo"],
+	"release_date": "May 9, 2013",
+	"serial_number": "JB7E",
+	"synopsis": "Test your puzzle solving skills in this spin-off of the Mario vs. Donkey Kong™ series. Use tiles to create the best path through each level. The main game contains over 180 levels, across four different puzzle modes. Although each mode has a slightly different style of play, they all share the same goal: get the Minis to the star! Take a break from the main game to challenge high scores in four unlockable minigames. Feeling creative? Try your hand at building your own puzzles with an easy-to-use level builder. Once you’re done you can play your puzzles and even share them with other players around the world. Access new levels created by fellow users, and save up to an additional 100 puzzles! Plenty of surprises await you in this rich action-puzzle game."
+}

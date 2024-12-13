@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "Pro Evolution Soccer 2011 3D",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 25, 2011",
+	"serial_number": "AEEP",
+	"synopsis": "Get ready for the first real three-dimensional football simulation ever! PES 2011 3D – Pro Evolution Soccer brings the big game atmosphere to Nintendo 3DS. Revel in PES 2011 3D’s big game atmosphere, its stunning 3D visuals and perfect gameplay. Enjoy the many Game Modes it offers, including the absorbing Master League mode and the world’s most prestigious club football tournament: the UEFA Champions League."
+}

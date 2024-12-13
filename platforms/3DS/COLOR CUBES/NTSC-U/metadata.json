@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "COLOR CUBES",
+	"publishers": ["RCMADIAX"],
+	"release_date": "January 19, 2017",
+	"serial_number": "CCSE",
+	"synopsis": "Switch or stay - that's how you play this game! Tap the screen to switch the color boxes, or keep them the way they are. You must act quickly as the game gets faster and faster. Endless fun for everyone!"
+}

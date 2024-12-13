@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dangerous Road",
+	"publishers": ["STARSIGN"],
+	"release_date": "November 10, 2016",
+	"serial_number": "KRLE",
+	"synopsis": "Cross a busy road avoiding the traffic, dart across train lines missing the speeding trains and leap across gushing rivers on moving logs. One mistake and it's game over. Move your character one step at a time knowing that one wrong step means certain death. Reach each designated checkpoint on your life-or-death journey and then find the goal to clear the stage. Make use of footbridges and invincibility stars to bypass certain-death points or use your character's special skill such as slow motion or walking on water to cheat death. There are four playable characters to choose from, each with their own skill that can be used a certain number of times in each stage. Try your skill on two game modes. Goal Run Mode challenges you to reach each checkpoint and then the goal. Survival Run Mode tests your survival skills as you dodge traffic on a bustling highway and over train lines for 60 seconds!"
+}

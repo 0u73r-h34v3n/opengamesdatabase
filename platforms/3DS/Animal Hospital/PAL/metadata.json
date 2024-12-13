@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Animal Hospital",
+	"publishers": ["Nacon"],
+	"release_date": "October 24, 2013",
+	"serial_number": "AZFP",
+	"synopsis": "The sick animals need you! - Live the dream life of a true veterinarian. - Improve and expand your surgery to accommodate more patients. - Dogs, cats, horses, birds… they all need your care!"
+}

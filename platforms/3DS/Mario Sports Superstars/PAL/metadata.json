@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Camelot", "Namco Bandai"],
+	"genres": ["Compilation", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Sports Superstars",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 10, 2017",
+	"serial_number": "AUNP",
+	"synopsis": "Become a Superstar – it's Mario Sports time! Take to the field with an all-star line-up in Mario Sports Superstars, an action-packed selection of supercharged sports. Set your squad of Super Mario favourites on the road to superstardom in five of the world’s most popular sports, and compete with others nearby and online! Tear up the turf in 11-a-side Football matches, slug it out in Baseball, get on the green in Golf and own the court in Tennis. For something a bit different, saddle up and get ready for some fast-paced Horse Racing! These are full-scale sports, featuring layers of depth, strategy and real-world authenticity. Supports 6 Players online and 6 Players via Local PlayVisit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

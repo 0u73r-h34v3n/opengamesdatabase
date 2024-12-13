@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Undead Bowling",
+	"publishers": ["Joindots"],
+	"release_date": "October 30, 2014",
+	"serial_number": "JZGP",
+	"synopsis": "Welcome to Undead Bowling! Prevent hordes of blood-thirsty zombies from sinking their rotten teeth into your flesh by mowing them down with a cannon bowling ball! Turn on stereoscopic 3D for extra impact to make this the best zombie bowling experience you can get, until the world is overrun by zombies and someone opens a bowling alley. It's sometime in the future and zombies have overrun the earth. The pins at the local bowling alley have been eaten so the owner has rounded up a good supply of zombies to use instead. Throw cannon bowling balls along the bowling lane filled with zombies to flatten as many as you can. Make use of three different types of bowling balls including a cannon bowling ball, a Hell Fire bowling ball and the devastating Mince Grinder, that tears through everything on the lane. Use the Circle Pad to steer your bowling ball into the zombies that crowd the lane, squashing as many as you can and preventing them from eating you alive!"
+}

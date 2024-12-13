@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My Farm 3D",
+	"publishers": ["Nacon"],
+	"release_date": "July 11, 2013",
+	"serial_number": "JM8P",
+	"synopsis": "Calves, cows, pigs, poultry... make your farm prosper like a real farmer! Buy new animals, feed them, care for them and make your farmyard a happy one to unlock lots of bonuses. Sell your chickens's eggs at the market, get new colours for your animals and exchange them with your friends! Note: This game differs from the retail version of My Farm 3D and contains 6 animals and 10 unlockable bonuses."
+}

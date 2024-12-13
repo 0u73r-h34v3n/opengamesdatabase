@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Adventure Bar Story",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "February 19, 2015",
+	"serial_number": "JFNE",
+	"synopsis": "Adventure Bar Story is an RPG set in a fantasy world in which you go on adventures with party members and manage a bar. Your Bar is facing a hostile take over by a rich Restaurant Owner - Gustav. Gustav is a powerful man and he will try to drive you out of business and force you to sell the bar! Best way to defend the take over? WIN THE CROWD! Become the most popular bar in town, so even Gustav can't touch you! Collect mats to make dishes by visiting other towns and dungeons. Levels are gained in this game by eating. Raise your bar's rank via sales at the bar and by performing well in the cooking contest held at the castle. Work hard to become the top place to eat in the kingdom!"
+}

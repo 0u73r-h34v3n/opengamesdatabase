@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Samurai Defender",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "July 16, 2015",
+	"serial_number": "JWXP",
+	"synopsis": "Samurai Defender is a simple defense type action game set in the Warring States period of Japan. Defend the castle from approaching enemies! Tap on an enemy soldier to aim at them. Your bowmen will take care of the rest. Enemies will move towards your castle gate, so take aim and stop them from getting too close! Use the coins you acquire to learn new schemes! Use the schemes you learned to defeat lots of enemies! Defend your castle more easily by leveling up your bowman and schemes, and enjoy the exhilaration of repelling waves of enemy attacks!"
+}

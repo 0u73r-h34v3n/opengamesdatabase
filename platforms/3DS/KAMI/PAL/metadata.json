@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "KAMI",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "April 2, 2014",
+	"serial_number": "KMZP",
+	"synopsis": "KAMI is deceptively simple: fold out colored paper to fill the screen in with few moves as possible. Relaxing and easy to pick up, you'll soon find yourself deep in contemplation to perfect each puzzle. Created by State of Play, famous for their handcrafted aesthetics, KAMI has been created with real paper in an elegant Japanese theme. KAMI is tactile, engaging and stunning to look at. 63 unique puzzles! Premium Puzzles and Hints are included. Also includes a Calming and elegant soundtrack."
+}

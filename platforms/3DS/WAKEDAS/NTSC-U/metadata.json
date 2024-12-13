@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "WAKEDAS",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "August 22, 2013",
+	"serial_number": "JWKE",
+	"synopsis": "WAKEDAS is a contemplative and thoughtful shape shifting puzzle game with the perfect combination of eye-candy visuals and serene sounds. Radiant multicolored tiles rests on an infinite loop; aim of the game is to group same colored blocks together by simply dragging your finger across the screen. Features: Learn the rules in less than 3 seconds 300 unique puzzles that will challenge your brain Separate and combine similar colors with minimal steps! Hint system in place to give you a boost Try and solve all of the enjoyable WAKEDAS puzzles that will light up your imagination."
+}

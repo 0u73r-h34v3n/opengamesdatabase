@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "スーパーポケモンスクランブル",
+	"synopsis": "歴代すべてのポケモンが登場するアクションゲーム。ふしぎなネジで動くおもちゃのポケモンの世界で、強いポケモンを集め、強者が集まるバトルを勝ち抜きます。ローカルプレイで友だちと協力してポケモンを集めたり、すれちがい通信で同じソフトを持ったプレイヤーが集めたポケモンとバトルを楽しんだりすることもできます。"
+}

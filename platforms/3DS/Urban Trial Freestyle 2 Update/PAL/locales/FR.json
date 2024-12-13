@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Urban Trial Freestyle 2: Update",
+	"synopsis": "- Correction de la position des figures et ajustement des scores dans le mode Figures - Décors et caméra améliorés dans l'éditeur de niveaux - Ajustement de la difficulté des pistes de défi - Corrections de bugs mineurs"
+}

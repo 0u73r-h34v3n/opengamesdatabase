@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Double Dragon II: The Revenge",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "May 22, 2014",
+	"serial_number": "TC3P",
+	"synopsis": "Billy and Jimmy Lee, the Double Dragons, are back to avenge the loss of Marian! In their quest to defeat the evil Shadow Warriors, the duo face nine missions up against deadly street gangs, ninjas, and huge mutant fighters! Traverse through construction sites, alleyways, and underwater hideouts filled with traps. Can Billy and Jimmy contend with the enemies placed before them and ultimately save the world?! Best of all, this conversion of the arcade smash features simultaneous two-player action!"
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dragon Quest VIII: Journey of the Cursed King",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "January 20, 2017",
+	"serial_number": "BQ8P",
+	"synopsis": "The story begins when a jester, Dhoulmagus, comes to Castle Trodain and steals the King’s sceptre. He then uses its power to turn his majesty into a troll, the Princess into a horse, and the castle inhabitants into plants. The only one left unscathed from this attack is a castle guard who escaped the curse and must now step up to save the kingdom he’s sworn to protect."
+}

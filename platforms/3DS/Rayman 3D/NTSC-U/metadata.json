@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Platformer"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rayman 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 27, 2011",
+	"serial_number": "ARYE",
+	"synopsis": "Rayman, one of Ubisoft’s most iconic and beloved characters, is back to engage audiences in a thrilling new 3D world of adventure and fun. In Rayman® 3D, Rayman battles evil mechanical pirates led by the maniacal Razorbeard, who is enslaving the population of Rayman's world. It's up to our jointless hero to collect four magical masks that, once united, will awaken a sleeping god who will help Rayman defeat the pirates. Along his quest he'll pick up Lums, which are magical fragments of the world's energy core. He'll also free creatures enslaved by the evil pirates and run into a host of friends who will help him achieve his goal."
+}

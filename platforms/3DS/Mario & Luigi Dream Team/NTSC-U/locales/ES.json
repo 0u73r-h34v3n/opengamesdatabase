@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario & Luigi: Dream Team",
+	"synopsis": "Datos de actualización para el título de Nintendo 3DS, Mario & Luigi™: Dream Team. Si tienes Mario & Luigi™: Dream Team, deberías descargar esta actualización. Contenido de la actualización: Corrige un error que ocurre en el monte Pimayama cuando Juancho y su hermano usan un salto de giro para romper carámbanos. Debido a este error, si un jugador realizaba ciertas acciones, le sería imposible avanzar más allá de este punto en el juego. Soluciona un error que evita que el jugador pueda acabar el combate final con Antasma. Soluciona otras fallas que impiden que el juego funcione de forma correcta."
+}

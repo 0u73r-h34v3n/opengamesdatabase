@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 カルドセプト",
+	"synopsis": "ニンテンドー3DSソフト『カルドセプト®』の更新データです。『カルドセプト®』をお持ちのお客様は、必ずダウンロードしてください。 インターネット対戦中、相手プレイヤーが通信障害などによりAIキャラクターに切り替わった際、それ以降操作を受け付けなくなることがある現象を修正しました。"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Metroid",
+	"publishers": ["Nintendo"],
+	"release_date": "March 15, 2012",
+	"serial_number": "TADP",
+	"synopsis": "Metroids – the most dangerous creatures in the galaxy – have fallen into the hands of Space Pirates! As bounty hunter Samus Aran, battle through the depths of planet Zebes to take out the pirates’ leader Mother Brain and restore peace to the galaxy. The original NES classic Metroid introduced gamers to a unique mix of action and exploration that has become the series’ trademark. Use Samus’s Morph Ball ability to search every nook and cranny, and uncover power-ups like the Ice Beam, Varia Suit and Screw Attack."
+}

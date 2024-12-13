@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Yoshi's New Island",
+	"publishers": ["Nintendo"],
+	"release_date": "March 14, 2014",
+	"serial_number": "ATAP",
+	"synopsis": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings."
+}

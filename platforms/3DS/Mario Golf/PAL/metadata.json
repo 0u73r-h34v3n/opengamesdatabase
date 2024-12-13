@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Golf",
+	"publishers": ["Nintendo"],
+	"release_date": "May 29, 2014",
+	"serial_number": "QAQP",
+	"synopsis": "Tee off with Mario and friends in this unique sporting adventure! The Game Boy™ Color version of Mario Golf is part simulation, part role-playing game. Play as Mario or Luigi, or create your own character, and train them up to become the ultimate golf pro. Explore the Clubhouse, chat to fellow golfers to pick up tips, and challenge opponents to raise your experience level. With four courses, 12 practice ranges, five play modes and a host of minigames to enjoy, fun is par for the course in Mario Golf!"
+}

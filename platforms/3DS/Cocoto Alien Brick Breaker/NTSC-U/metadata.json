@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Cocoto Alien Brick Breaker",
+	"publishers": ["Nacon"],
+	"release_date": "January 24, 2013",
+	"serial_number": "AB7E",
+	"synopsis": "Cocoto renews an arcade game classic! The devilish Cocoto is back in an incredibly addictive game, brilliantly renewing the great brick breaker classic! Travel through the 5 planets of Cocoto’s universe to protect them from alien fire by firing back their projectiles with your magic shield. Progress through the game confronting waves of more and more enemies with increasingly amusing weapons, and unlock new powers for your shield. Story, Arcade and Classic modes 50 levels 13 ultra-powerful shields! A myriad of enemies with increasingly amazing powers"
+}

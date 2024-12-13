@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "업데이트 데이터 Ver.1.2 레이튼 미스터리 저니: 일곱 대부호의 음모",
+	"publishers": ["LEVEL5"],
+	"release_date": "December 13, 2017",
+	"serial_number": "BLFK"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario's Picross",
+	"synopsis": "¡Más de 200 puzles esperan impacientes a que los resuelvas en este juego clásico lanzado por primera vez en 1995! Rellena los espacios correctos de la cuadrícula y descubre la imagen que se esconde bajo cada puzle. Los números que aparecen arriba y a la izquierda te indicarán cuántos cuadrados de cada fila o columna hay que rellenar. Pero no creas que al terminar todos los niveles y dificultades del juego has acabado, ya que será el modo contrarreloj el que se encargará realmente de poner a prueba tus habilidades."
+}

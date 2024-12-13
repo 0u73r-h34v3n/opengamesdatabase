@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Word Search 10K",
+	"publishers": ["Lightwood Games"],
+	"release_date": "January 26, 2017",
+	"serial_number": "KWTE",
+	"synopsis": "With more than 10,000 words hidden in a grid of 90,000 letters, Word Search 10K is the largest, most epic, word search ever made! The puzzle is arranged as 100 themed sections, each containing roughly 100 words - but even each section is much too large to fit on screen! Scroll with the D-Pad or Circle Pad, then touch with the stylus to highlight words. To solve the entire thing, you'll have to find words from categories as diverse as boys' names, hair styles and accountancy. You'll visit London, Las Vegas and outer space. You'll encounter spiders, vampires and fictional horses. You'll be transported from ancient Egypt, through the world of dreams and to the end of days. Share your progress with other players using StreetPass."
+}

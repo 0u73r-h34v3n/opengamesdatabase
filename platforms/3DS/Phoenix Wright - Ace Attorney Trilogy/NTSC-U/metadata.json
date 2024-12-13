@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Phoenix Wright - Ace Attorney Trilogy",
+	"publishers": ["CAPCOM"],
+	"release_date": "December 9, 2014",
+	"serial_number": "BHDE",
+	"synopsis": "Defend the innocent and save the day! Courtroom hero Phoenix Wright lays down the law this Winter in the digital release of Phoenix Wright®: Ace Attorney® Trilogy. Experience the original trilogy like never before in clear, high-resolution re-drawn graphics and immersive 3D visuals optimized for the Nintendo 3DS system. Join rookie lawyer Phoenix Wright through the early years of his career in his quest to find the truth behind all of the classic cases! Prepare for intense courtroom showdowns by investigating crime scenes, collecting evidence, and questioning witnesses. Use evidence and the testimonies of witnesses to your advantage as you battle for the innocence of your client. Nothing less of a full acquittal will do in this court of law. Find the contradictions in witnesses' testimony to expose the truth!"
+}

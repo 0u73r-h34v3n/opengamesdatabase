@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["RED Entertainment"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Fossil Fighters - Frontier",
+	"publishers": ["Nintendo"],
+	"release_date": "March 20, 2015",
+	"serial_number": "AHRE",
+	"synopsis": "Buckle up for a wild ride across a fully-3D world in your own custom vehicle! While exploring the unknown, you’ll discover fossils of dinosaurs to dig up, bring to life, and pit against other vivosaurs in massive reptile rumbles. Deck out your ride with digging and battle tools, then set out for adventure and combat of prehistoric proportions! Upgrade your vehicle to race over giant ramps or plow through rock in the search for your ultimate team. You can gather rare and hard-to-find fossils by taking on fast, puzzling challenges alone or with nearby friends in dig sessions! Team up against wild rogue vivosaurs, or battle it out in huge 3-on-3 brawls! In battle, vivosaurs can be given Support Shots that boost speed, increase defence, or make them stronger—it’s your strategy, no bones about it!"
+}

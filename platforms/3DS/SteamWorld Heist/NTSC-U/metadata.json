@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "SteamWorld Heist",
+	"publishers": ["Image & Form"],
+	"release_date": "December 10, 2015",
+	"serial_number": "JY5E",
+	"synopsis": "Prepare for boarding! SteamWorld Heist is a space adventure with turn-based tactical shootouts, where you aim in real time and perform awesome bullet-bouncing trick shots. From the makers of SteamWorld Dig: Join Captain Piper Faraday, smuggler and occasional pirate, as she recruits a rag-tag team of steam-driven robots and sets out on a daring adventure. With your hearty crew, you’ll board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your robots with unique abilities, weapons - and even stylish hats! Key features Turn-based strategy focused on skill rather than chance Free aiming lets you perform clever trick shots Master 100+ weapons Kind to newcomers, deep and challenging for veterans Randomly generated levels 15-20 hours of playtime, followed by New Game+ Steampunk tunes by legendary Steam Powered Giraffe Fearsome bosses and a playful narrative 60 fps and C Stick support on New Nintendo 3DS and New Nintendo 3DS XL"
+}

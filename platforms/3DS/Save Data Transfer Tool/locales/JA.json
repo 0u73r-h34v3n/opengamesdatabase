@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Save Data Transfer Tool",
+	"synopsis": "同じソフトのパッケージ版とダウンロード版をお持ちの方は、本ソフトを使用することでパッケージ版からダウンロード版にセーブデータを移動させ、パッケージ版の続きからダウンロード版をプレイすることができます。 ソフトの注意事項をよくお読みのうえ、ご使用ください。"
+}

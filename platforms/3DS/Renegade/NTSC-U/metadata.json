@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Renegade",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "February 27, 2014",
+	"serial_number": "TCLE",
+	"synopsis": "Battle your way through subways, parks, alleyways and parking lots. Use your arsenal of kicks, punches (including the infamous sit-on punch) and jump kicks, as well as a variety of throws to knock your opponents into submission. Along the way, pick up items like a hamburger that restores your life, a heart that increases your lives by one, a power-up to increase your attack strength, and a speed item that gives you a speed burst while on your motorcycle. You'll need all the help you can get to take out your aggression on street punks, thugs, outlaw bikers, killer kung-fu females and an array of bosses standing in your way. Take the law into your own hands! Defeat the countless villians that are loitering in the streets, and take your city back like the renegade you are!"
+}

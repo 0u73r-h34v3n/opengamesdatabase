@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Metal Gear Solid 3D - Snake Eater",
+	"synopsis": "Cuando datos guardados es creado en un nivel específico (dentro de WIG) con el botón deslizante Pro encendido, de vez en cuando el juego se cuelga después de la carga y puede corromper datos guardados. Este problema se resolvió."
+}

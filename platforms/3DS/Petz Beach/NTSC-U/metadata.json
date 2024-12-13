@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Petz Beach",
+	"publishers": ["Ubisoft"],
+	"release_date": "October 14, 2014",
+	"serial_number": "APIE",
+	"synopsis": "In Petz® Beach, players and their Petz can complete quests, meet new villagers, explore, and expand their community. Petz Beach is a beautiful ocean vista with white sands, towering palm trees, and exotic ocean-themed Petz, including dolphins, polar bears, and penguins. Along the way, you’ll interact with 28 breeds of dogs, 6 breeds of cats, and over 200 in-game collectibles! Exchange sandy beaches for lush acres of green fields and exclusive Petz, such as a panda, a lion, and a bear in Petz® Countryside – also available."
+}

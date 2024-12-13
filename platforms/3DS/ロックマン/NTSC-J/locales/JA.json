@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ロックマン",
+	"synopsis": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションゲームです。 6体のロボットと、彼らを率いるDr.ワイリーに挑むロックマン。敵を撃破しながらステージを進み、最後に待ち構えるボス(ロボット)と戦います。ボスとの一騎打ちに勝つと、そのボスの使っていた武器が手に入ります。状況に応じて武器を使い分ければ、強敵とも有利に戦えます。"
+}

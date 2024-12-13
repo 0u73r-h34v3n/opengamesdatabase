@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "LEGO Star Wars: The Force Awakens",
+	"synopsis": "O patch irá atualizar o LEGO STAR WARS: The Force Awakens para a v1.1.0 e contém várias correções de problemas no jogo. • Corrigida uma falha na personalização de personagens devido a uma fuga de memória. • Corrigida uma falha que ocorria ocasionalmente ao abrir o Mapa Galático. • Corrigido um problema que por vezes impedia os utilizadores de continuarem a jogar se tivessem pausado o jogo imediatamente após terem saído de uma missão livre. • Foram corrigidas várias falhas de memória, que embora raras podiam ser encontradas no jogo. • Passou a ser possível usar o ecrã tátil para mudar de veículos nas secções de voo. • Foi corrigido um problema que ocorria ao mudar rapidamente de personagens, levando à exibição do texto “MISSING STRING”. • Créditos atualizados."
+}

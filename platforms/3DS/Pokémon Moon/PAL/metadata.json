@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Adventure", "Fantasy", "Role-Playing", "Strategy Rpg"],
+	"locales": ["ES"],
+	"name": "Pokémon Moon",
+	"publishers": ["Nintendo", "The Pokémon Company"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 23, 2016",
+	"serial_number": "BNEP",
+	"synopsis": "Alola! Pokémon is turning 20, and Nintendo is celebrating it with Pokémon Sun and Pokémon Moon, an all-new generation of games for Nintendo 3DS. Prepare your Pokéballs, stock up on potions and update your RotomDex with the new species and forms because all of us Pokémon masters are out again in search of adventures with a common goal: to win them all. Visit the lush and exotic Alola, a new region made up of four tropical islands and one artificial island, and meet Professor Kukui to face the difficult decision of choosing your starter Pokémon: Popplio, the water-type sea lion, Litten, the cat fire-type, or Rowlet, the plant-type bird. Alola is packed with new species that expand the total number of Pokémon to more than 800 with impressive legendaries like Lunala or Solgaleo, the mysterious Ultra Beasts, and new Alola forms that will completely change multiple of the original Kanto Pokémon like Vulpix, Raichu, Meowth or Exeggutor. In Pokémon Sun and Pokémon Moon, you'll be able to interact with Pokémon in entirely new ways during your journey. Face new tests against Pokémon Totems, which replace traditional gyms and their medals, demonstrate your photographic talent with the Pokévisor and unleash the immense power of the Z crystals unleashing new and explosive special attacks known as Z Moves that will change strategies forever. in the pokémon universe."
+}

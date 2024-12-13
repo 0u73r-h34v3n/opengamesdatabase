@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "SUPER魂斗羅",
+	"synopsis": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションシューティングゲームです。 「魂斗羅」と呼ばれるゲリラ戦のスペシャリストが、パワーアップアイテムで武器を強化しながら、襲いくるエイリアンを倒して進みます。横スクロール形式の「ノーマル画面」のエリアと、上から見下ろす形式の「TOP VIEW画面」のエリアがあり、それぞれ操作方法や使えるアクションが異なります。"
+}

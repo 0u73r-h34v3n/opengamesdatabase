@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.2 NEWラブプラス",
+	"synopsis": "ニンテンドー3DSソフト『NEWラブプラス』の進行不能など、各種不具合ならびに下記記載項目の改善に必要な更新データです。 ・一部高速化による操作性の改善 ・一時的に停止した一部ToDoの再開とToDoイベントの改善 ・スケジュール入力画面及びアルバムの操作性の改善 ・「いつの間に通信」を受信した際のデータ反映方法の改善 ほか 『NEWラブプラス』をお持ちのお客様は、必ずダウンロードしてください。"
+}

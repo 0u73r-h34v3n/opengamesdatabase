@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Jake Hunter Detective Story: Ghost of the Dusk",
+	"publishers": ["Aksys Games"],
+	"release_date": "September 28, 2018",
+	"serial_number": "BG9E",
+	"synopsis": "A shaky lead about a stiff in a haunted house puts Jake Hunter on a perilous path of clues and dark secrets. When the owner of the home comes clean that the place is cursed and the body count starts rising, Jake realizes he’s facing a threat unlike any other. Experience a new chapter in the Jake Hunter saga, along with five additional hard-boiled tales of detectives, deductions, danger, death and of course, dames. Use all your skills: search crime scenes, interview suspects and uncover the truth."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fortified Zone",
+	"publishers": ["City Connection"],
+	"release_date": "July 7, 2011",
+	"serial_number": "RAQP",
+	"synopsis": "Two special operatives on a seemingly impossible mission: To destroy a gigantic enemy fortress from within and stop the development of a secret weapon. Masato Kanzaki and Mizuki Makimura are forming a team that complements each other perfectly: Masato is a true one-man army who once destroyed a whole tank battalion single-handed! Add the certified genius Mizuki whose agile moves have earned her the nickname \"The Leopard\" and there's finally hope to take down the fortress. This version of the game does not have multiplayer functionality."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Jett Rocket II: The Wrath of Taikai",
+	"publishers": ["Shin’en Multimedia"],
+	"release_date": "November 13, 2013",
+	"serial_number": "JRSE",
+	"synopsis": "Jett Rocket returns! Your favorite planetary inspector is back and in trouble. His archrival Kaiser Taikai has to settle an old score with him. Explore the home planet of the Power Plant Posse and ignite your trusty old jet pack in this epic full-3D action-adventure! Run, Jump, Dash, Fly and Dive through beautiful 3D environments and fight the high-tech pirates on their own turf. Find secret passages, play minigames and unlock new game modes. Jett Rocket II runs in full stereoscopic 3D at a super-smooth 60 frames per second."
+}

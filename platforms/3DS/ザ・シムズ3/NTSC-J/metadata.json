@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Sims"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["JA"],
+	"name": "ザ・シムズ3",
+	"publishers": ["Electronic Arts Japan"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "April 1, 2011",
+	"serial_number": "AS3J",
+	"synopsis": "For the first time ever, enjoy a complete life simulation experience in 3D on handheld with The Sims 3 for Nintendo 3DS. From the creators of the world's most popular life simulator franchise, The Sims 3 is now maximised for a fully 3D world."
+}

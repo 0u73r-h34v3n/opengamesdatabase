@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Classic Card Games",
+	"publishers": ["GameOn"],
+	"release_date": "January 8, 2015",
+	"serial_number": "JCGP",
+	"synopsis": "\"Classic Card Games\" is a huge collection of the finest card classics and casino games - right in your pocket! Classic card games include: Hearts, Spades, Euchre, Bridge, Gin Rummy, Canasta, Cribbage, Crazy Eights, Go Fish, Romme, and Skat. The casino card games selection has: BlackJack, Texas Hold'em, Double Flop Hold'em, Omaha, 5-Card Draw, 7 Card Stud, Pineapple, Crazy Pineapple, and 5 unique versions of Video Poker. Immerse yourself in the game with unique 3D environments and characters. Change many of the game's rules to your liking. An incredible complete card game collection for endless fun!"
+}

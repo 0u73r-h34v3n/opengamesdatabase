@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dragon Ball Z - Extreme Butoden",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "April 7, 2016",
+	"serial_number": "BDVP",
+	"synopsis": "This update brings new content to the game: -More than 10 new Z-Assists characters including Goku (Farmer), Mira, Towa, Broly SS4… -Training Mode -Extreme Survival mode -Online Battle Mode to fight friends around the world"
+}

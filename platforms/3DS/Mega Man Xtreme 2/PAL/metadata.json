@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man Xtreme 2",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 11, 2014",
+	"serial_number": "QA2P",
+	"synopsis": "In MEGA MAN Xtreme 2, return to the worlds previously seen in the Mega Man™ X series, and play as either X or Zero, facing a new danger that threatens all Reploids. Reploids are being turned into lifeless shells as if their souls have been erased, so X and Zero must hunt down the culprits. Switch between X or Zero as you battle enemies and defeat deadly bosses. Gather power-up parts to increase your abilities, equip special weapons unique to X or Zero, and solve the mystery to restore the Reploids' missing souls!"
+}

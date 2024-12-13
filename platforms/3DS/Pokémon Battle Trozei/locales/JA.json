@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pokémon Battle Trozei",
+	"synopsis": "パズル形式で野生のポケモンを捕まえるアクションパズルゲームです。同じポケモンを3匹以上ならべて消すことで攻撃ができ、野生のポケモンのHPをゼロにすると捕まえることができます。さまざまなステージをクリアしながら、すべてのポケモンを捕まえることを目指します。"
+}

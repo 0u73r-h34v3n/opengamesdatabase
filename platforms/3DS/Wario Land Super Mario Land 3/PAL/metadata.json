@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Wario Land: Super Mario Land 3",
+	"publishers": ["Nintendo"],
+	"release_date": "February 16, 2012",
+	"serial_number": "RBAP",
+	"synopsis": "Witness Wario’s world-famous debut as a playable character, in the first game to bear the Wario Land name. In Wario Land: Super Mario Land 3, the greedy treasure seeker is on a quest to Kitchen Island where he plans to steal the pirates’ booty, to help him build a castle bigger than Mario’s. Unlike Mario, Wario has some tough moves at his disposal, like the body slam, and he can don different magic hats to turn him into Jet Wario, Bull Wario and even Dragon Wario!"
+}

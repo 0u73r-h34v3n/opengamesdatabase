@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Torus Games"],
+	"genres": ["Action", "Educational", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Thomas & Friends: Steaming around Sodor",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 2, 2015",
+	"serial_number": "BTBP",
+	"synopsis": "Get ready to roll with Thomas and Friends as they steam around Sodor, preparing the island for some very important visitors! The Duke and Duchess of Boxford are paying a visit and the Fat Controller wants the yard to look its best."
+}

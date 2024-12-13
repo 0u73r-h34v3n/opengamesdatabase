@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "PixelMaker",
+	"synopsis": "PixelMaker is a drawing program designed specifically for making pixel art! Using easy to use tools on your Nintendo 3DS™, you can design images as simple or as complex as you like. Experiment, and create characters and scenes based on your favorite classic video games, or draw something straight out of your own imagination! Zoom in on the touch screen while seeing your whole scene on the upper screen. Support for multi-layer drawing, and 3D layered images. Cut/Copy/Paste selections with flip and rotate options. Fill by selection, flood-fill or replace all of a color. Draw and erase with multiple brush sizes. Pixel-perfect line and stroke drawing modes. Export PNG images to SD Card. Undo/Redo and image auto-save and restore. Palette-based color management with a number of classic samples. Choose colors visually, by exact RGB, or pick from the image. Optional grid overlay."
+}

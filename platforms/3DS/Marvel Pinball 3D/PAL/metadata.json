@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Marvel Pinball 3D",
+	"publishers": ["Zen Studios"],
+	"release_date": "June 28, 2012",
+	"serial_number": "JMVP",
+	"synopsis": "The critically acclaimed Marvel Pinball series from Zen Studios, the definitive leader in videogame pinball, is now available for Nintendo 3DS™! Marvel Pinball 3D is the ultimate Super Hero pinball experience, featuring original tables based on characters from the Marvel Universe."
+}

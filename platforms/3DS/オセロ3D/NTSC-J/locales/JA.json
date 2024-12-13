@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "オセロ3D",
+	"synopsis": "コンピュータの強さは12段階。初心者から上級者まで好きな強さのコンピュータと対戦できます。 本ソフトを購入済みのニンテンドー3DSが1台あれば、順番に交代しながら打っていくことで2人対戦が楽しめます。 対局終了後にリプレイデータが保存できます。対局を見直したり、途中から始めることが可能です。"
+}

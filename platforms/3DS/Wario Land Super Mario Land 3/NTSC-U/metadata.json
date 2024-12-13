@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Wario Land:  Super Mario Land 3",
+	"publishers": ["Nintendo"],
+	"release_date": "July 26, 2012",
+	"serial_number": "RBAE",
+	"synopsis": "Original Release Date: February 1994. Things are really cookin' on Kitchen Island! Wario has heard that the pirates have a giant golden statue of Princess Toadstool. After being kicked out of the last castle by his rival, Mario, he's scheming to steal the statue in order to buy his very own! Help Wario collect treasure by smashing into objects and foes! Power-ups like the Bull Hat, Jet Hat, and Dragon Hat will grant Wario new powers which he can use to his advantage. Find special keys to unlock special treasure chests which are hidden in various levels. The more treasure collected, the bigger the castle at the end of the game! Wario's greed knows no bounds! Help him reach the ultimate prize!"
+}

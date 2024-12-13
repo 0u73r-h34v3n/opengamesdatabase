@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Balloon Kid",
+	"publishers": ["Nintendo"],
+	"release_date": "January 26, 2012",
+	"serial_number": "RBEP",
+	"synopsis": "Take to the skies on a trip through a land filled with danger, with nothing but balloons to keep you afloat! When her brother is swept away on the wind, Alice must save him by floating through eight perilous stages. Navigate your way through enemies and obstacles, collect balloons to earn bonuses, or let go of your balloons to face enemies on the ground. Also, in Balloon Trip mode, negotiate increasingly tricky levels to earn a high score and move up the ranks. Will you rise to the challenge?"
+}

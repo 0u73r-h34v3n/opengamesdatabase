@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "First-Person Shooter", "Shooter", "Strategy"],
+	"locales": ["ES"],
+	"name": "Steel Diver",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 6, 2011",
+	"serial_number": "ASDP",
+	"synopsis": "Steel Diver is a fast-paced underwater battle game from Nintendo, immersing players in 3D gameplay with unique gameplay and lush 3D landscapes. The player can choose between three different submarines, whose control panel appears on the touch screen. Players will have to master it to pilot the submarines through dangerous caves while attacking enemies, dodging depth charges and fighting gigantic sea monsters. Steel Diver also takes advantage of the Nintendo 3DS system's gyro sensor. The combination of 3D gameplay and unique controls make this game so realistic that it has to be seen to be believed."
+}

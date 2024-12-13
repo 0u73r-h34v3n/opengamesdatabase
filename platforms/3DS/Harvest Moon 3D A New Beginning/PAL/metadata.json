@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous AQL"],
+	"genres": ["Management Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Harvest Moon 3D: A New Beginning",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 19, 2013",
+	"serial_number": "ABQP",
+	"synopsis": "Welcome to your idylic new life on the farm! Create and customise your character, tend your land and look after your animals! Grow fruit, flowers and vegetables to sell at the market - and use the proceeds to improve your home and the town you live in! Meet and greet the local townsfolk, make new friends and who knows, you may find love and start a family!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward Technologies"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Happy Feet 2",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 11, 2011",
+	"serial_number": "AHFP",
+	"synopsis": "New dangers threaten the penguin nation, so our favorite penguins, Mumble and Ramon, will have to work and dance together to save themselves from extinction."
+}

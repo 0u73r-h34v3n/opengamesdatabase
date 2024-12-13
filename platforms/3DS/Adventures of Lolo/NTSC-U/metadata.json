@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Adventures of Lolo",
+	"publishers": ["HAL Laboratory", "Inc."],
+	"release_date": "January 8, 2015",
+	"serial_number": "TD3E",
+	"synopsis": "After the love of his life, Lala, is kidnapped by the devilish King Egger and taken to his haunted castle, our hero Lolo sets out to rescue her. The journey is perilous, as the Great Devil’s fortress is guarded by a massive army. But Lolo has a few tricks up his sleeve! He can move blocks to trap enemies, clear a path, or use as a shield. He can also activate the Magic Shot that will turn enemies into eggs. But watch out as a single touch from these creatures could spell trouble for our hero! Combining clever environmental puzzles with tricky enemies and an engaging style, Adventures of Lolo is a true classic!"
+}

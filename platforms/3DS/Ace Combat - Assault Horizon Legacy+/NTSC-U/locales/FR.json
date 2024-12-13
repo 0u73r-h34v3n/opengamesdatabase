@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ace Combat - Assault Horizon Legacy+",
+	"synopsis": "Ajout du support amiibo. L'utilisation de l'amiibo approprié débloquera le vaisseau de cet amiibo et un équipement supplémentaire (un objet du cockpit)."
+}

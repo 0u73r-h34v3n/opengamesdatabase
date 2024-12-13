@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Stack 'em High",
+	"publishers": ["STARSIGN"],
+	"release_date": "July 6, 2017",
+	"serial_number": "CBYE",
+	"synopsis": "Stack toy cars, trains and stuffed toys, on top of each other, balancing as many as you can within the time limit! Chose the position to drop each toy and pile them up high, trying not to let them topple over the edge. Pile up enough toys within the time limit to clear each stage! Challenge yourself across dozens of stages with various shaped platforms, or go head-to-head with a friend over Wireless Communications! Each mission has different criteria, such as a limited amount of time or number of objects. Three game modes available: Mission Mode 40 different missions where players are tasked with objectives such as stacking 10 cars or dropping 5 trains. Free Play Mode Choose a platform shape and toy and see how many objects you can stack up on top of each other within the time limit. VS. Mode Go head-to-head with a friend or against the computer."
+}

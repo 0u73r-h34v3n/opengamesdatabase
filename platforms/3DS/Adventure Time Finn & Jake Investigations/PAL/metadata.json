@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicious Cycle"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Adventure Time: Finn & Jake Investigations",
+	"publishers": ["Little Orbit"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 6, 2015",
+	"serial_number": "BFNP",
+	"synopsis": "Finn and Jake decide to carry on the profession of Finn's foster parents, who were Professional Investigators. Confronted with mysterious Land of Ooo disappearances and strange events, players will interrogate colorful inhabitants, dispatch evil doers in fast-paced combat, solve mind-bending puzzles, explore new and familiar locations, and genuinely feel as if they have stepped into their own personal episode of Adventure Time."
+}

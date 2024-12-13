@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "GLORY OF GENERALS: THE PACIFIC",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "May 28, 2015",
+	"serial_number": "KGPE",
+	"synopsis": "Commander! Over 64 campaigns in 4 battlefields are waiting for your challenge. 105 world famous generals will participate in this war with you. Over 300 real and rich terrains will influence your strategies. Accumulation of Medals achieved through battles guides your way from soldier to marshal. Upgrade of military facilities in the headquarters will offer essential supply in the war. Recruit other officers to strengthen force. It's important to take advantage of each officer's expertise. You can even instruct any officer and his troop in battlefield to battle freely. Earn extra bonus as a veteran commander from the prequel!"
+}

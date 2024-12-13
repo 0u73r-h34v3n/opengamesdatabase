@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Storm City Games"],
+	"genres": ["Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Chevrolet Camaro Wild Ride 3D",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2013",
+	"serial_number": "ACWP",
+	"synopsis": "Race in full 3D with famous Chevrolet Camaro cars. Test your mettle against other drivers through treacherous tracks across three continents. Choose one of the 10 Camaro Vehicles to drive, in models ranging from 1971 to modern day. Take in the sights as you cruise through the famous landmarks in Asia, Europe and the United States. Challenge yourself with three distinct modes, Challenge, Time Attack and Two player battles. • Play with the most famous Chevrolet Camaro cars • 10 cars available from Yenko 1967 to Synergy 2010 • Compete in the USA, Europe & Asia • 8 tracks around the world • 4 types of competitions / challenges • Win Chevy points to unlock new circuits, cars and paintings"
+}

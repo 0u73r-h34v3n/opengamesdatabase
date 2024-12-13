@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "JACK AND JANE",
+	"publishers": ["Denvzla Estudio"],
+	"release_date": "June 25, 2020",
+	"serial_number": "L74E",
+	"synopsis": "JACK AND JANE JUNGLE ESCAPE is a platform game in which we will have to flee from the police through a dangerous jungle. An endless corridor with a colorful visual style where the game will end when we collide and the law enforcement officer catches us."
+}

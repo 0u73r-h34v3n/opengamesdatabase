@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "FIFTEEN",
+	"synopsis": "In FIFTEEN müssen Sie die Blöcke der Reihe nach neu anordnen, um die Zahlen von 1 bis 15 anzuzeigen. Mit Hilfe des Touchscreens können Sie die Position eines jeden Blocks verändern, um das Ziel zu erreichen. Die anfängliche Reihenfolge der Blöcke ist zufällig, was zu der endlosen Herausforderung beiträgt!"
+}

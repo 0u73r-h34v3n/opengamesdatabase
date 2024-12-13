@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ドンキーコング3",
+	"synopsis": "このソフトは、1984年に発売されたファミリーコンピュータ用のシューティングゲームです。 主人公スタンリーを操作して、フラワーガーデンで暴れるドンキーコングやハチなどの敵を撃退します。スプレーを発射してドンキーコングを上まで押し上げるか、すべてのハチを倒すとクリアとなり次のラウンドへ。アイテム「パワースプレー」を取ると、一定時間強力な攻撃ができます。"
+}

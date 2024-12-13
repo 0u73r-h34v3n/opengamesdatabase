@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pyramids",
+	"synopsis": "Pyramids es un juego de plataforma/rompecabezas en la que un explorador trata de salir de las pirámides con su botín. La misión no será fácil. Muchas trampas, monstruos y peligros pondrán a prueba tu destreza e ingenio. El jugador tendrá que usar dinamita y un arma, pero su mejor amiga será su pala que le permite crear y destruir ladrillos. Estos ladrillos se utilizarán como escaleras, puentes, barreras... El explorador se aventurará en 54 complicados niveles 3D repartidos en 6 escenarios. Al final de cada nivel, el jugador recibirá una calificación en estrellas que se servirá para desbloquear niveles: 1 estrella por completar el nivel 2 estrellas por completar el nivel y llevarse todos los botines 3 estrellas por completar el nivel y llevarse todos los botines en un tiempo determinado El juego permite al jugador usar QR Code para desbloquear nuevos niveles gratuitos de la página web de Pyramids."
+}

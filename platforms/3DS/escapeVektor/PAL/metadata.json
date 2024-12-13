@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "escapeVektor",
+	"publishers": ["Nnooo"],
+	"release_date": "December 20, 2012",
+	"serial_number": "JEVP",
+	"synopsis": "Vektor has been trapped inside the CPU for what feels like an eternity and you are his only hope of escape. As he travels through the CPU, help him recover his memories and destroy the different enemy types sent to hunt him. But be careful, the further Vektor gets, the more devious the CPU becomes! There is a whole world to uncover within your CPU! Hiding away are 150 levels (nodes), 27 worlds (zones) and four unique abilities to unlock and upgrade. With Vektor providing you with: Detonate to destroy enemies, Boost and Super Boost to outrun them and Boostenate to smash your way through, you are sure to be able to help him escape! Online leaderboards allow you to compete against your friends, those in your location and those closest to you in score. Use wildcards to double your score in each level and boost your standing in the leaderboards!"
+}

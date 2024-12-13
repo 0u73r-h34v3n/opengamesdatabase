@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario Land 2: 6 Golden Coins",
+	"publishers": ["Nintendo"],
+	"release_date": "September 29, 2011",
+	"serial_number": "RAGP",
+	"synopsis": "In his greatest Game Boy™ adventure, Mario faces off against his evil rival Wario, who has captured Mario Land and turned it into his private playground. To force Wario off his ill-gotten throne, Mario must search all-new worlds for the six golden coins that unlock the gate to Mario's castle. A mob of monsters, old and new, seek to stop him. Along the way, through 6 zones, Mario can nab Power Mushrooms, Super Stars and Fire Flowers for extra power. And if he eats the Magic Carrot, he'll turn into a high-flying bunny."
+}

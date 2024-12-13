@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Of Mice And Sand",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "June 1, 2017",
+	"serial_number": "KSZE",
+	"synopsis": "In Of Mice And Sand, the mice drive a Desert Ship as their mobile fortress to travel around the planet. By ordering the mice crew living in the Desert ship, you can build facilities on the ship and make food for breeding the mice with various items. With the development of the ship, more mice will join in and they can accomplish more jobs. Don't let them starve and make them rich. Your final goal is to reach the other side of the desert and find the legendary land of gold to the east, El Dorado!"
+}

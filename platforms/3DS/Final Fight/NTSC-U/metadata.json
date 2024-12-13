@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Final Fight",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 8, 2016",
+	"serial_number": "UAYE",
+	"synopsis": "Jessica, daughter of Metro City mayor and former wrestler Mike Haggar, has been kidnapped. Haggar teams up with Jessica’s boyfriend Cody Travers, one of the toughest guys in town, to get her back! In this Super NES™ version of the acclaimed arcade classic, take to the streets as either Haggar or Cody and fight your way deep into the territory of the Mad Gear Gang, and bring back Jessica. This is the US version of the game."
+}

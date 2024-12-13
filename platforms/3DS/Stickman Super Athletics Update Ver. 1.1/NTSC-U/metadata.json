@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Stickman Super Athletics Update Ver. 1.1",
+	"publishers": ["CoderChild"],
+	"release_date": "October 13, 2016",
+	"serial_number": "KABE"
+}

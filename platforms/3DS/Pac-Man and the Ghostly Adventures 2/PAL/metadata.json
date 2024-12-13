@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Pac-Man and the Ghostly Adventures 2",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 3, 2014",
+	"serial_number": "BPMP",
+	"synopsis": "The gang is back! Following the colorful characters and world of the PAC-MAN and the Ghostly Adventures animated series, PAC-MAN and the Ghostly Adventures 2 will feature PAC-MAN, Spiral and Cylindria in an all-new storyline as they defend PacWorld from the ghoulish army of Lord Betrayus."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "IRONFALL Invasion",
+	"publishers": ["VD-DEV"],
+	"release_date": "February 26, 2015",
+	"serial_number": "KFLE",
+	"synopsis": "IronFall: Invasion is a thrilling third-person shooter. Equipped with an arsenal of destructive weapons, take cover and repel an invasion of Alien Robots. IronFall: Invasion is divided into two separate modes, which can be tried for free and purchased separately! The \"Campaign\" mode is a single-player adventure, which will have you travel from various locations over 11 levels. The \"Multiplayer\" mode allows up to 6 players to join locally or online for competitive battles in 6 different arenas."
+}

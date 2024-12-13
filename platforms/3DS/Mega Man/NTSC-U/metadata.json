@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man",
+	"publishers": ["CAPCOM"],
+	"release_date": "December 27, 2012",
+	"serial_number": "TAWE",
+	"synopsis": "Original Release Date: December 1987 Join the blue bomber in his first ever adventure as he battles the evil Dr. Wily and his robotic henchmen to restore peace to a troubled world. Mega Man is a super robot created by the genius scientist, Dr. Light. When another scientist by the name of Dr. Wily goes rogue with an army of six of his own devious Robot Masters, it's up to Mega Man to put a stop to his nefarious plot by traversing a series of stages rife with enemies, traps, and perilous platform challenges. At the end of each stage, conquer one of the Robot Masters and claim their weapon as your own, using it to your advantage in subsequent fights!"
+}

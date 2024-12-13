@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Maze Breaker 3",
+	"publishers": ["nuGAME"],
+	"release_date": "September 3, 2020",
+	"serial_number": "K9ME",
+	"synopsis": "The goal of Maze Breaker 3 is to hit and break all the blocks to clear a level, while avoiding obstacles, and getting the highest score possible."
+}

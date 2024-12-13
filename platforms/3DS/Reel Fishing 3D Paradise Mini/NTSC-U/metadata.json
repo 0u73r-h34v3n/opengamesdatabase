@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Reel Fishing 3D Paradise Mini",
+	"publishers": ["Natsume Inc."],
+	"release_date": "January 10, 2013",
+	"serial_number": "JRFE",
+	"synopsis": "Reel Fishing® 3D Paradise Mini offers a fun and challenging experience for novice fishers and master anglers alike. Put your skills to the test as you must complete over 20 missions in a variety of different fishing locals. Each fish looks and moves so much like the real thing, it's the closest you can get to real-life fishing without putting on your waders! Choose from a variety of lures to attract and hook the game's numerous wily fish. Do you have what it takes to become the next great Fishing Master!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Happy Circus",
+	"publishers": ["Moving Player"],
+	"release_date": "September 26, 2013",
+	"serial_number": "JH8P",
+	"synopsis": "Happy Circus's roaming marquee has finally arrived! Unfortunately, though, the circus animals have lost all of their accessories :( So come and help Pierre and Julie find their friends' favourite objects! In Happy Circus, have fun while learning and exploring its funny world via 4 educational games. Young or old, practise in your native language or take advantage of this adventure to learn new ones!"
+}

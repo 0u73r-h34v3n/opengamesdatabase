@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "Pro Evolution Soccer 2013 3D",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 29, 2012",
+	"serial_number": "AWTI",
+	"synopsis": "The main goal in the development of PES 2013 has been to make the essence of football a reality, getting the players to connect with the ball: refining the controls, adding greater freedom of movement and incorporating a more complex AI. These changes mean going back to the roots of football by reinforcing the PES feeling."
+}

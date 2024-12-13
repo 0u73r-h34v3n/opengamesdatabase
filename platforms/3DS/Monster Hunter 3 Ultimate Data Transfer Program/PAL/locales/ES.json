@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Monster Hunter 3 Ultimate Data Transfer Program",
+	"synopsis": "Este programa te permite vincular las versiones de Nintendo 3DS y Wii U de “Monster Hunter™ 3 Ultimate” y transferir tus datos guardados de una a otra consola."
+}

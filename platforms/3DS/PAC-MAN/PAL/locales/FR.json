@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "PAC-MAN",
+	"synopsis": "Devinez qui a encore une faim de loup ? Pac-Man, bien sûr, le personnage le plus affamé de l'histoire du jeu vidéo ! Foncez à travers des labyrinthes de folie comme au bon vieux temps pour avaler les pac-gommes et dévorer les fantômes ! Récupérez également les fruits pour obtenir un score de folie, et utilisez les tunnels de téléportation pour échapper aux ectoplasmes ! Préparez-vous à des heures de fun ! Cette version du jeu ne comporte pas de mode multijoueur."
+}

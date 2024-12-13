@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "VectorRacing",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "August 23, 2012",
+	"serial_number": "JBVE",
+	"synopsis": "A brand new, high-speed racing game that brings to mind the retro video games of yore! Use one of the 6 different machines to race across 12 courses, some easy and some insane, in 4 different modes: GRAND PRIX, SINGLE RACE, TIME TRIAL, and VS BATTLE! You can play against a friend using the multiplayer VS BATTLE mode or see where you stand in the world by viewing the online ranking in the RECORDS mode. Use your wireless connection for multiplayer races and online rankings. Get ready for some brutal competition! And Compete in the online ranking for best time in every mode and every race. Enjoy high-speed racing with vector-style graphics reminiscent of the early days of gaming."
+}

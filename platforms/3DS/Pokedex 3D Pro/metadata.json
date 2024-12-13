@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pokedex 3D Pro",
+	"publishers": ["The Pokémon Company"],
+	"release_date": "January 19, 2016",
+	"serial_number": "AQ9A",
+	"synopsis": "Become the Pokémon master! Find out everything you want to know about your favourite Pokémon and see them in 3D with the new Pokédex 3D Pro!"
+}

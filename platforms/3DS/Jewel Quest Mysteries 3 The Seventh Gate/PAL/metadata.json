@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Jewel Quest Mysteries 3: The Seventh Gate",
+	"publishers": ["Engine Software", "MSL"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 27, 2014",
+	"serial_number": "AJQP",
+	"synopsis": "Join Rupert and Emma in Jewel Quest Mysteries as they traverse the ruins of ancient Egypt! Mystery reigns and only a keen eye can help you. Discover hidden objects and secret gems while playing classic Jewel Quest as between level mini-games! Jewel Quest Mysteries Curse of the Emerald Tear"
+}

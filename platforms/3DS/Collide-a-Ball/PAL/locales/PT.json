@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Collide-a-Ball",
+	"synopsis": "Estabelece uma trajetória de modo a que duas bolas terminem no mesmo sítio e ao mesmo tempo, neste jogo puzzle excecional. Uma bola vermelha e uma bola azul irão partir de diferentes locais. Posiciona e faz girar objetos, tais como declives e painéis de aceleração, preparando o trajeto de forma a que as bolas se desloquem e se encontrem na meta exatamente ao mesmo tempo. Quando o cenário estiver pronto, pressiona Start para que as bolas comecem a rolar. Serás capaz de fazer as duas bolas colidir na meta ao mesmo tempo? Collide-a-Ball inclui três modos de jogo: Jogo Livre, Espera e Avança! e Bola Única. Free Play (Jogo Livre) Posiciona objetos de forma a que as duas bolas alcancem a meta exatamente ao mesmo tempo. Wait and Go! (Espera e Avança!) Calcula o tempo de atraso necessário entre duas bolas, de forma a que elas alcancem a meta exatamente ao mesmo tempo. Single Ball (Bola Única) Posiciona objetos no cenário, de forma a que uma bola pare extamente na meta."
+}

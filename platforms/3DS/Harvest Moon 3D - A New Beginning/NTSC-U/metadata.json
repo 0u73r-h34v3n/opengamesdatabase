@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Harvest Moon 3D - A New Beginning",
+	"publishers": ["Natsume Inc."],
+	"release_date": "December 6, 2012",
+	"serial_number": "ABQE",
+	"synopsis": "Once a thriving town, Echo Village is almost empty after the inhabitants lost everything in a poor economy. Your parents recently offered you a chance to renovate the abandoned family farm, but reviving a successful ranch requires rebuilding the town. Can you find the materials and blueprints that allow you to create the best community in the land? Find blueprints, build structures and design your farm and town! Choose to farm as a boy or a girl--and customize your appearance! Improve your farm's reputation and earn extra produce money! Woo and win the heart of your favorite bachelor or bachelorette! Share crops and interact with others in multiplayer mode!"
+}

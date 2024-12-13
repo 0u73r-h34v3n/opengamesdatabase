@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Shadow of the Ninja",
+	"publishers": ["Natsume Inc."],
+	"release_date": "December 4, 2014",
+	"serial_number": "TD5P",
+	"synopsis": "Mad emperor Garuda holds the city in his grasp. Only two brave warriors dare to stand against him. Playing solo or co-op with a friend, you'll slice, bomb and shuriken your way through Garuda's army of vicious soldiers, agile ninja and monstrous robots. Use your skills to hang from moving platforms, leap over lethal pitfalls and dodge diabolical traps. Collect deadly power-ups to give yourself an edge – if you can hold on to them. It'll take all of your platforming prowess to navigate the game's 13 intense levels and bring justice to Garuda!"
+}

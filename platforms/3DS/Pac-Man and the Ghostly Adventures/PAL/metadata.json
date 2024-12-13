@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Pac-Man and the Ghostly Adventures",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 5, 2014",
+	"serial_number": "AEJP",
+	"synopsis": "Pac is back for a whole new generation of fans. Journey through an original story inspired by the highly anticipated PAC-MAN and the Ghostly Adventures animated series. Help Pac and his friends defeat Betrayus while fighting for: Friendship, Freedom and the Future!"
+}

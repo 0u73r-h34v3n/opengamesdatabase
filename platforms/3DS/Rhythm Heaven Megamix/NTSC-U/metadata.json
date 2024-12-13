@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rhythm Heaven Megamix",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 15, 2016",
+	"serial_number": "BPJE",
+	"synopsis": "Rhythmic gaming bliss, goats eating turnips, and the funkiest tunes you’ve ever bashed a button to? This must be the Rhythm Heaven™ Megamix. With 70+ rhythm games, including new ones, remixed fan-favorites, and US debuts, this fresh mix has it all. Try to reach Heaven World as you stab viruses, feed a bear, and more! Just don’t miss a beat. As you dig into each hilariously random activity, you’ll get pulled into the world of Rhythm Heaven by the riveting soundtrack, created with help from legendary music producer, Tsunku♂. Hang out in a café to check out new rhythm games and chat with a drink-serving dog. Or feed your pet goat using a turnip-powered game machine! You can even visit a museum to enjoy the game’s music and artwork. In the party mood? Then team up with three other players to take down challenges. Every time you encounter a player via the StreetPass™ feature, you’ll do battle with their punching robot. It’s time to kick back! Heaven World is just a few head bops away."
+}

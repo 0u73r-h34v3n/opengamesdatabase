@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Vampire Master of Darkness",
+	"publishers": ["SEGA"],
+	"release_date": "July 4, 2013",
+	"serial_number": "GAQE",
+	"synopsis": "The shadow of Dracula has spread across Victorian England, cursing the land and its people. In your quest to stop this evil from spreading, make your way through strange and forbidding streets and collect different weapons to aid you against his army of monsters. Find Dracula, the Master of Darkness, and rescue England from his terrifying grasp!"
+}

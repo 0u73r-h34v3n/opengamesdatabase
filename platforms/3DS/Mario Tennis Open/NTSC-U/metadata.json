@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Camelot Software Planning"],
+	"genres": ["Sports"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario Tennis Open",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 20, 2012",
+	"serial_number": "AGAE",
+	"synopsis": "Mario Serves Up Portable Tennis Fun in 3D! In Mario Tennis Open, Mario and his Mushroom Kingdom friends return to the court for a flurry of intense tennis action, from engaging singles and doubles matches to skill-building minigames and online play. Using the built-in wireless features of the Nintendo 3DS system, up to four people can play together in local or online multiplayer modes and exchange player information via StreetPass. Players can choose between intuitive touch-screen and gyro sensor controls or strategic button-based game play that delivers an even deeper experience. Players can also choose from a variety of playable characters or use their own personalized Mii character as they serve, volley and smash their way up the leaderboards."
+}

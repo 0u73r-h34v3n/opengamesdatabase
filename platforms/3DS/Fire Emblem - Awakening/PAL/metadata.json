@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Role-Playing", "Strategy", "Strategy Rpg"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fire Emblem - Awakening",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "April 19, 2013",
+	"serial_number": "AFEP",
+	"synopsis": "Turn-based combat comes alive like never before on Nintendo 3DS! Fire Emblem: Awakening continues the traditions of the classic series while enhancing the experience with 3D visuals and making the strategic gameplay more accessible for newcomers. Players lead forces across maps, fighting enemies and achieving goals across a fantasy world rich with character."
+}

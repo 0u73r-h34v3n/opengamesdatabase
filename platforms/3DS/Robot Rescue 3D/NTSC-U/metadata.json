@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Robot Rescue 3D",
+	"publishers": ["Teyon"],
+	"release_date": "July 18, 2013",
+	"serial_number": "JRQE",
+	"synopsis": "Guide trapped robots through treacherous passages, staying clear of paralyzing electrical circuits and sliding past sleeping mines! Interact with tiles to open doors and repaint your dopey robots different colors in order for them to escape through the right exit. Be warned! Each and every robot shares linked controls generating totally synchronized movements for an even wackier escape plan! This latest edition to the Robot Rescue franchise brings together a MEGA pack containing levels from previous releases and additional, never before seen stages! Over 120 perplexing and brain-bending levels to complete Up to 30 robots trapped in one level at a time Multitudes of obstacles, hindering an easy escape A uniquely challenging puzzle for everyone!"
+}

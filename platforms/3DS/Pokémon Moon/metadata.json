@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Fantasy", "Role-Playing", "Strategy Rpg"],
+	"name": "Pokémon Moon",
+	"publishers": ["The Pokémon Company"],
+	"regions": ["PAL"],
+	"release_date": "May 16, 2017",
+	"serial_number": "BNEA"
+}

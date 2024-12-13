@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Toybox Inc."],
+	"genres": ["Adventure", "Simulation"],
+	"locales": ["DE"],
+	"name": "Hometown Story",
+	"publishers": ["Rising Star Games"],
+	"release_date": "May 1, 2014",
+	"serial_number": "AHXP"
+}

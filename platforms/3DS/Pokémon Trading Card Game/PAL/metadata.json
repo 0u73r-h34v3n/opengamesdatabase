@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pokémon Trading Card Game",
+	"publishers": ["Nintendo"],
+	"release_date": "July 10, 2014",
+	"serial_number": "QBBP",
+	"synopsis": "Based on the incredibly popular Pokémon™ Trading Card Game, this Game Boy™ Color version was a hit with gamers and card collectors alike. Explore the game world to find opponents and gather info. Learn how to build and manage decks, win battles to receive booster packs, then take on the eight Club Masters. Your goal: to impress the Grand Masters enough to inherit their Legendary Pokémon Cards! Includes more than 200 Pokémon Trading Cards based on the original decks, plus new cards exclusive to this game."
+}

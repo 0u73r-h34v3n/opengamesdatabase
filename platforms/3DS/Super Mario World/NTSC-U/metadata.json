@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario World",
+	"publishers": ["Nintendo"],
+	"release_date": "March 4, 2016",
+	"serial_number": "UAAE",
+	"synopsis": "Mario and Luigi’s first Super NES escapade took them into a new land with new characters, new abilities and much more, becoming an all-time best-seller. In Super Mario World, the Mario brothers come to Dinosaur Land, meet their new lovable companion Yoshi and do battle with Bowser and his minions across dozens of fiendishly designed levels packed with secrets. As well as riding Yoshi and slurping up enemies, you can also take to the skies with the aid of the new Cape Feather and soar into a world of adventure! This is the US version of the game."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "SHOOT THE BALL",
+	"synopsis": "Dans SHOOT THE BALL, votre objectif est simple: utilisez l'écran tactile pour \"lancer\" le ballon dans l'espace ouvert pour marquer un point. Chaque forme se voit aléatoirement attribuer une vitesse et une couleur afin d'augmenter la difficulté. Défiez votre famille et vos amis à battre votre score. Combien de fois pouvez-vous SHOOT THE BALL?"
+}

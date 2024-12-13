@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dan McFox: Head Hunter",
+	"publishers": ["Lightwood Games"],
+	"release_date": "April 21, 2016",
+	"serial_number": "KFYP",
+	"synopsis": "Help Agent Dan McFox catch the suspects by spotting the right faces in a crowd in this fast-action puzzle game. Be quick and accurate to rack up high scoring point combos! Compete in online leaderboards and challenge other players via StreetPass™. In Round Up mode, its just you against the clock! Find as many suspects as you can in sixty seconds. In Mission mode, earn stars for each case you solve and work your way through 60 different cases to become a champion head hunter."
+}

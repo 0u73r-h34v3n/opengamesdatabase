@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Automaton Lung",
+	"publishers": ["Luke Vincent"],
+	"release_date": "June 23, 2022",
+	"serial_number": "A3ZE",
+	"synopsis": "Make use of your special abilities to skate, shoot, and fly through over 40 unique locations, all rendered in beautiful stereoscopic 3D. In a strange land with almost no information you must be resourceful and clever. Question everything you see and trust nothing you hear. Each footstep taken, every mile flown, and all doorways entered reveal more to discover in Automaton Lung."
+}

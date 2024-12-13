@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cartoon Network:  Battle Crashers",
+	"publishers": ["GameMill"],
+	"release_date": "November 3, 2016",
+	"serial_number": "BRWP",
+	"synopsis": "When Uncle Grandpa accidentally drives the UG-RV through multiple dimensions, he picks up some surprise passengers in the form of Gumball, Steven Universe, Finn, Mordecai and Clarence! Now they'll have to band together to defeat the evil shard creatures and set things right. Use each character's unique attacks and special moves to conquer the elements, fight your way through all the levels and beat some brutal boss battles. Replay maps with special modifiers to switch up the fun, and unlock bonus rooms along the way."
+}

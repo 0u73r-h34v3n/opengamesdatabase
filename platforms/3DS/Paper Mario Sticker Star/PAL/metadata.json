@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems", "Nintendo"],
+	"genres": ["Adventure", "Puzzle", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Paper Mario: Sticker Star",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 7, 2012",
+	"serial_number": "AG5P",
+	"synopsis": "Paper Mario is back, and finds himself in another sticky situation! Take Mario on an exciting paper adventure and help him repair the mess Bowser has created using the powers of brand new stickers. A cast of colourful characters will keep you laughing along the way as the familiar world of Paper Mario is brought to life in Paper Mario: Sticker Star for Nintendo 3DS! The visually stunning 3D effects make it seem as though you’re looking into and exploring a world made up of shoebox dioramas!"
+}

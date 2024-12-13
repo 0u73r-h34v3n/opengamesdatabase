@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NAMCO BANDAI Games Inc."],
+	"genres": ["Arcade", "Party"],
+	"locales": ["ES"],
+	"name": "PAC-MAN Party 3D",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 10, 2012",
+	"serial_number": "AP9P",
+	"synopsis": "It's three decades since ghost-dodging, dot-munching video game legend Pac-Man first took the world by storm, and to celebrate this very special occasion, PAC-MAN Party 3D brings you a bumper bonanza of mega multiplayer minigames, all in three eye-popping dimensions."
+}

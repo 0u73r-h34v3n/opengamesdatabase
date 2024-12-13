@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Brain Age - Concentration Training",
+	"publishers": ["Nintendo"],
+	"release_date": "February 10, 2013",
+	"serial_number": "ASRE",
+	"synopsis": "Brain Age is back with all-new devilishly difficult brain-training exercises designed by world-famous brain researcher Ryuta Kawashima, MD to refocus the modern mind. People today have numerous devices to stay connected (e.g. laptops, smart phones, tablets), and these distractions have led to an information overload making it difficult to stay focused on specific tasks. Brain Age™: Concentration Training brings newly designed training exercises that will challenge players with activities to help improve their concentration skills and the ability to access their short term memory. Spend at least 5 minutes a day to try and better your focus and attention skills. The new Devilish Training exercises dynamically increase or decrease in difficulty based on your real-time results to help consistently train players at the limit of their abilities."
+}

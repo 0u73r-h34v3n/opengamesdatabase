@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Adventure", "Role-Playing", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crimson Shroud",
+	"publishers": ["Level-5"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 13, 2012",
+	"serial_number": "JCZP",
+	"synopsis": "LEVEL-5 and Yasumi Matsuno have brought together the industry's most venerated creators in the world of RPGs to take up the challenge and lend their support to the production of CRIMSON SHROUD. A tribute to the table-top RPG, crucial decisions hinge on the roll of a die. Players roll dice in real time and chain skills together to earn bonus dice of greater and greater face value. Use your dice strategically though, or your foes may yet get the best of you! Follow the tale of a young \"Chaser\" named Giauque, as he and his team find themselves drawn into the mystery of the Original Gift, the Crimson Shroud. A bold new adventure awaits!"
+}

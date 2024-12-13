@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Bella Sara 2",
+	"publishers": ["Nacon"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 23, 2014",
+	"serial_number": "AY7P",
+	"synopsis": "Return to the universe of Bella Sara™ and set off to the Drasilmare Tree’s rescue! The great Magic Tree of Drasilmare has been cursed! Only you can remove the deadly curse and save the world of Bella Sara. Create your hero and your magic horse using hundreds of costumes and accessories. Take photos of your characters and print them or send them to your friends."
+}

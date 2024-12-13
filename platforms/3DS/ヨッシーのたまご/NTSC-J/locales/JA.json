@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ヨッシーのたまご",
+	"synopsis": "このソフトは、1991年に発売されたファミリーコンピュータ用のアクションパズルゲームです。 画面の下にいるマリオを動かし、上から落ちてくるクリボーやテレサといったキャラクターをうまくトレーに振り分け、上下に2つ重ねて消していきます。2種類の卵のかけら「うえたまご」と「したたまご」をうまく組み合わせると、中からヨッシーが生まれ、高いスコアが獲得できます。"
+}

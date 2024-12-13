@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Block-a-Pix Color",
+	"synopsis": "Block-a-Pix est un puzzle de remplissage de blocs où une image se cache à l'intérieur de chaque grille. Révélez l'image en divisant la grille en plus petits blocs rectangulaires. Chaque bloc doit contenir un indice numérique, qui vous indique le nombre de cases de la grille couvertes par ce bloc et la couleur avec laquelle le bloc sera peint. Block-a-Pix peut toujours être résolu en utilisant la logique et la déduction. Il n'est jamais question de deviner ! Ce jeu contient 120 puzzles exclusifs, conçus par Conceptis Ltd. Les puzzles varient en difficulté et en taille, allant des petites images d'introduction aux immenses grilles défilantes avec des images très détaillées."
+}

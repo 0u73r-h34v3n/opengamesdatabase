@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Adventure", "Fantasy", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Pokémon Rumble",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 29, 2012",
+	"serial_number": "ACCP",
+	"synopsis": "Super Pokémon Rumble allows players to battle against waves of opposing wind-up Toy Pokémon, and connect with a friend to battle together. With over 600 Toy Pokémon to collect, including those from the Pokémon Black Version and Pokémon White Version games, it's going to be a Super Pokémon Rumble!"
+}

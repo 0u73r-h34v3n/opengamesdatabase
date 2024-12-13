@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Race To The Line",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "November 28, 2013",
+	"serial_number": "JAVE",
+	"synopsis": "Race in full 3D with famous cars. Test your mettle against other drivers through treacherous tracks across three continents. Choose one of the 10 Vehicles to drive. Take in the sights as you cruise through the famous landmarks in Asia, Europe and the United States. Challenge yourself with three distinct modes, Challenge, Time Attack and Two player battles. Compete in the USA, Europe & Asia 8 tracks around the world 4 types of competitions / challenges Win points to unlock new circuits, cars and paintings"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man X2",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 11, 2016",
+	"serial_number": "UATE",
+	"synopsis": "In the action classic Mega Man X2, X must lead a fight against a new threat: Maverick Reploid rebels known as X-Hunters, plus eight new and deadlier Mavericks! Fortunately, Dr Light has supplied state of the art upgrades. Seek out the capsules to equip X with a Double Charge Shot, Body Armour and more. X can also ride in vehicles like the Mobile Attack Armour and Mobile Attack Cycle. And of course, X can use the abilities of defeated Mavericks, to turn the enemies' weapons against them! This is the US version of the game."
+}

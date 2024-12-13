@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure", "Drawing", "Simulation", "Strategy"],
+	"locales": ["DE", "ES", "FI", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario Maker for Nintendo 3DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 2, 2016",
+	"serial_number": "AJHP",
+	"synopsis": "Grab your hard hat and let your imagination run wild in Super Mario Maker for Nintendo 3DS, on Nintendo 3DS family systems. 100 original courses designed by Nintendo await you in Super Mario Challenge, each one containing additional challenges to defeat and medals to earn! Want to take on some user created courses? Jump online and enter Course World to find a treasure trove of courses created by players of the Wii U version of Super Mario Maker. With 100 Mario Challenge and Recommended Courses there’s always something new and exciting to play!"
+}

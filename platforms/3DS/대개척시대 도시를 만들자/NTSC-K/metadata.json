@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "대개척시대 도시를 만들자",
+	"publishers": ["Game Museum"],
+	"release_date": "January 25, 2017",
+	"serial_number": "KDJK"
+}

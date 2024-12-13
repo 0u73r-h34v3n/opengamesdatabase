@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neopica"],
+	"genres": ["Party"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Games Festival 2",
+	"publishers": ["BigBen Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 17, 2013",
+	"serial_number": "AAFP",
+	"synopsis": "Games Festival is back and better than ever! Incredible and fun attractions for young and old, bowling, skeet shooting, games of skill and the famous Whack-a-mole! On your own or with your friends, the only thing missing is candyfloss!"
+}

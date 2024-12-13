@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Tappingo",
+	"synopsis": "Tappingo es un juego nuevo de rompecabeza muy impresionante. Tienes que crear imágenes pequeñas para resolver los imagenes. Su objetivo es resolver cada imagen del los rompecabezas, haciendo todos los bloques numerados extienden en líneas de longitud correcta. El número en cada bloque indica exactamente cuánto tiempo la línea tiene que ser. El juego sigue la pista del tiempo necesario, para resolver cada imágen. Puedes postar con tus amigos o puedes establecer una mejor puesta, a tu gusto! ¿Qué rápido puedes resolverlo? Las características del juego: Más de 100 imágenes basados en temas diferentes (aficiones, deportes, equipos, animales, etc) El modo “Time Attack” (Terminar cada rompecabeza lo más rápido possible.) Dos modos de juego Estilo fresco del arte"
+}

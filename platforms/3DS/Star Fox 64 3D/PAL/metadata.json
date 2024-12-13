@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Shooter"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Star Fox 64 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 9, 2011",
+	"serial_number": "ANRP",
+	"synopsis": "Join the Star Fox team and pilot three different vehicles in a battle to save the galaxy!"
+}

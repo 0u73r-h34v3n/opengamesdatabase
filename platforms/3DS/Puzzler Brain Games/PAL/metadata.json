@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ideas Pad"],
+	"genres": ["Puzzle"],
+	"name": "Puzzler Brain Games",
+	"publishers": ["Koch Media"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 23, 2013",
+	"serial_number": "AAGP",
+	"synopsis": "Puzzler Brain Games is a completely new franchise presented by Puzzler, the world's largest provider of puzzle content, and developed by the same team behind the multimillion selling Puzzler World series. An all new game that brings exciting timed challenges in the form of Visual, Word, Mathematical and Memory puzzles for young and old alike to enjoy."
+}

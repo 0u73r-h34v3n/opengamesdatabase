@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Educational", "Health", "Software"],
+	"locales": ["ES"],
+	"name": "Nintendo 3DS Guide: Louvre (Spanish Version)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 27, 2013",
+	"serial_number": "AL8S"
+}

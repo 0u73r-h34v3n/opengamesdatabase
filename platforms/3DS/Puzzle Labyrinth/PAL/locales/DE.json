@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Puzzle Labyrinth",
+	"synopsis": "Puzzle Labyrinth ist ein Spiel in dem der Spieler Puzzles lösen und Items finden muss, um die Türen zu finden, die aus dem Labyrinth führen. Mit 60 Leveln, gefüllt mit Fallen und Monstern die sich dir in den Weg stellen, hast du eine Menge zu tun um den Ausgang zu erreichen... falls du ihn erreichst."
+}

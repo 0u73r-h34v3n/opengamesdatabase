@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Metal Gear Solid 3D - Snake Eater",
+	"synopsis": "Quand les données de sauvegarde sont créées dans une étape spécifique (à l'intérieur du WIG) avec le pad circulaire Pro, parfois le jeu se bloque après le chargement et peut ainsi corrompre les données de sauvegarde. Ce problème a été résolu."
+}

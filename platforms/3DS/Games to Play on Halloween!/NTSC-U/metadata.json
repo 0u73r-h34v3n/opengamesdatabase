@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Games to Play on Halloween!",
+	"publishers": ["Nintendo"],
+	"release_date": "October 25, 2018",
+	"serial_number": "SQLE",
+	"synopsis": "Want to get a little spooked or really spooked? Take a look at these 5 3DS games that have spooky levels to play on Halloween Night!"
+}

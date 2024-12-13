@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ghosts'n Goblins",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 25, 2012",
+	"serial_number": "TA4E",
+	"synopsis": "Original Release Date: November 1986 Take on the role of the knight Sir Arthur, and delve into the realm of demons and monsters to rescue your girlfriend, the princess. Choose your weapons wisely, and take advantage of their strengths to deal with the situation at hand. Defeat the main boss at the end of each level, and pass through the gates that stand between you and Astaroth. Teach him a lesson in chivalry he'll never forget! The stage for adventure is set. Are you brave enough for the challenge?"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Teyon"],
+	"genres": ["Simulation"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "101 DinoPets 3D",
+	"publishers": ["Selectsoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 10, 2013",
+	"serial_number": "JDDE",
+	"synopsis": "What's even more fun than a puppy for a pet? Your very own dinosaur! With 101 DinoPets 3D, you can have a dino friend to care for, teach, play with and love, all in amazing 3D. Choose from over 101 entertaining dinos—or simply adopt them all! Play a game of fetch in the park or teach your dino to dance, jump and fly. Reward your pet with a treat after each trick! Enter your dino into pet shows to earn toys, food, clothing and furniture, then dress up your pet with hats, glasses, shirts and more. Watch your dino up close and personal, as you zoom in, zoom out, tilt and rotate in real 3D. Enjoy fun minigames as you take your dino to the vet for checkups, give it a bath, romp in the yard and more. You'll never be bored with over 101 dino friends to groom, pamper, play with and love! 101+ dinos to adopt 101+ toys and items Zoom, tilt and rotate in stunning 3D Fun minigames and quests"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Runbow Pocket",
+	"publishers": ["13AM Games"],
+	"release_date": "June 20, 2017",
+	"serial_number": "CDRP",
+	"synopsis": "Runbow Pocket is a fast, frantic game where you can conquer over 145 levels in Adventure and The Bowhemoth, or go head to head in Run, Arena, and King of the Hill online. The world changes with each swipe of colour, so you'll have to stay on your toes as platforms and obstacles disappear."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Fantasy", "Role-Playing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "7th Dragon III Code: VFD",
+	"publishers": ["SEGA"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "July 12, 2016",
+	"serial_number": "BD7E",
+	"synopsis": "The apocalypse is heralded by the appearance of seven dragons. One after another, they have invaded earth and are beginning to ravage the human race. Once the seventh appears, there’s no hope for mankind… unless you turn back time in 7th Dragon Code: VFD. Fight dragons and experience the long-awaited series making its way out of Japan for the first time! Travel through three different eras with your team of dragon hunters and get ready for some turn-based, dungeon-crawling RPG action! Build your team and fight for your life! With eight classes, many voice options, and numerous appearance variations, customizing your team has never been easier. When your team needs a break between dungeons, make time for side quests, base building, dating, and a cat café. Do you have what it takes to take down the True Dragons?"
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gummy Bears - Magical Medallion",
+	"publishers": ["PT Consulting"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 24, 2013",
+	"serial_number": "AGVP",
+	"synopsis": "The hidden Kingdom of the Gummy Bears is a tantalizing colourful world overflowing with mouth-watering sweets! For years King Sour Berry searched for a magical artefact called the Gummy Bear Medallion, which kept the Gummy Bears hidden from him. The king finally found it and removed the three mystical gems making the Gummy Bears visible. The kings Crazy Candy Army chased and captured them setting traps for those that avoided capture. The kingdom is now under the rule of King Sour berry. You are the Gummy Bears only hope to save them from a life of unhappiness. You must accept the quest to find the gems and return them to the Gummy Bears Medallion. Only then can the magic of the medallion hide the Gummy Bears once more from the evil King Sour Berry and his Crazy Candy Army. Play through 12 sugar coated worlds. 13 different achievements to unlock. Classic adventure platformer with a Gummy Bears twist. Full 3D environments and characters set with a 2D camera."
+}

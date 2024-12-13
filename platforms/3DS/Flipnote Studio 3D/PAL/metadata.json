@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Drawing", "Educational"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Flipnote Studio 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 31, 2016",
+	"serial_number": "JKZP",
+	"synopsis": "Flipnote Studio 3D is a drawing application that allows you to create your very own animated masterpieces. Whether you want to scribble quick notes or draw sketches, you’ll never run out of pages with Flipnote Studio 3D. There are a whole host of tools that will let you bring your creations to life and create high-quality animations. When you've created something you're proud of, it's easy to show it off to friends, family and the world. Showcase your creations in 3D with other Flipnote Studio 3D users via local wireless connection. You can also save your creations to an SD card in common formats, then upload and share them via social media."
+}

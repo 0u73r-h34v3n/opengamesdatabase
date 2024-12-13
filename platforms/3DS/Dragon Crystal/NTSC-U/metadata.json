@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dragon Crystal",
+	"publishers": ["SEGA"],
+	"release_date": "March 15, 2012",
+	"serial_number": "GABE",
+	"synopsis": "Imagine a glowing magic crystal. As you gaze into it, an intense force pulls you in and causes a black out. You pinch yourself. But you don't wake up. You're caught in a fantastic world of unearthly beauty and deadly demons. Here, countless evil forces confront you. Your only ally is your loyal pet dragon. Blaze a trail through the treacherous labyrinths of four magic kingdoms - collecting weapons, armor, magic books, potions, rods and rings as you go. Fend off enormous insects, monstrous centipedes and sneaky sand sharks. Pass through 30 worlds in search of the Magic Goblet. There's no way out of this musical nightmare...until you find it."
+}

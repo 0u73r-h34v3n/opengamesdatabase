@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Simulation"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Nintendogs + Cats: Toy Poodle & New Friends",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 27, 2011",
+	"serial_number": "ADCE"
+}

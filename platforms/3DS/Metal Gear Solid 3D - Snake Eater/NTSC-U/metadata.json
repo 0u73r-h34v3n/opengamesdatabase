@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Metal Gear Solid 3D - Snake Eater",
+	"publishers": ["Inc.", "Konami Digital Entertainment"],
+	"release_date": "December 19, 2014",
+	"serial_number": "AMGE",
+	"synopsis": "When save data is created in a specific stage (inside the WIG) with the Circle Pad Pro on, occasionally the game hangs after loading and may corrupt save data. This problem was fixed."
+}

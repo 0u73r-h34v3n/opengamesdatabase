@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "SAMURAI WARRIORS: Chronicles 3: Update",
+	"synopsis": "Ceci est une mise à jour pour le logiciel Nintendo 3DS \"SAMURAI WARRIORS: Chronicles 3\". Après avoir téléchargé cette mise à jour, une icône ne s'affichera pas sur le menu HOME de la console Nintendo 3DS. Les données pour cette mise à jour ne s'afficheront pas dans le menu contenu téléchargeable des paramètres de la console. Attention à ne pas les effacer. Cette mise à jour inclut les changements suivants : - Correction de plusieurs messages pour éviter d'induire en erreur les utilisateurs."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fantasy Life",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 26, 2014",
+	"serial_number": "AFLP",
+	"synopsis": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore"
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Senran Kagura Burst",
+	"publishers": ["Marvelous Europe"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "February 27, 2014",
+	"serial_number": "AVHP",
+	"synopsis": "Enter a world filled with beautiful ninja destined to break down the barriers between good and evil! Play two different storylines, each with its own perspective. The girls of Hanzo believe they fight on the side of righteousness, but are their methods always right? The girls of Hebijo are mercenaries to the highest bidders, but what if their motives aren't as clear as they seem? Crush your enemies with your favorite buxom ninja girl using fast punches, mid-air flight sequences, combos, super attacks, revealing cut-scenes and sexy Ninja Arts!"
+}

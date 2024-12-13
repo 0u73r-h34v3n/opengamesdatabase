@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous AQL"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Story of Seasons",
+	"publishers": ["Marvelous (XSEED)"],
+	"release_date": "March 31, 2015",
+	"serial_number": "BTSE",
+	"synopsis": "Best-selling farming/life simulation game of all time returns Longtime series producer Yoshifumi Hashimoto returns to lead a veteran ‘Bokujo Monogatari’ development team as the series is reborn in the West with its new name, STORY OF SEASONS. Extensive character and farm customization After creating unique farmers based on each player’s preference of gender, hair style and facial features, the real work begins as players tend to crops, animals and anything else required to earn a living in order to gather the resources to start customizing and expanding their farms. A heart-throbbing romance heats up the peaceful farm life A variety of eligible bachelors and bachelorettes live in the town for players to woo, with the hope of growing close and possibly even getting married and raising a family together. Use the game's StreetPass functionality to fill your town with visiting farmers or connect locally to Nintendo Wi-Fi to visit your friends and farm together!"
+}

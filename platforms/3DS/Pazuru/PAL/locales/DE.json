@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pazuru",
+	"synopsis": "In diesem Spiel musst Du eine Kugel durch die Level führen und dabei goldene Objekte einsammeln. Klingt zunächst einfach, ist es aber nicht immer :-) Die Kugel kennt nur eine Richtung und kann nur mithilfe von Wänden und Hindernissen gelenkt werden. Spezielle Gegenstände wie zerbrechliche Blöcke, bewegliche Stoßfänger und Teleporter sorgen für Abwechslung und Tiefe. Durch drücken und halten einer beliebigen Taste, können temporäre Wände erstellt werden um auch knifflige Level zu lösen. - 75 herausfordernde Level - Einfaches Gameplay - Integrierter Level-Editor - Teile deine selbsterstellten Level via QR Code"
+}

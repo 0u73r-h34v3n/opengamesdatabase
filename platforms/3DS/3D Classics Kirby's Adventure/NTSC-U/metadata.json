@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Classics: Kirby's Adventure",
+	"publishers": ["Nintendo"],
+	"release_date": "November 17, 2011",
+	"serial_number": "SAFE",
+	"synopsis": "3D Classics: Kirby's Adventure offers you a chance to explore the world of Dream Land in a whole new way! The landscape comes to life as Kirby™ crosses land, sea, and sky in his quest to restore the Star Rod! After waking from a dreamless sleep, Kirby goes to investigate the Dream Spring only to find that its source of energy has been stolen by King Dedede! Broken and divided across seven worlds, Kirby will need to use his unique ability of stealing enemies' powers to battle his way and restore the pieces of the Star Rod! Without it, how can a hero fight another day if he can't get a good night's sleep?! Embark on this adventure as our beloved pink character tries to save the citizens of Dream Land from a lifetime of terrible nightmares!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My Western Horse 3D",
+	"publishers": ["TREVA"],
+	"release_date": "August 29, 2013",
+	"serial_number": "AZHP",
+	"synopsis": "Become the star of the ranch! Put on your cowboy hat, don your chaps and grab your lasso, it's time to impress with your barrel racing and reining skills. Caring for your horse and training hard will get you far. And if Aunt Polly recognizes your talent, new doors will open for you! Can you hear the neighing from the stall? Your Western Horse is waiting for you!"
+}

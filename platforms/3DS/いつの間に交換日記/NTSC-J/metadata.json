@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Drawing", "Software"],
+	"locales": ["JA"],
+	"name": "いつの間に交換日記",
+	"publishers": ["任天堂"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 21, 2011",
+	"serial_number": "JFRJ"
+}

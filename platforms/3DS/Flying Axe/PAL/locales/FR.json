@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Flying Axe",
+	"synopsis": "Jouez avec une hache pour abattre des arbres. Gagnez des pièces et débloquez de nouveaux axes cachés. N'oubliez pas d'aiguiser votre hache ou elle se cassera. • Coupez les arbres avec une hache. Essayez de n'en manquer aucune ou payez 10 pièces pour continuer le jeu • Collectez des pièces et débloquez de nouveaux axes. Chaque hache a des statistiques personnelles • Attendez 120 secondes et toutes les pièces collectées seront sauvegardées • Aiguisez votre hache avec un doigt ou avec les boutons B / X. Sinon il perdra de son efficacité et se cassera à la fin • La vitesse du jeu augmentera pendant le jeu par la musique"
+}

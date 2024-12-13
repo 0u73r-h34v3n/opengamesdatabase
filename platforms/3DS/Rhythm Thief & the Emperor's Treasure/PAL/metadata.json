@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Xeen"],
+	"genres": ["Music", "Puzzle", "Rhythm"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rhythm Thief & the Emperor's Treasure",
+	"publishers": ["SEGA"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "April 4, 2012",
+	"serial_number": "ARTP",
+	"synopsis": "Feel the Rhythm, Beat the Mystery!! Pump up the tempo in the most mysterious rhythm adventure ever to hit the Nintendo 3DS. Raphael has a secret life as a heroic thief who is famous among Parisians for stealing counterfeit paintings only to return them a few days later. This time he has his sights set on the Wristlet of Tiamat on display at the Louvre. Feel the beat and conquer the rhythmic riddles in pursuit of the hidden truth about the city and his father’s disappearance. > Master the beat and conquer the variety of rhythm challenges. > Dive into the colourful 3D adventure in Paris. > Unmask the truth hidden behind treasures. > Challenge your friends and collect fans on your 3D map through Streetpass™."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pocket Card Jockey",
+	"publishers": ["Nintendo"],
+	"release_date": "May 5, 2016",
+	"serial_number": "JVAP",
+	"synopsis": "Pocket Card Jockey is a unique crossbreed of a game that combines the thrill of horse racing with the classic card game solitaire. • A diverse range of characters You can expect to meet horse owners, trainers and other interesting individuals along the way to liven up your career! • Unusual breeds to discover The more you race, the more horses you're bound to come across, some of which can be rather striking! • Think you can conquer the G1 rank? If you want to live up to your sponsors' expectations, you'll need to ride your horses to the top and take first place in all 20 of the highest-ranked G1 races! • QR Code help is at hand Having trouble with a specific race? You can always get a more skilled horse from another player via QR Code and create a foal capable of dominating the leaderboards! With colourful characters and intuitive controls, you don't have to be a pro jockey to experience the thrill of the race."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Code of Princess",
+	"publishers": ["AGATSUMA"],
+	"release_date": "March 28, 2013",
+	"serial_number": "AC7P",
+	"synopsis": "Blending fighting game play with components from classic arcade side-scrolling beat'em ups and the character development of an RPG, Code of Princess perfectly combines the two genres, giving hardcore gamers an all new twist on some of their favorite game types. Up to four players can take on challenges cooperatively or battle against one another in competitive play. Both modes are available locally or online via Nintendo Network."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bases Loaded",
+	"publishers": ["City Connection"],
+	"release_date": "July 10, 2014",
+	"serial_number": "TCXE",
+	"synopsis": "Bases Loaded is a baseball game with an arcade feel and plenty of options from which players can choose. Select one of twelve teams, set your lineup from the 30 players available (each with different strengths), and then play a single game or try to win the pennant. During game play, the screen shows two different viewpoints: one from behind home plate as you’re batting, and the other from the pitching mound in a television-style shot (unique for the time) as your team plays in the field. Strong play control and excellent graphics add to the excitement as you decide what pitch to throw (you can even try to provoke the opposing batter into charging the mound!), control all of the positions in the field, or do your best to get a hit. So step to the plate and find out why this is one of the most popular baseball games on the NES. Can you pull through in the clutch?"
+}

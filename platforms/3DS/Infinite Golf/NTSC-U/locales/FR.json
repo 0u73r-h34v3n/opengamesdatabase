@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Infinite Golf",
+	"synopsis": "Dans ce jeu de golf tranquille, vous pouvez essayer 2 modes différents. En mode Arcade, vous avez 3 boules pour chaque trou. Quand vous utilisiez toutes vos boules, votre jeu est terminé. Essayez de battre votre meilleur score! En mode sans fin, Vous n'allez ni perdre ni gagner.Vous devez profiter de l'atmosphčre calme! Il y a toujours un niveau de plus!"
+}

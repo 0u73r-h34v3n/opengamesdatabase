@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "업데이트 데이터 Ver. 1.2 Azure Striker GUNVOLT",
+	"synopsis": "닌텐도 3DS 소프트『Azure Striker GUNVOLT』의 업데이트 데이터입니다. Ver. 1.2 [2015.9.10 배포] ・New 닌텐도 3DS의 ZL/ZR 버튼으로 무기를 교환할 수 있습니다. ・New 닌텐도 3DS로 플레이할 경우, 게임의 로딩 속도가 빨라집니다. Ver. 1.2K [2015.2.17 배포] ・처음 기동할 때 체험판의 저장 데이터를 계승할 수 있습니다. ・일반 미션에는 르호의 신곡 \"벚꽃 만발\", 엔딩까지 플레이했을 때 나타나는 \"보스 러시 미션\", 엔딩에는 시안의 노래 \"청사진 -Cyanotype-\"이 추가되었습니다."
+}

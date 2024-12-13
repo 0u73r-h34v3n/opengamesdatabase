@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "CITY SKATERS",
+	"publishers": ["Denvzla Estudio"],
+	"release_date": "June 4, 2020",
+	"serial_number": "LTEE",
+	"synopsis": "CITY SKATERS: RUN BOY, RUN GIRL! is a platform game in which we will have to flee from the police through a dangerous train station through which trains continuously pass at full speed. An endless runner with a colorful visual style where the game will end when we collide and the agent of the law catches us."
+}

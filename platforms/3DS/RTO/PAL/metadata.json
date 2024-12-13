@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "RTO",
+	"publishers": ["nuGAME"],
+	"release_date": "November 9, 2017",
+	"serial_number": "CCTP",
+	"synopsis": "The enemy has struck. They approach rapidly. Your team is outnumbered and low on ammo. It’s only a matter of time until it’s all over. Take control of a six man team and fight your way through multiple levels with the odds against you. RTO is a side scrolling FPS survival horror game with permadeath."
+}

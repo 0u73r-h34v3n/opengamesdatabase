@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Alphadream"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario & Luigi: Superstar Saga + Bowser's Minions",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 6, 2017",
+	"serial_number": "BRMP",
+	"synopsis": "The game that launched the Mario & Luigi series returns looking better than ever before. In this renewed classic, Mario and Luigi journey to the Beanbean Kingdom with Bowser to restore Princess Peach’s voice. Control Mario and Luigi simultaneously, making use of their unique Bros. Moves to solve puzzles and emerge victorious in action-packed battles. Pay heed to the enemy’s patterns and time your reactions right to land satisfying counterblows. Included in this remake is the Minion Quest: The Search for Bowser mode, which tells the story of the game from the perspective of Bowser’s minions. Recruit characters to grow your own Minion army as you fight to locate your missing leader!Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Tumble Pop",
+	"publishers": ["G-MODE"],
+	"release_date": "June 7, 2012",
+	"serial_number": "RBUP",
+	"synopsis": "In the future, the world is infested with strange beasties and weird mutations. So grab your trusty Vacuulator and suck up those critters, and make the world fit for humans again! This classic action-platformer tasks you with vacuuming up all the evil mutants, robots and aliens, and blasting them back at each other. Tumble and pop your way through eight worlds in the single player game, and you can also get creative in Construction Mode and make your own levels!"
+}

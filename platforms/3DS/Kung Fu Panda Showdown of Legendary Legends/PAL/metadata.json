@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicious Cycle"],
+	"genres": ["Action", "Fighting"],
+	"locales": ["ES"],
+	"name": "Kung Fu Panda: Showdown of Legendary Legends",
+	"publishers": ["Little Orbit"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 26, 2015",
+	"serial_number": "BKFP",
+	"synopsis": "It's time to become a Kung Fu hero, a LEGENDARY HERO! Fight alongside Po, Tigress, Monkey, Tai Lung, Master Wuxi and all your favorite Kung Fu Panda characters and compete in the Showdown of Legendary Legends."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Super C",
+	"publishers": ["KONAMI"],
+	"release_date": "January 24, 2013",
+	"serial_number": "TBAE",
+	"synopsis": "Original Release Date: December 1988 In this action-packed sequel to the popular Contra, players have little time to think. Experience run-and-gun gameplay at its best as you take control of Mad Dog or Scorpion and once again battle the forces of Red Falcon. Stages feature a combination of perspectives (side scrolling, top down, etc.) and intense battles against huge bosses. Use a variety of powerful weapons and tap into your killer instinct to survive the deadly waves of enemies. Because if your trigger finger lacks stamina, then Earth will lack a future!"
+}

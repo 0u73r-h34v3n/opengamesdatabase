@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "PICROSS e",
+	"synopsis": "C'est la série des \"puzzles de mots croisés d'images\" développée par Nintendo sous sa propre marque de jeux vidéos depuis 1995, dans laquelle vous utilisez des nombres comme indices pour compléter des illustrations. Tout le monde peut s'amuser avec ses règles simples et faciles à comprendre. Avec les nouvelles fonctions de navigations de cette version, les puzzles peuvent être résolus plus simplement que jamais. Il y a 3 types de tailles de puzzles : 5x5, 10x10, et 15x15. Ne prenez pas les puzzles à la légère jusque car ils sont petits. Il y a également beaucoup de puzzles ambitieux. Terminez un puzzle dans la limite de temps, et l'illustration sera affichée en couleur."
+}

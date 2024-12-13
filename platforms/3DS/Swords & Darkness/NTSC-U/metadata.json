@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Swords & Darkness",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "June 11, 2015",
+	"serial_number": "JSZE",
+	"synopsis": "SWORDS & DARKNESS is a game set in a dark mystical fantasy world, cast in a single yet action-packed 2D adventure RPG game. New stylish skills and magic complement the character's attacks, and by equipping items and other weapons, the player stands to enjoy a seamless series of thrilling combat."
+}

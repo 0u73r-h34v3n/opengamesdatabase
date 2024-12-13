@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Kirby's Star Stacker",
+	"publishers": ["Nintendo"],
+	"release_date": "August 30, 2012",
+	"serial_number": "RBYP",
+	"synopsis": "Join Kirby in this action-packed puzzle game, as he teams up with his friends Rick, Kine and Coo to stack falling stars. As friend blocks and star blocks rain down randomly from the top of the screen, you must arrange the star blocks between identical friend blocks to remove them. You'll need quick reflexes and strategic thinking to outwit King Dedede who's out to stop you. As well as the main game mode you can also pit your wits against the Challenge Mode and Time Attack Mode. Let's get stacking!"
+}

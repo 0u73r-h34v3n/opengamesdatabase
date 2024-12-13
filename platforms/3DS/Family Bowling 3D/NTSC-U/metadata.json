@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Family Bowling 3D",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "October 3, 2013",
+	"serial_number": "JBWE",
+	"synopsis": "Family Bowling 3D is a game in which anyone can enjoy bowling with simple controls. A bowling game featuring Billy, Sarah, Daddy, and Mommy! The three game modes include Main Mode, where you'll battle your fellow family members; Free Play, where you can play as you like with 1-4 players; and Challenge Mode, where you can take difficult challenges head on! You can bowl however you would like by selecting your position, direction, speed, and curve. Aim for a perfect game in all of the five different stages we've assembled!"
+}

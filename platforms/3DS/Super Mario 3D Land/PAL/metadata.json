@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario 3D Land",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 4, 2012",
+	"serial_number": "AREP",
+	"synopsis": "SUPER MARIO 3D LAND reinvents everything fans love about Mario gaming with the first platforming environment in true 3D, presenting a 3D Mario game that plays like a 2D Mario game! Players will experience an exhilarating new sense of depth, distance and speed while running, jumping and stomping on enemies throughout the levels. Among other outfits for Mario, the fan-favourite Tanooki Suit makes a comeback. Use the Tanooki Suit’s tail to attack enemies or float gently down from great heights. Accessible and challenging in equal measure, SUPER MARIO 3D LAND offers new and familiar abilities that add unique gameplay strategies to the adventure! Make your way to the end-of-level flagpole using Mario's signature moves- or try to apply his new skills in challenging ways if you dare to discover every hidden shortcut and secret!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Bloody Vampire",
+	"publishers": ["Agetec"],
+	"release_date": "May 9, 2013",
+	"serial_number": "JBLP",
+	"synopsis": "Several years ago, a strange man made his way to the ruins of an abandoned castle on the outskirts of a small town called Verulia. Since then, the locals fear the castle. Recently, a merchant traveled to Verulia and discovered the entire town was deserted. Her story was embellished, as disturbing rumors of a vampire inhabiting the castle spread like wildfire through the land. As Latis has become older and learned more about herself from Cereza, she feels she is destined by her heritage, to bring an end to any threat that vampires pose to humanity. Join Latis and Cereza on their adventure and discover the secrets buried deep in the ancient castle of Verulia. Features: - Four magic elements, able to increase three levels. - Transform between a daring bat and an invincible wolf. - Explore and discover a significant side quest. - Fight enemies to earn gold and buy rare items."
+}

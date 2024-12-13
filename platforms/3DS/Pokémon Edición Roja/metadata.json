@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pokémon Edición Roja",
+	"publishers": ["Nintendo"],
+	"release_date": "February 27, 2016",
+	"serial_number": "RCWA",
+	"synopsis": "You've got to be the very best, like no one ever was - and the only way to do that is by catching all the Pokémon you can! Your quest to catch 'em all and complete your Pokédex will take you all over the world, and maybe one day you'll even be able to defeat all the Gym Leaders and collect their badges!"
+}

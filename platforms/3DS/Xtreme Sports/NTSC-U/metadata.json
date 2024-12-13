@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Xtreme Sports",
+	"publishers": ["WayForward"],
+	"release_date": "August 21, 2014",
+	"serial_number": "QA4E",
+	"synopsis": "The Xtreme Cola Company is hosting a competition on the mysterious Xtreme Sports Island, and Guppi and Fin are invited! Choose your hero, and master sports like Skateboarding, In-Line Skating, Street Luge, Skyboarding, and Surfing to become crowned the Xtreme Sports Champion! Can Guppi and Fin battle their way to the top, or will they fall victim to the mischievous Bonehead Gang? Find out in this highly original mixture of sports, adventure, and role playing. It features over 400 competitors, multiple modes, power ups, and a tropical island lush with secret paths and hidden challenges!"
+}

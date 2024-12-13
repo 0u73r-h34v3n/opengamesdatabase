@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"locales": ["KO"],
+	"name": "진 여신전생Ⅳ",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "15"
+		}
+	],
+	"release_date": "September 25, 2014",
+	"serial_number": "AMXK"
+}

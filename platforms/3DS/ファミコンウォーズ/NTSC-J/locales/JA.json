@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ファミコンウォーズ",
+	"synopsis": "このソフトは、1988年に発売されたファミリーコンピュータ用の戦略シミュレーションゲームです。 レッドスター軍かブルームーン軍を選び、部隊を進軍させ、敵基地を占領するか敵部隊を全滅させれば勝利です。生産できる部隊は歩兵や戦車など全部で16種類。都市･港･空港･工場の占領や、部隊の編成が勝敗を大きく左右します。"
+}

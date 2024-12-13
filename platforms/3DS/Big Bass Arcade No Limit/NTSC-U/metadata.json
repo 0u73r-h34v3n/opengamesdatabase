@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Big Bass Arcade: No Limit",
+	"publishers": ["Big John Games"],
+	"release_date": "June 13, 2013",
+	"serial_number": "JBXE",
+	"synopsis": "Big Bass Arcade: No Limit is loaded with fishing excitement, putting players directly into the action and reeling in a big one. Reel in seven catchable fish species: Largemouth Bass, Smallmouth Bass, Walleye, Muskie, Northern Pike, Bluegill, and Crappie. Compete in Challenges and Tournaments, or Free Fish any lake at your own pace. Test your skills in over forty fishing challenges, spread over ten unique lakes. Player statistics and achievements are tracked. The lakes are stocked with ever growing World Record fish waiting to for you to try and catch them. Big Bass Arcade: No Limit appeals to fishing enthusiasts and gamers alike by capturing the adrenaline rush of fish fighting in an arcade style game."
+}

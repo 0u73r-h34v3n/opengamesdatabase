@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Racing", "Truck Racing"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Monster 4x4 3D",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 8, 2011",
+	"serial_number": "AM4P",
+	"synopsis": "Live a Monster Truck experience in 3D! Feel the power of fully customizable, aggressive and loud vehicles which can destroy and change the game environment and enable you to create mayhem."
+}

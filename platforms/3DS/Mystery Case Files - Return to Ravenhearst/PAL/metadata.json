@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mystery Case Files - Return to Ravenhearst",
+	"publishers": ["MSL"],
+	"release_date": "April 10, 2014",
+	"serial_number": "AR2P",
+	"synopsis": "Emma's soul is free, but her ghost has delivered a dire warning: evil still lurks in Ravenhearst Manor. Experience Ravenhearst`s spectral halls as never before with the new immersive adventure-style gameplay and epic original soundtrack. Hear the floorboards creak as you move from room to room solving puzzles and searching for clues in over 150 detailed scenes."
+}

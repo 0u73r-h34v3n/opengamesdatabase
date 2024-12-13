@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario & Luigi: Dream Team",
+	"synopsis": "Mise à jours des données du jeu Mario & Luigi™: Dream Team pour le Nintendo 3DS. Si vous possédez votre propre Mario & Luigi™: Dream Team, vous devriez téléchargé cette mise à jours. Cette mise à jour permet de résoudre les problèmes suivants: Résout un bogue situé sur le mont Pyjamama, au moment où les frères Massif font un Saut toupie pour casser les stalagmites de glace. Certains joueurs, selon les actions effectuées, ne pouvaient plus avancer après ce point. Résout un bogue qui empêchait les joueurs de terminer la bataille finale contre Phobieux. Résout plusieurs autres problèmes liés à la jouabilité."
+}

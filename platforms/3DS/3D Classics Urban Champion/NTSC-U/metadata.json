@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Classics Urban Champion",
+	"publishers": ["Nintendo"],
+	"release_date": "August 18, 2011",
+	"serial_number": "SADE",
+	"synopsis": "The first fighting game released for the Nintendo Entertainment System is back for another round. Use a combination of punches to knock your opponent back--and into an open manhole before time expires. Watch out for angry neighbors who will attempt to drop flowerpots on your head. The police will also make an occasional appearance to temporarily break up the fight--or make an arrest if time runs out. Find out if you have what it takes to make it on the rough city streets against the toughest brawlers around. Prove yourself worthy, and be crowned Urban Champion."
+}

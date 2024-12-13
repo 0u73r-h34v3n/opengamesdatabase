@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "FIFTEEN",
+	"publishers": ["RCMADIAX"],
+	"release_date": "March 30, 2017",
+	"serial_number": "CFNP",
+	"synopsis": "In FIFTEEN you must rearrange the blocks to display in order of 1 to 15. Using the touch screen you can manipulate the position of each block to accomplish the objective. Beginning order of the blocks is random and adds to the endless challenge!"
+}

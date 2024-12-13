@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Streets of Rage 2",
+	"publishers": ["SEGA USA"],
+	"release_date": "July 23, 2015",
+	"serial_number": "KSRE",
+	"synopsis": "The sequel to the original rumbler is back and re-mastered in 3D. Slam the asphalt with bigger, better and totally devastating attacks. Skull crushing ex-wrestler Max Thunder joins up with Axel and Blaze to throw earth shattering body slams and fist attacks. New thrasher Skate slices punks with high speed inline attacks and spinning jump kicks. Use secret weapons to bash your way through gangs of bikers to rescue your friend and defeat Mr. X."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Lola's Math Train",
+	"publishers": ["BeiZ"],
+	"release_date": "April 25, 2013",
+	"serial_number": "JLMP",
+	"synopsis": "Join Lola on her journey as she makes her way through a fun filled environment of bright colors and creative problem solving to get all of her friends to a party! Specifically designed for children 3-7 years old, Lola’s Math Train encourages children to learn key skills like adding and puzzle solving all while having fun!"
+}

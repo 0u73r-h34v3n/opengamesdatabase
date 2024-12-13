@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "更新データ Ver.1.1 BRAVELY DEFAULT FF",
+	"publishers": ["スクウェア・エニックス"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "December 4, 2013",
+	"serial_number": "AFFJ"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monster Games"],
+	"genres": ["Simulation"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Pilotwings Resort",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 27, 2011",
+	"serial_number": "AWAE",
+	"synopsis": "Step into the pilot's seat with glasses-free 3D! Fly a plane, rocket belt, or hang glider through over 40 missions, or for free flying fun. Use your Mii™ character and explore Wuhu Island from the Wii Sports Resort™ game. Take amazing in-game 3D photos, and save them to your Nintendo 3DS photo album!"
+}

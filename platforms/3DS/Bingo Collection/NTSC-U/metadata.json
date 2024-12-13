@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bingo Collection",
+	"publishers": ["STARSIGN"],
+	"release_date": "April 13, 2017",
+	"serial_number": "KBHE",
+	"synopsis": "Bingo Collection is a pack of three fun games based on the popular game of Bingo! Take your pick from three different types of bingo games! Catch Bingo Catch the bingo balls as they bounce around on the Bottom Screen, collecting the numbers you need to complete a bingo line. Slide Bingo Based on the popular slide puzzle games, move numbers around a board by sliding them one-by-one into an empty space. Line up the numbers in a row to create a bingo line. Touch Bingo Touch the numbers on a bingo card as fast as possible! Each stage has different rules such as touching the titles in descending order or touching the odd numbered tiles in ascending order. Test yourself for the best scores in 90 different stages!"
+}

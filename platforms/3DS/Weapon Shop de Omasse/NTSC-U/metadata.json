@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Weapon Shop de Omasse",
+	"publishers": ["LEVEL-5"],
+	"release_date": "February 20, 2014",
+	"serial_number": "JBKE",
+	"synopsis": "From the mind of comedian Yoshiyuki Hirai comes WEAPON SHOP de OMASSE, a humorous twist on the classic fantasy adventure. You are Yuhan, an apprentice in a weapon rental shop inside an RPG. It’s your job to forge and rent weapons to the seven misfit heroes and various NPCs that come your way. Why rental? Sure, there’s a risk that a hero will fail their quest and lose your weapon, but if they succeed, you’ll get your weapon back, get paid, and earn a returning customer. With the dreaded Evil Lord’s return looking nigh, it wouldn’t hurt to have more well-equipped heroes running around, either... Match your customer to a weapon and forge it to the rhythm! Tap your Nintendo 3DS in time with the music, balance the heat of your materials, and make sure that your hammer strikes true to create a weapon that really shines. Follow your customers’ adventures on the “Grindcast,” a special feed built into each weapon that sends every encounter, discovery, and conversation it hears back to you!"
+}

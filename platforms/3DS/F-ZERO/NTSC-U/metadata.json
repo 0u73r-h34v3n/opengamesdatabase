@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "F-ZERO",
+	"publishers": ["Nintendo"],
+	"release_date": "March 17, 2016",
+	"serial_number": "UAFE",
+	"synopsis": "In the year 2560, the greatest racing competition is the F-ZERO championship. Pilots from across the galaxy risk their lives in a high-speed battle of turbo-charged hovercraft. Taking full advantage of the Super Nintendo Entertainment System’s 'Mode 7™' effect, F-ZERO redefined racing games with its smooth, fast graphics and thrilling gameplay. It also featured one of the most famous soundtracks in video games, and introduced players to the likes of Captain Falcon and Samurai Goroh. This is the US version of the game."
+}

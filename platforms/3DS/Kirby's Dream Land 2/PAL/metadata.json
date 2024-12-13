@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Kirby's Dream Land 2",
+	"publishers": ["Nintendo"],
+	"release_date": "May 17, 2012",
+	"serial_number": "RBNP",
+	"synopsis": "In his second Game Boy™ adventure, Kirby must solve the mystery behind the disappearance of rainbow bridges that link the islands of Dream Land. Travel through all seven isles while battling the minions of King Dedede, and team up with Kirby's friends Rick the Hamster, Kine the Fish and Coo the Owl. Kirby's animal pals have their own unique abilities and can also magnify Kirby's powers, too! And you'll need all the help you can get, to face a new enemy: the malevolent Dark Matter!"
+}

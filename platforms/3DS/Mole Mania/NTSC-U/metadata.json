@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mole Mania",
+	"publishers": ["Nintendo"],
+	"release_date": "July 26, 2012",
+	"serial_number": "RB7E",
+	"synopsis": "Original Release Date: February 1997 Join Muddy Mole in a race to defeat the evil farmer, Jinbe. Work your way through each puzzle by pushing, pulling, or throwing black balls to defeat or trap enemies. Blast strategic exits and burrow into soft soil to tunnel your way through underground paths to the next action-packed level. Defeat the bosses and solve all of the puzzles in Jinbe Land to reunite Muddy Mole with his beloved wife and kids. You'll dig the fast pace and challenging fun of Mole Mania!"
+}

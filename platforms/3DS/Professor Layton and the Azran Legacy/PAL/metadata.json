@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["PT"],
+	"name": "Professor Layton and the Azran Legacy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 8, 2013",
+	"serial_number": "AL6P",
+	"synopsis": "The final chapter of the Professor Layton series takes puzzle solving around the globe in the gentleman professor’s most ambitious outing to date. After receiving a mysterious letter claiming that a living mummy has been discovered, Professor Layton and his team head to a city nestled in the frigid Arctic. There, they release a young lady encased in a prison of ice, setting in motion a grand adventure aboard an airship that will take them to spectacular places as they solve the mysteries of ancient civilisations."
+}

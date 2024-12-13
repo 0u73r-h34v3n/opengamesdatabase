@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TT Games"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "LEGO El Señor de los Anillos",
+	"publishers": ["Warner Bros. Interactive Entertainment Inc."],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 23, 2012",
+	"serial_number": "ALAS",
+	"synopsis": "Basado en la trilogía cinematográfica de El Señor de los Anillos, LEGO El Señor de los Anillos sigue la historia original de El Señor de los Anillos: La Comunidad del Anillo, El Señor de los Anillos: Las Dos Torres y El Señor de los Anillos: El Retorno del Rey, llevando a los jugadores a través de las épicas aventuras de la Tierra Media esta vez con el humor que ofrecen los juegos de LEGO. Con la peligrosa misión de destruir un antiguo anillo mágico que amenaza a la Tierra Media, Frodo deberá abandonar a la fuerza su pacífico hogar. Pero el anillo quiere ser encontrado y el camino al Monte del Destino, el único lugar donde puede ser destruido, estará lleno de orcos y otras enigmáticas criaturas. Para ayudar a Frodo, se creará una Comunidad formada por Aragón el Montaráz, Gandalf el Mago, Legolas el Elfo, Gimli el Enano, Boromir de Gondor y los amigos de Frodo, Sam, Merry y Pippin. Los jugadores revivirán la leyenda en forma de LEGO mientras exploran los entornos, resuelven enigmas y superan multitud de retos en su aventura para destruir el Anillo."
+}

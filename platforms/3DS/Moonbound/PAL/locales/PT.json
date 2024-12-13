@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Moonbound",
+	"synopsis": "[ Consegues sobreviver e voltar à Terra? ] Moonbound é um jogo de ação arcade 2D desafiante que obriga o jogador a tomar decisões rápidas sob pressão. O jogador controla um astronauta que está a regressar à Terra depois de concluir um estudo geológico no sistema solar Beta Iridian. De repente, uma explosão danifica a nave do astronauta! Os cristais de energia utilizados como a principal fonte de energia da nave são ejetados para fora da nave e caem em seis luas diferentes. O jogador tem de devolver todos os cristais restantes à nave para poder regressar à Terra. Funcionalidades do jogo: * Sobrevive em mais de 30 níveis de ação arcade desafiantes em 2D! * Encontra diferentes inimigos e riscos ambientais em seis luas * Dois modos de jogo: Story Mode e Arcade Mode * Quatro níveis de dificuldade: Easy, Normal, Hard e Hardcore * Seleção de nível: começa um novo jogo em qualquer nível * Leitor de música: ouve todas as faixas de música do jogo"
+}

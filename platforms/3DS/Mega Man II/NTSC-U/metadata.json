@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man II",
+	"publishers": ["CAPCOM"],
+	"release_date": "May 8, 2014",
+	"serial_number": "RCDE",
+	"synopsis": "Dr. Wily is up to no good and this time he has stolen the experimental Time Skimmer that allows him to travel years into the future. Meanwhile, Mega Man and his trusty side-kick, Rush, are sent on a mission to investigate an underground lair. At arrival, the duo immediately come face-to-face with a group of Robot Masters! Jump and blast your way through a barrage of maniacal robotic monsters while collecting a variety of weapons and items to help fight more Robot Masters!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mole Mania",
+	"publishers": ["Nintendo"],
+	"release_date": "October 4, 2012",
+	"serial_number": "RB7P",
+	"synopsis": "Produced by the legendary Shigeru Miyamoto, this classic action-puzzle game stars Muddy Mole who must rescue his family from evil farmer Jinbe. Your goal is to guide Muddy through each stage to the exit which is easier said than done! Enemies, obstacles and devious level designs bar your way. Fortunately, Muddy can also dig beneath the surface and uncover new paths. Also, look out for bonus stages where you can get your own back on Jinbe. If you like action games with a brain, you'll dig Mole Mania!"
+}

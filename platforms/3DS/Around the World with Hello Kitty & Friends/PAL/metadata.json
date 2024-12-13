@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Idea Factory"],
+	"genres": ["Party", "Puzzle"],
+	"name": "Around the World with Hello Kitty & Friends",
+	"publishers": ["Rising Star Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2013",
+	"serial_number": "AHKZ",
+	"synopsis": "The world famous and incredibly popular Hello Kitty is back and starring in an all-new, 3-D, interactive adventure. Join Hello Kitty and her Sanrio Friends as they travel around the World playing adventurous games and shopping for new outfits for Hello Kitty and collecting new items to decorate her room. ・Travel the world and play games related to each country ・Unlock new costumes for Hello Kitty to wear"
+}

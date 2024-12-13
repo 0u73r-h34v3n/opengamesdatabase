@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Picross e2",
+	"publishers": ["JUPITER"],
+	"release_date": "January 24, 2013",
+	"serial_number": "JP2P",
+	"synopsis": "This is the sequel to \"Picross e\" with a navigation feature to make gameplay even smoother. Like the previous game, this game has 150 new puzzles, plus an all new gameplay element known as \"Micross.\" \"Picross\" is a \"Picture Crossword Puzzle Game\" in which you use numbers as hints to complete illustrations. The rules are simple and easy to understand. Anyone can do it!"
+}

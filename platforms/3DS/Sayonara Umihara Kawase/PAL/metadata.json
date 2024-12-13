@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sayonara Umihara Kawase",
+	"publishers": ["AGATSUMA"],
+	"release_date": "April 24, 2014",
+	"serial_number": "AUFP",
+	"synopsis": "Use your elastic fishing hook to play! Featuring a girl armed with only with her backpack and trusty fishing hook, this travelling sushi chef departs on a journey in a dream-like world filled with fish and other wildlife gone awry. You will need to think how to get out of the stages like a puzzle game, and learn to use the hook to get out ASAP, action game-style. You will also be able to `restart` from the checkpoints, and `slow` to move carefully and avoid failing. On top, if you connect to the internet, you will see your ranking among players in your territory!"
+}

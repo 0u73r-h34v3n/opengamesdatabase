@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Jewel Master Atlantis 3D",
+	"publishers": ["cerasus.media"],
+	"release_date": "March 14, 2013",
+	"serial_number": "AJ5Z",
+	"synopsis": "Atlantis - did it ever really exist? For millennia, adventurers have sought the sunken kingdom and its countless treasures - but who created the mystic city in the first place? Discover the secret, erect magnificent buildings and restore Atlantis to its former glory! Build rows of three or more of the same symbol - you'll have huge chains built before you know it! Collect ancient artifacts and secret treasures that you can use to build your city. • 100 challenging levels and two game modes • Exciting bonus features • Collect trophies • Match 3 adventure with completely new features"
+}

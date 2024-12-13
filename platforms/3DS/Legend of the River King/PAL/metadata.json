@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Legend of the River King",
+	"publishers": ["Natsume Inc."],
+	"release_date": "March 7, 2013",
+	"serial_number": "QATP",
+	"synopsis": "Cast off on a unique role-playing adventure! Legend of the River King tasks you as a young fisherman seeking a mystical fish to cure his sick sister. Endure a perilous quest; angling through streams, rivers and raging rapids. Sell your fish at local markets to buy supplies, and do battle with local predators trying to steal your catch. You can also raise a virtual pet fish and watch it grow, and even evolve into another species. It’s an aquatic quest that will test your bravery, skill, heart and - indeed - sole!"
+}

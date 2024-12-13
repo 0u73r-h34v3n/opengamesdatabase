@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Headstrong Games"],
+	"genres": ["Coaching", "Drawing", "Educational"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "New Art Academy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 17, 2012",
+	"serial_number": "AACP",
+	"synopsis": "Try out new skills and discover hidden talents you didn't know you had in New Art Academy for Nintendo 3DS! With over 30 brand-new lessons to get your creative hands on, New Art Academy will have you painting and drawing your own masterpieces and sharing them with your friends and family in no time."
+}

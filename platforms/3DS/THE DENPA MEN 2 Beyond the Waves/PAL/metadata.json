@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "THE \"DENPA\" MEN 2: Beyond the Waves",
+	"publishers": ["Genius Sonority"],
+	"release_date": "May 30, 2013",
+	"serial_number": "JD2P",
+	"synopsis": "The Denpa Men are mysterious little creatures that float around radio waves. They all have their own territories. You can't see them with the naked eye, but you can use your Nintendo 3DS™ to find them and catch them. In this RPG, you can form a team of the Denpa Men you caught and take them on an exciting adventure across the world, in order to save the hero's family. If you played the previous game, you'll be able to transfer your hero and to bring all of your friends from the previous game into this one!"
+}

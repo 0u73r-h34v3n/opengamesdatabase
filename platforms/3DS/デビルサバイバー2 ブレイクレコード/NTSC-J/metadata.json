@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Atlus"],
+	"genres": ["Strategy"],
+	"locales": ["JA"],
+	"name": "デビルサバイバー2 ブレイクレコード",
+	"publishers": ["アトラス"],
+	"release_date": "January 29, 2015",
+	"serial_number": "ADXJ"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "G-LOC: Air Battle",
+	"publishers": ["SEGA"],
+	"release_date": "July 4, 2013",
+	"serial_number": "GAPP",
+	"synopsis": "Strap yourself in and take to the skies in G-LOC Air Battle. Dive, climb and bank as you outmanoeuvre enemy pilots and blow them out of the sky with your impressive arsenal. Gain experience with every mission and equip yourself with more powerful weapons and armour in order to destroy the Future World Army and bring peace back to the skies. Challenge a friend via local two-player multiplayer! Trade points earned for more powerful missiles, high calibre guns and armour upgrades. Nine different air, land and sea missions."
+}

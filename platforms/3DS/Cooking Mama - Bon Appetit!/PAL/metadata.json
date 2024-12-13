@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cooking Mama - Bon Appetit!",
+	"publishers": ["Nintendo"],
+	"release_date": "March 6, 2015",
+	"serial_number": "BC5P",
+	"synopsis": "In this vibrant game for Nintendo 3DS and 2DS, players slice, chop, grill and stir to complete 60 fun recipes with Mama! Players can also help Mama outside of the kitchen in over 30 lively minigames, or share the fun with friends in multiplayer mode – just one copy of the game needed! One Nintendo 3DS or 2DS system per player required."
+}

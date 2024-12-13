@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Save Data Transfer Tool",
+	"synopsis": "Ce logiciel vous permet de transférer les données de sauvegarde d'une carte de jeu Nintendo 3DS pour les utiliser avec la version téléchargeable du même logiciel (vous devez également avoir acheté la version téléchargeable). Pour utiliser ce logiciel, vous devez disposer des éléments ci-dessous : • Une carte de jeu Nintendo 3DS compatible avec le transfert des sauvegardes. • La version téléchargeable du même logiciel. Attention ! Après le transfert, les données de sauvegarde de la carte de jeu seront effacées et ne pourront pas être déplacées à nouveau vers la carte de jeu."
+}

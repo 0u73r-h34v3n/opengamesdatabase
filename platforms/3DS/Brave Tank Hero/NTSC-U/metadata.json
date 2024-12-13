@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Brave Tank Hero",
+	"publishers": ["Natsume Inc."],
+	"release_date": "August 11, 2015",
+	"serial_number": "JLTE",
+	"synopsis": "Paradise City has been invaded, and it's up to you, brave soldier, to help take the city back! Complete over 50 action-packed Missions in this 3D action tank game! You'll be able to power up your tank to take on the increasingly difficult enemies! Don't forget to use your radar to plan tactical attacks against the enemy! You can also replay Missions to get better rankings to help power up your tank! Choose from 3 different types of tanks to take on the enemy, including huge and fearsome boss tanks! Defeat the invading forces to return the \"Paradise\" back to Paradise City! Choose from 3 different types of tanks! Power up your tank to take down harder enemies! Take on huge and fearsome boss tanks!"
+}

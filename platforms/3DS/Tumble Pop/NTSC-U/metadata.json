@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Tumble Pop",
+	"publishers": ["G-MODE"],
+	"release_date": "July 19, 2012",
+	"serial_number": "RBUE",
+	"synopsis": "Thanks to pollution and other global calamities, Earth is overflowing with strange creatures. And what’s more, aliens from outer space have come to crash the party too! It’s your job to exterminate all the monsters plaguing the planet, but you’ll need some real muscle to accomplish that task. Good thing you have a secret weapon: a turbo-charged vacuum cleaner! Armed with your trusty vacuum, work your way through eight monster-infested worlds. Special items, power-ups, and a password system will help you on your way, but at the end of the day, it’s all up to you! Hungry for even more action? Have no fear. You can create your own custom-built stages in Construction Mode!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "タケヤリマン",
+	"synopsis": "『タケヤリマン』は、\"迫りくるハリボテの敵兵を、とにかく竹ヤリで突きまくるアトラクション\"をプレイするゲームです。シンプルなゲーム性ながら、即断即決や戦略を求められます。プレイ成績が記録された「タケヤリストカード」は、すれちがい通信でほかのプレイヤーと交換することができます。"
+}

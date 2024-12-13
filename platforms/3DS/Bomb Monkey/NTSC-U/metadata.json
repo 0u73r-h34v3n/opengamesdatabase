@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bomb Monkey",
+	"publishers": ["Renegade Kid"],
+	"release_date": "June 28, 2012",
+	"serial_number": "JB3E",
+	"synopsis": "Blok Bombing is a fine and ancient sport invented by a small and creative troop of primates, called Bomb Monkeys. The goal is simple: do not allow the bloks rising from the jungle floor to reach dangerous heights and knock you from your perch. With an endless supply of bloks and a steady stream of bombs, you can partake in this legendary sport anytime you have a spare moment. Young Bomb Monkeys will learn patience and strategy. Older Bomb Monkeys will sharpen their wits. And, every Bomb Monkey will have a blast! Several variations on the classic “Endless” Blok Bombing sport have emerged over the centuries, providing both variety and unique challenges for avid enthusiasts of the sport."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Flap Flap",
+	"publishers": ["Nacon"],
+	"release_date": "February 19, 2015",
+	"serial_number": "BFFE",
+	"synopsis": "Summon up all your skill, precision and nerves of steel: Flap Flap won't go easy on you! Bit of a lightweight? Then all the bonuses and special abilities will come in handy... Unfortunately, there are also enemies and obstacles to make things complicated, too!"
+}

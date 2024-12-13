@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Blaster Master",
+	"publishers": ["Sunsoft"],
+	"release_date": "July 24, 2014",
+	"serial_number": "TA3E",
+	"synopsis": "Jason, in search of his pet frog named Fred, has fallen down a manhole into a world of danger. Mutant-sized creatures of which the likes he never imagined, await him at every turn. In order to survive, Jason must pair up with an armored combat vehicle codenamed SOPHIA. It's panic or perish as you blast through an endless maze of tunnels, seeking secret passages for an escape. Destroy the Plutonium Boss and his mutant cronies before these warlords destroy the Earth. Load up your arsenal, and get ready for the final encounter!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Real Heroes - Firefighter 3D",
+	"publishers": ["Reef Entertainment"],
+	"release_date": "April 16, 2015",
+	"serial_number": "ARHP",
+	"synopsis": "This is an update for Real Heroes: Firefighter 3D."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "KORG M01D",
+	"publishers": ["DETUNE"],
+	"release_date": "November 7, 2013",
+	"serial_number": "JKRE",
+	"synopsis": "The KORG M01D is a music workstation based on the KORG M1, the world’s first widely known synthesizer. The KORG M01D reproduces the M1’s unforgettable digital sounds of the 80s such as the “M1 piano”, still heard on many songs today. With 24 voice-polyphony, over 300 sounds and an easy to operate sequencer,the KORG M01D helps you play and create your music at any place, and at any time, in a palm-size package! Furthermore, The standard MIDI file can be saved to an SD card so the KORG M01D can be used as a sketchpad. In addition, anyone can exchange song data using Nintendo 3DS Wi-Fi via StreetPass and the Internet."
+}

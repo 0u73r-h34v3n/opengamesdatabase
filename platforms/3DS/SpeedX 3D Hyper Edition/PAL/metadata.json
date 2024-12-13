@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "SpeedX 3D Hyper Edition",
+	"publishers": ["Gamelion"],
+	"release_date": "May 30, 2013",
+	"serial_number": "JSYP",
+	"synopsis": "You won't believe what's possible in a tunnel racing game! Speedx 3D Hyper Edition is the fastest tunnel racer ever! Be amazed by its enhanced visuals, start your run with just one tap on the screen and experience incredible thrills as you race through the new location. Speedx 3D Hyper Edition offers new music tracks, improved controls and even faster gameplay. Trigger Hyper mode and see how far can you go!"
+}

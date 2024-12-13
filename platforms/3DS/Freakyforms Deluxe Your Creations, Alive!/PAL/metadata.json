@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Asobism", "Co. ltd."],
+	"genres": ["Drawing"],
+	"locales": ["ES"],
+	"name": "Freakyforms Deluxe: Your Creations, Alive!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 28, 2012",
+	"serial_number": "ATQP",
+	"synopsis": "Breathe life into your formees and let your imagination run wild!"
+}

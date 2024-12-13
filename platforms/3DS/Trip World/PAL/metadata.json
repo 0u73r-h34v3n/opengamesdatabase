@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Trip World",
+	"publishers": ["Sunsoft"],
+	"release_date": "January 5, 2012",
+	"serial_number": "RBCP",
+	"synopsis": "Trip World is a cute platform game starring the innocent-looking yet heroic Yakopoo, who can transform into various different forms. When their symbol of peace, the Flower of Maita, is stolen, the people of Shabubu began fighting each other. Even the grass and plants are in a frenzy! Only Yakopoo can save the day. Advance through each world by using Yakopoo's transformations. Fly, swim, become a bouncing ball and more, and retrieve the flower."
+}

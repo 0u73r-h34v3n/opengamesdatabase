@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Etrian Odyssey Nexus",
+	"publishers": ["Deep Silver"],
+	"release_date": "February 5, 2019",
+	"serial_number": "BZMP",
+	"synopsis": "The final Etrian installment on Nintendo 3DS™. With more classes, characters, gameplay systems, and labyrinths than any other game in the series, Etrian Odyssey Nexus is the ultimate dungeon-crawling adventure. Create and customize characters from 19 playable classes, then take on the dangerous creatures of Lemuria's labyrinths with your perfect party! With the ability to swap between four difficulty settings, auto-mapping settings, and a grand standalone story, series newcomers and experienced veterans alike are welcome."
+}

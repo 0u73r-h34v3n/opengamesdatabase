@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Galaga",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "May 1, 2014",
+	"serial_number": "TCUP",
+	"synopsis": "Classic arcade shoot ‘em up Galaga was faithfully recreated for the home in this acclaimed NES™ version. Galaga became an instant classic with its innovative fighter combination system and varied enemy attack patterns. Control your fighter and shoot down the waves of invading aliens; and win bonuses in challenging stages by not missing a single enemy. If your fighter gets captured by an enemy, free it from the tractor beam and combine with it to form a dual fighter with twice the firepower!"
+}

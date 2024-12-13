@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Platformer"],
+	"name": "超級瑪利歐 3D樂園",
+	"publishers": ["Nintendo"],
+	"release_date": "December 7, 2012",
+	"serial_number": "AREW",
+	"synopsis": "Past Mario games have let the blue-suspendered hero roam around fully rendered 3D landscapes. Now, for the first time, players can see true depth of their environment without the need for special glasses. Super Mario is a 3D evolution of classic Mario platforming featuring new level designs and challenges."
+}

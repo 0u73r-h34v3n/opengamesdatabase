@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous AQL"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Story of Seasons",
+	"publishers": ["Nintendo"],
+	"release_date": "December 31, 2015",
+	"serial_number": "BTSP",
+	"synopsis": "Feeling a bit bored with the monotony of life, you come across an intriguing offer on a flyer: Oak Tree Town is seeking fresh young faces to become farmers and help to bring new energy to local trade! It’s a small town, but it promises a life filled with rewarding work and valuable new relationships. Arriving at the town, you begin to learn farming life from the kind and welcoming townsfolk, picking up new skills every day. Growing crops, caring for livestock, developing your farm, shipping crops to other countries, and even looking after pets all provide exciting new experiences a million miles apart from anything before! Can you make it as a farmer, and give something back to this new town that has warmly welcomed you into its community? What kinds of exciting experiences and fun lessons await?"
+}

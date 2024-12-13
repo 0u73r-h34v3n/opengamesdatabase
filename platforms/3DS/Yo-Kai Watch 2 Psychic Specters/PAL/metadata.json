@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"locales": ["ES", "FR", "IT"],
+	"name": "Yo-Kai Watch 2: Psychic Specters",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 29, 2017",
+	"serial_number": "BYSP"
+}

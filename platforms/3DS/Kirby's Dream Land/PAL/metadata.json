@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Kirby's Dream Land",
+	"publishers": ["Nintendo"],
+	"release_date": "June 30, 2011",
+	"serial_number": "RAFP",
+	"synopsis": "On a tiny star somewhere far, far away from Earth, there is a very happy place known as Dream Land. That is, until one night the gluttonous King Dedede and his band came to steal all the food and the Dream Lander’s treasured Sparkling Stars. Suddenly, a spry little boy named Kirby happened along and said \"Don't worry, I'll get your food and your Sparkling Stars back!\". In Kirby's Dream Land, you guide Kirby through a series of side-scrolling action stages. Kirby can walk, fly, inhale and defeat enemies - everything he needs to make it through Mt. Dedede!"
+}

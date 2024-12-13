@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ikachan",
+	"publishers": ["Nicalis"],
+	"release_date": "January 31, 2013",
+	"serial_number": "JKCE",
+	"synopsis": "You wake up in an underwater cave. Near the bottom of an enormous abyss, there's only one way out. Swim in a dark world under attack by frequent earthquakes and famine. This vast undersea kingdom is filled with both dangerous and harmless denizens. Its fearful inhabitants are led by a reluctant fish who has no answer to the impending disasters. Their fate rests with you, Ikachan. You must help them find a way out before it's too late. Use whatever tools you can and try to escape. Swim, Ikachan, swim!"
+}

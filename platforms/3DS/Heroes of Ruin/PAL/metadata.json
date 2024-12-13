@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Heroes of Ruin",
+	"publishers": ["SQUARE ENIX"],
+	"release_date": "March 28, 2013",
+	"serial_number": "AH6P",
+	"synopsis": "Create your own mercenary and go forth into battle either on your own, or join forces with other heroes in 4-player co-operative multiplayer. Test your combat skills and earn rewards by taking on new daily challenges."
+}

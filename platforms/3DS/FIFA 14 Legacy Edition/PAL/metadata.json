@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Sports"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "FIFA 14: Legacy Edition",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 24, 2013",
+	"serial_number": "AFYP",
+	"synopsis": "With EA SPORTS IGNITE, FIFA 14 will boost its realism with dynamic stadiums that are more vivid than ever and footballers who behave, think and move like real life athletes. Footballers respond and make decisions up to four times faster, with human-like reactions like anticipation or instinctive action. With animations 10 times more detailed and in-depth than the previous generation of consoles, FIFA 14 features the movements and biomechanics of the best soccer players in the world. Players feel more agile and athletic, stand up, pivot and cut, and start a run from any step. Motion fidelity has an effect on gameplay. Additionally, players feel more agile and athletic, with hundreds of new abilities and animations. FIFA 14 will include visual and precise improvements where the interior of the stadiums will come to life and be full of emotions thanks to the new 3D Crowd that will react to the events of the match."
+}

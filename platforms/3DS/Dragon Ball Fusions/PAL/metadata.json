@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dragon Ball Fusions",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "February 17, 2017",
+	"serial_number": "BDLP",
+	"synopsis": "Expand your Dragon Ball Fusions experience with additional content: • New characters: Goku Black, SSGSS Vegito, Zamasu and more! • New clothes • New titles • New special moves POWER UP FOR MAXIMUM FUSION!"
+}

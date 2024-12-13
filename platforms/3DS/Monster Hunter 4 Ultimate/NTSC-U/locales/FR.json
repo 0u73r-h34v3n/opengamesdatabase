@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Monster Hunter 4 Ultimate",
+	"synopsis": "Données de mise à jour requises pour accéder à la « Zone cadeaux » dans Monster Hunter 4 Ultimate, où vous pouvez télécharger des objets gratuits. Si ces données de mise à jour ne sont pas téléchargées, la « Zone cadeaux » de « Monster Hunter 4 Ultimate » ne sera pas accessible. Une fois le téléchargement effectué, parlez à la gouvernante de votre maison, sélectionnez « Contenu téléchargeable », puis « Zone cadeaux ». Nous vous demandons de bien vouloir télécharger les données de mise à jour (ver. 1.1) et nous nous excusons pour la gêne occasionnée."
+}

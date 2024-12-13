@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Balloon Fight",
+	"publishers": ["Nintendo"],
+	"release_date": "May 2, 2013",
+	"serial_number": "TALP",
+	"synopsis": "Go up, up and away with this NES™ classic from the 1980s. In Balloon Fight you have one simple mission: pop or be popped! Burst enemies' balloons from above, and hit them again before they have time to re-inflate. Danger comes from the sky or sea, too; watch out for lightning strikes and a very hungry fish. Balloon Fight also features a two-player mode with cooperative and competitive play, plus a survival mode called Balloon Trip - which may be familiar to fans of Nintendo Land™!"
+}

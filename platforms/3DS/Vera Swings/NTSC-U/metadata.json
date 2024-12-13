@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES"],
+	"name": "Vera Swings",
+	"publishers": ["Brett Yeager"],
+	"release_date": "February 7, 2019",
+	"serial_number": "CEVE",
+	"synopsis": "After falling asleep while gazing at the moon, Vera dreams about swinging on the stars up to the magical place she’s always longed to visit. Help Vera reach the moon by swinging up the stars in this simple yet challenging platformer. Time your swings just right to catch the colorful stars and touch the glowing checkpoint to unlock the next level up. Hone your timing and precision skills as you swing from platform to platform and climb higher through the sky to make Vera’s dream come true!"
+}

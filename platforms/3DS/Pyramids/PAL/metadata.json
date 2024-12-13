@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pyramids",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "October 20, 2011",
+	"serial_number": "JA9P",
+	"synopsis": "Pyramids is a puzzle/platform game where an explorer tries to get out of the pyramids with his loot. The task will not be easy. There are many dangerous traps and monsters that will put your dexterity and ingenuity to the test. The explorer will have the use of TNT and a gun but his best friend will be his shovel which allows him to create and destroy blocks. These blocks can be used as stairs, bridges, protections... The explorer will venture through 54 challenging 3D levels, divided into 6 worlds."
+}

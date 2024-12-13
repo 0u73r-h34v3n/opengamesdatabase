@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Terraria",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "December 10, 2015",
+	"serial_number": "BTEP",
+	"synopsis": "Carve out your own adventure in Terraria, a 2D side-scrolling sandbox of infinite possibilities for Nintendo 3DS family systems. Dig, build and fight as you explore a sprawling fantasy realm that spans vast oceans, icy wastes, dark dungeons and more. Create and demolish the world as you see fit, using the Nintendo 3DS Touch Screen to reach directly into the world of Terraria and sculpt it with ease. Whether you ascend to the skies in pursuit of adventure or excavate into the deepest depths of the earth, every terrain is brimming with raw materials waiting to be gathered and transformed into limitless creations. Build whatever you imagine with more than 100 different types of blocks, from small dwellings to immense fortresses! As you explore, you’ll discover that Terraria is teeming with all kinds of mythical monsters and behemoth bosses, from armoured skeletons to zombies, sharks, unicorns, and even the Eye of Cthulhu. Craft armour, swords, firearms, traps and magical powers – whatever suits your play style – to fight any foe that stands in your way. You can also create equipment, such as diving gear, rocket boots and even a GPS, to help you get around Terraria’s randomly generated landscapes. Band together with up to three other players via Local Play and explore this constantly surprising and unpredictable world together in co-operative multiplayer."
+}

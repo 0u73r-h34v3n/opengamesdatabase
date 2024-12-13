@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Little Sheep",
+	"publishers": ["Famous Gamous"],
+	"release_date": "August 27, 2020",
+	"serial_number": "K95E",
+	"synopsis": "Little Sheep is on a butterfly catching adventure! Help our fluffy little hero explore the infinite gardens, outfox Foxster, and become the world's best butterfly catcher. This story driven quest explores the themes of grit, hard work, and perseverance in achieving your goals."
+}

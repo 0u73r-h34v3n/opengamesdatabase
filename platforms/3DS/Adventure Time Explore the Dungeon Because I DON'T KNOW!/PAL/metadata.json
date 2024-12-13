@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward Technologies"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Adventure Time: Explore the Dungeon Because I DON'T KNOW!",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 11, 2013",
+	"serial_number": "AY9P",
+	"synopsis": "This update for your Adventure Time: Explore the Dungeon Because I DON'T KNOW! game contains several improvements and fixes offering an enhanced gameplay experience. In addition, it addresses issues that users might encounter toward the end of the game."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Frontier Days Founding Pioneers",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "March 16, 2017",
+	"serial_number": "KDJP",
+	"synopsis": "\"Frontier Days Founding Pioneers\" is a simulation game that builds new cities onto undeveloped land. By chopping wood and mining stones, construct buildings with gathered resources to develop your city to become large and rich. The pioneers can gather the resources such as logs and raw meats by chopping and hunting. Use gathered resources to construct buildings. Process the resources by building actions to obtain new resources. Various buildings can be constructed by new resources. When the end of a year comes, the harvest festival requires money and food for the buildings and pioneers, so take the balance of the cost of the resources into consideration!"
+}

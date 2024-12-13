@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Go! Go! Kokopolo 3D: Update Ver. 1.1",
+	"synopsis": "Voici une mise à jour pour le jeu Go! Go! Kokopolo 3D. Le téléchargement ne comprend pas la version complète du titre. Afin de pouvoir utiliser cette mise à jour, vous devez avoir la version complète de Go! Go! Kokopolo 3D. Corriger le problème de sauvegarde de la Recipe card, le problème d’apparition du Boss C, et quelques autres petits problèmes."
+}

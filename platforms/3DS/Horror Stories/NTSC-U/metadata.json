@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Horror Stories",
+	"publishers": ["Vadim Gafton"],
+	"release_date": "March 21, 2019",
+	"serial_number": "BHLE",
+	"synopsis": "How did you imagine how murders are being committed by serial killers? You find yourself in one of these situations, in which you need not to catch the eye of the killer and try to survive by killing him! -Do not catch the eye of the killer, if he notices you, you will surely die. -Find items that can be used to create a trap. -Hide from the killer in the closets or under the bed. -Learn how the killer behaves to avoid meeting him."
+}

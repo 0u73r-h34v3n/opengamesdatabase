@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ambition of the Slimes",
+	"synopsis": "Ambition of the Slimes es un juego de estrategia por turnos en el que combates utilizando a los slimes. Existen diferentes tipos de slimes, cada uno con sus propias habilidades. Deberás elegir el slime más apropiado para vencer a cada enemigo y pensar una buena estrategia de batalla. En el campo de batalla puedes utilizar numerosas tácticas y tu elección será clave para alcanzar la victoria. Si no consigues vencer a tu enemigo porque los slimes son demasiado débiles, cambia de estrategia."
+}

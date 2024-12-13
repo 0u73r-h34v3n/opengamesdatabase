@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ドラゴンクリスタル ツラニの迷宮",
+	"synopsis": "このソフトは、1990年に発売されたゲームギア用のRPGです。 プレイするたびに変化するダンジョンで、モンスターを倒してレベルを上げながら、魔法陣を目指して進みます。落ちているアイテムは最初はすべて正体不明。装備したり使ったりしながら効果を学び、ダンジョンの奥へと進んでいきます。"
+}

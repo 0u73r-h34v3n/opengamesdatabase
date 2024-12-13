@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Infinity"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Girls' Fashion Shoot",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 29, 2013",
+	"serial_number": "ANLP",
+	"synopsis": "Enter the world of fashion and begin your career as the next top model and editor in Girls’ Fashion Shoot. Take the reins at a popular fashion magazine, become a model yourself and aim for the top by creating stylish articles to get yourself noticed. Become the Ultimate Model Professional - Become a successful model AND a powerful fashion editor. Customise Your Style - Choose from hundreds of customisable options, including nails, hairstyles, and clothing. Manage Your Success - Create stylish magazine article to establish your fashion empire. Pose Away - Create your own style, go on fashion shoots and get cover shots – you choose your own poses and look. Model Professional - Use your earnings from photo shoots to upgrade your look, your apartment and even your lifestyle."
+}

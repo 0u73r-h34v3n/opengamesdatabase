@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bit.Trip Saga",
+	"publishers": ["Aksys Games"],
+	"release_date": "December 20, 2012",
+	"serial_number": "ABTE",
+	"synopsis": "All six BIT.TRIP games morphed into a single entity called BIT.TRIP SAGA. Experience the crushing difficulty of the rhythmic galaxies through the head of CommanderVideo and ride along the long journey with him as he completes his mission and returns...home. Dance to the Chiptune-inspired soundtrack and look out for special guest appearances by Super Meat Boy and Mr. Robotube. BIT.TRIP SAGA includes: BIT.TRIP BEAT, BIT.TRIP CORE, BIT.TRIP VOID, BIT.TRIP RUNNER, BIT.TRIP FATE, and BIT.TRIP FLUX...in 3D!"
+}

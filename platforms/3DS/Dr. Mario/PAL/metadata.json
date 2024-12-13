@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dr. Mario",
+	"publishers": ["Nintendo"],
+	"release_date": "March 22, 2012",
+	"serial_number": "RA5P",
+	"synopsis": "At Mushroom Kingdom Hospital, nasty viruses are on the loose. It's time to give them a dose of Mario's medicine! In this classic puzzle game you must eradicate all the viruses in the bottle, by spinning and lining up the coloured vitamin capsules as they fall. The more lines of viruses you clear, the more points you rack up, scoring huge combos. But beware of side-effects: this game may be addictive!"
+}

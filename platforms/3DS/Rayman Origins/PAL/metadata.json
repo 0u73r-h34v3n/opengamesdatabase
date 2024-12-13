@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rayman Origins",
+	"publishers": ["Ubisoft"],
+	"release_date": "June 20, 2013",
+	"serial_number": "ARMP",
+	"synopsis": "Rayman is back! Jump into this all new adventure full of surprises and epic boss battles. -Play as Rayman or Globox and explore Rayman's magical universe -Discover over 60 platforming levels -Share your progress, unlocked achievements and more via StreetPass™"
+}

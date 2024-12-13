@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Ecco the Dolphin",
+	"publishers": ["SEGA"],
+	"release_date": "December 12, 2013",
+	"serial_number": "JDLP",
+	"synopsis": "After a mysterious storm sweeps your family from the sea, it’s up to you to find them and uncover the mystery behind the forces that took them. The search to find them will take you through vast underwater realms of treachery, beauty and adventure. Use your sonar to discover hidden caverns and unlock the secrets of crystal glyphs, but beware of packs of bloodthirsty sharks that search the ocean for unwitting prey! In your quest, you’ll discover that more than your family’s safety is at stake. The fate of the whole world rests on your wits and fins. In addition to its all-new 3D presentation, 3D Ecco the Dolphin also features Super Dolphin Mode where your health and breath never deplete!"
+}

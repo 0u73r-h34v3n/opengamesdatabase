@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mercury Stream"],
+	"genres": ["Action", "Platformer", "Shooter"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Metroid: Samus Returns",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 15, 2017",
+	"serial_number": "A9AP",
+	"synopsis": "Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1992 Game Boy adventure. This intense, side-scrolling action platformer has been completely remade with engaging and immersive 3D visuals and a rich, atmospheric colour palette. There are plenty of secrets to find – and if you uncover enough of them, you may even start to unravel the mystery of Planet SR388’s past. Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

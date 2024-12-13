@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bike Rider DX",
+	"publishers": ["Spicysoft"],
+	"release_date": "August 1, 2013",
+	"serial_number": "JCXE",
+	"synopsis": "Enjoy a new kind of jump 'n run action, riding your bike on bumpy roads, crossing deep valleys and dodging all kinds of obstacles. Travel the globe to be the champion of the WORLD TOUR mode, or break the highscore in the endless GRAND PRIX mode and see how far you can go. You can use a variety of power-up items like the \"Air Ride\" and make use of fun gimmicks such as giant whirlwinds on your way through the stages! Will you be able to collect all gold coins and unlock the special bonus stages? Just jump! - Everyone can quickly become familiar with the controls, while a large variety of stages and modes provide fun for both newcomers and experienced gamers!"
+}

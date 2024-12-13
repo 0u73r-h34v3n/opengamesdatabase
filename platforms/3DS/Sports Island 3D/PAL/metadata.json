@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Sports"],
+	"locales": ["ES"],
+	"name": "Sports Island 3D",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 9, 2011",
+	"serial_number": "ADEP",
+	"synopsis": "Konami and Hudson’s Sports Island series moves from Wii to Nintendo 3DS with the release of Sports Island 3D – allowing players to enjoy a variety of events on the go in glasses-free, stereoscopic 3D. With a roster of 10 different sports, this title delivers fun and games to players who enjoy serious disciplines, as well as to those who like their activities a little more wild and wacky. You can choose from football, basketball, tennis, ice hockey, sumo wrestling, bowling, trampolining, snowmobile racing, snowball fighting and blowgun archery!"
+}

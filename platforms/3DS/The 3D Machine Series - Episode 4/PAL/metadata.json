@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The 3D Machine Series - Episode 4",
+	"publishers": ["Ka-Ching Cartoons"],
+	"release_date": "December 6, 2012",
+	"serial_number": "MBBP",
+	"synopsis": "In Egypt a mummy runs amok in an ancient pyramid. Igor and the professor fly to the rescue and chase the monster down a maze of tunnels. Will they emerge victorious or forever be caught in this tomb of doom? Length 2:30 min"
+}

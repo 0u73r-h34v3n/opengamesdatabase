@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Alter World",
+	"publishers": ["Lemondo Games"],
+	"release_date": "April 5, 2018",
+	"serial_number": "CAYE",
+	"synopsis": "Inspired by Stephen King’s book - “The Dark Tower”, Alter World is a 2D platformer with interesting gameplay mechanics. Player can pass on an alternative universe anytime and use an alternative realms to move to another level. 100 unique and challenging levels. 10 different immersive worlds will conquer your heart! Listen to your ego, and finish the game with several different endings!"
+}

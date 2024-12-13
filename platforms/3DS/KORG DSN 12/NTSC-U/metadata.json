@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "KORG DSN 12",
+	"publishers": ["DETUNE"],
+	"release_date": "October 23, 2014",
+	"serial_number": "JRWE",
+	"synopsis": "KORG DSN-12 software makes it easy for anyone to enjoy serious sound-creation and song production with analog synthesizers. The software provides 12 monophonic synthesizers. Each one lets you add 3 effects, allowing a broad range of powerful sounds that you would not expect from a game machine. You can make your ideas take shape very quickly, you can enjoy constructing songs in real time while performing in a DJ-like manner. Don't miss the world's first 3D display oscilloscope screen!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Board Games",
+	"publishers": ["Nacon"],
+	"release_date": "January 29, 2015",
+	"serial_number": "AYFP",
+	"synopsis": "Chess, Mah-jong, Solitaire: rediscover 3 timeless classics in this scintillating compilation! Whether you're a beginner or a professional, you'll enjoy these classics, not only with their traditional rules but also with brand new game modes. Check the game rules at any time and test your abilities in Adventure Mode with lots of challenges to take up!"
+}

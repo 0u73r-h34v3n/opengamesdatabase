@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Radiant Historia Perfect Chronology",
+	"publishers": ["SEGA EUR"],
+	"release_date": "February 15, 2018",
+	"serial_number": "BRBP"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Life Force",
+	"publishers": ["KONAMI"],
+	"release_date": "January 23, 2014",
+	"serial_number": "TBZE",
+	"synopsis": "Pilot the Vic Viper solo through six stages of intense action, alternating between horizontally and vertically scrolling environments, and take on wave after wave of enemies. Destroy particular enemies throughout the game—all of which takes place within the body of an enormous alien—to release power-up capsules and equip your ship with your choice of more powerful weapons, extra speed, and shields. Utilize the power-ups carefully, though, as a fearsome guardian lurks at the end of each stage and won’t be easily defeated. You can go at it alone, or invite a friend to pilot the RoadBritish and assist in the challenge. Do you have what it takes to save your planet from the monstrous Zelos?"
+}

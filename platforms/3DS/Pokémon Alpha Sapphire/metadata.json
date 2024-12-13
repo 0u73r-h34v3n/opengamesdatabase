@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pokémon Alpha Sapphire",
+	"publishers": ["The Pokémon Company"],
+	"regions": ["PAL"],
+	"release_date": "April 22, 2015",
+	"serial_number": "ECLA"
+}

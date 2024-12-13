@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Torus Games"],
+	"genres": ["Adventure", "Fantasy", "Simulation"],
+	"locales": ["ES"],
+	"name": "Monster High: New Ghoul in School",
+	"publishers": ["Little Orbit"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 13, 2015",
+	"serial_number": "BMSP",
+	"synopsis": "Roam the halls of Monster High in full 3D, and for the first time experience a ghoul’s life with Monster High: New Ghoul In School! Join the student body and begin your education as the newest ghoul in school. Juggle your life as the new ghoul and build relationships with your classmates. Compete to become the leader of the Fearleading Squad or Student Council President in fast-paced mini-games. Be Yourself. Be Unique. Be a Monster."
+}

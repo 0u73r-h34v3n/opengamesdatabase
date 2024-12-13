@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Breath of Fire",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 6, 2016",
+	"serial_number": "UBAE",
+	"synopsis": "Long ago, the war between the dragon clans almost destroyed the world. Now, centuries after the Light and Dark Dragons settled their scores, evil is rising again! Join Ryu, a descendant of the Light Dragons, who has the ability to transform into a powerful beast, in a quest to rescue his sister and stop the Dark Dragons’ plans. He is joined by a band of seven companions, each with unique animal powers. This is the US version of the game."
+}

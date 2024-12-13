@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Theatrhythm Final Fantasy - Curtain Call",
+	"publishers": ["SQUARE ENIX"],
+	"release_date": "September 19, 2014",
+	"serial_number": "BTHP",
+	"synopsis": "221 Songs & Over 60 Characters from FINAL FANTASY® Go head-to-head in Versus Mode Rhythm Meets RPG in Quest Medley Mode"
+}

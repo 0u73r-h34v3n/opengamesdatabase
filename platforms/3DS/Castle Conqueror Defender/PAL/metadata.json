@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Castle Conqueror Defender",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "December 18, 2014",
+	"serial_number": "JCDP",
+	"synopsis": "My Lord! Hordes of barbaric fire-worshippers have invaded our land! As one of the last loyal generals of the realm, it is your mission to defend your land and train brave, ordinary men into exceptional warriors. Will you succeed or fall in battle? The fate of a noble land rests on your shoulders in this Medieval-themed castle defense game. Features: - 10 epic campaigns consisting of 5 levels each - Try to survive for 20 days in glory mode - Defend the Holy Land against the Mamelukes in crusader mode - Enchanting music and thrilling AI - Various upgrades for troops and power-ups for buildings - Use archers, towers, and more to obtain victory"
+}

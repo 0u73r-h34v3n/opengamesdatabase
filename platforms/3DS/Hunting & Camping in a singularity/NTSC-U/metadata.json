@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES"],
+	"name": "Hunting & Camping: in a singularity",
+	"publishers": ["Ronie Salgado"],
+	"release_date": "August 25, 2022",
+	"serial_number": "K5DE",
+	"synopsis": "A lifesavers during its usual morning shift takes a short nap. When he wakes everything looks strange. The universe is gone. So now it is time to hunt and camp in the no-universe where anything can happen."
+}

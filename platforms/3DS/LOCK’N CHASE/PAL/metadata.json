@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "LOCK’N CHASE",
+	"publishers": ["G-MODE"],
+	"release_date": "December 1, 2011",
+	"serial_number": "RBGP",
+	"synopsis": "The chase is on, to catch a master thief. He’s fast, sneaky and runs rings around the cops. No bank is safe from…you! In classic arcade action game LOCK’N CHASE you must dash around the maze-like bank vaults, grabbing all the coins while avoiding the guards. As you progress, the banks get bigger and the riches become greater; but the guards get tougher, too. Fortunately, snatching a diamond means the law can’t touch you, for a short time at least. You know what they say; no risk, no reward!"
+}

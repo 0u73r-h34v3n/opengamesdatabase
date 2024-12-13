@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Etrian Odyssey IV - Legends of the Titan",
+	"publishers": ["NIS America"],
+	"release_date": "September 5, 2013",
+	"serial_number": "ASJP",
+	"synopsis": "Etrian Odyssey IV brings an enhanced graphics engine boasting polygonal enemies and new 3D special effects; upgradable, customizable skyships that let players travel and battle amid the clouds. An exceedingly atmospheric and fully orchestrated musical score from Yuzo Koshiro in addition to expanded, more immersive 3D dungeons with analog camera control rounds up the features of the newest addition to this beloved franchise."
+}

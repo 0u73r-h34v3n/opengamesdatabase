@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Shadow of the Ninja",
+	"publishers": ["Natsume Inc."],
+	"release_date": "January 29, 2015",
+	"serial_number": "TD5E",
+	"synopsis": "It is the year AD 2029, and America is ruled under the dictatorship of Emperor Garuda. In the midst of disorder and oppression, two shadow warriors rise to the people’s cry for help. Choose to play as one of two ninja masters from the Iga clan—Hayate and Kaede—as they infiltrate enemy front lines in 16 action-packed stages. Master tactics of stealth as you acquire new weapons and power-ups, defeating numerous foes until you reach the emperor himself. Overthrow the emperor and destroy his wicked empire from within, solo or with a friend!"
+}

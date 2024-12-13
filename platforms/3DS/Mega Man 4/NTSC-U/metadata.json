@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man 4",
+	"publishers": ["CAPCOM"],
+	"release_date": "April 25, 2013",
+	"serial_number": "TBDE",
+	"synopsis": "Original Release Date: January 1992 A year after the destruction of Gamma, and Dr. Wily's defeat, the world is still at peace. One day a mysterious letter arrives for Dr. Light from an unknown scientist named Dr. Mikhail Cossack. Dr. Cossack plans to eliminate Mega Man and prove he is the greatest robot designer of all time. It’s up to Mega Man to save the day once again. Mega Man 4 provides action based game play like the earlier games in the series. Rush, Mega Man’s canine companion, is back to battle the baddies. Mega Man also has the ability to charge up energy inside his Arm Cannon, allowing him to fire larger and more damaging blasts."
+}

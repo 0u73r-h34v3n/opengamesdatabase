@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Defenders of Oasis",
+	"publishers": ["SEGA"],
+	"release_date": "June 20, 2013",
+	"serial_number": "GAJP",
+	"synopsis": "Once captured by heroes of a bygone era, the foul wizard Ahriman has been summoned by dark forces and his armies now threaten to ravage the peaceful land of Shanadar. As the prince of the kingdom, rally powerful allies to your side and lead them onward to repel Ahriman’s forces throughout the kingdom in this classic Japanese role playing adventure. Recruit unique allies such as a princess, genie and thief! Fight enemies to gain strength and upgrade your heroes’ weapons and armour in order to fight Ahriman."
+}

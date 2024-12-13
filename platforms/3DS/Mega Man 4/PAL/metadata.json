@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man 4",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 21, 2014",
+	"serial_number": "RCFP",
+	"synopsis": "At a gathering of the World Robot Exposition, chaos suddenly ensues. Dr. Wily, with his mind-controlling device, sets all of the robots to attack! The only one not under his control is Mega Man, who sets off to stop Dr. Wily. Joining Mega Man are Rush and Beat, and together they battle fortresses of laser turrets, waves of armed androids and fiendish Robot Masters. Blast your way through while adding new weapons to your inventory and face-off with Dr. Wily once more!"
+}

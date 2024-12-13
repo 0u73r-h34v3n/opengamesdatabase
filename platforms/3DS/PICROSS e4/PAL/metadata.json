@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "PICROSS e4",
+	"publishers": ["JUPITER"],
+	"release_date": "May 22, 2014",
+	"serial_number": "JEPP",
+	"synopsis": "The 4th game in the Picross e series, with a Navigation Feature! As fans requested, new 20x15 puzzles have been added. Micross and Mega Picross modes are also included, with 150+ new puzzles! Tutorials and rule options let newcomers to the series start playing with ease. With save data from previous games, you can also play additional Special Puzzles. Picross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images. The rules are simple and easy to grasp. Anyone can do it!"
+}

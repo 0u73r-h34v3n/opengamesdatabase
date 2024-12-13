@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cocoro Line Defender",
+	"publishers": ["Moving Player"],
+	"release_date": "June 26, 2014",
+	"serial_number": "JFBP",
+	"synopsis": "A legend handed down through the ages says that the Cocoro Islands were created by the god Perfect. He breathed his spirit into them and, through his will alone, each one received a founding entity. These founding entities had extraordinary powers that were to be used for the good of Cocoro; the Yoko were their protectors. And that is the incredible story we’re going to tell you... Cocoro is a strategy game where you control the Yoko of each of the four elements. In this typically Asiatic game world, you must unlock heroes with different characteristics and an array of weapons you can upgrade throughout the battles."
+}

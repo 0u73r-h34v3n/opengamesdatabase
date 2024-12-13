@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sanuk Games"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Candy Match 3",
+	"publishers": ["Nacon"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 15, 2014",
+	"serial_number": "BCME",
+	"synopsis": "Line up the sweets, set off tasty effects and beat the high scores! Play quick matches with various difficulty levels, and match 3,4,5 or even 6 sweets to uncover many colorful special bonuses! A great videogame classic, finally available for Nintendo 3DS."
+}

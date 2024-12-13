@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Physical Contact: Picture Place",
+	"publishers": ["Collavier"],
+	"release_date": "October 12, 2017",
+	"serial_number": "CDTP",
+	"synopsis": "Puzzle game called Number Place (a.k.a. Sudoku) is difficult, but feeling of achievement when solved is very high. This game was improved to look good, easy to play, as it was, with the basic rules intact. That name is Picture Place. It is a game series where two people can play against each other. So, ingenuity has been devised so that you can enjoy this game with two people. Any two partners, including parents, friends and lovers are suitable. If you use the handicap function, you can level the playing field. Because the match times are short, you can play anytime and anywhere whenever you feel like it. Of course there is also a single-player mode. Please enjoy it together!"
+}

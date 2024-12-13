@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Yoshi",
+	"publishers": ["Nintendo"],
+	"release_date": "February 21, 2013",
+	"serial_number": "TARE",
+	"synopsis": "Original Release Date: June 1992 Yoshi™ is an action/puzzle game starring Mario's dinosaur buddy Yoshi who has been imprisoned in an egg. Now it's raining Goombas, Bloopers, and Boo Buddies, and you have to help Mario™ stop the airborne invasion. As the critters fall, catch them on trays. Stack two of a kind and they both disappear, or capture the whole bunch in between eggshells. When the eggshells match, out hatches Yoshi and up goes your score! The action heats up as the characters fall faster and faster. To save the day, switch and shuffle, and don't let your piles get too high!"
+}

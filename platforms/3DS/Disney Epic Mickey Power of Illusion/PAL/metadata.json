@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["DreamRift"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Disney Epic Mickey: Power of Illusion",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 23, 2012",
+	"serial_number": "AECP",
+	"synopsis": "Inspired by the classic Castle of Illusion Starring Mickey Mouse, this game features new ways for Mickey Mouse to interact with a 3D game world using paint and paint thinner."
+}

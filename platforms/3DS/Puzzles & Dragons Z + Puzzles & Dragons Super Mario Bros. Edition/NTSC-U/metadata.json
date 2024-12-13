@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Puzzles & Dragons Z + Puzzles & Dragons Super Mario Bros. Edition",
+	"publishers": ["Nintendo"],
+	"release_date": "December 24, 2015",
+	"serial_number": "AZGE"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario’s Super Picross",
+	"publishers": ["Nintendo"],
+	"release_date": "November 3, 2016",
+	"serial_number": "UBGP",
+	"synopsis": "This Super NES version of the popular ‘picture crossword’ game was originally released only in Japan and features hundreds of relaxing yet challenging brainteasers. Each Picross puzzle consists of a numbered grid of tiles which reveal a picture when correctly chiselled away. In Mario’s main mode, a wrong move means losing time. However, in the more difficult Wario mode, mistakes are not shown... so be careful!"
+}

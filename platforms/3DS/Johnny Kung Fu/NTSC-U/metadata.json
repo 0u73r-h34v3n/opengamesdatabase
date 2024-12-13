@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Johnny Kung Fu",
+	"publishers": ["UFO Interactive"],
+	"release_date": "July 12, 2012",
+	"serial_number": "JKFE",
+	"synopsis": "Updated 11/30/2012. Updates Include: Added new variations to the B&W stages. Adjusted gameplay balance. Johnny Kung Fu™ is an old school action game that mixes the old with the new! Johnny Kung Fu™ puts you into the Kung Fu garb of a seemingly everyday man Johnny. The local organized crime group Mr. Wang, led by the mysterious man known as Mr. Wang, seems to have a bone to pick with Johnny and has captured his girlfriend Paula. Knowing that an ambush awaits him, Johnny chases the kidnappers into one of Mr. Wang’s hideout towers regardless. Will Johnny be able to save Paula? Or will the Mr. Wang Gang prevail?"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "G-LOC Air Battle",
+	"publishers": ["SEGA"],
+	"release_date": "July 4, 2013",
+	"serial_number": "GAPE",
+	"synopsis": "Strap yourself in and take to the skies in G-LOC Air Battle. Dive, climb and bank as you outmaneuver enemy pilots and blow them out of the sky with your impressive arsenal. There are nine different air, land and sea missions. You can even challenge a friend via local two player multiplayer! Gain experience with every mission and equip yourself with more powerful weapons and armor in order to destroy the Future World Army and bring peace back to the skies."
+}

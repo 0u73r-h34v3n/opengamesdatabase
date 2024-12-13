@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Castlevania Dracula X",
+	"publishers": ["KONAMI"],
+	"release_date": "January 26, 2017",
+	"serial_number": "UBRE",
+	"synopsis": "Dracula has risen once again, summoning his dark minions, and capturing the girlfriend of Richter Belmont as bait to lure the hero to his doom. As Richter, descendent of the original slayer Simon Belmont, wield the legendary whip and do battle against the denizens of Dracula's castle. Wield powerful weapons and mystical power-ups and discover secret bonus levels as you venture through seven levels of hellish action. Make your mark in the Belmont lineage and turn Dracula to dust! This is the US version of the game."
+}

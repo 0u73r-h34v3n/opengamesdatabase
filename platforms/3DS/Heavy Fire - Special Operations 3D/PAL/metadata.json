@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Heavy Fire - Special Operations 3D",
+	"publishers": ["Teyon"],
+	"release_date": "October 25, 2012",
+	"serial_number": "JHFP",
+	"synopsis": "Gear up and join an elite Special Forces unit in Heavy Fire: Special Operations 3D, an arcade-style on-rail shooter for Nintendo 3DS™. Choose from three character profiles, each with unique attributes, and use a combination of brains and brawn (but mostly brawn) to blast your way through a variety of dangerous ground, vehicle and air-based stages. And if you’re really feeling trigger-happy, you can earn additional points by blowing up the environment. Each victory sees your military rank rise, earning you increasingly powerful and upgradeable weapons. You’ll need preternatural reflexes and a never-say-die spirit to restore peace in the ever-volatile Middle East. When the smoke clears, will you be a Special Operations legend?"
+}

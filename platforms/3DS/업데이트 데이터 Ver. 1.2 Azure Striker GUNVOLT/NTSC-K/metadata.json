@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["2d Platformer", "Action"],
+	"locales": ["KO"],
+	"name": "업데이트 데이터 Ver. 1.2 Azure Striker GUNVOLT",
+	"publishers": ["INTI CREATES"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 10, 2015",
+	"serial_number": "JV7K"
+}

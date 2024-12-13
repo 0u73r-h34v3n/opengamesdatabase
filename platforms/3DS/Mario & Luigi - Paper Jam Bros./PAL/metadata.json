@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Alpha Dream"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario & Luigi - Paper Jam Bros.",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 4, 2015",
+	"serial_number": "AYNP",
+	"synopsis": "Two Marios are better than one in Mario & Luigi: Paper Jam Bros., a comical RPG mash-up for Nintendo 3DS family systems! When two unique universes collide, Paper Mario jumps off the page and joins a super team of Mario Bros. Together, Mario, Luigi and Paper Mario must save the Mushroom Kingdom from the only thing more threatening than one Bowser: two Bowsers! Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

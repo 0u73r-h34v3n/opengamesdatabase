@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "LEGO Marvel's Avengers",
+	"synopsis": "Deze patch-toepassing zal LEGO® MARVEL’s Avengers bijwerken naar v1.2.0 om ondersteuning voor E-Commerce toe te voegen aan het spel. v1.1.0 • Een zeldzame crash die kon worden veroorzaakt wanneer de speler overschakelde naar Black Widow in level 7 is nu gerepareerd. • De speler kan niet meer verschijnen in een afgesloten vrachtcontainer als de speler met Lola in het water belandt. • Verscheidene missie-scripts op de HUB-levels die niet altijd correct werkten, waardoor ze niet voltooid konden worden, zijn nu gerepareerd. • Verschillende zeldzame geheugenfouten in het spel zijn nu opgelost. • Meerdere reparaties van de UI in het spel. • Verbeteringen van vertaalde tekst en audio."
+}

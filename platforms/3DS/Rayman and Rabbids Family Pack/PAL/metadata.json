@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Compilation", "Party", "Platformer"],
+	"locales": ["ES"],
+	"name": "Rayman and Rabbids Family Pack",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 3, 2014",
+	"serial_number": "BRRP",
+	"synopsis": "The Rayman and Rabbids Family Pack for Nintendo 3DS bundles together two Rabbids games - Rabbids Rumble and Rabbids 3D - and the already classic Rayman title, Rayman Origins."
+}

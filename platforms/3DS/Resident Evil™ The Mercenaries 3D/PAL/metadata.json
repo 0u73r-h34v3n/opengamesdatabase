@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Rail Shooter", "Shooter", "Survival Horror"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Resident Evil™: The Mercenaries 3D",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "18"
+		}
+	],
+	"release_date": "July 1, 2011",
+	"serial_number": "ABMP",
+	"synopsis": "It’s a race against time as players compete to defeat as many enemies as possible before the countdown reaches zero. Resident Evil: The Mercenaries 3D offers players a variety of gameplay formats with a solo mission option or the ability to team up with others across the world in two-player co-op via Internet Play. The game also includes the addition of an all new Skill Slot feature. Players will be able to fill three skill slots from a selection of 30 skills including improvements to weapon performance, reload speed or melee abilities and customise characters to best suit their style of play."
+}

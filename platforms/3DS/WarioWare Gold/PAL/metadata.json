@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["INTELLIGENT SYSTEMS", "Nintendo"],
+	"genres": ["Action", "Arcade", "Party"],
+	"locales": ["ES"],
+	"name": "WarioWare Gold",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 27, 2018",
+	"serial_number": "AWXP",
+	"synopsis": "Join Wario and a colourful cast of series favourites in WarioWare Gold, only for Nintendo 3DS family systems. Wheelin’ ‘n’ dealin’ in denim, Wario’s back and better than ever in 300 microgames, where touching, twisting, and mashing your way to victory is the key to microgame mastery!"
+}

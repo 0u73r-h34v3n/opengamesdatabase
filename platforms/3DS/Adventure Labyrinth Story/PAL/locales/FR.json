@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Adventure Labyrinth Story",
+	"synopsis": "Adventure Labyrinth Story est un jeu rogue-like RPG qui vous défie dans un donjon inconnu. Pour ramener le trésor légendaire, vous devez saisir la profondeur du donjon, trouver des armes et des boucliers, utiliser des baguettes et des potions magiques pour lutter contre les monstres, tout en faisant progresser votre niveau. Chaque fois que vous entrez dans le donjon, il est différent dans la structure et dans la conception. Les éléments obtenus et les monstres que vous pouvez rencontrer changent également. Vous pouvez jouerr à plusieurs reprises, même si l'étape a été effacée. Si vous êtes vaincu, les éléments obtenus seront tous perdus. Le niveau sera remis à 1. Les ingrédients que vous collectionnez du donjon peuvent être cuits dans le café pour préparer à manger, ce qui peut accorder des effets positifs et de l'EXP pour la prochaine aventure. Uilisez pleinement les articles à traiter avec les monstres, trouvez des trésors rares pour révéler le mystère du labyrinthe!"
+}

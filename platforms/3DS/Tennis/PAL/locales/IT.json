@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Tennis",
+	"synopsis": "Tennis è un classico per Game Boy che ripropone fedelmente servizio, volée, pallonetto, smash e tutte le mosse dello sport reale, rendendole facilmente eseguibili da tutti i giocatori. Nei quattro livelli di difficoltà del gioco, affronterai avversari comandati dalla CPU sempre più agguerriti: per vincere dovrai dimostrare di avere buoni tempi di reazione e un accurato tempismo. Aggiudicati la partita con potenti servizi, colpi millimetrici, sorprendenti pallonetti e imprendibili passanti. A decidere se la pallina era dentro o fuori sarà l'arbitro. Sai, ora che lo guardo bene mi sembra proprio un tipo familiare... Che ne dici? Questa versione del gioco non consente partite multigiocatore."
+}

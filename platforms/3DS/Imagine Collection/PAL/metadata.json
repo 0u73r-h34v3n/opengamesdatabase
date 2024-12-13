@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dancing Dots", "magic pockets"],
+	"genres": [
+		"Business Simulation",
+		"Compilation",
+		"Life Simulation",
+		"Management Simulation",
+		"Simulation"
+	],
+	"locales": ["ES"],
+	"name": "Imagine Collection",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 7, 2017",
+	"serial_number": "BCLP",
+	"synopsis": "Let your imagination run wild with the Imagine® Collection from Nintendo 3DS! Imagine Collection bundles together Imagine Fashion World, Imagine Fashion Designer and Imagine Babies."
+}

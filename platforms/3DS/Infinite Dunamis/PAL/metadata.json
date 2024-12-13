@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Infinite Dunamis",
+	"publishers": ["KEMCO"],
+	"release_date": "May 26, 2016",
+	"serial_number": "KDUP",
+	"synopsis": "Merging magic and technology, Infinite Dunamis ups the ante with new turn-based battles in an epic RPG adventure! One day on his way home from a job in the Royal City, a gifted engineer by the name of Luke comes across a young woman, Estelle, being attacked in the cave near his village. After fending off her attackers, he attempts to pull her from a heap of discarded mechanical parts only to discover she herself is half robot! Somewhat curious about what he has stumbled onto, Luke decides to take Estelle home and fix her up, but little does he know about the chain of events he is about to find himself tangled up in...! With its unique steam-punk setting, gripping plot-twists, and classic turn-based battle system with a twist, Infinite Dunamis is the RPG to satisfy even the hungriest of gamers! Moreover, with its plethora of features like weapon enhancement, magic skills, and the ability to strengthen Estelle's parameters through the use of crystals, souls, and cores, gamers are sure to experience countless hours of enjoyment!"
+}

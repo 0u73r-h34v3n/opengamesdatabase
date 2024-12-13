@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Dangerous Road",
+	"synopsis": "Traverse la route en évitant le trafic, rends-toi de l'autre côté de la voie ferrée sans te faire frapper par les trains qui passent et saute de bûche en bûche pour traverser la rivière. Un seul faux pas et la partie est finie. Déplace ton personnage un pas à la fois, car chaque erreur peut être fatale. Atteins le point de contrôle et trouve l'objectif pour terminer le niveau. Utilise des passerelles, des étoiles d'invincibilité ou des capacités spéciales, comme Slow Motion [Ralenti] ou Walking on Water [Marcher sur l'eau], pour tromper la mort. Choisis parmi quatre personnages jouables, chacun ayant une capacité spéciale qui peut être utilisée plusieurs fois dans chaque niveau. Utilise tes capacités dans deux différents modes de jeu. Le mode \"Goal Run\" te met au défi d'atteindre chaque point de contrôle, puis l'objectif. Le mode \"Survival\" teste tes techniques de survie, alors que tu évites le trafic sur une autoroute bondée et sur les lignes de chemin de fer pendant 60 secondes!"
+}

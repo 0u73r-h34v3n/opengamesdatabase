@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vblank Entertainment"],
+	"genres": ["Action", "Arcade", "Shooter"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Shakedown: Hawaii",
+	"publishers": ["Vblank Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "September 26, 2019",
+	"serial_number": "AHYP",
+	"synopsis": "Build your corporate empire and destroy the competition. Shakedown: Hawaii follows three protagonists through a 16-bit open world. Build your own \"legitimate\" corporation by completing missions, acquiring businesses, sabotaging competitors, \"re-zoning\" land, and shaking down shops for protection money. Explore the island by foot, by car, or by boat. It's filled with arcade challenges, sidequests, stores to shop at, houses to burgle, civilians to interact with, and secrets to discover. You begin your adventure as an aging CEO, struggling to make sense of the modern world. Online shopping killed his retail stores, ride sharing his taxi business, and streaming his video stores. To save the company, he'll need to learn the \"methods\" of modern business, and use them to rebuild his empire. The entire island is up for grabs... or at least, could be with the right business model. It's business in the front, and bodies in the back... in Shakedown: Hawaii."
+}

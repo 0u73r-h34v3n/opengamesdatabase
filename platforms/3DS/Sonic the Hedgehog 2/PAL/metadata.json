@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic the Hedgehog 2",
+	"publishers": ["SEGA"],
+	"release_date": "June 27, 2013",
+	"serial_number": "GAUP",
+	"synopsis": "As Sonic the Hedgehog, put a stop to Dr. Eggman’s (AKA Dr. Robotnik) mechanical machinations in Sonic The Hedgehog 2! Originally released for the Game Gear, Sonic’s best friend Tails and all of the islands animals have been captured by Dr. Eggman! Now Sonic must rush through winding zones and battle waves of Badniks in order to save them. Ride a runaway mining cart and fly on hang gliders, feather-light bubbles and whirling flywheels to zip through zones. Spin for a bonus at the end of every act! Face six terrifying Master Robots on your journey to stop the evil Dr. Eggman!"
+}

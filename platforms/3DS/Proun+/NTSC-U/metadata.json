@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Proun+",
+	"publishers": ["Engine Software"],
+	"release_date": "March 5, 2015",
+	"serial_number": "KPRE",
+	"synopsis": "In Proun+ you guide a ball racing along a pipe while dodging obstacles. 5 different speeds from Relaxed to Speed of Light mean this game is suitable for both casual and hardcore gamers, so anyone can enjoy it. The levels are accompanied by great jazz-rock music specially written for Proun+. Make no mistake - this game is visually great but will be the hardest challenge of your life at top speed!"
+}

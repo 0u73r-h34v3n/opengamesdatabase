@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Japanese Rail Sim 3D  Travel of Steam",
+	"publishers": ["Sonic Powered"],
+	"release_date": "December 7, 2017",
+	"serial_number": "BTGP",
+	"synopsis": "Welcome to the cab of the \"OIGAWA RAILWAY\"! You will be operating the SL used at the OIGAWA RAILWAY! This SL will depart from \"Shinkanaya Station\", and head to the last stop, \"Senzu Station\". The journey of 37.2 km starts, running aside of Oi-gawa river running through Shizuoka. The SL uses steam to run, so control of steam is essential. Control the \"throttle valve\" to accelerate, and use the notchless brake to stop at the stopping position! There are many curves and uphills because the route wounds through the mountain. From the front observatory, you can see the vast green of tea plantations, and enjoy a refreshing scenery. Listen to the exciting SL sounds and proceed through the serene scenery!"
+}

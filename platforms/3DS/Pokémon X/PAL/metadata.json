@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak Ltd.", "The Pokémon Company"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pokémon X",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 12, 2013",
+	"serial_number": "EKJP",
+	"synopsis": "A stunning 3D world awaits in Pokémon X, exclusively on Nintendo 3DS. Journey through the Kalos region, a land of mystery, and take a step forward in the next evolution of Pokémon. You will be able to choose between three new starter Pokémon!"
+}

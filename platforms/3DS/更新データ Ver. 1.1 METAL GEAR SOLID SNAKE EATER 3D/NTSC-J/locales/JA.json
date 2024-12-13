@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 METAL GEAR SOLID SNAKE EATER 3D",
+	"synopsis": "ニンテンドー3DSソフト「METAL GEAR SOLID SNAKE EATER 3D」の進行不能等、各種不具合の改善を行う更新データです。 特定の条件で作成したセーブデータから、 ゲーム再開できなくなる不具合を改善。 「ラゾレーヴォ北部」ステージからの移動時、装備しているアイテムによって進行不能となる不具合を改善。他。 「METAL GEAR SOLID SNAKE EATER 3D」をお持ちのお客様は、必ずダウンロードください。"
+}

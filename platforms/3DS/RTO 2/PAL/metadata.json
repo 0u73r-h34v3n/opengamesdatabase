@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "RTO 2",
+	"publishers": ["nuGAME"],
+	"release_date": "February 22, 2018",
+	"serial_number": "CC2P",
+	"synopsis": "RTO 2 is a side scrolling first person shooter with elements from the survival horror genre. Take control of a 6-man team through four episodes and do your best to survive and complete your mission. RTO 2 features randomly generated levels and permadeath. It will pitch you up against hordes of enemies and test your survival skills."
+}

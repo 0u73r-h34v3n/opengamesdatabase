@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gargoyle's Quest II: The Demon Darkness",
+	"publishers": ["CAPCOM"],
+	"release_date": "October 30, 2014",
+	"serial_number": "TDNP",
+	"synopsis": "Firebrand the gargoyle returns in this NES™ prequel to the gothic Game Boy™ hit. As a young demon-in-training, Firebrand is entrusted to defeat an evil, dark light that threatens his home. Part platformer, part role-playing game, Gargoyle’s Quest II features overhead map-style adventure elements and side-scrolling action elements. Increase Firebrand’s abilities as you progress; improving your flying, jumping and magic power. Explore the realm, collect items and battle bosses, and vanquish the ultimate evil!"
+}

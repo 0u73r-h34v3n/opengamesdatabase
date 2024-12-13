@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario Bros. 2",
+	"publishers": ["Nintendo"],
+	"release_date": "August 7, 2013",
+	"serial_number": "TBMP",
+	"synopsis": "Join Mario and company on a journey to save the world of Subcon from the foul frog tyrant, Wart. Super Mario Bros. 2 offered freedom to explore levels not only horizontally but also vertically; while collecting power-ups, uprooting veggies to throw at enemies and seeking out hidden ‘Sub-space’ rooms. It was the first Mario title to let players control other characters like Princess Toadstool (Peach) and Toad; each with their own skills. It also featured the first appearance of many Mario series regulars, including Shy Guy and Birdo."
+}

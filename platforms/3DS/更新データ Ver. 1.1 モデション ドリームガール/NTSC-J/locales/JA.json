@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 モデション ドリームガール",
+	"synopsis": "ニンテンドー3DSソフト『モデル☆おしゃれオーディション ドリームガール』の更新データです。 ダウンロードしていただくことで、プロフ設定時に一部出身地の表示が正しく反映されなかった現象が解消されます。 『モデル☆おしゃれオーディション ドリームガール』をお持ちのお客様は、必ずダウンロードしてください。"
+}

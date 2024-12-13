@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario & Yoshi",
+	"synopsis": "Mario & Yoshi est un jeu de puzzle NES basé sur la rapidité dans lequel vous devez combiner les personnages qui tombent et assembler les coquilles d'œuf afin de libérer le Yoshi qui se trouve à l'intérieur. Déplacez Mario pour rattraper les Mini-Goomba, les Boo, les Bloups et les Plantes Piranha qui tombent. Capturez les personnages entre deux moitiés de coquille d'œuf pour libérer un Yoshi ; plus vous capturez de personnages, plus le Yoshi que vous obtiendrez sera grand et plus le bonus sera important ! Mario & Yoshi permet également à deux joueurs de jouer simultanément. Luigi fera alors son apparition sur l'écran divisé en deux parties pour l'occasion."
+}

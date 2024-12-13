@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Monkey Ball 3D",
+	"publishers": ["SEGA"],
+	"release_date": "April 3, 2014",
+	"serial_number": "ASMP",
+	"synopsis": "Super Monkey Ball as you've never experienced before! Join AiAi and friends as you tilt and roll your way in to the world of 3D! Lose yourself in each vibrant world as you twist, turn and aim to collect every banana in the fastest time possible. Then play together with friends and be the first to cross the finish line in Monkey Race or get ready for a manic melee in Monkey Fight. Everyone's favorite monkeys are jumping out of the screen with excitement. Let yourself be completely immersed in the world of Super Monkey Ball like never before. Watch as your favorite monkeys truly come alive in front of your eyes. Are you ready to join the fun!?"
+}

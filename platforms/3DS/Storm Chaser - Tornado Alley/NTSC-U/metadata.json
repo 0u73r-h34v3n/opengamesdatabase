@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Storm Chaser - Tornado Alley",
+	"publishers": ["Skunk Software"],
+	"release_date": "June 7, 2018",
+	"serial_number": "CCLE",
+	"synopsis": "Buckle up and take the wheel of a multi-million dollar storm chasing vehicle. Start off with a humble following and film your way to the top as you become the world’s favorite storm chaser. Full physics and entertaining visuals."
+}

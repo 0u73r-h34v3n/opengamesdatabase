@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Aqua Moto Racing 3D",
+	"publishers": ["Zordix"],
+	"release_date": "October 10, 2013",
+	"serial_number": "JMTE",
+	"synopsis": "It's Aqua Moto Racing 3D! Experience the thrill of high-powered watercraft and break-neck stunts in a third dimension. Race through heaving oceans along sandy beaches in the Tropics, Greece and Egypt. Perform insane stunts and go around the buoys closely to charge your turbo and get the edge against your opponents. Earn cash by participating in races and spend it on better watercraft. Unlock new Championships and Achievements on your quest for Legendary Status. Compete against your friends in local multiplayer mode. Get Ready For The Wave Ride Of Your Life!"
+}

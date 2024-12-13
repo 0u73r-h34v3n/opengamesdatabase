@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Drawing", "Simulation"],
+	"locales": ["FR", "NL", "PT"],
+	"name": "Sparkle Snapshots 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 12, 2012",
+	"serial_number": "JCVP",
+	"synopsis": "Have fun taking and customising your own unique photos, and see where your imagination leads you! Sparkle Snapshots 3D lets you get snap-happy with the cameras on your Nintendo 3DS system. Decorate your photos with frames, backgrounds, stamps and your own doodles, then share your creations with friends wirelessly! (Please note: photos taken with this software will not display in 3D.) There is a self-timer so you can easily put yourself in the picture. You can also connect to the Sparkle SnapShop to purchase new content which is sure to spark your imagination!"
+}

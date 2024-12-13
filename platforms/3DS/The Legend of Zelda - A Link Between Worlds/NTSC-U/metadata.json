@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Legend of Zelda - A Link Between Worlds",
+	"publishers": ["Nintendo"],
+	"release_date": "November 22, 2013",
+	"serial_number": "BZLE",
+	"synopsis": "“10 out of 10 – Game Informer\" Two worlds collide in an all-new adventure set in the world of Super NES™ classic The Legend of Zelda™: A Link to the Past™. In this newly spun tale, Link™ transforms into a living painting to cross into a dark, parallel dimension mirroring Hyrule. Conquer the puzzles, traps, and hidden rooms of deadly dungeons to save both worlds from certain doom! Brought to life in 3D, this beloved, top-down world is the perfect backdrop for a sweeping new tale. Dungeons sink deep below the screen as Link and his attacks pop out, highlighting the nonstop action. The pace is faster than ever, especially since you can swap items on the Nintendo 3DS touch screen. Shoot an arrow, toss a boomerang, bomb a wall, then merge into a painting to slide between two worlds—all in a matter of seconds. With gameplay, visuals, and controls this smooth and consistent, no Zelda™ adventure has ever been so action-packed. Check out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started."
+}

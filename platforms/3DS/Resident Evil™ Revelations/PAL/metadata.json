@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": [
+		"Action",
+		"Horror",
+		"Shooter",
+		"Survival Horror",
+		"Third-Person Shooter"
+	],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Resident Evil™ Revelations",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "January 27, 2012",
+	"serial_number": "ABRP",
+	"synopsis": "Resident Evil™ Revelations for Nintendo 3DS brings a straight shot of spine-chilling terror to the handheld console scene, one that fans of the iconic survival horror series won’t want to miss! Set in the time period between Resident Evil 4™ and Resident Evil 5™, this title features a brand new storyline for series favourites Jill Valentine and Chris Redfield, introduces new characters Parker Luciani and Jessica Sherawat, and offers entirely original environments for players to cautiously explore."
+}

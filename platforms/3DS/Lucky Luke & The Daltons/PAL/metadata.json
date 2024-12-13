@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Anuman Interactive"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Lucky Luke & The Daltons",
+	"publishers": ["Microids"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 30, 2015",
+	"serial_number": "ALJP",
+	"synopsis": "Step into the shoes of your favourite hero and head off to conquer the West! Face up to the Daltons in duels which will test your accuracy. Numerous challenges await you! Are you up to the task? Saddle up Jolly Jumper and achieve your aim in the shortest time possible. And you can count on Rantanplan too!"
+}

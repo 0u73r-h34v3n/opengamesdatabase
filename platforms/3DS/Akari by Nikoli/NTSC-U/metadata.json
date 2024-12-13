@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hamster"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Akari by Nikoli",
+	"publishers": ["HAMSTER"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 5, 2012",
+	"serial_number": "JBJE",
+	"synopsis": "With the Nikoli puzzle series, you can enjoy high-quality \"Akari\" puzzles, created by Nikoli, who gave the world-famous puzzle \"Sudoku\" name. The Nintendo 3DS allows for the realization of simple and easy to play operability. \"Akari\" is a puzzle in which you set lights based on the hint numbers in order to light up the entirety of the white space. The main features of \"Akari\" are the easy to understand rules, and the depth of the game. There are great numbers of patterns for which you will figure out \"When the numbers and lights and spaces are combined like this, then THIS is how they are sure to match up\", so you have plenty of opportunities to taste \"the excitement of discovering new patterns\". To ensure your long-term enjoyment, we're prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Akari\" game."
+}

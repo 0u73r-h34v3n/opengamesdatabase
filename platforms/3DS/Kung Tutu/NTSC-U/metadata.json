@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR"],
+	"name": "Kung Tutu",
+	"publishers": ["Famous Gamous"],
+	"release_date": "November 12, 2020",
+	"serial_number": "L31E",
+	"synopsis": "When the Nutcracker steals her Golden Ballet Slippers, Kung Tutu vows to get them back! Battle past DOLL ballerinas, TOY soldiers, and evade the Mouse King as you seek to confront the Nutcracker himself! You are Kung Tutu - Ballerina AND Kung Fu Fighter! Hi-yah!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man Xtreme 2",
+	"publishers": ["CAPCOM"],
+	"release_date": "May 29, 2014",
+	"serial_number": "QA2E",
+	"synopsis": "It is an age where humans and intelligent robots known as Reploids co-exist peacefully. \"Maverick Hunters\" have been assembled to hunt down broken Reploids, or \"Mavericks\", to maintain order in society. In the Reploid research facility on Laguz Island, Reploids are being turned into lifeless shells as if their souls have been erased... Maverick Hunters Mega Man X and Zero have been dispatched to investigate and solve this mysterious turn of events. Play as either Mega Man X or Zero as you jump across gaps and platforms, gather new abilities by collecting DNA souls, and blast through the evil forces that haunt the island. Solve the case, and restore the Reploids their missing souls!"
+}

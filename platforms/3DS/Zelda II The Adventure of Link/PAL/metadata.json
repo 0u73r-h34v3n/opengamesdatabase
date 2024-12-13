@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Zelda II: The Adventure of Link",
+	"publishers": ["Nintendo"],
+	"release_date": "September 13, 2012",
+	"serial_number": "TANP",
+	"synopsis": "This direct sequel to the original The Legend of Zelda™ is famed for taking the series in a new direction, while also introducing elements that would become standard in future Zelda games. In Zelda II: The Adventure of Link, Link must seek the Triforce of Courage and awaken Princess Zelda from a sleeping spell. Meanwhile, Ganon’s minions are trying to resurrect their master. Zelda II uses a side-scrolling view and overworld map, and features role-playing aspects that are unique to the series."
+}

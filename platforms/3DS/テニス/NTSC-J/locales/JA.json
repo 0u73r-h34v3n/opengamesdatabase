@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "テニス",
+	"synopsis": "1989年にゲームボーイ用ソフトとして発売されたテニスゲームです。 飛んで来るボールのコースと相手の位置を瞬時に判断して、相手のラケットが届かない場所にボールを打ち込みます。対戦相手の強さは4段階で、強さが上がるほどボールや相手の動きのスピードが速くなります。手ごたえのある対戦でテニスの興奮を味わえます。"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "NINJA GAIDEN",
+	"publishers": ["KOEI TECMO EUROPE"],
+	"release_date": "November 15, 2012",
+	"serial_number": "TAXP",
+	"synopsis": "Experience the original adventure of Ryu Hayabusa, the shadow warrior, in this acclaimed action-platformer from the NES era. Ninja Gaiden sees Ryu travel to America to seek vengeance for his father’s murder and uncover a plot that threatens the world – as told through unique anime-style cutscenes. Run, crouch, jump and climb as you battle through 20 challenging side-scrolling areas over six acts while defeating gangs of thugs, evil ninjas and barbarian bosses with your deadly Dragon Sword and Ninpo – ninja magic."
+}

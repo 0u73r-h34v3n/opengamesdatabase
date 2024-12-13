@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Link-a-Pix Colour: Update",
+	"publishers": ["Lightwood Games"],
+	"release_date": "July 4, 2018",
+	"serial_number": "LPCP",
+	"synopsis": "This update fixes an issue which could potentially leave a puzzle in an unsolvable state."
+}

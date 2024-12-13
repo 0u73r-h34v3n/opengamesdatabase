@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "MYSTICAL NINJA starring GOEMON",
+	"publishers": ["KONAMI"],
+	"release_date": "August 16, 2012",
+	"serial_number": "RBRP",
+	"synopsis": "Join Goemon and his friends Ebisumaru and Sasuke as they battle to save ancient Japan from the clutches of the evil Black Ship Gang, and rescue their fellow ninja Yae from the gang's clutches! MYSTICAL NINJA starring GOEMON is an action role-playing game featuring three different characters to control, each with unique skills. Visit towns and question the inhabitants for clues, buy items to aid your quest, and solve brain-teasing puzzles to seek out Yae and defeat the pirates."
+}

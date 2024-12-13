@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Spelunker",
+	"publishers": ["Tozai Games"],
+	"release_date": "June 27, 2013",
+	"serial_number": "TBNE",
+	"synopsis": "Wander through miles of uncharted caves in search of the legendary underground pyramid and its vast treasures. To complete your adventure you will swing from ropes, climb ladders, run across unstable terrain and down ravines as well as operate elevators, mining carts and rafts. You will collect keys, bombs, flares, jewels, sacks of gold coins and other valuable items as you navigate the hazardous terrain. But beware of the scalding steam vents, poisonous bats and the avenging spirits of dead spelunkers that lurk in every corner of this massive underground labyrinth."
+}

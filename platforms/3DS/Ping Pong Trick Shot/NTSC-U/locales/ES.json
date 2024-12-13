@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ping Pong Trick Shot",
+	"synopsis": "Pon a prueba tu habilidad para lanzar bolas con distintos desafíos en los que tendrás que meter una bola en una copa al otro lado de la pantalla. Usa el botón deslizante o el lápiz para hacer que la bola vuele con la trayectoria y fuerza necesarias para que caiga dentro de la copa. Usa objetos como agujeros de distorsión, trampolines y plataformas en movimiento para superar niveles aparentemente imposibles. Desafía tus habilidades de lanzamiento con cuatro modos de juego: máxima puntuación, modo de misiones, modo de desafío y contrarreloj. Score Attack Mode (Modo de máxima puntuación) ¿Cuántas veces eres capaz de meter la bola en la copa con 20 intentos? Mission Mode (Modo de misiones) Ponte a prueba con 5 etapas aleatorias con parámetros de rebote específicos. Challenge Mode (Modo de desafío) ¿Puedes completar todas las etapas con 35 bolas? Time Attack (Contrarreloj) ¿Cuántas veces puedes meter la bola en la copa en un minuto?"
+}

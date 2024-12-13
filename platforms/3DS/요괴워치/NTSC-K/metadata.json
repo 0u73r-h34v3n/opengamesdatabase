@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Role-Playing"],
+	"locales": ["KO"],
+	"name": "요괴워치",
+	"publishers": ["Nintendo"],
+	"release_date": "November 26, 2015",
+	"serial_number": "AYWK"
+}

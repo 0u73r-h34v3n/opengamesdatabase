@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "LBX - Little Battlers eXperience",
+	"publishers": ["Nintendo"],
+	"release_date": "August 21, 2015",
+	"serial_number": "ADNE",
+	"synopsis": "In 2050, customizable palm-sized robots known as LBX are pitted against each other in battle, and now you can get in on the action! Customize your LBX with parts from over 130 sets to create one of more than 30,000 possible designs. Then wage robot war in real-time battles! Team up with characters from the TV series, or take on friends in local 3-on-3 battles. Obliterate your enemies across 20 different battlescapes, from deserts to open plains. There's even an erupting volcano. You can equip your LBX with nine different weapon types that unlock powerful special attacks used to pulverize enemies. To continue the excitement of LBX, additional models, quests, and LBX cards will be distributed online for even more content."
+}

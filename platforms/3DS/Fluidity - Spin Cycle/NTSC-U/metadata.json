@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Fluidity - Spin Cycle",
+	"publishers": ["Nintendo"],
+	"release_date": "December 27, 2012",
+	"serial_number": "JA2E",
+	"synopsis": "Tilt, turn, and even completely rotate your Nintendo 3DS™ system 360 degrees to maneuver a puddle of water named Eddy through a mazelike magical world filled with tricky tunnels and crazy contraptions. Change from liquid to a block of ice or a steam cloud to solve fun, gravity-defying puzzles and defeat Goop monsters as you try to rescue the Rainbow Spirits trapped in the pages of a magical book. Each state of water provides the player with different abilities that must be mastered. Levels are designed to be enjoyed over and over while racing the clock to collect all the hidden water pickups and puzzle pieces and maximize your star rating. Each chapter of the book covers a different era, from the lost age of dinosaurs to the modern world—and beyond!"
+}

@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monster Games"],
+	"genres": ["2d Platformer", "Action"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong Country Returns 3D",
+	"publishers": ["Nintendo"],
+	"release_date": "May 24, 2013",
+	"serial_number": "AYTE",
+	"synopsis": "Donkey Kong™, along with his trusted side-kick Diddy Kong™, makes his triumphant debut on the Nintendo 3DS™ system in this barrel-blasting, rail-riding, ground-pounding adventure. The original Donkey Kong Country Returns has been re-mastered and updated for portable play! Run, jump, climb and defeat enemies through over 65+ levels spanning 8 worlds on Donkey Kong Island. Unlock an all-new 9th world with 8 brand new levels. Select the Original Mode to play the game with the same rules and settings as the Wii version, or try the New Mode that gives you an additional heart, as well as new items to help on your quest to recover Donkey Kong’s stolen banana hoard!"
+}

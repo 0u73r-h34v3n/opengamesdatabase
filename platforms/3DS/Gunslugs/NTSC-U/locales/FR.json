@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Gunslugs",
+	"synopsis": "Gunslugs est un Run'n'Jump rythmé, aux niveaux générés procéduralement et avec mort permanente à la rogue-like. Vous n'avez qu'une seule vie jusqu'à ce que vous trouviez le prêtre voodoo qui vend des statues de retour. Debloquez toute la liste des héros de Gunslugs, et utilisez les pour avancer jusqu'aux portes de l'Enfer et vaincre le boss ultime."
+}

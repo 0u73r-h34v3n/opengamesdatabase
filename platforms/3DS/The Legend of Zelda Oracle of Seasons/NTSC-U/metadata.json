@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Legend of Zelda: Oracle of Seasons",
+	"publishers": ["Nintendo"],
+	"release_date": "May 30, 2013",
+	"serial_number": "QACE",
+	"synopsis": "Original Release Date: May 2001 The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero...and finds Link™. His quest won't be easy--he'll have to master the seasons themselves if he's to turn back the evil tide. Wield the Rod of Seasons! Changes in weather open new paths and reveal hidden mysteries! Use tons of items! Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like Roc's Feather and the Power Bracelet. Link gets reinforcements! Fly, swim, and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!"
+}

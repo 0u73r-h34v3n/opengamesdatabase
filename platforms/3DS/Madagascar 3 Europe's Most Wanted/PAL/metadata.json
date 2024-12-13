@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monkey Bar Games", "Vicious Cycle Software"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES"],
+	"name": "Madagascar 3: Europe's Most Wanted",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2012",
+	"serial_number": "AMCP",
+	"synopsis": "The friendly characters of Madagascar land in a circus and bring us their crazy adventures in an action-adventure video game."
+}

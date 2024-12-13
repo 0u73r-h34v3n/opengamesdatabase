@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Colors! 3D",
+	"publishers": ["Collecting Smiles"],
+	"release_date": "April 19, 2012",
+	"serial_number": "JCRP",
+	"synopsis": "Colors! 3D is a simple yet robust painting application that combines ease of use and powerful painting tools. Based on modern painting techniques originally developed for professional drawing tablets, Colors! 3D is tailored for touch screen devices, and caters to everyone from serious artists to aimless doodlers. Whether you are looking to sketch, paint, or draw up your next plans for world domination, Colors! 3D is the perfect digital sketchbook. - Create and view your own 3D paintings for the very first time - Connect to the online Colors! 3D gallery to share and celebrate your works with the world - Paint together with a friend on a shared canvas using the Nintendo 3DS Local Play - For those who like to stay within the lines, Colors! 3D comes with an assortment of colouring pages"
+}

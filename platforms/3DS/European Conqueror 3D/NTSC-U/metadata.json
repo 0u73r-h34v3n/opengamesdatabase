@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "European Conqueror 3D",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "June 19, 2014",
+	"serial_number": "JXRE",
+	"synopsis": "European Conqueror 3D is a new strategy game set during World War II. In the game, you can order troops to conquer territories such as lands, cities, and oceans. Gather resources, grow in economic power, train troops, destroy your opponents, and capture their capital. Include two modes: Conquest mode and Campaign mode. Conquest mode: choose one of 12 countries that belong to either the Axis Powers or the Allies to dominate Europe. The other countries will be for, against or neutral towards your country. Campaign mode: Main storyline focusing on 4 countries (Germany,Britain,France,Soviet Union). 16 battles in total. Thrilling sound design that will immerse gamers into the action. Features: 3 difficulty levels New Campaigns Auto-save"
+}

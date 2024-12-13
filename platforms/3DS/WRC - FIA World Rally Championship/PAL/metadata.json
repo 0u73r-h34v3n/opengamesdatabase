@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "WRC - FIA World Rally Championship",
+	"publishers": ["Nacon"],
+	"release_date": "December 4, 2014",
+	"serial_number": "BWRP",
+	"synopsis": "Drive all the cars and compete against all the drivers of the 2014 FIA World Rally Championship All weather conditions on all types of road surfaces Realistic, real-time damage management Various difficulty levels, from beginner to expert"
+}

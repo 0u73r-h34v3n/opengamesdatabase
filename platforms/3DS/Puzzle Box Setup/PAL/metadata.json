@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bplus"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Puzzle Box Setup",
+	"publishers": ["Bplus"],
+	"release_date": "December 25, 2014",
+	"serial_number": "KPBP",
+	"synopsis": "In PUZZLEBOX setup you hold the Nintendo 3DS™ system upside-down. Use the stylus to select a colored tile on the Touch Screen which is then on the upper side. If you release the color the tile falls down in the selected column. Let the matching tiles fall down into the glass bottle on the 3D Screen to copy a painting or to complete a setup. Share High Scores in Miiverse™."
+}

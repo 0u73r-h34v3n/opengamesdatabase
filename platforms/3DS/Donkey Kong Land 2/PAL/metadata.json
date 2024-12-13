@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Land 2",
+	"publishers": ["Nintendo"],
+	"release_date": "October 23, 2014",
+	"serial_number": "RCJP",
+	"synopsis": "Donkey Kong has been kidnapped by the evil King K. Rool who is demanding his entire banana hoard as a ransom! Rather than give up the precious stash, Diddy Kong teams up with Dixie Kong to rescue their pal. While the story may be familiar to fans of Donkey Kong™ Country 2, the levels are all new. Jump in with Diddy or Dixie and enlist the help of friendly animal buddies like Rambi the Rhino, Squitter the Spider, Enguarde the Swordfish and Squawks the Parrot to bring DK back to safety!"
+}

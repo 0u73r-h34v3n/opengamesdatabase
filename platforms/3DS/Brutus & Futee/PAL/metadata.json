@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Brutus & Futee",
+	"publishers": ["Microids"],
+	"release_date": "December 25, 2014",
+	"serial_number": "KBUP",
+	"synopsis": "Brutus & Futée is an adventure puzzle game in which the player takes on the role of the author of an animated series. Help Brutus and Futée find their way and overcome the obstacles they meet. Draw objects and paint or erase the setting to assist the two heroes. Their journey will take them through a variety of different environments and present them with a host of dangerous situations, from an ancient Inca temple full of mysteries and secrets, to the maze in a production studio governed by a rather jittery Boss. With your help, the two heroes will try to rediscover their former glory as famous cartoon stars."
+}

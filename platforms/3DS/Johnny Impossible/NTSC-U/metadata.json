@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Johnny Impossible",
+	"publishers": ["UFO Interactive"],
+	"release_date": "December 27, 2012",
+	"serial_number": "JHNE",
+	"synopsis": "It's a MEGA CRISIS! Mr. Wang’s Gang is up to no good once again! Take control of Johnny, the super spy, and stop Mr. Wang’s Gang’s ambitious evil plans! Mr. Wang has a super-laser mounted on a satellite in space, aiming to destroy Solid City! In this exciting side-scrolling stealth platformer, find and use all the tools at Johnny’s disposal to infiltrate Mr. Wang’s facilities. Sneak past the security, avoid traps, and confront enemy robots to save the city from Mr. Wang’s crazy super-laser in outer space!"
+}

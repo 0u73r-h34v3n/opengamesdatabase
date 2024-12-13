@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Nano Assault EX",
+	"publishers": ["Shin’en Multimedia"],
+	"release_date": "March 7, 2013",
+	"serial_number": "JNAE",
+	"synopsis": "Stop the deadly Nanostray virus from spreading and contaminating civilization in Nano Assault EX, a fast-paced action shooter set within a visually stunning cellular system that leaps off the screen in full 3D. Control your microscopic Nanite ship inside the dangerous virus to fight off infections, navigate through alien cell clusters, battle bosses, and ultimately analyze and destroy the virus' core to save humanity. Nano Assault EX is based on the original Nano Assault retail game plus the all-new survivor mode, new online rankings, support for Circle Pad Pro, improved gameplay, updated graphics, etc."
+}

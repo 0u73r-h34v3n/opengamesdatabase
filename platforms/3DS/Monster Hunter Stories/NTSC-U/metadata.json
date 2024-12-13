@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Monster Hunter Stories",
+	"publishers": ["Nintendo"],
+	"release_date": "September 8, 2017",
+	"serial_number": "AAHE",
+	"synopsis": "When a monster strikes, the fearful hide, but the brave? They ride. Venture into monster nests to collect eggs and hatch a wide array of species with uniquely powerful skills. Form teams, battle alongside them, crush opponents with combo attacks, and ride into the sunset a champion. Need more muscle? Then mix and match genes to create monsters with more abilities! When a monster infected by the Black Blight attacks your remote village of riders, tragedy will thrust you into an exciting yet dangerous world, where you must bond with monsters on your adventure. As the story snakes along, you’ll encounter a wealth of side quests and hours of challenging turn-based battles where you must coordinate monster skills, rider skills and enemy attack patterns. The instinctive rock-paper-scissors combat system is a series first, a breath of fresh air for veterans and newcomers alike. It’s the perfect entry point into the popular Monster Hunter universe and a game unlike anything else in the series! You can even battle other players online, locally, or via the StreetPass™ feature!"
+}

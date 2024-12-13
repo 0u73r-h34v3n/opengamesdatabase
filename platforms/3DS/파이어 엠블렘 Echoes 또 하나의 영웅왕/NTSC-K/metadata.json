@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "파이어 엠블렘 Echoes 또 하나의 영웅왕",
+	"publishers": ["Nintendo"],
+	"release_date": "July 13, 2017",
+	"serial_number": "AJJK"
+}

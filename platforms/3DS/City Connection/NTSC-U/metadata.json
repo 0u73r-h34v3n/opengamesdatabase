@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "City Connection",
+	"publishers": ["City Connection"],
+	"release_date": "November 21, 2013",
+	"serial_number": "TBUE",
+	"synopsis": "After breaking into a paint store in New York City, the cops are now coming after you! Carrying leaky 10-gallon paint cans, drive over every mile of New York City highways before catching a boat to England. From there, you will go on a tour of the world, avoiding the police and leaking paint all over the place. Your only defense: picking up oil cans left on highways and throwing them at police cars. Send the police for a spin, and knock them off the road as you make your getaway!"
+}

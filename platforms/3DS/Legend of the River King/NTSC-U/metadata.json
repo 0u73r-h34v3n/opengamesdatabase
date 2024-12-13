@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Legend of the River King",
+	"publishers": ["Natsume Inc."],
+	"release_date": "March 28, 2013",
+	"serial_number": "QATE",
+	"synopsis": "Original Release Date: November 1999. The Legend of the River King is a unique fishing RPG that offers two great modes, putting your angling and survival skills to the test! Select Fish mode, and follow a young boy’s quest for the elusive Guardian Fish. Only with its magical powers can he save his sister from a mysterious illness. Choose a fishing spot from the quiet lakes to the raging rapids. Check the water conditions, and then select from a variety of fishing rods and tackle. But watch out, because dangerous animals will attack you along the shores! Stop at the local villages to sell your catch and restock on supplies, or rest at an inn before moving on. Catch all 40 different species of fish to reveal a new fishing spot! You can also try your hand at raising a pet fish in Raise mode. Keep your fish happy by regularly checking its status and cleaning its tank, and watch as it evolves into a different species!"
+}

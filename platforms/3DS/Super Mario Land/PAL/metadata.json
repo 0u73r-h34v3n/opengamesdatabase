@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Mario Land",
+	"publishers": ["Nintendo"],
+	"release_date": "June 7, 2011",
+	"serial_number": "RAAP",
+	"synopsis": "Mario’s acclaimed Game Boy debut brings the plucky plumber to new territory: Sarasaland, where the evil space monster Tatanga has hypnotised the people and kidnapped Princess Daisy! While the gameplay will be at first familiar, with the winning blend of platforming and power-ups, Super Mario Land is unique for introducing vehicles for Mario to ride: the Sky Pop aeroplane and Marine Pop submarine. You’ll need all your skills on land, in the sea and through the air, to traverse the four diverse kingdoms of Sarasaland in your quest to defeat the dastardly Tatanga and rescue Daisy."
+}

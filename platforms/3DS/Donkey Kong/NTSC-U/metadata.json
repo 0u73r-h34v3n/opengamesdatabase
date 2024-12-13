@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Donkey Kong",
+	"publishers": ["Nintendo"],
+	"release_date": "August 15, 2013",
+	"serial_number": "TBJE",
+	"synopsis": "Donkey Kong has kidnapped Pauline, and it is up to Mario, the fearless carpenter, to come to her rescue. Throwing fate to the wind, Mario tries desperately to climb the labyrinth of structural beams from the top of which Donkey Kong taunts him. Help our hero ascend the metal structure by dodging an assortment of fireballs, steel beams, and exploding barrels the angry ape hurls at him. Prepare yourself for a never-ending adventure as Donkey Kong takes Pauline away to the next level every time Mario gets to the top. Based on the arcade game of the same name, this classic will keep hardcore and casual gamers entertained for hours."
+}

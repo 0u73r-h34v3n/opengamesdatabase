@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ピクロス2",
+	"synopsis": "このソフトは、1996年に発売されたゲームボーイ用のパズルゲームです。 連続で削るマスの数を表すタテとヨコの数字をヒントにマスを削り、絵を完成させていきます。ゲームモードは練習用の「やさしいピクロス」に加え、削り間違えると自動的に訂正される「マリオのピクロス」と、問題が難しくなる上に削り間違えても訂正されない、「ワリオのピクロス」の3種類です。"
+}

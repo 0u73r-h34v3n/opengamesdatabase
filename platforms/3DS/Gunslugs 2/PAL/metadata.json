@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gunslugs 2",
+	"publishers": ["Engine Software"],
+	"release_date": "October 22, 2015",
+	"serial_number": "KGVP",
+	"synopsis": "The black duck army is back! They are sending signals into space, which can't be good... In fact, the army has teamed up with aliens! You and the gunslug squad have to defeat the risen army with all their might again before its too late. And of course the slugs have enough equipment to do that. Flamethrowers, tanks, guns and many more are at your disposal and ready to kick some alien butt!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"name": "Super Mario 3D Land",
+	"publishers": ["Nintendo", "iQue"],
+	"regions": ["NTSC-U", "PAL"],
+	"release_date": "December 7, 2012",
+	"serial_number": "JREC"
+}

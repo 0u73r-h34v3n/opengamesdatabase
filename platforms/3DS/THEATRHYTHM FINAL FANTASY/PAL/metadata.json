@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["indieszero"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "THEATRHYTHM FINAL FANTASY",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "July 6, 2012",
+	"serial_number": "ATHP",
+	"synopsis": "It's a quarter of a century since the first Final Fantasy title was released, and what better way to celebrate than with a stellar rhythm game featuring a feast of your favourite musical moments from the legendary series?"
+}

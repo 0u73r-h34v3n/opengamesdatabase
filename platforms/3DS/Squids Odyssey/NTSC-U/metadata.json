@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Squids Odyssey",
+	"publishers": ["The Game Bakers"],
+	"release_date": "July 3, 2014",
+	"serial_number": "JCJE",
+	"synopsis": "Squids Odyssey is a unique mix of action strategy and RPG: build your team of Squid heroes for epic turn-based battles against corrupted crabs and shrimps! Steev, Vahine and the rest of the Squids are in danger! An infectious black ooze is corrupting their world. The band of unlikely heroes need to fight back to save their underwater kingdom! Squids Odyssey is not just about gorgeous cartoon art, jaunty music and humorous storytelling, the battles also provide a deep challenge as strategy and skill are required to use the environment, the Squids’ strengths, and enemies’ weaknesses to victory! Features: Recruit a unique team of Squids in four different classes: shooters, scouts, troopers and healers Customize your party with special ability-boosting and crazy looking helmets An epic story with giant turtle rides and heroic boss battles Discover the Squids' legendary world through gorgeous levels More than 15 hours of gameplay, 90+ levels and 15 Squids, plus the Pro Mode!"
+}

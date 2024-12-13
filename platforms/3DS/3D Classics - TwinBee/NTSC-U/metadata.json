@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Classics - TwinBee",
+	"publishers": ["Nintendo"],
+	"release_date": "September 22, 2011",
+	"serial_number": "SACE",
+	"synopsis": "A hit sensation back in the day, this vertical-scrolling arcade game only made its release on the Famicom. Now, for the first time ever in North America, 3D Classics: TwinBee presents the old shooter along with a new 3D look for your enjoyment! Guide the spacecraft, TwinBee, as you dodge and destroy waves of aerial and ground enemies. If you get hit and lose both of your ship's arms, find an ambulance for repairs quickly! Shoot through the clouds to uncover bells. Collect these for extra points, or continue to shoot at them to gain different upgrades for your ship! Additional power-ups can also be collected from the ground! Fly high in the sky with your anthropomorphic spacecraft in this new release of a classic!"
+}

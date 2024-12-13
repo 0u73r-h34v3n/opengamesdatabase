@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dillon's Rolling Western",
+	"publishers": ["Nintendo"],
+	"release_date": "February 22, 2012",
+	"serial_number": "JAMP",
+	"synopsis": "Ravenous rock monsters are raiding villages to feast on their livestock, and there's only one armadillo tough enough to stop them: ranger Dillon! Defend villages against waves of creatures - building gun towers and lookouts - and battle the varmints with Dillon's sharp claws, awesome Roll Attack, Grind Attack and more. Gather ore from mines to make defence gates for the village, and raid ancient ruins for hidden treasure, too. Dillon’s Rolling Western puts a new spin on the tower defence genre!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Zelda II - The Adventure of Link",
+	"publishers": ["Nintendo"],
+	"release_date": "September 1, 2011",
+	"serial_number": "TANE",
+	"synopsis": "Original Release Date: December 1988 Link™ returns to Hyrule to search for the Triforce and to awaken Zelda™ from an endless sleep. Embark on a quest to find the Triforce of Courage and save Hyrule from ruin. Learn magic spells, talk to people in towns to get clues, collect items to increase your power and explore six palaces where the underlings of the evil Ganon await you. This sequel to the adventure classic uses a side-scrolling visual engine unique to the series for more technical combat, and it features more in-depth world roaming as Link encounters townsfolk while on his quest."
+}

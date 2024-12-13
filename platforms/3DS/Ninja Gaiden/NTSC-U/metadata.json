@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ninja Gaiden",
+	"publishers": ["KOEI TECMO AMERICA"],
+	"release_date": "December 13, 2012",
+	"serial_number": "TAXE",
+	"synopsis": "Original Release Date: March 1989 Players take the role of Ryu Hayabusa, a rising warrior in his family's clan whose main role in the world is to protect the Dark Dragon Blade from getting into the hands of evil. Ryu Hayabusa travels to America to seek vengeance for his father's death. Players fight their way through ten challenging side-scrolling levels while defeating gangs of street thugs, battling evil ninjas, and fighting barbarian bosses by using the deadly Dragon Sword, ninja skills, and ninja magic. Players can run, crouch, jump, and climb as they make their way through each stage and collect items to gain points, strength, and weapons."
+}

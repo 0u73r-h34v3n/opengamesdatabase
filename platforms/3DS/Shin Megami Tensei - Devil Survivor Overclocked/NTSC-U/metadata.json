@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Shin Megami Tensei - Devil Survivor Overclocked",
+	"publishers": ["SEGA"],
+	"release_date": "October 10, 2013",
+	"serial_number": "AMTE",
+	"synopsis": "Expanded and enhanced, Devil Survivor Overclocked for Nintendo 3DS builds upon the game's original release with the addition of voice acting for the entirety of the game's lengthy, unconventional narrative. Moreover, that very story, already boasting multiple endings based on critical decisions by the player, now concludes with a special eighth chapter, a rousing epilogue for Shin Megami Tensei fans. The game's beautifully remastered hand drawn artwork and character portraits benefit from the new system's higher resolution screens, offering players a crisper, higher fidelity experience."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crazy Chicken - Pirates 3D",
+	"publishers": ["Teyon"],
+	"release_date": "September 27, 2012",
+	"serial_number": "JMNP",
+	"synopsis": "The Chicken Island is home to countless perils, hidden extras and pirates who are by no means willing to surrender themselves without a fight. Point & shoot at birds as they scurry through the island and plunge bravely into the waves. Complete your raid by slaying pirates and collecting hidden treasures."
+}

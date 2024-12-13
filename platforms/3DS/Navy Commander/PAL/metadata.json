@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Navy Commander",
+	"publishers": ["Nacon"],
+	"release_date": "March 19, 2015",
+	"serial_number": "BNCP",
+	"synopsis": "Hit... Sunk! At the helm of your fleet, use your firepower and secret weapons to sink the enemy navy before it finds all of your ships. React quickly and adapt your tactics to become the master of the seas. - The classic board game revisited, with exclusive animations and bonuses that give the game a whole new dimension. - Set the game up the way you want: number of ships, grid size, available secret weapons, and five levels of AI difficulty. - Set up your Nintendo 3DS™ like a game board to play with a friend or in wireless multiplayer mode with a single Game Card."
+}

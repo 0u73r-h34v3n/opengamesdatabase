@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pick-A-Gem",
+	"synopsis": "Experimente nosso mais novo desafio e entre na competição global pelos maiores recordes no placar. Pick-A-Gem é um jogo de combinação tripla. O jogador possui um tempo limitado para recolher o máximo de joias possível. As joias são recolhidas ao tocar no fundo da tela e criar uma cadeia da mesma cor. A cada partida, o nível de experiência do jogador aumenta. Isso dá acesso a novas funções como bombas, dinamites, multiplicadores, moedas, baús e até o modo Frenesi. Quanto maior o nível de experiência, mais pontos o jogador ganha."
+}

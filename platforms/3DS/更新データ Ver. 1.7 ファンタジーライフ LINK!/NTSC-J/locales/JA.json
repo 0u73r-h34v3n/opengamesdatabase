@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.7 ファンタジーライフ LINK!",
+	"synopsis": "ニンテンドー3DSソフト『ファンタジーライフ LINK!』の更新データです。各種不具合が解消されるほか、「追加アイテム」が購入できるようになります。なお、更新データをダウンロードすると、更新データをダウンロードしていない『ファンタジーライフ LINK!』とのマルチプレイができなくなりますのでご注意ください。"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cooking Mama Ltd."],
+	"genres": ["Cooking", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cooking Mama 4",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 9, 2014",
+	"serial_number": "ACQP",
+	"synopsis": "Mama is cooking up a storm - for the first time in 3D! - Decorate Mama's kitchen and customise your utensils! - 4 player wireless challenge mode - Over 200 new minigames - Tilt your Nintendo 3DS™ and cook in a whole new way!"
+}

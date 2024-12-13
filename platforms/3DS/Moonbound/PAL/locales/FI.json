@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Moonbound",
+	"synopsis": "Moonbound pelin juoni etenee pelaajan hahmon ja aluksen tietokoneen välisen keskustelun avulla. Tason läpäisemiseksi pelaajan täytyy kerätä kaikki kentän energiakristallit. Vaatii nopeaa päätöksentekokykyä, tason tilanteen hahmottamista, useiden asioiden samanaikaista seuraamista sekä eri tyyppisten vihollisten ja tasojen tuntemista. Pelissä on neljä vaikeustasoa eri tasoisille pelaajille. Pelin grafiikka on toteutettu käsinpiirretyllä 2D-grafiikalla. Pelin alussa pelaaja valitsee pelin valikosta pelimoodin, vaikeustason, pelattavan hahmon ja aloitustason. 2 pelimoodia (Story Mode ja Arcade Mode) 2 pelattavaa hahmoa (kapteeni James Aldrin ja tohtori Emily Sharpe) 4 vaikeustasoa (Easy, Normal, Hard ja Hardcore) 32 pelattavaa tasoa Pelit-lehden arvostelussa peli on saanut pistemäärän 85/100. 3DS-projekti kesti kuusi vuotta ja yli 3 000 tuntia. Pala kotimaista pelihistoriaa!"
+}

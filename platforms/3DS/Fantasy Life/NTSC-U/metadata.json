@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Fantasy Life",
+	"publishers": ["Nintendo"],
+	"release_date": "October 24, 2014",
+	"serial_number": "AFLE",
+	"synopsis": "Offers in-game purchases Embark on the adventure of your dream life as you craft, cast, battle, and role-play like never before. With the innovative Life system, your choices don’t just upgrade characters—they help shape your journey! Explore a huge fantasy landscape beside surly dark paladins, slick pirate captains, and others who share your taste for the unknown. Choose from 12 Life classes: Will you pick the combat class to take down foes with weapon in hand or the crafter’s path to create stronger weapons and tools? Your choices unlock your potential as you level up, harvest items, and craft gear. The more resources and abilities you have, the more freedom to personalize your journey. Traverse an area as one Life class and return as another to gain different items. To Get a special angel-themed outfit follow these instructions: 1. Go to the Castile Post Office 2. Talk to the Password Clerk 3. Input \"I'm finished!\" (case sensitive) 4. The clerk will provide you with an angel-themed outfit."
+}

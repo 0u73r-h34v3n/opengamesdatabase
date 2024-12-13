@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mach Rider",
+	"publishers": ["Nintendo"],
+	"release_date": "June 12, 2014",
+	"serial_number": "TC8P",
+	"synopsis": "Earth, the year 2112. A lone motorcycle warrior is all that stands between invaders and survivors. You are Mach Rider! In the main Fighting Course mode, race through winding highways and take out the enemies using your machine guns or by barging them into obstacles. In Endurance Course, pit your survival skills against the clock, or try Solo Course for an enemy-free ride. Mach Rider also includes a Design mode, enabling you to create your own courses on which to race."
+}

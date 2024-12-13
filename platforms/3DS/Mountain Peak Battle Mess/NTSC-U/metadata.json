@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mountain Peak Battle Mess",
+	"publishers": ["Vadim Gafton"],
+	"release_date": "September 19, 2019",
+	"serial_number": "B7ME",
+	"synopsis": "High, high in the clouds, there is a small mountain. There are fierce battles. You are a warrior who must survive as long as possible. Everything depends on you. -Endless game with permanent death. -Get experience and upgrade your statuses. -Funny and hard game."
+}

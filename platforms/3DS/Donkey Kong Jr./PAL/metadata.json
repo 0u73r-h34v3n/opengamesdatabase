@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Jr.",
+	"publishers": ["Nintendo"],
+	"release_date": "August 23, 2012",
+	"serial_number": "TAKP",
+	"synopsis": "Donkey Kong has finally been captured by Mario! In this unique role-reversal platformer, you play as DK's son, Junior, and must save dad from Mario's clutches. Swing and climb your way across vines and chains to grab the keys that unlock Donkey Kong's cage, avoiding nasty critters like Snapjaws and Nitpickers. It's a game all about speed and high scores - so get swinging and rack up those points - but don't forget to rescue DK!"
+}

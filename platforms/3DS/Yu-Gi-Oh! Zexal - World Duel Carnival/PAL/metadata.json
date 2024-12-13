@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Yu-Gi-Oh! Zexal - World Duel Carnival",
+	"publishers": ["Konami Digital Entertainment GmbH"],
+	"release_date": "June 26, 2014",
+	"serial_number": "AYXP",
+	"synopsis": "Enter the World Duel Carnival and compete against 40 opponents from the Yu-Gi-Oh! Zexal universe. Defeat them all to be crowned champion. Each playable character has their own unique deck allowing players to jump straight into the action while more experienced player can build their own from a pool of over 5,500 cards. For new players there is an easy mode and tutorial to guide them through the basic rules and techniques."
+}

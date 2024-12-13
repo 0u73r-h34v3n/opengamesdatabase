@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "MIGHTY BOMB JACK",
+	"publishers": ["KOEI TECMO EUROPE"],
+	"release_date": "October 25, 2012",
+	"serial_number": "TAUP",
+	"synopsis": "When the royal family is imprisoned inside the Great Pyramid of Evil by the demon Belzebut, it's up to Jack, the only remaining heir, to rescue them. As Mighty Bomb Jack you must jump and glide through treacherous corridors and enemy-infested rooms, collecting bombs and treasures as you go. Jack can increase his abilities by collecting Mighty Coins - but don't be greedy or you'll be sent to the Torture Room!"
+}

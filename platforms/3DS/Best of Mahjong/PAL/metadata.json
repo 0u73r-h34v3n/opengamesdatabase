@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Mahjong",
+	"publishers": ["GameOn"],
+	"release_date": "December 25, 2014",
+	"serial_number": "JVMP",
+	"synopsis": "Relax your mind with the ancient game of tiles. \"Best of Mahjong\" features 404 layouts of the traditional tile-matching game in 3D, each with millions of different shuffles to play. The game's style and interface has been designed for easy and intuitive operation with the Nintendo 3DS stylus or +Control Pad. The graphics can be customized with fabulous tile-sets and backgrounds. Sit back, relax and enjoy the endless challenge with this Mahjong game collection."
+}

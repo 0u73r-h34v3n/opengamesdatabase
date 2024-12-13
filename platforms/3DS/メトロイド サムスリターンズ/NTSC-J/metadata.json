@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mercury Stream"],
+	"genres": ["Action", "Platformer", "Shooter"],
+	"locales": ["KO"],
+	"name": "メトロイド サムスリターンズ",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "September 15, 2017",
+	"serial_number": "A9AJ"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Lufia: The Legend Returns",
+	"publishers": ["Natsume Inc."],
+	"release_date": "November 20, 2014",
+	"serial_number": "QBEP",
+	"synopsis": "Wain always wanted to see the world, but he never expected he would end up fighting to save it! Follow the young warrior and his companions on an epic adventure that spans vast continents, as you try to stop an ancient evil. The third in the series, and the first for a handheld system, Lufia: The Legend Returns features 12 playable characters, each with their own unique personality and special attacks, plus a compelling storyline and in-depth battle and magic systems, including the return of Infuriating Point special attacks."
+}

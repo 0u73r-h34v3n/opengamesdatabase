@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mystery Case Files Ravenhearst",
+	"publishers": ["MSL"],
+	"release_date": "April 3, 2014",
+	"serial_number": "AAQE",
+	"synopsis": "Rumors surrounding the history of stately Ravenhearst Manor have circulated for decades. The recently acquired diary of Emma Ravenhearst may hold the key to unraveling the tale behind this unsettling place, yet the pages are missing. Players assume the role of Master Detective to unlock secrets held within Ravenhearst™, scouring a myriad of enchanting rooms in the manor for cleverly hidden clues. Locating and assembling diary pages helps tell the story of the house and, ultimately, unlock the mystery."
+}

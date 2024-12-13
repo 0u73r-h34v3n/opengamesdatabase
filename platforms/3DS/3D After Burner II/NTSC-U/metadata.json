@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D After Burner II",
+	"publishers": ["SEGA USA"],
+	"release_date": "January 15, 2015",
+	"serial_number": "JVNE",
+	"synopsis": "3D After Burner II is a completely re-mastered version of the arcade classic. Pilot your F-14D fighter through enemy territory blasting away squadrons of enemy fighters. This arcade masterpiece now features stereoscopic 3D, a choice of real arcade cabinets, new difficulty settings as well as visual adjustments options. Blast your way through 23 stages to unlock a special mode with even more gameplay enhancements."
+}

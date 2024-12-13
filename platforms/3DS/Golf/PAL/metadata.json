@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Golf",
+	"publishers": ["Nintendo"],
+	"release_date": "October 13, 2011",
+	"serial_number": "RALP",
+	"synopsis": "Bogey, par, birdie, or eagle. The score is up to you. Golf is 18 holes of realistic links action. Each hole has tricky hazards, so strategy is a must. Read the wind direction, check the distance, select a club, adjust your swing and keep your eye on the ball. Now drive it home. From twisting fairways and hungry sand traps to big water hazards and deceptive greens, Golf is packed with challenges. This version of the game does not have multiplayer functionality."
+}

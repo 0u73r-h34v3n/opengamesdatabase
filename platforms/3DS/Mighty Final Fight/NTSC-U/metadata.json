@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mighty Final Fight",
+	"publishers": ["CAPCOM"],
+	"release_date": "November 27, 2014",
+	"serial_number": "TDME",
+	"synopsis": "The Mad Gear Gang has been battling with Mayor Mike Haggar for years over control of Metro City. One day, the gang of misfits takes it too far by kidnapping the mayor's daughter, Jessica. That is one mistake that will be their undoing! Clean up the streets in five levels of intense, hard-hitting action! Choose the pro wrestler Haggar, the street brawler Cody, or the Ninjutsu master Guy, each with his unique fighting abilities and special moves. Find power-ups that will replenish health, give extra lives, or provide extra chances to keep fighting! Weapons provide another alternative for knocking the living daylights out of the thugs that stand in your way. Join Haggar and his friends in a fight against crime as they free their loved one and the city from the evil clutches of the Mad Gear Gang."
+}

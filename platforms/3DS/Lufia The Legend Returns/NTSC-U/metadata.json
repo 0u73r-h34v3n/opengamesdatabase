@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Lufia: The Legend Returns",
+	"publishers": ["Natsume Inc."],
+	"release_date": "January 15, 2015",
+	"serial_number": "QBEE",
+	"synopsis": "After waking from a century long slumber on Doom Island, the powerful Sinistrals rise to lay a devastating claim on the world they want for their own. As the Sinistrals begin their attack on a small village, a young man is saved while his home and surroundings are destroyed. Wain, a descendant from a legendary hero, and Seena, a traveling fortune teller, must join forces to seek out warriors like themselves during their travels across the four main continents. Join a cast of 12 playable characters in this turn-based adventure filled with love, hope, terror, and revenge. Complete quests to open up new paths, level up by battling monstrous enemies, and gain new abilities by finding Ancient Texts hidden within dungeons and caves. Then, take the trial in surviving the 200 levels of the mystic but dangerous Ancient Cave. The thread of destiny guides you in your journey to becoming a legend!"
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": [
+		"Business Simulation",
+		"Construction Simulation",
+		"Management Simulation",
+		"Simulation"
+	],
+	"locales": ["ES"],
+	"name": "Animal Crossing: Happy Home Designer",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 12, 2015",
+	"serial_number": "EDHP",
+	"synopsis": "Create dream homes, gorgeous gardens and a lively town square in Animal Crossing: Happy Home Designer, only for Nintendo 3DS family systems! As the latest employee of Nook’s Homes, a real estate agency ran by the one and only Tom Nook, it’s up to you to design wonderful homes to suit any animal. Chat with potential clients to find out what sort of pad they’d prefer, then put your decorating skills to the test and put together ideal abodes, inside and out. Do away with dreary décor and give each of your animal friends a place to call “home, sweet home!” Pick a plot of land, customise the look of the house itself and even landscape the garden, then move inside to overhaul the interior however you like: use simple Touch Screen controls to place and move furniture wherever you want it, and customise the room from floor to ceiling. Let your imagination run wild and interpret each animal’s request however you see fit, but be sure to include any favourite items that they already own, too! You’ll add more items to your collection every time you complete a request, giving you even more design possibilities for future projects. You can also use Play Coins to expand your horizons and uncover new aspects to home design: learn how to decorate ceilings, create your own patterns, customise furniture and more! In addition to designing homes, co-ordinate with Isabelle to develop town facilities, such as schools, shops and restaurants. Apply your home design flair to town facilities and the town plaza will expand in no time. As the town plaza grows, more and more animals will appear outside Nook’s Homes, waiting for you to help them. Discover your inner designer and interact with your favourite Animal Crossing characters in a whole new way in Animal Crossing: Happy Home Designer for Nintendo 3DS family systems!"
+}

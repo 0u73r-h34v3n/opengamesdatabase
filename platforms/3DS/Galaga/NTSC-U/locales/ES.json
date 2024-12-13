@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Galaga",
+	"synopsis": "Muévete a izquierda y derecha para defenderte contra los misiles y ataques de los alienígenas de Galaga y su comandante. Los alienígenas atacarán en formación usando una variedad de patrones de ataque. ¡Rescata a una nave capturada para fusionarte con ella y obtener el doble de poder de ataque! Así te resultará más fácil conseguir bonificaciones de perfección en los niveles de desafío."
+}

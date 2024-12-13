@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Dragon Sinker",
+	"publishers": ["KEMCO"],
+	"release_date": "April 6, 2017",
+	"serial_number": "KD9E",
+	"synopsis": "Set out in search of the legendary weapons to free the world from the rule of Wyrmvarg! Employing 8-bit graphics and sound that hark back to the golden era of RPGs, Dragon Sinker brings a visual and audio feast to the table of hungry gamers starving for the nostalgia of the great classics of yesteryear! Scour the world in search of new companions and collect more than 16 jobs! Then lead up to 12 party members into turn-based battles and swap freely between 3 teams to take on a host of powerful foes! And if that were not exciting enough, character costumes also change according to their job, giving pixel lovers something even more to look forward to! Plus, with plenty of subquests for the hero to tackle and secret dungeons to explore, this is one adventure not soon to be forgotten!"
+}

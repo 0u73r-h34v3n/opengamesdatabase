@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fun! Fun! Minigolf Touch!",
+	"publishers": ["Shin’en Multimedia"],
+	"release_date": "March 8, 2012",
+	"serial_number": "JF2P",
+	"synopsis": "Play minigolf with your Mii and master new cups and trick shot challenges in beautiful environments. The perfect touch controls make for a fun and rewarding putting experience. Customise your Mii to add a personal touch to your game. Play 81 holes spread across America, Asia and Europe. Enjoy exotic locations all over the world. Earn coins and spend them on flight tickets, trick shot qualifications, luxury equipment and much more. FUN! FUN! Minigolf TOUCH! is the ultimate minigolf game for everyone."
+}

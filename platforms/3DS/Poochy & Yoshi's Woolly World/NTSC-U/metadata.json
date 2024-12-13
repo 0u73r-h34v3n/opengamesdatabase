@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Good-Feel"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Poochy & Yoshi's Woolly World",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 3, 2017",
+	"serial_number": "AJNE",
+	"synopsis": "Discover a handicraft world bursting at the seams with creativity, as you guide Yarn Yoshi™ or Yarn Poochy through clever side-scrolling stages. Unravel secrets, toss yarn to weave platforms, and power up with woolly transformations. All stages from the Wii U version are joined by new ones starring Poochy and more Nintendo 3DS exclusive features! It’s a mad dash for beads in new Poochy stages: dodge stumps, mush down snowy paths, chase Lakitu, and unearth hidden paths and items. Sniffing out secrets is always a charm in Mellow Mode, thanks to the curious Poochy Pups. As you find collectables, you’ll unlock rewards, from extra stages to new Patterned Yoshi. You can also design and play as your very own Yarn Yoshi, or share it with friends via the StreetPass function! When you want a break from exploring, peek into the lives of Yarn Poochy and Yarn Yoshi in 30 hilarious stop-motion shorts. It’s time to get crafty!"
+}

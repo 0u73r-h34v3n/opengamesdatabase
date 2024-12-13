@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Sonic the Hedgehog: Triple Trouble",
+	"publishers": ["SEGA"],
+	"release_date": "March 29, 2012",
+	"serial_number": "GAAP",
+	"synopsis": "While the evil genius Dr. Robotnik is testing the ultimate destructive weapon, one of his assistants makes a mistake, causing his lab to explode and scattering five Chaos Emeralds across the planet Mobius. Sonic and Tails spin-dash to rescue them. Tricky Knuckles streaks right behind, with sticky-fingered Nack the Weasel joining the hunt. It's a triple-threat race to see who will get the Emeralds first! -Three times the action and Triple the Trouble! Loop, blast and super spin-dash through six zones, five bonus rounds and a wild 3-D stage. -Check out Sonic's moves as he jams with his awesome Strike Dash, Jet-Boards on snow and ice, rolls in his Spin-Coaster and swims deep underwater with Propeller Shoes. -Help Tails as he submarines through water with his Sea Fox and Heli-Tails to explore parts of the zone beyond Sonic's reach."
+}

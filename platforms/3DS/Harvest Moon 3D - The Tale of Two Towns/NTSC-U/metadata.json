@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Harvest Moon 3D - The Tale of Two Towns",
+	"publishers": ["Natsume Inc."],
+	"release_date": "April 18, 2013",
+	"serial_number": "AT2E",
+	"synopsis": "Years ago, a tunnel connected livestock-loving Bluebell village with the crop-growing town of Konohana, but boisterous bickering between the burgs created a cave-in and collapsed the tunnel! Build a bustling farm, befriend the villagers, and maybe you can find a way to bring these towns together once again! Choose from two different villages, each with their own shops, villagers, and festivals! Take on quests in each town and establish your reputation as the best farmer on both sides of the mountain! Grow crops, raise livestock, woo a spouse, and start a family!"
+}

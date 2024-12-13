@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The 3D Machine Series - Episode 5",
+	"publishers": ["Ka-Ching Cartoons"],
+	"release_date": "December 6, 2012",
+	"serial_number": "MBCP",
+	"synopsis": "Deep down in the ocean an eight-armed evil lurks. This sounds like a job for Igor and the professor! Using their submarine they hunt down the sea monster, but its eight tentacles of terror might just be too much for our heroes to handle... Length 2:30 min"
+}

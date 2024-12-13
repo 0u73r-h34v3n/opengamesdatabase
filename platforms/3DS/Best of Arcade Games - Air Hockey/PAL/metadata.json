@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Best of Arcade Games - Air Hockey",
+	"publishers": ["Nacon"],
+	"release_date": "February 12, 2015",
+	"serial_number": "JGTP",
+	"synopsis": "Rediscover a timeless amusement arcade classic with Air Hockey! Rise to 20 challenges against tougher and tougher opponents in Adventure mode to become an Air Hockey pro. Magnetic puck, accelerated speed, gravity warping... Discover ten astonishing bonuses and penalties! Aim straight to get around the obstacles and joker penguins crossing the rink, and score the winning goal!"
+}

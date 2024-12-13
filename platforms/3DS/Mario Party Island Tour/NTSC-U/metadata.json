@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NDCube"],
+	"genres": ["Party"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario Party: Island Tour",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 22, 2013",
+	"serial_number": "ATSE",
+	"synopsis": "In this ultimate showdown you can take on the road blaze through the 7 new game boards, some of which take just minutes to play. Wrangle goombas and blast out of cannons as you tilt, tap, and draw through new minigames harnessing the unique functionality of Nintendo 3DS™. Compete in new multiplayer modes including mind bending puzzles, minigame challenges, or enter a whole new reality with AR Card play for up to 4 players. Whether in single or multiplayer, this is a portable party that never ends."
+}

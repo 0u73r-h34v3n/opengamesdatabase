@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "行列ナゲループ",
+	"synopsis": "『行列ナゲループ』の目的はただひとつ。 長い列をなす「色ジャマ」たちを手当たり次第に消すことです。 列の間に割り込んで来たり、騒いで列を乱してみたり…… そんな「色ジャマ」たちをキレイに消すことができれば、気分もスッキリ爽快です。"
+}

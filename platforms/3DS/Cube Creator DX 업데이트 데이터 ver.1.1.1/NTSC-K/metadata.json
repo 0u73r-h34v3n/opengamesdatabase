@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "Cube Creator DX 업데이트 데이터 ver.1.1.1",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "November 2, 2017",
+	"serial_number": "A9CK"
+}

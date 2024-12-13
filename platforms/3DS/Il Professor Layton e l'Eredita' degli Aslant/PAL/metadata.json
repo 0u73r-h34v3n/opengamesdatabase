@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["DE", "FR", "IT"],
+	"name": "Il Professor Layton e l'Eredita' degli Aslant",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 8, 2013",
+	"serial_number": "AL6I",
+	"synopsis": "Il capitolo finale della serie del Professor Layton ti porterà in giro per il mondo per risolvere enigmi e rompicapi nella più ambiziosa avventura del professore. Dopo aver ricevuto una misteriosa lettera che parla della scoperta di una mummia vivente, il Professor Layton e la sua squadra partono alla volta di una città abbarbicata tra i ghiacci dell'Artide. Una volta là, liberano una giovane donna intrappolata in una prigione di ghiaccio, dando inizio a una grande avventura a bordo di un dirigibile che li porterà in luoghi spettacolari dove risolveranno i misteri di antiche civiltà."
+}

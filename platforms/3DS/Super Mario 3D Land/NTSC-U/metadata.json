@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Super Mario 3D Land",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 13, 2012",
+	"serial_number": "AREE",
+	"synopsis": "Platforming with serious depth! With the 3D visuals of Super Mario 3D Land, players can see exactly where floating blocks and flying Paragoombas are, so that they can jump and stomp with the precision of the pros. Expert gamers will appreciate the way 3D graphics reveal the true challenge of the levels, so that they can focus on nailing the perfect jump or shaving precious seconds off their speed runs, while new players will find that 3D makes platforming simple to grasp and satisfying to master. Try on Mario's Tanooki Suit, and put some spring in your step! While longtime gamers will delight in using Tanooki Mario's tail-spin attack to sweep enemies off their feet and fluttering through the air to land super-long jumps, a new generation will learn what makes this classic suit a fan favorite. But even seasoned players will be in for a surprise—Mario's enemies may be sporting the familiar Tanooki tail too! Mario at his very best! Mario™ returns to his roots in his first 3D platforming adventure designed exclusively for a handheld system. From the frantic race-against-the-clock dash through the Mushroom Kingdom to that final leap to grab the top of the flagpole, this eye-popping addition to the Super Mario™ series combines everything that makes Mario great from one generation to the next."
+}

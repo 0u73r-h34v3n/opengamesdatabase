@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Pokémon Puzzle Challenge",
+	"publishers": ["Nintendo"],
+	"release_date": "November 6, 2014",
+	"serial_number": "QBAE",
+	"synopsis": "With the help of Chikorita, Pikachu™, Totodile, and other favorite Pokémon™, you will take on Johto Gym Leaders—like Jasmine, Pryce, and Falkner—on a quest to become the Pokémon Puzzle Champion. Use lightning-fast reflexes to form chains and combos that clear the block tower, attack opposing Pokémon, and bury them in a sea of garbage! Six puzzling modes to play! Test your scoring skills in Time Zone, clean up the mess in Garbage, and then face the eight Gym Leaders in the ultimate Challenge Mode. And with Puzzles, Line Clear, and Marathon Modes, you’ll be clearing blocks for hours on end!"
+}

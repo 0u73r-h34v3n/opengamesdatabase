@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Block-a-Pix Colour",
+	"publishers": ["Lightwood Games"],
+	"release_date": "May 17, 2018",
+	"serial_number": "LBPP",
+	"synopsis": "Block-a-Pix is a block-filling puzzle where every grid has a picture hidden inside. Reveal the picture by dividing the grid into smaller rectangular blocks. Each block must contain one clue number, which tells you the number of grid squares covered by that block and the colour the block will be painted. Block-a-Pix can always be solved using logic and deduction. You don't ever have to guess! This game contains 120 exclusive puzzles, designed by Conceptis Ltd. Puzzles range in difficulty and size from small introductory pictures to huge scrollable grids with highly detailed pictures."
+}

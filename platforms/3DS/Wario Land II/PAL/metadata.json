@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Wario Land II",
+	"publishers": ["Nintendo"],
+	"release_date": "July 19, 2012",
+	"serial_number": "QAJP",
+	"synopsis": "Wario sleeps soundly every night, knowing his precious treasure is safely locked away. That was until the Black Sugar Gang broke in and pinched the lot! Help Wario recover his riches in this classic, comical platformer. Wario can't be hurt, but certain enemy attacks will have weird effects on his body; transforming him into new guises such as flaming Hot Wario or Zombie Wario – each with unique abilities. Solve puzzles, play mini-games, and look for hidden exits that lead to more treasure and even different game endings."
+}

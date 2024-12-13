@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ARC STYLE: シンプル麻雀3D",
+	"synopsis": "立体視対応のシンプルでお手軽に遊ぶことができる麻雀ゲームです。 対戦相手として選択できるキャラクターは8人。 それぞれの個性にあった打ち方でプレイヤーと対局を行います。 遊んだ対局の成績は「戦績」で確認することができ、自分のプレイスタイルを確認することができます。"
+}

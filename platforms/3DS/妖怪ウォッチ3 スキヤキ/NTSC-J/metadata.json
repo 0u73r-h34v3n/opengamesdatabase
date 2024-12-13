@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Action Rpg", "Adventure", "Role-Playing"],
+	"name": "妖怪ウォッチ3 スキヤキ",
+	"publishers": ["Nintendo"],
+	"release_date": "December 15, 2016",
+	"serial_number": "ALZJ",
+	"synopsis": "Get ready for a tale of two heroes in two cities in YO-KAI WATCH™ 3, only for Nintendo 3DS family systems. Join Nate as he adapts to life in the strange new town of St. Peanutsburg, and help Hailey Anne – Springdale’s newest hero – open up her very own Yo-kai Detective Agency in a hemisphere-spanning adventure! Switch between two wacky stories, battle all-new bosses, befriend over 600 Yo-kai, and master a fresh grid-based battle system in the biggest Yo-kai adventure yet!"
+}

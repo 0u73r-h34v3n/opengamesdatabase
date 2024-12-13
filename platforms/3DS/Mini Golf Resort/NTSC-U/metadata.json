@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mini Golf Resort",
+	"publishers": ["Teyon"],
+	"release_date": "December 22, 2016",
+	"serial_number": "KGLE",
+	"synopsis": "Welcome to the most amazing mini golf resort ever on Nintendo 3DS™! Grab your golf clubs and get ready to play through 56 incredible courses in 4 unique worlds. Enjoy a combination of real golf club rules and wacky mini golf fun as you shoot your ball through pipes, up extreme ramps and around crazy obstacles towards the hole! With over 1001 fun and challenging courses available, packed with a character customization, a large selection of items and bonuses and 10 trophies to unlock, it's the ultimate mini golf experience!"
+}

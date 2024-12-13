@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dress to Play - Magic Bubbles!",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "July 4, 2013",
+	"serial_number": "JA8P",
+	"synopsis": "In Dress To Play: Magic Bubbles!, dress to play and play to dress! Create your character and design their outfit in the dressing room, just as you like. When you are done, get ready to set off on an adventure, where you will have to catch as many bubbles as possible from the magic washing machine (which has many magical powers). The more you play, the more prizes and clothes you will receive to dress your character!"
+}

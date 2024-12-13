@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sky Kid",
+	"publishers": ["BANDAI NAMCO Entertainment"],
+	"release_date": "February 20, 2014",
+	"serial_number": "TCPE",
+	"synopsis": "The Mekazukin army has put the peaceful country of Bird Land in their crosshairs, and initiated an all-out invasion. It is up to the \"sky kids\" to end their tyranny. Guide fellow friends and rivals, Baron and Max, to a battle in the skies in one or two-player action. Pilot their planes up and down against an arsenal of ground and air forces. In each mission, grab the bomb located in the level to then drop on an enemy fortress. Then land safely on the runway to proceed to the next level. Keep a steady hand and your eye on the target! Save the good people of Bird Land, and bring back glory and honor!"
+}

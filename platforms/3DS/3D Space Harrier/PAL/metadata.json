@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "3D Space Harrier",
+	"publishers": ["SEGA"],
+	"release_date": "November 28, 2013",
+	"serial_number": "JSHP",
+	"synopsis": "As a resourceful, extra-terrestrial warrior, your mission is to save the peaceful Land of the Dragons from vicious creatures. Aided by the dragons, you must use every trick in the book and every skill at your command in order to stave off these alien invaders and save the day! In addition to its all-new 3D presentation, 3D Space Harrier also features touch control functionality and an Arcade Cabinet mode!"
+}

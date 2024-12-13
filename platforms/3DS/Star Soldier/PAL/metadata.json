@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Star Soldier",
+	"publishers": ["KONAMI"],
+	"release_date": "August 15, 2013",
+	"serial_number": "TBLP",
+	"synopsis": "Take control of the starship Caesar and defeat the evil Star Brain and its armies in this classic NES™ shoot ‘em up. Star Soldier spawned Hudson Soft’s long-running series of Soldier titles. Pilot your ship through 16 deadly stages across an enormous space station, collecting power capsules to increase your ship’s firepower, speed and shields. Blast waves of enemies or fly under the space station to avoid incoming fire. Conquer each stage to make your way to the final confrontation with Star Brain."
+}

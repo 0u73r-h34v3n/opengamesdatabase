@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby's Star Stacker",
+	"publishers": ["Nintendo"],
+	"release_date": "January 17, 2013",
+	"serial_number": "RBYE",
+	"synopsis": "Original Release Date: April 1997 Join Kirby as he stacks the falling stars with help from his friends, Rick the Hamster, Kine the Sunfish, and Coo the Owl. Watch out for King Dedede. He is out to stop you! With a few quick moves and some well-timed strategy, you can quickly outwit him and move on to the next challenging level. Kirby’s Star Stacker features pure puzzle fun for everyone. From above, blocks rain down constantly. From below, whole lines appear with unrelenting clock-like regularity. Simply sandwich the stars between Kirby’s pals and you’ll soon be on your way to the high score."
+}

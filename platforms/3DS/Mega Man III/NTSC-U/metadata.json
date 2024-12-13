@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mega Man III",
+	"publishers": ["CAPCOM"],
+	"release_date": "May 8, 2014",
+	"serial_number": "RCEE",
+	"synopsis": "The sinister Dr. Wily has taken control of an off-shore oil rig to drill to the center of the Earth. By reaching the molten core, he will be able to collect energy in order to power his latest invention. Sounds like a recipe for disaster, and Mega Man must put a stop to this! Join Rush and Flip-Top as you progress through Dr. Wily's fiendish fortress, battling various Robot Masters and collecting their weapons before facing the mad scientist and his ultimate creation!"
+}

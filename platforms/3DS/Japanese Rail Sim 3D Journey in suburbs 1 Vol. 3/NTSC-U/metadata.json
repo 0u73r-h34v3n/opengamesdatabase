@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Japanese Rail Sim 3D Journey in suburbs #1 Vol. 3",
+	"publishers": ["Sonic Powered"],
+	"release_date": "March 24, 2016",
+	"serial_number": "KJ3E",
+	"synopsis": "Enjoy a realistic train driving experience whenever you want, with powerful combustion-engine train sounds and beautiful 3D visuals of observation deck video! A journey by local rail through Gifu prefecture, located in the center of the Japanese archipelago. In the third volume, you'll drive the distance from Minami Kariyasu Station to Yamada Station. You can also gather trivia about famous sites and tourist destinations along the Nagaragawa Railway by getting high evaluations on your driving between stations."
+}

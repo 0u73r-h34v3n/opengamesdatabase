@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "3D Classics - Kid Icarus",
+	"publishers": ["Nintendo"],
+	"release_date": "April 19, 2012",
+	"serial_number": "SAAE",
+	"synopsis": "Relive Pit’s first adventure in 3D Classics: Kid Icarus™ as you venture from the depths of the underworld up to the heights of sky palace! The evil goddess Medusa has stolen the Three Sacred Treasures and imprisoned the goddess of light, Palutena, in her evil plot to control all. Play in 2D or 3D as Pit, a young angel who has been entrusted with a magical bow and arrow. Fight against hordes of enemies that swoop from above and below. Secure the Three Sacred Treasures from their evil guardians, equip them, and face Medusa in the final battle! Are you the stuff of legends? Restore peace to Angel Land, and prove your worth!"
+}

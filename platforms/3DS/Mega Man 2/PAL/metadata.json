@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mega Man 2",
+	"publishers": ["CAPCOM"],
+	"release_date": "August 7, 2014",
+	"serial_number": "RCDP",
+	"synopsis": "Dr. Wily is up to no good, once again. This time he’s stolen an experimental time travel device and zipped off to the future! Meanwhile, Mega Man and his trusty sidekick, Rush, are sent on a mysterious mission to investigate an underground lair. Jump and blast your way through a barrage of maniacal enemies while collecting a variety of weapons and items to help fight more Robot Masters! Who is this stranger from the future called Quint? Can Mega Man reach Dr. Wily before time's up? So suit up and let's go!"
+}

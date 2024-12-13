@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Role-Playing", "Strategy"],
+	"locales": ["ES"],
+	"name": "Fire Emblem Fates: Birthright",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 20, 2016",
+	"serial_number": "BFXP",
+	"synopsis": "Fire Emblem Fates comes in two versions, each with their own story to tell. Join Hoshido in Fire Emblem Fates: Birthright, or fight alongside Nohr in Fire Emblem Fates: Conquest. Born into the royal family of Hoshido, you were kidnapped by Nohrians as a child. In Fire Emblem Fates: Birthright, you choose to return to your birth family. Can you end the battle with Nohr and protect the peace-loving Hoshidans?"
+}

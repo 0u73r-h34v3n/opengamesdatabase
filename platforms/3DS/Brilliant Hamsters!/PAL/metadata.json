@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bergsala Lightweight"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Brilliant Hamsters!",
+	"publishers": ["Bergsala Lightweight"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 30, 2014",
+	"serial_number": "AHMP",
+	"synopsis": "Your Very Own Pet Hamsters! Brilliant Hamsters! is a game that lets you embark on a brilliant new life with your very own pet hamsters! Take care of them to earn stamps, then dress them up for a stroll! *Earn Stamps and Go Out You earn stamps by caring for your hamsters. Get a lot of stamps to unlock more hamsters and cages. There are 20 different cages available. Try to get as many as you can and use them when going out with your hamsters. *Play AR Games Play with your hamster using an AR Card. *Go Out with StreetPass Using StreetPass, you can exchange hamster info with other players you meet. This is your chance to show off the cute hamster you've poured your heart into taking care of. *Stamps You get stamps for successfully taking care of your hamsters. If you get lots of stamps and fill up your stamp sheets, you can exchange them for new cages. Collect many stamp sheets to raise your grade and unlock new cage types or shop items. *Stars You also earn stars for caring for your hamsters. Do a good job and you'll get a lot! Exchange these for items at the shop. You can also get stars via Search, AR Games, or Fashion Check."
+}

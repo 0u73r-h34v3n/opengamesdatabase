@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "ADVENTURE ISLAND",
+	"publishers": ["HUDSON SOFT"],
+	"release_date": "November 3, 2011",
+	"serial_number": "RA2P",
+	"synopsis": "Master Higgins is back! Help him search through uncharted islands for the missing princess Tina! Grab a skateboard and dash across savage lands filled with spiders, cobras, skeletons and more! Crack open monster eggs to free your dinosaur buddies - they'll give you a wild ride!"
+}

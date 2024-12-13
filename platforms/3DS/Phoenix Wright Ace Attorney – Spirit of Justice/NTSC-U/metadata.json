@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Phoenix Wright: Ace Attorney – Spirit of Justice",
+	"publishers": ["CAPCOM"],
+	"release_date": "September 8, 2016",
+	"serial_number": "BG6E",
+	"synopsis": "Phoenix Wright: Ace Attorney – Spirit of Justice sees Phoenix in a brand new location: a courtroom situated in the Kingdom of Khura’in, origin of the Kurain Channeling Technique, where mysterious séance trials decide the fate of all defendants. Meanwhile, defense attorney Apollo Justice faces his own challenges holding down the fort at the Wright Anything Agency, as he takes on a case that will have explosive implications. Both our heroes are joined by a host of returning friends and adversaries in their fight to bring about justice. Filled with puzzling mysteries to solve, a cast of memorable characters, and all new investigation techniques, this is one case you'll definitely want to take."
+}

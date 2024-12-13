@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Bionic Commando: Elite Forces",
+	"publishers": ["Nintendo"],
+	"release_date": "January 1, 2015",
+	"serial_number": "QBDE",
+	"synopsis": "The once tranquil land of Karinia has been consumed by fear under the destructive rule of Arturus and his army of Avars. For years the Bionic Corps have fought back. But when one of their most valued officers is captured, the Elite Forces are called in to save Commander Joe and stop the Albatross Project. You are the perfect combination of man and machine—a Bionic Commando equipped with a Bionic Claw that will be extremely handy when infiltrating the danger zone. Blast through enemy lines as you grapple, swing, and scale more than 20 levels of forests, deserts, mountains, and futuristic cities. You are the last hope in saving your homeland from utter destruction. Suit up, soldier!"
+}

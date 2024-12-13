@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "MindFeud",
+	"publishers": ["Engine Software"],
+	"release_date": "December 4, 2014",
+	"serial_number": "KMDP",
+	"synopsis": "Take your mind on a ride with MindFeud! MindFeud is a fun and addicting board game. Learning the game is easy: you have to create smart formations of tiles in different colors and symbols to gain more points than your opponent does. You will find out that winning is harder than you think! Start practising against our MindFeud robot “ADAMA” or try to solve one of the many puzzles. Then invite your friends to beat them online! Features: - Fun boardgame with many different game modes - Practice against ADAMA, the smart computer player - Improve your best scores in the Singleplayer mode - Solve all 25 puzzles - Invite friends or complete strangers and battle online"
+}

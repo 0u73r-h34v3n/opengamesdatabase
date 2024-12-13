@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Adventure Labyrinth Story",
+	"synopsis": "Adventure Labyrinth Story es un juego RPG, del subgénero roguelike, que te desafía a superar la mazmorra inexplorada. Para traer de vuelta el tesoro legendario, deberás adentrarte en lo más recóndito de dicha mazmorra, encontrar armas y escudos, usar varitas mágicas y pociones para combatir contra monstruos, a la vez que aumentas de nivel. Cada vez que entres a la mazmorra, esta tendrá una estructura y un diseño diferentes. Los objetos y monstruos también cambiarán. Puedes enfrentarte a ella cuantas veces quieras, incluso aunque ya haya sido despejada. Si eres derrotado, todos los objetos conseguidos se perderán y el nivel volverá a 1. Los ingredientes que obtengas de la mazmorra pueden ser utilizados en el bar para preparar comida, la cual puede otorgarte efectos positivos y experiencia para la próxima aventura. ¡Aprovecha al máximo los objetos para hacer frente a los monstruos y encuentra extraños tesoros para resolver el misterio del laberinto!"
+}

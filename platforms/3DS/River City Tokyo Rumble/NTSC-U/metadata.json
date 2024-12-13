@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "River City: Tokyo Rumble",
+	"publishers": ["Natsume Inc."],
+	"release_date": "September 27, 2016",
+	"serial_number": "AK2E"
+}

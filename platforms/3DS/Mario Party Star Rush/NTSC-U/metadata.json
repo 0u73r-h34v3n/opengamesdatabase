@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NDCube"],
+	"genres": ["Party"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Mario Party: Star Rush",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 4, 2016",
+	"serial_number": "BAAE",
+	"synopsis": "Think fast and have a blast with a variety of ways to party with Mario™, Toad™, and more, on-the-go or on the couch! It’s always your turn as you and up to three friends roll the dice, roam the board, and recruit fan-favorite allies. The bigger your party, the faster you’ll earn stars and coins in frantic minigames. It’s instant fun for everyone! Break free of turn order and choose your path to victory in Toad Scramble, a mode with five wild worlds filled with bite-sized, open maps to play on. Blast across them in cannons, creep around haunted houses, or get a lift from Lakitu. You may get a chance to take down Bowser’s mech! Team up with Yoshi™, Daisy™, Waluigi™ and other allies along the way. Pit your skills against friends by racing along in a gauntlet of rapid-fire minigames in Coinathlon. Cannon down Goombas, take out Shy Guys pinball-style, and even surf on a leafboard…but watch for Wigglers! You may even find yourself wandering a labyrinth of Boos. Partying is tough business!"
+}

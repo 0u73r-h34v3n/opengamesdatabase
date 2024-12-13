@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Atlus"],
+	"genres": ["Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Shin Megami Tensei IV",
+	"publishers": ["SEGA EUR"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 30, 2014",
+	"serial_number": "AMXP",
+	"synopsis": "The Eastern Kingdom of Mikado is a city of the chosen, sitting on high and protected all around by towering walls. Yet its people are at risk from an ongoing demon threat that the player as a newly appointed Samurai is duty-bound to fight against. Throughout the player's journey, they must choose their own path. The choices will affect them, other NPCs, and the overall outcome of the story. Decisions the player makes throughout the course of the story will have lasting repercussions, as the fate of the world hangs in the balance."
+}

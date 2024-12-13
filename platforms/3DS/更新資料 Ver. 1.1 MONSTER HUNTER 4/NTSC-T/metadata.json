@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ZHTW"],
+	"name": "更新資料 Ver. 1.1  MONSTER HUNTER 4",
+	"publishers": ["Capcom Asia"],
+	"release_date": "November 13, 2013",
+	"serial_number": "AH4Z"
+}

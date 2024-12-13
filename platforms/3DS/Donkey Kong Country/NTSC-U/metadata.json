@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Donkey Kong Country",
+	"publishers": ["Nintendo"],
+	"release_date": "March 24, 2016",
+	"serial_number": "UAGE",
+	"synopsis": "In 1994, at the dawn of 32-bit consoles, one game blew away the competition with its pre-rendered 3D graphics, cartoon-quality animation and atmospheric music – on the 16-bit Super NES™! Donkey Kong Country breathed new life into the character of Donkey Kong™, and introduced gamers to Diddy Kong™, Cranky Kong™ and bad guys the Kremlings. Join DK and Diddy on a quest to recover their stolen banana hoard. Traverse more than 30 challenging levels, take a ride on animal buddies and survive the madcap mine cart sequences. You'd be bananas not to play Donkey Kong Country!"
+}

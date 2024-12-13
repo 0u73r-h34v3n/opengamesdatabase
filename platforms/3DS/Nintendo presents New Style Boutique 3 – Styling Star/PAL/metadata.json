@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD", "syn Sophia"],
+	"genres": ["Business Simulation", "Health", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Nintendo presents: New Style Boutique 3 – Styling Star",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 24, 2017",
+	"serial_number": "AJBP",
+	"synopsis": "As an aspiring fashionista with big dreams, take charge of a struggling boutique, transform its fortunes and become the hottest, most influential stylist on the scene. Customers will swing by your stylish store to get advice on the hottest new fashions. Listen to their requests, then share your trendiest tips to help them find the perfect look. Whether it’s a dress for a date or a coat for a crucial job interview, you’ll need to pick out the right outfit for the right situation! Before you know it, you’ll be styling the stars of tomorrow! Work with Ethan, the founder of a top talent agency, to pioneer brave new looks for the rising stars of the music industry. Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required."
+}

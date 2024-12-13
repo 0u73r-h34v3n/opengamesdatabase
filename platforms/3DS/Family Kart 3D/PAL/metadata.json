@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Family Kart 3D",
+	"publishers": ["ARC SYSTEM WORKS"],
+	"release_date": "July 31, 2014",
+	"serial_number": "JKTP",
+	"synopsis": "On your mark, get set... Family kart! Join Billy, Sarah, Cuz, and all the family in a lighthearted racing game that has come to the Nintendo 3DS™ thanks to ARC Style's Family series! Enjoy three different modes: Grand Prix, Free Play, and Time Mode. With eight characters and eight karts, all with their different strengths and weaknesses, you can play for hours challenging the 12 different courses at one of three different levels of difficulty! Then connect to the national ranking online and see how your best times in Time Mode compare to those of your rivals across the nation! Use your items wisely, master the road, and earn your rightful place as the head of the family as you leave your kin in the dust! Game only plays in 2D."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "EarthBound",
+	"publishers": ["Nintendo"],
+	"release_date": "March 4, 2016",
+	"serial_number": "UAEE",
+	"synopsis": "When a meteorite hits the Earth near to Ness’ house, the brave young man sets off to investigate, but little does he know that he’s about to begin an epic adventure that will change his life… oh, and he might just save the universe in the process! Ness will have to travel across the world after meeting with a strange alien in order to prevent Giygas, the Universal Cosmic Destroyer, from annihilating everything and everyone. He will be aided in his mission by three friends, and only by using their abilities and powers together do they stand a chance against the mighty Giygas! With a deeply engaging storyline, a richly detailed world and a wealth of unique features, EarthBound is an in-depth role-playing epic. This is the US version of the game."
+}

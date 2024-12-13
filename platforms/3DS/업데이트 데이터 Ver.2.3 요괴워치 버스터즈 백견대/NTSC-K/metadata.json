@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["KO"],
+	"name": "업데이트 데이터 Ver.2.3 요괴워치 버스터즈 백견대",
+	"publishers": ["Nintendo"],
+	"release_date": "September 20, 2018",
+	"serial_number": "BYBK"
+}

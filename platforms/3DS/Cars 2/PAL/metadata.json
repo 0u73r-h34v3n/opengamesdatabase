@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firebrand Games"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Cars 2",
+	"publishers": ["Buena Vista Games", "Disney Interactives Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 11, 2011",
+	"serial_number": "AAZP",
+	"synopsis": "Jump into the Cars 2 universe with some of your favourite Cars personalities in exotic locations around the globe."
+}

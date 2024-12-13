@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Legend of the River King 2",
+	"publishers": ["Natsume Inc."],
+	"release_date": "October 23, 2014",
+	"serial_number": "QA9P",
+	"synopsis": "When a mystical jewel to control nature is stolen, it’s up to you and your brother to retrieve it by searching the vast waters of your land, putting your fishing skills to the ultimate test. First you’ll need to fish for small fry to feed yourself and to sell for better tackle and rods, before you take on the big catches. Legend of the River King 2 is a massive role-playing adventure featuring all types of angling from fresh water fly-fishing to deep-sea trawling. Plus, try your hand at bug hunting and flower picking, too."
+}

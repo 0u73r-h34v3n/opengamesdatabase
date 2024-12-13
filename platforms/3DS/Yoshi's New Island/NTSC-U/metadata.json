@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arzest"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Yoshi's New Island",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 14, 2014",
+	"serial_number": "ATAE",
+	"synopsis": "Yoshi™ is back and he’s bustin' out the big eggs. Crush your surroundings and create paths with his new Mega and Metal Eggdozers in a brand-new platforming adventure! It’ll take more than egg tosses and flutter jumps to lead fledgling Mario™ through a dangerous new island littered with inventive power-ups. Can you save poor Luigi™? Guide Yoshi and a young Mario through all-new stages, from slippery slopes to watery wonderlands. New transformations turn Yoshi into Helicopters, Mine Carts, Jackhammers, and more—all steerable with gyro controls. There’s even a special multiplayer mode where you face off with friends in six fast, fun competitions. But as Yoshi fans know, it’s all about the collectibles and they’re more enticing than ever to find. You’ll need the new Metal and Mega Eggdozers to beat puzzling platforming moments and locate every collectible and surprise. They’re hiding—are you seeking?"
+}

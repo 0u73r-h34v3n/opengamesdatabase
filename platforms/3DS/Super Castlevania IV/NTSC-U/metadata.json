@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Castlevania IV",
+	"publishers": ["KONAMI"],
+	"release_date": "October 20, 2016",
+	"serial_number": "UAUE",
+	"synopsis": "A century of Transylvanian tranquillity has ended. Count Dracula has returned, and this time he has a tombstone with your name on it, Simon Belmont! Super Castlevania IV is a highlight of Konami’s popular Castlevania series, bringing some of the finest platform exploration and action to Super NES™. Explore the castle and its gruesome grounds, using your whip like a grappling hook to swing past traps; and arm yourself with weapons like axes, holy water and more, to send Dracula’s minions back to the grave! This is the US version of the game."
+}

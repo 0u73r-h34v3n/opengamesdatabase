@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario's Picross",
+	"synopsis": "Dans le classique Mario’s Picross de 1995, plus de 200 puzzles n'attendent que vous pour être résolus ! Révélez les images cachées dans chaque puzzle en remplissant correctement les cases de la grille. Les nombres placés aux bords des grilles vous indiqueront combien de cases doivent être remplies par ligne ou colonne. Une fois les différents modes de jeu terminés, mettez vos compétences Picross au défi avec le mode Time Trial !"
+}

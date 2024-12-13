@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Adventure"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "The Legend of Zelda - Ocarina of Time 3D",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "October 18, 2012",
+	"serial_number": "AQEE",
+	"synopsis": "Experience one of the most critically acclaimed games ever made - completely remastered in stunning, glasses-free 3D. Join Link™ on an epic journey, and see this all-time Zelda™ classic as the creators intended. Explore Hyrule like never before with a major graphical upgrade, further enhanced by 3d visuals. Intuitive touch screen and gyro sensor control creates an immersive experience for any type of gamer."
+}

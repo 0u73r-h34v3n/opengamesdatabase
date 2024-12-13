@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "更新データ Ver. 1.1 デビルサマナー ソウルハッカーズ",
+	"synopsis": "ニンテンドー3DSソフト『デビルサマナー ソウルハッカーズ』の更新データです。すれちがい通信によって成長させられる「ネメッチー」が、ゲームコインを使用しても成長させられるようになりました。具体的には、ゲームコインを消費して購入する「Dソウル」を使用することで、「ネメッチー」を成長させられるようになります。"
+}

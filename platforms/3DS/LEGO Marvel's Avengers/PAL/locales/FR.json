@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "LEGO Marvel's Avengers",
+	"synopsis": "Avec ce patch, la version v1.2.0 de LEGO® MARVEL’s Avengers prendra en charge l'e-commerce dans le jeu. v1.1.0 • Correction d'un plantage rare qui pouvait survenir en passant à Black Widow au niveau 7. • Le joueur ne réapparaîtra plus bloqué dans le conteneur s'il fait s'écraser Lola dans l'eau. • Correction de plusieurs bugs de scripts de missions dans les niveaux HUB, qui ne se lançaient pas toujours correctement et faisaient qu'il n'était pas possible de les terminer. • Correction de plusieurs plantages rares de mémoire à travers le jeu. • Plusieurs corrections de bugs d'interface utilisateur à travers le jeu. • Corrections de texte localisé et de bugs audio."
+}

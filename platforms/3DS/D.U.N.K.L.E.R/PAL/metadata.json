@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "D.U.N.K.L.E.R",
+	"publishers": ["Guy Saldanha"],
+	"release_date": "June 9, 2022",
+	"serial_number": "CD9P",
+	"synopsis": "D.U.N.K.L.E.R is a 3D first-person platformer in which you have to reach the end of the level before it is too dark. You can jump and run. You get faster as long as you keep moving. There are nine main levels, four extra levels you can unlock as well as an endless mode and a speed run mode. You can choose between easy, normal and hard difficulty settings."
+}

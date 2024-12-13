@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crash City Mayhem",
+	"publishers": ["Ghostlight"],
+	"release_date": "May 9, 2013",
+	"serial_number": "AC2P",
+	"synopsis": "Experience high-octane driving thrills with 'Crash City Mayhem'. Blaze your way through the city streets and crush an evil syndicate of terrorists! Drive anywhere - rooftops, sewers, inside buildings, rail tracks and more! Use your driving skills to enter a world of espionage and action. Drive a huge variety of crazy vehicles including mopeds, supercars and tanks! Unlock a stash of secret items and vehicle upgrades."
+}

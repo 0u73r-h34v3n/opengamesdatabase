@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Toy Stunt Bike",
+	"publishers": ["Wobbly Tooth"],
+	"release_date": "June 26, 2014",
+	"serial_number": "JTVE",
+	"synopsis": "Toy Stunt Bike is a 3D, action-packed, micro-sized motorbike trials game. Race your toy bike across sixty levels in a variety of household locations. Leap over toasters, make massive jumps onto garden chairs, use laptops as ramps and perform crazy stunts! Silky smooth gameplay with full physics on the bike and rider. Sixty levels to race. Online leaderboards to compete worldwide. Amazing bike crashes. 3D Stereoscopic display (or full screen anti-aliasing when viewing in 2D)."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["ES"],
+	"name": "El profesor Layton y la máscara de los prodigios",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 26, 2012",
+	"serial_number": "AKKS",
+	"synopsis": "El quinto juego de la conocida serie incluye más de 150 nuevos acertijos y tres nuevos minijuegos cortesía del baúl del profesor. El profesor Layton y la máscara de los prodigios te trae además 365 puzles adicionales que serán distribuidos a través de Nintendo Network a ritmo de un puzle diario durante un año a partir del día de lanzamiento del juego."
+}

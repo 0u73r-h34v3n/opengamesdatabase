@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Flick Golf 3D",
+	"publishers": ["Full Fat"],
+	"release_date": "July 30, 2015",
+	"serial_number": "JFQE",
+	"synopsis": "Welcome to Flick Golf, the world’s most addictive handheld golf game now for Nintendo 3DS™! Flick, spin and curve your shots with pinpoint accuracy to sink that perfect hole-in-one. Turn up the 3D depth slider to add a whole new dimension! Beat high scores across six unique and challenging courses in Quickshot, compete for trophies in World Tour, or put your golf skills to the ultimate test in Quickshot Pro. Experience Full Fat’s award-winning ‘after touch’ controls for the very first time on Nintendo 3DS™!"
+}

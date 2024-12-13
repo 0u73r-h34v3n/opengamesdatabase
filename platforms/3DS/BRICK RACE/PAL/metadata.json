@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "BRICK RACE",
+	"publishers": ["RCMADIAX"],
+	"release_date": "August 18, 2016",
+	"serial_number": "CBEP",
+	"synopsis": "Time to RACE! In BRICK RACE quickly turn left or right to dodge traffic and collect a HIGH SCORE! Easy pick-up and play action that everyone can enjoy. Endless fun on the go! Grab a high-score, then share it on Miiverse™ with the community to see how it stacks up."
+}

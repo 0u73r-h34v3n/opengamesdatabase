@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "2 Fast 4 Gnomz",
+	"publishers": ["QubicGames"],
+	"release_date": "November 1, 2012",
+	"serial_number": "JT4E",
+	"synopsis": "Join Bumb, Berzerk, Speedster and Uncle Time as they run, fly, bounce, glide and break their way through the magical lands of Gnomia to reach their mysterious destiny. You can help them save the kingdom, find a princess and collect hundreds of precious lost socks. Game Features: jumping, smashing, gliding, flying, falling, speeding simple sit-and-play gameplay challenging try-and-die difficulty 45 levels in magical land of Gnomia 4 switchable characters and also: gliding pants horned hats actual time distortion overabundance of socks"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rabbids - Travel in Time 3D",
+	"publishers": ["Ubisoft"],
+	"release_date": "February 14, 2013",
+	"serial_number": "ARBE",
+	"synopsis": "Join the rabbids as they travel back in time in a washing machine and make a mess of history! Tons of fun mini-games: over 60 maps with different types of gameplay in 4 different historical environments from Pre-history, Egypt, Rome & King Arthur. Realistic, 3D environments & characters: Colorful universe mixed with realistic textures & proportions & 3D characters with hilarious facial expressions. High level of customization: play and unlock close to 50 unique historical costumes, such as Indian, Cowboy, Egyptian and Musketeer."
+}

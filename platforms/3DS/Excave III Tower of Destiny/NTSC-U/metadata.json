@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Excave III : Tower of Destiny",
+	"publishers": ["Rising Star Games"],
+	"release_date": "April 14, 2016",
+	"serial_number": "KX3E",
+	"synopsis": "Excave III : Tower of Destiny is a classic Japanese style dungeon crawler with the heroine Scarlett taking on huge hordes of enemies in a climb up through the Fantasy Tower. The Fantasy Tower is connected to Internet Rankings so you can compete with players from around the country. Auto generated maps await so you can enjoy a different experience each time. If 『EXCAVEⅡ ~Wizard of the Underworld~』 save data is found then special unlocks will occur!"
+}

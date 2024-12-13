@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kirby's Block Ball",
+	"publishers": ["Nintendo"],
+	"release_date": "May 17, 2012",
+	"serial_number": "RBKE",
+	"synopsis": "Kirby™ is back again and takes center stage in this frenzied, block-clearing free-for-all. Use the paddles on the four sides of the screen to bounce Kirby around to destroy the blocks and enemies. By destroying the blocks, you clear the stages and obtain special power-ups to aid you in your quest. Establish the high score on each stage to open up the final level and face Kirby's archnemesis, King Dedede. With multiple abilities, screens, and stages, this game is sure to put your skills to the test."
+}
