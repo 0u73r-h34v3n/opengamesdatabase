@@ -227,6 +227,10 @@
 			},
 			"description": "An array of review objects, each containing a review platform name, URL, and score."
 		},
+		"serial_number": {
+			"type": "string",
+			"description": "A serial number is a unique identifier assigned to an individual item or product. It serves as a means of identification and helps distinguish one item from another."
+		},
 		"synopsis": {
 			"type": "string",
 			"description": "Comprehensive but concise description of the main elements of the content without excessive detail."
