@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Games"],
+	"genres": ["Kart Racing", "Racing"],
+	"locales": ["ES"],
+	"name": "MySims Racing",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 18, 2009",
+	"serial_number": "CQRP",
+	"synopsis": "Race into an all-new adventure with MySims Racing! Test your reflexes, strategy and skill by tricking out cars, completing challenges, and winning championships."
+}

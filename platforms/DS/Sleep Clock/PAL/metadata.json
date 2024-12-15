@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sleep Clock",
+	"publishers": ["Nintendo"],
+	"release_date": "October 29, 2010",
+	"serial_number": "KMZV",
+	"synopsis": "Sleep Clock is not just an alarm clock: you can use it to record and analyse your sleeping patterns, which helps you to manage your sense of well-being. Simply start the timer when you go to bed, and put your Nintendo DSi into Sleep Mode by closing it. Upon waking, you will be asked how you feel; did you have a refreshing night's sleep, or did you toss and turn? Your answers and the times you went to sleep and woke up will be plotted on daily, weekly and monthly graphs, allowing you to closely monitor your sleep time and quality. Mr Sheep, renowned ovine sleep expert, is also on hand to offer advice and comments about your sleep activity. Set up to three different alarm times, with a choice between built-in alarm sounds or custom sounds recorded in Nintendo DSi Sound. You can also have the Nintendo DSi speak the time when the alarm sounds. And of course, no alarm clock would be complete without a snooze function for those 'just five more minutes' mornings!"
+}

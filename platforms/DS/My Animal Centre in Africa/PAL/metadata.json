@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Zeal"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"name": "My Animal Centre in Africa",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 16, 2006",
+	"serial_number": "AFIX",
+	"synopsis": "My Animal Center in Africa will allow you to put yourself in the shoes of a young veterinarian from a prestigious clinic for animals in the African savanna. Your main challenges will be to cure and care for animals that have been injured and abandoned by guards, farmers and tourists, while managing the day-to-day operations of the hospital. You will have to ensure sufficient funds to buy food, furniture, equipment as well as to pay the salaries of your employees."
+}

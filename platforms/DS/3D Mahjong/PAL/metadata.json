@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GameOn"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "3D Mahjong",
+	"publishers": ["GameOn"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 20, 2010",
+	"serial_number": "KMJP",
+	"synopsis": "Relax your mind with the ancient game of tiles. 3D Mahjong features 50 layouts of the traditional tile-matching game in 3D, each with millions of different shuffles to play. The game's style and interface has been designed for easy intuitive operation with the stylus or +Control Pad. The graphics can be customised with six fabulous tile sets and backgrounds. Sit back, relax and enjoy the endless challenge with this Mahjong game collection. Additional brain-sharpening challenges come with the extra mini-games \"Memory\" and \"Matching\". Please note that elements of this software may have been featured in previously released software."
+}

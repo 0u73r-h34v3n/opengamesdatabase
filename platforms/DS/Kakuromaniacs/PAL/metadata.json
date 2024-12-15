@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["FrontLine Studios"],
+	"genres": ["Puzzle"],
+	"locales": ["DE"],
+	"name": "Kakuromaniacs",
+	"publishers": ["White Park Bay Software"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 8, 2007",
+	"serial_number": "ALQP",
+	"synopsis": "KAKUROMANIACS™ is the ultimate brain game with numbers. Use your maths and logic powers to solve 500 challenging and fun puzzle grids."
+}

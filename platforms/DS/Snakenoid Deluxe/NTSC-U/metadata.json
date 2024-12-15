@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Arcade"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Snakenoid Deluxe",
+	"publishers": ["Cinemax"],
+	"release_date": "May 24, 2012",
+	"serial_number": "K4NE",
+	"synopsis": "This game is a unique blend of classic game concepts. Using the stylus, the player controls a snake on the lower screen and tries to use it to bounce a ball and destroy boulders on the upper screen. In each level the boulders are organized in a different shape. At the same time, the snake has to avoid enemies and try to collect bonuses that fall out of the destroyed boulders. The aim of the game is to finish all of the levels with the most points. The snake controlled by the player is composed of flexibly connected segments which can bounce the ball."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "ゼルダの伝説　大地の汽笛",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 23, 2009",
+	"serial_number": "BKIJ",
+	"synopsis": "All aboard for adventure as Link sets off on a quest to restore the spirit tracks and keep an ancient demon locked away."
+}

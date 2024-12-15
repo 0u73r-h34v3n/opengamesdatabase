@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Starfish SD"],
+	"genres": ["Puzzle"],
+	"name": "I Did It Mum!: Boy",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 16, 2007",
+	"serial_number": "A2HP",
+	"synopsis": "I Did It Mum!: Boy is a great entry point for young children who want to get into the world of casual videogames. By keeping the titles fun and simple, while providing a challenging and rewarding experience, children will be able to gain a wholesome experience. It's like carrying around a closet full of family fun games that you can take with you anywhere!"
+}

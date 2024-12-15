@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Party"],
+	"name": "Happy Feet",
+	"publishers": ["Midway Games", "Tradewest"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 24, 2006",
+	"serial_number": "AHFP",
+	"synopsis": "Play as Mumble in the ultimate adventure to win the heart of Gloria and save the Emperor penguin nation. Unfortunately, Mumble is the worst singer in the world... however, as it happens, he is a brilliant tap dancer!"
+}

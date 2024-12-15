@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Atomic Planet Entertainment"],
+	"genres": ["Adventure"],
+	"locales": ["ES"],
+	"name": "Arctic Tale",
+	"publishers": ["DSI Games", "ZOO Digital Publishing"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 15, 2008",
+	"serial_number": "YA3P",
+	"synopsis": "The far North of our planet is one of the most perilous environments in the world. Take on the role of either a young Polar Bear or a Walrus growing up and trying to survive in the wild. From eating to fighting off predators, almost every aspect of the animal's life is presented to the player. Learning to live in this world is vital as they go from the regular dangers to the extreme threats. Experience the thrilling, interactive look at the walrus and polar bears that roam the vast world of the Arctic wilderness."
+}

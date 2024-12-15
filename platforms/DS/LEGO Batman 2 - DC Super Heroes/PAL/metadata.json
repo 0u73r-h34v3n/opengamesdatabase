@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "LEGO Batman 2 - DC Super Heroes",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 1, 2012",
+	"serial_number": "B6FY",
+	"synopsis": "Help Batman, Robin, and their superhero friends, to defeat The Joker as he tries to destroy Gotham City in LEGO Batman 2: DC Super Heroes for Nintendo DS!"
+}

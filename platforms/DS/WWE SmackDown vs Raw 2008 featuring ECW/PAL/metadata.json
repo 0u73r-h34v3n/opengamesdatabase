@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting"],
+	"name": "WWE SmackDown vs Raw 2008 featuring ECW",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "January 1, 2007",
+	"serial_number": "AW8X",
+	"synopsis": "In turbulent times, it takes talent and a little luck to rise through the ranks You’ll need to be at the top of your game as you step in the ring with WWE SmackDown vs. Raw 2008 for Nintendo DS. What is a year in the life of a wrestler like?"
+}

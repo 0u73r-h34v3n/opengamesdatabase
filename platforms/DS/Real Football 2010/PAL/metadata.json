@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Football", "Simulation", "Soccer", "Sports"],
+	"locales": ["DE", "ES", "FR"],
+	"name": "Real Football 2010",
+	"publishers": ["Gameloft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 5, 2010",
+	"serial_number": "K3XV",
+	"synopsis": "Real Football - the number one football game on Nintendo DSiWare - is back for the most exciting season yet! Choose from even more teams with over 245 clubs in eight leagues and nearly every player, plus three new stadiums: Bavaria, Republic and Cathedral. Perform flip flaps, step overs and more with effortless Touch Screen controls. The TV commentary adds to the realism. Take pictures to customise your ball, flag or even players, then challenge friends in tournaments for maximum fun."
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Board Game", "Traditional"],
+	"name": "Scrabble Slam!",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 26, 2010",
+	"serial_number": "KSSE",
+	"synopsis": "Scrabble, long considered to be one of the world's most popular board games, is enjoying a tremendous surge in popularity, both online and in the real world. Scrabble Slam! is a new way to play that challenges players to spell words as quickly as they can."
+}

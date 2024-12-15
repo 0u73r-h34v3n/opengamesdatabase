@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Arcade"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Absolute BrickBuster",
+	"publishers": ["TASUKE"],
+	"release_date": "July 26, 2010",
+	"serial_number": "K6QE",
+	"synopsis": "Classic brick game action is here on the Nintendo DSi system! There are two modes of play: Free Play and Challenge. You pick one of eight characters and set special items to play at your own pace in Free Play Mode. The special items include different balls with special attributes, expandable paddle, and paddle tilt. There are 10 stages in all. Each even-numbered stage gives you a mission, and the result of the mission will determine the level of the next two stages you will play. In Challenge Mode, different levels of missions are given—clear them to advance in the game."
+}

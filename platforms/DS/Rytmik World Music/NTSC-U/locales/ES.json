@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Rytmik World Music",
+	"synopsis": "Rytmik World Music es una aplicación para crear temas rítmicos y melódicos, y también para componer canciones enteras. Su interfaz de usuario combina la rapidez y la práctica disposición de las cajas de ritmos clásicas con la flexibilidad de los populares trackers y una moderna biblioteca de sonidos. Rytmik World Music se lo pone más fácil que nunca para crear la piedra angular de cualquier composición musical: el clip de audio. El clip está formado por las notaciones musicales de hasta cuatro instrumentos, con infinidad de opciones de configuración: puede transportarlas, seleccionar su ubicación en el campo estéreo y modificar su volumen, inversión, cambio de ritmo/reproducción aleatoria y polifonía (con más opciones de control de la polifonía), coro/efecto estéreo ampliado, eco y arpegiador. Además, tiene a su disposición una biblioteca 11 composiciones pregrabadas de distintos estilos, que puede utilizar para componer sus creaciones de una forma rápida y sencilla."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Music"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Music on: Electric Guitar",
+	"publishers": ["Abylight"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 22, 2010",
+	"serial_number": "KIEE",
+	"synopsis": "A cool electric guitar in your pocket! Transform your Nintendo DSi system into an incredible electric guitar and your stylus into a pick. You'll be amazed at how easy it is to play your favorite songs, even if music isn't your thing! Features: * Pedals: Distortion, Flanger & Delay - Free organization and real sound outcome - Individually activated - 3 adjustment parameters - Real-time sound representation * Advanced Play Screen - Great for melodies, arpeggios & chord variations - \"Solo\" function, limits the sound to the last string played - 1 octave transposition function - 7 transposition of a note for each string - Vibrato * 32 definable chords on the Control Pad And also: * +950 chords * 32 different kind of chords with up to 6 variations * Graphic & sound representation of the chords * Intensity detection while strumming * Chord Lock * Palm Mute * Realistic playing sound effects * Save up to 10 sessions (chords & pedals)"
+}

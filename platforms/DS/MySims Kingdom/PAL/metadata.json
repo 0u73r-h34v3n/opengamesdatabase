@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tose"],
+	"genres": ["Adventure", "Fantasy", "Party", "Puzzle", "Simulation"],
+	"locales": ["ES"],
+	"name": "MySims Kingdom",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 31, 2008",
+	"serial_number": "CK5P",
+	"synopsis": "King Roland is a king with a conundrum and he needs your help. Life in the kingdom has taken a downturn of late and it seems just about everyone in the land has a problem that needs solving!"
+}

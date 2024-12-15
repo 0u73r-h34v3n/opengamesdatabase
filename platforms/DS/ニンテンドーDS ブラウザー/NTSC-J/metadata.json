@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Opera Software"],
+	"genres": ["Educational", "Software"],
+	"locales": ["JA"],
+	"name": "ニンテンドーDS ブラウザー",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "July 24, 2006",
+	"serial_number": "UBRJ",
+	"synopsis": "Turn your Nintendo DS into a fully-functioning web browser with the Nintendo DS Browser. Surf websites, check and send emails, bank and shop online - all wirelessly!"
+}

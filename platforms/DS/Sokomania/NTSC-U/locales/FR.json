@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sokomania",
+	"synopsis": "Sokomania est une variante du célebre jeu du gardien d'entrepôt. Différentes caisses sont placées sur la surface de jeu. Le joueur contrôle un personnage qui peut pousser les caisses vers l’avant. Le but du jeu est de placer toutes les caisses sur les cases indiquées. Le joueur choisit l’épisode qu’il veut jouer et le niveau auquel il souhaite commencer. Seuls les niveaux déja terminés (en surbrillance en vert) et le dernier niveau pas encore terminé de chaque épisode sont accessibles. Le joueur peut tenter, en recommençant des niveaux déja réussis, de les réaliser avec moins de mouvements. Mais attention : ces mouvements sont ajoutés au total de mouvements de la partie en cours. Il vaut donc mieux terminer une partie en une fois pour atteindre le meilleur (le moins) nombre de mouvements possible."
+}

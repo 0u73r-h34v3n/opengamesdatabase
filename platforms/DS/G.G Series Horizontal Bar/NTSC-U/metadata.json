@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gamebridge"],
+	"genres": ["Action", "Platformer", "Sports"],
+	"name": "G.G Series: Horizontal Bar",
+	"publishers": ["Genterprise"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 3, 2011",
+	"serial_number": "KT2E",
+	"synopsis": "This is a new type of action game that will have you swinging and jumping from bar to bar, just like the parallel bars in gymnastics. The controls are simple. Grab onto a bar, add momentum to your swing by pressing left or right on the +Control Pad, then jump and spin to the next bar by pressing the A Button. Gauge the force of your swings and the timing of your jumps just right to cross the course in the fastest time possible. Do you have what it takes to be a star gymnast?"
+}

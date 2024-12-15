@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Asphalt: Urban GT",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 12, 2005",
+	"serial_number": "ASHP",
+	"synopsis": "Unleash the power of your Nintendo DS with this graphically slick, high velocity 3D racer."
+}

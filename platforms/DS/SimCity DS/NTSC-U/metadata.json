@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Aki Corp."],
+	"genres": ["Management Simulation", "Simulation", "Strategy"],
+	"name": "SimCity DS",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 19, 2007",
+	"serial_number": "AC3E",
+	"synopsis": "With SimCity DS, making your own metropolis breaks free from the PC screen and becomes a portable activity, allowing you to create your own city from scratch, bit by bit wherever you go."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Crave"],
+	"genres": ["Strategy"],
+	"name": "Defendin' DePenguin",
+	"publishers": ["Funbox Media"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 5, 2010",
+	"serial_number": "YYUP",
+	"synopsis": "From the creators of Purr Pals and Baby Pals comes Defendin' De Penguin, the first Real Time Strategy game on Nintendo DS. Help our hero, Little Blue fend off hungry creatures that are eager to steal his town's fish supply. To thwart these hungry animals, you'll strategically place defense mechanisms throughout the town with each possessing unique strengths that are geared for specific animals. With the perfect combination of tower utilization, defensive placement, timing and strategy, Little Blue's food supply will be saved and you won't go home hungry."
+}

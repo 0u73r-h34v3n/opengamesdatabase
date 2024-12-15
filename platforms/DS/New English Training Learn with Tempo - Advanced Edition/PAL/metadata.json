@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Plato"],
+	"genres": ["Educational"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "New English Training: Learn with Tempo - Advanced Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 3, 2010",
+	"serial_number": "KJEP",
+	"synopsis": "New English Training: Learn with Tempo brings you a series of fun exercises that will help you pick up enough English to communicate in everyday situations. This Advanced Edition is designed for people who have either completed the Starter Edition or who would like to jump in with a higher level of training. Follow a more complex storyline to practise your pronunciation, listening and rhythm skills; repeating the phrases given in each situation by speaking into the Nintendo DSi’s built-in microphone. Also included is an Autolistening feature; you can listen to English phrases on the go, by closing the Nintendo DSi and using headphones. With just a little training each day, you can learn new English skills or improve existing skills, and gain confidence in real-life situations. Please note that elements of this software may have been featured in previously-released software."
+}

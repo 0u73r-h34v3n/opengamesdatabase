@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Maxis"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "The Sims 2",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 3, 2005",
+	"serial_number": "ASJP",
+	"synopsis": "Welcome to Strangetown! Featuring a fully rendered 3D world, open-ended gameplay and the ability to trade characters or play mini-games wirelessly with your pals, this Sims sequel will immerse you in an all-new virtual world."
+}

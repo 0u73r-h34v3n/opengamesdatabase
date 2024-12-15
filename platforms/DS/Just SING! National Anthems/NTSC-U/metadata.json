@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software B.V."],
+	"genres": ["Music", "Simulation"],
+	"name": "Just SING! National Anthems",
+	"publishers": ["dtp young entertainment"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 16, 2010",
+	"serial_number": "KJSE",
+	"synopsis": "It is the greatest sporting event of 2010 - the World Cup! All eyes are on South Africa, all EARS are on you - in the karaoke game of the year! Enter the hallowed turf and display your talent by singing the National Anthems! There are 5 National Anthems to choose from: Argentina, Australia, Brazil, Japan and the United States. Just sing into the Nintendo DSi microphone! So, lace up your boots and step out onto the pitch - to sing!"
+}

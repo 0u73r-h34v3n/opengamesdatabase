@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AWE Games"],
+	"genres": ["Party", "Trivia"],
+	"name": "Are You Smarter than a 10 Year Old? - The Official Nintendo DS Game",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 7, 2008",
+	"serial_number": "CQOP",
+	"synopsis": "With an increased popularity in puzzle and quiz games, this trivia game will challenge players with 23 categories and more than 3,000 questions. And of course there will be the usual drama of a grade school classroom, with players forming alliances and working their way to the head of the class by cheating and copying off students all with the hilarious narration of host, Jeff Foxworthy."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts Software"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE"],
+	"name": "Horse & Foal: My Riding Stables",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 25, 2008",
+	"serial_number": "AI3P",
+	"synopsis": "Finally the dream of your own estate comes true for the Nintendo DS as well. Get ahead as a stable hand, raise sweet little foals and take excellent care of your guests in \"My Riding Stables\". Give outstanding riding lessons and prepare your horses and students perfectly, so that they will be the riding stars of the future."
+}

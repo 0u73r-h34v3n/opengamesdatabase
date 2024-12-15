@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Phenomedia"],
+	"genres": ["Action", "Arcade", "Shooter"],
+	"name": "Crazy Chicken Pirates",
+	"publishers": ["Teyon"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "August 16, 2012",
+	"serial_number": "KQPE",
+	"synopsis": "Chicken Island is home to countless perils, hidden extras, and pirates who are by no means willing to surrender themselves without a fight. Point and shoot at birds as they scurry through the island, and plunge bravely into the waves. Complete your raid by slaying pirates and collecting hidden treasures."
+}

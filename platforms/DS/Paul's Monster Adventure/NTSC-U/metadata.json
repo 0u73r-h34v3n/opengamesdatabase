@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ICM"],
+	"genres": ["Adventure"],
+	"name": "Paul's Monster Adventure",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 20, 2010",
+	"serial_number": "KP9E",
+	"synopsis": "Prepare to embark on an epic adventure and enter a land where monsters known as bosses once ruled with an iron fist. The local inhabitants have rebelled against the bosses by stealing their food supply. Now the bosses are slowly dying from starvation, and it’s up to you to save them. Explore and discover magical items that will aid you on your adventure. Interact with intriguing monsters that desperately need your help to regain their energy. Be warned: The inhabitants may consider your heroic efforts to be a threat and become aggressive if you are caught with food. Do you best to avoid them, but if you need it, you’re equipped with a powerful hammer that will temporally knock out the inhabitants. It’s time to step up to the challenge and restore order to this chaotic land."
+}

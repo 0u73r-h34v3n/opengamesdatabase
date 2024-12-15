@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Big Blue Bubble Inc."],
+	"genres": ["Adventure"],
+	"locales": ["ES"],
+	"name": "iCarly 2: iJoin the Click!",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2010",
+	"serial_number": "VIJV",
+	"synopsis": "You are Ridgeway High School’s newest student! For the first time ever, enter the world of iCarly as you explore locations from the show, play insane games and unlock and collect crazy items! Hang out with Carly, Sam, Freddie, Spencer and Gibby as you go shopping, complete missions and tasks, earn money, and most importantly, work with the gang to make the most awesome iCarly show ever!"
+}

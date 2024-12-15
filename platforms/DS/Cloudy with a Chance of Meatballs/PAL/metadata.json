@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Cloudy with a Chance of Meatballs",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 11, 2009",
+	"serial_number": "CZAX",
+	"synopsis": "What the world needs is a hero. In Cloudy With a Chance of Meatballs, play as Flint, hero-inventor of the action-packed movie, who creates a machine that causes food to rain from the sky. When the machine spirals out of control and creates a mess of gigantic \"portions,\" it's up to you to save the world by using every vehicle and crazy gadget Flint has invented to save his hometown and the world from a food-tastrophe! Hurl hamburgers, sling spaghetti, and fight gummi bears with Flint and his pet monkey Steve to save the world."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Puzzle"],
+	"name": "Super Monkey Ball - Touch & Roll",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 17, 2006",
+	"serial_number": "AMOP",
+	"synopsis": "It’s a Super Monkey Ball spectacular on Nintendo DS! Cheeky monkeys Aiai, Meemee, Gongon and Baby return to a perilous land of slender ledges, towering peaks and shifting platforms."
+}

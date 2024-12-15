@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory", "Inc."],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES"],
+	"name": "Kirby: Mouse Attack",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "AKWP",
+	"synopsis": "Someone has stolen Kirby's strawberry shortcake! Did King Dedede do it, or could it be The Squeaks: a band of intergalactic, thieving rodents?"
+}

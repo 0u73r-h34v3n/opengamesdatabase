@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc.", "Mobile & Game Studio"],
+	"genres": ["Action", "Adventure"],
+	"name": "Ōkamiden",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "March 15, 2011",
+	"serial_number": "BOOE",
+	"synopsis": "Restore color to a darkened, magical world in a friendship -filled picturesque action adventure. Okamiden blends vivid myth, artistic action and innovation only possible on Nintendo DS. Use the DS stylus as a powerful celestial brush that attacks enemies, paints helpful objects into existance and performs exceptional feats that change the world before the player's eyes. Team with in-game partners to solve puzzles and face perilous challenges."
+}

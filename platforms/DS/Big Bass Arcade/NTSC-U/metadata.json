@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fishing", "Simulation", "Sports"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Big Bass Arcade",
+	"publishers": ["Big John Games"],
+	"release_date": "May 16, 2011",
+	"serial_number": "K9GE",
+	"synopsis": "Big Bass Arcade is all about the action where the bass are biting and fighting! Catch a boatload of fish and take a shot at the world record bass. Packed with features: seven different lakes, nine lures, three multiple lake tournaments, 42 events, high scores for each event, and the elusive world record bass. Big John Games brings 17 years of fishing game experience to Big Bass Arcade to create incredible fish behaviors, spectacular animations, and second-to-none fish AI evident from the first cast. Putting the fun back into handheld fishing is the name of the game! Players choose from two control options (stylus or +Control Pad) for casting, reeling, and controlling the fish-fighting action. Big Bass Arcade appeals to fishing enthusiasts and gamers alike by capturing the adrenaline rush of fish fighting in an arcade style game."
+}

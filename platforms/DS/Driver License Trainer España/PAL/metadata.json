@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["PubCompany"],
+	"genres": ["Educational", "Trivia"],
+	"locales": ["ES"],
+	"name": "Driver License Trainer España",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 29, 2009",
+	"serial_number": "CLLS",
+	"synopsis": "¡Ya tienes a tu alcance las últimas preguntas que aparecerán en los tests 2009/2010! Estés donde estés, juega, aprende y entretente, de forma eficaz, para el examen de conducir de los Permisos A y B."
+}

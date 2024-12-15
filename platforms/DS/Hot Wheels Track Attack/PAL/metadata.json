@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firebrand Games"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Hot Wheels: Track Attack",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 26, 2010",
+	"serial_number": "VHWV",
+	"synopsis": "Hot Wheels Track Attack™ is an all-new arcade-style racing experience featuring outrageous gravity-defying stunts and customized track-building activities!"
+}

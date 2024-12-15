@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Zoo Games"],
+	"genres": ["Action", "Arcade", "Shooter"],
+	"name": "Chicken Blaster",
+	"publishers": ["ZOO Digital Publishing", "Zushi Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 2, 2010",
+	"serial_number": "BCHP",
+	"synopsis": "Things have gone completely haywire for our humble poultry-farming friend! Crazy chickens have infiltrated his once anonymous and boring life--and now all of his chickens are going mad!"
+}

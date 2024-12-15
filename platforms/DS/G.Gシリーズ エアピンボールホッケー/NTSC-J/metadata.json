@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Hockey", "Sports"],
+	"locales": ["JA"],
+	"name": "G.Gシリーズ エアピンボールホッケー",
+	"publishers": ["Genterprise"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "July 8, 2015",
+	"serial_number": "K25J",
+	"synopsis": "Is it Air Hockey? Is it Pinball? It's Air Pinball Hockey!! Enjoy the best of both worlds in this hybrid action table top style game."
+}

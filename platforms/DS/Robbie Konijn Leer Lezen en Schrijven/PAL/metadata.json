@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mindscape"],
+	"genres": ["Cards", "Educational"],
+	"locales": ["NL"],
+	"name": "Robbie Konijn: Leer Lezen en Schrijven",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2008",
+	"serial_number": "YE4H",
+	"synopsis": "Robbie Konijn is terug! Nu op de Nintendo DS en met nieuwe avonturen. Robbie Konijn helpt je op een speelse manier leren lezen. Als je met Robbie dieren benoemt en je jouw eerste woordjes schrijft wordt lezen op de Nintendo DS pas een echte beleving."
+}

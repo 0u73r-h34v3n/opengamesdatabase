@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Uacari"],
+	"genres": ["Arcade", "Educational", "Puzzle", "Racing"],
+	"name": "Roary the Racing Car",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 7, 2009",
+	"serial_number": "C7RX",
+	"synopsis": "Zoom around Silver Hatch with Roary the Racing Car, Big Chris and friends and play entertaining puzzle games and brain-teasing activities on every corner of the race track!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Role-Playing", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fire Emblem: Shadow Dragon",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 5, 2008",
+	"serial_number": "YFEP",
+	"synopsis": "Discover the origins of the Fire Emblem saga!"
+}

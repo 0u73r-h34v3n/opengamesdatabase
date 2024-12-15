@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Music on: Playing Piano",
+	"publishers": ["Abylight"],
+	"release_date": "October 15, 2010",
+	"serial_number": "KICP",
+	"synopsis": "Playing the piano has never been so easy and so much fun! This new collection of 15 popular songs allows you to enjoy a complete musical experience even if you have no prior knowledge of the piano. Notes transformed into rectangles appear over the piano keys to show you where, when and how to play them. The song speed increases depending on the game's level. \"Music on: Playing Piano\" is an easy, intuitive and addictive game that will challenge your auditory and visual coordination."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Magic Pockets"],
+	"genres": ["Educational", "Simulation"],
+	"name": "Driving Theory Training",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 29, 2008",
+	"serial_number": "CDXP",
+	"synopsis": "Driving Theory Training gives players the unique opportunity to revise, practice and take virtual tests on driving theory and Main Road Code whilst on the move. This will be the first time that the Nintendo DS has been used as a new media device to help learners study and simulate the actual test. Driving Theory Training is aimed at provisional license holders who need that little extra help to be successful when the day of the real test comes around and offers valuable help to anyone who's learning to drive."
+}

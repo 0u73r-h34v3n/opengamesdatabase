@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"locales": ["ES"],
+	"name": "Inazuma Eleven",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 28, 2011",
+	"serial_number": "YEES",
+	"synopsis": "Mark Evans es el capitán del equipo de fútbol del instituto Raimon y quiere ganar a toda costa la copa del torneo Football Frontier. El problema es que aún no cuenta con once jugadores, y los que tiene, bueno, no son los tíos más motivados del mundo. Eso sí, hay un chico nuevo en la escuela, de nombre Axel Blaze, del que se dice que es un gran delantero. Si Mark consiguiera que se una al equipo, quizás estaría más cerca de lograr su sueño."
+}

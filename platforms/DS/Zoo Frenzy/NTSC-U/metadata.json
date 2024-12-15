@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Zoo Frenzy",
+	"publishers": ["Gameloft"],
+	"release_date": "March 15, 2010",
+	"serial_number": "KZFE",
+	"synopsis": "Create the zoo of your dreams and try to maximize your profit by managing tons of parameters! Enjoy five fun mini-games to train and support your Animals: feed them, heal them and even play soccer or hockey themed games with them! Your best trained pets will go back into the wild to fight dangerous monsters and find new cute animals for your zoo! Enjoy use of the microphone and inner camera: wake up the hero by shouting at him and see yourself in the game!(Content available in English, French, and Spanish.)"
+}

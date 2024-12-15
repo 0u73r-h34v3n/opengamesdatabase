@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"name": "Did It Myself ABC123",
+	"publishers": ["Powerhead Games"],
+	"release_date": "October 9, 2010",
+	"serial_number": "KPGE",
+	"synopsis": "Five customizeable actvities to stimulate your young child's brain and/or keep them occupied. Did It Myself ABC123 has a selection of colorful and easy to play actvities featuring letters, colors, counting, a watercolor-like drawing area, and a virtual xylophone with easy to follow songs."
+}

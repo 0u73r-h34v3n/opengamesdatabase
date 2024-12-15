@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Sports"],
+	"name": "Shawn Johnson Gymnastics",
+	"publishers": ["Zoo Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 7, 2011",
+	"serial_number": "KSJE",
+	"synopsis": "Go for the gold with Shawn Johnson as you compete in the world of competitive gymnastics. Stick your landings on vaults and nail your combinations on the beam to impress the judges. Start as an amateur and work your way up, earning awards on your way to the World Championships. Train diligently during practice and you'll be ready for competition in no time. Earn your way through bronze, silver and gold medals as you evolve into an all-around star in the world of gymnastics. Perfect your routines and score high marks to earn a place on the podium - and in the hearts of your fans."
+}

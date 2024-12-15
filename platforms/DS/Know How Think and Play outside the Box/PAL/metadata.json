@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bitfield GmbH"],
+	"genres": ["Puzzle"],
+	"name": "Know How: Think and Play outside the Box",
+	"publishers": ["SevenOne Intermedia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 30, 2008",
+	"serial_number": "CPIP",
+	"synopsis": "Train your mental abilities with the exciting fun new puzzle for the whole family! With 350 brain teasers you improve your logical thinking and power of concentration while playing."
+}

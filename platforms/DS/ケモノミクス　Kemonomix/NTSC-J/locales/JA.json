@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ケモノミクス　Kemonomix",
+	"synopsis": "ケモノミクスは、とある惑星のケモノを育成するゲームです。 ケモノを鍛えるトレーニング、ケモノに惑星を調査させる探検、ケモノを変化させるミックスを行い、ゲームを進めます。 特にミックスではケモノの見た目や能力を変化させ、強化する事ができます。 ゲーム内での2000日以内に惑星の調査を行い、宇宙船のパーツを集めて地球に帰る事がプレイヤーの目的です。"
+}

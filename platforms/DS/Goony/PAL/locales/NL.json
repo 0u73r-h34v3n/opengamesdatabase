@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Goony",
+	"synopsis": "Goony is een éénknops speelhalspel voor de gewone en de fanatieke speler. Je speelt met Goony, een wezentje van gelei, dat over een weg rent met gevaarlijke obstakels. Het doel van het spel is om zo lang mogelijk in leven te blijven. Als je van de weg af valt, verlies je. Goony is altijd in beweging. Hij gaat alleen naar links en naar rechts. Je kunt zijn richting eenvoudig bepalen met de richtingsknop. Speciale blokken, die je kunnen helpen, vind je verspreid over het speelveld. Het speelveld is oneindig lang en blijft bestaan tot je een fout maakt. Het aantal stappen dat je zet is je uiteindelijke score. In het spel: - Willekeurig en oneindig lang speelveld - Teken je eigen blokken met de ingebouwde blokontwerper - Wissel door spelers gemaakte blokken uit, lokaal of online met een QR code - Race tegen een vriend op hetzelfde systeem in de multiplayerspeelstand"
+}

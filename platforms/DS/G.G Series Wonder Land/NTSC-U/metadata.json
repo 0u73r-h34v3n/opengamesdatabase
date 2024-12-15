@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Action", "Adventure"],
+	"name": "G.G Series Wonder Land",
+	"publishers": ["Genterprise"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 28, 2015",
+	"serial_number": "KWLE",
+	"synopsis": "A vibrant and unique vertically-scrolling shooting game. Set inside the fantastical world of magic, lore and mischief, slip gracefully through what seems to be an impassable curtain of fire from Wonderland-themed enemies. Hitting enemies with your fire will cause your Bomb Gauge to increase. Once your gauge is maxed out, use your fully charged Bomb to obliterate all enemy fire on-screen. At the end of each stage, a powerful boss will be lying in wait. Will you make your way down the rabbit hole?"
+}

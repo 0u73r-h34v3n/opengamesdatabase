@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Red Entertainment"],
+	"genres": ["Puzzle"],
+	"name": "Tsumiki: The Infernal Tower",
+	"publishers": ["Nobilis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 16, 2008",
+	"serial_number": "YTMP",
+	"synopsis": "Get Ready For The Ultimate Addicting Puzzle! Game Stack piles of colorful shapes without losing any. Use realistic physics and gravity to keep the pieces from falling. Make stacking combinations to rescue adorable creatures from certain peril!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ravn Studio"],
+	"genres": ["Adventure", "Educational"],
+	"locales": ["NO"],
+	"name": "Pippi Longstocking",
+	"publishers": ["Pan Vision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 26, 2012",
+	"serial_number": "TPLP",
+	"synopsis": "Join Pippi, Tommy and Annika to play the don’t-touch-the-floor game, pick apples for Pippi’s horse, save children from a burning house in the town, challenge Mighty Adolf at the circus and do many more fun activities. Within the game you play as Pippi. The game starts inside Villa Villekulla, after which it moves on to the neighbourhood, to the town, and then on to the circus. Pippi likes to help the people she meets on her adventures. Go up to the characters you meet to find out what they need or want. The menu shows you the tasks you have to complete and the things you must find in order to move on to the next level in the game. Sometimes you need the help of Mr. Nilsson, and at other times you have to carry boxes to where you need them to get to high places in order to reach the things you need."
+}

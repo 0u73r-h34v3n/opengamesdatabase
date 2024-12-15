@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dancing Dots"],
+	"genres": ["Music", "Rhythm"],
+	"name": "Tecktonik World Tour",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 7, 2008",
+	"serial_number": "CQXP",
+	"synopsis": "The dance sensation from France: Tecktonic. Create your dancer and be trained by the world's top dances. Put your skills to the test in dance battles all over the world and become a member of the Eklesiast dance elite."
+}

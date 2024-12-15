@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Cake Ninja",
+	"synopsis": "A simple casual game where you swipe the stylus across the screen to slice cakes into small pieces, like a true Ninja warrior. It’s very easy to play. The more cakes you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last? You can also challenge your friends to a multiplayer game to show everyone who the best player is! Key Features: - Simple, addictive gameplay - Colourful 3D graphics - Precise slice recognition - Challenging multiplayer mode"
+}

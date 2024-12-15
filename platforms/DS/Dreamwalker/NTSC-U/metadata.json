@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Code Mystics"],
+	"genres": ["Action", "Puzzle"],
+	"name": "Dreamwalker",
+	"publishers": ["Code Mystics"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 6, 2011",
+	"serial_number": "K9EE",
+	"synopsis": "Dreamwalker is an action-puzzle game for casual and core gamers alike! Guide Walker to safely to Sunrise by altering his maze-like path through Dreamland, but beware of sleep-depriving hazards. Enjoy 40 unique levels including two bonus mini-games, hours of play, and a rich soundtrack. It's fun for all ages!"
+}

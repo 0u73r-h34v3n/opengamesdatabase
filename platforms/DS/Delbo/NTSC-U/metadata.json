@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Delbo",
+	"publishers": ["Koneko"],
+	"release_date": "June 23, 2011",
+	"serial_number": "KDBE",
+	"synopsis": "Delbo is a shooting-puzzle game: the aim for the player is to shoot the orb from the bottom of the screen to hit the orbs falling from the top of the screen. When the color of orbs falling from the top of the screen are the same as the orb being thrown, they will connect and extinguish each other. It's easy to play, but it's so hard to master."
+}

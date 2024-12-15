@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HB Studios"],
+	"genres": ["Music"],
+	"name": "Jam Space: PocketStudio",
+	"publishers": ["HB Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 13, 2010",
+	"serial_number": "KJME",
+	"synopsis": "Jam Space: PocketStudio for the Nintendo DSi system puts the power of a recording studio in your pocket. You can compose tracks, jot down ideas and be musical no matter where you are. Choose from two modes. Quick Jam mode allows you to lay down tracks quickly and easily using natural instrument interfaces. This is a great mode if you've got a little melody you want to record and want to get it down quickly. Studio mode gives you access to a full-featured MIDI editor that lets you tweak and hone your compositions to a professional level. If you want to dig deep and really work on that masterpiece, this is the mode for you."
+}

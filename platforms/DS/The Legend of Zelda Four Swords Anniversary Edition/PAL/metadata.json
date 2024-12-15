@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "The Legend of Zelda: Four Swords Anniversary Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 28, 2011",
+	"serial_number": "KQ9V",
+	"synopsis": "2D multiplayer adventure as two to four players wirelessly connect their Nintendo DSi, Nintendo DSi XL or Nintendo 3DS systems and work together to rescue Princess Zelda after Link splits into four with the help of the Four Sword. You and up to three of your friends will each don a differently-coloured tunic as you all take on the role of Link. Ensure you work together as you discover and play across four themed areas, solve numerous puzzles and defeat bosses along the way. Make sure you collect more Rupees than your friends if you want to be deemed the overall winner after completing one of the themed areas!"
+}

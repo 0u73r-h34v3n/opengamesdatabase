@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Starship Patrol",
+	"publishers": ["Nintendo"],
+	"release_date": "December 18, 2009",
+	"serial_number": "KDYV",
+	"synopsis": "Starship Patrol takes tower defence into outer space! Defend your starship fleet from waves of enemy attacks using a combination of strategic skills and resource management. Plan your defence on the Touch Screen by attaching weapons to your ships in strategic positions. Use energy collected from defeated enemies to purchase new and more powerful weapons, and look out for rare power crystals that unlock advanced attacks, including the ability to summon a devastating black hole! Defend your fleet across 30 intense levels while advancing your rank from lowly recruit all the way to fleet admiral! Are you up to the challenge?"
+}

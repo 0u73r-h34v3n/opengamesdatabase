@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation"],
+	"name": "Anne's Doll Studio: Tokyo Collection",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 12, 2012",
+	"serial_number": "KSQE",
+	"synopsis": "Use the stylus to choose hair styles, hair accessories, dresses, jackets and shoes, mixing and matching items to create hundreds of beautiful outfit combinations. Once your doll is complete you can choose from various backgrounds and boarder designs to create a stunning picture with your doll center-stage. Alternatively set your Tokyo doll against a background of your choice by taking your own picture using the Nintendo DSi Camera. You can further decorate and your doll by adding stars and other pretty effects or by drawing freehand. Your completed doll pictures can be saved to the SD Card and traded with friends, used on social networks as your avatar picture or printed out using a computer."
+}

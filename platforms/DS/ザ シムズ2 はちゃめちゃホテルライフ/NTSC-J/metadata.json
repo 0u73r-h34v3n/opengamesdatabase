@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Maxis"],
+	"genres": ["Simulation"],
+	"name": "ザ シムズ2 はちゃめちゃホテルライフ",
+	"publishers": ["Electronic Arts Japan"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "January 1, 2005",
+	"serial_number": "ASJJ",
+	"synopsis": "Welcome to Strangetown! Featuring a fully rendered 3D world, open-ended gameplay and the ability to trade characters or play mini-games wirelessly with your pals, this Sims sequel will immerse you in an all-new virtual world."
+}

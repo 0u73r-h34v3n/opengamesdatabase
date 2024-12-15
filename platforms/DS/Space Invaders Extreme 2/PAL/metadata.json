@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TAITO CORPORATION"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Space Invaders Extreme 2",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 2, 2009",
+	"serial_number": "CV8P",
+	"synopsis": "Shoot the alien invaders as they try to land! With a variety of power ups, modes and new features Space Invaders Extreme 2 makes saving the planet super satisfying in this classic arcade re-envisioning."
+}

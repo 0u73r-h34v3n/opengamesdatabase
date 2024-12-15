@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["White Birds Productions"],
+	"genres": ["Adventure"],
+	"name": "Crime Scene",
+	"publishers": ["Nobilis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 16, 2009",
+	"serial_number": "CUIP",
+	"synopsis": "Crime Scene turns Nintendo DS into a weapon of justice. Players are tasked with combing through crime scenes and untangling suspense-filled scenarios by using the stylus, breath and voice features, and their own eye for detail to condemn wrongdoers."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Mr. Driller - Drill Spirits",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "ADRP",
+	"synopsis": "As the titular power-tooled miner, it’s your job to dig through layer upon layer of colourful blocks, scramble for air capsules, dodge cave-ins and race to rescue fellow Drillers."
+}

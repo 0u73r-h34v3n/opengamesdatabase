@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Rising Star Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Angel Cat Sugar",
+	"publishers": ["Pan Vision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 16, 2009",
+	"serial_number": "C5OX",
+	"synopsis": "A new character from the original creator of Hello Kitty, Angel Cat Sugar is the story of Sugar, the princess of Angel Land, who has the power to heal hurt feelings. Help Sugar in her quest to save her friends Basil, Thyme and Parsley from the clutches of the Storm King, aiding the residents of Angel Land any way you can."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Assassin's Creed II: Discovery",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 19, 2009",
+	"serial_number": "VACV",
+	"synopsis": "Discover a strange chapter in the plot line of Assassin's Creed II, exclusive for Nintendo DS and Nintendo DSi. Follow Ezio on his journey through Spain and rescue other fellow assassins subjected to the yoke of the inquisition. Thus reveal the plot of the Templars and sail west to discover the New World."
+}

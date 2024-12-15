@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["iNiS"],
+	"genres": ["Health", "Music", "Rhythm"],
+	"name": "Elite Beat Agents",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "November 6, 2006",
+	"serial_number": "AOSE",
+	"synopsis": "Agents are…GO! Join the top secret Elite Beat Agents and come to the rescue using the power of song and dance."
+}

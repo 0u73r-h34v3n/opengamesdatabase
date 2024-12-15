@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation"],
+	"name": "Call of Duty 4 - Modern Warfare",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "January 1, 2007",
+	"serial_number": "YCOI",
+	"synopsis": "Heed the call of duty and take down a rogue enemy in a top secret mission that is always explosive!"
+}

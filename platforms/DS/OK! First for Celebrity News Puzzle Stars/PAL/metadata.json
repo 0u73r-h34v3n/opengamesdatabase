@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Team 3 Games"],
+	"genres": ["Puzzle", "Trivia"],
+	"name": "OK! First for Celebrity News: Puzzle Stars",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 30, 2010",
+	"serial_number": "BUSP",
+	"synopsis": "OK! Puzzle Stars brings you a wealth of celebrity-themed puzzles and exclusive showbiz games from the world's biggest celebrity magazine. Step into the shoes of the OK! Magazine Editor in Chief and successfully get 12 celebrity packed issues off to the printers by completing all of the puzzles and bonus games."
+}

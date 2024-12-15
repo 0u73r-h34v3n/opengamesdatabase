@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Arcade", "Platformer"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Ah! Heaven",
+	"publishers": ["CIRCLE Entertainment"],
+	"release_date": "February 7, 2013",
+	"serial_number": "K5HE",
+	"synopsis": "Ah! Heaven, is a platform game developed with an Eastern ink painting style. You play as a soul willing to ascend to heaven. Though heaven's gate is open, God will not take you there, you have to go by yourself. You will meet all kinds of danger in your journey; Can you get through it to make your ascension? Features: Unique Eastern ink painting style, depicting various regions from across the world. An exhilarating experience with simple controls. 24 challenging stages; can you beat them all in the fastest time possible?"
+}

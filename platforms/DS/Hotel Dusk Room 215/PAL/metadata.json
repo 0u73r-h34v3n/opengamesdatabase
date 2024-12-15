@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cing Inc."],
+	"genres": ["Adventure"],
+	"locales": ["ES"],
+	"name": "Hotel Dusk: Room 215",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "April 13, 2007",
+	"serial_number": "AWIP",
+	"synopsis": "Los Angeles, 1979. Players take the role of Kyle Hyde, an ex-cop turned salesman trying to track down a missing friend. Clues lead to an eerie, old hotel rumored to have one very strange room – a room where wishes are granted."
+}

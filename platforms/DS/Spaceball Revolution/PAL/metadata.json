@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Puzzle", "Strategy"],
+	"name": "Spaceball: Revolution",
+	"publishers": ["Virtual Toys"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 2, 2010",
+	"serial_number": "KSBV",
+	"synopsis": "Spaceball: Revolution will put your intelligence and skill to the test as you solve puzzles in a futuristic environment.You have to copy the figures that appear on the top screen, using energy balls to make the correct construction boxes change colour. But it won't be an easy task... different obstacles will be thrown in your path, forcing you to focus your aim and think rapidly. Fifteen different levels are waiting for you in \"Spaceball: Revolution\" - Are you up to the challenge? Only the very best players manage to reach the end!"
+}

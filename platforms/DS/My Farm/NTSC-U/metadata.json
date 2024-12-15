@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["BiP Media"],
+	"genres": ["Management Simulation", "Simulation", "Virtual Pet"],
+	"name": "My Farm",
+	"publishers": ["BiP Media"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 23, 2010",
+	"serial_number": "KMRE",
+	"synopsis": "My Farm is a livestock farming simulation game. At the beginning, all you own is an empty field, a few pennies and a single hen. If you feed the hen and take care of it, she will lay eggs that can be sold. With this money, you can buy new animals at the Farmers' Market and purchase equipment from the shopkeeper. Little by little, as your farm builds up, you will unlock bonuses including a wind turbine, rooster, guard dog and tractor. You will be able to exchange your animals with your friends who play My Farm or My Exotic Farm. There are six kinds of animals to customize, many farm improvements to buy and bonuses to collect."
+}

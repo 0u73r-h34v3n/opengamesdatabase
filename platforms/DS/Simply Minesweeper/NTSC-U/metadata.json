@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Simply Minesweeper",
+	"publishers": ["Engine Software"],
+	"release_date": "October 6, 2011",
+	"serial_number": "KM3E",
+	"synopsis": "Simply Minesweeper gives you exactly what you want: pure Minesweeper on your Nintendo DSi system! Minesweeper is a classic puzzle game where you have to defuse the bombs scattered around the board. Each tile will indicate how many bombs are hidden around it. Your first move is always a gamble, but once you get started you must analyze the numbers shown to find out where the bombs are concealed. The simple game design and easy, intuitive controls make it a game that the whole family can enjoy. The game has 50 puzzles in each level to provide hours of gameplay fun."
+}

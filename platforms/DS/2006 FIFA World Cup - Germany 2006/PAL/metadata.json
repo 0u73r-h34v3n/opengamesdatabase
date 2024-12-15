@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Football", "Sports"],
+	"name": "2006 FIFA World Cup - Germany 2006",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 28, 2006",
+	"serial_number": "A6WP",
+	"synopsis": "Lead your team to a historical win at the greatest football tournament of all! Whether you’re playing with the favourites or hoping to earn an upset with the underdogs, 2006 FIFA World Cup Germany brings the competition to life in vivid detail."
+}

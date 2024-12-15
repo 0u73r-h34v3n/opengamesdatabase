@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Farm Frenzy",
+	"publishers": ["Alawar"],
+	"release_date": "July 7, 2011",
+	"serial_number": "KFKE",
+	"synopsis": "If you thought life in the big city was crazy, wait until you get a load of the country life in Farm Frenzy, a super-fun arcade game that lets you show Old MacDonald how it's done! Daily chores have never been more entertaining as you cultivate your fields, feed your animals, and gather the items they produce. Better keep the bears away from your ducks, though, or you won't have any eggs to sell at the market! You can spend the money you earn on upgrading your farm to churn out more products faster than you could before."
+}

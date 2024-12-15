@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact Productions"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Real Adventures: Wild Horses - The Quest for the Golden Horse",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 23, 2009",
+	"serial_number": "YMQY",
+	"synopsis": "You are Lisa, a girl with an extortionary talent for understanding and caring for horses. Go on the quest for the golden Akhal Teke, a legendary horse with a magnificent golden coat. Ride free! Explore 5 amazing places in the world on horseback!"
+}

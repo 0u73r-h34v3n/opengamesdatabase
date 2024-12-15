@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Multimedia", "Software"],
+	"locales": ["ES", "JA"],
+	"name": "どこでもWiiの間",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "May 1, 2009",
+	"serial_number": "KDGJ",
+	"synopsis": "\"Dokodemo Wii no Ma\" allows you to watch videos from the Wii channel \"Wii no Ma\" on your DSi. You can save the videos you like on \"Wii no Ma\" to your DSi console or SD memory card and enjoy them anytime, anywhere."
+}

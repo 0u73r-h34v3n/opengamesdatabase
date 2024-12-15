@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Tom Clancy's Splinter Cell - Chaos Theory",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 30, 2005",
+	"serial_number": "ATCP",
+	"synopsis": "Stealthy super-spy Sam Fisher makes his Nintendo DS debut in a packed Game Card that boasts not only a massive single-player game but also two wireless multiplayer modes!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AirPlay"],
+	"genres": ["Adventure", "Puzzle", "Strategy"],
+	"name": "Super Yum Yum: Puzzle Adventures",
+	"publishers": ["Mastertronic"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 26, 2010",
+	"serial_number": "K4PE",
+	"synopsis": "SUPER YUM YUM Puzzle Adventures is a multi-award winning puzzle game featuring a chameleon called Leon. Featuring forty eight levels, across four worlds and exclusive Nintendo DSi features, players will navigate through many hours of mindbending gameplay while they try and rescue Leon's babies from the belly of Ms. Tum Tum! There are four worlds and 48 individual levels - there are also four mini-games in total, one in each world. The game stars Leon the Chamelon who must eat his way through fruity, fiendish puzzles, licking fruit to change colour and choosing the right combinations of fruit to finish each level."
+}

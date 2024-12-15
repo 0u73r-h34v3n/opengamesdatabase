@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure"],
+	"name": "호텔 더스크의 비밀",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "February 12, 2009",
+	"serial_number": "AWIK",
+	"synopsis": "Los Angeles, 1979. Players take the role of Kyle Hyde, an ex-cop turned salesman trying to track down a missing friend. Clues lead to an eerie, old hotel rumored to have one very strange room – a room where wishes are granted."
+}

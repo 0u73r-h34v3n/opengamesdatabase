@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["SUZAK"],
+	"genres": ["Action"],
+	"name": "GO Series D-Tank\t",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 10, 2010",
+	"serial_number": "KTAP",
+	"synopsis": "GO Series presents D-Tank from Suzak.Play a variety of defence and offensive missions as you fend off enemies and attack bases using a tank.Power up your tank with different ammo types such as multiple shots and rapid fire as you single-handedly take on an army. Sometimes you just need to hold out, other times you'll have enemies to destroy, while other times you'll be attacking a powerful enemy base."
+}

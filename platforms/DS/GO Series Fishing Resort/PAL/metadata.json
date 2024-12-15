@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MECHANIC ARMS"],
+	"genres": ["Sports"],
+	"name": "GO Series Fishing Resort",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 11, 2011",
+	"serial_number": "KFBP",
+	"synopsis": "GO Series presents Fishing Resort from Mechanic Arms. Feel the swing of the fishing rod as you cast, the tension in the line as you reel in the fish and its weight as you catch it with the net. Use the stylus to feel every bite, tug and pull. Buy new rods, lines, floats and bait, take part in challenges and trade Member's Cards and Rankings with friends via wireless communications. Developed in Japan with anime graphics and style, Fishing Resort oozes charm and is a delight to play."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Cards", "Party", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "UNO",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 20, 2009",
+	"serial_number": "KUNV",
+	"synopsis": "UNO is a classic card game for everyone! No matter your age or experience with card games, you’ll pick up the rules in a flash. Then it’s every man for himself – UNO is an easy game to play, but not such an easy game to win! With UNO on WiiWare and Nintendo DSiWare, there are all sorts of fun modes to try whether you’re playing by yourself or with friends and family. You can play a normal game of UNO in Free Play, take on tricky challenges in Tournament Mode or get together with other gamers for a shared experience in Multiplayer Mode! The controls are simple and intuitive, whether it’s the WiiWare or Nintendo DSiWare version you’re playing. Use the Wii Remote to select your card on the screen with WiiWare and the stylus if you’re playing on the Touch Screen with your Nintendo DSi! Once you’ve got the controls in hand, use the Nintendo DSi cameras or your Mii characters on Wii to fully customise your appearance in the game and take on opponents from all over the world! Whether you’re brand new to the game or a seasoned pro, there’s nothing like a classic card game to bring out the competitive spirit in everyone!"
+}

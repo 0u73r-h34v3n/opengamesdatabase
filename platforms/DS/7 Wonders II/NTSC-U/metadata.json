@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "7 Wonders II",
+	"publishers": ["MumboJumbo"],
+	"release_date": "June 14, 2012",
+	"serial_number": "K7WE",
+	"synopsis": "Forgotten cities. Hidden treasures. Lavish monuments to gods, love and greed. You are about to embark on a journey to mystic places that few have ever seen: the Seven Wonders of the Forgotten World. Your quest begins at the foot of Stonehenge and continues through sacred temples, architectural masterpieces and forgotten cities. Only the most skilled and determined voyager will survive to see the world-wide journey's end. Along the way, you'll see priceless artifacts, ancient relics and architectural feats that the modern world has yet to surpass. A maze of age-old secrets and unanswered questions awaits you."
+}

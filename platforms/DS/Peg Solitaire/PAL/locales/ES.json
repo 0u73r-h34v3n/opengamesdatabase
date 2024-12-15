@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Peg Solitaire",
+	"synopsis": "Peg Solitaire es un juego de mesa para un jugador en el que hay que mover fichas estratégicamente en un tablero en forma de cruz con 33 espacios. En algunos tableros se usan bolitas que se colocan en huecos. En el Reino Unido, el juego se llama Solitaire (Senku en español), y cuando se utilizan cartas, el juego se llama Patiente (en español, Solitario). Dificultad: el juego ofrece diferentes niveles de dificultad para que los jugadores puedan ir aprendiendo las técnicas del juego paso a paso. • Nivel introductorio (9 fases) • Nivel fácil (9 fases) • Nivel intermedio (9 fases) • Nivel difícil (9 fases) • Nivel experto (5 fases) Textos de pantalla en inglés."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ImaginEngine"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "Alvin and the Chipmunks :The Squeakquel",
+	"publishers": ["Majesco Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 11, 2009",
+	"serial_number": "BAVX",
+	"synopsis": "Furry pop sensations Alvin and the Chipmunks are on a spectacular worldwide tour with their girl group rivals, The Chipettes. Watch the 'Munks bring their mega star power to the show and make the crowds roar! Test your rhythm on stage with these adorable dancing trios as they sing their hits and swing their hips to prove they’re the greatest musical act in the world!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "High Stakes: Texas Hold'Em",
+	"publishers": ["HUDSON SOFT"],
+	"release_date": "December 21, 2009",
+	"serial_number": "KTXE",
+	"synopsis": "Hudson proudly presents the definitive Texas Hold‘Em game on DSiWare with High Stakes Texas Hold‘Em! High Stakes allows players of any level to enjoy Texas Hold‘Em gameplay. The popular No-Limit rule set used in many tournaments is packed in, so anyone can play with the big boys! With the added functionality of DS Wireless Communications, players can compete with others to test their skills. It’s the core Texas Hold‘Em experience on your Nintendo DSi system; anytime, anywhere!"
+}

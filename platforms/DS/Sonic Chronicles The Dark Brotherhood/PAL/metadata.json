@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["BioWare"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES"],
+	"name": "Sonic Chronicles: The Dark Brotherhood",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 26, 2008",
+	"serial_number": "CSNP",
+	"synopsis": "Sonic has to find out what's behind the mysterious threat that's destroying the world, but he'll only succeed if he works as a team and comes up with a good plan. The plot is full of surprises and the new characters make it more exciting than ever."
+}

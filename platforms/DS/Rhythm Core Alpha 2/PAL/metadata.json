@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rhythm Core Alpha 2",
+	"publishers": ["SoftEgg"],
+	"release_date": "August 15, 2013",
+	"serial_number": "KY4V",
+	"synopsis": "Rhythm Core Alpha 2 is an advanced music creation and performance tool. It allows you to build loops of music with drums and a variety of instruments, as well as to play live music with the stylus using the Solo Mode. With this software, you can build music quickly, and perform it live in front of an audience! This new version greatly expands the capabilities of the original Rhythm Core Alpha, adding new features designed to make this the best live music program on any mobile device!"
+}

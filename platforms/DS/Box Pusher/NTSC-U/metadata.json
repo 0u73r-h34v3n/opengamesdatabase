@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Box Pusher",
+	"publishers": ["cosmigo"],
+	"release_date": "February 23, 2012",
+	"serial_number": "KQBE",
+	"synopsis": "Push! In this classic puzzle game you play a warehouse worker who has to move boxes to the correct locations. Sound easy? Prove you have the brain power to solve over 250 missions and master all situations with the correct strategy. Funny animations, a zoomable playing area, and unlimited chances to undo steps will help you with these brain teasers. Play with friends in multiplayer or make and exchange your own levels. This puzzler will captivate you."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Oscar in Movieland",
+	"publishers": ["Virtual Playground"],
+	"release_date": "April 2, 2010",
+	"serial_number": "KO4V",
+	"synopsis": "The Legendary, Oscar in Movieland now on DSiWare.Following his mega successful Oscar in Toyland escapades, Oscar now plays the leading actor in sensational worlds of hit movies and TV shows. From Sci Fi to Cartoon, Western to War, Horror to Jurassic and a zany Game show host, this is a game not to be missed. Oscar in Movieland pushes the DSiWare to new limits with eye popping graphics, parallax scrolling backgrounds and fabulous gameplay. This platformer is packed with hours of fun and non-stop action."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Health", "Simulation"],
+	"locales": ["ES"],
+	"name": "My Secret World by Imagine",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 19, 2008",
+	"serial_number": "YRMP",
+	"synopsis": "So much more than a secret diary!"
+}

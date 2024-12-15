@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Saturnine Games"],
+	"genres": ["Platformer", "Puzzle"],
+	"name": "Antipole",
+	"publishers": ["Saturnine Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "December 29, 2011",
+	"serial_number": "KJHP",
+	"synopsis": "In Antipole, players bend the laws of gravity in their quest to fend off a robot invasion. Players are given the ability to invert gravity in the area around them. The inverted gravity affects not only the player but also anything else nearby, including enemies, objects, and pools of acid. Players must journey through the robot spaceship using their ability to manipulate gravity to progress through increasingly harder challenges. Players face traditional platforming challenges along with more advanced puzzles testing their ability to move objects such as blocks and keys through the levels to help them advance."
+}

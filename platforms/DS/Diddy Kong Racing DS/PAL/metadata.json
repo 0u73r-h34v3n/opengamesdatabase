@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Rare"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Diddy Kong Racing DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 20, 2007",
+	"serial_number": "AWDP",
+	"synopsis": "There's trouble on Timber's Island in the hideous shape of Wizpig, an evil space swine. To combat this new menace, the island's inhabitants call on the Kong clan - Diddy, Dixie and Tiny Kong - to send the troublesome trotter back to the stars."
+}

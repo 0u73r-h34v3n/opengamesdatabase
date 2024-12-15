@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Advance Wars: Dual Strike",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 30, 2005",
+	"serial_number": "AWRP",
+	"synopsis": "The Game Boy Advance strategy sensation comes to Nintendo DS! Confront the deadly Black Hole Army's invading forces, in tactical battles that play out across both of the DS' screens."
+}

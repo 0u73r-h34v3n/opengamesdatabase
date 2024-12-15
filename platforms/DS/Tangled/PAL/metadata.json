@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Planet Moon Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "Tangled",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 21, 2011",
+	"serial_number": "B6TP",
+	"synopsis": "Disney Tangled: The Video Game is a story-based adventure sent in a vast kingdom featuring characters with unique abilities, colorful environments, creative play, fun quests, and competitive racing challenges."
+}

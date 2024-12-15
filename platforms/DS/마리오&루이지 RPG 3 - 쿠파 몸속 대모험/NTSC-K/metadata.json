@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"name": "마리오&루이지 RPG 3 - 쿠파 몸속 대모험",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "July 21, 2011",
+	"serial_number": "CLJK",
+	"synopsis": "In the highly-anticipated third RPG adventure in the Mario & Luigi series, the brothers have to face an unbelievable new challenge that involves getting up close and personal with their arch-enemy Bowser."
+}

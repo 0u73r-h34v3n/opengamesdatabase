@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"name": "My Japanese Coach: Learn to Speak Japanese",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 31, 2008",
+	"serial_number": "CJCP",
+	"synopsis": "Easy to Learn, Fun to Play: Entertaining games help you learn Japanese words, grammar, and sentence structure, while keeping track of your progress. Explore Japan as each new point of interest expands your vocabulary."
+}

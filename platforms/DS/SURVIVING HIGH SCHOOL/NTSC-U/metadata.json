@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Adventure", "Strategy"],
+	"name": "SURVIVING HIGH SCHOOL",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "April 19, 2010",
+	"serial_number": "K3VE",
+	"synopsis": "Welcome to Centerscore High, where each choice you make changes your game! But remember, some choices are wiser than others… Play the premiere “Football Season” storyline plus 7 episodes for hours of gameplay. You cause all the drama! Master addictive mini-games and ace pop quizzes along the way. The Trophy System tracks your results. Earn 4 “great endings” and unlock a BONUS EPISODE. Seriously. Best…high-school game…EVER!"
+}

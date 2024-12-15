@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Taito Corporation"],
+	"genres": ["2d Platformer", "Action", "Arcade", "Platformer"],
+	"locales": ["DE", "ES"],
+	"name": "The Legend of Kage 2",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 8, 2009",
+	"serial_number": "YLKP",
+	"synopsis": "The hit arcade game returns, now on a handheld console for the first time. The dual-screen functionality of Nintendo DS injects life into the vibrant game world and its elaborate, action-packed stages."
+}

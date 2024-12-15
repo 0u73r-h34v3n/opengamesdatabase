@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"name": "タシテン ＋たして10にする物語＋",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "October 10, 2007",
+	"serial_number": "AIOJ",
+	"synopsis": "Travel to a magical land where your mathematical mind will be stretched by fun challenges that all centre on a very special number."
+}

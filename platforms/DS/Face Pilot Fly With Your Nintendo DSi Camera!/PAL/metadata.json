@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Flight Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Face Pilot: Fly With Your Nintendo DSi Camera!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 18, 2010",
+	"serial_number": "KYBV",
+	"synopsis": "Soar through the sky, from the comfort of your sofa, with the innovative gliding game Face Pilot! Face Pilot not only puts your face into the game with the Nintendo DSi camera, it also tracks your head's movements giving you complete control of your glider. Simply tilt your head sideways to steer left and right, back to climb, and forwards to dive. There are three different types of gameplay: burst all the balloons to reach the goal, throw balls at targets for a high score, and try for a fast time in the high speed challenge. Also, look out for hidden medals which help unlock new courses and even new gliders! Face Pilot is a truly unique game that wouldn't be possible without Nintendo DSi. The only thing missing is the wind in your hair!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Yoshi Touch & Go",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 6, 2005",
+	"serial_number": "AYIP",
+	"synopsis": "Steady your stylus hand and get ready to help Yoshi come to the rescue of Baby Mario in the unique action game Yoshi Touch & Go."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["iNiS"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["JA"],
+	"name": "燃えろ！熱血リズム魂　押忍！闘え！応援団２",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "May 17, 2007",
+	"serial_number": "AO2J"
+}

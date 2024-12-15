@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ImaginEngine"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Virtual Pet"
+	],
+	"name": "Cesar Millan's Dog Whisperer",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 15, 2008",
+	"serial_number": "CDCE",
+	"synopsis": "Become one of Cesar Millan's apprenticies and help owners how their dogs's minds work!"
+}

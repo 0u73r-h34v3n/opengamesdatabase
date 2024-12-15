@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["morgen studios"],
+	"genres": ["Adventure"],
+	"name": "Playmobil Interactive: Pirates - Boarding!",
+	"publishers": ["HMH Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 20, 2008",
+	"serial_number": "YRIP",
+	"synopsis": "All abord, pirates! Embark on exciting adventures un the Caribbean with Pirate Patch: Find the missing pieces of Captain Blackbeard's mysterious sea chart Explore the many islands Fight against fierce soldiers and dangerous sea Monsters Rescue the beautiful Mermaid Find the legendary pirate treasure Climb aboard-and have loads of pirate fun!"
+}

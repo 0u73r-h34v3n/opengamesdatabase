@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Puzzler World XL",
+	"publishers": ["UFO Interactive"],
+	"release_date": "October 18, 2012",
+	"serial_number": "KUOE",
+	"synopsis": "THE BEST-SELLING PUZZLER WORLD IS BACK! Boasting over 1,800 different puzzles, with favorites like Sudoku, crosswords and unique offerings like Link-A-Pix and Pieceword, puzzle fans are sure to find a wealth of fun in this unprecedented collection. Mind-boggling puzzles include: Crosswords, Wordsearch, Fitword, Pieceword, Backwords, Silhouette, Hide and Seek, Link-A-Pix, Sudoku, Hang-man, Add Up, Colour-In, Chain Letters, Picture Quiz, Jigsaw, Sum Up and Splitwords. Get your puzzle on!"
+}

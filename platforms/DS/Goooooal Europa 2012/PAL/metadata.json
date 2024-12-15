@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cinemax"],
+	"genres": ["Football", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Goooooal Europa 2012",
+	"publishers": ["Cinemax"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 21, 2012",
+	"serial_number": "K9AP",
+	"synopsis": "A steel ball and 22 football players on springs in shallow dips; a pitch surrounded by barriers and with a goal at each end. It's a concept that's been around for a hundred years and which still sees matches decided on quick combinations and accurate shots on goal. When possession is lost, it becomes your opponent's turn. The game is controlled using the stylus, which allows players to accurately aim and determine the power of a pass or shot. Players are selected by their heads, pulled back and released. The game's physics engine ensures smooth, realistic travel of the ball around the pitch, either delivering it into the goal or to another player. However, it's also possible to inject the mechanics of this turn-based game with a shot of adrenaline. Just imagine replacing the ball with a time bomb. Passes have to be faster and even more accurate. Plus, intentionally losing possession of the ball at a key moment becomes a strategic option in a match. A player unlucky enough to be on the receiving end of the time bomb's blast has to leave the field and you can only hope your goalkeeper doesn't meet a similar fate. Goooooal Europa 2012 features several game modes. In addition to standard matches or matches with time bombs, you can choose a single-player match, a two-player match, a 16-team tournament, and even a demanding campaign packed full of challenging tasks in which you can win various achievements. The game can be customised with many various settings, including overall difficulty, a goal limit and the re-spawning of players blasted by time bombs. Plus, you can, of course, also choose your team's strip and the game will automatically select between dark and light variants. In brief: • A table-top football game. • Play against the computer or a friend. • An authentic simulation of a real table-top football game, with players on springs, playing with a steel football. • A turn-based game in which a player's go ends with loss of possession. • Features an innovative ARCADE mode: replace the football with a time bomb and send the opponent’s players to the bench! • Physics-based simulation of ball travel over an uneven pitch. • Play single matches, tournaments or skill campaigns featuring 20 objectives. • Win exciting achievements. • Choose from 16 national teams competing in this year’s championship. • Special edition Goooooal Europa 2012 features the following teams: Croatia, Czech Republic, Denmark, England, France, Germany, Greece, Italy, Netherlands, Poland, Portugal, Republic of Ireland, Russia, Spain, Sweden and the Ukraine."
+}

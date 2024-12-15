@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pucca: Noodle Rush",
+	"publishers": ["Bigben InteractiveNacon"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 18, 2011",
+	"serial_number": "KNUP",
+	"synopsis": "Pucca Noodle Rush was inspired by time management mechanisms, along with many new ideas from the Pucca television series. You control Pucca, who is in charge of customer service in her uncles' restaurant: seat customers, take their orders, serve them, clear the tables, pocket the cash, give priority service to your important friends, bring your impatient customers back to their tables, make sure that you seat your customers according to their respective affinities and rivalries..."
+}

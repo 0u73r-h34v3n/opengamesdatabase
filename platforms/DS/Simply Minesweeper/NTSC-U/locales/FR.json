@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Simply Minesweeper",
+	"synopsis": "Simply Minesweeper vous offre tout ce dont vous rêviez: un véritable jeu de Minesweeper sur votre Nintendo DSi! Minesweeper est un jeu de réflexion classique dans lequel le joueur doit désamorcer des mines éparpillées sur une grille. Chaque case indique le nombre de mines situées dans les cases adjacentes. Le premier coup est toujours hasardeux, mais vous pouvez ensuite analyser les nombres qui s'affichent pour déduire où se cachent les mines. L'écran supérieur indique le nombre de mines à désamorcer. Avec ses 50 puzzles à chaque niveau, ce jeu vous garantit des heures de jeu et de divertissement."
+}

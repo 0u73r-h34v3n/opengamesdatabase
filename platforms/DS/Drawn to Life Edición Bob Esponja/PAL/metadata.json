@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Drawing", "Platformer"],
+	"locales": ["ES"],
+	"name": "Drawn to Life: Edición Bob Esponja",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2008",
+	"serial_number": "CDLS",
+	"synopsis": "En Drawn To Life: Edición Bob Esponja nos enfrentaremos al malvado Garabato, que ha conseguido un lápiz mágico con el que causará estragos en Fondo de Bikini. Tendremos que dibujar nuestro propio héroe, un héroe que tendrá el poder de vencer a Garabato y de rescatar a Bob Esponja y sus amigos."
+}

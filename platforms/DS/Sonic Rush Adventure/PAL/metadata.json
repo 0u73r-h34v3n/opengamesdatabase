@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dimps", "Sonic Team"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "Sonic Rush Adventure",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 28, 2007",
+	"serial_number": "A3YP",
+	"synopsis": "Lace up your running shoes and take Sonic for a spin in a blisteringly fast adventure that’s sure to leave you breathless!"
+}

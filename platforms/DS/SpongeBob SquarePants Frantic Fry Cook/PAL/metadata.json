@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Fizz Factor"],
+	"genres": ["Business Simulation", "Cooking", "Simulation"],
+	"locales": ["DE"],
+	"name": "SpongeBob SquarePants: Frantic Fry Cook",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 6, 2009",
+	"serial_number": "CCKP",
+	"synopsis": "You play as SpongeBob preparing zany foods from ‘Anome Meatloaf’ to ‘Chili Oyster Skins’"
+}

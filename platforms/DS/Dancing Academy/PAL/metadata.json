@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Dancing Academy",
+	"publishers": ["Tivola"],
+	"release_date": "March 25, 2011",
+	"serial_number": "KINP",
+	"synopsis": "Become a dancing star! Your favourite show is looking for new dancing talent. So, head on down to the castings! Dance your way through the audition rounds and outshine the other contestants on the TV show with your natural sense of rhythm. With a wealth of world-famous hits from Madonna, ATC, The Rasmus and many more!"
+}

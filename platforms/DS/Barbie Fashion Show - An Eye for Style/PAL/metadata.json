@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["CyberPlanet Interactive"],
+	"genres": ["Simulation", "Strategy"],
+	"name": "Barbie Fashion Show - An Eye for Style",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 23, 2008",
+	"serial_number": "CBFP",
+	"synopsis": "Help Barbie put on fabulous fashion shows that will \"WOW\" the world! With limitless customization and creative options, the possibilities are endless! From concept to catwalk, you will design the outfits and accessories for your very own fashion line. Now you can put your personal mark on the fashion world!"
+}

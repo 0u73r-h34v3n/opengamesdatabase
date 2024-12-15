@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software", "MSL"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Quest IV: Heritage",
+	"publishers": ["Inc.", "iWin"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 26, 2011",
+	"serial_number": "BV8P",
+	"synopsis": "Solve over 175 Jewel Quest: Heritage boards and one puzzling family mystery on a topsy-turvy quest through Europe's ancient hot spots. Hit the trail with Rupert on a journey through the shrines and castles of Hernan Cortes' lore. Swap jewels and collect puzzle pieces to unravel a perplexing web of Jewel Quest family secrets. With over 175 new Jewel Quest Heritage boards, including 3 jewel-swapping modes, new surprises await in every level."
+}

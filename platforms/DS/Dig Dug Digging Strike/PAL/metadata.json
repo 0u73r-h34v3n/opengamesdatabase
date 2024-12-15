@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bullets", "Namco"],
+	"genres": ["Action", "Arcade"],
+	"name": "Dig Dug: Digging Strike",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 25, 2006",
+	"serial_number": "ADDP",
+	"synopsis": "This 3D adventure combines the classic arcade digging action with new baddies, environments, weapons, mini-games and strategies to deliver the most action-packed Dig Dug game to date. Whether tackling the underground alone or wirelessly with a friend, gamers discover 15 stages with more than 80 areas in Dig Dug Digging Strike."
+}

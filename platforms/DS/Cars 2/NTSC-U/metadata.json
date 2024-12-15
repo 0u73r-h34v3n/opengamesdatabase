@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firebrand Games"],
+	"genres": ["Racing"],
+	"name": "Cars 2",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 21, 2011",
+	"serial_number": "VCAE",
+	"synopsis": "Jump into the Cars 2 universe with some of your favorite Cars personalities in exotic locations around the globe."
+}

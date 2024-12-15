@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Collavier"],
+	"genres": ["Action"],
+	"locales": ["JA"],
+	"name": "A-Mi-Da阿･弥･陀",
+	"publishers": ["CollavierCollavier"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "November 14, 2012",
+	"serial_number": "K9JJ"
+}

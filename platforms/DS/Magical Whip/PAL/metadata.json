@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Magical Whip",
+	"publishers": ["Agetec"],
+	"release_date": "November 15, 2012",
+	"serial_number": "KWMP",
+	"synopsis": "The two apprentice wizards had become lost amid a tangled sea of trees. The Phantasmal Forest, a dark, dangerous place ruled by monsters... It bewitches people with its strange power. The wizards can only use a single spell – one that turns their wands into a magical whip. Defeat enemies and collect valuable items as you battle your way through the forest in this exciting action game. You can select either the male or female character and use their magical whips to capture enemies and defeat them. Your magical whip doesn’t do much damage on its own, but with combos, it becomes a powerful weapon capable of defeating a mighty dragon with a single strike. Combos are performed by capturing a falling enemy with your magical whip and using the captured monster to attack others. Can the wizards escape the evil forest before they become lost forever within its darkness? Features: - 50 haunting stages to battle and escape from. - Master combos to increase magical power. - Earn a high rank to unlock a hidden game mode. - Discover and use items to your advantage."
+}

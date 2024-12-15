@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HMH Hamburger Medien Haus"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Cornelsen Trainer: Mathe Klasse 6",
+	"publishers": ["HMH Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 1, 2009",
+	"serial_number": "YOZP",
+	"synopsis": "With “Cornelsen Trainer” students have access to Nintendo DS titles for the first time that are completely curriculum-based and specifically focused on core school subjects – this is a first on the console market. In addition, there is the greatest need for tutoring nationwide in the subjects of English and mathematics, and Cornelsen, as a provider of content, stands for quality and seriousness."
+}

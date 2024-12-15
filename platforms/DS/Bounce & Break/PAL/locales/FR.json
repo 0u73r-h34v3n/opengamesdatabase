@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Bounce & Break",
+	"synopsis": "Bounce & Break est un jeu de casse-briques original prenant part dans un univers japonais, relaxant et zen. Le jeu est composé de 4 univers différents. Chaque univers se compose de 4 saisons. Les 2 meilleurs scores sont enregistrés dans les tables de records. 2 modes de jeux : - Le mode classique - Le mode orientation Selon le mode de jeu sélectionné, les règles de jeu diffèrent. Texte écran en français."
+}

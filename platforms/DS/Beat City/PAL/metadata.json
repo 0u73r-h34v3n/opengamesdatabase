@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Universomo"],
+	"locales": ["FI"],
+	"name": "Beat City",
+	"publishers": ["THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 1, 2010",
+	"serial_number": "BEYP",
+	"synopsis": "Feel The Beat: Using the stylus, players tap, swipe or hold on queue to the music's beat in order to receive a high star rating within each mini-game. Pick-Up And Play: There are 20 colourful rhythm-based mini-games that players can choose from to play on a whim. Plus, players can go back at any time to try and beat their old score. Unlock The Beat: Players can play through the story mode, Beat Revolution to unlock mini-games and more than 20 items in the Beat Album. Rhythm Ratings: Beat City provides immediate and constant feedback on players' individual actions so there's never any doubt on the progression."
+}

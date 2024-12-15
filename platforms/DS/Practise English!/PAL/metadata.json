@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Plato"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Practise English!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 26, 2007",
+	"serial_number": "ANHP",
+	"synopsis": "What is Practise English? Practise English! focuses on common usage of English to help you improve your conversational English skills."
+}

@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Indipendent Arts Software"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Virtual Pet"
+	],
+	"locales": ["DE"],
+	"name": "Meine Tierarztpraxis - Einsatz auf dem Land",
+	"publishers": ["dtp young entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 4, 2007",
+	"serial_number": "YMUD"
+}

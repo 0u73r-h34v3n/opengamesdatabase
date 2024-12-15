@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES", "FR", "IT", "PT"],
+	"name": "Winx Club: Saving Alfea",
+	"publishers": ["Little Orbit"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 17, 2014",
+	"serial_number": "TGPP",
+	"synopsis": "Join the Winx as they prepare Alfea for its upcoming anniversary! Jump, evade and puzzle your way through the adventures as your favourite Winx characters. Get ready for the anniversary party, and save Alfea from Selina!"
+}

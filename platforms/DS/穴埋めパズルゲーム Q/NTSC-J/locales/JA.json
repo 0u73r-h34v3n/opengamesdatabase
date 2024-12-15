@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "穴埋めパズルゲーム Q",
+	"synopsis": "ひたすら転がり続ける「Q」が穴に落ちないように、ブロックを削って穴を埋めていきます。 Qの行く手には様々な形の穴が現れて、しかも一定数の穴を埋めるごとに進行速度がアップ! また、穴の大きさは3×3マスから始まり中級・上級になるにつれて大きくなっていきます。 のんびりブロックを削っていたらいつの間にか穴が目の前!なんてことも…"
+}

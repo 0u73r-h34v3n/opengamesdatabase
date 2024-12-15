@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Role-Playing"],
+	"name": "The Chronicles of Narnia: Prince Caspian",
+	"publishers": ["Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "May 15, 2008",
+	"serial_number": "YQNE",
+	"synopsis": "Enter the fantastic world of Narnia!"
+}

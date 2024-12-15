@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Taito"],
+	"genres": ["Cooking", "Simulation"],
+	"locales": ["DE", "ES", "IT"],
+	"name": "Cooking Mama",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 8, 2006",
+	"serial_number": "ACCX",
+	"synopsis": "Cooking Mama is a delicious blend of the finest gaming ingredients: easy to play, fun and educational, too!"
+}

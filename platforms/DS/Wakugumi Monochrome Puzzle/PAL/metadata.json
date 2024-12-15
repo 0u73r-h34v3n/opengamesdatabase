@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Wakugumi: Monochrome Puzzle",
+	"publishers": ["Nintendo"],
+	"release_date": "October 16, 2009",
+	"serial_number": "KK4V",
+	"synopsis": "From the makers of brain-teasing classics like Actionloop and Polarium comes a new challenge, one that will test both your grey matter and your stylus skills! Wakugumi: Monochrome Puzzle is based on a simple premise: clear black and white blocks from the play area, ‘capturing’ blocks of one colour by surrounding them with blocks of the opposite colour. You control the action with your stylus, swapping blocks back and forth to make the perfect captures. Learn the basics in Training Mode, then test your capturing techniques in Score Attack as you try to clear as many blocks as possible within a time limit, chaining captures together to score bonuses. Or try your hand at Time Attack – can you erase all the blocks and work your way down the vertical course as quickly as possible?"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sonic Powered Co. Ltd"],
+	"genres": ["Simulation"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Hair Salon",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 13, 2009",
+	"serial_number": "DHSV",
+	"synopsis": "Looking great can make you feel great and facing the world with confidence is something that everybody deserves, but sometimes your tried and tested style can begin to feel a little stale and a fresh new image is the only solution. The question is: what to go for? Nobody wants their makeover to be a make-under! As the first Nintendo DSi-exclusive release, Hair Salon allows you to get a sneak preview before you go for the chop or simply have fun creating riotous new styles – just snap a photo of yourself or a friend using the cameras of the Nintendo DSi to try out something new with zero commitment."
+}

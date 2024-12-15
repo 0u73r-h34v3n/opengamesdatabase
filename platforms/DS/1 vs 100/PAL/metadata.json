@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gimagin Games"],
+	"genres": ["Trivia"],
+	"name": "1 vs 100",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 10, 2008",
+	"serial_number": "YJYP",
+	"synopsis": "Play against 100 mob members for your chance to win one million dollars. Answer the questions correctly to eliminate the mob members - it only takes one wrong answer and the game is over! You only have a few seconds to answer each question so keep an eye on the stopwatch! Competition is fierce - can you take on the Mob and win?"
+}

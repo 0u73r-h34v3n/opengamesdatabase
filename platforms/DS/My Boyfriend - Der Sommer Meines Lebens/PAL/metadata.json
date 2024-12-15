@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["exozet games"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["DE"],
+	"name": "My Boyfriend - Der Sommer Meines Lebens",
+	"publishers": ["dtp young entertainment AG"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 17, 2008",
+	"serial_number": "CFVD"
+}

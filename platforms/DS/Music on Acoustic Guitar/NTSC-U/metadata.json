@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Music on: Acoustic Guitar",
+	"publishers": ["Abylight"],
+	"release_date": "September 6, 2010",
+	"serial_number": "KG6E",
+	"synopsis": "An acoustic guitar in your pocket! Play your favorite songs easily, thanks to the predefined chord option, and enjoy the sound quality achieved. Hear the fingers on the frets and the nails while strumming! A directory of over 900 chords shows you how to place your fingers on a real guitar and lets you listen to them when selected. Five different styles will accompany you to set the mood. Features: *Over 900 chords *8 definable chords on the +Control Pad *Intensity detection while strumming *Palm mute function *Shows how to place the fingers on a real guitar *Five accompaniment styles: Pop Rock, Soft Rock, Country, Ballad and Blues *Four variations for each accompaniment *Eight predefined chord selections per style *Metronome *Save up to 10 sessions (chords, tempo and style selected)"
+}

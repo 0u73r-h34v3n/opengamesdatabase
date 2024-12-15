@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genius Sonority Inc.", "The Pokémon Company"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Lernen mit Pokémon: Tasten-Abenteuer",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 21, 2012",
+	"serial_number": "UZPD",
+	"synopsis": "Master the Nintendo Wireless Keyboard and use your typing skills to research over 400 Pokémon with new Learn With Pokémon: Typing Adventure on Nintendo DS."
+}

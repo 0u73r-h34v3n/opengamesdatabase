@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Nintendo DSi - Instrument Tuner",
+	"publishers": ["Nintendo"],
+	"release_date": "March 29, 2010",
+	"serial_number": "KTUE",
+	"synopsis": "The Nintendo DSi Instrument Tuner software can be used to tune an instrument by aligning tonal pitches. The software offers two methods of handling this: feeding sounds into the microphone to measure the difference with a target pitch or listening to a sample tone. In addition, the standard musical pitch and notation can be changed, as well as the design of the tuner (choose one of three designs). And if you’re feeling especially in-tune, test your ear by taking on the Tuner Fight minigame’s challenge: balloons with notes on them rise from pipes, and can only be popped by making a tone that matches the pitch shown."
+}

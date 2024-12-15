@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Animal Crossing Calculator",
+	"synopsis": "Les mathématiques deviennent amusantes avec cette calculatrice aux couleurs d'Animal Crossing! Touchez simplement l'écran tactile pour saisir les nombres et effectuer des opérations, tout en retrouvant l'ambiance sonore et visuelle de votre jeu préféré. Cette calculatrice très complète vous propose également une fonction convertisseur, qui vous permet d'effectuer des conversions pour différents types d'unités (masse, longueur, vitesse, température, etc.). Vous pouvez même convertir des âges d'animaux en équivalents pour l'homme et vice versa! Texte écran en français."
+}

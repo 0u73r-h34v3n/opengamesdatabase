@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AGENDA"],
+	"genres": ["Cards", "Party"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "A Little Bit of... All Time Classics: Card Classics",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 30, 2009",
+	"serial_number": "KTRP",
+	"synopsis": "Enjoy some of the world’s favourite games together in one handy collection, playable with Touch Screen controls, and with support for up to eight players. A Little Bit of... All Time Classics: Card Classics features five best-loved card games: Blackjack, Last Card, Last Card Plus, President and Five Card Draw. Play solo against computer opponents, learn the rules with in-depth instructions, or play with friends wirelessly, sharing a single copy of the game. You can even send a game to a friend’s Nintendo DS or Nintendo DSi as a gift, which they can enjoy until they turn off their system!"
+}

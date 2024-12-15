@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Board Game", "Cards"],
+	"locales": ["DE"],
+	"name": "Classic Ludo",
+	"publishers": ["Kiddinx Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 17, 2009",
+	"serial_number": "BMCP",
+	"synopsis": "Generations have had lots of fun at the gaming table and have also gotten really annoyed at times. Experience the classic game now on the Nintendo DS and play in multiplayer mode with your friends or alone against your DS!"
+}

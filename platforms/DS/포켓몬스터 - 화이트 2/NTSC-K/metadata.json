@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing", "Strategy"],
+	"name": "포켓몬스터 - 화이트 2",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "November 8, 2012",
+	"serial_number": "IRDK",
+	"synopsis": "Embark on a new Pokémon adventure in the Unova region, on Nintendo DS."
+}

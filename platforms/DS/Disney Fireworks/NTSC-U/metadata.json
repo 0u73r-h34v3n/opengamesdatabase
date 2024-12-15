@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Disney Fireworks",
+	"publishers": ["Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 13, 2010",
+	"serial_number": "KDSE",
+	"synopsis": "Light up the night with Disney Fireworks! Ladies and gentlemen, boys and girls... Touch and flick to trigger a dazzling night-time extravaganza of colour and fun with Disney Fireworks! Aim rockets to their matching colours in the sky to ignite an explosion and score points. Time them perfectly to improve your WOW! Meter to unlock special surprises and rockets! Disney Fireworks comes with five themed environments: - Light up the night sky over Disney’s Magic Kingdom! - Fireworks fly over Neverland! - The beautiful islands of Hawaii are the setting for Lilo and Stitch! - Conjure up some magic with Mickey in Fantasia’s The Sorcerer’s Apprentice! - The city of Agrabah glows as fireworks reflect off Jasmine’s Castle the Sultan’s Palace! Disney Fireworks includes original music, 15 challenging levels of difficulty for each world, high score tracking, and much more! Please note that elements of this software may have been featured in previously released software."
+}

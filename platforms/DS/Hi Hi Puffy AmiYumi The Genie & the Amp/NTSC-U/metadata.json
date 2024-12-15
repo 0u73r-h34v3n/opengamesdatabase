@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["2d Fighting", "Action", "Beat 'Em Up", "Fighting"],
+	"name": "Hi Hi Puffy AmiYumi: The Genie & the Amp",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "June 27, 2006",
+	"serial_number": "AHHE",
+	"synopsis": "Follow the fantastic adventures of two very cool pop-stars in HiHi Puffy AmiYumi: The Genie & the Amp. A massive writer's block is thwarting the girls' attempts to finish their new album."
+}

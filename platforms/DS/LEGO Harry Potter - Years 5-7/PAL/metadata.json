@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "LEGO Harry Potter - Years 5-7",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 18, 2011",
+	"serial_number": "B83P",
+	"synopsis": "Bring the curtain down on the Harry Potter story in block-busting style as LEGO Harry Potter: Years 5-7 comes to Nintendo DS!"
+}

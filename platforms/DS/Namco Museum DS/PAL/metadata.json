@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["M2", "Namco"],
+	"genres": ["Compilation"],
+	"locales": ["ES"],
+	"name": "Namco Museum DS",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 27, 2008",
+	"serial_number": "YNMP",
+	"synopsis": "Play some of the most popular Namco games anytime, anywhere on Nintendo DS!"
+}

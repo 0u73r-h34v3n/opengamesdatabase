@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ニンテンドーDS ブラウザー",
+	"synopsis": "ニンテンドーDSブラウザーは、ニンテンドーDS / DS Lite で インターネット上のホームページを手軽に見られるソフトです。 ニンテンドーDSの2画面とタッチスクリーンによって、見やすさと簡単操作を実現しました。 インターネットには、 無線LAN (IEEE802.11) を使って接続します。"
+}

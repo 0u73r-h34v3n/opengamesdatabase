@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Photo Clock",
+	"publishers": ["Nintendo"],
+	"release_date": "October 9, 2009",
+	"serial_number": "KWDV",
+	"synopsis": "Photo Clock turns your Nintendo DSi into a photo frame with added clock and alarm functions. Choose from a range of clock styles and alarms, and use the photo feature to display a slideshow of pictures from the Nintendo DSi Camera album. You can opt for analogue or 12-hour/24-hour digital clock displays, and set up to three separate alarms with three different tones. Photos displayed on the top screen will either be chosen randomly from your album, or chosen based on the stickers they were tagged with."
+}

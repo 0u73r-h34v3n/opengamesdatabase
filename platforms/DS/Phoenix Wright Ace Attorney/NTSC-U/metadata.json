@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Adventure", "Simulation"],
+	"name": " Phoenix Wright: Ace Attorney",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "October 12, 2005",
+	"serial_number": "AGYE",
+	"synopsis": "Looking for your objection to be sustained? Have a thing for cross-examining witnesses?"
+}

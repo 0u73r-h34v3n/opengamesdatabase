@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Noise (Marigul)"],
+	"genres": ["Fighting", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Custom Robo Arena",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 25, 2007",
+	"serial_number": "ACLP",
+	"synopsis": "Custom Robo: the sport of tomorrow. In the not-too-distant future, competitors battle customised robot warriors in holographic battle arenas."
+}

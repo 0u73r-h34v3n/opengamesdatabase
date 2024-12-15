@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Shooter", "Third-Person Shooter"],
+	"name": "007: Blood Stone",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 5, 2010",
+	"serial_number": "BJBP",
+	"synopsis": "An international conspiracy has placed the UK's most secretive biochemical project into deadly hands, and only Her Majesty’s most lethal agent, James Bond, can unravel the mystery. Embark on a global chase that will have you battling on land, sea, and air through Athens, Istanbul, Monaco, and Bangkok."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Interactive Brains"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Deep Labyrinth",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 9, 2007",
+	"serial_number": "ADLP",
+	"synopsis": "In Deep Labyrinth you will get into the shoes of a boy who, together with his dog, will embark on the greatest adventure of their lives... they will descend into the dark heart of the deep labyrinth and there they will find a place full of magical creatures and monstrous enemies. .. With two game modes: RPG beginners and veterans. In both, we will move through scenarios through twelve levels, fighting hordes of fierce enemies with swords in real time. You'll have to use the pointer on the touch screen to fight, so every move you make with the stick will only affect the protagonist's arm. You will also be able to perform magic, which will get better and better as your skill increases."
+}

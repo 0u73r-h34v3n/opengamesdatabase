@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Academy Checkers",
+	"synopsis": "Le jeu de plateau à deux joueurs le plus célèbre au monde rejoint notre Academy. S'il n'y a pas d'autres joueurs à affronter, pas de panique: de talentueux joueurs IA se feront un plaisir de vous affronter dans deux variantes de Checkers: les dames anglaises (English Checkers) et les dames internationales (International Draughts). De plus, chacune de ces variantes est disponible en trois modes de difficulté ! Prouvez votre valeur en mode League pour tenter de devenir le champion de Checkers. Collectionnez les succès et devenez un véritable grand maître de Checkers !"
+}

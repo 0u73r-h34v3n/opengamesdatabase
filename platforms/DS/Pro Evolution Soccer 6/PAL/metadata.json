@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Football", "Sports"],
+	"locales": ["DE", "ES"],
+	"name": "Pro Evolution Soccer 6",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 8, 2007",
+	"serial_number": "AWEP",
+	"synopsis": "Play YOUR game! With many individual movements, techniques, and tricks, Pro Evolution Soccer 6 gives you the opportunity to play the beautiful game exactly as you want. Fast passing, tough tackling, crowd-pleasing individual skills, and determined defense – no other game manages to capture and recreate the essence and atmosphere of this sport so well. Experience the premiere of this celebrated best-selling series on Nintendo DS!"
+}

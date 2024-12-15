@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "PT"],
+	"name": "G.G Series VERTEX",
+	"publishers": ["Goodvision Corporation"],
+	"release_date": "June 25, 2015",
+	"serial_number": "KVEE",
+	"synopsis": "Approaching polygons with missing vertices need to be completed before they cross the border line! Shoot the lacking number of vertices to complete each shape and clear it from the screen. The X, Y and A buttons each fire a different number of vertices and ammo is limited, but each perfectly completed polygon will give you back 1 shot. On the other hand, be careful not to explode a polygon with too many vertices: The rest will jolt down a short distance getting that much closer to crossing the border line!"
+}

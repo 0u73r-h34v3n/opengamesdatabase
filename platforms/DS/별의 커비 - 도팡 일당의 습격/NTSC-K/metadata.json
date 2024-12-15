@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "별의 커비 - 도팡 일당의 습격",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "September 13, 2007",
+	"serial_number": "AKWK",
+	"synopsis": "Someone has stolen Kirby's strawberry shortcake! Did King Dedede do it, or could it be The Squeaks: a band of intergalactic, thieving rodents?"
+}

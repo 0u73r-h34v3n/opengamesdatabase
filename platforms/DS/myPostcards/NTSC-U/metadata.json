@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "myPostcards",
+	"publishers": ["Nnooo"],
+	"release_date": "April 19, 2010",
+	"serial_number": "KMHE",
+	"synopsis": "Create your own postcards and send them to your friends! With myPostcards, you can take a picture, write a quick note on it, then save everything as a postcard. To do this, simply open your Nintendo DSi system, take a photo and go! You can even customize your postcards by changing the background using 32 themes to start with, plus unlockables and various collectible stamps. You can then create postcards for all occasions. Use the pen or pencil tools to write or draw, then erase what you do not like. And thanks to the five different inks, you'll have something to give color to your words and your drawings."
+}

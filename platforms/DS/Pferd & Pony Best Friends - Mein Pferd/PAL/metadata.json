@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts", "Playlux"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE"],
+	"name": "Pferd & Pony: Best Friends - Mein Pferd",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 19, 2007",
+	"serial_number": "YB5D",
+	"synopsis": "Dein Pferd und du, ihr beide seid nicht nur die besten Freunde, sondern bald auch ein preisgekröntes Siegerteam bei Springturnieren und Schönheitswettbewerben!"
+}

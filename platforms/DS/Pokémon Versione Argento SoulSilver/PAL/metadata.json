@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GAME FREAK Inc."],
+	"genres": ["Action", "Adventure", "Role-Playing", "Strategy"],
+	"locales": ["IT"],
+	"name": "Pokémon Versione Argento SoulSilver",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 31, 2010",
+	"serial_number": "IPGI",
+	"synopsis": "Preparati ad una nuova avventura con Pokémon Versione Oro HeartGold e Pokémon Versione Argento SoulSilver per Nintendo DS! Gioca nei panni di un allenatore o di un’allenatrice e lotta nella regione di Johto con il tuo Pokémon per diventare il Campione!"
+}

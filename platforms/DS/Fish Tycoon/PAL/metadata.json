@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Big Fish Games", "LDW"],
+	"genres": ["Business Simulation", "Management Simulation", "Simulation"],
+	"name": "Fish Tycoon",
+	"publishers": ["Majesco Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 14, 2008",
+	"serial_number": "YF7P",
+	"synopsis": "Raise your fish in real-time virtual aquariums then crossbreed them however you see fit to create all-new, super unique breeds. Open your fish store and sell your fish to raise money for supplies, medicine, and special chemicals while researching new technologies or investing in advertising."
+}

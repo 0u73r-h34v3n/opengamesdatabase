@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Music on: Electronic Keyboard",
+	"publishers": ["Abylight"],
+	"release_date": "June 4, 2010",
+	"serial_number": "KK7V",
+	"synopsis": "An electronic keyboard to take with you everywhere! Get creative, transforming your Nintendo DSi into a complete electronic keyboard: with a great variety of instruments, rhythms and sound effects. This is the perfect way to have fun and impress your friends with your musical creations! Whether you are already an expert or if you are taking your first musical steps, Electronic Keyboard will help you capture your inspiration wherever you are."
+}

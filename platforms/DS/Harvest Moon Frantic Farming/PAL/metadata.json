@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Natsume"],
+	"genres": ["Puzzle"],
+	"locales": ["DE"],
+	"name": "Harvest Moon: Frantic Farming",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 25, 2011",
+	"serial_number": "C5QX",
+	"synopsis": "Solve the crop crisis in Natsume and Rising Star’s new farming-based puzzle game for the Nintendo DS."
+}

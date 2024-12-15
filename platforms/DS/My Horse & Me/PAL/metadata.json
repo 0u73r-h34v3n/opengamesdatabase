@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mistic Software"],
+	"genres": ["Simulation", "Sports", "Virtual Pet"],
+	"name": "My Horse & Me",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "YHSP",
+	"synopsis": "Delivering all the excitement and fun of the equestrian life, from sports and leisure riding to horse care, My Horse & Me is a unique gaming experience for anyone with an interest or passion for horses."
+}

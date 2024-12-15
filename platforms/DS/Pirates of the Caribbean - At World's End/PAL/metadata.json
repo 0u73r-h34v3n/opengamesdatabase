@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "Pirates of the Caribbean - At World's End",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 1, 2007",
+	"serial_number": "AW3P",
+	"synopsis": "Live and die by the sword! Pirates of the Caribbean: At World’s End is based in the events, environments and characters surrounding the third instalment of the Pirates of the Caribbean franchise."
+}

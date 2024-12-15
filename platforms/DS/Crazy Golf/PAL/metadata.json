@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Golf", "Simulation", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crazy Golf",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 9, 2010",
+	"serial_number": "KZGV",
+	"synopsis": "Welcome to \"Crazy Golf\"! Experience the world's wackiest miniature golf courses! Seven different courses with six different holes will put your skills to the test.Play alone or challenge your friends in multiplayer mode and show them who's the true champ! Please note that elements of this software may have been featured in previously released software."
+}

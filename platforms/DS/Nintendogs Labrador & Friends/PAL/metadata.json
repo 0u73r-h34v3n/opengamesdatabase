@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Health", "Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Nintendogs Labrador & Friends",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 7, 2005",
+	"serial_number": "AD3P",
+	"synopsis": "Put a puppy inside your Nintendo DS! Pick a dog from a wide range of the most popular breeds, then care for and train it using the Touch Screen and microphone. Pet the pup and play with more than 100 items like tennis balls, flying discs and even clothing accessories, and teach it to do tricks by creating your own personalised voice commands.Train your pups well and compete in obedience and agility trials. Win these competitions to earn cash, which you can use to buy supplies and even more dogs to keep your first puppy company. Walk puppies around the town to meet neighbourhood dogs or interact wirelessly with friends’ Nintendogs using the innovative Bark Mode, which senses another Nintendog nearby when your DS is in Sleep Mode. Nintendogs is available in four different versions: each containing a different selection of six dogs to choose from at the start. By being a good owner and/or meeting up with friends' Nintendogs in Bark Mode, you can unlock more breeds, up to a total of 20 different dogs! Labrador & Friends Includes Labrador Retriever, Miniature Schnauzer, Toy Poodle, Pembroke Welsh Corgi, Miniature Pinscher, Shiba Inu."
+}

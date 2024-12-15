@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Adventure"],
+	"name": "Moshi Monsters: Moshlings Theme Park",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 26, 2012",
+	"serial_number": "TMNP",
+	"synopsis": "Hunt for lost Moshlings, play minigames and help rebuild the Moshlings Theme Park!"
+}

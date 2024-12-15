@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Silver Star Japan"],
+	"genres": ["Action", "Adventure", "Arcade", "Platformer"],
+	"name": "Kung Fu Dragon",
+	"publishers": ["AGETEC"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "July 21, 2011",
+	"serial_number": "KT9E",
+	"synopsis": "Deep within a legendary forest, the Mystical Waterfall breathes out its spirit, inspiring those training for the final challenge. Now, three chosen warriors will face the honourable quest to become the next Kung Fu Dragon. Kung Fu Dragon is an action game in which the player climbs up an immense waterfall by performing a series of jumps. As a martial artist in training, you must face one of the most difficult tests of skill ever: waterfall climbing. You can increase your score by climbing higher up the waterfall and jumping between the various footholds that come falling down. However, watch out for the enemies that block your way – defeat them by jumping on them as you continue to climb as high as you can! Features: - Select from three different warriors, each with their own skills - Perform combos and earn bonus points - Master the double jump, dive and float abilities - Defeat enemies and advance higher up the waterfall"
+}

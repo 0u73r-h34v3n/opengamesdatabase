@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Starfish-SD"],
+	"genres": ["Life Simulation"],
+	"name": "Anne's Doll Studio: Gothic Collection",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 19, 2012",
+	"serial_number": "K54E",
+	"synopsis": "Dress-up a stylish doll, selecting from a wide range of Gothic style dresses and accessories. Use the Sylus to choose hair styles, hair accessories, dresses, jackets and shoes, mixing and matching items to create hundreds of beautiful outfit combinations. Once your doll is complete you can choose from various backgrounds and boarder designs to create a stunning picture with your doll center-stage. Alternatively set your doll against a background of your choice by taking your own picture using the Nintendo DSi Camera. You can further decorate and your doll by adding stars and other pretty effects or by drawing freehand. Your completed doll pictures can be saved to the SD Card and traded with friends, used on social networks as your avatar picture or printed out using a computer."
+}

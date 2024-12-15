@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Extreme Hangman",
+	"synopsis": "Jouez au pendu comme jamais ! Votre mission est de sauver le pendu en devinant le mot mystère dans des environnements différents. Plus vous faites des erreurs, plus le pendu risque d'être abattu, étranglé, écrasé et, bien sûr, pendu par ses ennemis. Jouez en solo ou défiez vos amis en duel. Extreme Hangman propose 7 animations amusantes, plus de 2 000 mots dans plusieurs catégories ainsi que trois niveaux de difficulté. Texte écran en anglais."
+}

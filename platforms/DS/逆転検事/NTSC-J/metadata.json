@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Strategy"],
+	"name": "逆転検事",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "May 28, 2009",
+	"serial_number": "C32J",
+	"synopsis": "Want to prove you've got what it takes to solve a crime? Think you've got sleuthing chops? Then check out Ace Attorney Investigations: Miles Edgeworth and be the one who works out whodunnit in a series of intriguing new cases."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["FR"],
+	"name": "Shrek le Troisieme",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "A3SF",
+	"synopsis": "Sauvez Far Far Away et rejoignez Shrek et ses amis dans une mission qui va au-delà du film dans ce conte de fées amusant et fou. Jouez avec vos personnages préférés et leurs nouveaux amis du film, qui possèdent des capacités uniques et des mouvements spectaculaires. Voyagez à travers des lieux familiers, tels que Far Far Away, et explorez de nouveaux lieux dans l'univers de Shrek. Combattez avec un grand nombre de nouveaux méchants, dont l'énorme dragon de glace, le capitaine musical Hook et le sournois prince charmant."
+}

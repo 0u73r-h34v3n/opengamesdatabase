@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "PAC-PIX",
+	"publishers": ["Namco"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 20, 2005",
+	"serial_number": "APCP",
+	"synopsis": "For his latest Ghost-hunt, Pac-Man's got a brand new bag oftricks!"
+}

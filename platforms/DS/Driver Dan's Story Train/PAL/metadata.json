@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GSP"],
+	"genres": ["Educational"],
+	"name": "Driver Dan's Story Train",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 26, 2012",
+	"serial_number": "TDDP",
+	"synopsis": "Welcome aboard the Story Train with Driver Dan and his friends! Join in the fun with these lovable characters, as they go on exciting adventures through Story Corner. Here imaginations run riot!"
+}

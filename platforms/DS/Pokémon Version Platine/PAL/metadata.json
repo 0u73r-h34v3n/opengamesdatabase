@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["FR"],
+	"name": "Pokémon Version Platine",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 22, 2009",
+	"serial_number": "CPUF",
+	"synopsis": "Tandis que la Team Galaxie met ses plans maléfiques en œuvre, la région de Sinnoh attend son héros. Dans Pokémon Version Platine sur Nintendo DS, vous seuls avez le pouvoir de remettre de l'ordre dans tout cela."
+}

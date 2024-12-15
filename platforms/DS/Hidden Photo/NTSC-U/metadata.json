@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Most Wanted Games"],
+	"genres": ["Puzzle"],
+	"name": "Hidden Photo",
+	"publishers": ["Subdued Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 16, 2011",
+	"serial_number": "KHJE",
+	"synopsis": "Snap - Create - Play! Hidden Photo tests your powers of observation with fun brain-twisting challenges. Locate hidden objects, words and faces in a variety of photos, or spot the difference between two photos. Use your Nintendo DSi system’s built-in camera to make your world the centerpiece of unique challenges. Unleash your creative talents by snapping photos of yourself, friends, objects, pets or anything in your environment. Hidden Photo will create new puzzles for you to solve and share with your friends. The clock is ticking, so don’t admire your photographic genius for too long."
+}

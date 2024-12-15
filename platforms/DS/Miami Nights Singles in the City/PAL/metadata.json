@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["DE", "ES"],
+	"name": "Miami Nights: Singles in the City",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "February 13, 2008",
+	"serial_number": "AVWP",
+	"synopsis": "You just arrived in Miami, the first month you have to pay the rent for your small apartment, and your landlord is not very friendly. But first, you'll need a job... Waitress? Stealing purses? Or convince someone to work for you, it's your choice!"
+}

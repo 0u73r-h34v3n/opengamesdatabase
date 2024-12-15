@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Beauty Salon",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 1, 2009",
+	"serial_number": "C39P",
+	"synopsis": "Did you get to learn fashion with Fashion Designer? Try now to be a cosmetics star with Beauty Salon! Experiment with eye shadows and makeup, learn how to do hairstyles, manicures and massages but most importantly: keep your clients happy! Will you become a star in the world of cosmetics? Learn all types of beauty treatments. Expand your salon, unlocking new treatments. Show all your talent and win trophies for your living room."
+}

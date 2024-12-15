@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Beyond Reality Games Ltd."],
+	"genres": ["Off-Road Racing", "Racing"],
+	"name": "ATV Quad Kings",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 14, 2010",
+	"serial_number": "BQKP",
+	"synopsis": "(EN)\tSpeed may earn you victories, but to wear the crown in ATV Quad Kings, you'll need to show some style! Travel across the globe to compete in nine locations. Pick your four-wheeler from an array of quad bikes and dune buggys, each with different performance specs, then cash in your winnings to improve your ride. Rise to the top in four skill levels and master all the right moves in four game modes: World Tour, Arcade, Time Trial, and Freestyle. Being first to the finish in hard-fought races is good, but to be Number One you'll need to catch air and perform some serious tricks in freestyle contests, too."
+}

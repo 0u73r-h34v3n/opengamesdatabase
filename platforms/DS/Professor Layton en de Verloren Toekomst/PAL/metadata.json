@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["NL"],
+	"name": "Professor Layton en de Verloren Toekomst",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 22, 2010",
+	"serial_number": "C3JH",
+	"synopsis": "Professor Layton en zijn hulpje Luke ontvangen een verbijsterende brief… van Luke, 10 jaar in de toekomst! Maar de boodschap is nog onrustbarender: het Londen van de toekomst is een puinhoop en de enige die orden op zaken kan stellen is Professor Layton."
+}

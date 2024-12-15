@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["ES"],
+	"name": "El Profesor Layton y el futuro perdido",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 22, 2010",
+	"serial_number": "C3JS",
+	"synopsis": "El profesor Layton y su aprendiz, Luke, reciben una confusa carta, remitida por Luke diez años después en el futuro. Pero el mensaje de la misiva es muy perturbador: el Londres del futuro está patas arriba, y solo el profesor Layton podrá poner orden."
+}

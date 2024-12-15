@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tomy"],
+	"genres": ["Action"],
+	"locales": ["ES"],
+	"name": "Naruto Ninja Council 2 European Version",
+	"publishers": ["Takara Tomy", "Tomy"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 3, 2008",
+	"serial_number": "ANRP",
+	"synopsis": "Assume the role of teenage ninja Naruto once more as he continues the fight to protect Leaf Village from an army of invaders."
+}

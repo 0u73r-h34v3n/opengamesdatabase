@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sabarasa"],
+	"genres": ["Life Simulation"],
+	"name": "Art of Ink",
+	"publishers": ["Sabarasa"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "April 11, 2011",
+	"serial_number": "KAWE",
+	"synopsis": "Submerge yourself in the colourful world of tattoo art! Working in one of the most prestigious studios in town, you can turn your stylus into a tattoo machine and work with precision on your clients' skins to give them a piece of your art. But be careful: it’s not just the art you have to deal with, since satisfying your customer takes more than just skill with your inks. You must get to know the crazy cast of characters that come to your shop so you can give each of your clients the perfect design. Keep your clients happy and make a name for yourself to eventually open your own shop and customise it to your liking. Other tattoo artists will take note of your success and will challenge you to prove your skills. Defeating them will give you an insight into their techniques and maybe, just maybe, help you become the next tattoo master. Get ready to celebrate tattoo culture with Art of Ink!"
+}

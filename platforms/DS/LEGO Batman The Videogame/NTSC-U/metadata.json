@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TT Fusion"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "LEGO Batman: The Videogame",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "September 23, 2008",
+	"serial_number": "YJBE",
+	"synopsis": "KAPOW! Gotham City is overrun with scurrilous villains and it’s up to you to don the famous suit and cape and stand up against crime and world domination in LEGO Batman: The Videogame for Nintendo DS !"
+}

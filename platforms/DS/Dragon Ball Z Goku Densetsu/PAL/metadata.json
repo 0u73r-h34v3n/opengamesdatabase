@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Bec"],
+	"genres": ["Cards", "Strategy", "Turn-Based Strategy"],
+	"name": "Dragon Ball Z: Goku Densetsu",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "August 31, 2007",
+	"serial_number": "A5LP",
+	"synopsis": "Dragon Ball Z: Goku Densetsu Densetsu is an all new DBZ experience for the Nintendo DS. Goku Densetsu combines strategic card based gameplay and role playing to deliver a game that is easy to understand but hard to master."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Action", "Adventure", "Platformer", "Puzzle"],
+	"name": "Disney Frozen: Olaf's Quest",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 6, 2013",
+	"serial_number": "TFBX",
+	"synopsis": "Olaf's journey is just beginning Every day is a snow day with Disney Frozen: Olaf's Quest, the new, puzzle platformer video game based on the animated movie of the same name from Walt Disney Animation Studios and Walt Disney Pictures! Following the events of the film this original adventure throws the focus to Olaf, the happy-go-lucky snowman, as he tries to hold himself together through all the perilous situations he stumbles into."
+}

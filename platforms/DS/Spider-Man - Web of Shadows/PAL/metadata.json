@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Spider-Man - Web of Shadows",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "January 1, 2008",
+	"serial_number": "CS5X",
+	"synopsis": "New York City has been invaded, and only Spider-Man can save it from destruction in Spider-Man: Web of Shadows for Nintendo DS."
+}

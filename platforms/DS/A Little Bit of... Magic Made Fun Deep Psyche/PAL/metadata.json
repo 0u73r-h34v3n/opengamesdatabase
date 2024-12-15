@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo", "Tenyo"],
+	"genres": ["Educational", "Health"],
+	"locales": ["ES", "NL", "PT"],
+	"name": "A Little Bit of... Magic Made Fun: Deep Psyche",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 8, 2009",
+	"serial_number": "KM9P",
+	"synopsis": "Impress your friends with mesmerising magic using A Little Bit of... Magic Made Fun – a collection of easy-to-perform tricks that you can carry wherever you go! Deep Psyche uses the Nintendo DSi system to reveal a person’s current condition through a series of fun psychological questions. The result may surprise you! Also included are two additional tricks: Today’s Special, which makes spookily-accurate predictions based on random numbers, and Vanishing Card, which appears to turn your Nintendo DSi system into a mind-reading machine! Please note that elements of this software may have been featured in previously-released software. In game text is available in English and Spanish."
+}

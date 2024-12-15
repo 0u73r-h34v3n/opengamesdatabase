@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tivola"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Lernerfolg Vorschule: Prinzessin Lillifee",
+	"publishers": ["Tivola"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2010",
+	"serial_number": "BVRX",
+	"synopsis": "Even little princesses have to swap their fairy wand for a pen and go to school. Luckily, Princess Lillifee and all her friends help to prepare preschoolers for primary school in a playful way. Learning numbers and letters, basic arithmetic and reading, and even the first English words are taught to the players in the most beautiful places in Princess Lillifee's castle garden."
+}

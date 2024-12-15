@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "LEGO The Lord of the Rings",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 1, 2010",
+	"serial_number": "TLRX",
+	"synopsis": "Save Middle-Earth from Lord Sauron and undertake an epic quest to destroy the One Ring!"
+}

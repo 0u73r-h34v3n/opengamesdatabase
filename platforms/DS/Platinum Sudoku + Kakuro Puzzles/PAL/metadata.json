@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Compilation", "Puzzle"],
+	"name": "Platinum Sudoku + Kakuro Puzzles",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 11, 2007",
+	"serial_number": "AU6P",
+	"synopsis": "Test your wits on 20 million grids - and customize every one with amazing graphics! New to Sudoku? An old pro? With five difficulty levels there's something for everyone! Play six logic mini-games. Plus, unlock any grid in Solver mode!"
+}

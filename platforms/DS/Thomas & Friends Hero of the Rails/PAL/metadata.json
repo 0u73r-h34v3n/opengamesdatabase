@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Barnstorm Games"],
+	"genres": ["Adventure", "Arcade", "Simulation", "Train Simulation"],
+	"name": "Thomas & Friends: Hero of the Rails",
+	"publishers": ["Barnstorm Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 20, 2010",
+	"serial_number": "BT4P",
+	"synopsis": "Play as Thomas for the first time ever on Nintendo DS! Aimed at younger gamers and tank-engine aficionados of all ages, Thomas & Friends: Hero of the Rails is a lighthearted railroad adventure of eight easy-to-play mini-games, featuring the locomotive characters and Sodor Island settings of the long-running children's television series."
+}

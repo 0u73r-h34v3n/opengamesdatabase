@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Eiconic Games"],
+	"genres": ["Party"],
+	"locales": ["ES"],
+	"name": "Squeeballs Party",
+	"publishers": ["Zen United"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 23, 2009",
+	"serial_number": "BSVP",
+	"synopsis": "Squeeballs are tiny, cuddly toys made on a secret island in the Pacific. But before they reach the shelves, they must pass quality control. That's where you come in: throw them, hit them, beat them, cook them and squash them until they prove they're ready for action!"
+}

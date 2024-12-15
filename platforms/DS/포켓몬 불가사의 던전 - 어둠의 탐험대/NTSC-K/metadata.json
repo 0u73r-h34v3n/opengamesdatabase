@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"name": "포켓몬 불가사의 던전 - 어둠의 탐험대",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "December 11, 2008",
+	"serial_number": "YFYK",
+	"synopsis": "See the world through the eyes of a Pokémon and step into an adventure full of mystery in Pokémon Mystery Dungeon: Explorers of Darkness for Nintendo DS."
+}

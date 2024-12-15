@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sudoku Challenge!",
+	"publishers": ["Digital Leisure"],
+	"release_date": "November 30, 2009",
+	"serial_number": "KSCE",
+	"synopsis": "Now’s your chance to play the brain-busting puzzle game taking the world by storm. With over 100,000,000 sudoku puzzles, you’ll never see the same puzzle twice in Sudoku Challenge! You can select the classic nine-by-nine sukodu gameboards as well as Grand Sudoku which challenges you to complete five intersecting sudoku boards simultaneously! Just a beginner? Don’t worry—with three difficulty options, even the most novice player can complete a sudoku with ease. But if you’re a seasoned pro, challenge yourself in ‘Hard’ mode and test your true skills. It’s time to get your thinking cap on and see how many sudoku puzzles you can conquer!"
+}

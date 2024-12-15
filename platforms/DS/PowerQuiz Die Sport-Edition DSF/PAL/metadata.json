@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Radon Labs"],
+	"genres": ["Educational", "Sports"],
+	"locales": ["DE"],
+	"name": "PowerQuiz: Die Sport-Edition DSF",
+	"publishers": ["HMH Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 9, 2009",
+	"serial_number": "C4QD",
+	"synopsis": "Mit dem \"PowerQuiz DSF\" stehen über 2.000 Fragen aus acht verschiedenen Themenbereichen rund um den Sport zu Verfügung, mit denen man spielend sein Wissen testen, beweisen und erweitert. Darüber hinaus bietet \"PowerQuiz DSF\" viele Hintergrundinformationen zu den einzelnen Fragen an."
+}

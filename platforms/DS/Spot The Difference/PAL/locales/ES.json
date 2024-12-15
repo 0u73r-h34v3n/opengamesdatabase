@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Spot The Difference",
+	"synopsis": "En cada pantalla de la consola se muestra una versión distinta de la misma imagen. Debes seleccionar las partes de la foto principal en la que veas alguna diferencia dentro del límite de tiempo. Si logras descubrir las diferencias dentro del límite de tiempo, conseguirás copas de acuerdo con tu actuación. Hay copas de oro, plata y bronce. El juego contiene 160 fotografías de fotógrafos de renombre, con más de mil combinaciones de diferencias que encontrar en las imágenes. Textos de pantalla en español."
+}

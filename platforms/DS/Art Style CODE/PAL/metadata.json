@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skip Ltd."],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR"],
+	"name": "Art Style: CODE",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 3, 2009",
+	"serial_number": "KADV"
+}

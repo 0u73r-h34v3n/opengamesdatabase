@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak", "Nintendo"],
+	"genres": ["Software"],
+	"name": "Secret Key Distribution 2009",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 19, 2009",
+	"serial_number": "Y58E",
+	"synopsis": "For Platinum Secret Key - April 19th to 26th 2009"
+}

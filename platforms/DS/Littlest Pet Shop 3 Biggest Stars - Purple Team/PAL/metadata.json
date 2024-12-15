@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts", "Hasbro"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Littlest Pet Shop 3: Biggest Stars - Purple Team",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 5, 2010",
+	"serial_number": "BEWP",
+	"synopsis": "Get ready to go for the gold! Ten fun and challenging mini games are your pets tickets to the big time. Practice makes perfect as you help your pets become the best gymnasts, models, ice skaters, dancers, flyers, fashion designers, and more."
+}

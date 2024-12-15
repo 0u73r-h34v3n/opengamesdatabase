@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Calculator",
+	"publishers": ["Cinemax"],
+	"release_date": "May 20, 2011",
+	"serial_number": "KCYV",
+	"synopsis": "Calculator handles 135 measurement units and constants of most types which ordinary people use every day, including length, weight, temperature, speed, volume, area, and time. Features: - The basic and scientific calculators - Calculate with degrees or radians - Supports decimal, hexadecimal, octal, binary numbers - Percent button will behave just like on a basic calculator - Memory buttons will also behave just like on a basic calculator - Database of 135 most popular units and physical constants - Reverse direction of any conversion - You punch in digits and Calculator does the conversion on the fly"
+}

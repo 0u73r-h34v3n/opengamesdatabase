@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Management Simulation"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Build-a-lot",
+	"publishers": ["MumboJumbo"],
+	"release_date": "August 18, 2011",
+	"serial_number": "KB6E",
+	"synopsis": "Become a real estate mogul and take over the housing market as you construct, upgrade, and sell houses for huge profits. You can flip houses for quick cash or sit back and watch the rental income pile up. Travel to scenic towns and perform special tasks for the local mayors, or toss out the blueprints and create your own dream neighborhood. In Career Mode, you will visit various towns performing special tasks for the local mayors. In Casual Mode, your goal is to generate a specific amount of money using any strategy you like. At the beginning of each level, you’ll be tasked with goals to meet, and you must manage your budget and workers to complete each challenge. You’ll need to gather your materials and blueprints to make your dream neighborhood a reality. Decide if you should upgrade, repair, or demolish houses in the neighborhood. Add special buildings to the town like a workshop, a bank, or a sawmill. Put your strategy skills to the test in Build-a-lot!"
+}

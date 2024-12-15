@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software B.V."],
+	"genres": ["Music"],
+	"name": "Just SING! Christmas Songs",
+	"publishers": ["dtp young entertainment"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 13, 2010",
+	"serial_number": "K4CE",
+	"synopsis": "Get ready for Christmas karaoke where you are the star! The famous Christmas tunes “Jingle Bells” and “Silent Night” are waiting for you. Dressed up as jolly Santa Clause, enter a stage covered in snow. Just sing into the Nintendo DSi microphone and get into magical Christmas mood. While singing, receive feedback. Did you hit all the right notes and sing in time? It’s a real challenge! Compare your high score with previous singers. Just sing till your holiday heart’s content!"
+}

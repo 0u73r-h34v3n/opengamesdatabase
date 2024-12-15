@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Happy Birthday Mart",
+	"publishers": ["Pixel Federation"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 19, 2010",
+	"serial_number": "KHBE",
+	"synopsis": "Have you ever dreamed of having your own shop where you sell the goods to your friends? You can make that dream come true in Happy Birthday Mart, and it’s no ordinary store. Animals come here to buy gifts for their friends. Manage and serve your customers, clean up and fix broken shelves. Happy Birthday Mart offers tons of fun in six different stores with 12 animals and 24 minigames. You can play the minigames through a separate menu screen."
+}

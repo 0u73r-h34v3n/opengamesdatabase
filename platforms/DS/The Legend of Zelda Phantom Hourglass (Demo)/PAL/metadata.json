@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Action", "Adventure", "Demo"],
+	"name": "The Legend of Zelda: Phantom Hourglass (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 8, 2008",
+	"serial_number": "Y4CP",
+	"synopsis": "The epic story of The Legend of Zelda: The Wind Waker continues as Link finds himself lost and alone in unknown seas in a new adventure."
+}

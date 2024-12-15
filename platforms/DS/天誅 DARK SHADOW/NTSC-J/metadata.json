@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["From Software"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["JA"],
+	"name": "天誅 DARK SHADOW",
+	"publishers": ["From Software"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "April 6, 2006",
+	"serial_number": "ACUJ",
+	"synopsis": "Tenchu: Dark Secret puts the player in the shoes of ninja assassins who must protect the life of a princess."
+}

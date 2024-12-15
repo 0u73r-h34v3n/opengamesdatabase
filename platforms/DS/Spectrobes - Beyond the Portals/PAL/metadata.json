@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Jupiter Corp."],
+	"genres": ["Role-Playing"],
+	"locales": ["DE"],
+	"name": "Spectrobes - Beyond the Portals",
+	"publishers": ["Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 27, 2009",
+	"serial_number": "YV4P",
+	"synopsis": "Spectrobes: Beyond The Portals for Nintendo DS continues the story of Rallen and Jeena, interplanetary patrol officers who discover, excavate, awaken and train mysterious fossilised creatures known as Spectrobes and then use them to battle enemies."
+}

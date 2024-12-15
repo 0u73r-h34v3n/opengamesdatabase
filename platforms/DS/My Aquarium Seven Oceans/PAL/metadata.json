@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My Aquarium: Seven Oceans",
+	"publishers": ["Collavier"],
+	"release_date": "December 18, 2014",
+	"serial_number": "K9RP",
+	"synopsis": "You can finally have your own Aquariums and become an Aquarist! Journey to the world’s biggest fishing spots and bring back with you the rarest of species. Adjust your fish tanks and change the parameters of the water in order that your fish can live happily. Like real fish they will need good care! There are tropical and river fish to find as well as mammals such as dolphins and whales. Also there are many fishing spots to discover, various others fishermen to meet and a lot of objects and effects to decorate your fish tanks. You can even exchange fish and fishing notes with your friends!"
+}

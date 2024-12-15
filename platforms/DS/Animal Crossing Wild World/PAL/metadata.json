@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["DE", "ES"],
+	"name": "Animal Crossing: Wild World",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 31, 2006",
+	"serial_number": "ADMP",
+	"synopsis": "Welcome to the friendly village of Animal Crossing! Every player's village is unique and it's up to you to decide how you spend your time there, and which characters you befriend."
+}

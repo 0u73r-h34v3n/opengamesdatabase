@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Peg Solitaire",
+	"synopsis": "El clásico juego de pensar, Peg Solitaire es un juego de mesa para un jugador en el que se tienen que mover clavijas estratégicamente por un tablero en forma de cruz con 33 agujeros. En algunos niveles se usan canicas en un tablero con muescas. En el Reino Unido este juego se conoce simplemente como Solitario, ya que el juego de cartas se llama Paciencia. El juego ofrece diferentes niveles de dificultad para que los jugadores puedan ir aprendiendo las técnicas del juego paso a paso. • Niveles introductorios (9 fases) • Niveles fáciles (9 fases) • Niveles intermedios (9 fases) • Niveles difíciles (9 fases) • Niveles expertos (5 fases)"
+}

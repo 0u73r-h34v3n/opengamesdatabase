@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Code Monkeys Limited"],
+	"genres": ["Action", "Simulation"],
+	"locales": ["ES"],
+	"name": "Postman Pat",
+	"publishers": ["Blast! Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 14, 2008",
+	"serial_number": "YP6P",
+	"synopsis": "Join in the fun with Postman Pat and Jess, his black and white cat, as they deliver the post and make their way to the Greendale bike race. Encountering many adventures and helping Pat's friends along the way, there are many different games for you to play, based on the much-loved Postman Pat animation series."
+}

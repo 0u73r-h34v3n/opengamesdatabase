@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Mystery Case Files - MillionHeir",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 6, 2009",
+	"serial_number": "YFCP",
+	"synopsis": "NEWS ALERT! Wealthy magnate Phil T Rich has gone missing. STOP Eagle-eyed detective required to locate heir to fortune and solve mystery. STOP Are you up to the challenge in Mystery Case Files: MillionHeir on Nintendo DS?"
+}

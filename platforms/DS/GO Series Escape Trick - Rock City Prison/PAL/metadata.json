@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["INTENSE"],
+	"genres": ["Action", "Puzzle"],
+	"name": "GO Series: Escape Trick - Rock City Prison",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 24, 2011",
+	"serial_number": "K5QP",
+	"synopsis": "GO Series presents Escape Trick - Rock City Prison from Intense. Mastermind your escape from Rock City Prison after being locked up on a 10 year term. Every night when the lights go off, use the stylus to search for secrets and hidden items in your cell that will help you in your escape. Combine the items you find and utilise them in various ways to make the most of your limited resources. Uncover and solve puzzles to reveal hidden clues and hints as you plot your way out of jail."
+}

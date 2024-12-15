@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "메탈 베이블레이드2 빅뱅 블레이더즈",
+	"regions": ["NTSC-K"]
+}

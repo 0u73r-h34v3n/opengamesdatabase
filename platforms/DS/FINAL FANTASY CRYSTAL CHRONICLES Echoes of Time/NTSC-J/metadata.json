@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"name": "FINAL FANTASY CRYSTAL CHRONICLES Echoes of Time",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "January 29, 2009",
+	"serial_number": "CFIJ",
+	"synopsis": "Straying beyond the edge of the woods is forbidden, but when a mystery disease strikes in your village, the time for obeying rules is over."
+}

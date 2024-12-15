@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting"],
+	"name": "WWE 스맥다운 대 로우 2009",
+	"publishers": ["THQ"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "15"
+		}
+	],
+	"release_date": "January 23, 2009",
+	"serial_number": "YW9K",
+	"synopsis": "WWE SmackDown vs. Raw 2009 upholds the franchise’s commitment to delivering the definitive videogame simulation of live WWE programming. WWE SmackDown vs."
+}

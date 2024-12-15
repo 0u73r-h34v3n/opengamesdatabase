@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "FIZZ",
+	"publishers": ["DK Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 27, 2010",
+	"serial_number": "KZZE",
+	"synopsis": "In FIZZ, you earn points by creating rings of energy. To do that, you must align identical colors and create links between the different nodes. The bigger your rings, the more points you earn. There will be outside events that get in your way, such as asteroids, meteorite showers and aliens who'll try to break your nodes. Magnetic storms and pulsars will change colors, and magnetic spheres will prevent you from using the nodes in the surrounding area. Exceedingly simple to understand but challenging to master, FIZZ is an inventive puzzle challenge that will have gamers on the edge of their seats."
+}

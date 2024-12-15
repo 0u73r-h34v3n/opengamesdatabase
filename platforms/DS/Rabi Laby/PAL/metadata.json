@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Agetec"],
+	"genres": ["Action", "Adventure", "Puzzle", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rabi Laby",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 27, 2012",
+	"serial_number": "KLBP",
+	"synopsis": "Alice is a spunky young girl who adores her fluffy pet rabbit named Rabi. One day, Alice was looking for Rabi and finally found him right before he jumped into a small hole in a tree. Without thinking twice, Alice jumped in after him. This is where their magical adventure begins. Alice and Rabi encounter intriguing animals and creatures that may lead them to the exit, or stop them from escaping. Together they will explore and discover things unlike anything they've ever seen before. They must work as a team to find the key and escape each area of the mighty labyrinth. Both Alice and Rabi have their own unique abilities and you must switch between them in order to complete each area and ultimately escape the labyrinth's grasp. The labyrinth awaits you... Features: - 50 challenging stages. - Encounter and interact with strange inhabitants. - Play as both Rabi and Alice, and utilise their unique skills. - Earn and collect ranking medals."
+}

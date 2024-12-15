@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational", "Life Simulation", "Role-Playing", "Strategy"],
+	"name": "Hello Flowerz",
+	"publishers": ["Virtual Toys"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 5, 2010",
+	"serial_number": "KHFE",
+	"synopsis": "Welcome to “Hello Flowerz”, the gardening game where you have fun with flowers. In “Hello Flowerz” you can sow your favourite flowers and look after them every day helping them grow into healthy, beautiful flowers.Use your flowers to create wonderful bouquets and enter them in competitions that are run regularly.Landscape your own gardens, transplant flowers and arrange various items.So, put on your gloves, grab your tools and... start showing off your flowers!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "I am in the movie",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "March 27, 2014",
+	"serial_number": "KXJE",
+	"synopsis": "By using real time visual effects it literally puts you inside famous Hollywood movies. Now you can be the actor or director and recreate famous scenes or create your own ones. You might have seen video tutorials on YouTube that show you how to recreate visual effects from movies. But to create similar videos, you must own expensive editing software and invest considerable amount of time to learn how to use the software. With this DSiWare however, you can create Hollywood-like special effect videos in seconds. Features: Use special effects like thermal vision, cloaking, morphing, explosion and more Record your own sound effects and use them in your videos Customize any effect to your liking (change speed, edit text, add sound and more) Snap photos and save them to the platform: Photo Album or to the SD card (as .bmp)"
+}

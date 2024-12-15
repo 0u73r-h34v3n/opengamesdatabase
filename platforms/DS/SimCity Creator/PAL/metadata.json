@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Maxis"],
+	"genres": ["Construction Simulation", "Simulation", "Strategy"],
+	"locales": ["ES"],
+	"name": "SimCity Creator",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 19, 2008",
+	"serial_number": "YC2P",
+	"synopsis": "Build the city of your dreams with this fun game, from the creators of The Sims. You can create it from ancient times, through the modern era and to the future, having all the necessary elements to be able to equip it with everything necessary to make it functional, practical and, of course, beautiful. It will have, of course, its Mayor, its Chief of Police, and all the citizens needed to make it as real as possible. Hire and train assistants who will help you effectively. Ready to practice like a real architect?"
+}

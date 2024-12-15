@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Games Campus Cologne"],
+	"genres": ["Coaching", "Exercise", "Fitness", "Health"],
+	"name": "Personal Trainer DS for Women",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 10, 2009",
+	"serial_number": "C7FP",
+	"synopsis": "Benefit from a high intensity workout no matter where you're at with Personal Trainer. Choose from pre-defined training schedules or build a unique custom workout as your personal fitness coach leads you through physical training and education."
+}

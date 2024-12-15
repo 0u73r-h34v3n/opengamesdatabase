@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mikoshi"],
+	"genres": ["Puzzle"],
+	"name": "Dropcast",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 27, 2009",
+	"serial_number": "CDPP",
+	"synopsis": "This quirky new entry into the puzzle category, Dropcast, will put your mind to the test in a wicked fusion of puzzle-solving and battle mechanics. Combining familiar elements of the two top selling puzzle games, Tetris and Meteos, Dropcast's addictive nature will be sure to keep you playing and playing."
+}

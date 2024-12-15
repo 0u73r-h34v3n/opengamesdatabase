@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward Technologies"],
+	"genres": ["Action", "Simulation"],
+	"locales": ["ES"],
+	"name": "Looney Tunes: Duck Amuck",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 30, 2007",
+	"serial_number": "ALYS",
+	"synopsis": "¡Libra una guerra de ingenios en la pantalla táctil contra el infame pato Lucas en Duck Amuck! Duck Amuck incluye trepidantes minijuegos que te harán partirte de la risa. ¿Tu objetivo? ¡Enfadar al pato Lucas para ir llenando su medidor de ira hasta hacerle estallar!"
+}

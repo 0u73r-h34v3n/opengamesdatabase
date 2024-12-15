@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DK", "SE"],
+	"name": "Phineas and Ferb Across the 2nd Dimension",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 27, 2011",
+	"serial_number": "BZFX",
+	"synopsis": "If you want a different experience, try the version of Phineas and Ferb Across the 2nd Dimension for Nintendo DS. You can play with Phineas, Ferb or Agent P, through five worlds and 30 action-packed levels. Along the way, you'll need to build and upgrade your weapons, like the Baseball Launcher or Agent P's favorite weapon, the Hitch Gun."
+}

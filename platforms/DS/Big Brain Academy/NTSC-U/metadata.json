@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Educational", "Health", "Puzzle"],
+	"name": "Big Brain Academy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 5, 2006",
+	"serial_number": "AYAE",
+	"synopsis": "How big is your brain? Big Brain Academy is a modern-day stress reliever that improves your thinking skills. These 15 activities test your brain powers and improve your thinking abilities in areas like logic, memory, math and analysis. Free your mind by working through a number of simple but deep problems. There are five different types of challenges, appropriate for all ages and challenging for all skill levels."
+}

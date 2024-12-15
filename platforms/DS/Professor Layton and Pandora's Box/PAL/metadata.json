@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Professor Layton and Pandora's Box",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "YLTP",
+	"synopsis": "Professor Layton and Pandora's Box features a riveting mystery and more than 150 new brain teasers to solve on the Nintendo DS Touch Screen. Challenge yourself with riddles and logic puzzles in the sequel to Professor Layton and the Curious Village."
+}

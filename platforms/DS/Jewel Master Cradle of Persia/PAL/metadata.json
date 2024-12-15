@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cerasus Media"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Master: Cradle of Persia",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 9, 2012",
+	"serial_number": "TCRX",
+	"synopsis": "Journey through 100 levels of challenging match-three fun and enjoy the exhilarating process of rebuilding the great Persian Empire."
+}

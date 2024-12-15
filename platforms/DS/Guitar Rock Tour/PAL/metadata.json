@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Guitar Rock Tour",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 31, 2009",
+	"serial_number": "KGRV",
+	"synopsis": "If you like rock music and have a sense of rhythm, your road to stardom starts here! Guitarist or drummer, enjoy the addictive gameplay: touch the Touch Screen or press buttons to the beat of your favourite songs. Prepare your ears for the explosive tracklist of Guitar Rock Tour: 15 worldwide hits, including Girlfriend, Banquet, Beat It, Rock You Like a Hurricane, and more! Take photos of you or your friends with the Nintendo DSi Camera to customise stages and goodies: a new rock idol is born!"
+}

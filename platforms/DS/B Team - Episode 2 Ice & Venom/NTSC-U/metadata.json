@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Subdued"],
+	"genres": ["Action"],
+	"name": "B Team - Episode 2: Ice & Venom",
+	"publishers": ["Most Wanted Entertainment"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "August 4, 2011",
+	"serial_number": "KKAE",
+	"synopsis": "Continue your mission in this humorous, action-packed squad-based shooter. Assume control over a small private army whose \"soldiers\" were hired from all over the world and lead your platoon through an onslaught of commandos, voodoo warriors, Eskimo hunters, and that's just the beginning! When the action gets too intense to manage by yourself, hook up with a friend in cooperative multiplayer to battle your way through the bullets! Multiple weapons, upgradeable equipment, challenging boss battles, and destructible environments bring this action-packed shooter to life! Reload and complete your mission!"
+}

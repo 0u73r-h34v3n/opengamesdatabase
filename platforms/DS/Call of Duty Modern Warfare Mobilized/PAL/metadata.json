@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Arcade", "First-Person Shooter", "Shooter"],
+	"locales": ["ES"],
+	"name": "Call of Duty: Modern Warfare: Mobilized",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 10, 2009",
+	"serial_number": "C62S",
+	"synopsis": "Call of Duty regresa a la DS con una nueva y exclusiva aventura que complementa las historias de las otras versiones de Call of Duty."
+}

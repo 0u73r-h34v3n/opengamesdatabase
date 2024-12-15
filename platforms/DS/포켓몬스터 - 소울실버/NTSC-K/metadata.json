@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GAME FREAK Inc."],
+	"genres": ["Action", "Adventure", "Role-Playing", "Strategy"],
+	"name": "포켓몬스터 - 소울실버",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "February 4, 2010",
+	"serial_number": "IPGK",
+	"synopsis": "Prepare for an exhilarating adventure with Pokémon HeartGold Version and Pokémon SoulSilver Version for the Nintendo DS! Play as a boy or a girl trainer and battle your way through the Johto region with your Pokémon in order to become the Champion!"
+}

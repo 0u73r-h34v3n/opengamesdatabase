@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Golf", "Sports"],
+	"name": "Let's Golf!",
+	"publishers": ["Gameloft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 12, 2010",
+	"serial_number": "KLGE",
+	"synopsis": "Grab a club, take a swing and pray for a birdie! Discover a fun-filled experience accessible to anyone. Choose from 4 customizable characters and challenge 45 holes in 3 locations in full 3D: Fiji Beach, the English Countryside and the Scottish Lochs. Enjoy simple controls and even blow into the microphone to add spin to your ball. Take photos with the Nintendo DSi Camera to add them to your profile. Play Hot Seat Multiplayer with friends (on the same Nintendo DSi system) & see who's the best!"
+}

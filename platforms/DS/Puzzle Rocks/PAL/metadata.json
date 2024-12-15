@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Puzzle Rocks",
+	"publishers": ["Cinemax"],
+	"release_date": "June 3, 2011",
+	"serial_number": "KPLP",
+	"synopsis": "Take your time to find the best strategy, improve your moves, and make as many matches as possible during a single turn to improve your score. Question one: How to keep your brain active? Answer: Play Puzzle Rocks! Stop the falling stones! Question two: Do you have what it takes to get through 36 various levels? Answer: We will see. Features: - 36 different levels in 4 chapters, combining 6 different shapes with 6 colors in a brain-teaser - Match-3 style puzzle game on second screen - Switch match-3 and shape-match minigame anytime - Normal and time limit mode - Combos with explosive lighting and sound effects - Many hours of entertainment - Record of best scores for each level - Collect bronze, silver, and gold medals for each level"
+}

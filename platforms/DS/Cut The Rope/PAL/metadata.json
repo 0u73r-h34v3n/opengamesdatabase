@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Cut The Rope",
+	"publishers": ["Chillingo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 22, 2011",
+	"serial_number": "KKTV",
+	"synopsis": "A mysterious package has arrived, and the creature inside has only one request... CANDY. Help get the candy to Om Nom, an adorable monster, by cutting ropes and collecting stars, in this highly innovative and fun puzzle game."
+}

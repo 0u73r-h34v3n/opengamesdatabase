@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dancing Dots"],
+	"genres": ["Action", "Puzzle"],
+	"name": "QuickPick Farmer",
+	"publishers": ["Dancing Dots"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 15, 2010",
+	"serial_number": "K9PP",
+	"synopsis": "It's now time to shear your sheep...Use the stylus to round up identical sheep to shear them and collect the balls of wool, then catapult them into the barns! If George the Wolf is getting too close to your flock, fire a ball at him right in the muzzle to chase him away and gain some time.30 crazy levels, a non-stop mode, striped sheep, not to mention a goofy wolf... Test your powers of observation, your reflexes and your tactics in the whacky world of QuickPick Farmer!"
+}

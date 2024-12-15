@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "気軽にお絵描き工房",
+	"synopsis": "本ソフトは、誰でも気軽に遊べるお絵描きソフトです。 レイヤー機能や、塗りつぶし、アンドゥ・リドゥなどの、便利な機能を簡単に扱えます。 撮りためた写真を、お手本として表示させたり、作成中の絵の中に取り込んで、デコレーションすることも可能です。 完成品は、SDカードに保存することも可能です。"
+}

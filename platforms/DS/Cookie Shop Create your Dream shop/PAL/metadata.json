@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TDK Core"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Cookie Shop: Create your Dream shop",
+	"publishers": ["Nobilis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 27, 2009",
+	"serial_number": "ACIP",
+	"synopsis": "Welcome to Sweet City, home of chocodogs and chococats! Our sweet-toothed friends are thrilled with the brand new Sweet Superstore that's opened in the middle of town, filled with all kinds of exciting shops. Help Rose, a chocodog create and manage the Cookie Shop of your dreams: choose the best furniture and layout, cook the best cakes, network with the other shop owners in the mall and develop your customer base! Don't forget that a good client is a happy one!"
+}

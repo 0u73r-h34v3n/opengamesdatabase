@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Hands On! Tangrams",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 21, 2013",
+	"serial_number": "KYYE",
+	"synopsis": "It allows gamers to manipulate geometric shapes to mimic real life objects, making you think outside the box! Tangrams puzzles claim to date back over 4000 years invented by a Chinese god named Tan and brought to Philadelphia, America in 1815 by Captain M Donaldson! It’s a total mind bending game for all the family."
+}

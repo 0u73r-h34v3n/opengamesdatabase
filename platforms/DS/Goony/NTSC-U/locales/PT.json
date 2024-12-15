@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Goony",
+	"synopsis": "Goony é um jogo de arcade de um botão para jogadores casuais e jogadores inveterados. Controlas o Goony, uma criatura tipo geleia, que corre por uma estrada repleta de obstáculos perigosos. O objectivo do jogo é permanecer vivo o mais tempo possível. O Goony está sempre a mexer-se. Ou vai para a esquerda ou para a direita. Blocos especiais, que podem ajudar-te, estão espalhados pelo campo de jogo. O campo de jogo é infinitamente comprido e dura até cometeres um erro. O número de passos que deste é a tua pontuação final. Características: Campo de jogo gerado aleatoriamente e infinitamente longo Usa os teus próprios blocos usando o editor de Blocos integrado Troca de blocos gerados pelos jogadores localmente online, via Códigos QR Corre contra um colega no mesmo sistema no modo multijogador"
+}

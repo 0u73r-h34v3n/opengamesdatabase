@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Code Mystics"],
+	"genres": ["Compilation"],
+	"name": "Atari Greatest Hits: Volume 1",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 25, 2011",
+	"serial_number": "BR6P",
+	"synopsis": "Get a taste of the classics with compilation of great titles and a variety of arcade & early home console titles"
+}

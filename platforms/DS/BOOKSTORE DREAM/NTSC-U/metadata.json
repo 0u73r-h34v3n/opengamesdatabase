@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "BOOKSTORE DREAM",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "September 13, 2012",
+	"serial_number": "KQVE",
+	"synopsis": "Ever had a dream of owning you own bookstore? Now you can! Bookstore Dream is a simulation game that allows you to manage your lovely bookstore. Get connected with publishers and put the best books on your shelf! Be sure to keep stocks at a good level when demands go up! If you do everything right you will become a well-known brand in the community! Game Features: Management is not an easy task, you have to choose what books fit your store the best! Can you handle it? Create a good running bookstore and become rich! Want demand soaring through the roof? Get authors to your store to meet and greet their fans!"
+}

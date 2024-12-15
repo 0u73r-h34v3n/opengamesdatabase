@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artdink", "RED Entertainment"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"name": "Fossil Fighters Champions",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 14, 2011",
+	"serial_number": "VDEE",
+	"synopsis": "In this dino-tastic sequel, players get some hands-on time to hunt and clean fossils, and revive and battle Vivosaurs. A fossil park is hosting a large-scale tournament in which competitors enter Vivosaurs created from dinosaur fossils into competition."
+}

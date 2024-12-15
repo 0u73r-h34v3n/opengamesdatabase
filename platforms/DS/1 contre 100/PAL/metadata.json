@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gimagin Games"],
+	"genres": ["Trivia"],
+	"locales": ["FR"],
+	"name": "1 contre 100",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 25, 2008",
+	"serial_number": "YJYF",
+	"synopsis": "Jouez contre 100 membres de la foule pour avoir une chance de gagner un million de dollars. Répondez correctement aux questions pour éliminer les membres de la foule. Il suffit d'une seule mauvaise réponse et le jeu est terminé !"
+}

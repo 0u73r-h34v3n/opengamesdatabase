@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Action", "Adventure", "Fighting"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Combat of Giants: Mutant Insects - Revenge",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 18, 2010",
+	"serial_number": "K64V",
+	"synopsis": "After you defeated the Mutant King, the Mutant Queen created a new land from the core of the Earth where she controls the other giant insects at her will. Complete 10 new missions, fight your enemies and liberate the Scorpion Champion in order to defeat the Queen. Customise your giant insect, equip it with special powers and enhance your abilities. Challenge your friends who have the DS version of the game to duels. Are you strong enough to win this Combat of Giants? Please note that elements of this software may have been featured in previously released software."
+}

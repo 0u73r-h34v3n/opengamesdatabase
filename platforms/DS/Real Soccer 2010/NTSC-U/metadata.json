@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Simulation", "Soccer", "Sports"],
+	"name": "Real Soccer 2010",
+	"publishers": ["Gameloft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 15, 2010",
+	"serial_number": "K3XE",
+	"synopsis": "Real Soccer, the #1 soccer game on Nintendo DSiWare, is back for the most exciting season yet! Choose from even more teams: over 245 clubs in 8 leagues and almost all players. Plus 3 new stadiums: Bavaria, République and Catedral. Perform flip-flaps, stepovers, etc. with the convenient touchscreen controls. TV commentary adds to the realism. Take photos to customize the ball, flag or even players and challenge friends wirelessly to tournaments."
+}

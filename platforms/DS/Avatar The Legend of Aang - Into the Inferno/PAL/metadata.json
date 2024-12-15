@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Halfbrick Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "Avatar: The Legend of Aang - Into the Inferno",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 7, 2008",
+	"serial_number": "CAVP",
+	"synopsis": "The Fire Nation devises a plot to use the power of Sozin's Comet to rain devastation on the rest of the world. The fate of the world lies in the hands of only a few young, brave heroes — Aang and his friends. They are preparing for the ultimate showdown against Fire Lord Ozai and his terrorizing army that will ultimately decide who will win the great 100 year old war."
+}

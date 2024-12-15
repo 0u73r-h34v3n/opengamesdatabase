@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts Software GmbH"],
+	"name": "Prinzessin Lillifee - Feenzauber",
+	"publishers": ["Tivola Publishing GmbH"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 1, 2004",
+	"serial_number": "AYLD",
+	"synopsis": "Komm in Prinzessin Lillifees Schlossgarten! Eine wunderschöne, verzaubernde Welt erwartet dich, voller Magie, Spaß und lustiger Spiele!"
+}

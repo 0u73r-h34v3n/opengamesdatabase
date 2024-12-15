@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"name": "Tales to Enjoy! Little Red Riding Hood",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 12, 2013",
+	"serial_number": "KZUE",
+	"synopsis": "Each book is filled with features to entertain children while helping them to learn and stimulate their imagination. The game is a series of interactive activities based around the theme of the story about a little girl who decides to visit her grandmother who lives in the forest. Beware you may shout…. of the wolf who is looking upon Little Red Riding Hood as a main course for his next meal! - An easy to use interface allows the youngest of children to navigate through choices as the entire interface is voice-over guided. - In one of the modes \"Tell your own tale,\" children can animate all objects in the story world and either tell the story or invent one of their own. - Increasing difficulty of the minigames - Interactive classic story - Voice-over guided interface and storytelling for the youngest children - Studio recorded voice over’s with professional actors"
+}

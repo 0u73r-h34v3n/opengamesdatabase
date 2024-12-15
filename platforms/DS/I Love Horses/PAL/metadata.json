@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["cerasus media"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE"],
+	"name": "I Love Horses",
+	"publishers": ["astragon"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 1, 2007",
+	"serial_number": "YWDP"
+}

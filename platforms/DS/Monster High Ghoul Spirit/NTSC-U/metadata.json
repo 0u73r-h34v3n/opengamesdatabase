@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ImagineEngine"],
+	"genres": ["Adventure", "Simulation"],
+	"name": "Monster High: Ghoul Spirit",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 25, 2011",
+	"serial_number": "VM2E",
+	"synopsis": "Be the coolest ghoul in school as you enroll at Monster High! Everything about it is just like a regular high school, except for the students. Creep-tastic creatures inspired by the spookiest movie monsters roam these halls."
+}

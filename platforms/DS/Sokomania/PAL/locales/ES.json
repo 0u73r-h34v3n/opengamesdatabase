@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sokomania",
+	"synopsis": "El juego es una variante de los juegos de encargado de almacén, en el área de juego hay diversas cajas y el jugador controla una figura que puede empujar las cajas hacia delante. El objetivo es llevarlas todas hasta las áreas designadas. Textos de pantalla en inglés."
+}

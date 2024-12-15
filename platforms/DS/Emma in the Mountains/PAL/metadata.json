@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Otaboo"],
+	"genres": ["Adventure", "Arcade", "Simulation"],
+	"locales": ["ES"],
+	"name": "Emma in the Mountains",
+	"publishers": ["Nobilis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 3, 2008",
+	"serial_number": "YQVP",
+	"synopsis": "Emma is an all-new line of games that is both smart and fun for pre-teen girls, and boys alike. While playing, you'll join Emma and her dog Pickles as they explore new areas, take new adventures and try new tasks, ultimately trying to accomplish a greater goal."
+}

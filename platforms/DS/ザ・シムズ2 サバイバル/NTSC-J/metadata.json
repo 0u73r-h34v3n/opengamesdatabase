@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Full Fat"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["JA"],
+	"name": "ザ・シムズ2 サバイバル",
+	"publishers": ["Electronic Arts Japan"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "January 24, 2008",
+	"serial_number": "YS2J"
+}

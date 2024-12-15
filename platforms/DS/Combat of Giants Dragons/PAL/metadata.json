@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Quebec"],
+	"genres": ["Action", "Adventure", "Fighting"],
+	"locales": ["ES"],
+	"name": "Combat of Giants: Dragons",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 2, 2009",
+	"serial_number": "C7UP",
+	"synopsis": "After centuries of war, humans have managed to defeat the dragons. To prevent the dragons from gathering their strength and fortunes, they have divided their lands into four different elements: Fire, Ice, Earth and Wind. The evil dragons, without their gems, have seen the opportunity to attack and slaughter the noble dragons. As the last heir of the noble dragons, you will have to defeat the evil dragons. Find all the gems and rebuild the dragon kingdom!"
+}

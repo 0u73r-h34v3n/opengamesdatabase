@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HuneX"],
+	"genres": ["Adventure", "Business Simulation", "Simulation"],
+	"locales": ["JA"],
+	"name": "ビズ体験DSシリーズ 起業道-飲食",
+	"publishers": ["Kokuyo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "July 26, 2007",
+	"serial_number": "YBIJ"
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Arcade", "Music", "Simulation"],
+	"name": "Just SING! 80s Collection",
+	"publishers": ["dtp young entertainment GmbH & Co. KG"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 23, 2011",
+	"serial_number": "KJFP",
+	"synopsis": "The ‘80s are back and you’re a star! Grab your Nintendo DSi system and have some ultimate karaoke fun. You can expect all the cult hits of the era: Like a Virgin, Take On Me, Never Gonna Give You Up and The Heat Is On. Style your avatar in a classic ‘80s look, and take to the stage. Can you keep to the beat and hit all the notes? Perform the biggest party hits of the ‘80s and experience a musical blast from the past! - Like A Virgin - Take On Me - Never Gonna Give You Up - The Heat Is On"
+}

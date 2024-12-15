@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EnjoyUp Games"],
+	"genres": ["Action", "Adventure", "Arcade", "Racing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Cute Witch! runner",
+	"publishers": ["EnjoyUp Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 25, 2013",
+	"serial_number": "K32E",
+	"synopsis": "In Cute Witch! runner get ready to set off on an adventure as your character flies away on her broomstick to a peaceful world inhabited by fantasy characters. Cute Witch! runner is a challenging action game where you have to fly, fly more, and then fly even more! Get all the 32 achievements done and become the number one in the score table. At first, everything is easy: you pick up stars, you earn score points, you fly around the creatures... but soon you'll be involved in an unleashed race where you'll have to put your reflexes to test avoiding every obstacle in your way. How long do you think you'll resist flying? Features: Fast-paced action at breakneck speed. 32 challenges to accomplish. Break all the records with the included bonus mini game. An adventure full of cute creatures."
+}

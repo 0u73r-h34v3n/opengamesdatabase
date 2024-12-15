@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Despicable Me: The Game - Minion Mayhem",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 24, 2010",
+	"serial_number": "BDWP",
+	"synopsis": "This 2D platform puzzle game is inspired by the animated movie Despicable Me and challenges players to safely direct their foolish minions through perilous levels filled with traps and enemies at every turn."
+}

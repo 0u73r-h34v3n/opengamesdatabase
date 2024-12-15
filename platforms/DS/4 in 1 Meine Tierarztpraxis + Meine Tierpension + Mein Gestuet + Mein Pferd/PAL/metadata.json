@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Compilation", "Simulation", "Virtual Pet"],
+	"locales": ["DE"],
+	"name": "4 in 1: Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd",
+	"publishers": ["DTP Young Entertainment", "TREVA"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2014",
+	"serial_number": "TB2D"
+}

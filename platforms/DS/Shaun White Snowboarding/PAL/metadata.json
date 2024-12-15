@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Sports"],
+	"name": "Shaun White Snowboarding",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2008",
+	"serial_number": "CU3P",
+	"synopsis": "Shaun White Snowboarding takes the action-sports genre to new heights!"
+}

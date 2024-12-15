@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"name": "Pokémon Ranger - Shadows of Almia (Demo)",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "Y4UP",
+	"synopsis": "Become a Top Ranger and protect hundreds of different types of Pokémon from an evil corporation in Pokémon Ranger: Shadows of Almia."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Adventure", "Party", "Sports"],
+	"name": "Mario & Sonic at the Olympic Winter Games",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 13, 2009",
+	"serial_number": "COLE",
+	"synopsis": "Do you have the ice cool disposition needed to be a world beater? Find out in Mario & Sonic at the Olympic Winter Games for DS!"
+}

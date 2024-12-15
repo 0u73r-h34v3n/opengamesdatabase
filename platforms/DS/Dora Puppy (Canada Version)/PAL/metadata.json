@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Educational"],
+	"name": "Dora Puppy (Canada Version)",
+	"publishers": [
+		"GameTek",
+		"Global Star Software",
+		"Rockstar Games",
+		"Take-Two Interactive"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 24, 2009",
+	"serial_number": "BDPL",
+	"synopsis": "Dora loves her puppy Perrito! Now you can come along and help Dora take care of, train and have lots of fun with him!"
+}

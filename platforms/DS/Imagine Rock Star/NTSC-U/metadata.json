@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gevo Entertainment"],
+	"genres": ["Music", "Rhythm", "Simulation"],
+	"name": "Imagine Rock Star",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 17, 2008",
+	"serial_number": "CIRE",
+	"synopsis": "Reach stardom by playing your way! Form your own music group and immerse yourself in its famous world. Create your most modern look, master all the instruments, surprise on stage and make your dreams come true."
+}

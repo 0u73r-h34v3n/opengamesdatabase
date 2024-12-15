@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational", "Simulation"],
+	"locales": ["JA"],
+	"name": "理科クイズ小学生 生物地学編",
+	"publishers": ["IE Institute"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "September 7, 2011",
+	"serial_number": "K48J",
+	"synopsis": "lit. \"Science quiz for elementary school students: biogeology edition\""
+}

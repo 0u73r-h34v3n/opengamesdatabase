@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtual Playground"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Real Crimes: Jack the Ripper",
+	"publishers": ["Virtual Playground"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 25, 2010",
+	"serial_number": "KRCV",
+	"synopsis": "Jack the Ripper - the fabulous chart topping Hidden Object game with amazing graphics is now on DSiWare. Travel back to 1880’s London to help Scotland Yard’s detectives solve the crime of the century. Visit world famous landmarks such as Piccadilly Circus and Buckingham Palace. Search scenes of crime, solve mini puzzles in your hunt for clues. Was Jack a Doctor, a Royal Prince, a Barber etc.? Was he mad? This game will tell you!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skip Ltd."],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Art Style: NEMREM",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 29, 2009",
+	"serial_number": "KASV",
+	"synopsis": "The Art Style series brings you unique, simple-to-play games with striking visuals and immersive sound. NEMREM is a relaxing logic puzzle where the objective is to match coloured panels with spheres of the same colour. Use your stylus to slide the panels horizontally and vertically as you chill out to the soothing sounds of the game's peaceful music. Although NEMREM is simple to play, later levels offer deeper challenges to test your logic powers, with multiple colour combinations and even locked panels appearing. For the ultimate test, can you complete each puzzle in as few moves as possible?"
+}

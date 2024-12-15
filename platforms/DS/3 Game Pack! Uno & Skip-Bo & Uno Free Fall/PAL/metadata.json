@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Cards", "Compilation", "Party", "Strategy"],
+	"locales": ["ES"],
+	"name": "3 Game Pack!: Uno & Skip-Bo & Uno Free Fall",
+	"publishers": ["DSI Games", "ZOO Digital Publishing"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 23, 2007",
+	"serial_number": "AUOP",
+	"synopsis": "Now you can have Uno, SKIP-BO and Uno Freefall all in one game! An unbeatable deal for Nintendo DS for all fans of card games. There is something for everyone. Play classic UNO, where the first to lose all their cards wins, SKIP-BO makes the challenge more difficult by adding stock cards to the mix, and Uno Freefall, the fast alternative that you can play in a variety of different game modes. 3 amazing UNO games on one Nintendo DS."
+}

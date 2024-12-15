@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Microvalue"],
+	"genres": ["Action", "Arcade", "Platformer"],
+	"name": "Oscar's World Tour",
+	"publishers": ["Virtual Playground"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 28, 2011",
+	"serial_number": "KO9E",
+	"synopsis": "Oscar is back, with more great fun and zany non-stop action, set over seven new exciting Worlds: America, The Oceans, Africa, The Islands, Europe, Arctic & Antarctic and The Far East. Your mission is to swim, fly and run through these Worlds collecting baby Oscars that have become scattered throughout the levels, armed with your secret weapon, a yo-yo that you can use to swing from platform to platform and also zap those nasty enemies in some of the craziest platform levels you’ll ever play."
+}

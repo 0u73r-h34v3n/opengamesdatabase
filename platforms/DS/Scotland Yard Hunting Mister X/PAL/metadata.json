@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sproing"],
+	"genres": ["Adventure", "Board Game", "Interactive Fiction"],
+	"name": "Scotland Yard: Hunting Mister X",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 3, 2008",
+	"serial_number": "CSQP",
+	"synopsis": "Mr. X is up to his old mischief right across the globe, but Scotland Yard is already on to him and his hot on his heels."
+}

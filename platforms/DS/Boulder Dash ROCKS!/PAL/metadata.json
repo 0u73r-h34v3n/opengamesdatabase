@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["10tacle Studios", "First Star Software"],
+	"genres": ["Action", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Boulder Dash: ROCKS!",
+	"publishers": ["10tacle Studios", "First Star Software"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "YBQP",
+	"synopsis": "This ingenious puzzle and skill game was first introduced in the early 1980s and continues to fascinate its large fan base, making it a classic in the history of interactive entertainment. Now Boulder Dash returns with a completely new and modern look, ready to take action on Nintendo DS."
+}

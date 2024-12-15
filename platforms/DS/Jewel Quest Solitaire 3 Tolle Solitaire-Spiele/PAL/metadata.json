@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc.", "iWin"],
+	"genres": ["Cards", "Compilation", "Puzzle"],
+	"locales": ["DE"],
+	"name": "Jewel Quest Solitaire 3: Tolle Solitaire-Spiele",
+	"publishers": ["Rondomedia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 24, 2010",
+	"serial_number": "CNAD",
+	"synopsis": "Dreifacher Solitaire-Spaß! Lieben Sie Solitaire? Jewel Quest Solitaire Trio vereint Jewel Quest Solitaire I, Jewel Quest Solitaire II und Jewel Quest Solitaire III in einem Paket! Genießen Sie Tri-Peaks, Nester und Klondike mit den Jewel Quest-Juwelenbrett-Minispielen dazwischen!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "あれ？ＤＳがサカサですけど。 サカサドロップス",
+	"publishers": ["テクモ"],
+	"release_date": "February 3, 2010",
+	"serial_number": "K3MJ",
+	"synopsis": "Lit. \"Huh? My DS is Upside Down. Upside Down Drops\" a.k.a. A Topsy Turvy Life: Turvy Drops (NTSC-U, PAL)"
+}

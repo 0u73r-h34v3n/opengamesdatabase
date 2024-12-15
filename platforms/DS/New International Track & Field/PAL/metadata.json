@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "New International Track & Field",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 13, 2008",
+	"serial_number": "AFEP",
+	"synopsis": "Break out your comb, pen or whatever device you use to mash buttons because Track & Field is back!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Uacari"],
+	"genres": ["Educational", "Puzzle"],
+	"name": "Postman Pat: Special Delivery Service",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 17, 2009",
+	"serial_number": "CU8P",
+	"synopsis": "Join Pat and friends in a Special Deliveyr Service adventure! Follow Pat on his delivery route, discovering 15 exciting games, puzzles and brain-teasing activities along the way!"
+}

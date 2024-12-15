@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "¡Shin chan flipa en colores!",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 16, 2007",
+	"serial_number": "AQCS",
+	"synopsis": "Shin chan, ese travieso niño de 5 años tan querido por todos, regresa a los videojuegos con una divertidísima aventura, por primera vez, para Nintendo DS. En realidad, Shin chan lo hace porque quiere poder seguir soñando que tiene citas con la chica de sus sueños…"
+}

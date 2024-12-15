@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Fighting", "Party"],
+	"locales": ["FR"],
+	"name": "Bomberman Blitz",
+	"publishers": ["Hudson Entertainment", "Hudson Soft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 6, 2009",
+	"serial_number": "KBBV",
+	"synopsis": "With 10 million copies sold, the \"Bomberman\" series is the definitive party game, great for a quick battle anywhere, anytime. Single Player: Hone your skills against CPU players. Multiplayer: Play wirelessly with other players who have the game. (Up to 8 players.) This game includes 10 Battle Game stages from \"BOMBERMAN 2\"."
+}

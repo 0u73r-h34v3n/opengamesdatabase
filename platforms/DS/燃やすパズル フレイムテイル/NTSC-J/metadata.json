@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "燃やすパズル フレイムテイル",
+	"publishers": ["任天堂"],
+	"release_date": "January 27, 2010",
+	"serial_number": "K4KJ",
+	"synopsis": "Lit. \"Burning Puzzle Flametail\" a.k.a. Flametail (NTSC-U), Trailblaze: Puzzle Incinerator (PAL)"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Brain Drain",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 4, 2010",
+	"serial_number": "KBDP",
+	"synopsis": "Brain Drain is a funny and addictive puzzle game in which you'll have to think fast as you place the elements of a scrambled puzzle based on a given model. There are three game modes to enjoy: Challenge: has 200 fixed puzzles with preset best times to solve and beat. Race: 4 difficulties. A stream of puzzles and best time tables to beat. Random: relaxed random puzzling, endless... Please note that elements of this software may have been featured in previously released software."
+}

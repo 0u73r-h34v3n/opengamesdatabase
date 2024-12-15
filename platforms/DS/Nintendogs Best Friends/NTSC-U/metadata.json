@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Health", "Simulation", "Virtual Pet"],
+	"name": "Nintendogs: Best Friends",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 24, 2005",
+	"serial_number": "AD5E",
+	"synopsis": "With Nintendogs, you can put a puppy inside your Nintendo DS. Pick from multiple breeds, ranging from Labradors to Chihuahuas, and then take care of and train the puppy using the touch screen and microphone. If you train your puppy well enough, you can compete in dog shows and agility contests to unlock other items and puppy breeds."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Academy: Tic-Tac-Toe Noughts and Crosses",
+	"synopsis": "¡El 3 en raya al que tantas veces has jugado en papel, ahora en versión de bolsillo! Ni siquiera necesitas compañía, ya que la avanzada IA del juego te ofrece 3 niveles de dificultad y hábiles jugadores que competirán contigo en cualquiera de las 4 variantes de juego. Si jugar en un solo tablero de 3x3 se te hace pequeño, prueba el modo de nueve tableros, que tiene un mayor componente estratégico. ¡Compite en el modo League y demuestra que tienes madera de campeón! Textos de pantalla en inglés."
+}

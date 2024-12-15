@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["Action", "Platformer"],
+	"name": "Mega Man ZX",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "ARZP",
+	"synopsis": "Leap into the future! A dynamic Biometal system plays the central role and gives you the ability to transform into different Model types with cool powers."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["CHUNSOFT & The Pokémon Company"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES"],
+	"name": "Pokémon Mystery Dungeon: Explorers of Sky",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 20, 2009",
+	"serial_number": "C2SP",
+	"synopsis": "Pokémon Mystery Dungeon: Explorers of Sky is the newest instalment in the Pokémon Mystery Dungeon video game series. Pair up with a friend and save the world!"
+}

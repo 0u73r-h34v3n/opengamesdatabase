@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Don't Cross The Line",
+	"synopsis": "Don't Cross The Line is a puzzle game where the player must connect lines to various boxes, from one identical box to another, without crossing the lines they drew in the process. There are roughly 50 stages in all. Depending on how quickly each stage is completed, the player will be awarded with either a bronze, silver, or gold award. To unlock further stages, the player must get a certain ranking in previous stages in order to move on. Can you outwit the puzzles at hand and receive gold awards all around? Remember, Don't Cross The Line!"
+}

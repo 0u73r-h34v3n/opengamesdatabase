@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Rockstar Leeds"],
+	"genres": ["Action", "Adventure"],
+	"name": "Grand Theft Auto: Chinatown Wars",
+	"publishers": ["Rockstar Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "M"
+		}
+	],
+	"release_date": "March 31, 2009",
+	"serial_number": "YGXE",
+	"synopsis": "The war spills over onto a new patch: the Nintendo DS. The long-running Grand Theft Auto franchise debuts on the DS with Grand Theft Auto: Chinatown Wars."
+}

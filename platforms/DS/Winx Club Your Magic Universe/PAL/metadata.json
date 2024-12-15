@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Winx Club: Your Magic Universe",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2009",
+	"serial_number": "CWYP",
+	"synopsis": "The Winx girls are here to have some fun ! Design an outfit from head to toe or edit an outfit from any of the Winx girl's wardrobes, then make your favourite Winx a model to show off your creation on the catwalk. Get to know all the Winx girls, when their birthdays are, what their favourite colour is etc., find out which one you're most like with their personality tests and play each of their themed games. Never miss a date with an in-depth diary & reminder system, save personal data and friends' info, create lists and contact friends via Wi-Fi voice chat. Includes plenty of pictures, videos and music from the TV series plus much, much more..."
+}

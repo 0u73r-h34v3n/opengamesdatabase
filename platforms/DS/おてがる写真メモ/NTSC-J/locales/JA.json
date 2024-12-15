@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "おてがる写真メモ",
+	"synopsis": "撮影した写真におてがるにメモを書き加えられるソフトです。日記・覚え書き・伝言・記録・ラクガキなど、幅広い用途でお使いいただけます。DSワイヤレス通信でらくがきを送受信可能。また、らくがきをJPEG画像としてDSiカメラのアルバムに保存することができます。"
+}

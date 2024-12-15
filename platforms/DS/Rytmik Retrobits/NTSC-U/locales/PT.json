@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Rytmik Retrobits",
+	"synopsis": "O Rytmik Retrobits é uma aplicaçao que permite criar temas rítmicos e melódicos e compor cançoes inteiras. A sua interface de utilizador combina a interface rápida e bem organizada das “drum machines” clássicas com a interface de padroes flexível dos rastreadores mais populares e uma biblioteca de sons moderna. Contém mais de 180 amostras de sons retro autenticos cuidadosamente seleccionados de baterias electrónicas, percussoes, baixos, instrumentos melódicos e efeitos de computadores e consolas clássicas de 8 bits e 16 bits. Você pode criar rápida e facilmente a pedra de construção básicos - um clipe de áudio. Ele consiste de notações musicais para até quatro instrumentos que podem transpor, selecione sua localização no campo de estéreo, e modificar seu volume, inverter shuffle, e polifonia, chorus / ampliação de estéreo efeito de eco, e arpejador. Você pode combinar arbitrariamente até 128 clipes de tais em quatro faixas e criar peças complexas da música."
+}

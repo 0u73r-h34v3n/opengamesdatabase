@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tose"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "MySims",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 21, 2007",
+	"serial_number": "AQIP",
+	"synopsis": "Discover a new town Rebuild a town, unlock the most fun places and give it a personal touch. You can play up to 10 different minigames: diving, paragliding, fishing, squash... Share your creations with your friends via DS wireless communication."
+}

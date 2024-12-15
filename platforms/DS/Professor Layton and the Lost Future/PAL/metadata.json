@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Professor Layton and the Lost Future",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 22, 2010",
+	"serial_number": "C3JP",
+	"synopsis": "Professor Layton and his apprentice, Luke, receive a confounding letter - from Luke 10 years in the future. But the message inside is even more troubling: London of the future is in disarray, and only Professor Layton can set things right."
+}

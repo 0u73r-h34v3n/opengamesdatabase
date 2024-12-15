@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Faceez",
+	"publishers": ["Koneko"],
+	"release_date": "February 22, 2010",
+	"serial_number": "KFZE",
+	"synopsis": "Make your friends laugh with Faceez! Take pictures of their faces with the Nintendo DSi Camera and then mix them and animate them! Dress them up with lots of funny accessories! Place them in your own favorite settings! Give free reign to your imagination with millions of possible combinations! Thanks to the Nintendo DSi system’s connectivity with Facebook you can share your creations with your friends, who’ll be rolling on the floor laughing! Photograph, disguise, decorate, animate, and send... FACEEZ!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sokomania",
+	"synopsis": "The game is a variation on a warehouse keeper theme. There are several crates placed on the playing area. The player controls a figure that can push the crates forward. The aim is to get all the crates on the places designated."
+}

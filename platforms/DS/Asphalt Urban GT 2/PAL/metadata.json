@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft", "Virtuos"],
+	"genres": ["Racing"],
+	"name": "Asphalt: Urban GT 2",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2006",
+	"serial_number": "A4PP",
+	"synopsis": "Asphalt: Urban GT 2 shifts into gear with six game modes, numerous tuning possibilities, 30 tracks and 36 licensed cars and motorcycles - taking handheld racing simulations to a new level."
+}

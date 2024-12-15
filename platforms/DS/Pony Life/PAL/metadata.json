@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Life"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Pony Life",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 30, 2009",
+	"serial_number": "BPLP",
+	"synopsis": "The pony of your dreams! Your greatest wish has come; on holiday at your uncle's stables, you receive your own, unique Ponu. Take good care of your pony, feed and care for it and take your first steps together into the exciting world of equestrianism. See it that your pony has everything it needs, buy it gorgeous saddles, halters and much more. Train together for the biggest tournaments and show the world, that you are an unbeatable team!"
+}

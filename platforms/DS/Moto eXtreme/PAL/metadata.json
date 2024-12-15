@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Racing"],
+	"name": "Moto eXtreme",
+	"publishers": ["Chillingo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 18, 2011",
+	"serial_number": "KOXV",
+	"synopsis": "Defy gravity as you grab air off huge jumps and pull off awesome trials-style stunts! Guide your bike to the end of the course, but for maximum points be sure to collect all the stars on the way! Take your bike over a huge variety of courses over four worlds. Including Forests, Deserts, Frost covered mountains and even lava rich Volcanic ! In constructor mode you can interact with your environment by using the Nintendo DSi Stylus to draw ledges, ramps, jumps and more! What will you create? Intuitive controls, fun packed game play and challenging courses make this a MotoX ride you won't want to miss out on! Defy gravity as you grab air off huge jumps - pull off awesome trials-style stunts - a huge variety of courses over four worlds - in construtor mode you can interact with your environment by using the Nintendo DSi Stylus"
+}

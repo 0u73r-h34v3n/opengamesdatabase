@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Orion's Odyssey",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 12, 2013",
+	"serial_number": "K6TE",
+	"synopsis": "Orion’s Odyssey is a geometric shape puzzle game. Help Orion the Robot solve Earth's problems by using his unique ability to create anything he can imagine with the power of pattern blocks. Save the world one puzzle at a time! This game is the successor to Hands On! Tangrams. Dissection puzzles claim to date back over 4000 years invented by a Chinese god named Tan and brought to Philadelphia, America in 1815 by Captain M Donaldson! Orion’s Odyssey is a Pattern Blocks adventure for all the family."
+}

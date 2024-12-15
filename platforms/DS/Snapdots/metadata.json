@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["D4 Enterprise"],
+	"genres": ["Action", "Puzzle"],
+	"name": "Snapdots",
+	"publishers": ["Nintendo"],
+	"release_date": "October 18, 2010",
+	"serial_number": "KTYT",
+	"synopsis": "Welcome to Snapdots! Complete dozens of puzzle pictures by rotating the puzzle to find the best angle and then shooting blocks from your UFO. If the placement isn’t quite right, use the UFO to grab blocks back to shoot them in different spots. Adding to the challenge, puzzles often contain several types of blocks and spots, each with its own characteristics, on the playing grid. Journey to multiple planets to tackle puzzles individually in Puzzle mode or try to clear as many puzzles as you can within the time limit in frenetic Time Attack mode. In either mode, the combination of strategy and action result in a classic puzzle game that definitely hits the right spot!"
+}

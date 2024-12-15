@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "PT"],
+	"name": "G.G Series GREAT WHIP ADVENTURE",
+	"publishers": ["Goodvision Corporation"],
+	"release_date": "June 25, 2015",
+	"serial_number": "KVQE",
+	"synopsis": "Don the hat and take up your whip as you embark on an adventure through the ruins of an ancient civilization. Many different kinds of dangerous creatures and other traps lie in wait, ready to ambush you, but wield your trusty whip to subdue your attackers and to jump and lash onto objects. Climb and navigate past spikes and fireballs to the Goal Gate at the end of each stage before the time runs out! Do you have what it takes to be a great Whip Wielder and explore the depths of the Great Whip Adventure?"
+}

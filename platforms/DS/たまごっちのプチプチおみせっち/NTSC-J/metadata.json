@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nana On-Sha"],
+	"genres": ["Party", "Simulation", "Virtual Pet"],
+	"name": "たまごっちのプチプチおみせっち",
+	"publishers": ["Bandai Games"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "September 15, 2005",
+	"serial_number": "AG7J",
+	"synopsis": "Based on the phenomenally popular virtual pets, Tamagotchi for Nintendo DS puts you in the role of a shopkeeper charged with creating the greatest shop in all the kingdom."
+}

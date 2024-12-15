@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Piranha Games"],
+	"genres": ["Party", "Sports"],
+	"locales": ["ES"],
+	"name": "EA Playground",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2007",
+	"serial_number": "YPGP",
+	"synopsis": "EA Playground offers endless hours of entertainment for all ages. It is the ultimate party play experience, where bragging rights are at stake as you take on your friends and family in fun and immersive playground games."
+}

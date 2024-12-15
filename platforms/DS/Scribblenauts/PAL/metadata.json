@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["5th Cell"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Scribblenauts",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "February 10, 2011",
+	"serial_number": "BSLP",
+	"synopsis": "Get ready for a gaming experience that’s as big as your imagination with Scribblenauts for Nintendo DS."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Cards", "Simulation", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "DOWNTOWN TEXAS HOLD 'EM",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "February 19, 2010",
+	"serial_number": "KDTV",
+	"synopsis": "For the first time on DSi, go all-in with EA’s Downtown Texas Hold ‘Em!Sharpen ‘n show off your poker skills in 2 exciting game modes and take on up to 20 players in authentic showdowns. Put on your best poker face and challenge friends to a Multiplayer match. Start with a practice game, play a round of classic poker, then jump into turbo tournament to win the grand prize! Buy your way into gambling halls & casinos, each with its own unique background with realistic tables, cards & chips!"
+}

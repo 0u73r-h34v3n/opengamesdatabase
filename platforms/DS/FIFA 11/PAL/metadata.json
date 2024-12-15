@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Sports"],
+	"genres": ["Football", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "FIFA 11",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 1, 2010",
+	"serial_number": "VELV",
+	"synopsis": "Cram a whole world of football in your pocket and experience the highs, lows and never-ending drama of the beautiful game on the move in FIFA 11 for Nintendo DS. Choose from over 500 clubs from 30 pro leagues and take your team to the top."
+}

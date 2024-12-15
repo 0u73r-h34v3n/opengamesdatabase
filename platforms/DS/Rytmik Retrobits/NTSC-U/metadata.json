@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rytmik Retrobits",
+	"publishers": ["Cinemax"],
+	"release_date": "December 22, 2011",
+	"serial_number": "KYRE",
+	"synopsis": "Rytmik Retrobits is an application for creating rhythmical and melodic themes and for composing whole songs. Its user interface blends the fast and well-arranged interface of classic drum machines with flexible pattern interface of popular trackers and with modern sound library. It contains more than 180 carefully selected authentic retro sound samples of electronic drums, percussions, bass, melodic instruments and effects from 8-bit and 16-bit computers and classic consoles. You can quickly and easily create the basic building block – an audio clip. It consists of musical notations for up to four instruments for which you can select a location in the stereo field and modify the volume. You can also use effects such as transpose, reverse, shuffle, polyphony, chorus/widening stereo, echo and arpeggiator. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music."
+}

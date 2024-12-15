@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software B.V."],
+	"genres": ["Arcade", "Simulation"],
+	"name": "Just SING! Christmas Vol. 3",
+	"publishers": ["dtp young entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 24, 2011",
+	"serial_number": "KX3P",
+	"synopsis": "Storm onto the Christmas stage and celebrate the festival of festivals with two classic Christmas songs: \"O Christmas Tree\" (O Tannenbaum) and \"Joy to the World\"! Just sing into the Nintendo DSi microphone and enjoy the festive atmosphere. Hit all the right notes and sing in the correct tempo to reach the top of the high score list! Rise to the challenge and enjoy the Christmas cheer throughout the year!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Fighting"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Combat of Giants: Dinosaurs - Fight For Survival",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 16, 2010",
+	"serial_number": "KCGV",
+	"synopsis": "Long before mankind stepped into the world, the Earth was a harsh environment dominated by Dinosaurs. Every species of Dinosaurs had to survive in the hostile environment and needed to fight to stay alive. As one of the 3 breeds of dinosaurs, travel through the hostile lands while battling giant enemies to save your kind. Please note that elements of this software may have been featured in previously released software."
+}

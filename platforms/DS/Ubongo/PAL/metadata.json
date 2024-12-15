@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Korner Entertainment"],
+	"genres": ["Board Game", "Puzzle"],
+	"name": "Ubongo",
+	"publishers": ["Korner Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 16, 2011",
+	"serial_number": "KUBP",
+	"synopsis": "Solve as many \"Tetris-style\" puzzles as you can and you'll be the winner. What’s Ubongo? Its mechanics is very simple. Just solve as many puzzles as you can and get gems of the same colour. At the end of the established time, the player who has more gems will be the winner. The original board game is a blockbuster in many countries; where its popularity has taken Ubongo to the highest position in the lists of sales. Why? Because, under a seemingly simple premise, an extremely entertaining game hides...You may always want to play just one more time!"
+}

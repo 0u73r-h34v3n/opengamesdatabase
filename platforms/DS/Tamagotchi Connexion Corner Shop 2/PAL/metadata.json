@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dimps"],
+	"genres": ["Party", "Simulation", "Virtual Pet"],
+	"name": "Tamagotchi Connexion Corner Shop 2",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 23, 2007",
+	"serial_number": "AG8P",
+	"synopsis": "In Tamagotchi Connexion Corner Shop 2, shop owners must keep their bizarrely adorable Tamagotchi partners happy by earning \"Gotchi points\" through performing mini-game tasks for the customers. Gotchi points can be used to clothe, feed, and care for your Tamagotchi partners."
+}

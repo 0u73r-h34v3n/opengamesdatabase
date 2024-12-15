@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Quebec"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["ES"],
+	"name": "My Health Coach: Stop Smoking with Allen Carr",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2008",
+	"serial_number": "CUSP",
+	"synopsis": "Create your own profile and get a personalized program: let your coach know how many cigarettes you smoke, since when, how much money you spend, your personal interests (...) and he/she will take this into account to make you a personalized program."
+}

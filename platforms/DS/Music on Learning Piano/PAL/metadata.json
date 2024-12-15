@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Music on: Learning Piano",
+	"publishers": ["Abylight"],
+	"release_date": "September 24, 2010",
+	"serial_number": "K88P",
+	"synopsis": "Bravissimo!The entire orchestra follows your performance of 15 great classics. By playing each day, your ability increases and your memory improves without effort.Earn the bronze, silver and gold medals for each song, completing all different levels.A simplified music score is shown on the upper screen and a full piano keyboard on the touch screen, guiding beginners note by note on their first steps."
+}

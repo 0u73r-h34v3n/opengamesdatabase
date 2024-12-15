@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Strategy", "Tower Defense"],
+	"name": "Plants vs. Zombies",
+	"publishers": ["PopCap Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "March 14, 2011",
+	"serial_number": "KZLE",
+	"synopsis": "Get ready to soil your plants in the zombie-zapping phenomenon from PopCap! A mob of fun-loving zombies is about to invade your home, and the only defence is your arsenal of home-guardin’ plants. You’ll have to think fast and plant faster as you fight the fun-dead through day, night, fog, in the swimming pool and on the roof. Dig into Adventure mode and get more zombie-zapping action in 20 minigames, including the all-new Zombie Trap. The fun never dies!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EnjoyUp Games"],
+	"genres": ["Educational", "Health", "Puzzle", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "iSpot Japan",
+	"publishers": ["EnjoyUp Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 30, 2012",
+	"serial_number": "K3JP",
+	"synopsis": "iSpot Japan takes you on a journey across the land of the rising sun, explaining facts and curiosities about Japanese culture, while you play the classic “Spot the Difference” game in the country's most beautiful locations. Find three, four or five differences in each picture, depending on the selected difficulty level, and unlock them in the gallery to learn about local cuisine, historical characters or important monuments, together with their location on the map. Ranging from southern Kyushu to northern Hokkaido, you'll get to know all of Japan through exclusive beautiful pictures, carefully tricked out to create visually challenging differences. Features: * Exclusive beautiful pictures of Japan * Detailed explanation and map location of every picture. * Competitive VS multiplayer and gallery mode. * Three difficulty levels with three, four or five differences per location. * A total of 150 pictures illustrating the four main islands of Japan."
+}

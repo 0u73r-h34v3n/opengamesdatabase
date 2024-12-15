@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Behaviour Interactive"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["DE", "ES"],
+	"name": "Alvin and the Chipmunks: Chipwrecked",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 13, 2012",
+	"serial_number": "B7ZX",
+	"synopsis": "Experience stardom on stage in this game based on the story you see on screen in Alvin and the Chipmunks: Chipwrecked! Play as all six superstars from the Chipmunks and The Chipettes: Alvin, Simon, Theodore, Brittany, Jeanette, or Eleanor, and belt out 30 of their greatest hits."
+}

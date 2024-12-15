@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc.", "syn Sophia"],
+	"genres": ["Business Simulation", "Health", "Simulation"],
+	"name": "Style Savvy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 2, 2009",
+	"serial_number": "AZLE",
+	"synopsis": "Spot the latest trends, buy stock and help your clients find the perfect look in Nintendo presents: Style Boutique on Nintendo DS! You'll manage your own clothing boutique and create the outfits of your customers' dreams."
+}

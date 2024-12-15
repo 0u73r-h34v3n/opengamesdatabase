@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Imageepoch"],
+	"genres": ["Role-Playing", "Strategy", "Strategy Rpg", "Turn-Based Strategy"],
+	"name": "Luminous Arc 2",
+	"publishers": ["Atlus"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "November 18, 2008",
+	"serial_number": "YL2E",
+	"synopsis": "More Strategy, More Witches, More Fun! As the threat of a rogue Witch looms over Carnava, the Queen calls upon the Magic Association to save the land."
+}

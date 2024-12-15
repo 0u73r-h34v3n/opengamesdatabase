@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Coaching", "Demo", "Educational", "Health", "Puzzle"],
+	"name": "Dr Kawashima's Brain Training: How Old Is Your Brain (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 25, 2004",
+	"serial_number": "A45P",
+	"synopsis": "Making use of the DS Touch Screen, both Brain Training titles call on you to get your grey matter in gear by completing fun challenges that test your mental awareness and memory."
+}

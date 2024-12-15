@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["SQUARE ENIX", "h.a.n.d."],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "KINGDOM HEARTS Re:coded",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "January 14, 2011",
+	"serial_number": "BK9P",
+	"synopsis": "KINGDOM HEARTS Re:coded is an action adventure game for the Nintendo DS from Square Enix, featuring iconic characters from the worlds of Disney and Final Fantasy."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Sports"],
+	"genres": ["Football", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "FIFA 06",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2005",
+	"serial_number": "AF6P",
+	"synopsis": "Would-be Ronaldinho's, rejoice! Searing hot soccer action comes to Nintendo DS, courtesy of FIFA 06."
+}

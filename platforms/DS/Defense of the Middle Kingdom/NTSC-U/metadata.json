@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Strategy", "Tower Defense"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Defense of the Middle Kingdom",
+	"publishers": ["Aksys Games"],
+	"release_date": "September 15, 2011",
+	"serial_number": "K35E",
+	"synopsis": "In Defense of the Middle Kingdom, you place stationary soldiers on the map in an effort to halt the oncoming forces' progress. Opposing soldiers will walk along a predetermined path, and it is therefore your mission to successfully defend your territory. Enemies will come in waves, trying to invade your territory. If you can keep them from reaching the end of the path, then victory is assured. If the enemies manage to slip by your defenses, they will damage your defense point. If the defense point number reaches 0, then you are defeated."
+}

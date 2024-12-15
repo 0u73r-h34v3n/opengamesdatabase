@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Racing"],
+	"name": "Ferrari GT Evolution",
+	"publishers": ["Gameloft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 26, 2010",
+	"serial_number": "KFRE",
+	"synopsis": "Join the elite circle of Ferrari car owners and take part in exclusive races around the globe. Choose from 32 car models including the Ferrari California, F430, Enzo Ferrari, Testarossa and 250 GTO, and experience each model's unique driving sensation. Streak across seven cities and one circuit in a racing simulation that tests your speed and control. Take on challenges from other Ferrari drivers or play against your friends in multiplayer mode, plotting your own course to the finish line to win."
+}

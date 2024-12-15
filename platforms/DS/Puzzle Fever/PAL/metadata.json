@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Puzzle Fever",
+	"publishers": ["Korner Entertainment"],
+	"release_date": "July 7, 2011",
+	"serial_number": "K5VP",
+	"synopsis": "Puzzle Fever is a true test of skill for puzzle game fans, challenging players to race to prove their mental agility. Each puzzle consists of pieces that must be fitted together on a board. There is only one possible way for players to fill in the board’s gaps with the pieces they select. The premise is simple…the fun is endless! Game Modes: -Relax Mode -Time Attack Mode -Multiplayer"
+}

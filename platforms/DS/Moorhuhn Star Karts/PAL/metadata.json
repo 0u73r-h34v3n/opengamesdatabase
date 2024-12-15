@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MumboJumbo"],
+	"genres": ["Arcade", "Racing"],
+	"name": "Moorhuhn: Star Karts",
+	"publishers": ["MumboJumbo", "Phenomedia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 15, 2008",
+	"serial_number": "CRYP",
+	"synopsis": "Get ready to race at blistering speeds through the most addictive hair-raising tracks, with the craziest chicken in town. Join Crazy Chicken and his friends as you race your way through exhilarating 3D worlds with explosive excitement around every corner."
+}

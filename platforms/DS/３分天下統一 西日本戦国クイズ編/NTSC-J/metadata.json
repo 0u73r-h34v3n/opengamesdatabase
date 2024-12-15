@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "３分天下統一 西日本戦国クイズ編",
+	"publishers": ["GAE"],
+	"release_date": "February 24, 2010",
+	"serial_number": "K24J",
+	"synopsis": "Lit. \"3 Minutes to Unify the Country: Western Japan Sengoku Quiz Edition\""
+}

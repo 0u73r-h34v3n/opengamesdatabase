@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Educational", "Puzzle"],
+	"locales": ["FR"],
+	"name": "Voca Mania: Améliore ton vocabulaire en t'amusant !",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 23, 2009",
+	"serial_number": "CYCF",
+	"synopsis": "Vous êtes curieux ? Vous aimez apprendre de nouvelles choses ? Qu'est-ce qu'un palindrome ? Apprenez de nouveaux mots intéressants de manière ludique avec Voca Mania."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Venan Entertainment"],
+	"genres": ["Action", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Ninjatown",
+	"publishers": ["SouthPeak Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CNJP",
+	"synopsis": "Sunny skies, lush forest and rolling hills combine to form the land known as Ninjatown where adorable and honourable Ninjas populate this vibrant yet peaceful place."
+}

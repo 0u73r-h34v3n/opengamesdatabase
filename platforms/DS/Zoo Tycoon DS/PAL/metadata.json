@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Management Simulation", "Simulation"],
+	"name": "Zoo Tycoon DS",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 11, 2005",
+	"serial_number": "AZTY",
+	"synopsis": "You're in charge of a real zoo! Go wild building the most fun and beautiful zoo you can imagine. Care for unpredictable and untamed animals - and those are just the guests. Keep everyone happy and you'll be a Zoo Tycoon!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Don't Cross The Line",
+	"synopsis": "Don't Cross The Line es un juego de puzle donde el jugador debe conectar las líneas a diferentes casillas, de un cuadro idéntico a otro, sin cruzar las líneas que dibujó en el proceso. Hay alrededor de 50 etapas en total. Dependiendo cuan rápido completes cada fase, el jugador será otorgado ya sea con un bronce, plata, oro o de la concesión. Para desbloquear las fases siguientes, el jugador debe obtener una clasificación determinada en las etapas anteriores con el fin de seguir adelante. ¿Se puede burlar a los rompecabezas en la mano y recibir premios de oro por todas partes? Recuerde, no cruce la línea!"
+}

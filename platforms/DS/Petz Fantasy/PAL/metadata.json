@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Quebec"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Petz Fantasy",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 7, 2010",
+	"serial_number": "VFZV",
+	"synopsis": "For the first time ever, discover and take care of your very own fantasy petz. Enter a world of fantasy where you discover mysterious eggs that hatch into cute fantasy creatures! Each fantasy creature has its own personality, surprising reactions and magical powers. Help them grow by caring for them, feeding them, and teaching them. Train them in their new magical powers."
+}

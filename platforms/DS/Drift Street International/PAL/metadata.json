@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tantalus"],
+	"genres": ["Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Drift Street International",
+	"publishers": ["Tantalus"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 13, 2010",
+	"serial_number": "KIFV",
+	"synopsis": "Drift Street International is the ultimate high-speed, street racing experience, exclusively for Nintendo DSi. Slide and boost your tuned performance car around challenging city streets, in high-intensity midnight races across the US, UK and Japan. Test your skills against challenging, aggressive AI drivers, or take on your friends in four-player head-to-head wireless races. Each track also hosts arcade-style checkpoint races and challenging speed trials."
+}

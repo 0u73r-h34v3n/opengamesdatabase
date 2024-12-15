@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Party"],
+	"locales": ["ES"],
+	"name": "Go West! A Lucky Luke Adventure",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 20, 2007",
+	"serial_number": "YLWP",
+	"synopsis": "Join Lucky Luke, The Pioneers and The Dalton Brothers to relive the \"Go West\" adventure. You will have to travel the USA from East to West in less than 80 days by playing great party games. Will you succeed?"
+}

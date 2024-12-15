@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"name": "My Cooking Coach: Prepare Healthy Recipes",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 25, 2009",
+	"serial_number": "VCKV",
+	"synopsis": "With more than 240 recipes created by a culinary school and in collaboration with a renowned nutritionist, My Cooking Coach: Prepare Healthy Recipes offers you tips and tricks to create healthy and delicious meals that will delight friends and family."
+}

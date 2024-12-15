@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Etranges Libellules"],
+	"genres": ["Action", "Adventure"],
+	"name": "Alice in Wonderland",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "March 2, 2010",
+	"serial_number": "VALE",
+	"synopsis": "With a little help from some well-known characters Alice might just be able to save Underland from a terrible tyrant in this 2D platform adventure from Disney."
+}

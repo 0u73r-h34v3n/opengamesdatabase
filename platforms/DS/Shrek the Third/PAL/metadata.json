@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shrek the Third",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "A3SP",
+	"synopsis": "Save Far Far Away in this twisted fairy tale adventure. When the King falls ill, it's up to Shrek to find the true heir and save Far Far Away. Journey with Shrek, Donkey, and Puss-in-Boots on this all new twisted fairy tale adventure. Along the way, meet new friends, conquer bold enemies, and visit never before seen lands from the movie and beyond."
+}

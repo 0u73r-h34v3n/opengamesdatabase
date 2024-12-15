@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Action"],
+	"name": "Transformers: Revenge of the Fallen - Autobots Version",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 26, 2009",
+	"serial_number": "CXRX",
+	"synopsis": "The fate of the earth and the survival of the human race hang in the balance in Transformers: Revenge of the Fallen: Autobots and Transformers: Revenge of the Fallen: Decepticons for the Nintendo DS."
+}

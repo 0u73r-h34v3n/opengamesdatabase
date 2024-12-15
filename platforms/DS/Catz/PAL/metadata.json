@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Powerhead Games"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Catz",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 13, 2006",
+	"serial_number": "AC7P",
+	"synopsis": "Choose your favorite kitten, discover 3 secret breeds (tiger, lion and cheetah). Take care of your fragile companion, dress him up with new accessories, entertain him with new toys and take photos while he plays. Plus learn what your kitty is thinking with Catz's new \"thought bubble.\" You can lead him through 60 fun adventures and create a cozy city for your furry friends. Plus compete against your friends in mini games like racing and treasure hunts!"
+}

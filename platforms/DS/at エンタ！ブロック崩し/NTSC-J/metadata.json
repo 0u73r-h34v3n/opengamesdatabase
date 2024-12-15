@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["タスケ"],
+	"genres": ["Action"],
+	"locales": ["JA"],
+	"name": "at エンタ！ブロック崩し",
+	"publishers": ["タスケ"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "April 21, 2010",
+	"serial_number": "K6QJ",
+	"synopsis": "Lit. \"at Entertainment! Block Breaker\" a.k.a. Absolute BrickBuster (NTSC-U)"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "お宝ハンター サブマリンキッドの冒険",
+	"publishers": ["トムクリエイト"],
+	"release_date": "October 6, 2010",
+	"serial_number": "K3NJ",
+	"synopsis": "Lit. \"Treasure Hunter: The Adventures of Submarine Kid\" a.k.a. GO Series Captain Sub (NTSC-U)"
+}

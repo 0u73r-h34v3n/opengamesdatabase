@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amaze Entertainment", "GSP"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES", "NL"],
+	"name": "Ice Age 2: The Meltdown",
+	"publishers": [
+		"Sierra Entertainment",
+		"Universal Interactive Studios",
+		"Vivendi Games"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 31, 2006",
+	"serial_number": "AIAP",
+	"synopsis": "Their world is melting, and your Ice Age 2: The Meltdown pals need help escaping the biggest flash flood in prehistory."
+}

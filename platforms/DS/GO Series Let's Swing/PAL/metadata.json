@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gamebridge"],
+	"genres": ["Action", "Platformer", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "GO Series Let's Swing",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 29, 2010",
+	"serial_number": "KT2P",
+	"synopsis": "GO Series presents Let's Swing from Suzak. Swing from bar to bar in this unique twist on the gymnastic sport \"High Bar\". Make your way from start to finish across a room by only swinging from bar to bar. As the distance between the bars increases both horizontally and vertically you'll need to build up more and more speed before leaping. Collect as many items as you can on the way for bonus points."
+}

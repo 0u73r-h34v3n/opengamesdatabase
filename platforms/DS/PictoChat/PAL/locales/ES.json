@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "PictoChat",
+	"synopsis": "El PictoChat es una aplicación integrada en el sistema operativo de las consolas Nintendo DSi, Nintendo DS y Nintendo DS Lite con la que los usuarios pueden comunicarse de forma sencilla y sin cables. Incluye cuatro salas de chat (de la A a la D) y cada una de ellas puede albergar un máximo de 16 jugadores."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ball Fighter",
+	"synopsis": "Ball Fighter, c’est un jeu puzzle ou il faut viser et enchaîner des billes de la même couleur pour qu’elles disparaissent de la planche. Tu dois le faire à temps, avant que les billes tombantes remplissent toute la planche. Tu dois faire vite les chaînes de billes l’un après l’autre pour pouvoir gagner des points supplémentaires et pour faire le jeu plus difficile à ton adversaire. Dans le mode Multi-joueur, on compliquera la vie de ton adversaire par ajouter les billes que tu as détruites sur leur planche. Sur la planche il y a des spéciales bonus comme Bombe, Fusée ou Pinceau que détruisent les billes ou qui colorient toute la chaîne de billes de la même couleur. Essaye l’une des plusieurs versions du jeu comme Arcade, Survival, Brain Breaker, Jouer vs Ordinateur dans la version pour un joueur singulier ou tu peux choisir la version unique – Multi-player pour deux joueurs qui jouent avec une console Nintendo DSi!"
+}

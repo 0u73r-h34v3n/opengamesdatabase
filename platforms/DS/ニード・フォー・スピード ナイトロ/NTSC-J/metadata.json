@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Montreal"],
+	"genres": ["Racing"],
+	"locales": ["JA"],
+	"name": "ニード・フォー・スピード ナイトロ",
+	"publishers": ["Electronic Arts Japan"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "December 17, 2009",
+	"serial_number": "BNNJ"
+}

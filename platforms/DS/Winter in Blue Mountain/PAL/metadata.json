@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ravn Studio"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["NO"],
+	"name": "Winter in Blue Mountain",
+	"publishers": ["Pan Vision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 1, 2012",
+	"serial_number": "TBMP",
+	"synopsis": "The young blue nisses Turte and Twin discover that a strange nisse with a red nisse hat is hiding out in Blue Mountain. The other blue nisses are horror-struck! Queen Mountain Rose asks Blue Mother and Blue Father to invent a completely new colour for her royal cape, one with a bit of red in it. Perhaps then they will understand that all nisse hat colours are just as good? Go with Turte and Twin as they travel around inside Blue Mountain and out to the town to find everything they need to make the new colour. Winter in Blue Mountain is a platform game with different strategic challenges through its levels, which are located both inside and outside Blue Mountain and even in the town. Animated sequences take you through the story and link the levels together."
+}

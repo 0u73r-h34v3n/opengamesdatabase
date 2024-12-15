@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firebrand Games"],
+	"genres": ["Arcade", "Racing"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Cartoon Network Racing",
+	"publishers": ["The Game Factory"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 9, 2007",
+	"serial_number": "AKUP",
+	"synopsis": "The wacky Cartoon Network stars are revving up their engines to compete in the Cartoon Network Racing Championship!"
+}

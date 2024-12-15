@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Microvalue"],
+	"genres": ["Adventure"],
+	"name": "Real Crimes: Jack the Ripper",
+	"publishers": ["Virtual Playground"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "May 24, 2010",
+	"serial_number": "KRCE",
+	"synopsis": "Jack the Ripper - the hidden object game with amazing graphics is now on Nintendo DSiWare. Travel back to 1880’s London to help Scotland Yard’s detectives solve the crime of the century. Visit world famous landmarks such as Piccadilly Circus and Buckingham Palace. Search crime scenes and solve mini puzzles in your hunt for clues - was Jack a Doctor, a Royal Prince, a Barber etc.? Hopefully this game will take you closer to the truth!"
+}

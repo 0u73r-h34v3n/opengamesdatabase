@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Agenda"],
+	"genres": ["Cards", "Compilation", "Health", "Poker", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "42 All-Time Classics",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 29, 2006",
+	"serial_number": "ATDP",
+	"synopsis": "As the name implies, 42 All-Time Classics features a total of 42 famous games; all playable via the simple touch screen control of Nintendo DS. That means no cards to shuffle, no boards to set up and no tiny playing pieces to lose."
+}

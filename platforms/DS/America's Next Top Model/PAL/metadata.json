@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arts Software"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "America's Next Top Model",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 1, 2010",
+	"serial_number": "YNLZ",
+	"synopsis": "Are you ready to compete in the fiercest modeling competition on Nintendo DS? Think you have what it takes to take yourself to the top of the modeling world? If so, you’ve come to the right game."
+}

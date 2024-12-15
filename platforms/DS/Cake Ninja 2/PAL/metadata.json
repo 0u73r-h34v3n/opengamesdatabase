@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Cake Ninja 2",
+	"publishers": ["Cypronia"],
+	"release_date": "November 8, 2012",
+	"serial_number": "K2NP",
+	"synopsis": "Cake Ninja 2 is the sequel to the very popular casual game, Cake Ninja, which was among the TOP 20 of the best-selling Nintendo DSiWare games in North America. Slide the stylus across the screen to slice cakes into small pieces like a true Ninja warrior. Key Features: - Simple, addictive gameplay - Colourful 3D graphics - Precise slice recognition - 8 challenging game modes - A collection of bonuses - Unlockable achievements - Post your results online and have a chance to earn 100,000 Nintendo DSi Points in the contest"
+}

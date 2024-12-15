@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Jagged Alliance",
+	"publishers": ["Cypronia"],
+	"release_date": "July 21, 2011",
+	"serial_number": "KJGP",
+	"synopsis": "Jagged Alliance is the much awaited introduction of the award winning Jagged Alliance franchise on the Nintendo DSi - one of the biggest strategy game series of all time. Jagged Alliance is an explosive fusion of role-playing game and turn-based tactical combat, allowing players to become fully immersed in their characters. Combining a delicate mix of technology, tactical manoeuvres and strategic planning with a nerve- racking storyline, Jagged Alliance will take your strategic talents to their very limits."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE"],
+	"name": "Shrek der Dritte",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "A3SD",
+	"synopsis": "Rette Far Far Away und begleite Shrek und seine Freunde in diesem lustigen und verrückten Märchen auf einer Mission, die über den Film hinausgeht. Spielen Sie mit Ihren Lieblingscharakteren und ihren neuen Freunden aus dem Film, die über einzigartige Fähigkeiten und spektakuläre Bewegungen verfügen. Reisen Sie durch bekannte Orte wie „Far Far Away“ und erkunden Sie neue Orte im Shrek-Universum. Kämpfen Sie mit einer großen Truppe neuer Bösewichte, darunter dem riesigen Eisdrachen, dem Musical Captain Hook und dem hinterhältigen Prinzen Charming."
+}

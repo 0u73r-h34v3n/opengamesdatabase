@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sujin Taisen: Number Battles",
+	"synopsis": "Un nouveau combiné de stratégie et de réflexion nous arrive tout droit du Japon. Dans ce jeu au tour par tour, battez-vous contre des adversaires humains ou contre l'ordinateur pour atteindre l'objectif de points en plaçant des tuiles numérotées sur le tableau. Pour marquer des points, reliez les connecteurs des tuiles les uns aux autres. Plusieurs liaisons sont possibles: combinez des tuiles comportant le même chiffre, établissez des suites de chiffres ou créez des boucles. Utilisez les objets à bon escient pour remporter la victoire, mais prenez garde: certaines cases modifient les règles! Bataillez en solo dans les modes Histoire et Défi. Texte écran en français."
+}

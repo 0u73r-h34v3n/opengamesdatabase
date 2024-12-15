@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amble"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Beyblade Metal Masters: Nightmare Rex",
+	"publishers": ["Hudson Entertainment", "Hudson Soft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 25, 2011",
+	"serial_number": "BRZP",
+	"synopsis": "Players can let rip with single-player fun or duel with friends in this spinning top combat game for Nintendo DS."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "The World Ends with You",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "April 18, 2008",
+	"serial_number": "AWLP",
+	"synopsis": "It’s a race against the clock. A catastrophe of apocalyptic proportions is bearing down on Tokyo. Can you avert disaster or will the world meet its end?"
+}

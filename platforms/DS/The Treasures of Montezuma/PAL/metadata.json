@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Most Wanted Entertainment"],
+	"genres": ["Puzzle"],
+	"name": "The Treasures of Montezuma",
+	"publishers": ["Purple Hills"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 11, 2010",
+	"serial_number": "BTQP",
+	"synopsis": "Enjoy mind-blowing match-three action and stunning visuals when you play The Treasures of Montezuma! This exhilarating game will provide you with hours of entertainment as you master the power of ancient totems to collect jewels."
+}

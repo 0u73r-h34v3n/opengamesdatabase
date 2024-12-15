@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOSE"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE"],
+	"name": "Avatar: The Legend of Aang",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 27, 2007",
+	"serial_number": "AVAP",
+	"synopsis": "Water. Earth. Fire. Air. Are you ready to face your destiny? Journey through 6 exotic locations filled with adventure to help Aang fulfill his destiny to master the bending arts and become the Avatar--for only the Avatar can stop the ruthless might of the Fire Nation!"
+}

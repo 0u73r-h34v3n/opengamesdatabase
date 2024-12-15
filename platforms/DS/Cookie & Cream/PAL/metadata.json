@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hi Corp"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Cookie & Cream",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 5, 2007",
+	"serial_number": "AK3P",
+	"synopsis": "Who stole the moon? The moon festival, celebrated by the rabbit clan, cannot last long unless someone finds the moon! Cookie and Cream, two very determined rabbits, must work together to reveal the mystery of the stolen moon."
+}

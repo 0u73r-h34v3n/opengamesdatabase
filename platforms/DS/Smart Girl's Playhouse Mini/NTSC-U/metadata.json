@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Smart Girl's Playhouse Mini",
+	"publishers": ["UFO Interactive"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 8, 2012",
+	"serial_number": "K2FE",
+	"synopsis": "The award-winning Smart Girl’s Playhouse® series is back! This time on Smart Girl’s Playhouse® Mini, little gamers will be delighted by the all-new graphics and games rebuilt from the ground up! Choose from 6 fun games and activities such as Drawing, Find Differences, Dress-Up and more! These wholesome games will bring out your child’s talents and keep them occupied for hours. This title aims to give children and parents a great alternative to into the world of video games without inappropriate content."
+}

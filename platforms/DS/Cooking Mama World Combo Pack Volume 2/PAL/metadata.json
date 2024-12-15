@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cooking Mama Limited"],
+	"genres": ["Compilation", "Cooking", "Health", "Simulation"],
+	"name": "Cooking Mama World: Combo Pack Volume 2",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 5, 2012",
+	"serial_number": "TMDP",
+	"synopsis": "Get creative both in and out of the kitchen with Cooking Mama World: Combo Pack Volume 2 for Nintendo DS that includes Cooking Mama 2 and Hobbies & Fun. In Cooking Mama 2, you must satisfy Mama and her finicky friends who will taste each dish after you prepare it and judge your kitchen creations. As the only dedicated crafting game, Hobbies & Fun features 40 different projects where you can sew, mold, paint and cut with your stylus as you create jewelry, quilts, candles, mugs and even kaleidoscopes!"
+}

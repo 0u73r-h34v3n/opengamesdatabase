@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["KREA Medie"],
+	"genres": ["Action", "Educational"],
+	"locales": ["NO", "SE"],
+	"name": "Josefin Skolhjälp: Magi i Sagolandet",
+	"publishers": ["KREA Medie"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 20, 2009",
+	"serial_number": "BJFX",
+	"synopsis": "Restore the magic to Wonderland! Something mysterious has happened in Wonderland – the Little People have lost their magic! The gnomes can no longer keep things in order, and the poor fairies are unable to fly. Even the new inhabitants of Adventure Land are facing problems – and they need your help, along with Josefine's!"
+}

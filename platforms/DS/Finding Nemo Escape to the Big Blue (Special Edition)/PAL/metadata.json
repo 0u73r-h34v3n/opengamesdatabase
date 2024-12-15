@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Adventure"],
+	"name": "Finding Nemo: Escape to the Big Blue (Special Edition)",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 5, 2012",
+	"serial_number": "TFNY",
+	"synopsis": "After many years of aquarium life, the Tank Gang is finally ready to make a daring break for the deep blue sea. But it won't be easy. Luckily, Nemo, Marlin, and Dory are waiting by the pier to lend a helping fin as their buddies dive deep into the unknown on an incredible journey to find a brand new home in the coral reef."
+}

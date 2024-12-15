@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["FR"],
+	"name": "Professeur Layton et le destin perdu",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 22, 2010",
+	"serial_number": "C3JF",
+	"synopsis": "Le Professeur Layton et son disciple Luke reçoivent une lettre signée de la main de Luke et datée de 10 ans dans le futur. La lettre indique que le Londres du futur est en plein chaos et le seul capable d'y rétablir l'ordre est le Professeur Layton."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["City Interactive"],
+	"genres": ["Puzzle"],
+	"name": "Chronicles of Mystery: The Secret Tree of Life",
+	"publishers": ["City Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 13, 2011",
+	"serial_number": "VMYV",
+	"synopsis": "Archaeologist and adventurer Sylvie Leroux joins forces with the shadowy Count Saint-Germain to uncover the truth behind the Tree of Life. Join Sylvie as she embarks on a quest loaded with riddles, hidden clues, and danger as she travels across the globe from Venice and Cairo to the Rock of Gibraltar in her search for the legendary Tree of Life."
+}

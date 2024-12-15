@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Namco Bandai", "Nintendo"],
+	"genres": ["Exercise", "Health"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Sight Training: Enjoy Exercising and Relaxing Your Eyes",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "AG3P",
+	"synopsis": "Created with Sight Training expert Dr Hisao Ishigaki, Sight Training invites you to focus on testing your eyesight in five main categories through fun exercises."
+}

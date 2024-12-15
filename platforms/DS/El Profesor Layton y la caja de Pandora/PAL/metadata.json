@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["ES"],
+	"name": "El Profesor Layton y la caja de Pandora",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "YLTS",
+	"synopsis": "Professor Layton y la caja de Pandora te encandilará con un nuevo misterio y más de 150 acertijos, puzles y adivinanzas del mismo estilo que las que enamoraron a los jugadores del primer título."
+}

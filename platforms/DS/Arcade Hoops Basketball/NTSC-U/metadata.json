@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skyworks Interactive"],
+	"genres": ["Sports"],
+	"name": "Arcade Hoops Basketball",
+	"publishers": ["Skyworks Interactive"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 28, 2009",
+	"serial_number": "KSAE",
+	"synopsis": "See how many baskets you can sink in a fast-moving 45 seconds, using only your stylus and, of course, your lightning-fast hand-eye coordination. Arcade Hoops features your choice of three rockin' soundtracks, state-of-the-art 3-D graphics and thrilling, high-speed game play for the most fun possible in under a minute. Advanced hoopsters can move on to the progressive level, where a moving basket provides an additional challenge - plus the chance to rack up even more points. For the real pros, there's 3 Point mode, where speed and accuracy are a must as you shoot \"threes\" from downtown."
+}

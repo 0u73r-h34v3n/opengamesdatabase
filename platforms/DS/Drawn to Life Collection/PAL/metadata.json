@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["5th Cell"],
+	"genres": ["Action", "Compilation", "Drawing", "Platformer"],
+	"name": "Drawn to Life Collection",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 25, 2010",
+	"serial_number": "BVPP",
+	"synopsis": "Your Hero. Your Adventure. Help save Raposa Village from a shadow-like evil and rebuild it back to greatness by creating a Hero in Drawn to Life Collection, 2 games in one!"
+}

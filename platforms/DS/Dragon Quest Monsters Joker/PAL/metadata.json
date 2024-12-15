@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Dragon Quest Monsters: Joker",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 14, 2008",
+	"serial_number": "AJRP",
+	"synopsis": "Head for the mysterious Green Bays islands and compete in a tournament with a difference in Dragon Quest Monsters: Joker for Nintendo DS."
+}

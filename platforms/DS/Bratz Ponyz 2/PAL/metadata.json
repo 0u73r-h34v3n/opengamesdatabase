@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Role-Playing", "Simulation", "Virtual Pet"],
+	"name": "Bratz Ponyz 2",
+	"publishers": ["The Game Factory"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2008",
+	"serial_number": "CBPP",
+	"synopsis": "Designed for girls ages four and older, Bratz Ponyz 2 for the DS allows players to develop their 'passion for fashion' by participating in the Bratz Ponyz Town beauty pageant. Players can choose from four different Bratz Ponyz, which they can dress-up with accessories collected throughout the game's fashion, beauty, music, dancing, and arts and crafts-themed adventures."
+}

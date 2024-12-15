@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Creative Patterns"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine My Boutique",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 19, 2009",
+	"serial_number": "CYKP",
+	"synopsis": "Become the owner of the most famous gift shop in town, thanks to a friendly atmosphere, appropriate advice and unique gifts."
+}

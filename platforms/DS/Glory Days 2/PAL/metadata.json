@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Odenis"],
+	"genres": ["Action", "Real-Time Strategy", "Shoot 'Em Up", "Strategy"],
+	"locales": ["ES"],
+	"name": "Glory Days 2",
+	"publishers": ["Ghostlight"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 5, 2007",
+	"serial_number": "YG2P",
+	"synopsis": "Take a seat in the cockpit and become an ace pilot in the most intense strategy action game to hit the Nintendo DS. Manage wartime tactics like deploying units and rescuing civilians simultaneously bombing the enemy from above."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"locales": ["JA"],
+	"name": "イナズマイレブン2 脅威の侵略者 ファイア",
+	"publishers": ["Level-5"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "October 1, 2009",
+	"serial_number": "BEEJ",
+	"synopsis": "RPG meets football action that is out of this world in Inazuma Eleven 2!"
+}

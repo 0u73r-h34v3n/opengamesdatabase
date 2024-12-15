@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Break Tactics",
+	"publishers": ["Agetec"],
+	"release_date": "June 6, 2013",
+	"serial_number": "KBQP",
+	"synopsis": "The flames of war are raging unabated... What began as a skirmish on the border between two neighbouring states has flared into a bitter war that has been dragging on for over a decade. The Lancaster Empire and the Duchy of Meroving are the two powers threatening to engulf the entire continent. Break Tactics is a full-scale tactics game: recruit and deploy units, issue strategic orders and engage in epic battles leading your men to glorious victory. As the commander you can increase levels for stronger attacks and additional movement. You can also increase your units’ offence and defence capabilities. Strategise each battle objective and deploy the best units for each battle, taking full advantage of the strengths and weaknesses of the various types of terrain. Collect items on the battleground before the enemy to gain an advantage. Earn Break Points to upgrade and recruit Special Units such as spell casting mages and units that can fly over inaccessible terrains, launch surprise attacks and increase the number of your units. Break Points are awarded based on the battle results after clearing each stage and vary according to your performance. Command your units with wisdom and end this war once and for all. Features: - Earn Break Points to command a more powerful army. - Recruit Special Units with enhanced abilities. - Discover valuable items and be rewarded. - Quick Save option available."
+}

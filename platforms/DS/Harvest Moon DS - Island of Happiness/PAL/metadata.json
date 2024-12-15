@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous Interactive"],
+	"genres": ["Simulation"],
+	"locales": ["ES"],
+	"name": "Harvest Moon DS - Island of Happiness",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 12, 2008",
+	"serial_number": "ABJP",
+	"synopsis": "Take on uncharted territory in Harvest Moon DS: Island of Happiness for Nintendo DS! After surviving a shipwreck and finding yourself washed up on a desert island, you’ll have to start a new life - and hopefully find someone to share it with."
+}

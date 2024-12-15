@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Freedom Factory Studios"],
+	"genres": ["Educational"],
+	"locales": ["ES"],
+	"name": "Autoescuela: Aprueba Conmigo",
+	"publishers": ["Micronet"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 21, 2009",
+	"serial_number": "BAQS",
+	"synopsis": "Autoescuela: Aprueba conmigo es un práctico entrenador diseñado para preparar eficazmente y sin apenas esfuerzo el examen teórico de conducir B."
+}

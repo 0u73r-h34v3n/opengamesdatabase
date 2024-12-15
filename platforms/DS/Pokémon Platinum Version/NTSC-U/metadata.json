@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing"],
+	"name": "Pokémon Platinum Version",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 22, 2009",
+	"serial_number": "CPUE",
+	"synopsis": "The Sinnoh region lies in wait for a hero as Team Galactic set their dark plans in motion. In Pokémon Platinum Version for Nintendo DS, only you possess the power to set things right."
+}

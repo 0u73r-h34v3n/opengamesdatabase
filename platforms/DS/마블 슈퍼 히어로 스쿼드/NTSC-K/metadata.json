@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "마블 슈퍼 히어로 스쿼드",
+	"publishers": ["THQ"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "December 11, 2009",
+	"serial_number": "BMUK",
+	"synopsis": "Take control of your favourite Marvel Super Heroes and Super Villains and unleash their special moves and customised combo attacks in multi-player Adventure and Battle Modes."
+}

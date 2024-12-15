@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dimps"],
+	"genres": ["Party", "Simulation", "Virtual Pet"],
+	"name": "Tamagotchi Connexion Corner Shop 3",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 5, 2008",
+	"serial_number": "YT3P",
+	"synopsis": "The bustling TamaTown lets budding entrepreneurs work in a variety of stores, each with their own unique mini-game. Watch infants at the Day Care while their parents run errands, nurture plants to life in the Gardening Center, or have those faces feeling clean at the Day Spa. When you're done working, kick back in the Clock Tower to change your Tamagotchi partner and try on new costumes. Keep the customers happy and have them coming back for more in Tamagotchi Connection: Corner Shop 3."
+}

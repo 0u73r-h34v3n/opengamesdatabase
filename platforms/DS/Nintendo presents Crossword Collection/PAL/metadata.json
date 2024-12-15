@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nuevo Retro"],
+	"genres": ["Health", "Puzzle"],
+	"name": "Nintendo presents: Crossword Collection",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 18, 2009",
+	"serial_number": "YCUP",
+	"synopsis": "Do you love the challenge of a good, tricky crossword? Now you can put your brain to the test whenever you like with an instant crossword compendium in the form of Nintendo presents: Crossword Collection for your Nintendo DS!"
+}

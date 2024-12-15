@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Zen Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Ghostbusters:The Video Game",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 23, 2009",
+	"serial_number": "YGQP",
+	"synopsis": "Are you bothered by strange noises in the middle of the night? Are you afraid of entering the basement or attic? Have you or someone in your family seen a ghost, a spirit or a spectre? If the answer is yes, don't wait another minute. Pick up the phone and call the professionals: call the Ghostbusters!"
+}

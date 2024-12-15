@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Magellan Interactive"],
+	"genres": ["Puzzle"],
+	"name": "Slingo Supreme",
+	"publishers": ["Magellan Interactive"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 29, 2011",
+	"serial_number": "K3SE",
+	"synopsis": "Slingo Supreme is the sequel to Slingo Deluxe, packed with even more Slingtastic fun. It features a new Supreme mode that lets you build more than 16,000 different Slingo games. It also offers an infinite supply of Daily Challenges, new Powerups (including Reel Nudge and Instant Slingos) and the long-awaited introduction of Devil Mini Games. Now you can finally take on that Devil and beat him at his own game."
+}

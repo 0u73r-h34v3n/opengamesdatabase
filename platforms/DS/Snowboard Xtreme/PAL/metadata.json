@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Snowboard Xtreme",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "January 24, 2013",
+	"serial_number": "KX5P",
+	"synopsis": "Snowboard Xtreme offers a race against the clock through a stage filled with dangers, in which you will need a lot of skill because time is not on your side. Try to take full advantage of the terrain, and earn extra time by passing through the flags correctly. Beat your friends and family on the local ranking and reach number one. Do not hesitate to take control of our character Dundee the Mad Crocodile. Good luck!!!"
+}

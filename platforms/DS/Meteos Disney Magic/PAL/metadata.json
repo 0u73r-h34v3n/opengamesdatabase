@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Q Entertainment"],
+	"genres": ["Puzzle", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Meteos: Disney Magic",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 1, 2007",
+	"serial_number": "ADZP",
+	"synopsis": "The follow up to Meteos for Nintendo DS gets some added magic: Disney Magic! Meteos: Disney Magic puts a new spin on the gravity-defying puzzle game and comes packed with extras from popular Disney movies."
+}

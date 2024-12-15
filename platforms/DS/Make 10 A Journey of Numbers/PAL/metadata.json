@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Muu Muu"],
+	"genres": ["Educational"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Make 10: A Journey of Numbers",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2008",
+	"serial_number": "AIOP",
+	"synopsis": "Travel to a magical land where your mathematical mind will be stretched by fun challenges that all centre on a very special number."
+}

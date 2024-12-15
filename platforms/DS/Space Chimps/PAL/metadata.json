@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Space Chimps",
+	"publishers": ["Brash Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 14, 2008",
+	"serial_number": "CMPP",
+	"synopsis": "Enjoy the video game based on the crazy film Space Chimps, where you will play as young Ham III, grandson of the first chimpanzee launched into outer space."
+}

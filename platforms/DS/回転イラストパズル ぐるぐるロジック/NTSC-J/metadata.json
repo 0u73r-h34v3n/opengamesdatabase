@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["D4 Enterprise"],
+	"genres": ["Action", "Puzzle"],
+	"locales": ["JA"],
+	"name": "回転イラストパズル ぐるぐるロジック",
+	"publishers": ["任天堂"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 2, 2009",
+	"serial_number": "KTYJ"
+}

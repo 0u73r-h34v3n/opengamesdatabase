@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["City Interactive"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "I Love Beauty: Hollywood Makeover",
+	"publishers": ["City Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 20, 2009",
+	"serial_number": "CV9P",
+	"synopsis": "Appropriately applied eyeshadows and emphasized eye contours. Shiny, right red lips and suitably chosen nail polish. Neatly plucked eyebrows. Shortly speaking professional make-up! Now you can learn it too. Thanks to I Love Beauty you will get to know the secrets of make-up and have lots of fun. Find out how fascinating and entertaining it is to color lips or extend eyelashes!"
+}

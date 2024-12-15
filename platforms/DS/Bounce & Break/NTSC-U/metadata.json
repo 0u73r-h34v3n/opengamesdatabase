@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Bounce & Break",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 3, 2010",
+	"serial_number": "KZEE",
+	"synopsis": "Bounce & Break is an innovative break-out game taking place in a Zen Japanese world. In this Zen world, you will play in four different universes. Each universe is divided into four seasons. The best two scores you achieve are saved in the Top Ranking table, challenging you to become the best and enter this Hall of Fame!"
+}

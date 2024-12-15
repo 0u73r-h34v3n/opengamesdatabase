@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Peg Solitaire",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "February 25, 2011",
+	"serial_number": "KP8P",
+	"synopsis": "Peg Solitaire is a board game for solo players where you have to move pegs strategically on a cross-shaped board with 33 holes; some boards use marbles that sit in shallow indentations. In the United Kingdom, the game is known as Solitaire, and the card games are called Patience. Difficulty: The game has various difficulty levels to allow players to learn the gameplay techniques step by step: •Tutorial levels (9 stages) •Easy levels (9 stages) •Normal levels (9 stages) •Hard levels (9 stages) •Expert levels (5 stages)"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD", "indieszero"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"name": "Cooking Guide: Can't decide what to eat?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 20, 2008",
+	"serial_number": "CNVP",
+	"synopsis": "With hundreds of recipes from all around the globe, comprehensive details on how to prepare every dish and a host of handy extras, Cooking Guide is much more than just a cook book. It’s your all-in-one personal cooking assistant!"
+}

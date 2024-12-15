@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Saturnine Games"],
+	"genres": ["Shooter"],
+	"name": "Cosmos X2",
+	"publishers": ["Saturnine Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 15, 2011",
+	"serial_number": "KX2P",
+	"synopsis": "Enjoy on the go excitement as you take control of the Cosmos X2 and fight back against the alien invasion. Equip your ship with two weapon systems of your choice. Each weapon system has its own energy level. When an enemy is defeated, the inactive weapon recovers energy, requiring a balanced usage to maximize your chances of survival."
+}

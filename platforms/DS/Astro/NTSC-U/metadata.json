@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Enjoy Gaming"],
+	"genres": ["Action", "Adventure", "Shooter"],
+	"name": "Astro",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 26, 2013",
+	"serial_number": "K7DE",
+	"synopsis": "At the dawn of the 30th century, the invention of the tachyon-reactor saw the beginning of the space age. With small quantities of \"Star Platinum,\" a mineral found in the asteroid belts, the tachyon-reactor could produce an immense amount of clean energy. This maintained interplanetary travel and the gigantic oxygen-generators required by the colonies. Human colonies appeared on all the 9 planets of the solar system. In the Year 3187, a vast pirate fleet appeared out of hyperspace and caught us off guard. In a short time our defences were destroyed, leaving the area under pirate control. After numerous defeats it was decided to stop harvesting the \"Star Platinum.\" The pirate leader sent a final ultimatum right before destroying the last of our battle ships: \"The only way for the federation to survive is to surrender.\""
+}

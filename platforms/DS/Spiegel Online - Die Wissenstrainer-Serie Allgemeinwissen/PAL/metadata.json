@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Games Company"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Spiegel Online - Die Wissenstrainer-Serie: Allgemeinwissen",
+	"publishers": ["The Games Company"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 10, 2009",
+	"serial_number": "BY2D",
+	"synopsis": "SPIEGEL ONLINE – Allgemeinwissen trainiert speziell das Allgemeinwissen in acht Kategorien, gestaffelt in drei Schwierigkeitsgraden und erweitert so den persönlichen Horizont ganz ohne lästiges Pauken. Ob allein oder im unterhaltsamen Multiplayer-Modus mit Freunden – SPIEGEL ONLINE – Allgemeinwissen schließt spielerisch Wissenslücken in populären Themengebieten wie Politik, Wirtschaft, Kultur oder Sport und lässt garantiert keine Fragen offen. Und wer eine komplette Spielrunde fehlerfrei schafft, dem winken besondere Belohnungen!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Peg Solitaire",
+	"synopsis": "Le Solitaire est un jeu de plateau pour une personne dans lequel vous devez bouger les pièces sur un tablier en forme de croix composé de 33 trous; dans certains cas, les pièces sont des billes à placer dans les trous du tablier. En France, le jeu du Solitaire est à la fois un jeu de plateau et un jeu de cartes. Le jeu propose différents niveaux de difficulté pour permettre aux joueurs d'étudier les techniques de jeu étape par étape : •Niveaux Tutoriel (9 étapes) •Niveaux Facile (9 étapes) •Niveaux Normal (9 étapes) •Niveaux Difficile (9 étapes) •Niveaux Expert (5 étapes) Texte écran en anglais."
+}

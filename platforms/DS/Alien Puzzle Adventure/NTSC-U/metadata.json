@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vivid Games"],
+	"genres": ["Action", "Puzzle"],
+	"name": "Alien Puzzle Adventure",
+	"publishers": ["Mastertronic"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 17, 2011",
+	"serial_number": "KP7E",
+	"synopsis": "Alien Puzzle Adventure is a fast-paced, colourful and cartoony puzzle game, combining match-three gameplay with a humorous and quirky storyline.The player is out to save the world from a mysterious chemical attack! Armed with Professor Weinstein's Pseudo-quark Generator Gun, the player must neutralise packs of differently-coloured quarks by matching three of the same colour, over the course of thirty-five stages. Can you help stem the tide and save the world?"
+}

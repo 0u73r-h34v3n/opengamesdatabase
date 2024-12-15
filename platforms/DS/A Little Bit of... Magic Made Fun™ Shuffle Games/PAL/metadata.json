@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo", "Tenyo"],
+	"genres": ["Educational", "Health"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "A Little Bit of... Magic Made Fun™: Shuffle Games",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 15, 2009",
+	"serial_number": "KMSP",
+	"synopsis": "Perform amazing magic and impress your friends with A Little Bit of... Magic Made Fun, a collection of easy-to-do magic tricks that you can always carry with you! Shuffle Games turns your Nintendo DSi console into a magical mind-reading assistant. Ask a friend to choose their birth month, the country they would like to go on vacation to, or their favorite hobby. Even if the options are disordered, you will know which one you have chosen! This game also includes the Vanishing Card trick. Focus on one of the five random cards on the screen and the Nintendo DSi system will tell you which one you're thinking of! Note: Some elements of this program may have previously appeared in other titles."
+}

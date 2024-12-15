@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOSE"],
+	"genres": ["Action", "Adventure"],
+	"name": "Avatar: The Legend of Aang - The Burning Earth",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 25, 2007",
+	"serial_number": "YAVP",
+	"synopsis": "Avatar: The Burning Earth continues the epic adventure of Aang and his courageous fight against the evil Fire Nation in order to restore balance in his war-torn world."
+}

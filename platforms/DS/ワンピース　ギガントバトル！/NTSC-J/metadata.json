@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting"],
+	"name": "ワンピース　ギガントバトル！",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "September 9, 2010",
+	"serial_number": "BOJJ",
+	"synopsis": "Based on the hit Japanese manga and animation series, which centres on the antics of goofy brawler Monkey D. Luffy and his ragtag band of Straw Hat Pirates, One Piece Gigant Battle brings over-the-top 2D fighting to the palm of your hand."
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Simulation", "Strategy"],
+	"name": "Supermarket Mania",
+	"publishers": ["G5 Entertainment AB"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 19, 2010",
+	"serial_number": "KRZV",
+	"synopsis": "Supermarket Mania is a highly addictive time management game. Running grocery stores can be a lot of fun! Help Nikki keep five stores stocked to the rafters with the provisions customers want and show your adversary what a little hometown pluck can do! With Supermarket Mania you get: - 50 Levels in Story Mode - Endless Shift Mode and extra bonuses - Five Shops - Seven types of customers - Over a dozen products to sell - Over 20 upgrades for your shop"
+}

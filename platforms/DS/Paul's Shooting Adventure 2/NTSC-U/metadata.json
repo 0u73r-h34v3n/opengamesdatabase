@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ICM"],
+	"name": "Paul's Shooting Adventure 2",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "May 10, 2012",
+	"serial_number": "KUSE",
+	"synopsis": "The player controls Paul and his brother, twins of a super hero family who were born with innate super powers. The two brothers have the ability to take flight and attack with powerful projectile energy. However, most importantly, they are both gifted with the ability to take the form and seize the weaponry from fallen enemies. The Insectians have vowed revenge for their defeated ally – the Oceanians. Paul is once again summoned to fight an alien invasion force bent of retribution, but this time Paul is not alone. It’s up to Paul and his twin brother to use their combined powers and weapons obtained from the aliens to fight back and smash the Insectians."
+}

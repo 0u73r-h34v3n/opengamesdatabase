@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Inchworm Animation",
+	"publishers": ["Flat Black Films"],
+	"release_date": "April 25, 2011",
+	"serial_number": "KIWE",
+	"synopsis": "Inchworm Animation is a full-featured paint and animation system for the Nintendo DSi system. After five years in development, Inchworm Animation lets you create mind-blowing digital paintings and animations in the palm of your hand. Use the Nintendo DSi Camera to record video, stop-motion animation, and time-lapse photography. Paint with transparency and smooth antialiased brushes. Create images up to 9999x9999 pixels! An easy-to-use pattern editor lets you make cool repeating patterns for use in your artwork. Other tools include onion skin, 6-level zoom, cut/paste/rotate, undo, and shape primitives. Inchworm Animation's sophisticated layer system allows you to create structured animated scenes. Each layer can have its own independent frame loop. You can even draw on your animation as it plays! Comprehensive tutorials will show you the ropes. Export your finished masterpieces to an SD card as Flash (SWF) or BMP image sequences."
+}

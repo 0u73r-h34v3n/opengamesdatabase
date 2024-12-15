@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Lexis Numérique", "Virtual Toys"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Imagine Pet Vet",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 10, 2007",
+	"serial_number": "YPVP",
+	"synopsis": "Your dream has always been to start your own animal clinic, but little did you know that taking care of animals is only a small part of what you need to do to run a successful vet hospital."
+}

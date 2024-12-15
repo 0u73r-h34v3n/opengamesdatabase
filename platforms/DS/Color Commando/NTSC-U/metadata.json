@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Color Commando",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "April 25, 2013",
+	"serial_number": "KXFE",
+	"synopsis": "Color Commando is a new and very cool puzzle platform game. In this game you get to hunt for treasure! However, many evil color monsters are blocking your path! Pick up color blobs and try to outsmart the monsters! In each level, color monsters will block your path and try to grab you! So what can you do against this? Collect paint blobs that are spread out over the level. You can use a paint blob to paint a big paint-spot on the world. If a monster of the same color comes into contact with the paint-spot, the monster will dissolve into the spot. When this happens the monster cannot harm the player! There are 5 worlds, with each 4 normal levels and 1 star level. You can unlock the star level by getting all the treasure in the other 4 levels!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action", "Fighting"],
+	"locales": ["ES"],
+	"name": "Shrek:  Super Slam",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 18, 2005",
+	"serial_number": "AS3P",
+	"synopsis": "Grab four friends and have a Brawl! Play as one of 20 iconic characters from the popular movies."
+}

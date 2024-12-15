@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Endemol"],
+	"genres": ["Traditional", "Trivia"],
+	"locales": ["NL"],
+	"name": "10 voor Taal",
+	"publishers": ["Easy Interactive", "Foreign Media Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 30, 2009",
+	"serial_number": "CTPH",
+	"synopsis": "Wie haalt de hoogste score en krijgt een '10 voor taal'? In dit populaire spel staat de Nederlandse taal centraal. Dit is een ideale Nintendo DS-titel voor volwassenen. Behalve de spellen van de bekende tv-quiz bevat de game nog veel meer speltypen die optimaal gebruik maken van de DS."
+}

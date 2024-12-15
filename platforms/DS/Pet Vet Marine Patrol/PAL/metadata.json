@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sproing"],
+	"genres": ["Management Simulation", "Simulation", "Virtual Pet"],
+	"locales": ["DE", "ES"],
+	"name": "Pet Vet: Marine Patrol",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 24, 2010",
+	"serial_number": "VMEP",
+	"synopsis": "Animals are in danger and only you can help! Become a real veterinarian and travel to an animal clinic in northern Canada, where you can care for orcas, seals, dolphins, polar bears and many other baby animals."
+}

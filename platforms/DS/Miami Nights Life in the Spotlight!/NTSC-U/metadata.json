@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Simulation"],
+	"name": "Miami Nights: Life in the Spotlight!",
+	"publishers": ["Gameloft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "December 14, 2009",
+	"serial_number": "KMEE",
+	"synopsis": "You won’t find a more complete life simulation than Miami Nights: Life in the Spotlight! From choosing your physical appearance to decorating your home, from exploring the open environments to how much you’ll be able to interact with other characters, the game will bring you totally remarkable freedom of action. Find the path to becoming the star that you've always dreamed of being and live the life you've always wanted!"
+}

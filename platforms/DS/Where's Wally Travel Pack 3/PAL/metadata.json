@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Where's Wally? Travel Pack 3",
+	"publishers": ["Ludia"],
+	"release_date": "September 10, 2010",
+	"serial_number": "KO3V",
+	"synopsis": "Keep up the search for Wally, his friends and more in Travel Pack 3! Based on the hit publishing series, Where's Wally? The Fantastic Journey Travel Pack 3 is the ultimate SEARCH & FIND FUN inside the magical worlds of The Unfriendly Giants, The Underground Hunters and The Land of Waldos. Challenge friends or go solo as you search for hidden items, and be ready for surprises and sabotage to fuel the fun!"
+}

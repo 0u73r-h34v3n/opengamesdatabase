@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Osaka"],
+	"genres": ["Arcade", "Party"],
+	"locales": ["ES"],
+	"name": "The Smurfs 2",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 19, 2013",
+	"serial_number": "TR2P",
+	"synopsis": "Relive The Smurfs 2 movie on Nintendo DS in this interactive storybook! Play mini-games inspired by key moments from the movie, alongside the storybook - like Clumsy Kung-Fu, Super Storks, and Smurf-a-pult!"
+}

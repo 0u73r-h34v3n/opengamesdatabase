@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ltd.", "TECMO KOEI GAMES Co.", "The Pokémon Company"],
+	"genres": ["Action", "Strategy", "Turn-Based Strategy"],
+	"name": "Pokémon Conquest",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2012",
+	"serial_number": "VPYP",
+	"synopsis": "Pokémon Conquest on Nintendo DS offers a fun new way to play Pokémon in a unique world called Ransei, that's filled with adventure!"
+}

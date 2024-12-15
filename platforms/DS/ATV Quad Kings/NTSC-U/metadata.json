@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Enjoy Gaming"],
+	"genres": ["Racing"],
+	"name": "ATV: Quad Kings",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 19, 2014",
+	"serial_number": "K9UE",
+	"synopsis": "ATV Quad Kings immerses the player in the world of ATV motocross racing where aggressive driving and unparalleled skills both are needed to become the number one ATV champion. Compete in 18 high adrenaline races across 9 breathtaking locations. Perform daring tricks to increase your skills and earn cash to race the baddest bike on the track."
+}

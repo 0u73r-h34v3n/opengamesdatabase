@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Midway Studios San Diego"],
+	"genres": ["Cards", "Puzzle", "Trivia"],
+	"name": "TouchMaster",
+	"publishers": ["Midway Games", "Tradewest"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 6, 2007",
+	"serial_number": "AO8P",
+	"synopsis": "The wide variety of highly interactive mini-games made Midway's Touchmaster a favorite in bars and arcades across the country are will now be available whenever, wherever with Touchmaster DS."
+}

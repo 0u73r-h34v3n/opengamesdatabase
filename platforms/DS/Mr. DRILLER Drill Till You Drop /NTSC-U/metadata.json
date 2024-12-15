@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NAMCO BANDAI Games"],
+	"genres": ["Puzzle"],
+	"name": "Mr. DRILLER: Drill Till You Drop\t",
+	"publishers": ["NAMCO BANDAI Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 5, 2010",
+	"serial_number": "KDRE",
+	"synopsis": "Drill till you drop with the latest version of Mr. Driller exclusively for the Nintendo DSi! Featuring the classic addictive gameplay that the series is known for, Drill Till You Drop has three different game modes and over 40 stages of non-stop drilling action! Go underground with Mission mode and dig in various locales with deeper and more challenging goals, race against the clock to reach the goal in Time Attack mode or drill through a labyrinth of stones to collect the rare and precious Dristones in the Nintendo DSi-exclusive Dristone mode. Choose one of the six different drillers, drill through a seemingly endless onslaught of coloured blocks, avoid falling obstacles, and strategically manage your oxygen on the go!"
+}

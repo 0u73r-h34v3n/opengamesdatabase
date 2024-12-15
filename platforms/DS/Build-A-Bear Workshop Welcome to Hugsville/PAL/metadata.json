@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Game Factory"],
+	"genres": ["Life Simulation", "Simulation"],
+	"name": "Build-A-Bear Workshop: Welcome to Hugsville",
+	"publishers": ["The Game Factory"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 15, 2011",
+	"serial_number": "BIBP",
+	"synopsis": "Build-A-Bear Workshop: Welcome to Hugsville for Nintendo DS allows players to create a new friend, just like in the stores. Build-A-Bear Workshop mascots Bearemy and Pawlette Coufur guide players through eight different mini games, some of which allow players to construct their own Cub Condo or build their own vehicle."
+}

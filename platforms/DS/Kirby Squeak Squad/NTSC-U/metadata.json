@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Flagship", "HAL Laboratory"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Kirby Squeak Squad",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 4, 2006",
+	"serial_number": "AKWE",
+	"synopsis": "Someone has stolen Kirby's strawberry shortcake! Did King Dedede do it, or could it be The Squeaks: a band of intergalactic, thieving rodents?"
+}

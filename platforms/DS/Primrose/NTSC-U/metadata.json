@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Primrose",
+	"publishers": ["Sabarasa"],
+	"release_date": "July 12, 2010",
+	"serial_number": "K2RE",
+	"synopsis": "Just place pairs of tiles on a game grid and attempt to corral groups of tiles with pieces of a different color. Surrounded tiles disappear and surrounding tiles change colors, allowing chain effects to trigger combos for massive points. You can play long matches and try to keep up with increasing levels of difficulty, or just go all out on a huge single-move combo for millions of points."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Demo", "Health", "Simulation", "Virtual Pet"],
+	"name": "Nintendogs (Download-Relay Version)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 24, 2006",
+	"serial_number": "AD4P",
+	"synopsis": "Put a puppy inside your Nintendo DS! Pick a dog from a wide range of the most popular breeds, then care for and train it using the Touch Screen and microphone"
+}

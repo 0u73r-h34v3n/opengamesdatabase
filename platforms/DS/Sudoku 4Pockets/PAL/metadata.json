@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Sudoku 4Pockets",
+	"publishers": ["Limelight Software Ltd"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 12, 2010",
+	"serial_number": "K4FP",
+	"synopsis": "Sudoku 4Pockets offers you 3600 puzzles and Kiku your assistant will be there to guide you through each of the Beginner, Intermediate and Advanced Skill levels.The aim of Sudoku is to complete a grid of 9 x 9 squares with the numbers 1-9 in each square, row and column.As you play Kiku will guide you, she can tell you if you have entered an incorrect number, offer you hints and explain the moves and terms as you play.The simple to use number entry makes it easy to select numbers and add possible number candidates to aid your thought process.Whether you are new to Sudoku or an advanced player you can have fun playing and learning on your quest to be a Sudoku Master."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Coaching", "Demo", "Health", "Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Nintendogs (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 26, 2005",
+	"serial_number": "A36P",
+	"synopsis": "Put a puppy inside your Nintendo DS! Pick a dog from a wide range of the most popular breeds, then care for and train it using the Touch Screen and microphone."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Horse & Foal - My Riding Stables: Life with Horses",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 24, 2009",
+	"serial_number": "CG2P",
+	"synopsis": "The Riding Stables at Mill Creek are mere ruins, but you are about to change that: stables, riding hall and guesthouse are being renovated and guests will happily pay for their stay. Your earnings will help you to build a new breeding stable and soon cute little foals frolick on the pasture with their moms. Later you will train them and sell them to trustworthy customers. Other horse owners bring their horses to be massaged by your knowing hands. You also have your own horse, of course, which, if the two of you trained enough, you take to various cross country races. Let’s win the Cup and make your dream come true!"
+}

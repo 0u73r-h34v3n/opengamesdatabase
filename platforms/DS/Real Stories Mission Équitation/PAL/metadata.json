@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact Productions"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["FR"],
+	"name": "Real Stories: Mission Équitation",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2008",
+	"serial_number": "CMQF",
+	"synopsis": "Incarne Manon, l’héroïne au don extraordinaire pour dresser et monter les chevaux. A la recherche des origines d’un mystérieux Appaloosa, l’aventure permet notamment de découvrir l’équitation Western."
+}

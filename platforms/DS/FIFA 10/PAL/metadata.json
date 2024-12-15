@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Exient Entertainment"],
+	"genres": ["Football", "Sports"],
+	"name": "FIFA 10",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 1, 2009",
+	"serial_number": "BFAP",
+	"synopsis": "EA SPORTS FIFA 10 gives players new levels of control to experience the beautiful game like never before."
+}

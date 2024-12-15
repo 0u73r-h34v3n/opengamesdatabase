@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft", "Ubisoft"],
+	"genres": ["Action", "Arcade", "First-Person Shooter", "Shooter"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Brothers in Arms DS",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "June 6, 2007",
+	"serial_number": "AI8P",
+	"synopsis": "The greatest global conflict invades Nintendo DS and puts players in the heat of battle."
+}

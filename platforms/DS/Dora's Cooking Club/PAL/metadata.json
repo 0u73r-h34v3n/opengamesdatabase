@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["2K Play"],
+	"genres": ["Cooking", "Party", "Simulation"],
+	"locales": ["ES"],
+	"name": "Dora's Cooking Club",
+	"publishers": [
+		"GameTek",
+		"Global Star Software",
+		"Rockstar Games",
+		"Take-Two Interactive"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 19, 2010",
+	"serial_number": "BNUX",
+	"synopsis": "It's time to get cooking as Dora helps the Cooking Club get ready for the Favorite Foods Festival! Use math, matching, and of course your super cooking skills to follow the recipes and create a variety of delicious dishes!"
+}

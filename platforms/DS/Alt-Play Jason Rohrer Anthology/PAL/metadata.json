@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Alt-Play: Jason Rohrer Anthology",
+	"publishers": ["Sabarasa"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 31, 2010",
+	"serial_number": "KJRP",
+	"synopsis": "Alt-Play brings the best of independent gaming to Nintendo DSiWare, introducing players to some of the most unique experiences this medium has to offer. In this compilation, award-winning game auteur Jason Rohrer’s work comes to the Nintendo DSi, including three of his best games to date: Passage, Gravitation and Between. The deep themes contained and the manner in which they are presented in Rohrer’s work helps to blur the line between what we consider art and games, evoking thoughts and emotions rarely associated with gaming."
+}

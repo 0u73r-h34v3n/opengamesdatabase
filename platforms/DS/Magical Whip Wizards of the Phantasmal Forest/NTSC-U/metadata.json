@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Silver Star Japan"],
+	"genres": ["Action", "Adventure", "Arcade", "Platformer"],
+	"name": "Magical Whip: Wizards of the Phantasmal Forest",
+	"publishers": ["AGETEC"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 25, 2011",
+	"serial_number": "KWME",
+	"synopsis": "The two apprentice wizards have become lost amid a tangled sea of trees: the Phantasmal Forest, a dark, dangerous place ruled by monsters that bewitches people with its strange power. The wizards can only use a single spell – one that turns their wands into a magical whip! Defeat enemies and collect valuable items as you battle your way through the forest in this exciting action game. You can select either the male or female wizard, then use their magical whips to capture enemies and defeat them. Your magical whip doesn’t do much damage on its own, but with combos, it becomes a powerful weapon capable of defeating a mighty dragon with a single strike. Combos are performed by capturing a falling enemy with your magical whip and using it to attack other monsters. Can the wizards escape the evil forest before they become lost forever within its darkness? Features: - 50 haunting stages to battle and escape from - Master combos to increase magical power - Earn a high rank to unlock a hidden game mode - Discover and use items to your advantage"
+}

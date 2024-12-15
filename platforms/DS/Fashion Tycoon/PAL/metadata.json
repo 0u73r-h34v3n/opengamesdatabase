@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Fashion Tycoon",
+	"publishers": ["MSL"],
+	"release_date": "July 18, 2013",
+	"serial_number": "KU7P",
+	"synopsis": "Lilly was a dreamy girl, whose great ambition was to go to the fashion city of Paris and become a successful fashion designer. One day the Fashion Fairy appeared and granted Lilly the power to collect all the design inspirations of others to create fabulous fashion items, but on one condition: that she make it to Paris within 45 days!"
+}

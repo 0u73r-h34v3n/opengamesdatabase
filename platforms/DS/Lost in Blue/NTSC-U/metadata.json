@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Role-Playing"],
+	"name": "Lost in Blue",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "September 27, 2005",
+	"serial_number": "ASKE",
+	"synopsis": "A mysterious island; a disastrous accident; a fight for survival! Lost in Blue is a role playing game where you'll need to work hard just to stay alive."
+}

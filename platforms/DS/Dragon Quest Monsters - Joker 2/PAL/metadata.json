@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Role-Playing"],
+	"name": "Dragon Quest Monsters - Joker 2",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 7, 2011",
+	"serial_number": "CJRP",
+	"synopsis": "Dust off your scouting skills and prepare to battle hard to become the world’s greatest monster scout with Dragon Quest Monsters: Joker 2"
+}

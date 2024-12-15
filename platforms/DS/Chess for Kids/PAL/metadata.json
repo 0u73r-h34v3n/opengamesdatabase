@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mentor Interactive"],
+	"genres": ["Board Game", "Chess", "Strategy"],
+	"locales": ["ES"],
+	"name": "Chess for Kids",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 17, 2007",
+	"serial_number": "YQCP",
+	"synopsis": "Get ready for a fun and entertaining way to learn the world's most challenging game! Players can choose to lead the \"White Elephants\" or the \"Black Sheep\" clubs in an exciting adventure featuring challenging interactions and mini-games that teach and provide practice for all the different chess pieces and their special moves."
+}

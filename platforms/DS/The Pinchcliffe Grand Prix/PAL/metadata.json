@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Caprino Studios", "Ravn Studios"],
+	"genres": ["Arcade", "Puzzle"],
+	"locales": ["NO"],
+	"name": "The Pinchcliffe Grand Prix",
+	"publishers": ["Pan Vision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 26, 2010",
+	"serial_number": "BGPP",
+	"synopsis": "The top of Pinchcliffe is packed with fun activities and gameplay! One of the many activities is for you to help Sonny and Lambert find and win car parts to build Il Tempo Gigante. Once the car is ready, you get to drive this showstopper of a car or some of the other race cars in the one and only Pinchcliffe Grand Prix. Hidden around and about on the top of Pinchcliffe you can also find lots of mini-games - some of them are old favourites, while others are all-new challenges. With skill and practice you can also win bronze, silver and gold medals. These give you car parts for Il Tempo Gigante."
+}

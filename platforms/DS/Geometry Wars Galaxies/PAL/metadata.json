@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Kuji Entertainment"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES"],
+	"name": "Geometry Wars: Galaxies",
+	"publishers": [
+		"Sierra Entertainment",
+		"Universal Interactive Studios",
+		"Vivendi Games"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 18, 2008",
+	"serial_number": "YGLP",
+	"synopsis": "Blast-off on a mission to save the galaxy in turbo-charged DS adventure Geometry Wars: Galaxies."
+}

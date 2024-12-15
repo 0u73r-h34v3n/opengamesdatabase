@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "Rayman - Raving Rabbids",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 29, 2007",
+	"serial_number": "AR5P",
+	"synopsis": "A long time ago, the Rabbids were friendly and gentle; so much so that they were tormented by the nastier creatures of Rayman's world. One day, the Rabbids disappeared and were never heard from again...until now."
+}

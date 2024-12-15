@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Brain Toys"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Purr Pals",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 10, 2007",
+	"serial_number": "AQ9X",
+	"synopsis": "Choose your favorite breed of kitten, give it a name, feed it and play with it, all through the easy-to-use Nintendo DS interface. Your kitten will even respond to your voice, and interact with the environment you provide. Earn an allowance to buy cute accessories and toys for your pet."
+}

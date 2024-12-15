@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Arcade", "Strategy"],
+	"name": "1950s Lawn Mower Kids",
+	"publishers": ["Zordix AB"],
+	"release_date": "November 3, 2011",
+	"serial_number": "K95E",
+	"synopsis": "Your mission is to mow lawns while avoiding dogs, ducks, cats and people like grumpy old Joe in a beautiful suburban 1950s American setting. Control time and speed with Mr. Mowman's mysterious contraptions and lead the kids Tom, Nancy and Tim out of danger. Avoid mowing down intricate flowerbeds, crashing into well-laid tables and angry animals. The key to success is keeping all three kids moving and to use the abilities of each kid to your advantage. Remember, ill-tempered old Joe will keep an eye out for sloppy children that mow down his flowers!"
+}

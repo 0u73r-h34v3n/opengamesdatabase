@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Karaoke", "Music"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Jam with the Band",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 21, 2010",
+	"serial_number": "UXBP",
+	"synopsis": "If you're a music lover then the unique new game Jam with the Band will help transform your Nintendo DS into a fun, portable music maker allowing you to get creative with your friends. Program your own version of famous songs and share them with other players. Or jam to a collection of popular songs from a constantly expanding song list. If you're after a unique gameplay experience then be sure to turn up the volume and Jam with the Band!"
+}

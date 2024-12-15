@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Platformer"],
+	"name": "JellyCar 2",
+	"publishers": ["Disney Interactive"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 7, 2011",
+	"serial_number": "KJYE",
+	"synopsis": "Post high scores, best times and longest jumps in the Hall of Fame. With so much squishy goodness, you'll want to drive JellyCar 2 all around town. In Classic mode, drive your squishy car and use your special abilities to drive through squishy worlds. In Factory mode, guide the falling parts into matching chutes, tap the levers to open different pathways and guide each part down the conveyor belts. In Long Jump mode, you're going for distance and speed - watch out for objects that can slow you down, and look for objects that can help give you a boost!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Puzzle"],
+	"locales": ["ES"],
+	"name": "Tetris DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 21, 2006",
+	"serial_number": "ATRP",
+	"synopsis": "Tetris is one of the most popular puzzle games in the world, easy to learn, easy to play and endlessly fun. And now the king of block rain is back!"
+}

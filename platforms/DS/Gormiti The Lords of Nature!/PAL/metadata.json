@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Climax Studios"],
+	"genres": ["Action", "Adventure", "Fantasy"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Gormiti: The Lords of Nature!",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 28, 2010",
+	"serial_number": "BGMP",
+	"synopsis": "The Gormiti universe comes to life in this exciting action adventure! Enter the magical Gorm dimension and join Nick, Toby, Lucas and Jessica, who will transform into the Lords of Nature to save planet Earth and stop the evil Lord of Evil: Magmion."
+}

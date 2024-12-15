@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Model Academy",
+	"publishers": ["Tivola"],
+	"release_date": "February 11, 2011",
+	"serial_number": "K8MP",
+	"synopsis": "You play to advance from being the girl next door to a popular top model. Your agent Nick will keep presenting you with new challenges, which you have to overcome. You'll be travelling around the world, getting to know many influential people. You don't just have to prove your taste in choosing your outfits, but also your skill on the catwalk and your speed during photoshoots. Regular fitness training and beauty treatments will let you shine when facing your clients."
+}

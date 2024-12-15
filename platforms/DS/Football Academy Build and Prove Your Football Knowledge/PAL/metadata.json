@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Canada", "EA Sports"],
+	"genres": ["Cards", "Football", "Sports", "Trivia"],
+	"name": "Football Academy: Build and Prove Your Football Knowledge",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 19, 2009",
+	"serial_number": "CFHP",
+	"synopsis": "Join the EA SPORTS™ Football Academy to build and prove your knowledge of the world’s most popular sport, in a unique fun packed interactive football game that covers all areas of the game on and off the pitch."
+}

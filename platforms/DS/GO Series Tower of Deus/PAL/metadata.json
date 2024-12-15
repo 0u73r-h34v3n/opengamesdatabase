@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOM CREATE"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "GO Series Tower of Deus",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 22, 2011",
+	"serial_number": "KT8P",
+	"synopsis": "GO Series presents Tower of Deus from Tom Create. Overcome a deadly curse as you race to the top of the tower in this dark, atmospheric, 2D platform game. The only way to release the curse is to run, jump and fly your way to the top of the dreaded tower before the time runs out. There are 40 eerie levels with 10 types of gothic-style graphics, not for the easily scared or faint hearted."
+}

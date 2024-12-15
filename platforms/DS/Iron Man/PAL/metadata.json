@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Iron Man",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 2, 2008",
+	"serial_number": "YIMP",
+	"synopsis": "Dive into all the unrestrained action of the film! You can travel to any point on the map, customise your armour, and seamlessly switch from ground combat to aerial battles against fighters, tanks, or special enemies. You are your own army; you are Iron Man."
+}

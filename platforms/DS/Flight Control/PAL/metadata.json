@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firemint"],
+	"genres": ["Simulation"],
+	"name": "Flight Control",
+	"publishers": ["Firemint"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 19, 2010",
+	"serial_number": "KFIV",
+	"synopsis": "In this action-packed game, you will take on the role of an air traffic controller at an increasingly busy airport. In complete control of the airspace, you must direct aircraft to their appropriate landing zones while avoiding collisions. You’ll travel to airports set among green fields, a beachside resort, the Australian Outback, a winter wonderland and even an aircraft carrier. Learn how to land ten different kinds of aircraft, including jets, seaplanes and helicopters. To direct aircraft, simply touch and drag them to their landing zones with the stylus without letting them collide. Sounds easy? As planes begin to arrive thick and fast, you’ll need smart strategy, keen eyes and a smooth touch to keep the chaos under control! You can even work alongside a friend in cooperative multiplayer mode, and guard the airways together. Thanks to an in-game tutorial, Flight Control only takes a minute to learn – just don’t expect to put it down as quickly as you’ll pick it up!"
+}

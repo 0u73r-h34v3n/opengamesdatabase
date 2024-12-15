@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Delbo",
+	"synopsis": "Delbo es un juego de puzles donde el jugador dispara desde la parte inferior de la pantalla contra los orbes que caen desde la parte superior. Cuando el color de los orbes que caen sea el mismo que el del orbe lanzado, se conectarán y desaparecerán. Es fácil de jugar, pero muy difícil de dominar."
+}

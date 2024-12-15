@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ambrella", "Nintendo"],
+	"genres": ["Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Pokémon Dash",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "APDP",
+	"synopsis": "Faster than a speeding Latios, here comes Pikachu! The Pokémon Dash Grand Prix is taking place across the Pokémon Islands, and there’s one yellow Pokémon determined to take the top prize!"
+}

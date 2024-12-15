@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Entertainment"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rayman",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 25, 2009",
+	"serial_number": "KRMV",
+	"synopsis": "The Legendary first RAYMAN adventure is now on DSi Ware. Play as RAYMAN and try to save his amazing world from the evil Mr Dark! Discover a charming universe with colourful landscapes and meet funny characters who will help RAYMAN through his quest! Experiment with his abilities as you punch, hang or fly through the air. Take advantage of the new DSi features of the DSi photos and touch map selection! Please note that elements of this software may have been featured in previously released software."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"name": "Pokémon Diamond Version",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2007",
+	"serial_number": "ADAP",
+	"synopsis": "Exclusively on Nintendo DS, the new generation of Pokémon is taking the world by storm in Pokémon Diamond and Pokémon Pearl!"
+}

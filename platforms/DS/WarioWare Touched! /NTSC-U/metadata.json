@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inteligente Systems"],
+	"genres": ["Action", "Party"],
+	"name": "WarioWare: Touched! ",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 14, 2005",
+	"serial_number": "AZWE",
+	"synopsis": "Wario makes his debut on the Nintendo DS with hundreds of all-new minigames. Now you must complete your goals by using the touch screen and a stylus."
+}

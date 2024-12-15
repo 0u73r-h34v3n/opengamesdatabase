@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward"],
+	"genres": ["Life Simulation", "Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Shrek: Ogritos y Drasnos",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "YQ3S",
+	"synopsis": "¡Entrena a tu ogrito y a tu drasno para la aventura de sus vidas!"
+}

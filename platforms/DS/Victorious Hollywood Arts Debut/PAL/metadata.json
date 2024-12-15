@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Behaviour Interactive"],
+	"genres": ["Music", "Simulation"],
+	"name": "Victorious: Hollywood Arts Debut",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 10, 2012",
+	"serial_number": "B6EP",
+	"synopsis": "It's your time to shine with Tori Vega and friends as you complete challenges, collect items from the show, and develop your talents as a member of Hollywood Arts!"
+}

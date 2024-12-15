@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virgin Play"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "The Boarding School Black Lagoon",
+	"publishers": ["Virgin Play"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 14, 2009",
+	"serial_number": "BOAP",
+	"synopsis": "The Boarding School Black Lagoon is the official video game of the successful A3 series of the same name. The Boarding School is an elitist and secluded place where students, teachers and service staff mingle with the same greatness and the same miseries as a large family, but things are not always what they seem and The Boarding House keeps dark and ancient secrets."
+}

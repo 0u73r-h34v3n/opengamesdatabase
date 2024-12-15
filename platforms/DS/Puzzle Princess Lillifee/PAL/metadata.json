@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Puzzle"],
+	"locales": ["DE"],
+	"name": "Puzzle: Princess Lillifee",
+	"publishers": ["Tivola"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 24, 2007",
+	"serial_number": "BZLP",
+	"synopsis": "Under the motto \"Puzzle to go!\", the player can put together a new puzzle anywhere and whenever they want, or continue with one they have already started."
+}

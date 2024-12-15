@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Alex Rider - Stormbreaker",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "15"
+		}
+	],
+	"release_date": "July 7, 2006",
+	"serial_number": "ALXP",
+	"synopsis": "The schoolboy hero of Anthony Horowitz’s best-selling novels - and now a blockbuster movie - is about to arrive on a handheld near you!"
+}

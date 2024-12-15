@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Adventure"],
+	"name": "Agatha Christie: The ABC Murders",
+	"publishers": ["DreamCatcher Interactive", "The Adventure Company"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 20, 2009",
+	"serial_number": "BAGP",
+	"synopsis": "Agatha Christie's A.B.C Murders tells the story of Captain Hastings and Hercule Poirot as they attempt to solve a series of bizarre murders committed by an elusive madman. Going off the simple clue of the A.B.C railway guide left at the scene of each crime, Hastings and Poirot follow the leads to Andover, Bexhill, Churston, and Doncaster trying to apprehend the killer before the next crime is committed."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Little Red Riding Hood's Zombie BBQ",
+	"publishers": ["Gammick Entertainment"],
+	"release_date": "December 13, 2010",
+	"serial_number": "KZBE",
+	"synopsis": "Can you save Fairytale Land or will you let its creatures live unhappily-ever-after? Little Red Riding Hood's Zombie BBQ is a fun shooter where you have to move forward by shooting down every living (or dying) creature in your path! Use the great arsenal of weapons at your disposal to do away with the savage hoards of zombies."
+}

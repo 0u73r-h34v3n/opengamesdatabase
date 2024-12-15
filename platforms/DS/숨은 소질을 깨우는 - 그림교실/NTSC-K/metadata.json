@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational", "Simulation"],
+	"name": "숨은 소질을 깨우는 - 그림교실",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "October 14, 2010",
+	"serial_number": "VAAK",
+	"synopsis": "Art Academy: Learn painting and drawing techniques with step-by-step training for Nintendo DS is an accessible, portable art course for everyone which is packed with creative and fun ways to improve and enhance your artistic skills."
+}

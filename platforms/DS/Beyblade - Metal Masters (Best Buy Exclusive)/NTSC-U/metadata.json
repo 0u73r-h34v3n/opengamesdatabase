@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amble"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"name": "Beyblade - Metal Masters (Best Buy Exclusive)",
+	"publishers": ["Hudson Soft"],
+	"release_date": "January 1, 2011",
+	"serial_number": "BRZW",
+	"synopsis": "Players can let rip with single-player fun or duel with friends in this spinning top combat game for Nintendo DS."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Educational", "Puzzle"],
+	"name": "Puzzler World 2011",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 15, 2010",
+	"serial_number": "BVEP",
+	"synopsis": "Puzzler returns to the Nintendo DS with a brand-new edition for 2011 – featuring over 1200 all-new puzzles and amazing bonus games that all the family can enjoy!"
+}

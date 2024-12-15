@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Halfbrick Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "IT"],
+	"name": "Marvel Super Hero Squad",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 1, 2009",
+	"serial_number": "BMUY",
+	"synopsis": "Take control of your favourite Marvel Super Heroes and Super Villains and unleash their special moves and customised combo attacks in multi-player Adventure and Battle Modes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Action", "Adventure", "Demo", "Platformer"],
+	"locales": ["ES"],
+	"name": "Yoshi's Island DS (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 5, 2007",
+	"serial_number": "Y28P",
+	"synopsis": "Return to Yoshi’s Island for an original adventure in the spirit of the Super NES classic."
+}

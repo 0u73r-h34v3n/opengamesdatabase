@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ball Fighter",
+	"synopsis": "Ball Fighter is a puzzle game where you take aim and blast groups of dropping spheres to create matches and clear the board. You can make chains to receive additional points or to make a game more difficult for an opponent. When you destroy spheres in multi-player mode, they will be added to the opponent’s board making his task more difficult. On a board you can find special bonuses like a Brush, a Rocket Launcher or a Bomb which can be used to destroy spheres or to paint a line of them with the same colour. You can also try a variety of Single-player modes (Arcade, Survival, Brain Breaker, Player vs CPU) as well as the unique Multi-player mode played on one Nintendo DSi console!"
+}

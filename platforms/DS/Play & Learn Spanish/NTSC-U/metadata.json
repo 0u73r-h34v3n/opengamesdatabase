@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Play & Learn Spanish",
+	"publishers": ["Selectsoft"],
+	"release_date": "August 4, 2011",
+	"serial_number": "KFQE",
+	"synopsis": "Play & Learn Spanish is the fast, fun, and friendly way to learn to speak Spanish! Get ready for an exciting and entertaining challenge as you match the pictures to the words you hear, and see how high you can score. You’ll be surprised by how much Spanish you’ve learned while you play! Over 700 words and phrases with entertaining visuals help you learn quickly and speak with confidence. Listen to and speak aloud Spanish words and phrases while you explore settings such as the supermarket, restaurant, and city streets. Play & Learn Spanish is easy and effective for beginners and travelers and a fun refresher for advanced and intermediate speakers!"
+}

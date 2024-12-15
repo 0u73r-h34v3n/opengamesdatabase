@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skip Ltd."],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Art Style: PiCOPiCT",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 22, 2009",
+	"serial_number": "KAPV",
+	"synopsis": "The Art Style series brings you unique, simple-to-play games with striking visuals and immersive sound. In PiCOPiCT, puzzle your way through a colourful, retro-themed game with charming NES-era graphics and sounds. Build up pixel pictures of classic Nintendo characters on the Top Screen by clearing the blocks that fall onto the Touch Screen. Just use the stylus to place blocks of a matching colour in the path of the falling blocks. Earn coins as you play, to unlock new classic Nintendo character-themed stages (including Super Mario Bros., The Legend of Zelda and more) and remixed music arranged by renowned Japanese 'chiptune' band YMCK."
+}

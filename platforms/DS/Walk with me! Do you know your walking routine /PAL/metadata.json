@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Creatures Inc.", "Nintendo SPD"],
+	"genres": ["Exercise", "Fitness", "Health", "Life Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Walk with me! Do you know your walking routine?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 4, 2009",
+	"serial_number": "IMWP",
+	"synopsis": "Step into a healthier lifestyle with Walk with me! Do you know your walking routine? on Nintendo DS. Walk with me! comes with two very special Activity Meter pedometers that can help you work out if your activity rhythm is up to scratch and provides valuable insight on how to set up a regular routine – the healthiest way to live."
+}

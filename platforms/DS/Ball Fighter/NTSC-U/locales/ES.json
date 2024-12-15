@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ball Fighter",
+	"synopsis": "Ball Fighter es un juego apasionante que consiste en hacer puntería y destruir las bolas del mismo color para que vayan desapareciendo de la pantalla. Debes evitar que las bolas que caen llenen la pantalla por completo. Puedes unir las bolas formando cadenas para conseguir puntos adicionales o complicar el juego al adversario. En el modo de juego multi-jugador, las bolas que vayas destruyendo se irán acumulando en la pantalla del adversario complicándole el juego. En la pantalla encontrarás bonos especiales como bombas, cohetes o brochas que te ayudarán a destruir la bolas o a pintar una cadena de ellas con el mismo color. ¡Prueba también otros modos de juego (Arcade, Survival, Brain Breaker, jugador contra el ordenador) para un jugador o en el único modo de Multi-jugador para dos jugadores en una misma consola Nintendo DSi!"
+}

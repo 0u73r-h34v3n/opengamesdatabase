@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Magic Pockets"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Imagine Teacher",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 12, 2008",
+	"serial_number": "CITE",
+	"synopsis": "Play as if you were a young teacher who must teach in a fantastic new school that has just been built. Teach your students to do their best and take control of your school! At first you will only have a few children to teach until you advance. Be a good teacher and make them have fun while they learn and little by little you will make your school full of children. But be careful, some of the children are very disobedient!"
+}

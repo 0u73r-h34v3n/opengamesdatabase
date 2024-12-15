@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Sokomania",
+	"publishers": ["Cinemax"],
+	"release_date": "May 3, 2010",
+	"serial_number": "KSOE",
+	"synopsis": "The game is a variation on a warehouse keeper theme. There are several crates placed on the playing area. The player controls a figure that can push the crates forward. The aim is to get all the crates on the places designated. The player selects the episode he wishes to play and the level he wishes to start at. Only the levels already finished (highlighted in green) and the first unfinished level in each episode are accessible. By repeating already finished levels the player may try to finish them with fewer crate movements. But be warned, those movements are added to the total movement number of the actual game, so for the best (i.e. the lowest) number of movements it’s advisable to finish the game in one run."
+}

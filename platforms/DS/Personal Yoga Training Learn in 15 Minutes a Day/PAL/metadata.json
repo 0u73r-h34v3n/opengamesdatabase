@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MOSS"],
+	"genres": ["Coaching", "Exercise", "Fitness", "Health"],
+	"locales": ["ES"],
+	"name": "Personal Yoga Training: Learn in 15 Minutes a Day",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 29, 2008",
+	"serial_number": "YGCP",
+	"synopsis": "Do you need to exercise specific areas to stay in shape? Do you need to get rid of a discomfort in your back? Do you need to just... relax? You can expect great effects from practicing yoga but it is often difficult to choose the posture that works best for you. By noting your goal, physical condition and practice time in this software, Personal Yoga Training will guide you in the appropriate pose for you among 200 types of postures, combining muscular effects, and calculating calorie consumption in the necessary time."
+}

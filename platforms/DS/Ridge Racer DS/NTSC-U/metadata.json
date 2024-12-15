@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NST"],
+	"genres": ["Racing"],
+	"name": "Ridge Racer DS",
+	"publishers": ["Namco"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 7, 2004",
+	"serial_number": "ARRE",
+	"synopsis": "Power-sliding packs a whole new thrill when you're pulling skids via the Touch Screen! Welcome to Ridge Racer DS, the classic arcade racer expertly reassembled for maximum dual screen drama."
+}

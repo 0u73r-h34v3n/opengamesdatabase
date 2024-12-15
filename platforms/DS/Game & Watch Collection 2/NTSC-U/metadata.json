@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Compilation"],
+	"name": "Game & Watch Collection 2",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 31, 2010",
+	"serial_number": "CGWE",
+	"synopsis": "Includes three Game & Watch titles, including Octopus and Parachute, originally released in 1981, and Parachute X Octopus, a brand new Game & Watch title that combines both Octopus and Parachute and takes place in the sea."
+}

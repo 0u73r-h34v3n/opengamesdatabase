@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "New International Track & Field",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "July 24, 2008",
+	"serial_number": "AFEK",
+	"synopsis": "Break out your comb, pen or whatever device you use to mash buttons because Track & Field is back!"
+}

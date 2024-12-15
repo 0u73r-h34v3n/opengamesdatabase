@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["DE"],
+	"name": "Ghost Trick: Phantom Detective",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "January 14, 2011",
+	"serial_number": "BGTP",
+	"synopsis": "Ghost Trick Phantom Detective is a puzzle game for Nintendo DS by Capcom. From Takumi, the mind behind the Ace Attorney series, there's kooky humour, an intriguing ghost story and hours of brainteasers to solve. Try the Ghost Trick demo at our website!"
+}

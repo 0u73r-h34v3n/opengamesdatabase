@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Castlevania: Portrait of Ruin",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "February 1, 2007",
+	"serial_number": "ACBP",
+	"synopsis": "From the makers of the acclaimed Dawn of Sorrow comes a brand new Castlevania adventure for Nintendo DS in which you take control of two new characters in a thrilling undead-slashing adventure set in World War II."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artefacts Studio"],
+	"genres": ["Trivia"],
+	"name": "Deal or No Deal: The Official Nintendo DS Game",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2007",
+	"serial_number": "YLAP",
+	"synopsis": "Play the game that has the nation hooked! Beautiful Models, a mysterious Banker and of course, Howie! The rules are simple. Choose a briefcase and then play a game of nerves with the infamous Banker."
+}

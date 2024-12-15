@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gamerholix"],
+	"genres": ["Educational", "Puzzle"],
+	"name": "Clever Kids: Pirates",
+	"publishers": ["Midas Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 7, 2008",
+	"serial_number": "CLKP",
+	"synopsis": "It's time to join Sprocket the Robot and sail the seven seas with treacherous and devious Pirates - shiver me timbers! Climb aboard the greatest Pirate ships of them all and go on adventures to find out what life on the seas was all about. Learn the Pirate code, identify famous Pirates and their flags, learn what Pirates ate and find out all about the dangers of combat and disease."
+}

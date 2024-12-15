@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing", "Strategy"],
+	"name": "Castle Conqueror - Heroes 2",
+	"publishers": ["CIRCLE Ent."],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "December 20, 2012",
+	"serial_number": "KXCE",
+	"synopsis": "Do you remember the war two years ago? This beautiful star was a breathtaking green planet thriving with life, before it was devastated by the Empire's army. The inhabitants refused to remain silent any longer, so they rose up and fought back. After they won a victorious battle over the Imperial army, a new government rose to maintain peace and the army left the planet. Game Features: - New heroes join the war, learn new abilities and complete bonus missions to gain new equipment, with an all-new story - More soldiers and vehicles armed with a variety of weapons"
+}

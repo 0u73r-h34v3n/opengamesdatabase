@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Blue Byte"],
+	"genres": ["Management Simulation", "Simulation", "Strategy"],
+	"locales": ["ES"],
+	"name": "The Settlers DS",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 1, 2007",
+	"serial_number": "AUZP",
+	"synopsis": "The Settlers - the acclaimed PC 'civilisation sim' - comes to Nintendo DS in an updated version of the franchise that sold 3.5 million copies worldwide."
+}

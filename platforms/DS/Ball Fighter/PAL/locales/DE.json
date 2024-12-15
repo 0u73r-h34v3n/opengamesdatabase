@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ball Fighter",
+	"synopsis": "Ball Fighter ist ein spannendes Spiel, bei dem du die Aufgabe erhältst, gleichfarbige Kugeln zu erwischen, um den Bildschirm leerzuräumen. Du musst es schaffen, bevor die fallenden Kugeln das ganze Spielfeld gefüllt haben. Dank des schnellen C-Klick der Kugelschlangen kannst du zusätzliche Punkte erhalten und dem Gegner das Spiel erschweren. Im Mehrspieler-Modus werden die zerstörten Kugeln dem Gegner zugeschoben. Auf dem Spielfeld findest du auch spezielle Boni, wie Bomben, Raketen oder Pinsel, die entweder die Kugeln zerstören oder einer ganzen Reihe von ihnen die gleiche Farbe verpassen. Stell dich einer der vielen Optionen des Spiels (Arcade, Survival, Brain Breaker, Spieler vs. Computer) im Einzelspieler-Modus und im einzigartigen Mehrspieler-Modus für zwei Spieler. Deutscher Bildschirmtext."
+}

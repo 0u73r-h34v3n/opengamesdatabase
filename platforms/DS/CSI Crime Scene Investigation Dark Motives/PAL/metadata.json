@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Powerhead Games"],
+	"genres": ["Adventure", "Point-And-Click"],
+	"locales": ["ES"],
+	"name": "CSI: Crime Scene Investigation: Dark Motives",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 2, 2007",
+	"serial_number": "YDMP",
+	"synopsis": "Every criminal leaves a little clue behind him... A fingerprint, a small bite mark... No crime is perfect, and you must find the mistake!!"
+}

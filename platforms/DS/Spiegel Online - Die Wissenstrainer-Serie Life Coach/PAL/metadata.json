@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Games Company"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Spiegel Online - Die Wissenstrainer-Serie: Life Coach",
+	"publishers": ["The Games Company"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 10, 2009",
+	"serial_number": "BY4D",
+	"synopsis": "SPIEGEL ONLINE – Life Coach sagt dem Stress den Kampf an und verhilft zur perfekten Balance zwischen Privatleben und Beruf. Meistern Sie Alltagsprobleme und starten Sie mit neuer Energie durch! Mit perfekt aufeinander abgestimmten Trainingsprogrammen aus verschiedenen Themenbereichen wie Schönheit & Pflege, Knigge, Ernährung und Freizeit zeigt dieser digitale Ratgeber, wie man die perfekte „Work-Life-Balance“ findet und typische Alltagsprobleme spielerisch meistert. Und wer eine komplette Spielrunde fehlerfrei schafft, dem winken besondere Belohnungen!"
+}

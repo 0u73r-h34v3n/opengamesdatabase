@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Puzzler World 2013",
+	"publishers": ["Maximum Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 23, 2013",
+	"serial_number": "KYGE",
+	"synopsis": "Work through over 1200 puzzles in 27 different categories. Challenge your skills with Wordsearch, Takegaki, Fitword, Sudoku, Pathfinder, Spot the Difference, Codeword, Sum People, Backwords, Link-A-Pix, and Split Words puzzles, to name a few! Play Challenge Mode to unlock Master Mode puzzles for even more games and brain-bending challenges. This is the ultimate compilation for puzzle lovers everywhere!"
+}

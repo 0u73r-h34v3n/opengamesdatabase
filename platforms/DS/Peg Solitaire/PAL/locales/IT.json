@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Peg Solitaire",
+	"synopsis": "Peg Solitaire è un gioco da tavolo per un solo giocatore. Lo scopo è spostare i pioli strategicamente su di un tavolo da gioco a forma di croce con 33 fori; in alcuni casi, si usano invece delle biglie collocate in piccole rientranze. In Italia il gioco è conosciuto come Peg Solitaire, mentre il gioco di carte si chiama solitario. Difficoltà: il gioco comprende più livelli di difficoltà, in modo da consentire un approccio progressivo alle diverse tecniche. •Tutoriale (9 livelli) •Facile (9 livelli) •Intermedio (9 livelli) •Difficile (9 livelli) •Avanzato (5 livelli) Il testo all'interno del gioco è in inglese."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Kiloo"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"name": "Zoonies - Escape from Makatu",
+	"publishers": ["Kiloo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 29, 2011",
+	"serial_number": "KZSV",
+	"synopsis": "Join the exciting adventures of Leo the tiny lion as his Sunday afternoon flight suddenly ends with a spear through his engine! Evil shaman Makatu and his savage tribe of Tuba warriors chase Leo to trap him forever. Only YOU can help him find his way back to friends and family. Solve puzzles and defeat enemies in this unique and original puzzle platformer. Most importantly: Keep Running!"
+}

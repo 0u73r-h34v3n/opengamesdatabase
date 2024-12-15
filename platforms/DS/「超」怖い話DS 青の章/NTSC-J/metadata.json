@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Alchemist"],
+	"genres": ["Adventure", "Horror"],
+	"locales": ["JA"],
+	"name": "「超」怖い話DS 青の章",
+	"publishers": ["Alchemist"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "August 5, 2010",
+	"serial_number": "BKAJ",
+	"synopsis": "Due to his many terrifying experiences, the series has sold over 1 million copies. The popular series \"Super Scary Stories\", which has been released in TV versions, online cinemas, and theaters, will be released on the Nintendo DS. \"Super Scary Stories\" is a ghost story adventure novel. As you travel around Tokyo with Yumeaki Hirayama, who is also the original author of the series, you will hear stories of strange phenomena from various people. At the climax of the scenario, we use graphics and sound to create a sense of tension and realism that is unique to ghost stories."
+}

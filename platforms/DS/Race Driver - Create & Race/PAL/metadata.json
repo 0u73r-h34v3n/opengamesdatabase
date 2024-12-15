@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Racing"],
+	"name": "Race Driver - Create & Race",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 1, 2007",
+	"serial_number": "A3WP",
+	"synopsis": "Get behind the wheel and take total control of a racing game with a difference! Race Driver: Create and Race puts you firmly in the driving seat; allowing you to design your dream race circuit then burn it up in one of over 20 super cars."
+}

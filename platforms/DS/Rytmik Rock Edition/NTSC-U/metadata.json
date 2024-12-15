@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rytmik Rock Edition",
+	"publishers": ["Cinemax"],
+	"release_date": "December 6, 2010",
+	"serial_number": "KRQE",
+	"synopsis": "Rytmik Rock Edition is an application for creating rhythmical and melodic themes and for composing whole songs. It contains more than 130 carefully selected sound samples of drums, keyboards, bass, clean, lead and rhythm guitars. With Rytmik Rock Edition you can quickly and easily create the basic building stone—an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library and varied collection of 10 pre-made compositions at your disposal that you may quickly compose your own pieces from. For the best musical experience we recommend connecting headphones or quality speaker system. You’ll become the king of the Rock party in no time..."
+}

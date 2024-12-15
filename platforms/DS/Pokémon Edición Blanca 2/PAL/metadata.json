@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Adventure", "Fantasy", "Role-Playing", "Strategy"],
+	"locales": ["ES"],
+	"name": "Pokémon Edición Blanca 2",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 12, 2012",
+	"serial_number": "IRDS",
+	"synopsis": "Sumérgete en el mundo de Pokémon como nunca con Pokémon Edición Blanca 2 para Nintendo DS."
+}

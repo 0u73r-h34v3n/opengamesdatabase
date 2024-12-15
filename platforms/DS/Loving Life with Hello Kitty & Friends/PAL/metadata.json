@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Party"],
+	"name": "Loving Life with Hello Kitty & Friends",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 17, 2011",
+	"serial_number": "B3YP",
+	"synopsis": "Hello Kitty is back on Nintendo DS! In Loving Life with Hello Kitty &amp; Friends from Idea Factory and Rising Star Games, players can help out and play games with all of Hello Kitty’s buddies, do jobs, and buy lovely new outfits too!"
+}

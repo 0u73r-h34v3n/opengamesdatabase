@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Petz Dog Superstar",
+	"publishers": ["Ubisoft"],
+	"release_date": "October 1, 2010",
+	"serial_number": "KP2V",
+	"synopsis": "There’s a whole family of dogs you can adopt and love! Take care of them, discover their unique personalities, and teach them fun tricks! • Choose from favourite breeds like Golden Retrievers and Labradors. • Give your dogs the best care: feed them, groom them, and discover their individual personalities— will they be shy or fun to play with? • Engage in fun activities with your pups including Frisbee and obstacle courses to turn them into talented dogs! Please note that elements of this software may have been featured in previously released software."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LucasArts"],
+	"genres": ["Action", "Adventure"],
+	"name": "Star Wars: The Clone Wars - Republic Heroes",
+	"publishers": ["LucasArts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 9, 2009",
+	"serial_number": "BW9P",
+	"synopsis": "Live the Clone Wars and play as your favorite Jedi and Clone Trooper in the brand-new story of Star Wars The Clone Wars: Republic Heroes. Leap and slice your way through enemy lines with the acrobatic power of a Jedi. Wield an arsenal of elite Clone Trooper weapons-from rocket launchers to thermal detonators. Fight alongside your friend on any mission, at any time with drop-in/drop-out co-op gameplay."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Republic"],
+	"genres": ["Action", "Beat 'Em Up", "Fighting"],
+	"locales": ["DE", "ES"],
+	"name": "Dragon Ball: Origins",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "December 5, 2008",
+	"serial_number": "CDZP",
+	"synopsis": "Dragon Ball: Origins pulls no punches in terms of graphics with both screens displaying vibrant 3D visuals, and with the lively, fun humour of Dragon Ball present throughout the game, fans will be able to immerse themselves completely in the spectacular universe."
+}

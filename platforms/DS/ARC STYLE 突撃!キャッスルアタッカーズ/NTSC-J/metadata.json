@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ARC STYLE: 突撃!キャッスルアタッカーズ",
+	"publishers": ["アークシステムワークス"],
+	"release_date": "November 17, 2010",
+	"serial_number": "KCNJ"
+}

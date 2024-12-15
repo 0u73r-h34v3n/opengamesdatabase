@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Educational"],
+	"name": "매일매일 더욱더! - DS 두뇌 트레이닝",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "August 2, 2008",
+	"serial_number": "ANMK",
+	"synopsis": "Making use of the DS Touch Screen, both Brain Training titles call on you to get your grey matter in gear by completing fun challenges that test your mental awareness and memory."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts Montreal"],
+	"genres": ["Music", "Party"],
+	"locales": ["ES"],
+	"name": "Boogie",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "YBOP",
+	"synopsis": "Strut your stuff in the funkiest rhythm game ever to take the dance floor. Boogie on DS invites you to get your groove on to some of the hottest hits in disco history as you turn your self-created Boog into a superstar."
+}

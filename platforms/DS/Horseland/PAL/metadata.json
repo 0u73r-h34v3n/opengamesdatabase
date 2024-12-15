@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sarbakan Inc."],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Horseland",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2008",
+	"serial_number": "CH8X",
+	"synopsis": "Have the adventure of your life in Horseland - the biggest, best stable in the world! The big competition is approaching. Sarah, Scarlet and their friends need your help to make Horseland win! But beware, your rival at Standhope, Talia will try and drive the Horseland team apart..."
+}

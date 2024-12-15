@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Sports"],
+	"name": "All-Star Air Hockey",
+	"publishers": ["Skyworks Interactive"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 31, 2011",
+	"serial_number": "KAOE",
+	"synopsis": "Grab your paddle and enjoy some classic arcade action with All-Star Air Hockey from Skyworks, creators of some of the best and most fun sports and arcade games for the Nintendo DSi system. In Practice Mode, choose from eight computer opponents. In Tournament Mode, test your skills against all of them. All-Star Air Hockey features state-of-the-art graphics and local high-score boards."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation"],
+	"name": "콜 오브 듀티 4 - 모던 워페어",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "15"
+		}
+	],
+	"release_date": "January 25, 2008",
+	"serial_number": "YCOK",
+	"synopsis": "Heed the call of duty and take down a rogue enemy in a top secret mission that is always explosive!"
+}

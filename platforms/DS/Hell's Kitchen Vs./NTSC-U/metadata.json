@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ludia"],
+	"genres": ["Cooking", "Simulation"],
+	"name": "Hell's Kitchen Vs.",
+	"publishers": ["Ludia"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 4, 2010",
+	"serial_number": "KHLE",
+	"synopsis": "Hell’s Kitchen Vs. recreates the show’s pressure-cooker atmosphere as two players battle head-to-head in an arcade-style kitchen challenge. Try to conquer your opponent in each time management test, with legendary chef Gordon Ramsay judging and rating your performance at every stage of the game. Please note that elements of this software may have been featured in previously released software."
+}

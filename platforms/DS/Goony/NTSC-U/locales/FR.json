@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Goony",
+	"synopsis": "Goony est un jeu d'arcade à un seul bouton, pour joueur occasionnels et passionnés. Tu contrôles Goony, une créature gélatineuse, qui dévale une route avec des obstacles dangereux. Goony est en mouvement permanent. Il se déplace de gauche à droite. Des blocs spéciaux, qui peuvent vous aider, sont disséminés tout au long de la zone de jeu. La zone de jeu est d'une longueur infinie et continue jusqu'à ce que tu commettes une erreur. Le nombre d'étapes que tu passes correspond à ton score final. Caractéristiques : Génération aléatoire, zone de jeu infinie Crée tes propres blocs en utilisant l'éditeur de blocs intégrés. Echange tes blocs créés en local où en ligne via des QR codes Défie un ami dans une course selon le même système en mode multi-joueurs"
+}

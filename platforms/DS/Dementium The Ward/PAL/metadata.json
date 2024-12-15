@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Renegade Kid"],
+	"genres": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Shooter",
+		"Survival Horror"
+	],
+	"locales": ["ES"],
+	"name": "Dementium: The Ward",
+	"publishers": ["SouthPeak Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "18"
+		}
+	],
+	"release_date": "April 17, 2009",
+	"serial_number": "YDTP",
+	"synopsis": "You wake up in an abandoned hospital with nothing. No memory. No clues. No way out. What the hell is going on?"
+}

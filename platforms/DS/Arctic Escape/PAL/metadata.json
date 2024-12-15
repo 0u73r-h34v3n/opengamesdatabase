@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Arctic Escape",
+	"publishers": ["Teyon"],
+	"release_date": "March 18, 2011",
+	"serial_number": "KQAP",
+	"synopsis": "Take control of a bunch of penguins getting into all sorts of troubles all the time! They were abducted from Antarctica by a cunning scientist and now they need your help to come back home. Lead them safely through over 100 frosty levels by placing commands such as walking, jumping or waiting. Without you they have no chance of survival so guide them to avoid broken ice areas, falling cages, wolves and other dangerous obstacles. This special top-down view puzzle is easy to pick up but impossible to put down!"
+}

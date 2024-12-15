@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Other Ocean"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Puffins: Let's Fish!",
+	"publishers": ["Other Ocean"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 2, 2010",
+	"serial_number": "KLFP",
+	"synopsis": "Dive into the sea and fill your belly with delicious fish in Puffins: Let's Fish! This action game has you swimming the ocean looking for tasty capelin. But watch out! The ocean is dangerous and you’re not the only one hunting for food. Sharks, jellyfish and other predators are waiting to take a bite out of you. It’s an All-You-Can-Eat feast in two different exciting gameplay modes across 18 stages. So be careful, take a deep breath, jump in and come out with a full belly! Yum!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "Fall in the Dark",
+	"publishers": ["シルバースタージャパン"],
+	"release_date": "April 21, 2010",
+	"serial_number": "K4EJ",
+	"synopsis": "a.k.a. Treasure Hunter X (NTSC-U, PAL)"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "myDiary",
+	"publishers": ["Nnooo"],
+	"release_date": "January 31, 2011",
+	"serial_number": "KYIE",
+	"synopsis": "myDiary allows you to keep your own personal diary on your Nintendo DSi system. Just open your Nintendo DSi system, tap on a day, and write a note! Set alarms for important events. You can even lock your notes away from prying eyes. Try keeping track of important dates, to do lists and more! You can even personalize myDiary with 12 different unlockable themes and ink colors. Use the stylus as a pencil to make your notes or doodles and then erase the bits you don't like. myDiary will help you organize your life."
+}

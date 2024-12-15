@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Digital Kids"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Hamsterz",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 22, 2006",
+	"serial_number": "ALVP",
+	"synopsis": "Raise several breeds of hamsters and build fully customizable homes for them to grow up in."
+}

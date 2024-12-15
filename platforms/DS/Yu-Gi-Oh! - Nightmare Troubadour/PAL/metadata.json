@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Strategy"],
+	"name": "Yu-Gi-Oh! - Nightmare Troubadour",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 17, 2005",
+	"serial_number": "AYGP",
+	"synopsis": "Yu-Gi-Oh! comes to Nintendo DS in this superior card battling game. Now you can use monster, trap and spell cards to duel opponents on dual-screens, with the touch screen and stylus used to organise your deck."
+}

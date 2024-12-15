@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Porto Alegre"],
+	"genres": ["Management Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Party Planner",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 24, 2009",
+	"serial_number": "BPMP",
+	"synopsis": "In Imagine Party Planner, you get to plan the most amazing celebrations! Join an agency that caters to the most prestigious clientele. Meet with famous clients to plan out their specific requests, from a simple wedding cake to a spaceship for a party among the stars. Design décor, invitations, and more through fun mini-games as you expand the agency to be the premiere Party Planner in town!"
+}

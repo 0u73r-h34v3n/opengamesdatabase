@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOM CREATE"],
+	"genres": ["Action"],
+	"name": "GO Series Defence Wars",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 24, 2010",
+	"serial_number": "KWTP",
+	"synopsis": "Defend your base from attack until the reinforcements arrive! Take control of an arsenal of weapons and fight off wave after wave of enemy attack. Hold your base by flicking bullets and bombs at the incoming enemies using the Nintendo DSi stylus. Arm your base with guns, cannons and tanks in preparation for the onslaught and then attack with everything you’ve got."
+}

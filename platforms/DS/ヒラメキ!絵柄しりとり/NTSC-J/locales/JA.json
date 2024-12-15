@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "ヒラメキ!絵柄しりとり",
+	"synopsis": "表示される「絵柄カード」を見て、読みを想像して答えるしりとりソフトです。 発想力とアイテムを駆使してどんどんしりとりを、つなげていきましょう。 ワイヤレスプレイ対応で、2～8人までの通信対戦も楽しめます。 （人数分のニンテンドーDSiとソフトをダウンロードして頂く必要があります。）"
+}

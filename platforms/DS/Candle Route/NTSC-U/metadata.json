@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle", "Strategy"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Candle Route",
+	"publishers": ["Teyon"],
+	"release_date": "July 12, 2012",
+	"serial_number": "K9YE",
+	"synopsis": "Sparky has been entrusted to bring the light to the Crayon Castle before nightfall. The castle is so packed with candles that without your help he'll never make it in time! Lead Sparky through over 100 colorful levels to collect matches and light candles. Use your stylus to select a target, and the little guy will move to it using the shortest route. Time is of the essence so there is a limited number of commands you can issue for each level! As you progress through the levels you will discover many secrets. Don’t be surprised to find bombs, puddles, treasures, or even dynamite! Want to try something out of ordinary? Launch rockets filled with matches into space in a bonus mode. This unique, beautiful game for causal gamers will light a fire in the heart of every puzzle fan!"
+}

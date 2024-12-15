@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward Technologies"],
+	"genres": ["Action", "Puzzle"],
+	"name": "Mighty Milky Way",
+	"publishers": ["WayForward Technologies"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 9, 2011",
+	"serial_number": "KWYE",
+	"synopsis": "Are you ready to pulse some planets and soar through space? With a pocket full of planet candy and a heart full of ennui, green-skinned cutie-pie Luna needs your help to accomplish her secret mission! Prepare for fever-pitched puzzles in another mighty game from WayForward! Luna uses her magical staff to create and destroy planets on a whim. Explode vicious space monsters, avoid sizzling electric barriers, and grab all the delicious planet candy you can. But watch out for the T-Rex, Luna’s arch-nemesis! His laser eyes are matched only by the awkwardness of his and Luna’s sketchy past. But enough incessant blathering! Let’s stare into the sun with stoic tears and embrace the rolling chaos that is life!"
+}

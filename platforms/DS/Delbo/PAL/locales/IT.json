@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Delbo",
+	"synopsis": "Delbo è un rompicapo sparatutto nel quale il giocatore dovrà sparare, dallo schermo inferiore, alle sfere che cadono da quello superiore. Quando il colore delle sfere in caduta dallo schermo superiore è lo stesso di quelle in fase di lancio, queste verranno collegate per poi essere distrutte. Giocare è facile, ma essere dei campioni è difficilissimo. Il testo all'interno del gioco è in italiano."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Suzak"],
+	"genres": ["Puzzle"],
+	"locales": ["ES"],
+	"name": "Boing! Docomodake DS",
+	"publishers": ["Ignition Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 27, 2009",
+	"serial_number": "YDDP",
+	"synopsis": "It's the day of the annual festival at Docomodake Forest. All of Chichi Docomodake's family members have left home to prepare for this important day, but they haven't returned, and Chichi can't find her daughter, who lives in the city either... Where are they?"
+}

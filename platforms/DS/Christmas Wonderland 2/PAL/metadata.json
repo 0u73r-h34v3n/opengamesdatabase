@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Christmas Wonderland 2",
+	"publishers": ["Microvalue"],
+	"release_date": "December 6, 2012",
+	"serial_number": "K2WP",
+	"synopsis": "Help Santa Claus in his amazing Christmas Wonderland! Join forces with Santa’s elves and make this the best Christmas ever! The workshop is buzzing with activity and Wonderland is crammed full of fabulous toys, candy canes and nativity characters, but they still need your hidden object talents. Complete tricky puzzles and fun mini games to make sure all children have tonnes of presents to unwrap on Christmas morning!"
+}

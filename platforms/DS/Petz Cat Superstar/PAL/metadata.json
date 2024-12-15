@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Petz Cat Superstar",
+	"publishers": ["Ubisoft"],
+	"release_date": "October 1, 2010",
+	"serial_number": "KP5V",
+	"synopsis": "Care for and bond with a whole family of adorable cats! Care for them, play fun games and give them lots of love. • Look after a whole family of adorable baby kittens: feed them, pat them and watch them grow. • Bond with your cats to discover their unique talents and personalities. • Teach them fun tricks such as running through obstacle courses and walking down the runway. Please note that elements of this software may have been featured in previously released software."
+}

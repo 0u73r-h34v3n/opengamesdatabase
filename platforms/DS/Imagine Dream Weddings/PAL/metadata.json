@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Southlogic Studios"],
+	"genres": ["Business Simulation", "Management Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Dream Weddings",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 7, 2008",
+	"serial_number": "CW6P",
+	"synopsis": "Become a wedding designer and give brides a day they will never forget. Use your design and planning skills to create the perfect wedding that meets the bride's tastes and expectations. Immerse yourself in a creative and romantic experience, unleash your imagination, meet the brides, or create a unique bride to design the wedding of the century!"
+}

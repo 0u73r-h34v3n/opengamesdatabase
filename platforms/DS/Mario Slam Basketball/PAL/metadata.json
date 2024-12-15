@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Basketball", "Sports"],
+	"locales": ["ES"],
+	"name": "Mario Slam Basketball",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 16, 2007",
+	"serial_number": "AB3P",
+	"synopsis": "It’s a whole new ball game as Mario rocks the rim on the Nintendo DS."
+}

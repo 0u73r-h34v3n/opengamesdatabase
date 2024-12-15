@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Raylight Studios"],
+	"genres": ["Board Game", "Compilation", "Strategy"],
+	"locales": ["DE"],
+	"name": "2 in 1: Mahjong + Mahjong Around the World",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 8, 2012",
+	"serial_number": "TMZP"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tantalus Media"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Pony Friends 2",
+	"publishers": ["Eidos Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 20, 2009",
+	"serial_number": "COYP",
+	"synopsis": "Choose your pony from 12 available breeds and use different accessories to give it your style. You can do fun activities with it: walk along beautiful trails, compete in races and perform all kinds of tricks. Take care of your pony and give him all the love it deserves."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure"],
+	"name": "해리포터와 혼혈왕자",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "July 15, 2009",
+	"serial_number": "CH6K",
+	"synopsis": "Head back to Hogwarts and help Harry survive his fraught sixth year in Harry Potter and the Half-Blood Prince for Nintendo DS."
+}

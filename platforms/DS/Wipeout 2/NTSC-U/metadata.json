@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Behaviour Interactive"],
+	"genres": ["Party"],
+	"name": "Wipeout 2",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 11, 2010",
+	"serial_number": "BWEE",
+	"synopsis": "Wipeout splashes down with another madcap contest as the hit series returns with more of TV's most outrageous obstacles."
+}

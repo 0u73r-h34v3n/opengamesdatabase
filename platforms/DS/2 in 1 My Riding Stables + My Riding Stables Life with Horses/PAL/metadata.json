@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Compilation", "Simulation", "Virtual Pet"],
+	"name": "2 in 1: My Riding Stables + My Riding Stables: Life with Horses",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 18, 2014",
+	"serial_number": "TMGP",
+	"synopsis": "2 in 1: My Riding Stables + My Riding Stables: Life with Horses is a compilation of two games where you work as a stable hand, raise sweet little foals and take care of your guests in the stables. You will also give riding lessons and prepare your horses and students so that they will be the riding stars of the future."
+}

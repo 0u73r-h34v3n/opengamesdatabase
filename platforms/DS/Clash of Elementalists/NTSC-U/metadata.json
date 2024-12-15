@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Clash of Elementalists",
+	"publishers": ["Teyon"],
+	"release_date": "April 11, 2013",
+	"serial_number": "KVLE",
+	"synopsis": "Step into the shoes of one of the four Elementalists each possessing their own superior power - fire, earth, air and water and take to the battlefields in a fight of superiority! Draw on the unique abilities of your chosen character and use their elements to counter attack from afar or in hand-to-hand combat. Destroy the other Elementalists in engaging and explosive rounds of single-play onslaughts or compete with your friends using local wireless connection! Take the battle above the clouds or in the depths of ancient ruins as you fight for your Elementalist to be the only and final victor!"
+}

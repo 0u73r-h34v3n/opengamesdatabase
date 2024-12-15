@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Puzzle Rocks",
+	"synopsis": "Prenez le temps de trouver la meilleure stratégie, choisissez les meilleurs déplacements et réalisez un maximum d'associations pendant votre tour afin de marquer des points. Q1 : Comment entretenir vos neurones ? R1 : Jouez à Puzzle Rocks et récupérez les pierres qui tombent ! Q2 : Aurez-vous la force de réussir les 36 différents niveaux ? R2 : C'est ce qu'on verra. Fonctionnalités : - Un casse-tête sur 36 niveaux répartis en quatre chapitres et qui combine six différentes formes et six couleurs - Jeu de réflexion de type \"séries de trois\" sur le second écran - Passez des séries de trois aux associations à tout moment - Deux modes de jeu : \"Normal\" et \"Time Limit\" (contre-la-montre) - Des combinaisons agrémentées d'éclairages et d'effets sonores explosifs - Des heures et des heures de jeu - Les meilleurs scores sont enregistrés à chaque niveau - Collectionnez les médailles de bronze, d'argent et d'or à chaque niveau Texte écran en anglais."
+}

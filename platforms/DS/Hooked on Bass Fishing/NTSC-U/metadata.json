@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MECHANIC ARMS"],
+	"genres": ["Simulation", "Sports"],
+	"name": "Hooked on Bass Fishing",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 5, 2024",
+	"serial_number": "KF7E",
+	"synopsis": "Hooked on Bass Fishing is a fun and simple game that offers fishing enthusiasts the ultimate fishing experience! To start the game, all you need to do is tap the area on the Touch Screen in which you want to fish. Next, cast your line and tap the Touch Screen as soon as a fish has taken a bite! In order to safely land your fish, slide your stylus in the appropriate direction to hoist your fish out of the water! By mixing various actions and virtual interpretations of fishing, players can enjoy the appealing aspects of fishing in a game-like way. You can also use points you have achieved from a fishing contest to purchase new rods, lines and reels. Try challenging yourself in a fishing contest to receive points!"
+}

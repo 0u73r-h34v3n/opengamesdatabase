@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Monkey Bar Games"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES"],
+	"name": "Madagascar 3:  Europe's Most Wanted",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2012",
+	"serial_number": "TM3P",
+	"synopsis": "Based on DreamWorks Animation's new upcoming animated film, Madagascar 3: Europe's Most Wanted puts players in the role of their favorite Madagascar characters, including Alex the Lion, Marty the Zebra, Melman the Giraffe, and Gloria the Hippo. In a new and original adventure, the gang travel through Europe by way of a travelling circus and must put on the show of their lives if they ever want to make their way home to New York."
+}

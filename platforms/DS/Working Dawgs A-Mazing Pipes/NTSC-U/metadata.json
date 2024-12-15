@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Working Dawgs: A-Mazing Pipes",
+	"publishers": ["Big John Games"],
+	"release_date": "November 15, 2012",
+	"serial_number": "KYWE",
+	"synopsis": "Working Dawgs A-Mazing Pipes celebrates the classic pipes puzzle game with a fun, new twist. Set on the construction site of the Working Dawgs, players will need to work quickly and efficiently to complete the challenging pipe puzzles before time runs out. Using different pipe shapes, wrenches, and even bombs, players will be able to route the incoming flow and direct it to the puzzle’s goal. If the pipeline doesn’t connect from start to finish before time runs out, the water will burst through to flood the Dawgs’ work site. With 80 unique and progressively challenging puzzles, players will be increasingly entertained as they save the work site from the impending water flow. Working Dawgs A-Mazing Pipes is the puzzle game you simply won’t be able to put down. • 80 Puzzles to conquer. • Dawgs will help to bring supplies to solve each puzzle. • Use bombs to make room for more pipes. • Large scrollable play areas. • Drag-and-Drop stylus control."
+}

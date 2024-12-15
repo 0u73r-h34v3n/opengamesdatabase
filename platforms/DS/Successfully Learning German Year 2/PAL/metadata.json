@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Successfully Learning German Year 2",
+	"publishers": ["Tivola"],
+	"release_date": "June 16, 2011",
+	"serial_number": "KHUP",
+	"synopsis": "In \"Successfully Learning German Year 2\", pupils will solve exciting exercises to learn German in a playful way. The little vampire Freddy motivates the children and helps with tips. Languages: English, German, Turkish."
+}

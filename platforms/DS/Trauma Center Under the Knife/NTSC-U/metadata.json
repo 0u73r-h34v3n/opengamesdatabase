@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ITL"],
+	"genres": ["Adventure", "Simulation"],
+	"name": "Trauma Center: Under the Knife",
+	"publishers": ["Atlus"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "October 4, 2006",
+	"serial_number": "AKDE",
+	"synopsis": "Got an urge to perform some surgery? Now you can try your hand at a selection of complicated medical procedures in this brilliantly quirky hospital simulation!"
+}

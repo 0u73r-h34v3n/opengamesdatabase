@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Fighting"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Battle of Giants:  Mutant Insects - Revenge",
+	"publishers": ["Ubisoft"],
+	"release_date": "June 28, 2010",
+	"serial_number": "K64E",
+	"synopsis": "After the defeat of the Mutant King, the Mutant Queen rose up from the core of the Earth and forced the remaining giant insects into submission. Now it is your job to locate and free the Scorpion Champion, the only giant insect with the ability to defeat the Mutant Queen. Complete 10 new missions, defeat your enemies and liberate the Scorpion Champion! Customize your giant insect with tribal stripes, equip it with special powers and enhance your abilities. Challenge your friends to duels of supremacy on the Nintendo DS. Are you strong enough to win this Battle of Giants™?"
+}

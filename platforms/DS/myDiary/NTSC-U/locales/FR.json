@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "myDiary",
+	"synopsis": "myDiary vous permet de tenir votre agenda sur le Nintendo DSi. Ouvrez le Nintendo DSi, touchez une date et rédigez une note! Programmez des alarmes pour les événements importants. Vous pouvez même protéger vos notes contre les curieux. Ne ratez plus les dates importantes, écrivez vos listes de tâches et bien plus encore! Vous pouvez même personnaliser myDiary en déverrouillant les 12 thèmes et couleurs d'écriture différents. Utilisez le stylet pour rédiger vos notes ou dessiner et effacez les passages qui ne vous plaisent pas. myDiary vous aide à organiser votre vie."
+}

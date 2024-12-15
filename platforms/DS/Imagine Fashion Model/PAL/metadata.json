@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Lexis Numérique", "Virtual Toys"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Imagine Fashion Model",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 19, 2008",
+	"serial_number": "CFDP",
+	"synopsis": "Express your creativity in all types of workshops and live an incredible adventure in the spectacular world of fashion. Feel like a newly qualified designer, who enters a fashion agency in New York. Your goal is to create new and spectacular designs to become the most fashionable designer and revolutionize the world of the catwalk. Accomplish your missions, learn the basics of fashion to improve your tasks and make your dreams come true! As your adventure progresses, you will gradually meet people who will teach you more and more about the world of fashion (models, important fashion designers, fashion reporters...) and discover many and varied glamorous places in New York."
+}

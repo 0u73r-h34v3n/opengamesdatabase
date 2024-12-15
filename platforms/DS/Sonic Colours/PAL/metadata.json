@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sonic Team"],
+	"genres": ["3d Platformer", "Action", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Sonic Colours",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 12, 2010",
+	"serial_number": "BXSP",
+	"synopsis": "A brand new high speed action adventure in which Sonic the Hedgehog races through incredible theme park inspired worlds to rescue a colourful alien race from the clutches of Dr Eggman."
+}

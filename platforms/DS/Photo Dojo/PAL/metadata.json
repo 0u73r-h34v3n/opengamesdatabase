@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting"],
+	"name": "Photo Dojo",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 19, 2010",
+	"serial_number": "KPBV",
+	"synopsis": "Photo Dojo brings a new twist to the side-scrolling beat ‘em up – literally putting you in the middle of the action! Using your Nintendo DSi system's camera, take photos of yourself performing punches, kicks and special moves, as well as victory and defeat poses. Next, add sound effects by recording your voice, or whatever you choose, with the microphone. Finally, snap a photo for the backdrop; the setting is entirely up to you. In just a few minutes you’ll have created your own personalised fighting game! Battle solo against hordes of enemies, or invite a friend to capture their own likeness and fight each other in a one-on-one grudge match. And, because both players share the same Nintendo DSi, you’ll be getting very up close and personal!"
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting"],
+	"name": "WWE SmackDown vs Raw 2009 featuring ECW",
+	"publishers": ["THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 7, 2008",
+	"serial_number": "YW9P",
+	"synopsis": "WWE SmackDown vs. Raw 2009 upholds the franchise’s commitment to delivering the definitive videogame simulation of live WWE programming. WWE SmackDown vs."
+}

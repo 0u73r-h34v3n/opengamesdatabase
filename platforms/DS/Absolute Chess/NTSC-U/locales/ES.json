@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Absolute Chess",
+	"synopsis": "Este juego de ajedrez, fácil de entender, explica todo lo necesario, desde las reglas básicas hasta las estrategias más agresivas para ayudarte a avanzar en el juego. Existen dos modos de juego. En el modo Free Play puedes jugar contra un número de personajes preestablecidos, desde un niño pequeño hasta un anciano gruñón. El modo Challenge ofrece a los jugadores niveles múltiples y misiones que deben llevar a cabo. Las funciones de ayuda para el jugador incluyen una función que indica los posibles movimientos que puede realizar el jugador y su oponente, así como la posibilidad de deshacer la última jugada. También puedes disfrutar de partidas con amigos a través del modo descarga DS."
+}

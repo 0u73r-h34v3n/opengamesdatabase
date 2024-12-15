@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Sports"],
+	"locales": ["ES", "PT"],
+	"name": "G.G Series RUN & STRIKE",
+	"publishers": ["Genterprise"],
+	"release_date": "June 25, 2015",
+	"serial_number": "K5FE",
+	"synopsis": "An action game using the racket and ball: Use your skills with the racket to strike so the ball hits targets that appear on the brick wall before you! If the ball hits the wall and there is no target, that part of the wall begins to crack, and breaks after three hits. When a ball flies outside of the screen, one ball is lost. When all balls are lost, the game is over. Keep an eye out for items that will help you but also avoid those that will give you penalties. Keep your reflexes sharp as you run and strike!"
+}

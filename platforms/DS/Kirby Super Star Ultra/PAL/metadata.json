@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory", "Inc."],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Kirby Super Star Ultra",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 18, 2009",
+	"serial_number": "YKWP",
+	"synopsis": "Everyone’s favourite powerful pink puffball is back in the biggest collection of Kirby games to date! Help Kirby take on King Dedede in a classic rematch in Kirby Super Star Ultra for Nintendo DS."
+}

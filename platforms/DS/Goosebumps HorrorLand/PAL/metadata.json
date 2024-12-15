@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["SScholastic Media"],
+	"genres": ["Adventure"],
+	"name": "Goosebumps HorrorLand",
+	"publishers": ["Majesco Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 16, 2009",
+	"serial_number": "CGPP",
+	"synopsis": "Explore a fright-themed amusement park filled with 30 thrilling rides and bone-chilling attractions! Sounds like fun...until you discover the scares are all too real and find yourself battling Certain Death, vanquishing vampires and hanging on for life on the Roller Ghoster. Survive the terror and maybe, just maybe, you'll make it out alive!"
+}

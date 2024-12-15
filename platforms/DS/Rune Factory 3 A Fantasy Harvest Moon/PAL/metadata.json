@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neverland"],
+	"genres": ["Role-Playing", "Simulation"],
+	"name": "Rune Factory 3: A Fantasy Harvest Moon",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 30, 2011",
+	"serial_number": "BRFP",
+	"synopsis": "The people of Sharance and their horned Univir neighbors are embroiled in a bitter conflict. An age-old hatred between humans and monsters divides them. You are an adventurer with an unusual secret: you're half human and half monster. Can you unite the humans and Univir?"
+}

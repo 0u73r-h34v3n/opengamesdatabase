@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "SteamWorld Tower Defense",
+	"publishers": ["Image & Form"],
+	"release_date": "July 9, 2010",
+	"serial_number": "KSWV",
+	"synopsis": "Welcome to Cowbot County, home of the robotic master race of SteamWorld! As the Sheriff, you must stop the human invaders in their mad hunt for gold. Build attack robots next to the roads they roam, and watch the invaders go down! Use the special skills of your robots to your advantage in this original Tower Defence variation, where strategy and execution are equally important. For rookies, there is an \"Easy\" mode - but all will find a unique challenge in the great Western reaches. See ya soon!"
+}

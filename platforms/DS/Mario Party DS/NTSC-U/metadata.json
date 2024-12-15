@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Party"],
+	"name": "Mario Party DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 19, 2007",
+	"serial_number": "A8TE",
+	"synopsis": "Everything you love about Mario Party... in the palm of your hand!"
+}

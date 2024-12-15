@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"name": "光の4戦士 -ファイナルファンタジー外伝-",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "October 29, 2009",
+	"serial_number": "BFXJ",
+	"synopsis": "FINAL FANTASY THE 4 HEROES OF LIGHT is a JRPG that you can play solo or with up to three friends. It combines romantic storybook graphics with the technology of the Nintendo DS to create a neo-classical take on the RPG genre."
+}

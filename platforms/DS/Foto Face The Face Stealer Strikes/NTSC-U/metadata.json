@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Foto Face: The Face Stealer Strikes",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 30, 2009",
+	"serial_number": "K4TE",
+	"synopsis": "Your face, your game, you’re the hero! In Foto Face: The Face Stealer Strikes YOU get to be in the game! Using the camera and microphone, you become the hero in your own game! Unlock a variety of hero costumes as you battle the baddies, search for stars, and solve platforming puzzles. The Face Stealer has stolen your identity and is creating trouble—and everyone is blaming you. You have to track him down across 15 action-packed stages. Along the way, you’ll come across many memorable creatures, both friend and foe. Use the camera and microphone to create faces and voices for every character in your game. Foto Face: The Face Stealer Strikes—a game starring YOU!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Creatures Inc.", "Nintendo"],
+	"genres": ["Exercise", "Fitness", "Health", "Simulation"],
+	"name": "Personal Trainer: Walking",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 26, 2009",
+	"serial_number": "IMWE",
+	"synopsis": "The Wii Fit exercise craze comes to the DS, with Nintendo's latest attempt to make video gaming the healthiest hobby around. This unique Touch! Generations game comes bundled with two pedometers, which are able to analyse how much exercise you get from walking and jogging around each day."
+}

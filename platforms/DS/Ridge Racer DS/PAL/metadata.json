@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NST"],
+	"genres": ["Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Ridge Racer DS",
+	"publishers": ["Namco"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 6, 2005",
+	"serial_number": "ARRP",
+	"synopsis": "Power-sliding packs a whole new thrill when you're pulling skids via the Touch Screen! Welcome to Ridge Racer DS, the classic arcade racer expertly reassembled for maximum dual screen drama."
+}

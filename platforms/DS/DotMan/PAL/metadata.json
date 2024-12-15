@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Agetec"],
+	"genres": ["Action", "Arcade", "Puzzle", "Racing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "DotMan",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 29, 2012",
+	"serial_number": "KHEP",
+	"synopsis": "Finally, a chance to drive as fast as you can with no regard to the law. Put the pedal to the metal and drive with both confidence and precision as you speed around collecting all the coins on each stage as quickly as possible. Execute evasive moves and collect essential items to help you dodge the police and escape being caught. Watch out for the three strikes and you are out! If you are caught by the police three times the game is over. It’s up to you to perform last minute lane changes, stealthy U-turns and determine the rate of speed. However, keep in mind, once you start going there is no stopping. DotMan is a non-stop action game that takes you back to the golden years of arcade gaming. Strap yourself into the driver’s seat and prepare yourself for the ride of your life. Features: - Collect items to gain an advantage. - Master U-turns and sneaky lane changes. - Collect bonus items to earn a higher score."
+}

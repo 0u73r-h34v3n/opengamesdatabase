@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Soccer", "Sports"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Goooooal América",
+	"publishers": ["Cinemax"],
+	"release_date": "December 27, 2012",
+	"serial_number": "K9AE",
+	"synopsis": "A steel ball and 22 football players on springs in shallow dips; a pitch surrounded by barriers and with a goal at each end. It's a concept that's been around for a hundred years and which still sees matches decided on quick combinations and accurate shots on goal. When possession is lost, it becomes your opponent's turn. The game is controlled using the stylus, which allows players to accurately aim and determine the power of a pass or shot. However, it's also possible to inject the mechanics of this turn-based game with a shot of adrenaline. Just imagine replacing the ball with a time bomb. Passes have to be faster and even more accurate. Goooooal América features several game modes. In addition to standard matches or matches with time bombs, you can choose a single-player match, a two-player match, a 16-team tournament, and even a demanding campaign packed full of challenging tasks in which you can win various achievements."
+}

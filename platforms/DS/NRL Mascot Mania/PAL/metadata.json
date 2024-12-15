@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Wicked Witch Software"],
+	"genres": ["Rugby", "Sports"],
+	"name": "NRL Mascot Mania",
+	"publishers": ["Tru Blu"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 26, 2009",
+	"serial_number": "CQKP",
+	"synopsis": "Each year before the NRL season starts, the NRL Mascots battle each other for their team's honour and respect. Last year, you fought badly and the other mascots mocked your team. But, this year, things will be different..."
+}

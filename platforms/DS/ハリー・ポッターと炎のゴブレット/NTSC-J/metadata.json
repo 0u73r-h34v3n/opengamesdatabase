@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts Inc."],
+	"genres": ["Action", "Adventure"],
+	"locales": ["JA"],
+	"name": "ハリー・ポッターと炎のゴブレット",
+	"publishers": ["Electronic Arts Japan"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "November 26, 2005",
+	"serial_number": "AHPJ",
+	"synopsis": "Harry Potter hits Nintendo DS - as a contestant in the demanding Triwizard Tournament!"
+}

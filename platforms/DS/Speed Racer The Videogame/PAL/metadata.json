@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtuos Holdings"],
+	"genres": ["Arcade", "Racing"],
+	"locales": ["ES"],
+	"name": "Speed Racer: The Videogame",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 9, 2008",
+	"serial_number": "YYRP",
+	"synopsis": "Buckle up and put your foot to the floor in a lightning-fast racer that brings big-screen action to life on Nintendo DS."
+}

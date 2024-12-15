@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MonkeyPaw Games"],
+	"genres": ["Cards", "Poker", "Simulation", "Traditional"],
+	"name": "Ante Up: Texas Hold'em",
+	"publishers": ["MonkeyPaw Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "January 24, 2011",
+	"serial_number": "KTHE",
+	"synopsis": "While poker has always been a part of Western culture, the ease and accessibility of Texas Hold’em has brought the game to the masses, whether on TV or in casinos. Ante Up: Texas Hold’em makes poker fun portable with realistic mechanics and a compelling story to keep you stimulated and playing for hours. The game is graphically superb, and the players are realistic portrayals of uncanny casino characters. Choices include an undercover vice cop who practices what he patrols and an aspiring actress with a daring streak. You’ll find 12 characters in all. Best of all, the game is based on the authenticity of poker and the algorithms that produce a natural falling of the cards. You’ll swear you’re in Vegas as you face the pressure of making a call or daring a bluff while your money sweats it out on the table."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nordcurrent"],
+	"genres": ["Action", "Arcade", "Party", "Puzzle", "Sports"],
+	"name": "101 in 1 Explosive Megamix",
+	"publishers": ["Nordcurrent"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 28, 2008",
+	"serial_number": "CQZP",
+	"synopsis": "Welcome to the home of 101 mind-blowing mini-games for all tastes! Whether you like puzzle games, sport games or fast-paced arcade action, you'll definitely find something to suit you here!"
+}

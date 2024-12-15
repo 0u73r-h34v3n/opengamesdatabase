@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ASK"],
+	"genres": ["Arcade", "Party"],
+	"name": "New Touch Party Game",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 21, 2007",
+	"serial_number": "AWQP",
+	"synopsis": "Clear the spirits out of the Haunted House! Try various minigames like Othello and Word Hunt."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["THQ"],
+	"genres": ["Action"],
+	"locales": ["ES", "IT"],
+	"name": "The Penguins of Madagascar: Dr. Blowhole Returns Again!",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 16, 2011",
+	"serial_number": "VP9Y",
+	"synopsis": "Dr. Blowhole is determined to conquer the world and is using the Penguins to achieve his goal (whether they realize it or not!). Enter an all-new outrageous experience with 3 episodes and more than 12 exciting levels in which the Penguins will embark on adventures in, under and outside the zoo, culminating the action in Dr. Blowhole's lair. Only you and the crazy Team Penguin can stop Dr. Blowhole and his plan for world domination!"
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Action", "Arcade", "Shooter"],
+	"name": "G.G. Series ASSAULT BUSTER",
+	"publishers": ["Genterprise"],
+	"release_date": "June 4, 2015",
+	"serial_number": "KABE",
+	"synopsis": "You are the last defense against the assault of a robot army! Pit yourself against wave after wave of enemy forces while using your high speed boost maneuver to fly in 8 different directions to avoid fire with the goal of total enemy annihilation. Defeating any enemies on screen will decrease the \"enemy potential\" gauge which will give way to a powerful boss upon reaching zero. Keep an eye out for flying cargo boxes which will yield helpful items if destroyed. Hold your ground as the Assault Buster!"
+}

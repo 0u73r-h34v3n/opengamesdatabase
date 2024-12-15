@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["505 Games"],
+	"genres": ["Educational", "Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "My Pet Dolphin 2",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 31, 2008",
+	"serial_number": "CPDP",
+	"synopsis": "My Pet Dolphin 2 builds on the success of the original game but offers a new experience because this time you actually get to play as a baby dolphin that has an entire island to explore. As your dolphin gains experience you unlock new areas and meet different sea creatures along the way."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ICM"],
+	"genres": ["Action"],
+	"name": "Go Fetch! 2",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 4, 2011",
+	"serial_number": "KKFE",
+	"synopsis": "Go Fetch 2, is the sequel to the popular game with enhanced graphics, improved controls, and features a new battle mode. The idea of Go Fetch 2 is a simple, yet entertaining game. Balls are thrown and the player must guide their puppy to retrieve them. Your puppy must avoid various obstacles and collect items in order to complete missions and advance in the game. A wide variety of locations and a variety of game modes offer unique challenges for the player. Choose your puppy from different breeds, each with their own attributes. Remember, puppies are easily distracted, use your bark command to scare away cats or birds and do your best to avoid obstacles as not to waste valuable time. The different game modes, along with the exciting battle mode will provide countless hours of fun for both, you and your friends."
+}

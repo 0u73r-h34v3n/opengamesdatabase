@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Treasure Co. Ltd"],
+	"genres": ["Fighting"],
+	"locales": ["ES"],
+	"name": "Bleach: Dark Souls",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 6, 2009",
+	"serial_number": "ABZP",
+	"synopsis": "It’s time to re-enter the fray and uncover the latest happenings in the life of an ordinary, everyday teenager-who’s-become-a-Soul-Reaper. Are you itchin’ to go?"
+}

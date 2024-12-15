@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Spider-Man 3",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 4, 2007",
+	"serial_number": "AQ3S",
+	"synopsis": "Experimenta un sistema de combate completamente nuevo, de dos emocionantes maneras. Rediseñado desde cero, un sistema de combate único permite a Spider-Man y al Spider-Man de traje negro realizar poderes y habilidades específicas de cada traje. Animaciones de última generación, combos y movimientos finales hacen que los ataques de puñetazos, patadas y telarañas sean más heroicos que nunca. Enfréntate a 10 de los enemigos más infames de Spider-Man del cine y del universo Marvel, incluyendo a El Hombre de Arena y Venom."
+}

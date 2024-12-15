@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Beat 'Em Up", "Fighting", "Shooter"],
+	"name": "Danny Phantom: Urban Jungle",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 2, 2007",
+	"serial_number": "ANPP",
+	"synopsis": "A powerful new eco-ghost has turned Amity Park into a real urban jungle. Danny Phantom must battle his way through the twisted thorns and monstrous vegetation and learn an all new-freeze power to defeat this evil nemesis."
+}

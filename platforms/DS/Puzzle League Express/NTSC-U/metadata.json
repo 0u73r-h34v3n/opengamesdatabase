@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Puzzle"],
+	"name": "Puzzle League Express",
+	"publishers": ["NintendoNintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 31, 2009",
+	"serial_number": "KPNE",
+	"synopsis": "Connect blocks of the same color to clear them from your stack in four different modes of play! The ever-popular Puzzle League comes to Nintendo DSiWare! Like all good puzzlers, the concept is simple: connect blocks of the same color to clear them from the screen, and prevent your stack from becoming too high.The ever-popular Puzzle League comes to Nintendo DSiWare! Like all good puzzlers, the concept is simple: connect blocks of the same color to clear them from the screen, and prevent your stack from becoming too high. There are four single player modes to choose from: Endless (survive to earn a top score), Clear (eliminate all blocks above the line), Score Attack (score as high as possible in two minutes), and Vs. COM (use items and combos to attack a computer opponent). You can choose from a variety of background music to get you ‘in the zone’, and even play in horizontal or vertical mode, holding the Nintendo DSi system normally or like a book. Whichever way you play, you’re guaranteed maximum fun!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts", "Playlux"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["NL"],
+	"name": "Best Friends - My Horse",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 6, 2008",
+	"serial_number": "YB5X",
+	"synopsis": "Your dream has come true! You are the proud owner of your very own horse. Groom, train, and care for your horse and become best friends forever!"
+}

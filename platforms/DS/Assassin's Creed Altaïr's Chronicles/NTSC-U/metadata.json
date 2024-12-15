@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Assassin's Creed: Altaïr's Chronicles",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "February 26, 2008",
+	"serial_number": "YAHE",
+	"synopsis": "Master the skills, weapons and covert tactics needed to become an elite assassin in the thrilling Assassin’s Creed: Altaïr’s Chronicles for Nintendo DS."
+}

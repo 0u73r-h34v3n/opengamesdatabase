@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electron Jump"],
+	"genres": ["Strategy"],
+	"name": "Don't Feed The Animals",
+	"publishers": ["Electron Jump"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 26, 2010",
+	"serial_number": "KDFE",
+	"synopsis": "They've attracted the attention of the local wildlife (the backyard is on the edge of a forest). To defend their treasure, the kids use all the materials at their disposal to create three types of robots: melee, sound and water bots. These bots act like a tower does in a tower defense game, keeping the enemy from the base. Each bot has certain strengths and weaknesses against different enemies. The enemies include bears, raccoons, rabbits, turtles and cats. Play through 50 levels consisting of waves of animals - increasing in difficulty - who attempt to steal the candy. Should a creature reach the base, it will take a treat; this treat must be recovered or it will be lost. Should a boss reach the base, the game is lost. Successfully fend off the animals so the children can enjoy their end-of-summer feast."
+}

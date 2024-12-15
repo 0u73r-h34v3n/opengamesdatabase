@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo", "Tenyo"],
+	"genres": ["Educational"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "A Little Bit of... Magic Made Fun™: Matchmaker",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 4, 2009",
+	"serial_number": "KMDP",
+	"synopsis": "Impress your friends with mesmerising magic using A Little Bit of... Magic Made Fun – a collection of easy-to-perform tricks that you can carry wherever you go! Matchmaker is a fortune-telling trick that might just help you break the ice with that special someone. Simply ask a spectator to choose their favourite fun places or foods while you do so as well. When you've finished, your Nintendo DSi will reveal that the spectator's choices match your own! Also included is the bonus trick Photo Diagnosis. Use the Nintendo DSi's camera to take a photo of a person's palm and face, and the software will correctly guess their age. How does it work?!"
+}

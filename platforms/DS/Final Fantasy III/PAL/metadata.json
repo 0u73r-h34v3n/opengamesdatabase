@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Matrix Software"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["DE", "ES"],
+	"name": "Final Fantasy III",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 4, 2007",
+	"serial_number": "AFFP",
+	"synopsis": "At long last, the game that Final Fantasy fans have been waiting for. Originally released in Japan 17 years ago, the legendary “lost” Final Fantasy title is now available in a fully-revamped version, with beautiful 3D graphics and a new interface designed especially for Nintendo DS."
+}

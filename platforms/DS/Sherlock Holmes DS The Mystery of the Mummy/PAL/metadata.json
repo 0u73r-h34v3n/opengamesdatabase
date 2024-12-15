@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mistic Software"],
+	"genres": ["Adventure", "Point-And-Click"],
+	"name": "Sherlock Holmes DS: The Mystery of the Mummy",
+	"publishers": ["Focus Home Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 22, 2009",
+	"serial_number": "CS6P",
+	"synopsis": "After Lord Montcalfe's death, his daughter Elisabeth turns to the famous detective Sherlock Holmes to solve the mystery that surrounds her father's death."
+}

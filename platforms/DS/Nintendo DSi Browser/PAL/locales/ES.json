@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Nintendo DSi Browser",
+	"synopsis": "Esta versión del conocido navegador Opera está especialmente adaptada a la consola Nintendo DSi y aprovecha ambas pantallas de la Nintendo DSi y la tecnología de la pantalla táctil para que puedas navegar con velocidad, comodidad y facilidad. Muévete por las páginas web con el lápiz táctil y escribe lo que sea necesario con el teclado que hay en pantalla o a mano, gracias al software incorporado que reconoce tu caligrafía."
+}

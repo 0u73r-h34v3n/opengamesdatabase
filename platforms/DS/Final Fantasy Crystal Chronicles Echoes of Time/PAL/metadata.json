@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES"],
+	"name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 27, 2009",
+	"serial_number": "CFIP",
+	"synopsis": "Straying beyond the edge of the woods is forbidden, but when a mystery disease strikes in your village, the time for obeying rules is over."
+}

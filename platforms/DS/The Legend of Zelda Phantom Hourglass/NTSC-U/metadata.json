@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Legend of Zelda: Phantom Hourglass",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 1, 2007",
+	"serial_number": "AZEE",
+	"synopsis": "Continue the Wind Waker adventure in Link's first DS game."
+}

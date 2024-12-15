@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Simulation", "Sports"],
+	"name": "VT Tennis",
+	"publishers": ["Virtual Toys"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 30, 2010",
+	"serial_number": "KVTV",
+	"synopsis": "VT Tennis is an 'Ace' of a tennis game for the Nintendo DSi. Train your budding tennis star to serve, lob and smash your way to victory with precision swipes in all directions, using its innovative stylus and Touch Screen controls. Advance your player statistics in this fast-paced tournament of game modes, featuring Quickmatch, Tennis School & World Championship! The objective is to become no. 1 in the world rankings. To do this, you will have to unlock courts as you compete in championships all over the world. At the start of career mode, you will see yourself in last place in the rankings. From this moment on, you must battle your way up to be among the top players. You can play on all types of surface: grass, clay, hard courts and wood and learn the best techniques for winning each tournament on the different surfaces. Seventeen tough courts, each more difficult than the last, stand between you and your final victory."
+}

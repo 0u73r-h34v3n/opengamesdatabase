@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Remote Racers",
+	"publishers": ["QubicGames"],
+	"release_date": "May 13, 2011",
+	"serial_number": "KQRV",
+	"synopsis": "Have fun with Remote Racers in five easy steps: 1. Select one of 8 vehicles: Speeder, Monster, Candy, Dozer, Tank, Stunt, Mantis and Rocket. 2. Race against AI or time on 15 great tracks. 3. Jump in the garden, drift through the cellar, ride on the beach, dive in the ocean. 4. Use power-ups and transform your vehicle to gain advantage over your opponents. 5. Complete 32 Challenges in 8 Championships. Repeat."
+}

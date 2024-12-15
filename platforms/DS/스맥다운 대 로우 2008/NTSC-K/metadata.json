@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting"],
+	"name": "스맥다운 대 로우 2008",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "12"
+		}
+	],
+	"release_date": "December 14, 2007",
+	"serial_number": "AW8K",
+	"synopsis": "In turbulent times, it takes talent and a little luck to rise through the ranks You’ll need to be at the top of your game as you step in the ring with WWE SmackDown vs. Raw 2008 for Nintendo DS. What is a year in the life of a wrestler like?"
+}

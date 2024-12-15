@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Banpresto"],
+	"genres": ["Action", "Fighting"],
+	"locales": ["ES"],
+	"name": "Dragon Ball Z: Supersonic Warriors 2",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 10, 2006",
+	"serial_number": "ADBP",
+	"synopsis": "The first Dragon Ball Z game on Nintendo DS brings all the excitement of the universe's greatest fighting tournament to the system."
+}

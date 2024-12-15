@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Classic Media Distribution Limited"],
+	"genres": ["Hidden Object", "Puzzle"],
+	"name": "Where's Waldo? The Fantastic Journey",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 22, 2009",
+	"serial_number": "BWDE",
+	"synopsis": "Look for Waldo and friends, in addition to hundreds of hidden items in twelve different magical worlds. \"Where's Waldo? The Fantastic Journey\""
+}

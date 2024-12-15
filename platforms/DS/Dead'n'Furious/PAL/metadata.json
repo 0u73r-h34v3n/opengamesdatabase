@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Dream On Studio"],
+	"genres": ["Action", "Arcade", "First-Person Shooter", "Shooter"],
+	"locales": ["ES"],
+	"name": "Dead'n'Furious",
+	"publishers": ["Virgin Play"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "May 30, 2007",
+	"serial_number": "ADFP",
+	"synopsis": "Find the truth of this nightmare. Where are the clues? Are there others like you? A survivor perhaps?"
+}

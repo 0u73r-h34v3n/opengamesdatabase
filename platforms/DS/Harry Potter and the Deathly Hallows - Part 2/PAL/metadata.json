@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Harry Potter and the Deathly Hallows - Part 2",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "July 15, 2011",
+	"serial_number": "BU8P",
+	"synopsis": "Take part in the epic action of the final battle of Hogwarts, fending off Voldemort’s forces using Combat and Exploration spells - or take on a friend in Multiplayer mode."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Sports"],
+	"name": "SBK - Snowboard Kids",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 1, 2006",
+	"serial_number": "ASBP",
+	"synopsis": "A long overdue follow-up to the much loved Nintendo 64 games, now the Snowboard Kids are tearing onto Nintendo DS."
+}

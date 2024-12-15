@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Defense of the Middle Kingdom",
+	"synopsis": "En Defense of the Middle Kingdom, se colocan a soldados fijos en el mapa, en un esfuerzo por detener el avance de las fuerzas de sentido contrario. Soldados opuestos caminan a lo largo de una trayectoria predeterminada, y por lo tanto tu misión será defender con éxito tu punto de referencia. Los enemigos vienen en oleadas, tratando de invadir tu territorio. Si puedes evitar que lleguen al final del camino, entonces la victoria está asegurada. Si los enemigos logran deslizarse por tus defensas, pueden dañar tu punto de defensa. Si el número de puntos de defensa llega a 0, entonces es tu derrota."
+}

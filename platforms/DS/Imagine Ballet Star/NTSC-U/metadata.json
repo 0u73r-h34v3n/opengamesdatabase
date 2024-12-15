@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Spike"],
+	"genres": [
+		"Action",
+		"Business Simulation",
+		"Life Simulation",
+		"Role-Playing",
+		"Simulation"
+	],
+	"name": "Imagine Ballet Star",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 18, 2008",
+	"serial_number": "CLBE",
+	"synopsis": "Immerse yourself in a fantasy world of twirls, jumps, music, fashion, and fun competition. Learn real ballet steps and routines that will help you become a famous ballet star!"
+}

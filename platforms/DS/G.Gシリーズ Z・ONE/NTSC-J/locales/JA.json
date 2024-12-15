@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "G.Gシリーズ Z・ONE",
+	"synopsis": "ブロックと敵の配置による敵の防衛線を、8方向への攻撃可能な「ポッド」を使いこなし、敵を駆逐しつつ、先へ先へと進む横スクロールシューティングゲームです。"
+}

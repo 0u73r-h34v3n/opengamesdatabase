@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Most Wanted Games"],
+	"genres": ["Action"],
+	"name": "B Team - Episode 1: Dust & Steel",
+	"publishers": ["Subdued Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "May 30, 2011",
+	"serial_number": "K2TE",
+	"synopsis": "B Team - Episode 1: Dust & Steel is a humorous, action-packed squad-based shooter in which players control a small private army whose soldiers were hired from all over the world. Lead your platoon through an onslaught of commandos, voodoo warriors, dangerous guerillas… and that's just the beginning. When the action gets too intense to manage on your own, hook up with a friend in multiplayer mode to battle your way through the bullets. While intense action is the game's chief focus, its multiple weapons, upgradeable equipment and destructible environment further enrich the experience."
+}

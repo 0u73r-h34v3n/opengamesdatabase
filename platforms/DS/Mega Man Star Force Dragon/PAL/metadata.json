@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"locales": ["DE", "ES", "FR"],
+	"name": "Mega Man Star Force: Dragon",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 28, 2006",
+	"serial_number": "A6CP",
+	"synopsis": "The Power of the earth! Call upon the power of the elements as Omega-Xis and Geo Stelar face the aliens in a fight for Earth."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega Studios San Francisco"],
+	"genres": ["Action", "Adventure"],
+	"name": "Iron Man 2: The Video Game",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "April 30, 2010",
+	"serial_number": "B2IP",
+	"synopsis": "Play as Iron Man or, for the first time ever, War Machine in this brand-new story which thrusts you deep into the Iron Man comic world adding to the excitement of the upcoming Iron Man 2 film. Battle epic enemies, like the classic Iron Man villain Crimson Dynamo, only featured in the game, and an incredible final boss of truly staggering, skyscraping scale. In the end, the fate of the world will be left in Iron Man and War Machines powerful hands and they must battle to save it from destruction."
+}

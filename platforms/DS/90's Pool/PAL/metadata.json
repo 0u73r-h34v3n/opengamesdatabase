@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "90's Pool",
+	"publishers": ["Cinemax"],
+	"release_date": "August 9, 2012",
+	"serial_number": "KXPP",
+	"synopsis": "Chalk up a victory with classic 90’s Pool, a fun and realistic pool simulator which will keep you playing for hours! Compete against a human opponent or the computer, or play on your own in a campaign containing 20 different trick shot missions. The simple user interface lets you easily but accurately control the angle, speed and spin of the shot with your stylus. 3 different skill levels for the computer AI are available for advanced players as well as a realistic physics engine for a stunningly realistic simulation. Set up your shot, crack the cue ball into the pack and enjoy the entertaining gameplay! Hey, you might even improve your actual pool game."
+}

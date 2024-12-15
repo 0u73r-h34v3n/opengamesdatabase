@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Puzzle", "Strategy"],
+	"name": "SUDOKU",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 26, 2009",
+	"serial_number": "K4DE",
+	"synopsis": "SUDOKU offers hundreds of number-crunching puzzles that will stretch your brain power to the limit! Play in the exclusive Newspaper Mode. Add puzzles from your favourite newspapers and start your own collection! SUDOKU features a host of grid designs, stat tracking and an in-game timer to test your reaction time. Play on 5 different levels from Easy to Insane. This addictive game has been polished to perfection and renders a sleek design that’s easy on the eyes. SUDOKU. It’s the logical choice!"
+}

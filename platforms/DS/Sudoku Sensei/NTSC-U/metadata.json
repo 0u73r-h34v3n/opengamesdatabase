@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Sudoku Sensei",
+	"publishers": ["Hudson"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 28, 2009",
+	"serial_number": "K4SE",
+	"synopsis": "All puzzles are skillfully designed for a level of satisfaction that computer-generated puzzles just can't offer. You can play through puzzles to learn about rules and controls in Tutorials mode. Other handy features include Write Mode and Temp Number for an easier, more enjoyable sudoku experience."
+}

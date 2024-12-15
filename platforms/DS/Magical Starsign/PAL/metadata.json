@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Brownie Brown"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Magical Starsign",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 9, 2007",
+	"serial_number": "AVCP",
+	"synopsis": "At the Will O'Wisp magical academy students from all planets in the Baklava system gather to hone their magical skills in a peaceful environment."
+}

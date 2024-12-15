@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Peg Solitaire",
+	"synopsis": "Peg Solitaire ist ein Brettspiel für eine Person, bei dem du Steine auf einem kreuzförmigen Brett mit 33 Löchern strategisch bewegen musst. Es gibt einige Bretter, bei denen man mit Murmeln spielt, die in kleinen runden Vertiefungen liegen. In Deutschland wird das Spiel Solitär genannt und das Kartenspiel Patience. Schwierigkeit: Das Spiel hat verschiedene Schwierigkeitsstufen, sodass der Spieler die Spieltechnik Schritt für Schritt erlernen kann. • Lernstufe (9 Level) • Einfach (9 Level) • Normal (9 Level) • Schwierig (9 Level) • Experte (5 Level) Englischer Bildschirmtext."
+}

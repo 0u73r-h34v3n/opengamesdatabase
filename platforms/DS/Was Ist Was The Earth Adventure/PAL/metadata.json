@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["KRITZELKRATZ 3000 GmbH"],
+	"genres": ["Action", "Adventure", "Educational"],
+	"locales": ["DE"],
+	"name": "Was Ist Was: The Earth Adventure",
+	"publishers": ["Tessloff"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 28, 2009",
+	"serial_number": "BWAP",
+	"synopsis": "Dive into the fascinating world of Earth as you explore continents, uncover hidden secrets, and challenge nature itself. With stunning graphics and thrilling gameplay, this game will take you on an educational and exciting journey you'll never forget! Are you ready to uncover all the mysteries our planet has to offer?"
+}

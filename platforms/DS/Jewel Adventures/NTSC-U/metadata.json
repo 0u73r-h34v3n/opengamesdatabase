@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Jewel Adventures",
+	"publishers": ["Enjoy Gaming Ltd"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 5, 2013",
+	"serial_number": "KYJE",
+	"synopsis": "The fantasy world has been destroyed after a great war against the forces of darkness! Match gems to help Ayla rebuild the destroyed kingdom and learn all the secrets of magic along the way. Fight monsters and search for lost artefacts and gems in your mission to restore order and help save the human race! Features: - Stunning Match-3 game with 25 enthralling backgrounds - Play in \"classic\" and \"master mage\" modes - 10 levels for every mission - Play 250 different levels - Battle 25 evil enemies"
+}

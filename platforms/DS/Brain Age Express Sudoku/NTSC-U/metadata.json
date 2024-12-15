@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational", "Puzzle"],
+	"name": "Brain Age Express: Sudoku",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 17, 2009",
+	"serial_number": "KN9E",
+	"synopsis": "Sudoku takes center stage in this edition of the popular Brain Age series. Solve a variety of puzzles at three different skill levels using the touch screen and an intuitive interface. Track your progress by completing three tests and finding out your Brain Age. The unique charm of the Brain Age series and the challenge of sudoku make for an enjoyable combination. Prepare for another round of training your brain in minutes a day."
+}

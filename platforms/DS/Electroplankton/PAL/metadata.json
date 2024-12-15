@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Music"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Electroplankton",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 7, 2006",
+	"serial_number": "ATIP",
+	"synopsis": "Instead of being a game, Electroplankton uses the avant-garde art of Japanese multimedia artist Toshio Iwai to turn your Nintendo DS into a hub for otherworldly plankton, each of which can be used to produce a wide variety of visual and audio collages."
+}

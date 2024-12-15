@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Attractive Games"],
+	"genres": ["Action", "Platformer"],
+	"name": "Hugo: Magic in the Troll Woods",
+	"publishers": ["KREA Medie"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 4, 2010",
+	"serial_number": "BHMZ",
+	"synopsis": "Join Hugo as he travels deep into the woods on an epic quest to defeat the Root of all evil."
+}

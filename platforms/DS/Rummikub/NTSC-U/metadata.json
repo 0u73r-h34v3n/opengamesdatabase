@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Board Game", "Traditional"],
+	"name": "Rummikub",
+	"publishers": ["Games Factory Online"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 4, 2010",
+	"serial_number": "KRUE",
+	"synopsis": "Rummikub was created in the 1950s by Ephraim Hertzano and his children Micha and Mariana Hertzano, who later exported the game to five continents. Hertzano founded the games manufacturing company Lemada Light Industries, and this Rummikub version adheres to the official rules created by Lemada. The main component in Rummikub is a pool of 106 tiles consisting of 104 numbered tiles and two joker tiles. The numbered tiles are marked with the numbers 1-13 in four colours (black, yellow, blue and red). Each combination of colour and number is represented twice, and the player holds their tiles on a rack without revealing them to the other players. The first player to remove all the tiles from their rack and place them on the table wins the game."
+}

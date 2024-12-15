@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["G-mode"],
+	"genres": ["Action", "Platformer"],
+	"name": "GO Series 10 Second Run",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 20, 2010",
+	"serial_number": "KJUP",
+	"synopsis": "Run like the wind in this unique twist on the classic platform game! Take control of a stick man and run for your life across an obstacle course to reach the goal within 10 seconds. Move like your life depends on it, dashing across platforms, avoiding hazards, desperately trying to reach the exit in under 10 seconds. Go flat out over 50 stages and three game modes."
+}

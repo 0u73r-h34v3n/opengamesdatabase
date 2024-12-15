@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Interactive Arts"],
+	"genres": ["Business Simulation", "Karaoke", "Music", "Simulation"],
+	"locales": ["DE", "ES"],
+	"name": "Popstars",
+	"publishers": ["SevenOne Intermedia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 19, 2010",
+	"serial_number": "VPOD",
+	"synopsis": "Popstar werden war noch nie so einfach! Nimm das Mikrofon in die Hand und bezaubere mit deiner Stimme die Jury, sodass sie gar nicht mehr anders können, als dich in die neue Band zu wählen. In über 30 Pop-Songs gilt es, atemberaubende Performances zu zeigen!"
+}

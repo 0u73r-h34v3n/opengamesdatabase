@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amble"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"name": "메탈 베이블레이드2 빅뱅 블레이더즈",
+	"publishers": ["Hudson Soft"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "April 21, 2011",
+	"serial_number": "BRZK",
+	"synopsis": "Players can let rip with single-player fun or duel with friends in this spinning top combat game for Nintendo DS."
+}

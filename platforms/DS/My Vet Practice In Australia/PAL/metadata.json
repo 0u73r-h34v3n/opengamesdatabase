@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Radon Labs"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "My Vet Practice: In Australia",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 19, 2009",
+	"serial_number": "CTDP",
+	"synopsis": "Get ready for an adventure at your very own Paws & Claws Pet Vet clinic down under! Its your job to nurture and love all of the wild animals down under and bring them back to health."
+}

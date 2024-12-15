@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Chunsoft", "The Pokémon Company"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES"],
+	"name": "Pokémon Mystery Dungeon: Explorers of Time",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 4, 2008",
+	"serial_number": "YFTP",
+	"synopsis": "See the world through the eyes of a Pokémon and step into an adventure full of mystery in Pokémon Mystery Dungeon: Explorers of Time for Nintendo DS."
+}

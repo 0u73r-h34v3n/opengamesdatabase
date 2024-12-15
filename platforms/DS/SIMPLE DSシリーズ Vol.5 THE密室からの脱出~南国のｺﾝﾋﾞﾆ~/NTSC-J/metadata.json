@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "@SIMPLE DSシリーズ Vol.5 THE密室からの脱出~南国のｺﾝﾋﾞﾆ~",
+	"publishers": ["ディースリー・パブリッシャー"],
+	"release_date": "October 27, 2010",
+	"serial_number": "K5KJ",
+	"synopsis": "Lit. \"@SIMPLE DS Series Vol.5 THE Escape from the Secret Room ~Tropical Convenience Store~\" a.k.a. Escape Trick: Convenience Store (NTSC-U), K5KP\tGO Series: Escape Trick Convenience Store (PAL)"
+}

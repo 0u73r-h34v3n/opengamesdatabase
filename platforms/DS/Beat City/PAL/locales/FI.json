@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Beat City",
+	"synopsis": "Beat City on 20 minipelin kokoelma. Pelissä pelaaja pyrkii palauttamaan minipelien avulla rytmin ja riemun nimikkokaupungin kaduille stylus-kynällä kosketusnäyttöä näppäillen, käytössä on stylus-kynän kolme eri komentoa: nopea napautus, pitempi painallus ja sivellinveto. Kukin minipeli kestää kahdesta kolmeen minuuttia. Kentät alkavat ankean näköisinä, mutta muuttuvat menestyksen myötä värikkäämmiksi ja saavat uusia elementtejä. Biisin lopussa ruutu täyttyy kuvallisesta ilotulituksesta."
+}

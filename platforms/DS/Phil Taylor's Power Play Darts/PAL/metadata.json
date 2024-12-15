@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Iguana Entertainment"],
+	"genres": ["Darts", "Sports"],
+	"name": "Phil Taylor's Power Play Darts",
+	"publishers": ["Funbox Media"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 2, 2011",
+	"serial_number": "B26P",
+	"synopsis": "Welcome to the wacky world of Phil Taylor's Power Play Darts. If you follow a career you'll encounter Phil's crazy home town, where you can play 10 different pub darts games, from Around the Clock to Countdown, Golf and Warfare, and visit the travelling Carnival and its games of Balloon Pop, Duck Shoot and Target Practice."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Educational", "Puzzle"],
+	"name": "Word Academy",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 23, 2009",
+	"serial_number": "CYCP",
+	"synopsis": "Are you curious? Do you like to learn new things? What is a palindrome? Learn interesting new words in a fun way with Word Academy."
+}

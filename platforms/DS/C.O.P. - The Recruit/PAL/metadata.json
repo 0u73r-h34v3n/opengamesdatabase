@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["V.D. dev"],
+	"genres": ["Action"],
+	"locales": ["DE"],
+	"name": "C.O.P. - The Recruit",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 3, 2009",
+	"serial_number": "BDUP",
+	"synopsis": "You are Dan Miles, a former underground street racer and new recruit in the Criminal Overturn Program (C.O.P.). Under the terms of the C.O.P., you have become a street detective working to protect New York citizens against large-scale threats."
+}

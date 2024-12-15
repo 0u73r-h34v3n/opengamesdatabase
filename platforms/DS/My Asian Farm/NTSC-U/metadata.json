@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "My Asian Farm",
+	"publishers": ["BiP media"],
+	"release_date": "August 11, 2011",
+	"serial_number": "KL3E",
+	"synopsis": "My Asian Farm is a simulation game! At the beginning, all you own is an empty field, a few yuans and a single hen... You need to feed the hen and take care of it. Well-fed with seed, your hen will lay eggs which can then be sold to the Shopkeeper. With this money, you can buy new animals at the Farmers’ Market. Little by little as your farm builds up, you will unlock certain bonuses (a pagoda, a rickshaw, a guard dog, etc.). And you will be able to exchange your animals with your friends who play My Farm, My Exotic Farm, My Asian Farm or My Australian Farm! • 6 kinds of animals to customize • Take care of your animals (food, cleanliness, health, etc.) • Many farm improvements to buy and bonuses to collect • Exchange of animals and products with other players"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["PopCap Games"],
+	"genres": ["Puzzle"],
+	"name": "Bookworm",
+	"publishers": ["PopCap Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 15, 2011",
+	"serial_number": "BKWP",
+	"synopsis": "Spell F-U-N on the run in an all-new Bookworm for the Nintendo DS! Have an appetite for words? Then join Lex the Bookworm in PopCap's hit word-puzzle game for the Nintendo DS."
+}

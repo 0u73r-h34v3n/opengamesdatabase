@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"name": "Inazuma Eleven 2: Blizzard",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 16, 2012",
+	"serial_number": "BEBP",
+	"synopsis": "Choose from over 1,500 players and create the ultimate alien-beating football team in Inazuma Eleven 2!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "5 in 1 Solitaire",
+	"publishers": ["Digital Leisure"],
+	"release_date": "July 16, 2010",
+	"serial_number": "K5IP",
+	"synopsis": "Now you can take five of the most popular solitaire games with you on the go! 5 in 1 Solitaire features the always popular Klondike, Spider and FreeCell games as well as the unique Golf and Gaps versions of solitaire. Each of these versions has a unique gameplay style that is easy enough for any novice player to enjoy, but will also challenge the expert solitaire player. You’ll also be able to view tutorials for each game as well as track your scores and gaming stats to see your progress. See how fast you can win!"
+}

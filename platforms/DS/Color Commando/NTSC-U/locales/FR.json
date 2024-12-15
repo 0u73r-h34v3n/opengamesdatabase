@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Color Commando",
+	"synopsis": "Color Commando est un nouveau jeu de réflexion/plateform très original. Dans ce jeu, vous partez à la chasse aux trésors ! Cependant, un grand nombre de méchants monstres de couleur vous bloquent le chemin. Ramassez des blobs de couleur pour essayer de les vaincre ! Dans chaque niveau, les monstres de couleur vous bloqueront le chemin et essaieront de vous attraper ! Que pouvez-vous faire pour vous en sortir ? Collectionnez les blobs de couleur éparpillés dans le niveau. Vous pouvez utiliser un blob de peinture pour peindre un spot de peinture dans le monde. Si un monstre de la même couleur entre en contact avec le spot de peinture, il se dissoudra dedans. Quand cela arrive, le monstre ne peut plus faire de mal au joueur ! Il y a 5 mondes, chacun contenant 4 niveaux normaux et un niveau étoilé. Pour débloquer le niveau étoilé, il vous suffit de trouver tous les trésors dans les 4 autres niveaux."
+}

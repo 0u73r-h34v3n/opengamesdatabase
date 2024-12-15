@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "My Little Restaurant",
+	"publishers": ["QubicGames"],
+	"release_date": "February 28, 2011",
+	"serial_number": "KLTE",
+	"synopsis": "Welcome to My Little Restaurant. Get in here and turn this place around, from a small diner to a crowded eating palace. Help Mikey and Annie seat the guests, collect orders, deliver meals and earn money. Every once in a while jump into the kitchen and prepare some tasty burgers or perfect sushi. You won’t find a better deal at any other place. Game Features: *Five Restaurant Themes: American Diner, Japanese Bar, Ancient Palace, Picnic Fun, and Space Lunchroom *Two extra cooking games: Burgers for the Chef and Sushi Master Challenge *Thirty-three unique levels *Extra features and power-ups *Up to 40 guests at a time"
+}

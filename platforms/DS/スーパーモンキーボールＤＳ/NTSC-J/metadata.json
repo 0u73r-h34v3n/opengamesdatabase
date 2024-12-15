@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Puzzle"],
+	"name": "スーパーモンキーボールＤＳ",
+	"release_date": "December 1, 2005",
+	"serial_number": "AMOJ",
+	"synopsis": "It’s a Super Monkey Ball spectacular on Nintendo DS! Cheeky monkeys Aiai, Meemee, Gongon and Baby return to a perilous land of slender ledges, towering peaks and shifting platforms."
+}

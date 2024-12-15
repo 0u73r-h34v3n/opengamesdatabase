@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Music on: Acoustic Guitar",
+	"publishers": ["Abylight"],
+	"release_date": "September 10, 2010",
+	"serial_number": "KG6V",
+	"synopsis": "An acoustic guitar in your pocket! Play your favourite songs easily, thanks to the pre-selection chord option, and enjoy the sound quality achieved. Hear the fingers on the frets and the nails while strumming! A directory of over 900 chords shows you how to place your fingers on a real guitar and let's you listen to them while selected. 5 different styles will accompany you to set the mood."
+}

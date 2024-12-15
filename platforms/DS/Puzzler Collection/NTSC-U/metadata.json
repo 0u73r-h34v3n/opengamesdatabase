@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["2waytrafic"],
+	"genres": ["Puzzle"],
+	"name": "Puzzler Collection",
+	"publishers": ["ZOO Digital Publishing", "Zushi Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 8, 2008",
+	"serial_number": "CPCE",
+	"synopsis": "We're putting a whole new twist on your favorite puzzle games! Experience the classic Crosswords, Sudoku, Word Search and Fitword puzzles you love with all-new, interactive video game play. With over 2,000 puzzles and three difficulty levels, Puzzler will wrack your brain as you try to solve them all!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtual Playground"],
+	"genres": ["Adventure", "Arcade", "Puzzle"],
+	"name": "Easter Eggztravaganza",
+	"publishers": ["Microvalue"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 28, 2013",
+	"serial_number": "K2EE",
+	"synopsis": "Everywhere in this amazing Easter Wonderland is crammed full of Easter Eggs, bunnies, sweets and fabulous toys. Mum takes Mike and Sally to get freshly laid eggs from the farm, then they come home to paint them. Meanwhile, the Easter Bunny runs past and leaves eggs all over the backyard for them to find. Next, the family go downtown to the shopping centre, then visit Auntie Janet’s house, before going to the nearby church for the ultimate Mega Easter Egg Hunt. Play captivating minigames such as spot-the-difference, jigsaw puzzles and many more in an Easter Eggztravaganza for all the family to enjoy."
+}

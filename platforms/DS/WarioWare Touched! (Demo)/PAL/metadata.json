@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Action", "Demo", "Party"],
+	"name": "WarioWare: Touched! (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 4, 2005",
+	"serial_number": "A22P",
+	"synopsis": "Wario and his wacky companions have returned to transform your touch screen into a playground of possibilities, with 180 wild microgames."
+}

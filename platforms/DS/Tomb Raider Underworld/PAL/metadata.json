@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Crystal Dynamics"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "IT"],
+	"name": "Tomb Raider: Underworld",
+	"publishers": ["Eidos Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "YX8X",
+	"synopsis": "Lara’s back! And this time she’s taking on the power of the Norse Gods in Tomb Raider: Underworld on Nintendo DS."
+}

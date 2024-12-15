@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Candle Route",
+	"publishers": ["Teyon"],
+	"release_date": "July 26, 2012",
+	"serial_number": "K9YP",
+	"synopsis": "Sparky has been entrusted to bring the light to the Crayon Castle before nightfall. Lead Sparky through over 100 colourful levels to collect matches and light candles. Don’t be surprised to find various obstacles like bombs, puddles, dynamite or dead end paths! This unique and beautiful game will light a fire in the heart of every puzzle fan!"
+}

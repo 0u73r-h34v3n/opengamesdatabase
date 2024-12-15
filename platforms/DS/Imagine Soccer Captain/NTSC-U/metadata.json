@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Powerhead Games"],
+	"genres": ["Management Simulation", "Simulation", "Soccer", "Sports"],
+	"name": "Imagine: Soccer Captain",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 11, 2009",
+	"serial_number": "CENE",
+	"synopsis": "Now you can be a part of a winning soccer team with Olympic gold-medalist Mia Hamm as your coach! Interact with teammates on and off the field to build camaraderie and become a better team. Run, kick, pass and dribble as your team competes in local tournaments and work your way up from beginner to pro levels!"
+}

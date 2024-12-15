@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Quebec"],
+	"genres": ["Action", "Fighting"],
+	"name": "Combat of Giants: Dinosaurs",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 31, 2008",
+	"serial_number": "CD5P",
+	"synopsis": "Explore and conquer a variety of terrain maps as you battle other dinosaurs for eggs and fossils. Use these to unlock attack and defense features like thorns, scales, and camouflaging color to make your dinosaur stronger and faster! Conquer the world, then challenge your friends!"
+}

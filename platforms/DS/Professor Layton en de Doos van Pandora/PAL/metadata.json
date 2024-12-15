@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["NL"],
+	"name": "Professor Layton en de Doos van Pandora",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "YLTH",
+	"synopsis": "Professor Layton en de Doos van Pandora bevat meer dan 150 nieuwe hersenkrakers, raadsels en logicapuzzels die je zullen uitdagen en verrukken."
+}

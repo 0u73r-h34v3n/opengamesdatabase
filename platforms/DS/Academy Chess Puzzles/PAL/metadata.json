@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Academy: Chess Puzzles",
+	"publishers": ["Gamelion"],
+	"release_date": "December 27, 2012",
+	"serial_number": "KKZP",
+	"synopsis": "Play chess like never before and solve hundreds of puzzles in Academy: Chess Puzzles. Whether you're an advanced chess player or you've just started the adventure with this exciting game – you will spend hours finding solutions to 750 brain-twisting chess puzzles. Two modes, achievements, and intuitive stylus and button controls guarantee an enjoyable, addictive and satisfying adventure with Academy: Chess Puzzles."
+}

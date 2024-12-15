@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["IT"],
+	"name": "Il Professor Layton e lo Scrigno di Pandora",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "YLTI",
+	"synopsis": "Il professor Layton e lo Scrigno di Pandora offre un nuovissimo mistero da scoprire e oltre 150 nuovi rompicapi, per sfidare e deliziare i giocatori."
+}

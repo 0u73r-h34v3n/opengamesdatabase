@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation", "Sports"],
+	"name": "Curling Super Championship",
+	"publishers": ["Cypronia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 10, 2012",
+	"serial_number": "KVCP",
+	"synopsis": "Curling is the world famous sport in which players slide stones across a sheet of ice toward a target area, the \"house\". Two teams, each of four players, take turns sliding heavy stones, also called \"rocks\". You can challenge your friends to a multiplayer game to show everyone who the best player is! Key Features: - Realistic curling game - Real-time physics - Colourful 3D graphics - Play against the computer AI or player vs player - Multiplayer (Hotseat, or with several copies of the game) - Unlockable achievements"
+}

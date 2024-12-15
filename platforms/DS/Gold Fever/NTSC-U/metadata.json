@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Gold Fever",
+	"publishers": ["TikGames"],
+	"release_date": "June 16, 2011",
+	"serial_number": "KG7E",
+	"synopsis": "Take a trip back in time to explore the great American Gold Rush in this extremely challenging arcade puzzle game. Flip coins to make matches of three or more while you mine your way to Gold Country, California. Gold Fever will challenge even the most dedicated puzzle players with its clever power ups, easy to play mechanic, and progressively more challenging game boards. Enjoy one hundred and sixty strike-it-rich levels while discovering new power ups, coins and challenges as you progress."
+}

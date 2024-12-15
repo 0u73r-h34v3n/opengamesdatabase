@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"locales": ["DE", "ES"],
+	"name": "KINGDOM HEARTS 358/2 Days",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 9, 2009",
+	"serial_number": "YKGP",
+	"synopsis": "KINGDOM HEARTS 358/2 Days is the first Nintendo DS offering from SQUARE ENIX and Disney. All new features such as multiplayer missions and Limit Breaks make it a game to seek out!"
+}

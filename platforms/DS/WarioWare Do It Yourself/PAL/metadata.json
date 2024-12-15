@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems", "Nintendo"],
+	"genres": ["Action", "Party"],
+	"locales": ["ES"],
+	"name": "WarioWare: Do It Yourself",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 30, 2010",
+	"serial_number": "UORP",
+	"synopsis": "Create your very own microgames as part of the craziness that is WarioWare D.I.Y! Play over 90 pre-installed microgames and make your own in the D.I.Y. Studio. Then share your games with friends and family or enter themed monthly competitions!"
+}

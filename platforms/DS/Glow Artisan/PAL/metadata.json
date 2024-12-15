@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Glow Artisan",
+	"publishers": ["Powerhead Games"],
+	"release_date": "October 22, 2010",
+	"serial_number": "KGLV",
+	"synopsis": "Solve mind-bending puzzles in this unique and colourful game! Description: Use your wits and ingenuity to solve over 100 puzzles and earn over 300 medals. Play Time Trial, Randomizer, and Multiplayer modes for an endless supply of new challenges! Create new puzzles with the built-in editor or use the DSi Camera to turn your photos into puzzles. PLAY - Over 100 pre-built levels! - Endless user-created and randomly-generated puzzles! - Earn Trophies and Medals! - Unlock Time Trial and Randomizer modes! - Get help from the Auto Solver when you are stuck! CREATE - Build your own puzzles from scratch with the Puzzle Creator! - Turn your world into Glow Puzzles by transforming DSi photos into colourful challenges! - Use stored photos or take new pictures from within the game! CONNECT - Challenge other players in Handoff, a fun and competitive wireless battle of wits! - Wirelessly swap puzzles you've created with friends!"
+}

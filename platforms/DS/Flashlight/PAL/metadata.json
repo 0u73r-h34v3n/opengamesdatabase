@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Flashlight",
+	"publishers": ["Kaasa"],
+	"release_date": "March 19, 2010",
+	"serial_number": "KFSP",
+	"synopsis": "When it is dark, people need a simple source of light. Flashlight changes the dual screen of your Nintendo DSi into a torch with added features. Change the colour and intensity of the light. Use your Nintendo DSi to read under the duvet or to get a serious source of light while taking night hikes. Flashlight will also be helpful if you are stranded. You can use the warning light if your car breaks down, or the S.O.S. function if your plane has to land on a deserted island."
+}

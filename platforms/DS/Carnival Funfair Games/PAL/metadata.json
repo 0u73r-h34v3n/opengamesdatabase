@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cat Daddy Games"],
+	"genres": ["Arcade", "Party"],
+	"locales": ["ES"],
+	"name": "Carnival: Funfair Games",
+	"publishers": [
+		"GameTek",
+		"Global Star Software",
+		"Rockstar Games",
+		"Take-Two Interactive"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 12, 2008",
+	"serial_number": "YYCP",
+	"synopsis": "Come and see! Lots of entertaining carnival games are waiting for you, such as the new Clown Bash, Bumper Boats, Wild West Exhibit... A frenetic combination of buttons, blows, screams and maneuvers with the Nintendo DS stylus that makes Frogs fly, balloons explode and ducks quack! Enter Carnival: Funfair Games and let the fun begin!"
+}

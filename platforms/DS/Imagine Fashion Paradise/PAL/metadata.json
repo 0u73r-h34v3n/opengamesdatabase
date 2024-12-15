@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["magic pockets"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"locales": ["ES"],
+	"name": "Imagine Fashion Paradise",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 5, 2010",
+	"serial_number": "VIFV",
+	"synopsis": "Live the thrilling life of a fashion stylist. Express your creativity by finding the perfect outfits for your clients based on their specific requests and styles, whether preppy or elegant."
+}

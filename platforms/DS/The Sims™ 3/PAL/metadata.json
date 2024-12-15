@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Sims"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "The Sims™ 3",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 29, 2010",
+	"serial_number": "VS3V",
+	"synopsis": "The Sims™ 3 players will be able to create Sims with unique personalities, fulfill their wishes... or not, and control their lives within an open neighborhood. Plus, you'll get a host of new features that make it easier than ever to create chaos thanks to \"Karma Powers,\" which grant instant powers over Sims. Players will be able to help their Sims by giving them \"luck\", bestowing them with \"instant beauty\", or be a little mean and curse other Sims. But players will have to use these powers carefully, they can have adverse effects and the Karma Powers can work against you."
+}

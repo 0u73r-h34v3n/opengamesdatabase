@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Adventure"],
+	"name": "The Suite Life of Zack & Cody: Circle of Spies",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 4, 2008",
+	"serial_number": "A3HP",
+	"synopsis": "Stop Spies From Ruining The Tipton. Sneak past hotel staff & use cool gadgets such as the Auto-Pitcher and Spring Shoes. Search for clues at the traveling carnival. Play as London & Maddie in a mini-game"
+}

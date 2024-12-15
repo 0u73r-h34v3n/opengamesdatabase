@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rhythm Core AlphaRhythm Core Alpha",
+	"publishers": ["SoftEgg"],
+	"release_date": "January 21, 2011",
+	"serial_number": "K5AV",
+	"synopsis": "Make music with your Nintendo DSi system! Rhythm Core Alpha is an advanced music creation system, designed for creating and performing live music; an electronic music instrument designed for performing! Rhythm Core Alpha makes it easy and fun to build drum and instrument loops, and then solo over them using the stylus. You can change the key & scale of your music at the press of a button! The 2D solo mode is linked to the backing key & scale, so you can never hit a wrong note! A powerful pattern mode sequences chord and beat changes to build a whole song, or switch to as you desire. 100's of fully adjustable drum and instrument sounds included."
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Cards", "Poker", "Simulation", "Traditional"],
+	"name": "World Poker Tour: Texas Hold 'Em",
+	"publishers": ["Hands-On Mobile"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "May 24, 2010",
+	"serial_number": "KWOE",
+	"synopsis": "Play like the pros in WPT Texas Hold 'Em on Nintendo DSiWare, the official game tested and approved by the experts at the WPT! Whether you're just learning to play or you're an old-school player wanting to hook some fish, Texas Hold 'Em has tables for all players. Choose to play solo in two unique tournaments designed specifically for Nintendo DSiWare or use the DS Wireless Communication and play with your friends and take down monster pots. The action is in your hands in the most authentic poker game ever brought to the Nintendo DSi."
+}

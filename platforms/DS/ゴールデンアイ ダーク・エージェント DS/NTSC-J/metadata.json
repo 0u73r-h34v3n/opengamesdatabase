@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "ゴールデンアイ ダーク・エージェント DS",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "August 4, 2005",
+	"serial_number": "AGEJ",
+	"synopsis": "Who needs a license to kill? In this frantic first-person shooter, play as an ex-00 agent gone rogue as you shoot it out against enemy agents and evil henchmen alike. Interact with classic Bond villains like Auric Goldfinger, Dr."
+}

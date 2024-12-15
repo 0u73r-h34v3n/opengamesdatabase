@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Elephant Games"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Quest: Expeditions",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 19, 2008",
+	"serial_number": "YJQX",
+	"synopsis": "The highly successful jewel matching game is here for the Nintendo DS! The popular jewel matching adventure returns in a daring journey across the seas and into the heart of Africa."
+}

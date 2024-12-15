@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["exozet"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["DE"],
+	"name": "Hotel Deluxe: Greif nach den Sternen",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 6, 2009",
+	"serial_number": "BHLD",
+	"synopsis": "Ein eigenes Hotel managen und es zur Top-Adresse der Stars machen? Das ist der Traumberuf vieler Mädchen. In vier Metropolen verwirklichen die Spielerinnen ihren Traum vom Leben einer Hotel-Managerin und lernen alle Facetten dieses aufregenden Berufs kennen: Zimmer, Restaurant und Bar müssen mit den coolsten Accessoires ausgestattet werden, um die Gäste zu beeindrucken."
+}

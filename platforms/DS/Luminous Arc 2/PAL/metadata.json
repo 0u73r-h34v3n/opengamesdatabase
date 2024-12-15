@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Imageepoch"],
+	"genres": ["Role-Playing", "Strategy", "Strategy Rpg", "Turn-Based Strategy"],
+	"locales": ["ES"],
+	"name": "Luminous Arc 2",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 9, 2009",
+	"serial_number": "YL2P",
+	"synopsis": "More Strategy, More Witches, More Fun! As the threat of a rogue Witch looms over Carnava, the Queen calls upon the Magic Association to save the land."
+}

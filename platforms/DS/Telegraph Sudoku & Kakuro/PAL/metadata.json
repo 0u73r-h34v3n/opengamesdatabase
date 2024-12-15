@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "IT", "NL", "PT"],
+	"name": "Telegraph Sudoku & Kakuro",
+	"publishers": ["Sanuk Games"],
+	"release_date": "June 18, 2010",
+	"serial_number": "KXLP",
+	"synopsis": "Play 500 puzzles from the 'Telegraph' like you've never played them before! Sudoku, Kakuro, Mini-Sudoku, Sudoku X and Jigsaw Sudoku come in multiple levels of difficulty, with a handy interface that transfigures the classic pen-and-paper experience."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sanuk Games"],
+	"genres": ["Puzzle"],
+	"name": "The Times Crossword Challenge",
+	"publishers": ["Sanuk Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 6, 2009",
+	"serial_number": "YQOP",
+	"synopsis": "Play hundreds of crossword puzzles from the UK's Finest Newspaper like you've never played them before! The handy interface transfigures the classic pen-and-paper experience."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Fighting"],
+	"name": "BLEACH DS 蒼天に駆ける運命",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "January 26, 2006",
+	"serial_number": "ABLJ",
+	"synopsis": "Get to grips with the fast-paced fighting action of Bleach: The Blade of Fate on Nintendo DS!"
+}

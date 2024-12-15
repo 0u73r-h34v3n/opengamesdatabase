@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Pinball Pulse: The Ancients Beckon",
+	"publishers": ["Nintendo"],
+	"release_date": "February 2, 2012",
+	"serial_number": "KZPV",
+	"synopsis": "Rise to Zeus’s challenge and become a high-score champion in this pinball game based on Greek mythology. Pinball Pulse: The Ancients Beckon™ brings you all the lights, sounds and features of a real pinball table that you can take anywhere. Choose between Regular Game or Daily Game modes, and begin your odyssey for an almighty score. Collect tributes to boost your points gained through modes based on legends like The Golden Fleece, the Flight of Icarus and Medusa, who can turn your steel ball into stone! Enjoy high-speed pinball action spread across both screens of the Nintendo DSi, complete with an authentic dot matrix-style animated scoreboard and realistic ball physics. Also, listen out for the rousing soundtrack and the voices of Zeus and Hera. For pinball fans, this is truly a gift from the gods!"
+}

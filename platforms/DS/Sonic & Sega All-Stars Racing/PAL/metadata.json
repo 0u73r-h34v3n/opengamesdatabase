@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sumo Digital"],
+	"genres": ["Kart Racing", "Racing"],
+	"locales": ["ES"],
+	"name": "Sonic & Sega All-Stars Racing",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 26, 2010",
+	"serial_number": "CS3P",
+	"synopsis": "Choose your favourite character and race around classic locations from Sega titles in Sonic & Sega All-Stars Racing. Drive bikes, cars, bananas and planes in this exciting new racing game for the Nintendo DS."
+}

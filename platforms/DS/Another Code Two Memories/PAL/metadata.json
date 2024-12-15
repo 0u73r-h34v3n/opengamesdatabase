@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cing Inc."],
+	"genres": ["Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "Another Code: Two Memories",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 24, 2005",
+	"serial_number": "ANOP",
+	"synopsis": "For 11 years, Ashley believed her parents were dead. But on the eve of her 14th birthday, she receives a letter from her father, which whisks her on an adventure she will never forget."
+}

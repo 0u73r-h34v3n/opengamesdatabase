@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Rooms（ルームズ） 不思議な動く部屋",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "April 29, 2010",
+	"serial_number": "BRMJ",
+	"synopsis": "Challenge your solving skills by helping Mr X. escape the perils of 100 different locations in Rooms: The Main Building. Complete sliding puzzles and use a whole array ofl items to get him safely home before creating your own unique levels!"
+}

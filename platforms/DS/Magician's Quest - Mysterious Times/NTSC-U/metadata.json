@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Aquria"],
+	"genres": ["Adventure", "Life Simulation", "Role-Playing", "Simulation"],
+	"name": "Magician's Quest - Mysterious Times",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "May 11, 2009",
+	"serial_number": "YNNE",
+	"synopsis": "School was never meant to be this much fun! Enrol as a new student at the Magic Academy and any lingering memories of dull lessons and boring homework will be banished forever."
+}

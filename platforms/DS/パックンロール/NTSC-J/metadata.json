@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "パックンロール",
+	"release_date": "July 28, 2005",
+	"serial_number": "APNJ",
+	"synopsis": "Pac 'N Roll sees the ever-adventurous Pac-Man hit Nintendo DS for a romp across some spectacularly spaced-out environments."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mad Monkey Studio", "Motion Twin"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "AlphaBounce",
+	"publishers": ["Mad Monkey Studio"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 9, 2010",
+	"serial_number": "K2XV"
+}

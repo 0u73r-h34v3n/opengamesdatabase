@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Creatures Inc."],
+	"genres": ["Action", "Adventure", "Role-Playing", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "Pokémon Ranger: Guardian Signs",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 5, 2010",
+	"serial_number": "B3RP",
+	"synopsis": "Get ready for an exciting adventure in the third instalment of the action-packed Pokémon Ranger series: Pokémon Ranger: Guardian Signs."
+}

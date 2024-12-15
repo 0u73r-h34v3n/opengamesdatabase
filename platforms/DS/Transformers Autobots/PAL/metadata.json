@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["FR"],
+	"name": "Transformers : Autobots",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 20, 2007",
+	"serial_number": "AFZF",
+	"synopsis": "Transformers : Autobots permet aux joueurs d'influencer l'issue de la bataille pour la Terre, en la protégeant en tant qu'Autobots ou en la détruisant en tant que Decepticons. Les joueurs découvriront également la puissance imparable et la taille de leurs robots préférés, tels que Bumblebee, Barricade et autres."
+}

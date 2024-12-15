@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Fuse Games"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Metroid Prime Pinball",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "AP2P",
+	"synopsis": "With Samus in Morph Ball mode, it's time to take a spin!"
+}

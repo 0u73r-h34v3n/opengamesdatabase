@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Nagoya"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Petz Nursery",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 17, 2010",
+	"serial_number": "KPKV",
+	"synopsis": "The cutest newborn kittens are here, and they need someone to care for and love them. Adopt your very own kittens, bond with them, and help them grow into strong and healthy cats. • Choose from a variety of popular cat breeds including Siamese, Maine Coon and Persian. • Cuddle your cute newborn just like a mum would: give them milk, keep them clean, make sure their temperature is warm enough and give them all the love they deserve. • Watch your baby pets evolve and surprise you. Provoke unpredictable behaviours and memorable moments. They have unique reactions and they do lots of unexpected, funny and silly things. Please note that elements of this software may have been featured in previously released software."
+}

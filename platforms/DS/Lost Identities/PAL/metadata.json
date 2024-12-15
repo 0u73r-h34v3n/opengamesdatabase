@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Adventure"],
+	"locales": ["DE"],
+	"name": "Lost Identities",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 15, 2010",
+	"serial_number": "VLIP",
+	"synopsis": "An exciting mystery thriller guaranteed to keep you in suspense! Teenagers are disappearing without a trace, only to reappear with new personailities. FBI agents Derek and Alice begin with their investigation and are soon caught up between the government, FBI, and pharmaceuticals giant BioPharmaka. Time is running out..."
+}

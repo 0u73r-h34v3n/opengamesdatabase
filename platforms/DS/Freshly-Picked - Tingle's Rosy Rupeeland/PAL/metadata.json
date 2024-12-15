@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure"],
+	"name": "Freshly-Picked - Tingle's Rosy Rupeeland",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 14, 2007",
+	"serial_number": "ACHP",
+	"synopsis": "Take a trip into the weird and wonderful world of Tingle as he becomes the hero of his very own adventure!"
+}

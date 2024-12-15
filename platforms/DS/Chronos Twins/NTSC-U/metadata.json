@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Platformer", "Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Chronos Twins",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "January 18, 2010",
+	"serial_number": "K9TE",
+	"synopsis": "Enter into the original world of Chronos Twins, where you'll live a fantastic adventure full of innovative ideas never seen before in any game. Thanks to its Dual Gameplay game system you'll be able to control Nec in two temporal scenarios at the same time. Chronos Twins mixes action, platforms, adventure and puzzles that will challenge your intelligence and ability. If you like games with a real challenge, there's no doubt that Chronos Twins is the game you're looking for. Special Features: • Explore an unknown world where you'll discover endless hidden secrets. • 19 levels of fantastic atmosphere fully packed with alien beings and spectacular final bosses. • Play in two worlds simultaneously to progress and solve challenges that would be impossible to finish in only one world otherwise. • Fantastic 3D graphics, with particle effects, fog and blooming. • Change the past moving items, defeating creatures...and the present will change accordingly in real time."
+}

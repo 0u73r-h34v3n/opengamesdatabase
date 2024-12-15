@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Kart Racing", "Racing"],
+	"name": "Mario Kart DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 14, 2007",
+	"serial_number": "AMCE",
+	"synopsis": "Mario Kart DS is a racing game part of the Mario Kart series for the Nintendo DS, developed and published by Nintendo. Mario Kart DS was released first in North America, on November 14, 2005, and is the only mainline Mario Kart game to be released first in North America. Unlike its predecessor, Mario Kart: Double Dash!!, it retains the traditional single-driver kart racing elements in the Mario Kart series, where players race against seven competitors in obstacle tracks, using item-based weaponry to gain further advantages over their opponents. It is the first handheld Mario Kart title to use live-rendered 3D graphics for most of the objects in the game, including characters, vehicles, and racetracks."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Pokémon Ranger (Demo)",
+	"synopsis": "En lugar de ser un entrenador Pokémon, eres un Ranger, y tu responsabilidad es la de proteger a los Pokémon salvajes. En Pokémon Ranger las capturas de Pokémon también son totalmente distintas: con un Capturador, debes cazar Pokémon haciendo círculos rápidamente con el lápiz táctil."
+}

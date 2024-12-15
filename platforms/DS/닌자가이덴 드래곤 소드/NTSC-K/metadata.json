@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Team Ninja"],
+	"genres": ["Action"],
+	"name": "닌자가이덴 드래곤 소드",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "12"
+		}
+	],
+	"release_date": "August 18, 2008",
+	"serial_number": "YNGK",
+	"synopsis": "Step into the shoes of a martial arts master and battle to save the world from eternal darkness in Ninja Gaiden Dragon Sword."
+}

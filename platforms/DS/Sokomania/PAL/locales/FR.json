@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sokomania",
+	"synopsis": "Sokomania est une variante du célèbre jeu du gardien d'entrepôt. Différentes caisses sont placées sur la surface de jeu. Le joueur contrôle un personnage qui peut pousser les caisses vers l’avant. Le but du jeu est de placer toutes les caisses sur les cases indiquées. Texte écran en anglais."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Handheld Games"],
+	"genres": ["Adventure"],
+	"name": "That's So Raven - Psychic on the Scene",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 2, 2006",
+	"serial_number": "ARVE",
+	"synopsis": "This harebrained mystery instigated by Raven's visions of losing her favorite theater allows players to enter and explore Raven's colorful world. In order to save the day, Raven has to gather clues to solve mysteries surrounding theatre, learn who's responsible for the epidemic at the Chill Grill, fix potential fashion mishaps, save her best friend who winds up missing and so much more! Collect and combine items along your adventure that you can use to progress through an array of fun puzzle challenges that will ultimately help you find more clues - faster in That's So Raven: Psychic on the Scene. This marks the first That's So Raven game for the Nintendo DS."
+}

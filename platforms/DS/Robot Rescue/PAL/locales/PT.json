@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Robot Rescue",
+	"synopsis": "Robot Rescue is a fun logic game based on a simple but entertaining concept. Your mission is to free robots trapped in 45 evil computer labyrinths while avoiding deadly traps. Sound easy? Not so fast! Each robot shares linked controls... so when you move one, you move them all! It will take clever planning and nerves of steel to pull off this electronic escape. You will need to avoid many traps like mines or electrical circuits and use special elements for your advantage like glue stains. Choose one of 3 levels of difficulty and get ready for a challenge!"
+}

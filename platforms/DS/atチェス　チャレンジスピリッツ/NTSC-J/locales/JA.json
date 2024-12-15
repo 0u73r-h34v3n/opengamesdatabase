@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "atチェス　チャレンジスピリッツ",
+	"synopsis": "初めてチェスをプレイされる方にも分かりやすく、「基本的なルール」からゲームを有利に進めるための「戦術」までを解説。自分の駒をタッチすると移動範囲が表示され、相手の駒をタッチするとその敵駒の移動範囲も表示されます。初心者の方でも敵駒の移動範囲を確認しながらのプレイが可能です。他にも「待った」機能や「チャレンジモード」も搭載。さらにはダウンロードで対戦も楽しめます。"
+}

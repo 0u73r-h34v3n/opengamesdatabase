@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Easy Interactive"],
+	"genres": [
+		"Adventure",
+		"Hidden Object",
+		"Management Simulation",
+		"Simulation"
+	],
+	"name": "Gardenscapes",
+	"publishers": ["Joindots GmbH", "Purple Hills"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 16, 2012",
+	"serial_number": "TGAP",
+	"synopsis": "Gardenscapes is a mix of three different genres: hidden object, time management and sim. Players earn cash as they progress through hidden object levels and spend it to buy garden accessories to customize the garden to their taste and compete in the \"Best Garden\" contest."
+}

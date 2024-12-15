@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "A Topsy Turvy Life Turvy Drops",
+	"synopsis": "In Turvy Drops devi creare dei blocchi e farli cadere negli spazi liberi: forma delle linee con i blocchi per farli sparire. ● Endless Mode In questa modalità si procede distruggendo i blocchi nello schermo inferiore. Si passa al quadro successivo ogni volta che tutti i blocchi vengono eliminati. ● Puzzle Mode In questa modalità si procede attraversando dei quadri. Una volta che tutti i blocchi nello schermo inferiore vengono eliminati si passa al quadro successivo. Ogni quadro ha un limite di tempo e di mosse. Se non riesci a completare il quadro entro questi due limiti, la partita finisce. Il testo all'interno del gioco è in inglese."
+}

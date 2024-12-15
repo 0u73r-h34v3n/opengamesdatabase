@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Exozel Games"],
+	"genres": ["Board Game", "Cards", "Strategy"],
+	"locales": ["NL"],
+	"name": "De Kolonisten van Catan",
+	"publishers": ["Intenium Console"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 28, 2009",
+	"serial_number": "CN7H",
+	"synopsis": "Volg de juiste strategie bij de oprichting van nederzettingen en bij de bouw van wegen en handel op een slimme manier in ijzer, steen, hout, graan en wol. Win de heerschappij over Catan!"
+}

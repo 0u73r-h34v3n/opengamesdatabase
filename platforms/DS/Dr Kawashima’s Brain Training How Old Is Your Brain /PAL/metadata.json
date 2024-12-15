@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Educational", "Health", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Dr Kawashima’s Brain Training: How Old Is Your Brain?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 9, 2006",
+	"serial_number": "ANDP",
+	"synopsis": "Prepare for an exhilarating journey to enhance your mind with 'Dr Kawashima’s Brain Training: How Old Is Your Brain?' on Nintendo DS! Enter a world of mental challenges meticulously crafted by the renowned Dr. Kawashima, where every game is an opportunity to gauge and stimulate your cognitive abilities. Can you surpass your own limits and discover if your brain is younger than you think? Showcase your mental skills and surprise your friends as you transform your Nintendo DS into a tool for boosting your intelligence! Knowledge and fun converge in this game that only Nintendo can deliver!"
+}

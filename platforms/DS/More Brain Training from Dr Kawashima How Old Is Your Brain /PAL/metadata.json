@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Educational", "Health", "Puzzle"],
+	"locales": ["DE", "DK", "ES", "FI", "FR", "IT", "NL", "NO", "SE"],
+	"name": "More Brain Training from Dr Kawashima: How Old Is Your Brain?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 29, 2007",
+	"serial_number": "ANMP",
+	"synopsis": "Making use of the DS Touch Screen, both Brain Training titles call on you to get your grey matter in gear by completing fun challenges that test your mental awareness and memory."
+}

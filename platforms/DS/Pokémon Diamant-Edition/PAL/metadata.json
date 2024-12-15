@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["DE"],
+	"name": "Pokémon Diamant-Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2007",
+	"serial_number": "ADAD",
+	"synopsis": "Mit den Spielen Pokémon Diamant-Edition und Pokémon Perl-Edition , die exklusiv für den Nintendo DS erscheinen, erobert die neue Pokémon-Generation die Welt im Sturm!"
+}

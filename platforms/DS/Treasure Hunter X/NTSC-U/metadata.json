@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Silver Star Japan"],
+	"genres": ["Action", "Adventure", "Arcade", "Puzzle"],
+	"name": "Treasure Hunter X",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 14, 2011",
+	"serial_number": "K4EE",
+	"synopsis": "Many untouched caverns still exist in the world, waiting for someone brave enough to explore them. Within them lie vast troves of treasure and rare artefacts. Become Tyrol the treasure hunter, collect treasures and escape from the caverns. Be warned though – there are creatures lurking in the depths of the caverns, and nature is against you. Use your pickaxe wisely or you'll find yourself trapped and lost forever within the darkness of the caverns. Can Tyrol collect enough treasure in order to win the heart of the woman he loves?"
+}

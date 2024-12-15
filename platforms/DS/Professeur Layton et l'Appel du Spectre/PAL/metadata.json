@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Professeur Layton et l'Appel du Spectre",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 25, 2011",
+	"serial_number": "BLFF",
+	"synopsis": "Join Professor Layton for another baffling mystery, and solve brainteasers to crack the case. This thrilling puzzle game features 170+ puzzles and new minigames to keep your grey matter engaged for hours as you solve the mystery of Misthallery."
+}

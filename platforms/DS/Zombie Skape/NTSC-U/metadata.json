@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Horror"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Zombie Skape",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "December 13, 2012",
+	"serial_number": "KZYE",
+	"synopsis": "Ethan was Skateboarding in the park as usual. He practiced a lot every evening. His dream was to become number 1, and imitate his great idol \"Johnny Eagle\", the best skater of all times. One night, as he practiced, something strange was happening... Without knowing why, Ethan was surrounded by lots of Zombies. It was a nightmare. Now he will have to put everything he has learned through Skateboarding into practice to survive. Arcade game with a terrifying atmosphere. Learn to use the Skateboard to survive. Rescue as many girls as possible. Loads of Zombies onscreen. Ranking to compete against friends."
+}

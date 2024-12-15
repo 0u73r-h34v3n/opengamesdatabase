@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Shrek Terzo",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "A3SI",
+	"synopsis": "Salva Molto Molto Lontano e unisciti a Shrek e ai suoi amici in una missione che va oltre il film in questa fiaba divertente e folle. Gioca con i tuoi personaggi preferiti e i loro nuovi amici del film, che hanno abilità uniche e mosse spettacolari. Viaggia attraverso luoghi familiari, come Molto Molto Lontano, ed esplora nuove località nell'universo di Shrek. Combatti con un vasto cast di nuovi cattivi, tra cui l'enorme drago di ghiaccio, il musical Capitan Uncino e il subdolo Principe Azzurro."
+}

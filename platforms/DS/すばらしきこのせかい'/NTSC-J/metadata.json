@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"name": "すばらしきこのせかい'",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "July 27, 2007",
+	"serial_number": "AWLJ",
+	"synopsis": "It’s a race against the clock. A catastrophe of apocalyptic proportions is bearing down on Tokyo. Can you avert disaster or will the world meet its end?"
+}

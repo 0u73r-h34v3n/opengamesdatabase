@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Board Game", "Cards", "Strategy"],
+	"locales": ["JA"],
+	"name": "役満ＤＳ",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "March 31, 2005",
+	"serial_number": "AMJJ",
+	"synopsis": "Authentic mahjong that everyone can enjoy, from beginners to advanced players!"
+}

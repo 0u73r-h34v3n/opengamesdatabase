@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Jump Trials Extreme",
+	"publishers": ["G-Style"],
+	"release_date": "December 27, 2012",
+	"serial_number": "KZCE",
+	"synopsis": "Jump Trials is back and this time it's gone EXTREME! Jump Trials Extreme will test your running and jumping techniques to the limit, all over again! In this second version of Jump Trials there are new game features, new game modes and over 100 new stages to test your platform running and jumping skills. Take control of a stickman and race across an obstacle course to get the exit in just 10 seconds! Navigate your stickman across moving platforms, slippery surfaces, disappearing blocks, conveyor belts, spring pads and seesaws! With only 10 seconds to reach the exit, hesitating for even a split second can be the difference between success and failure! Test your running and jumping skills in three different game modes. Trials Mode - Test yourself over 100 increasingly challenging stages. Time Attack Mode - See how quickly you can complete each stage in a race against the clock. Challenge Mode - Collect three medals on your way to the exit before the time runs out."
+}

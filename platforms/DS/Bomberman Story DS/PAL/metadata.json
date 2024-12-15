@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amble", "Hudson Soft"],
+	"genres": ["Puzzle", "Role-Playing"],
+	"name": "Bomberman Story DS",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 3, 2008",
+	"serial_number": "ABNP",
+	"synopsis": "In a distant galaxy, join special agent Cheerful White as he explores the planets on a mission to find stolen scientific data taken from the Justice Department."
+}

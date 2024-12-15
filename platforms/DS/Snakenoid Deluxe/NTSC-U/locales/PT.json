@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Snakenoid Deluxe",
+	"synopsis": "Este jogo é uma combinação única dos conceitos dos jogos clássicos. O jogador controla a cobra com o stylus na tela inferior e tenta usá-la para fazer a bola saltar, a fim de destruir as pedras na tela superior. Em cada nível as pedras são distribuídas de forma diferente. Ao mesmo tempo, a cobra tem que evitar inimigos e pode coletar bônus que caem das pedras destruídas. O objetivo do jogo é vencer todos os níveis com o máximo de pontos possível. A cobra controlada pelo jogador é composta por segmentos flexíveis que fazem a bola saltar."
+}

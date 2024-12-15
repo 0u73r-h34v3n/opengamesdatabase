@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Spider-Man 2",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 12, 2005",
+	"serial_number": "AS2X",
+	"synopsis": "The world’s greatest superhero spins onto Nintendo DS! In Spidey’s latest spectacular, New York is under threat from street thugs and vicious super-villains alike, none of whom are deadlier than the deranged Doctor Octopus!"
+}

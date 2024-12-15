@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Snap Dragon Games"],
+	"genres": ["Action", "Arcade"],
+	"name": "Chicken Attack DS",
+	"publishers": ["Intenium Console"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 17, 2007",
+	"serial_number": "YA9P",
+	"synopsis": "Shoot bricks and obstacles as you run around the screen collecting your baby chicks; that's the only way to beat each level! Look out for powerups, bonus worms and treasures because they'll be cracking down on you as the levels progress."
+}

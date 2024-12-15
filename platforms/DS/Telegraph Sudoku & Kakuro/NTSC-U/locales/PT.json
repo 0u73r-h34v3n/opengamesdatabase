@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Telegraph Sudoku & Kakuro",
+	"synopsis": "Play number-puzzles from the 'Telegraph' like you've never played them before! Discover a whopping 500 puzzles of multiple types. You're in for many hours of game play! *Sudoku: Classic 9x9 Sudoku grids in 4 levels of difficulty. *Mini-Sudoku: Easier 6x6 grids. *Sudoku-X: 9x9 grids in which the diagonals must also be filled with all numbers from 1 to 9. *Jigsaw Sudoku: 9x9 grids with uncommon box shapes. *Kakuro: With its handy interface and intuitive controls, this game transfigures the classic pen-and-paper experience. Notable features include: - Registration of best times in the Hall of Fame. - Interactive hints prevent you from getting stuck! - Autosave as you go: you can stop and resume a puzzle at any time!"
+}

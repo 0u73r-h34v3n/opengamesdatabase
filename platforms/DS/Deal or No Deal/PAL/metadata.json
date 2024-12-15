@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artefacts Studio"],
+	"genres": ["Trivia"],
+	"locales": ["DE"],
+	"name": "Deal or No Deal",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 19, 2008",
+	"serial_number": "YLAD",
+	"synopsis": "Spielen Sie das Spiel, das die Nation fasziniert! Wunderschöne Models, ein geheimnisvoller Bankier und natürlich Howie! Die Regeln sind einfach. Wählen Sie eine Aktentasche und spielen Sie dann ein Nervenspiel mit dem berüchtigten Bankier."
+}

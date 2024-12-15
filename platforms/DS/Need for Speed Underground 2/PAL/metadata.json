@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Montreal"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Need for Speed Underground 2",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 27, 2005",
+	"serial_number": "AUGP",
+	"synopsis": "Dual-screen driving takes to the streets! Taking advantage of the Nintendo DS' powerful capabilities, this racer features some of the most detailed car models and impressive environments you'll ever play on the go. The racing action is displayed on the top screen, while the lower screen features a map of the current circuit to help you keep track of the track.You can use the Touch Screen to fire off a nitrous boost effect, or else customise your ride any way you choose. Plus, use the in-built paint program and stylus to create your own designs, and pimp your ride accordingly! Compete against other street racers, or play your friends - up to four players can race wirelessly against each other in the game's multiplayer mode. With a hip-hop soundtrack and 15 licensed motors, street racing doesn't get any more ferocious."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Racing"],
+	"name": "Need for Speed - Most Wanted",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 11, 2005",
+	"serial_number": "ANWP",
+	"synopsis": "Get ready for the ride of your life, in the thrilling world of underground street racing."
+}

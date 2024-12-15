@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["505 Games"],
+	"genres": ["Educational"],
+	"name": "I Did It Mum! Doll's House",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "BEHP",
+	"synopsis": "The first interactive doll's house game! Playing as Emily the Doll, you must help mum and dad out around the house."
+}

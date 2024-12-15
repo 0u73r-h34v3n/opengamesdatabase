@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Hero of Sparta",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "May 28, 2010",
+	"serial_number": "K4HV",
+	"synopsis": "You are King Argos, a Spartan hero who’s not afraid to defy the gods themselves. Take up the maddest challenge in this colossal, full 3D odyssey and face the most phenomenal mythical creatures! Let this epic action game take you from mythical lands to the depths of the Underworld for hours of gaming and visual enjoyment. Collect and upgrade 4 mythic weapons, and unleash your hero’s special powers by performing combos. It's your chance to write your own legend...if you can survive the adventure."
+}

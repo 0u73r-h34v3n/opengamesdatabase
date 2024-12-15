@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Educational", "Puzzle"],
+	"locales": ["ES"],
+	"name": "El Genio de las Palabras",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 23, 2009",
+	"serial_number": "CYCS",
+	"synopsis": "¿Eres curioso? ¿Te gusta aprender cosas nuevas? ¿Sabes lo que es un palíndromo? Aprende nuevas palabras y expresiones de forma divertida con El Genio de las Palabras, el juego de la familia Mi Experto de Ubisoft adaptado para niños."
+}

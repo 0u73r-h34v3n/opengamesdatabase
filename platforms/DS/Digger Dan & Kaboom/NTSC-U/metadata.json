@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtual Playground"],
+	"genres": ["Adventure"],
+	"name": "Digger Dan & Kaboom",
+	"publishers": ["Virtual Playground"],
+	"release_date": "January 24, 2011",
+	"serial_number": "KBHE",
+	"synopsis": "Digger Dan has always loved digging. That’s probably how he got his name, although nobody knows for sure. He also loves gems, and he just happens to have found a ton of them. However, all of the gems are in some pretty nasty caves, so you’re going to have to help Dan get them out. Dan has sent Kaboom, his pet gopher, into the caves to find the best place to start, but he hasn’t returned. Kaboom has a habit of falling asleep, though, so it looks like Dan is going to have to rescue him too."
+}

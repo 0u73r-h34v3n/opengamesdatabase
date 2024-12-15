@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["4J Studios"],
+	"genres": ["Bowling", "Sports"],
+	"locales": ["ES"],
+	"name": "AMF Bowling Pinbusters!",
+	"publishers": ["Bethesda Softworks", "Mud Duck Productions", "Vir2L Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 22, 2008",
+	"serial_number": "YAFP",
+	"synopsis": "AMF Bowling: Pinbusters! allows you to experience the excitement of the lanes! Take on the challenge alone in one of the various single-player modes or strike up competition with your friends in multiplayer mode."
+}

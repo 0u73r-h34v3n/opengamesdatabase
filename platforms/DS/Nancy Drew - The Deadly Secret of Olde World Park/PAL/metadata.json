@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure"],
+	"name": "Nancy Drew - The Deadly Secret of Olde World Park",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 1, 2008",
+	"serial_number": "YNWP",
+	"synopsis": "Billionaire Thaddeus Belmont is missing, and the Olde World Park project is in danger of collapsing without his financial support. Is he the victim of foul play or did he make himself disappear?"
+}

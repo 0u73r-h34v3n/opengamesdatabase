@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tanukii Studios"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"name": "Go! Go! Kokopolo: Harmonious Forest Revenge",
+	"publishers": ["Room 4 Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 11, 2011",
+	"serial_number": "K3GE",
+	"synopsis": "Go! Go! Kokopolo: Harmonious Forest Revenge is an arcade-style, puzzle-action game, in which the player takes on the role of Kokopolo, a hyperactive wildcat, in an attempt to get revenge on the cute-looking enemies who accidentally wronged him. The game unfolds through 80 stages of fast-paced arcade-style gameplay, in which the player needs to clear each stage by luring all enemies to their doom into the belly of the carnivorous Snap Snap plant located somewhere on the stage. The stages themselves are a unique mix of side-scrolling platform elements, and top down puzzle elements. Each world is littered with various dangerous hazards, which increase as the game's difficulty increases."
+}

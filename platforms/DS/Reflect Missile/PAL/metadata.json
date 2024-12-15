@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Q-Games"],
+	"genres": ["Action", "Puzzle", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Reflect Missile",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 27, 2009",
+	"serial_number": "KDZV",
+	"synopsis": "Action, puzzle and strategy meet head-on in Reflect Missile! Use the Touch Screen and stylus to launch an arsenal of missiles and destroy all enemy blocks in each stage. Enemies are surrounded by obstructing blocks, so you'll need to think strategically and aim carefully to take them all out. To aid you in your mission, you're armed with a variety of unique types of missile. Reflector missiles bounce around the screen, taking out blocks as they go. Drillers bore through up to six blocks in one shot. Bombers destroy all blocks within a certain blast radius. But don't squander your missiles; you only have a set number with which to complete each stage. Clearing stages with missiles left over earns you medals, which unlock even more stages - up to 200 in total! With various difficulty levels and a quick play mode, Reflect Missile will prove a relaxing challenge for players of all abilities."
+}

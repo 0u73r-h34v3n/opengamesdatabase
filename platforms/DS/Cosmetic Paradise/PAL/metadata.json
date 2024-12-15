@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Global A"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Cosmetic Paradise",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 28, 2008",
+	"serial_number": "YPDP",
+	"synopsis": "Lipgloss, blusher, eyeliner...everything a girl needs to look stunning. You're the new recruit at the beauty salon but can you work your make-up magic on the whole town?"
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"name": "ファイナルファンタジーXII レヴァナント・ウィング",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "April 26, 2007",
+	"serial_number": "AXFJ",
+	"synopsis": "Square Enix masterfully uses the Nintendo DS Touch Screen to take real-time strategy gameplay to the next level in the continuing story of the Final Fantasy XII saga in Final Fantasy XII: Revenant Wings."
+}

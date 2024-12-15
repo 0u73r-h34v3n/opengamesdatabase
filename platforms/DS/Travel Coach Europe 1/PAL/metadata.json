@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HMH Hamburger Medien Haus"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["ES"],
+	"name": "Travel Coach: Europe 1",
+	"publishers": ["HMH Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 22, 2008",
+	"serial_number": "YJ5P",
+	"synopsis": "Travel Coach is a travel companion that will help you improve your communication skills in the 5 main European destinations: Germany, France, England, Italy and Spain."
+}

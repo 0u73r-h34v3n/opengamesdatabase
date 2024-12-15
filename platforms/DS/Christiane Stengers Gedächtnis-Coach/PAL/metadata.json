@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["exozet"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Christiane Stengers Gedächtnis-Coach",
+	"publishers": ["Crimson Cow"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 26, 2012",
+	"serial_number": "B85D",
+	"synopsis": "Beweisen Sie in Tests, was Sie im Training gelernt haben und überprüfen Sie Ihren persönlichen Fortschritt auf übersichtlichen Diagrammen. Dabei werden beide Kategorien (Training und Test) stets getrennt voneinander bewertet. Wie viel Weltmeister steckt in Ihnen? Finden Sie es heraus, in Christiane Stengers Gedächtnis-Coach - der intelligenten Lernmethode für ein besseres Gedächtnis."
+}

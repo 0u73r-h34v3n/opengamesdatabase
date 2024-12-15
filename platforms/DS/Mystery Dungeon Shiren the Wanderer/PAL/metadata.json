@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Chunsoft"],
+	"genres": ["Roguelike", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Mystery Dungeon: Shiren the Wanderer",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 20, 2008",
+	"serial_number": "AFUP",
+	"synopsis": "Shiren and Koppa still have their primary objective of finding the Lair of the Golden Condor but an adventure is not complete without visiting new towns and going on exciting side quests!"
+}

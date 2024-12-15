@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Blast! Entertainment Ltd"],
+	"genres": ["Puzzle"],
+	"name": "Jetix Puzzle Buzzle",
+	"publishers": ["Blast! Entertainment Ltd"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 4, 2008",
+	"serial_number": "YJXP",
+	"synopsis": "Build a high tower from falling pieces of all shapes and sizes before the rising water below destroys your progress in this fun and frantic puzzle game! Jump up to catch the shape you need, rotate it and place it in your tower without leaving gaps. To win, you must reach the top before your opponent does!"
+}

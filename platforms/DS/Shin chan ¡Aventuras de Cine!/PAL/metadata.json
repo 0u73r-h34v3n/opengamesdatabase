@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Shin chan: ¡Aventuras de Cine!",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 5, 2008",
+	"serial_number": "YRCS",
+	"synopsis": "¡Todas las películas de Shin Chan reunidas en la DS! ¡Todos los personajes aparecen con sus voces originales! Juega con toda la familia: Papá, Misae, Himawari y Nevado. ¡Encuentra los 5 disfraces! ¡Ultrahéroe, mono, rana, gallina o abeja!"
+}

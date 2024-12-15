@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Life Simulation", "Simulation"],
+	"name": "Animal Crossing: Wild World",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 5, 2005",
+	"serial_number": "ADME",
+	"synopsis": "Welcome to the friendly village of Animal Crossing! Every player's village is unique and it's up to you to decide how you spend your time there, and which characters you befriend."
+}

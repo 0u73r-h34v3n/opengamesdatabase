@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Kabeleins"],
+	"genres": ["Trivia"],
+	"locales": ["DE"],
+	"name": "Quiz Taxi",
+	"publishers": ["SevenOne Intermedia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 23, 2008",
+	"serial_number": "CQYD",
+	"synopsis": "Mache dich bereit für das aufregendste Trivia-Abenteuer mit \"Quiz Taxi\" für Nintendo DS! Steige in das Wissens-Taxi, das vom legendären Kapitän Fragen gesteuert wird, und begebe dich auf ein Abenteuer voller intellektueller Herausforderungen."
+}

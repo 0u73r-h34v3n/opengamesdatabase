@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Lost Town The Dust",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "August 4, 2011",
+	"serial_number": "KLOV",
+	"synopsis": "In 2037 a remote little town in the South American Andes was cut off from the outside world by a mudslide after heavy rains that had lasted a whole week. And then the calamity occurred: there was a massive explosion at the military bio-chemical facility on the outskirts of the town during a power outage caused by the bad weather... Our heroine is Chilia, an expert weapons master. Her mission is to defend the areas of the town where innocent people who have not yet been infected are living. The armed forces have been notified, but for reasons that remain unexplained, it will take them 7 days to arrive."
+}

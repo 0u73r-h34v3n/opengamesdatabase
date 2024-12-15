@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Petz Catz Family",
+	"publishers": ["Ubisoft"],
+	"release_date": "January 10, 2011",
+	"serial_number": "KP5E",
+	"synopsis": "Care for and bond with a whole family of adorable cats! Care for them, play fun games with them, and give them lots of love. • Care for adorable baby kittens: feed and pet them, and watch them grow. • Bond with your cats to discover their unique talents and personalities. • Teach them fun tricks like running through obstacle courses and walking down the runway."
+}

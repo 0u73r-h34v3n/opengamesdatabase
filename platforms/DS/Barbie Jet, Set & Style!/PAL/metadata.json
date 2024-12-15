@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Machine Studios", "Mattel Interactive"],
+	"genres": ["Arcade", "Business Simulation", "Simulation"],
+	"name": "Barbie: Jet, Set & Style!",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 23, 2011",
+	"serial_number": "VMZV",
+	"synopsis": "Fly aboard the Barbie Jet Salon to gather stylistic inspiration from exciting international locales. Earn \"fashionista points\" as your skills grow, until finally, you're ready for the big show - your opportunity to style Barbie herself in her very own ultra-glam fashion show in Milan. Remember everything you learned and make Barbie truly \"HAIR-tastic\" - you never know which special leading man might make an appearance!"
+}

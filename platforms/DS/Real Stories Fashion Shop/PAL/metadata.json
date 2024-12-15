@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Elephant Games"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Real Stories: Fashion Shop",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 9, 2008",
+	"serial_number": "CFSP",
+	"synopsis": "Take the catwalks of the fashion cities by storm and become the star among fashion designers!"
+}

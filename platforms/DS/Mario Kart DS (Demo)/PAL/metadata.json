@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Demo", "Kart Racing", "Party", "Racing"],
+	"locales": ["ES"],
+	"name": "Mario Kart DS (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 25, 2005",
+	"serial_number": "AM3P",
+	"synopsis": "Rev up your engines and buckle up for Mario Kart DS! An all-star cast of karting veterans and newcomers compete for glory across 32 fiendishly-designed courses, including Grand Prix, Time Trial, VS., Battle and Mission modes."
+}

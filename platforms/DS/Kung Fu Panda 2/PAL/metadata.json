@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["THQ"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Kung Fu Panda 2",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 10, 2011",
+	"serial_number": "VKUV",
+	"synopsis": "Kung Fu is in danger of disappearing forever! Called together by the Kung Fu Council (consisting of Master Shifu, Croc and Ox) players must help Po and the Furious Five defeat packs of marauding wolves, powerful gorillas and clans of elusive Komodo dragons all in the name of Kung Fu!"
+}

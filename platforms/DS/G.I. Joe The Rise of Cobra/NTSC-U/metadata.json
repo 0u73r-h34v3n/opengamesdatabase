@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Backbone Entertainment"],
+	"genres": ["Action", "Arcade", "Shooter", "Third-Person Shooter"],
+	"name": "G.I. Joe: The Rise of Cobra",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "August 4, 2009",
+	"serial_number": "CJPE",
+	"synopsis": "As COBRA unleashes its deadliest plot yet, the G.I. JOE TEAM is counting on YOU to lead the counterattack. Every mission is critical - and so is every G.I. JOE. Your hand-picked team of heroes must battle COBRA organization's deadliest bosses as you snake your way through enemy territory."
+}

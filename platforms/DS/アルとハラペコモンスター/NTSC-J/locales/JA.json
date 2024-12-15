@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "アルとハラペコモンスター",
+	"synopsis": "お腹を空かせたハラペコモンスターに、自然界でできた野菜をどんどん運んで食べさせます。 邪魔をしてくる羊から逃げながら、ハラペコモンスターを満足させてあげればゲームクリア。お腹が減って、満腹度が０になってしまったらゲームオーバーです。"
+}

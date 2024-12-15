@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Racing"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Kart Krashers",
+	"publishers": ["Big John Games"],
+	"release_date": "September 27, 2012",
+	"serial_number": "K6KE",
+	"synopsis": "Kart Krashers is a single player game where the player drives their kart through an exciting 10 stage circuit that spans the globe, and beyond! Each stage has three uniquely laid out events, for a total of 30 challenging competitions. The goal is simple: collect stars and smash into objects to achieve the highest event score. Earn enough points and you will win up to three Golden Wheels in each event, which are the key to advancing in the Kart Krashers competition. Throughout the course of the circuit you will meet up with 5 drivers, each with their own motivations, and each bringing new Kart capabilities and driving styles to your team. As you unlock stages, more and more of the mystery of the Kart Krashers competition is revealed. Earn enough golden wheels and your team will win the grand prize, and the honor of being known as Kart Krashing champions. There are achievement medals to be won, and high scores to be set. Don’t miss out on a chance to be a Kart Krashing legend."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Smack Down Productions"],
+	"genres": ["Action", "Music", "Puzzle", "Rhythm"],
+	"name": "Red Bull BC One",
+	"publishers": ["Playlogic Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 28, 2008",
+	"serial_number": "CRDP",
+	"synopsis": "The game takes the player to the international Red Bull BC One break dance tournament, which challenges B-boys and B-girls alike. Players control their break-dancer by solving puzzles under strict time limits."
+}

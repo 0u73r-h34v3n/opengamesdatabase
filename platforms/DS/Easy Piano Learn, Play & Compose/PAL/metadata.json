@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Life"],
+	"genres": ["Coaching", "Educational", "Music"],
+	"name": "Easy Piano: Learn, Play & Compose",
+	"publishers": ["Namco Bandai Partners"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 4, 2009",
+	"serial_number": "BEPP",
+	"synopsis": "Easy Piano includes a piano keyboard that attaches to the Nintendo DS, allowing you to play over 30 songs, compose your own music on the go, and learn about music from a digital coach."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software B.V."],
+	"genres": ["Music"],
+	"name": "Just SING! Christmas Vol. 2",
+	"publishers": ["dtp young entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 10, 2010",
+	"serial_number": "KXMP",
+	"synopsis": "You're the star – prepare yourself for the next edition of Christmas karaoke! Holiday classics “We Wish you a Merry Christmas“ and “Deck the Halls” are waiting for you! You’ll enter the festively decorated stage in a fancy Santa’s costume. While singing into the Nintendo DSi microphone you’ll immediately catch the magical Christmas spirit! Hit all the right notes and sing in time to the beat to reach the top of the highscores list!"
+}

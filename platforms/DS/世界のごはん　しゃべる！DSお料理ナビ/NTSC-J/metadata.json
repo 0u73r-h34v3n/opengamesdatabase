@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Cooking", "Simulation"],
+	"name": "世界のごはん　しゃべる！DSお料理ナビ",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 4, 2008",
+	"serial_number": "CNVJ",
+	"synopsis": "With hundreds of recipes from all around the globe, comprehensive details on how to prepare every dish and a host of handy extras, Cooking Guide is much more than just a cook book. It’s your all-in-one personal cooking assistant!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Hints Hunter",
+	"synopsis": "Hints Hunter est un jeu occasionnel simple, utilisable n'importe où et n'importe quand. L'objectif est de retrouver les clés qui sont cachées quelque part dans le jeu. Pour ce faire, vous devez comprendre le sens des indices disponibles à chaque étape. Un seul stylet vous suffit. Dans ce jeu, vous disposez d'un grand nombre d'indices utiles qui vous commu- niquent l'heure et des principes de base tels que cliquer/glisser ou ouvrir/fermer. Gardez les yeux grands ouverts sur les détails, y compris les noms de niveau et les petites fleurs."
+}

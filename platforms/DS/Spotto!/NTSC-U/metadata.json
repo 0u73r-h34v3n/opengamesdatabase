@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Spotto!",
+	"publishers": ["Nintendo"],
+	"release_date": "February 15, 2010",
+	"serial_number": "KSPE",
+	"synopsis": "Meet Spotto, a plucky duck on a mission. Ill-behaved ghosts have kidnapped Chikkie Wowwow, President Wowwow’s daughter. Spotto, being the world’s foremost Bombirdier, must follow the ghosts to a haunted house and use his trusty bombs to blast the baddies. Take control of Spotto, adjusting his aim with the stylus and trying to toss bombs into the ghosts’ mouths in 50 “explosive” stages. Along the way, you’ll avoid obstacles (or use them to your advantage), find powerful Super Bombs to inflict even more damage, and even encounter a frighteningly large ghost or two. With multiple modes of play and numerous solutions for successfully blasting ghosts to pieces, this is one haunted house worth visiting often…"
+}

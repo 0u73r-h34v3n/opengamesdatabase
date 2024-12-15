@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hints Hunter",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "August 2, 2010",
+	"serial_number": "KHIE",
+	"synopsis": "Hints Hunter is an easy, casual game that you can play any time and anywhere. The objective is simply to find the keys hidden around the game. To do this, you will have to work out the meaning of the hints in each level. You can play the game using the stylus only. Most of the hints in the game are helpful and may require you to think about the time of the day, game functions like touching or dragging, or the principle of opening or closing. Make sure you observe the minutest detail very carefully, including the name of a level or even a tiny flower!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arts Software"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["NL"],
+	"name": "Hollands Supermodel: Win de Strijd op de Catwalk!",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 28, 2008",
+	"serial_number": "YNLX",
+	"synopsis": "Ben je klaar om deel te nemen aan de hevigste modellenwedstrijd op de Nintendo DS? Denk jij dat jij het in je hebt om jezelf naar de top van de modellenwereld te brengen? Als dat zo is, ben je bij het juiste spel aangekomen."
+}

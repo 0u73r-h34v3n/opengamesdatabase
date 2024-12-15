@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "I Must Run!",
+	"publishers": ["Gamelion"],
+	"release_date": "April 19, 2012",
+	"serial_number": "KURE",
+	"synopsis": "I Must Run! is a skill-based action running game. Jump across gaps between jail buildings, run through a subway station, and test your reflexes in a deadly dash over construction site cranes. Reach the city center and save your wife. Remember, you have only 24 hours. Let's hope your fitness level can cope, because you must run! Once you have completed story mode, try to achieve the highest score in the never-ending run in six available levels: Jail, Subway, Sewers, Construction Site, Suburbs and Rooftops."
+}

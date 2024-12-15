@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Paon Corporation"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Donkey Kong: Jungle Climber",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 12, 2007",
+	"serial_number": "ABUP",
+	"synopsis": "Swing into adventure with Donkey Kong, to stop the evil King K. Rool from stealing alien bananas and ruling the universe!"
+}

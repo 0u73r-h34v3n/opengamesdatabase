@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arc System Works"],
+	"genres": ["Billiards", "Sports"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Jazzy Billiards",
+	"publishers": ["Arc System Works"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 3, 2010",
+	"serial_number": "K9BV",
+	"synopsis": "Enjoy a traditional game of nine-ball pool against a computer, or against a friend using a single Nintendo DSi, while listening to smooth jazz in Jazzy Billiards. Both opponents must hit the balls on the table in ascending order, working their way to the ninth ball, and whoever can sink the nine-ball first will take the win. Jazzy Billiards features an intuitive control scheme that takes full advantage of the Nintendo DSi stylus and touch screen, and also simulates realistic collision physics between the balls. Simply point in the direction you want to hit the cue ball, aim, then use the stylus to pull back the cue and hit the ball. The strength of the cue ball can be adjusted by how far back and how hard the player draws back and strikes with the cue."
+}

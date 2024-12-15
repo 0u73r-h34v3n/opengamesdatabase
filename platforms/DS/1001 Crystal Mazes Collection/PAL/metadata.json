@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "1001 Crystal Mazes Collection",
+	"publishers": ["Teyon"],
+	"release_date": "December 10, 2010",
+	"serial_number": "KOKP",
+	"synopsis": "Give your brain a workout with 1001 Crystal Mazes Collection, the deceptively simple jewel logic game! It's easy to learn but hard to master. Your task is to push the crystals forward to their target destinations, one at a time. Sounds simple, but be careful! You can push your jewel into an impossible locked position if you don't plan ahead. As the mazes get harder and the crystals pile up, you'll need clever thinking to clear the labyrinth. With over 1000 jewel-filled puzzles, this fun collection will challenge your mind and push your brain skills to the limit."
+}

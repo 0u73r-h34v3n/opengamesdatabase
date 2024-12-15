@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Anuman Interactive", "Little Worlds Studio"],
+	"genres": ["Puzzle", "Trivia"],
+	"locales": ["FR"],
+	"name": "E=M6 Défi Cérébral",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 8, 2008",
+	"serial_number": "YE7F",
+	"synopsis": "Affrontez vos adversaires dans une trépidante COURSE AU SAVOIR ! Participez à des challenges cérébraux mémorables sous forme de test de logique, de mémoire, de langage d'orientation... Répondez à plus de 6 000 questions / réponses issues de l'émission E=M6."
+}

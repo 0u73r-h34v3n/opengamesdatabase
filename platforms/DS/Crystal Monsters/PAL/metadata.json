@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crystal Monsters",
+	"publishers": ["Gameloft"],
+	"release_date": "July 30, 2010",
+	"serial_number": "KCOV",
+	"synopsis": "As a Neo-Seed with the power to see and train monsters, it's time to set off on a journey to collect over 160 monsters and become the greatest Monster Breeder! Explore a vast world, meet new friends and rivals and battle with skill and strategy to win! Master the 9 elemental types, train your monsters through battle, teach them new moves and team attacks and fuse them together to unlock their true potential. You can even customise 3 of your favourite monsters using the inner camera."
+}

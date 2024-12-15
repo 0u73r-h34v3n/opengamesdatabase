@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Asylum Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Horrid Henry: Missions of Mischief",
+	"publishers": ["SouthPeak Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 26, 2010",
+	"serial_number": "BHHP",
+	"synopsis": "Henry is a headstrong boy, constantly raging against the tyranny of adults and infuriating girls. For Henry, life just isn’t fair. If he’s not battling his fearsome class teacher Miss Battle-Axe or Greta the Demon Dinner lady at school, then he’s in trouble with his Mum and Dad. Now Horrid Henry moves from the multi million selling book series and massively successful TV show onto Nintendo DS, Wii and PC in the form of a fun, fast and funny, action-puzzle game where the player takes the lead role of Henry himself. Henry has a range of special skills and equipment that he can use during missions and his task is to dash around locations playing pranks on the other characters all the while avoiding being caught."
+}

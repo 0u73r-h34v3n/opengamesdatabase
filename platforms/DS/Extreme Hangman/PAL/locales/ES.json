@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Extreme Hangman",
+	"synopsis": "¡Nunca hubo un juego del ahorcado como este! El juego tiene lugar en diferentes lugares, en donde el objetivo del jugador será adivinar la palabra oculta para salvar al ahorcado de sus enemigos. Con cada error, se acerca un paso más a que le disparen, lo estrangulen, lo eliminen o lo ahorquen. Juega en solitario o reta a un amigo a un duelo. Extreme Hangman cuenta con 7 diferentes animaciones divertidas, más de 2000 palabras de distintas categorías y 3 niveles de dificultad. Textos de pantalla en inglés."
+}

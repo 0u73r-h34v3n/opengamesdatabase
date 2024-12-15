@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Libera Wing",
+	"publishers": ["PIXEL FEDERATION"],
+	"release_date": "March 19, 2010",
+	"serial_number": "KLWP",
+	"synopsis": "Earth Union controls a large part of outer space. All of a sudden, the connection with some of its stations is lost and there are rumours of enemy ships approaching. Become the Captain of Libera Wing and save Earth Union from destruction in this Tower Defence style action-strategy game. Your objective is to combine the right strategy, item usage and command ship abilities. There are 36 story levels and 24 quickplay levels waiting for you."
+}

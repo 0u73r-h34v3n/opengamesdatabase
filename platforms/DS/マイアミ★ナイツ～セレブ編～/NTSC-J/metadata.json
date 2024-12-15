@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Simulation"],
+	"name": "マイアミ★ナイツ～セレブ編～",
+	"publishers": ["Gameloft"],
+	"release_date": "May 12, 2010",
+	"serial_number": "KMEJ",
+	"synopsis": "Lit. \"Miami Nights -Celebrity Edition-\" a.k.a. Miami Nights: Life in the Spotlight! (NTSC-U, PAL)"
+}

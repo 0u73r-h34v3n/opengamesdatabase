@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Teyon"],
+	"genres": ["Cards", "Hidden Object", "Puzzle", "Sports"],
+	"name": "1001 Touch Games",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 26, 2011",
+	"serial_number": "B8KX",
+	"synopsis": "Choose from hidden object puzzles, match games, sports, pinball, and card game challenges, word problems and more!"
+}

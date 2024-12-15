@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Climax Studios", "Playfirst"],
+	"genres": ["Action", "Puzzle"],
+	"name": "Diner Dash",
+	"publishers": ["Eidos Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 4, 2007",
+	"serial_number": "A3EP",
+	"synopsis": "On a visit to her hometown, Flo and her Grandma Florence take a stroll down memory lane. Bring five restaurants back to life, and meet new customers like the Hungry Man and the Celebrity. Take special care of customers with reservations and place flowers at tables in order to make diners happier."
+}

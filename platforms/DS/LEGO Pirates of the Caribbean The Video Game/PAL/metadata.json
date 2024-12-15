@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TT Games"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "LEGO Pirates of the Caribbean: The Video Game",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 11, 2011",
+	"serial_number": "BZDP",
+	"synopsis": "LEGO Pirates of the Caribbean The Video Game is an action/adventure for Nintendo DS from Disney Interactive Studios and TT Games, starring Captain Jack Sparrow and a whole host of other movie characters!"
+}

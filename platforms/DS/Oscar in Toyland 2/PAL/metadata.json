@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Oscar in Toyland 2",
+	"publishers": ["Virtual Playground"],
+	"release_date": "January 14, 2011",
+	"serial_number": "KOYP",
+	"synopsis": "Oscar is back, with more great fun and zany non-stop action, set over 7 new exciting Worlds, All Star Sports World, World of Toys, Blox World, Water World, Old time Toys, Travel Town, and Mech World. Your mission is to swim, fly and run through these Worlds collecting baby Oscars that have become scattered throughout the levels, armed with your secret weapon, a Yo-Yo that you can use to swing from platform to platform and also zap those nasty enemies in some of the craziest platform levels you’ll ever play."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["THQ"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Puss in Boots",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 25, 2012",
+	"serial_number": "B6SP",
+	"synopsis": "Step into the boots of Puss In Boots, star of the upcoming film from DreamWorks Animation, and use your sword fighting moves and sly skills to become the legendary hero!"
+}

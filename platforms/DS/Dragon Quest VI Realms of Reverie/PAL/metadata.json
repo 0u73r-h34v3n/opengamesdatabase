@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Dragon Quest VI: Realms of Reverie",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 20, 2011",
+	"serial_number": "YVIP",
+	"synopsis": "Travel between two mysterious worlds and find out the truth about yourself in this remake of a classic RPG, never before released in Europe."
+}

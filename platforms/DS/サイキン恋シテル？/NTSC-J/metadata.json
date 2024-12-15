@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Microvision"],
+	"genres": ["Life Simulation", "Role-Playing", "Simulation"],
+	"locales": ["JA"],
+	"name": "サイキン恋シテル？",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "July 30, 2009",
+	"serial_number": "B5EJ"
+}

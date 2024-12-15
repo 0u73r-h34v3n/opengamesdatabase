@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HalfBrick"],
+	"genres": ["Action", "Adventure", "Platformer", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "de Blob 2",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "February 25, 2011",
+	"serial_number": "VD2V",
+	"synopsis": "In a city where conformity is king and colour is being drained from every corner, only one hero is bright enough to put things right. He goes by the name of Blob, and with your help he’s about to save the day in de Blob 2 for Nintendo DS!"
+}

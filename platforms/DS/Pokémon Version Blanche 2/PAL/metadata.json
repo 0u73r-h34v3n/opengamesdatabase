@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Adventure", "Role-Playing", "Strategy"],
+	"locales": ["FR"],
+	"name": "Pokémon Version Blanche 2",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 12, 2012",
+	"serial_number": "IRDF",
+	"synopsis": "Embarquez-vous dans une nouvelle aventure dans la région d'Unys sur Nintendo DS."
+}

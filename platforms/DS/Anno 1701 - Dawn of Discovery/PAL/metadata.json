@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sunflowers Interactive"],
+	"genres": ["Strategy"],
+	"locales": ["DE"],
+	"name": "Anno 1701 - Dawn of Discovery",
+	"publishers": ["Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "August 24, 2007",
+	"serial_number": "A2LP",
+	"synopsis": "Experience a world of high adventure, drama and intrigue as the early 18th century is vividly brought to life. The popular PC game finds a new home on the Nintendo DS, with full stylus control making the gameplay more accessible than ever."
+}

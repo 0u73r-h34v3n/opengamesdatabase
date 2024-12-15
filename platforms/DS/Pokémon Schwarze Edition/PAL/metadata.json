@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing", "Strategy"],
+	"locales": ["DE"],
+	"name": "Pokémon Schwarze Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 4, 2011",
+	"serial_number": "IRBD",
+	"synopsis": "Neue Legendäre Pokémon, neue Helden, eine neue Region voller Überraschungen - und neue Wege, miteinander Spaß zu haben und zu kommunizieren. Das sind nur einige von vielen spannenden Neuerungen von Pokémon Schwarze Edition und Pokémon Weiße Edition für die Nintendo DS-Familie."
+}

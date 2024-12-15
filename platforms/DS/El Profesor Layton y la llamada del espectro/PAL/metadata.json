@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["ES"],
+	"name": "El Profesor Layton y la llamada del espectro",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 25, 2011",
+	"serial_number": "BLFS",
+	"synopsis": "Únete al Profesor Layton para resolver acertijos y solucionar un nuevo misterio. Este emocionante juego de puzles de más de 170 rompecabezas y nuevos minijuegos para mantenerte entretenido por horas mientras resuelves el misterio de Misthallery."
+}

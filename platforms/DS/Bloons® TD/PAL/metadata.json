@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Digital Goldfish"],
+	"genres": ["Arcade", "Strategy"],
+	"locales": ["ES"],
+	"name": "Bloons® TD",
+	"publishers": ["Digital Goldfish"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 8, 2011",
+	"serial_number": "KLNP",
+	"synopsis": "It is time, once again, to achieve total Bloon popping satisfaction, this time in the form of classic TD. With a whole army of dart monkeys and a multitude of towers at your disposal can you pop all of the Bloons® before they escape? Bloons® TD features all of your favourite towers and upgrades including the almighty Super Monkey! Can you battle your way through 50 challenging levels taking place over 15 exciting tracks and unlock all of the gold medals to become the TD master? Good luck!"
+}

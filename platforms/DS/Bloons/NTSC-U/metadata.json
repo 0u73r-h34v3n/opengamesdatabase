@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Bloons",
+	"publishers": ["Hands-On Mobile"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 3, 2010",
+	"serial_number": "KBLE",
+	"synopsis": "BLOONS is an exciting puzzle game based on the simple fact that popping balloons is fun. Pop your way through dozens of puzzling levels in this exciting puzzle adventure. Each level will have a different arrangement of balloons - try and pop as many as you can with the darts you are given! Look out for special balloons, blocks and darts, and have fun discovering what they do. Bloons is a great game that you can pick up and play for a few minutes while you’re queued up at the shops, or you can sit on the settee for hours as you work your way through the 70 levels included in the game. As an added bonus a level editor is included, allowing you to create your own balloon puzzles!"
+}

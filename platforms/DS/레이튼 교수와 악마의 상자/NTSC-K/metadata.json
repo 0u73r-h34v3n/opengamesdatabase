@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Puzzle"],
+	"name": "레이튼 교수와 악마의 상자",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "September 8, 2011",
+	"serial_number": "YLTK",
+	"synopsis": "Professor Layton and Pandora's Box features a riveting mystery and more than 150 new brain teasers to solve on the Nintendo DS Touch Screen. Challenge yourself with riddles and logic puzzles in the sequel to Professor Layton and the Curious Village."
+}

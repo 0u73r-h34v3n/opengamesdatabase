@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Sims"],
+	"genres": [
+		"Action",
+		"Adventure",
+		"Flight Simulation",
+		"Racing",
+		"Simulation"
+	],
+	"locales": ["ES"],
+	"name": "MySims SkyHeroes",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 1, 2010",
+	"serial_number": "BFLP",
+	"synopsis": "An aviation adventure for the Nintendo DS. Create and customise your own character and airplane, upgrade to get an edge in battle and take on legions of enemy drones. Play the story on your own or play with friends locally or online."
+}

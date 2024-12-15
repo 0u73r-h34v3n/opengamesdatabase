@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Hidden Object", "Puzzle"],
+	"name": "HeathCliff Spot On",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 28, 2013",
+	"serial_number": "K6SE",
+	"synopsis": "Spot the difference with an old favourite for lots of fun. Heathcliff: Spot On is a spot the difference game. Over 120 different comic pages exist and by finishing puzzles, players have the chance to earn high scores that they can compare with friends' high scores. Correctly spotting the differences before the time limit will allow the player to come back to a comic at any time, as well as give them a chance to colour the comic in as they see fit. Incorrectly guessing the differences will force the player to start over and try to spot the differences again. Every ten levels, the game changes things up with a minigame. Fun for the entire family!"
+}

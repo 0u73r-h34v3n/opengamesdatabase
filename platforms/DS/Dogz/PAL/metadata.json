@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["MTO"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Dogz",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 15, 2006",
+	"serial_number": "AKKX",
+	"synopsis": "You'll see your dog running around rooms and playing and interacting with different objects as well as other dogs. You'll be able to take care of him, play with him, train him, even telling him things through the microphone. You'll be able to furnish your house with over 250 different pieces of furniture, such as sofas, pianos and statues. A fully 3D game! Let your dog run around rooms, environments, meet other dogs and see their reactions."
+}

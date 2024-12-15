@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Namco"],
+	"genres": ["Action", "Puzzle"],
+	"locales": ["JA"],
+	"name": "パックピクス",
+	"publishers": ["Namco"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "March 10, 2005",
+	"serial_number": "APCJ",
+	"synopsis": "For his latest Ghost-hunt, Pac-Man's got a brand new bag oftricks!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Jupiter"],
+	"genres": ["Coaching", "Educational", "Health", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Professor Kageyama's Maths Training",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 8, 2008",
+	"serial_number": "AIZP",
+	"synopsis": "Can you imagine learning mathematics just by playing a video game? Think about how useful this could be for your children and even yourself. You'll be surprised just how easy and how much fun it is to refresh your mathematics skills! You accomplish this using The Hundred Cell Calculation Method. To be effective, this method requires you to practice regularly, record your times to keep track of your progress and gradually increase the difficulty of the problems you solve."
+}

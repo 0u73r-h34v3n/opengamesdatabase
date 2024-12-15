@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous Interactive"],
+	"genres": ["Management Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Harvest Moon DS",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 13, 2007",
+	"serial_number": "ABCP",
+	"synopsis": "Go back to the farm in the most hands-on Harvest Moon yet! Harvest Moon DS brings all the fun of the much-loved farming RPG to the dual-screened system; with touch control that lets you brush horses, shear sheep and milk cows!"
+}

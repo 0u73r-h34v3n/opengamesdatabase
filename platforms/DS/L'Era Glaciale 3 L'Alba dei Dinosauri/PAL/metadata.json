@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Activision"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["IT"],
+	"name": "L'Era Glaciale 3: L'Alba dei Dinosauri",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 26, 2009",
+	"serial_number": "CI3I",
+	"synopsis": "Unisciti a Scrat, Sid, Manny e Diego nel loro viaggio attraverso un lussureggiante mondo di dinosauri pieno di giungle, piante misteriose, bestie feroci, nuove avventure e nuovi amici. Dovrete imparare a padroneggiare le reciproche abilità speciali in più di 15 livelli ricchi di azione!"
+}

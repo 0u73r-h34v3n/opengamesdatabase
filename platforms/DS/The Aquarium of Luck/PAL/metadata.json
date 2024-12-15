@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "The Aquarium of Luck",
+	"publishers": ["MSL"],
+	"release_date": "November 10, 2011",
+	"serial_number": "KI8P",
+	"synopsis": "In The Aquarium of Luck, it's all about decorating your fish tank and making your fish happy! Your fish may get hungry, fall ill, the water in the tank may become dirty or a new baby fish may need extra vitamins, so it's your job to ensure the tank is clean and that the fish are well and happy. When you’re not busy managing your aquarium, you can play a match-3 game to earn money. Use the money to buy food, fish or decorations for your fish tank."
+}

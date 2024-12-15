@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Lost in Blue",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 10, 2005",
+	"serial_number": "ASKP",
+	"synopsis": "A mysterious island; a disastrous accident; a fight for survival! Lost in Blue is a role playing game where you'll need to work hard just to stay alive."
+}

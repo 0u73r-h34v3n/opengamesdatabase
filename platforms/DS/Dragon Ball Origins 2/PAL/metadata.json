@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Republic"],
+	"genres": ["Action", "Adventure", "Fighting"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Dragon Ball Origins 2",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "July 2, 2010",
+	"serial_number": "BDBP",
+	"synopsis": "Goku, Bulma and friends are on a quest to thwart the Red Ribbon Army's plans for world domination – and on a search of their own for the 7 mystical Dragon Balls. Join them in an action adventure with a martial twist in Dragon Ball Origins 2."
+}

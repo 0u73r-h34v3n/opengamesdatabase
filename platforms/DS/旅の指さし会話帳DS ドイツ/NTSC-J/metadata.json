@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOSE"],
+	"genres": ["Educational"],
+	"locales": ["JA"],
+	"name": "旅の指さし会話帳DS ドイツ",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "April 27, 2006",
+	"serial_number": "AUDJ"
+}

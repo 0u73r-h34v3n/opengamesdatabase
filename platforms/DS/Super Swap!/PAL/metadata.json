@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Super Swap!",
+	"publishers": ["Teyon"],
+	"release_date": "January 7, 2011",
+	"serial_number": "K4WP",
+	"synopsis": "Can't get enough of swapping puzzle games, but want something different? Swap till you drop with Super Swap!, an exciting blend of arcade action and match-3 fun. Drag colourful blocks in one of 4 directions to connect 3 or more blocks and clear the board. As new blocks fall, you'll have to move fast to keep the stack from reaching the top! Experience plenty of twists and never-seen-before gameplay as you make combos, collect special power-ups and gain additional points in 4 different game modes. With so much fast and furious puzzling fun, you'll never want to stop the swapping!"
+}

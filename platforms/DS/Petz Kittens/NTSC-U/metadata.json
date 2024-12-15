@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Petz Kittens",
+	"publishers": ["Ubisoft"],
+	"release_date": "July 19, 2010",
+	"serial_number": "KPKE",
+	"synopsis": "The cutest newborn kittens are here, and they need someone to care for and love them. Adopt your very own kittens, bond with them, and help them grow into strong and healthy cats. • Choose from a variety of popular cat breeds—Siamese, Persian, and more. • Give your adorable baby kittens lots of loving care: feed them warm milk, keep them clean and warm, and help them grow. • Your kittens make cute faces and react in surprising ways when you play fun games with them like peek-a-boo or balloon games."
+}

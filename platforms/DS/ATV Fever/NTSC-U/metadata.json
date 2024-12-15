@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Enjoy Gaming"],
+	"genres": ["Racing"],
+	"name": "ATV Fever",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 19, 2014",
+	"serial_number": "KVUE",
+	"synopsis": "Enjoy the great mix of environments and terrains, diverse vehicles and formats. Aggressive and skilful driving is needed as players negotiate their way through numerous off-road and mountain venues in a quest to reach the winner’s circle and climb to the top of the driver standings. Nine authentic all-terrain vehicles are at your disposal as you battle the world’s best riders for circuit supremacy. Be the top ranked rider in the world! Be all about “The Fever.”"
+}

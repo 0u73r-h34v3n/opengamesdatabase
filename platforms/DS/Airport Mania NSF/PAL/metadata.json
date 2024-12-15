@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Airport Mania: NSF",
+	"publishers": ["Lemon Team"],
+	"release_date": "July 14, 2011",
+	"serial_number": "KAFV",
+	"synopsis": "Hundreds of aeroplanes are on their way to your airport! In Airport Mania: Non-Stop Flights, you'll face the challenge of coordinating an endless number of incoming flights for as long as you can. You'll need to care for each plane, bringing them safely to the airport, sending them to a gate to drop off and pick up passengers, and scheduling the runway to ensure the planes make an on-time departure to maximise both customer satisfaction and your score! Upgrade your airport at any time to make sure you are ready for every colour and type of plane. It's frantic time-management action with an airport twist that you won't want to miss!"
+}

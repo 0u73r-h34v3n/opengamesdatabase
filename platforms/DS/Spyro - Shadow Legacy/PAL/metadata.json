@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Spyro - Shadow Legacy",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "15"
+		}
+	],
+	"release_date": "November 11, 2005",
+	"serial_number": "ASSP",
+	"synopsis": "The lovable dragon returns in this action adventure that melds magical powers, RPG elements, and even martial arts style combat in one pulsating package."
+}

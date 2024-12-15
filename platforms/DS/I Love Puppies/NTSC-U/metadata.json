@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Destineer"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "I Love Puppies",
+	"publishers": ["Bold Games", "Destineer Publishing"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 18, 2010",
+	"serial_number": "BIIE",
+	"synopsis": "Cute, Adorable Puppies! Explore the amazing world of Puppyville. Experience 20 fun filled mini-games where you get to train, play with, and groom your puppies. With simple stylus controls you'll be raising show-worthy puppies in no time. Raising puppies has never been so fun and easy!"
+}

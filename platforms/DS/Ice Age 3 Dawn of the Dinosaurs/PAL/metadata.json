@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Blue Sky"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Ice Age 3: Dawn of the Dinosaurs",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 26, 2009",
+	"serial_number": "CI3Y",
+	"synopsis": "Join Ice Age’s unlikely herd of prehistoric pals for their wildest, most exciting adventure yet! Play as six beloved Ice Age characters as they embark on a rescue mission across melting snow to the mysterious Dinosaur World – an all-new, fur-raising jungle of carnivorous plants, lush foliage and fierce dinosaurs!"
+}

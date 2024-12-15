@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "Band Hero",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 6, 2009",
+	"serial_number": "BGHP",
+	"synopsis": "Brought to you by the makers of Guitar Hero, one of the best-selling video game franchises of all time, Band Hero features the hottest chart-topping hits from everyone’s favourite acts including Maroon 5, Fall Out Boy, Go-Go’s, Janet Jackson, Culture Club and Snow Patrol. Headlined by some of the biggest names in music as in-game artists and playable characters, Band Hero is the ultimate party game where players of all ages will be able to experience the signature, easy-to-learn but difficult-to-master Guitar Hero gameplay."
+}

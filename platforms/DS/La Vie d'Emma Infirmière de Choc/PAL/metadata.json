@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mobile Interactions Group"],
+	"genres": ["Business Simulation", "Puzzle", "Simulation"],
+	"locales": ["FR"],
+	"name": "La Vie d'Emma: Infirmière de Choc",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CEEF",
+	"synopsis": "Emma est élève infirmière dans un grand hôpital. Prends soin des malades : soigne les entorses, enlève les échardes, fait des radios, pose des bandages, observe les microbes au microscope... Passe ton examen et deviens une infirmière de choc."
+}

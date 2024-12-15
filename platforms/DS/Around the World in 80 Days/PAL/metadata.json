@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Joindots GmbH"],
+	"genres": ["Puzzle", "Strategy"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Around the World in 80 Days",
+	"publishers": ["Joindots GmbH"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 20, 2014",
+	"serial_number": "K7BV",
+	"synopsis": "Join Phileas Fogg and his faithful companion Passepartout on their wonderous journey around the world in 80 days! Collect all the items you need for the adventure by creating rows of three from identical symbols. By removing the symbols, the individual parts of the artifacts will end up in your suitcase. Mighty bonus items - like fireballs and bombs - will help you reach your destinations on time! - More than 80 levels per journey - 2 player mode with two Nintendo DS™ - Repeat the journey to discover more difficult levels - Upright mode for right and left handers - Several great bonus items with microphone support"
+}

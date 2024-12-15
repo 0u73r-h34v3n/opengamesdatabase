@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "LEGO Indiana Jones - The Original Adventures",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 6, 2008",
+	"serial_number": "YLJP",
+	"synopsis": "Head off on the adventure of a lifetime and assume the role of the world’s most famous archaeologist in LEGO Indiana Jones: The Original Adventures for Nintendo DS."
+}

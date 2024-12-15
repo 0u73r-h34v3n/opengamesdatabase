@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Delbo",
+	"synopsis": "Delbo ist ein Rätselspiel, in dem der Spieler Kugeln abfeuert, um die Kugeln zu treffen, die vom oberen Teil des Bildschirms herabfallen. Wenn die Farbe der herabfallenden Kugel mit der Farbe der abgefeuerten Kugel übereinstimmt, verbinden sie sich und lösen sich auf. Es ist einfach zu spielen, doch schwer zu meistern. Deutscher Bildschirmtext."
+}

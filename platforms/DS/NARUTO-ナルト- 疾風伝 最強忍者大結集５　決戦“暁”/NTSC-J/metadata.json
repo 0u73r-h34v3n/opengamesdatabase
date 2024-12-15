@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Fighting", "Platformer"],
+	"name": "NARUTO-ナルト- 疾風伝 最強忍者大結集５　決戦“暁”",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "July 19, 2007",
+	"serial_number": "AENJ",
+	"synopsis": "Leap into the all-action world of Naruto Shippuden on Nintendo DS and prepare to experience an exciting chapter in the story of the teenage ninja and his acrobatic accomplices."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["FRONTLINE Studios"],
+	"genres": ["Puzzle"],
+	"name": "Gene Labs",
+	"publishers": ["FRONTLINE Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 1, 2010",
+	"serial_number": "KG2E",
+	"synopsis": "New viruses that are capable of genetically changing any living organism are spreading all around the world. The only hope is to cure the infected cells by looking at them under a microscope and injecting the anti-virus solution at your disposal. The goal of the game is to distribute the anti-virus solution to the cells visible under the microscope before they become infected by deadly virus. Drag the solution from healthy cells to infected cells to kill them and/or prevent the healthy cells from becoming infected by the bad virus."
+}

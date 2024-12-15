@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Publisher Dream",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "May 9, 2013",
+	"serial_number": "KXUE",
+	"synopsis": "Ever dream about making and publishing your digital games? Now you can! Publisher Dream is a simulation game that places you in the owner’s seat of a company called \"Triangle\". Triangle focuses on a digital platform called \"cShop\" for development and publishing endeavors. You can hire people to develop various game genres, and control the game budgets and quality to safeguard limited resources. Do you want to be one of the biggest publishers on cShop? This may be a great way to test your skills before you actually starting your own game company."
+}

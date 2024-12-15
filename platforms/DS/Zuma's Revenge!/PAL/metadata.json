@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Arcade", "Puzzle"],
+	"name": "Zuma's Revenge!",
+	"publishers": ["PopCap Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 19, 2012",
+	"serial_number": "KZTV",
+	"synopsis": "Play the ribbeting, ball-blasting sequel - now on Nintendo DSiWare! An irresistible force has taken our fearless frog to a newly evolved world of Zuma, ruled by evil tiki bosses. Fire stone spheres to destroy the deadly stream of balls in this PopCap, ball-blasting challenge on Nintendo DSiWare! Conquer over 60 adventure levels and battle six imposing tiki bosses. Leap into the all-new Daily Dungeon and take a shot at three daily challenges. Slide and hop for smarter shots, hit targets for exotic bonuses and detonate explosive power-up balls. Will you succumb to the perilous pitfalls, or can you tame the jungle and guide your agile amphibian to victory?"
+}

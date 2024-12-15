@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sonic Powered"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Anonymous Notes Chapter  2 - From The Abyss",
+	"publishers": ["Sonic Powered"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 22, 2011",
+	"serial_number": "KV2P",
+	"synopsis": "This is a full-on action RPG packed with exhilaration which takes place inside an infinitely-extending dungeon. Do away with the monsters crawling about the various dungeons, and try your hand at defeating the terrifying boss monster lurking in the darkest depths. Using the attack known as \"Soul Capture\", the main character can steal monsters' magic and other skills, as well as pick up weapons and shields to power up along the way.. You'll get an exhilarating rush from strengthening the character through the combination of different equipment and skills, and then crushing the monsters in a powerful sweep."
+}

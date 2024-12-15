@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Climax Group"],
+	"genres": ["Action", "Platformer"],
+	"name": "SpongeBob SquarePants and Friends Unite!",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 15, 2006",
+	"serial_number": "ANUP",
+	"synopsis": "SpongeBob, Jimmy, Timmy, and Danny must combine their powers to defeat the Evil Syndicate and destroy the devastating Doomsday device. It's good VS. evil where only one team of Nicktoons will prevail."
+}

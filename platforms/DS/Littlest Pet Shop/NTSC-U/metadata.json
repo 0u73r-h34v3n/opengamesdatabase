@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Simulation"],
+	"name": "Littlest Pet Shop",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 14, 2009",
+	"serial_number": "KLPE",
+	"synopsis": "Experience your favourite LITTLEST PET SHOP™ pets in a whole new way! Now you can enjoy LITTLEST PET SHOP™ on the go on your Nintendo DSi. Play catch with your pets and their favourite toys, dress them up in adorable new accessories, and keep them happy by brushing and feeding them treats! You can even throw a little dance party for your pets and help them rock out to cool songs!"
+}

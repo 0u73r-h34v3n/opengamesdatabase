@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts", "Warner Bros. Interactive"],
+	"genres": ["Adventure"],
+	"name": "Harry Potter and the Deathly Hallows - Part 1",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 19, 2010",
+	"serial_number": "B7HP",
+	"synopsis": "Based on the film of the same name, Harry Potter and the Deathly Hallows – Part 1 is an adventure game for Nintendo DS that sees you assuming the role of the young wizard and using the Touch Screen to help him overcome his most dangerous challenge yet."
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Health"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Biorhythm",
+	"publishers": ["Cinemax"],
+	"release_date": "January 10, 2013",
+	"serial_number": "KBIE",
+	"synopsis": "This application primarily simulates an electronic device for the calculation of biorhythms. Users can have a momentary value of mental, emotional and physical curves calculated and their diagrams displayed or ascertain their values for any given date. This application also allows them to determine a percentage of partnership harmony and contains a hidden game as a bonus. Biorhythm models use three cycles: a 23-day \"physical\" cycle, a 28-day \"emotional\" cycle, and a 33-day \"intellectual\" cycle. Each of these cycles varies in a sine wave pattern between high and low extremes, with days where the cycle crosses the zero line described as \"critical days\" of greater risk or uncertainty."
+}

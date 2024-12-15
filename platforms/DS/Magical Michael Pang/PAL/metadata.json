@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mitchell"],
+	"genres": ["Puzzle"],
+	"locales": ["ES"],
+	"name": "Magical Michael Pang",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 24, 2010",
+	"serial_number": "BR5P",
+	"synopsis": "Celebrating 21 years since the original game blasted onto the arcade scene, Pang returns with all the addictive gameplay that made it so popular, now on the best selling handheld of all time, the Nintendo DS."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["3d Platformer", "Action", "Platformer"],
+	"locales": ["DE", "ES"],
+	"name": "Super Mario 64 DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "ASMP",
+	"synopsis": "This 3D platformer was one of the most popular launch titles for the Nintendo DS. In comparison with the original Super Mario 64, this version adds a variety of new features that are sure to please both newcomers and veterans."
+}

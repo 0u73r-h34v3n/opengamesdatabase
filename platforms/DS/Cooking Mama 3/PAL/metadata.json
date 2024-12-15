@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cooking Mama Limited"],
+	"genres": ["Cooking", "Simulation"],
+	"name": "Cooking Mama 3",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 13, 2009",
+	"serial_number": "B3CX",
+	"synopsis": "Cook with Mama as if it were the first time! For the first time, you can choose and combine the ingredients yourself; look for new and exciting flavour combinations! But there's more! You'll have to go shopping for Mama; it sounds fun but be careful, don't forget anything on the list..."
+}

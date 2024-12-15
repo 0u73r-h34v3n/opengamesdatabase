@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Torus Games"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Rise of the Guardians",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 30, 2012",
+	"serial_number": "TRYP",
+	"synopsis": "Let your imagination soar in Rise of the Guardians as you play as one of the classic childhood legends, including: North (aka Santa Claus), Tooth (aka the Tooth Fairy), Bunnymund (aka the Easter Bunny), Sandman, and Jack Frost."
+}

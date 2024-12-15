@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tetris Online"],
+	"genres": ["Party", "Puzzle"],
+	"name": "Tetris Party Live",
+	"publishers": ["Tetris Online"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 3, 2010",
+	"serial_number": "KTEV",
+	"synopsis": "Tetris Party Live features several exciting game modes from the popular Tetris Party series, including Marathon (a favorite single-player mode), Computer Battle (challenge the computer), VS Battle (challenge a friend) and Duel Space (strategize to claim more space than an opponent). But the party doesn’t stop there: Take the Tetris fun online via the Nintendo® Wi-Fi Connection service (broadband Internet access required) and enjoy multiplayer Tetris with up to three opponents at a time. You can also use the global ranking system to see how your Tetris Party Live skills stack up against the rest of the world."
+}

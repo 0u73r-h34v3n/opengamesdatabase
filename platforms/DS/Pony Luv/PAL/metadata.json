@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Glyphic Entertainment"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Pony Luv",
+	"publishers": ["GSP", "emme"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 12, 2008",
+	"serial_number": "YRQP",
+	"synopsis": "Pony Luv is the continuation of the Puppy Luv series of games. This time the focus is on raising elegant, adorable ponies. Feed, brush, and play with your ponies, while also getting to train them for prestigious competition. These lovable ponies will always be living in a world where they never grow up, remaining cute forever!"
+}

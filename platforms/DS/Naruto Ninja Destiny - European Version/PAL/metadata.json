@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tomy"],
+	"genres": ["Fighting"],
+	"locales": ["ES"],
+	"name": "Naruto: Ninja Destiny - European Version",
+	"publishers": ["Takara Tomy", "Tomy"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "February 15, 2008",
+	"serial_number": "AREP",
+	"synopsis": "Feel the impact as the Naruto franchise brings 3D fighting action to Nintendo DS! Unleash your ultimate jutsu in Naruto: Ninja Destiny - European Version, a pure fighting adventure that will blow you away!"
+}

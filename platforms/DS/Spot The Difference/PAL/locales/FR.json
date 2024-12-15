@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Spot The Difference",
+	"synopsis": "Deux photos sont affichées sur les écrans. Vous devez sélectionner les zones sur la photo principale où vous voyez une différence. Si vous trouvez toutes les différences pendant le temps imparti, vous gagnerez des coupes en fonction de votre performance. Vous pouvez gagner des coupes de bronze, d’argent et d’or. Le jeu contient 160 photos uniques prises par des photographes de renom et plus de mille combinaisons différentes d’erreurs à trouver dans les photos. Texte écran en français."
+}

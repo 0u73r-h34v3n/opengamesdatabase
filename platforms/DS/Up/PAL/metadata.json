@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Adventure"],
+	"name": "Up",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 2, 2009",
+	"serial_number": "CUYZ",
+	"synopsis": "\"Up\" takes you on an exotic adventure with Carl Fredricksen and his young companion, the explorer Russel, on an exciting journey through the jungles of South America."
+}

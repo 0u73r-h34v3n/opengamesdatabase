@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "HANDY麻雀",
+	"synopsis": "HANDY麻雀は「気軽に購入して手軽に遊べる」をコンセプトにした、二人打ち麻雀ゲームです。空いた時間や移動時間にちょっと一局。 キャラクターは登場しませんので、メニュー画面からすぐに対局を開始する事が出来ます。 さらに本ゲームをダウンロードしたニンテンドーDSi以外にもう一台ニンテンドーDSがあれば、すぐに通信対局が出来ます。 対局の他にも「役一覧早見表」や「用語辞典」を実装しており、実際の麻雀を打つ際にも便利グッズとして役立てることが出来ます。"
+}

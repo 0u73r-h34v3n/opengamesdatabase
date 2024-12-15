@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["ES"],
+	"name": "Mi Experto en Francés: Mejora Tu Vocabulario Francés",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 6, 2007",
+	"serial_number": "YQGE",
+	"synopsis": "Para dominar el francés con fluidez basta con jugar a Mi Experto en Frances durante 15 o 20 minutos al día. Este título enseña los conceptos básicos de uso de las palabras, la gramática y la construcción de frases mediante minijuegos y evalúa tu progreso."
+}

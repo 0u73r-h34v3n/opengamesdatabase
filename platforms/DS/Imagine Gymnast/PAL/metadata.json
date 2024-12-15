@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Simulation", "Sports"],
+	"locales": ["ES"],
+	"name": "Imagine Gymnast",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CERP",
+	"synopsis": "Become a gymnast and work your way up through training and performances with flips and twists."
+}

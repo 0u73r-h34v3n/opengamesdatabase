@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Shooter"],
+	"locales": ["ES"],
+	"name": "Star Fox Command",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 26, 2007",
+	"serial_number": "ASFP",
+	"synopsis": "Star Fox returns to its roots with a blistering space shooter on the Nintendo DS."
+}

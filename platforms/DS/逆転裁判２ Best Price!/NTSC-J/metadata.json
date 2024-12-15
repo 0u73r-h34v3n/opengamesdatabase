@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Simulation"],
+	"name": "逆転裁判２ Best Price!",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "October 26, 2006",
+	"serial_number": "A2GJ",
+	"synopsis": "Ace Attorney Phoenix Wright rises once again to protect the innocent and punish the lawbreakers in this sequel to one of the most surprising and original Nintendo DS hits of 2006."
+}

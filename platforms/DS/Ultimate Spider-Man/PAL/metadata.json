@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Ultimate Spider-Man",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 1, 2005",
+	"serial_number": "AUSS",
+	"synopsis": "Just when life for the ol' webslinger seemed to be ticking along nicely, enter Eddie Brock. Better known as Venom, this guy is ruthless, psychopathic, and at least as powerful as Spider-Man - oh, and he hates the wallcrawler with a passion."
+}

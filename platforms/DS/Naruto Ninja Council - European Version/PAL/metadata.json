@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tomy"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Naruto: Ninja Council - European Version",
+	"publishers": ["Takara Tomy", "Tomy"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 5, 2007",
+	"serial_number": "AN4P",
+	"synopsis": "Do you have what it takes to master the martial arts and prove yourself a true Ninja?"
+}

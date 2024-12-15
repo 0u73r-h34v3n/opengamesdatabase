@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Agetec"],
+	"genres": ["Arcade", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Quick Fill Q",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 22, 2013",
+	"serial_number": "KUMP",
+	"synopsis": "Q is an innocuous, yet determined spherical life form that continues to roll nonstop to escape a gradually collapsing world. The terrain is literally falling apart. Use your sharp reflexes and logical thinking to break and create various shapes to fill the holes that are randomly forming in the terrain. At times Q will become eager and increase its speed requiring you to adapt and act swiftly. Keep Q from falling into a hole and becoming lost. Quick Fill Q is a non-stop, simple to learn action-puzzle game that provides hours of challenging fun for the entire family… As Q’s guardian, it is up to you to protect and ensure that Q successfully rolls to freedom. Features: - High record scores saved. - Various difficulty skill levels. - Increasing speed for skilled players. - Touch Screen supported."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Adventure", "Point-And-Click"],
+	"locales": ["ES"],
+	"name": "Club Penguin: EPF - Herbert's Revenge",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 1, 2010",
+	"serial_number": "CY9E",
+	"synopsis": "Agents of the exclusive Elite Penguin Force are being called back into action with Club Penguin: Elite Penguin Force: Herbert’s Revenge. Fans of the original game can expect all new mysteries, missions and mini-games in this action-packed sequel."
+}

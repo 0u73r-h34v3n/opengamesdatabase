@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "Michael Jackson The Experience",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 26, 2010",
+	"serial_number": "BVNP",
+	"synopsis": "Michael Jackson The Experience. A game where you won't be able to miss a beat, dancing to more than 15 of the King of Pop's classics, including: Beat It, The Girl Is Mine, Billie Jean, Black or White, or Bad."
+}

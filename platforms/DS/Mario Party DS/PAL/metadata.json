@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Board Game", "Party"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Party DS",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "A8TP",
+	"synopsis": "True to the franchise roots, Mario Party DS brings players together to roll through unique game boards, playing frantic and fun mini-games along the way. Mario Party DS features five brand new boards and 70 fresh mini-games. In addition to the multiplayer party, Mario Party DS features a full single-player story mode that throws you into battle against Bowser and his minions. In this game, Mario and his friends have been tricked by Bowser and then miniaturised. You’ll have to return everyone back to their natural state by beating Bowser’s followers on each of the five boards and then crushing Bowser in a final duel. This is one party you definitely don’t want to miss!"
+}

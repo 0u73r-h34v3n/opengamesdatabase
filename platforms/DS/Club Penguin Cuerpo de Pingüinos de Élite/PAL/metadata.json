@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Adventure", "Point-And-Click"],
+	"locales": ["ES"],
+	"name": "Club Penguin: Cuerpo de Pingüinos de Élite",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 13, 2009",
+	"serial_number": "CLPS",
+	"synopsis": "Únete al Cuerpo de Pingüinos de Élite, un grupo especial de pingüinos que protege la isla de Club Penguin de amenazas misteriosas. A medida que avanzas en tu entrenamiento, descubrirás secretos ocultos y resolverás desafiantes acertijos en toda la isla. ¡Explora lugares emblemáticos como la Bahía, la Plaza y la Montaña Nevisca, mientras interactúas con tus amigos y haces nuevos aliados!"
+}

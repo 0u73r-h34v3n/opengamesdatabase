@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intrinsic Games"],
+	"genres": ["Platformer", "Puzzle"],
+	"name": "Divergent Shift",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 17, 2010",
+	"serial_number": "KRFV",
+	"synopsis": "Divergent Shift is a 2D puzzle platformer developed in which players must use the two screens in tandem to successfully navigate across. It follows the adventure of a girl who must find the pieces of a powerful mirror to bring back together a world that has been split."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "99Bullets",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "July 21, 2011",
+	"serial_number": "K99P",
+	"synopsis": "99Bullets, a fun space shooter with retro look, where lose a bullet is lose a life and lose a life is lose a bullet. The galaxy IRATA 2601 is threatened by Black Eye and his minions, V-99 is ready to stop him with his 99 bullets. Control V-99, avoiding, shooting and taking care of your 99 Bullets available on each level. - Arcade Mode like on the classic arcades! - More than 10 levels of retro style! - Incredible final bosses!"
+}

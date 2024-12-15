@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ゴー!ゴー!ココポロ",
+	"publishers": ["アークシステムワークス"],
+	"release_date": "May 30, 2012",
+	"serial_number": "K3GJ",
+	"synopsis": "a.k.a. Go! Go! Kokopolo: Harmonious Forest Revenge (NTSC-U, PAL)"
+}

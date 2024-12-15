@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Puffins: Let's Fish!",
+	"publishers": ["Other Ocean"],
+	"release_date": "June 21, 2010",
+	"serial_number": "KLFE",
+	"synopsis": "Dive into the deep blue sea and fill your belly with delicious fish in PUFFINS: LET’S FISH! This action game has you swimming the beautiful ocean looking for a puffin’s favorite meal—the elusive capelin. But watch out! The ocean can be a dangerous place and you’re not the only one hunting for food. Sharks, jellyfish and other fearsome predators are just waiting to take a bite out of you. It’s an all-you-can-eat feast in two different and exciting gameplay modes across 18 underwater stages. So be careful, take a deep breath, jump in and come out with a full belly! Yum!"
+}

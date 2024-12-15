@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Spike"],
+	"genres": [
+		"Action",
+		"Business Simulation",
+		"Life Simulation",
+		"Role-Playing",
+		"Simulation"
+	],
+	"locales": ["JA"],
+	"name": "プリンセスバレリーナ ～夢見る4人のプリマドンナ～",
+	"publishers": ["Spike"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 18, 2008",
+	"serial_number": "CLBJ"
+}

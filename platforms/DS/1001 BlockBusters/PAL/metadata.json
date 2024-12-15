@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "1001 BlockBusters",
+	"publishers": ["Selectsoft"],
+	"release_date": "March 8, 2012",
+	"serial_number": "KIOP",
+	"synopsis": "Think you've seen the ultimate brick-breaking game? Think again! Enjoy classic gameplay, amazing 3D graphics and surprising bonuses as you smash through 1001 levels of blockbusting excitement! Use the stylus to catch, bounce and bust balls through complex 3D constructions in 4 eye-popping worlds: Stone Age, Ancient Greece, Candy World and Fantasy Forest. Beat your best score by collecting wild powerups, including weapons, magnetic paddles, shields and more. But watch out for hidden hazards and booby traps- unless you like extra-small paddles and crazy camera angles! With over a dozen bonuses, 300 kinds of blocks and 1001 incredible 3D levels, 1001 BlockBusters is non-stop, no-holds-barred, action-packed fun! Features: - 1001 levels in 4 different worlds (Ancient Greece, Stone Age, Candy World and Fantasy Forest) - More than 15 power-ups and power-downs - 3 shooter types - Eye-catching 3D graphics - 3 game modes - High score list"
+}

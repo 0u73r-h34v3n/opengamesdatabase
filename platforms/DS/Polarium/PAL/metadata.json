@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mitchell Corporation"],
+	"genres": ["Puzzle"],
+	"name": "Polarium",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "ASNP",
+	"synopsis": "Get ready for challenging puzzles that require quick thinking and fast reflexes. In Polarium, you must draw lines to flip black and white tiles over in an effort to make patterns and puzzles disappear!"
+}

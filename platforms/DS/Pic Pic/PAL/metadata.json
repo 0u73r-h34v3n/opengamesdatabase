@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Success"],
+	"genres": ["Puzzle"],
+	"name": "Pic Pic",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 8, 2008",
+	"serial_number": "YPXP",
+	"synopsis": "Test your puzzle solving skills with classic puzzles game Maze, brain busting Cruxipix and the new original game Magipix."
+}

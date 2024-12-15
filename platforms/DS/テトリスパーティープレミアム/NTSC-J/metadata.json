@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Party", "Puzzle"],
+	"name": "テトリスパーティープレミアム",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "August 5, 2010",
+	"serial_number": "B4TJ",
+	"synopsis": "See Nintendo of Europe's official UK site for Tetris Party Deluxe on Wii and Nintendo DS. Enjoy the world-famous Tetris game and over 20 other great Tetris game modes. Play with friends at home or online via Nintendo Wi-Fi Connection."
+}

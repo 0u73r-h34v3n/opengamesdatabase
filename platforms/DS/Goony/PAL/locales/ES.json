@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Goony",
+	"synopsis": "Goony es un arcade supersencillo para jugadores ocasionales y habituales. Controlas a Goony, una criatura gelatinosa que recorre una carretera plagada de obstáculos peligrosos. El objetivo del juego es sobrevivir el máximo tiempo posible. Si te sales de la carretera o te caes desde un lugar elevado, pierdes. Goony no para de moverse. Se desplaza hacia la izquierda o la derecha. Para cambiar de dirección solo tienes que pulsar el Panel de Control de la Nintendo DSi. A lo largo del campo de juego encontrarás bloques especiales que pueden ayudarte. El campo de juego no se acaba hasta que cometes un error. Los pasos que des son tu puntuación final. Características: - Campo de juego infinito generado aleatoriamente - Dibuja tus propios bloques con el editor de bloques integrado - Intercambia bloques generados por los usuarios localmente o bien online mediante QR Code - Compite con un amigo en la misma consola en modo multijugador"
+}

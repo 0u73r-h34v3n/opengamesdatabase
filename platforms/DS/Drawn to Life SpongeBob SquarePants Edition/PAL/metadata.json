@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Drawing", "Platformer"],
+	"name": "Drawn to Life: SpongeBob SquarePants Edition",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2008",
+	"serial_number": "CDLX",
+	"synopsis": "Drawn to Life: SpongeBob SquarePants Edition - Players will experience SpongeBob SquarePants like never before by using the unique drawing mechanic perfected in last year's innovative Nintendo DS title, Drawn to Life, to draw their own character and populate the world of Bikini Bottom."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Role-Playing"],
+	"name": "Rhapsody: A Musical Adventure",
+	"publishers": ["Nippon Ichi Software"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 27, 2009",
+	"serial_number": "CM6P",
+	"synopsis": "Players will take on the role of Cornet, who can talk to puppets and has a magical horn that grants wishes. She must save Prince Ferdinand, who has been turned into stone by an evil witch."
+}

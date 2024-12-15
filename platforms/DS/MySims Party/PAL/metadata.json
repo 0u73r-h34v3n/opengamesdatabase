@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Party"],
+	"locales": ["ES"],
+	"name": "MySims Party",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 13, 2009",
+	"serial_number": "CMSP",
+	"synopsis": "Join the party and challenge your friends in quirky mini-games that require skill, speed and a healthy helping of good luck!"
+}

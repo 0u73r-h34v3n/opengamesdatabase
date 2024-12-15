@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Compilation"],
+	"name": "Game & Watch Collection",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 15, 2008",
+	"serial_number": "AWTE",
+	"synopsis": "Travel back in time with this collection of three Game & Watch titles on one Nintendo DS Game Card."
+}

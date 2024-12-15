@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "팩큰볼",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "April 17, 2008",
+	"serial_number": "APNK",
+	"synopsis": "Pac 'N Roll sees the ever-adventurous Pac-Man hit Nintendo DS for a romp across some spectacularly spaced-out environments."
+}

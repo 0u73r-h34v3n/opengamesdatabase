@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Starfish SD"],
+	"genres": ["Puzzle"],
+	"name": "I Did It Mum!: Girl",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 7, 2007",
+	"serial_number": "A2IP",
+	"synopsis": "The Award Winning Series is Back and Better Than Ever! The first and only developmentally appropriate game for the Nintendo DS just got better! Filled with a nice mix of fun, creativity and skill building games, this wholesome title is a must have for the youngest gamer! It's like carrying around a party inside your pocket which the whole family can enjoy!"
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation"],
+	"name": "목장이야기 너와 함께 자라는 섬",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "August 19, 2010",
+	"serial_number": "ABJK",
+	"synopsis": "Take on uncharted territory in Harvest Moon DS: Island of Happiness for Nintendo DS! After surviving a shipwreck and finding yourself washed up on a desert island, you’ll have to start a new life - and hopefully find someone to share it with ."
+}

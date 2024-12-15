@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arts Software"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Top Model",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 29, 2010",
+	"serial_number": "C2MX",
+	"synopsis": "Being a supermodel - the number 1 dream job of every young girl! Now the original \"Top Model\" from the USA is finally coming to the Nintendo DS. Fashion, beauty, shootings and catwalks are once again very trendy in 2010! Experience the start of a unique career and prove to the jury that you have what it takes to be a top model! The dream of an international modeling career begins now..."
+}

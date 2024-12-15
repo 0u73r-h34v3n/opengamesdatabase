@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action", "Arcade", "Shooter", "Third-Person Shooter"],
+	"locales": ["ES"],
+	"name": "Bionicle Heroes",
+	"publishers": ["Eidos Interactive", "TT Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 12, 2007",
+	"serial_number": "AH8P",
+	"synopsis": "Harness the elemental powers of each Toa hero, master their unique tools and abilities, and defeat all of the Piraka villains one by one to free the inhabitants!"
+}

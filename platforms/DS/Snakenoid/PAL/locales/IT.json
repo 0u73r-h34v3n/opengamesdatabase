@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Snakenoid",
+	"synopsis": "Usando lo stilo il giocatore controlla un serpente sullo schermo inferiore e cerca di usarlo in modo da far rimbalzare la pallina e distruggere i blocchi visualizzati sullo schermo superiore. In ogni livello i blocchi sono disposti in modo diverso. Allo stesso tempo il serpente deve evitare i nemici e può raccogliere i potenziamenti che cadono dai blocchi distrutti. Scopo del gioco è quello di completare tutti i livelli ottenendo il massimo dei punti. Il testo all'interno del gioco è in inglese."
+}

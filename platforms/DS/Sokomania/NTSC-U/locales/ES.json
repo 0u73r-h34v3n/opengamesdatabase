@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Sokomania",
+	"synopsis": "El juego es una variante de los juegos de encargado de almacén, en el área de juego hay diversas cajas y el jugador controla una figura que puede empujar las cajas hacia delante. El objetivo es llevarlas todas hasta las áreas designadas. El jugador elige el episodio al que quiere jugar y el nivel en el que quiere empezar. Solo se puede acceder a los niveles ya completados (resaltados en verde) y al primero de los niveles no completados de cada episodio. El jugador puede repetir niveles que ya ha completado para intentar hacerlo con menos movimientos de cajas. Pero cuidado: estos movimientos se añadirán al total de movimientos de la partida en sí, así que para obtener el mejor (más bajo) número de movimientos es recomendable completar el juego de una sola vez."
+}

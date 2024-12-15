@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Academy: Tic-Tac-Toe Noughts and Crosses",
+	"synopsis": "Le célèbre jeu de papier et crayon arrive dans votre poche. S'il n'y a personne pour jouer avec vous, pas d'inquiétude ! Affrontez la console dans l'une des 4 variantes du Tic-Tac-Toe disponibles, dans 3 niveaux de difficulté différents. La grille en 3x3 vous rend claustrophobe ? Essayez le mode Nine Board qui donnera un peu de piment à vos parties ! Participez au mode League et prouvez que vous êtes imbattable au Tic-Tac-Toe ! Texte écran en anglais."
+}

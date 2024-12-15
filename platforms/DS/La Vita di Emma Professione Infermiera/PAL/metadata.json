@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mobile Interactions Group"],
+	"genres": ["Business Simulation", "Puzzle", "Simulation"],
+	"locales": ["FR", "IT"],
+	"name": "La Vita di Emma: Professione Infermiera",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CEEY",
+	"synopsis": "Emma è una studentessa infermiera in un grande ospedale. Prenditi cura dei malati: cura le distorsioni, rimuovi le schegge, fai le radiografie, metti i bendaggi, osserva i microbi al microscopio... Supera l'esame e diventa un'infermiera da urlo."
+}

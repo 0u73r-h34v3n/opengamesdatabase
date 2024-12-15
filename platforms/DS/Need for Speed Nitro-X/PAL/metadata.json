@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Montreal"],
+	"genres": ["Action", "Racing"],
+	"name": "Need for Speed Nitro-X",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 26, 2010",
+	"serial_number": "KNPV",
+	"synopsis": "Get in gear for the super-charged thrill of driving the world’s hottest cars and the flat-out fun of arcade-style racing! Access awesome custom features like the Camera Tag Editor: snap images with the camera and plaster racing environments with your personal tag. Touch controls give you the feel of real racing as you push it to the limit in up to 18 supercars. Set your siren off in the exclusive Super Pursuit Mode that lets you drive as a Cop!"
+}

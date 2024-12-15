@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Art Co. Ltd"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Coraline",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 1, 2009",
+	"serial_number": "CRLP",
+	"synopsis": "Based on the film of the same name, as in Neil Gaiman's book, Coraline is a surreal adventure that tells the story of a young girl who discovers a parallel version of her life after opening a secret door in her new home. A world full of surprises awaits..."
+}

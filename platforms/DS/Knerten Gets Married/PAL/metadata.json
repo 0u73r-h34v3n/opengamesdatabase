@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ravn Studio"],
+	"genres": ["Action"],
+	"locales": ["NO"],
+	"name": "Knerten Gets Married",
+	"publishers": ["Pan Vision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 14, 2010",
+	"serial_number": "BXKP",
+	"synopsis": "Knerten and Caroline are sweethearts. Whenever you find waffle hearts they get even sweeter on each other. And if you are skilled enough, you can actually get them to marry! To achieve this you have to both explore Gampetreff and play all the fun mini-games. There are lots of fun mini-games around Gampetreff. Will you find them all? You have to look for them around Junior's house, in the woods and in the shop. There are heaps of things to collect along the way, and quite a few mini-tasks to complete. But look out for the police, ants and shifty ladies! The hungry bunnies will be very happy if you remember to feed them. All the mini-games you have found and opened can be started directly from the menu in Knerten's house."
+}

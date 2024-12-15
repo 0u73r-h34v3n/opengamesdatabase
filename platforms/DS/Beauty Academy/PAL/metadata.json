@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Beauty Academy",
+	"publishers": ["Tivola"],
+	"release_date": "March 11, 2011",
+	"serial_number": "K8BP",
+	"synopsis": "Become a stylist to the stars! Meet the world’s most extraordinary magician and open your own beauty studio. Prove your skill and speed at hair styling, make-up, nail design and much more. Fulfil the wishes of your customers and your beauty studio will become known as the best in town!"
+}

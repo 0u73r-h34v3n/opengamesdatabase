@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Cards", "Strategy", "Turn-Based Strategy"],
+	"name": "Yu-Gi-Oh!: World Championship 2007",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 27, 2007",
+	"serial_number": "AY7P",
+	"synopsis": "Create your best deck and prepare for the World Tournament in the Summer of 2007."
+}

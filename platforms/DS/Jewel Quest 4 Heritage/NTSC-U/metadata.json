@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Board Game", "Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Jewel Quest 4 Heritage",
+	"publishers": ["MSL"],
+	"release_date": "May 8, 2014",
+	"serial_number": "K43E",
+	"synopsis": "Hit the trail with Rupert on a journey through the shrines and castles of Hernan Cortes' lore. Swap jewels and collect puzzle pieces to unravel a perplexing web of family history in Jewel Quest Heritage. The Golden Jewel Board has been confiscated by the government, and is being delivered to the evil Sebastian Grenard! Investigate long-buried family secrets in order to discover the truth and save the day!"
+}

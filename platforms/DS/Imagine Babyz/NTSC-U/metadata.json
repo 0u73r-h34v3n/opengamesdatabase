@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact"],
+	"genres": ["Life Simulation", "Management Simulation", "Simulation"],
+	"name": "Imagine Babyz",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 23, 2007",
+	"serial_number": "YIBE",
+	"synopsis": "Get ready for the challenge of babysitting without all the real-life clean-up! In Imagine Babiyz, you’ll have your hands full of little tykes, not to mention household chores, all for the sake of making some extra money."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Role-Playing"],
+	"locales": ["FR"],
+	"name": "Pokémon Version Perle",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2007",
+	"serial_number": "APAF",
+	"synopsis": "Exclusivement sur Nintendo DS, la nouvelle génération de Pokémon déboule dans Pokémon Diamant et Pokémon Perle !"
+}

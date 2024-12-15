@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sonic Team"],
+	"genres": ["Coaching", "Educational", "Health", "Puzzle"],
+	"name": "Mind Quiz: Your Brain Coach",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 13, 2006",
+	"serial_number": "ACNE",
+	"synopsis": "49 exercises from 4 genres of calculation, reflex, judgement, and memory. Guaranteed to rejuvenate your brain. How old is your brain?"
+}

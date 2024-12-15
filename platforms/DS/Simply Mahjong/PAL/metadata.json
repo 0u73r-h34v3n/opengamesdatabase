@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Simply Mahjong",
+	"publishers": ["Engine Software"],
+	"release_date": "March 12, 2010",
+	"serial_number": "K4JP",
+	"synopsis": "Simply Mahjong gives you exactly what you want: pure Mahjong on your DSi! The simple game design and easy, intuitive controls make it a game that the whole family can enjoy. The game has 50 puzzles in each level to guarantee hours of gameplay fun."
+}

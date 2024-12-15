@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["iNiS"],
+	"genres": ["Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "Elite Beat Agents",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "July 20, 2007",
+	"serial_number": "AOSS",
+	"synopsis": "Únete al cuerpo secreto Elite Beat Agents y conviértete en el héroe con el poder de una canción y del baile."
+}

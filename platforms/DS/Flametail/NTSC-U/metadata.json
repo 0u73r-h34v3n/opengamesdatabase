@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mindware"],
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Flametail",
+	"publishers": ["Nintendo"],
+	"release_date": "June 7, 2010",
+	"serial_number": "K4KE",
+	"synopsis": "The year is 2099, and the solar system is littered with space junk. Our best hope for a tidier cosmos is to send the Flametail incinerator pod from planet to planet for a little fiery cleanup. Take control of the Flametail pod and start winding your way through obstacles, then watch as your flaming tail ignites blocks of troublesome debris and eventually eliminates them. Be careful not to work yourself into a dead end though, or let the hazard line that follows you catch up to your tail or reach any leftover garbage. Luckily, you’ll find useful items (such as bombs or score multipliers) along your path and be able to earn special power-ups (like radar or a missile) by collecting letter panels to spell particular words. Effectively burn up the floating garbage in the game’s two modes (Space Tour and Time Limit) and you’ll earn new graphics and other surprises as you progress. The straightforward controls and setup make it possible for anyone to take on the job of restoring space to pristine condition. Do you have what it takes to make your way to the outer reaches of the solar system?"
+}

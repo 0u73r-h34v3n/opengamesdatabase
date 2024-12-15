@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "ELECTROPLANKTON Luminarrow",
+	"publishers": ["Nintendo"],
+	"release_date": "January 29, 2010",
+	"serial_number": "KECV",
+	"synopsis": "Dive into a unique audio-visual experience where technology meets art. Created by multimedia musician Toshio Iwai, Electroplankton are living aquatic 'instruments' that you interact with to produce a variety of sounds and images limited only by your imagination! Luminarrow have the unique habit of following arrow-shaped formations, emitting sounds that change in pitch depending on their direction. The four types of Luminarrow – red, yellow, green and blue – each make a distinctive tone. Simply construct a network of arrows to create beautiful melodies. Use Performance mode to create your own unique compositions, or relax with Audience mode and let the Electroplankton run wild. Please note that elements of this software may have been featured in previously-released software."
+}

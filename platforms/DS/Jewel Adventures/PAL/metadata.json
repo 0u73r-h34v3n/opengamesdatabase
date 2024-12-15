@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["7Raven Studios"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Adventures",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 19, 2012",
+	"serial_number": "TJMX",
+	"synopsis": "The fantasy world has been destroyed after a great war against the forces of darkness! Match gems to help Ayla rebuild the destroyed kingdom and learn all the secrets of magic along the way. Fight monsters and search for lost artefacts and gems in your mission to restore order and help save the human race!"
+}

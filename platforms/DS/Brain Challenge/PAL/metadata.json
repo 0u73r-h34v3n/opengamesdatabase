@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Brain Challenge",
+	"publishers": ["Gameloft"],
+	"release_date": "July 3, 2009",
+	"serial_number": "KBCV",
+	"synopsis": "Brain Challenge is a simple, entertaining solution for stimulating your neurons that goes way beyond logic tests. With 48 mini-games, Brain Challenge provides an exceptional variety of exercises. Not only can you train your brain for Maths but also for 4 other categories: Logic, Focus, Memory and Visual! Improve your resistance to stress or choose to relax thanks to the 2 extra modes: Stress and Creativity. Plus, you can now personalize your profile and some exercises with your own photos!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Koch Media"],
+	"genres": ["Cards", "Traditional"],
+	"name": "Solitaire",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 11, 2008",
+	"serial_number": "YGIP",
+	"synopsis": "Unlimited gaming enjoyment with 101 of the most popular variations of Solitaire."
+}

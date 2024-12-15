@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tom Create"],
+	"genres": ["Action", "Adventure"],
+	"name": "GO Series: Captain Sub",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 1, 2011",
+	"serial_number": "K3NP",
+	"synopsis": "GO Series presents Captain Sub from Tom Create. Search the depths of the sea for lost treasure in this charming underwater adventure. Dash in and out of underwater caverns and caves in a mini-submarine, fighting off sea creatures with torpedoes. Recover treasure off the sea bed with a mechanical arm and return it to your ship before going head to head with the giant underwater monsters."
+}

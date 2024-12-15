@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tomy"],
+	"genres": ["Action", "Fighting", "Platformer"],
+	"locales": ["ES"],
+	"name": "Naruto Shippuden Ninja Council 3 European Version",
+	"publishers": ["Takara Tomy", "Tomy"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 18, 2009",
+	"serial_number": "AENP",
+	"synopsis": "Leap into the all-action world of Naruto Shippuden on Nintendo DS and prepare to experience an exciting chapter in the story of the teenage ninja and his acrobatic accomplices."
+}

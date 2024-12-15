@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sproing"],
+	"genres": ["Dance", "Music", "Rhythm"],
+	"locales": ["DE"],
+	"name": "Dance! It's Your Stage",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 3, 2010",
+	"serial_number": "VD4P",
+	"synopsis": "The stage is shrouded in dry ice, spotlights gradually focus on the centre of the stage, the curtain rises and with the first move a fantastic show explodes around you: this is your first performance!"
+}

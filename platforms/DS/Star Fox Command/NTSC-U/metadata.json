@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Shooter"],
+	"name": "Star Fox Command",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "August 28, 2006",
+	"serial_number": "ASFE",
+	"synopsis": "Star Fox Command lets you hop into your fight through a unique branching storyline of missions, all rendered in gorgeous 3-D. This game brings a whole new strategic element to the series, with a commander's view of the mission. Using the touch screen, players can draw the routes they and their teammates will take. Battle the enemies they encounter as they take over bases and strategically advance across the map. Players can also blow their friends out of the sky, as they dogfight 8 players over a local wireless connection -- or take on 4 players from around the world on Nintendo Wi-Fi Connection."
+}

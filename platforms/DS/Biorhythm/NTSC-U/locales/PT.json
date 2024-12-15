@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Biorhythm",
+	"synopsis": "Com Biorhythm, os usuários tem em suas maos um simulador de um dispositivo eletrônico para monitorar biorritmos. Esta aplicaçao permite calcular o valor da curva intelectualmente, emocionalmente e fisicamente em um determinado momento, e ver os seus diagramas ou consultar os valores de uma determinada data. Além disso, o sócio Biorhythm expressa harmonia como uma porcentagem e inclui um jogo secreto como um extra. Modelos Biorhythm usar tres diferentes ciclos: um ciclo \"físicas\" de 23 dias, um ciclo de \"emocionais\" e um ciclo de 28 dias \"intelectual\" de 33 dias. Cada um destes ciclos varia em curvas sinusoidais entre os pontos mínimos e máximos, em que os dias do ciclo gráfico cruza o eixo de coordenadas sao considerados \"dias críticos\", onde o risco ea incerteza sao maiores."
+}

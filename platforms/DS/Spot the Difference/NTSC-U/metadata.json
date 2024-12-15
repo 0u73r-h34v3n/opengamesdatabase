@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Spot the Difference",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 25, 2010",
+	"serial_number": "KYSE",
+	"synopsis": "Two photos are displayed on both screens.You must select the areas in the main photo where you see a difference and find all differences in a limited time.If you manage to discover the differences within the time limit, you will be granted with Cups according to your performance. There are Bronze, Silver and Gold Cups to win.The game features 160 different photos from established photographers, with more than a thousand different combinations of differences to find in the images."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Robot Rescue",
+	"synopsis": "Robot Rescue es un divertido juego de lógica basado en un concepto sencillo pero entretenido: debes liberar a los robots que han sido atrapados en 45 intrincados laberintos evitando las mortíferas trampas que encuentres en tu camino. ¡Aunque parece fácil, no lo es! Cada robot está conectado al resto, es decir, cuando mueves a uno también mueves a todos los demás. ¡Necesitarás una buena estrategia y nervios de acero para resolver este rompecabezas! Mientras avanzas deberás evitar varios tipos de trampas, como minas o circuitos eléctricos, y tendrás que utilizar a tu favor elementos especiales del laberinto, como las manchas de pegamento. ¡Elige uno de los 3 niveles de dificultad y prepárate para un reto apasionante! Textos de pantalla en español."
+}

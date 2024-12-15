@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Chuck E. Cheese's Alien Defense Force",
+	"publishers": ["UFO Interactive"],
+	"release_date": "December 13, 2012",
+	"serial_number": "KUQE",
+	"synopsis": "Chuck E. Cheese's® Alien Defense Force needs you! The evil king of Planet Cheese is trying to steal all of Earth's pizza, and heroes are needed to protect it! Do battle with the aliens with Chuck E. and his trusty water blaster or Mr. Munch and his water balloon. Four menacing aliens guard the entrance to lair of the King of Planet Cheese. Those aliens will be no match for Chuck. E. and Mr Munch's mighty arsenal once the power of the splash combos are unleashed! Go forth cadet and save Earth's pizza!"
+}

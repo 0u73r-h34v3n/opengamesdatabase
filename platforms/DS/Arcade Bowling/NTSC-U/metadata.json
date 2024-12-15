@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Bowling", "Sports"],
+	"name": "Arcade Bowling",
+	"publishers": ["Skyworks Interactive"],
+	"release_date": "October 16, 2009",
+	"serial_number": "K4BE",
+	"synopsis": "It was designed by video game legend David Crane, one of the original founders of Activision and one of the most critically acclaimed game designers of all time. In the tradition of everyone's favorite Boardwalk bowling game, use your stylus and steady aim to flick \"laser\" balls down the alley and up the ramp into the scoring holes. The farther away the scoring hole is, the more points you'll get. Arcade Bowling features three futuristic sound tracks, state-of-the-art 3-D graphics and two addictive game modes, Classic and Progressive. In Classic Mode, roll up to nine balls to score as many points as you can. In Progressive Mode, enjoy multiple levels of game play with increasing score plateaus and bonus targets."
+}

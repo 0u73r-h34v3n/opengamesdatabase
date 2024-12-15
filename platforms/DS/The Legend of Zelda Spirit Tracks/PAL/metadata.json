@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "The Legend of Zelda: Spirit Tracks",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 11, 2009",
+	"serial_number": "BKIP",
+	"synopsis": "All aboard for adventure as Link sets off on a quest to restore the spirit tracks and keep an ancient demon locked away."
+}

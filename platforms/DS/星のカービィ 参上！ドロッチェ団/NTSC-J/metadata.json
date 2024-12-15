@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "星のカービィ 参上！ドロッチェ団",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "January 1, 2015",
+	"serial_number": "AKWJ",
+	"synopsis": "Someone has stolen Kirby's strawberry shortcake! Did King Dedede do it, or could it be The Squeaks: a band of intergalactic, thieving rodents?"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Anuman Interactive"],
+	"genres": ["Educational"],
+	"locales": ["FR"],
+	"name": "Le Bescherelle Pratique",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 26, 2009",
+	"serial_number": "BBPF",
+	"synopsis": "Apprenez en vous amusant avec Bescherelle pour tous, un jeu basé sur le célèbre Bescherelle qui fera de vous un as de la grammaire et des conjugaisons !"
+}

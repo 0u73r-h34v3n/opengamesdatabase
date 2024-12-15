@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "터치! 봄버맨랜드",
+	"release_date": "April 26, 2007",
+	"serial_number": "ABXK",
+	"synopsis": "Bomberman Land Touch! combines the classic multiplayer battling that Bomberman is famous for, plus a brand new touch-controlled adventure element made especially for Nintendo DS."
+}

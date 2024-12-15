@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HeadStrong Games"],
+	"genres": ["Coaching", "Drawing", "Educational", "Health"],
+	"name": "Art Academy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 26, 2010",
+	"serial_number": "VAAE",
+	"synopsis": "Art Academy: Learn painting and drawing techniques with step-by-step training for Nintendo DS is an accessible, portable art course for everyone which is packed with creative and fun ways to improve and enhance your artistic skills."
+}

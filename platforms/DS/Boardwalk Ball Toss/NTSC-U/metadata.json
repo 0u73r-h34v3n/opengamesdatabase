@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skyworks Interactive"],
+	"genres": ["Arcade"],
+	"name": "Boardwalk Ball Toss",
+	"publishers": ["Skyworks Interactive"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 30, 2011",
+	"serial_number": "KA5E",
+	"synopsis": "Remember the fun and excitement of playing carnival games at the Boardwalk? Well, step right up and try your skill at one of your favorite Boardwalk attractions! From SKYWORKS®, creators of the best quality and most fun sports and arcade games on the Nintendo DSi, comes Boardwalk Ball Toss. Boardwalk Ball Toss combines amazing graphics, realistic physics and great game play to recreate the action and ambience of a carnival booth on the Boardwalk. In “Quick Play” mode you get unlimited balls to knock down as many bottles as you can before time runs out; earn bonuses for knocking down a whole stack. In “Progressive Play” mode, you move through multiple levels sporting six-bottle stacks and special gold, bronze and other bonus bottles. And you can win prizes based on your score!"
+}

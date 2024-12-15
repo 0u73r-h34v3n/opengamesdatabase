@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Cooking", "Exercise", "Fitness", "Health", "Simulation"],
+	"name": "Der Gesundheits Coach - Wohlfühlen Jeden Tag",
+	"publishers": ["SevenOne Intermedia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 19, 2010",
+	"serial_number": "BD5D",
+	"synopsis": "Besser essen und sich dabei besser fühlen – in jeder Lebenslage! Das ist das Ziel von “Der Gesundheitscoach”. Der Lebensberater erweitert die Kombination aus personalisierten Speiseplanvorschlägen und wirksamen Tipps zur gesunden Ernährung mit jeder Menge Sport! Über 250 sportliche Übungen – durch Motion-Capturing realistisch demonstriert von einer echten Personal Trainerin – halten den Nutzer fit und sorgen für Bewegung vor der Konsole. Leckeres und gesundes Essen gibt es natürlich ebenfalls! Über 200 Rezepte machen nicht nur satt, sondern vor allem schlank. Mit Tagesplaner und Lebensmitteldatenbank bekommt wirklich jeder seine Ernährung in den Griff. Für das nötige theoretische Wissen ist jedenfalls gesorgt, denn 35 Seminare mit optionalen Quizfragen steigern den “Ernährungs-IQ”des Spielers!"
+}

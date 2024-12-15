@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Racing"],
+	"name": "Need for Speed: ProStreet",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 14, 2007",
+	"serial_number": "YNPE",
+	"synopsis": "Compete at he highest level of street racing! Experience raw, adrenaline-fueled racing. Dominate all across racing disciplines. Test your timing and speed in an exclusive rhythm based mini-game."
+}

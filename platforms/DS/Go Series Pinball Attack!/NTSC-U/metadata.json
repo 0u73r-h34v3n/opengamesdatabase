@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ArtePiazza"],
+	"genres": ["Action"],
+	"name": "Go Series: Pinball Attack!",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 8, 2010",
+	"serial_number": "KPYE",
+	"synopsis": "GO Series presents Pinball Attack! from ArtePiazza. Control the flippers of a pinball machine in this adventure pinball game as you go on a magical journey to the seabed, under the earth, through a jungle and into space. Use pinballs to fight off enemies such as giant blow fish, collect bonuses & powers ups. Developed by ArtePiazza, the developer of Dragon Quest and Opoona."
+}

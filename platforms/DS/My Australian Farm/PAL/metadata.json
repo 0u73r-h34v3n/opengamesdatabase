@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "My Australian Farm",
+	"publishers": ["BiP media"],
+	"release_date": "August 4, 2011",
+	"serial_number": "KL4P",
+	"synopsis": "My Australian Farm is a breeding simulation game! At the beginning, all you own is an empty field, a little money and a single emu. You need to feed the emu and take care of it! Well-fed with seed, it will lay eggs which can then be sold and with this money, you can buy new animals at the Farmers’ Market and purchase equipment from the Shopkeeper. Little by little as your farm builds up, you will unlock certain bonuses (a grain store, a wind turbine, a sacred stone, etc.) and you will be able to exchange your animals with your friends who play My Farm, My Exotic Farm, My Asian farm or My Australian Farm! • 6 kinds of animals to customise • Take care of your animals (feed, clean, protect, etc.) • Many farm improvements to buy and bonuses to collect • Exchange of animals with other players Please note that elements of this software may have been featured in previously released software."
+}

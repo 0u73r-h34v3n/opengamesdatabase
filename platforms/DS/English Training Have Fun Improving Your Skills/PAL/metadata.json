@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Plato"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "English Training: Have Fun Improving Your Skills",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 13, 2006",
+	"serial_number": "ANGP",
+	"synopsis": "Have you always wanted to improve your English but haven't been able to find the right time or teacher? With English Training: Have Fun Improving Your Skills, you can improve your English while having a great time."
+}

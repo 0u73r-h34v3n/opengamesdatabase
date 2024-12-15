@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Action", "Shooter"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Resident Evil: Deadly Silence",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "March 31, 2006",
+	"serial_number": "ABHP",
+	"synopsis": "Join S.T.A.R.S. members Jill Valentine and Chris Redfield in this startling remake of the original Resident Evil adventure."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Health", "Software"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Animal Crossing Clock",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 5, 2009",
+	"serial_number": "KWCV",
+	"synopsis": "With Animal Crossing Clock, you'll always have the time wherever you go! Wake up with your favourite Animal Crossing music, or simply use the Nintendo DSi as a desktop clock complete with an authentic Animal Crossing background. You can even compose a Town Tune to play at the top of every hour! Customise the clock to your liking: choose from analogue or digital displays, 12-hour or 24-hour modes, and set up to three separate alarms with different Animal Crossing tunes or use your own saved sounds from the Nintendo DSi Sound application."
+}

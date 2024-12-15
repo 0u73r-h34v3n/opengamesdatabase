@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Backbone Entertainment"],
+	"genres": ["Strategy"],
+	"name": "Age of Empires - The Age of Kings",
+	"publishers": ["Majesco"],
+	"release_date": "November 10, 2006",
+	"serial_number": "AEKX",
+	"synopsis": "Wage war on your Nintendo DS with a perfectly recreated handheld version of one of the bestselling PC real-time strategy (RTS) games of all time."
+}

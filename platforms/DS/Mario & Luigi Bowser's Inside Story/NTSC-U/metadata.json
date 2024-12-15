@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AlphaDream"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"name": "Mario & Luigi: Bowser's Inside Story",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 14, 2009",
+	"serial_number": "CLJE",
+	"synopsis": "In the highly-anticipated third RPG adventure in the Mario & Luigi series, the brothers have to face an unbelievable new challenge that involves getting up close and personal with their arch-enemy Bowser."
+}

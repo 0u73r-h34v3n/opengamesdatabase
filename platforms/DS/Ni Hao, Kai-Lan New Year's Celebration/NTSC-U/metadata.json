@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Educational"],
+	"name": "Ni Hao, Kai-Lan: New Year's Celebration",
+	"publishers": [
+		"GameTek",
+		"Global Star Software",
+		"Rockstar Games",
+		"Take-Two Interactive"
+	],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "EC"
+		}
+	],
+	"release_date": "November 3, 2009",
+	"serial_number": "BHBE",
+	"synopsis": "Ni Hao! Get ready to enjoy the greatest Chinese New Year celebration ever with Kai-lan and her friends! Join in the fun with Kai-lan, Rintoo, Tolee, HoHo, LuLu, and YeYe as you help them craft paper lanterns, cook Chinese dumplings, march in a parade, play in a band, and much, much more!"
+}

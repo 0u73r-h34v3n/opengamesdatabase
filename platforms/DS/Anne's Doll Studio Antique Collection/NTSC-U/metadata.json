@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["STARFISH-SD"],
+	"genres": ["Simulation"],
+	"name": "Anne's Doll Studio: Antique Collection",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 26, 2014",
+	"serial_number": "KY8E",
+	"synopsis": "Welcome to the elegant world of Anne's Doll Studio: Antique Collection! Dress your doll from head to toe, selecting from a wide range of beautifully laced and pleated dresses, accessories, shoes, and more! In order to dress your doll, use your stylus to select your doll's hairstyle, hair accessory, dress and jewellery. Once you have completed styling your antique doll, you can now create a picture by choosing a wallpaper and frame! Players can also choose to use the built-in camera of their Nintendo DSi or Nintendo 3DS system to take a photograph to use as the wallpaper instead. To further decorate your picture, you can add as many stamps as you like, and even draw freehand! Lastly, you can share your completed doll picture by saving it on an SD Card (sold separately) so that you can share or use it on social networks, mail it to friends or family as a card, or simply print it out."
+}

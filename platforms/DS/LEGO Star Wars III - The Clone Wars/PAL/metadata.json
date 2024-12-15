@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "LEGO Star Wars III - The Clone Wars",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 25, 2011",
+	"serial_number": "BL9P",
+	"synopsis": "Laugh your way through a galaxy far, far away in LEGO Star Wars III: The Clone Wars on Nintendo DS! Experience the stories and characters from the Star Wars universe in the palm of your hand!"
+}

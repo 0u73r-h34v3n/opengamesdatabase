@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Machine Studios"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Barbie - Groom and Glam Pups",
+	"publishers": ["THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 16, 2010",
+	"serial_number": "BB7P",
+	"synopsis": "Barbie Groom & Glam Pups is an all-new, fun and engaging game that lets players choose a pup from one of six adorable breeds, then groom it, train it, and dress it up."
+}

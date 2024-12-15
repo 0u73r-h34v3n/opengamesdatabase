@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Shooter", "Third-Person Shooter"],
+	"name": "007: Blood Stone",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "January 25, 2011",
+	"serial_number": "BJBE",
+	"synopsis": "James Bond 007: Blood Stone features the likeness and voice talent of Daniel Craig, Joss Stone and Judi Dench and features an epic, original story developed by legendary screenwriter Bruce Feirstein. Players can engage in cover-based firefights, lethal hand-to-hand combat and speed their way through explosive adrenaline-fueled driving sequences as they embark on a global chase leading to action on land and sea through Athens, Istanbul, Monaco and Bangkok."
+}

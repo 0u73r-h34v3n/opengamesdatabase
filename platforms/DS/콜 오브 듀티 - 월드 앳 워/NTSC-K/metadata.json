@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Shooter"],
+	"name": "콜 오브 듀티 - 월드 앳 워",
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "15"
+		}
+	],
+	"release_date": "December 19, 2008",
+	"serial_number": "CALK",
+	"synopsis": "The epic battles of World War II spill onto the streets – or wherever you take your Nintendo DS."
+}

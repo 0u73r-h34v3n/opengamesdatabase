@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games"],
+	"genres": ["Action"],
+	"name": "Daniel X: The Ultimate Power",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "January 12, 2010",
+	"serial_number": "VDXE",
+	"synopsis": "The Dangerous Days of Daniel X is the story of Daniel, a young boy who possesses the incredible power of creation that he inherited from his alien parents. But Daniel also inherited something far more sinister: a frightening Wanted List of aliens that are bent on destroying Earth"
+}

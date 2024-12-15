@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Rytmik",
+	"publishers": ["Cinemax"],
+	"release_date": "May 7, 2010",
+	"serial_number": "KRKV",
+	"synopsis": "Rytmik is an application for creating rhythmical and melodic themes and for composing whole songs. Its user interface blends the fast and well-arranged interface of classic drum machines with the flexible pattern interface of popular trackers and with a modern sound library. It contains more than 170 carefully selected sound samples of drums, cymbals, percussion, bass and melodic instruments. With Rytmik you can quickly and easily create the basic building stone – an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library and varied collection of 16 pre-made compositions at your disposal that you may quickly compose your own pieces from. Rytmik is not only for playing with sounds; in the hands of a skilful musician it can become a serious musical instrument – surprisingly powerful pocket music station. For the best musical experience we recommend connecting headphones or quality speaker system. You’ll become the king of the Friday party in no time..."
+}

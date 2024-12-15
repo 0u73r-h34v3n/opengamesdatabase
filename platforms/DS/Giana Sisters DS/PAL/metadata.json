@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Spellbound Entertainment"],
+	"genres": ["Action", "Platformer"],
+	"name": "Giana Sisters DS",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 3, 2009",
+	"serial_number": "CYYP",
+	"synopsis": "Giana has returned! Get ready for her biggest adventure ever, as she braves a fantastic dreamworld in search of her lost diamonds. Take on a band of menacing enemies as Giana makes her way through 80+ new levels, unleashing a mighty arsenal of power-ups along the way!"
+}

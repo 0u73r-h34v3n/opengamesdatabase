@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n Stage"],
+	"genres": ["Action", "First-Person Shooter", "Shooter", "Simulation"],
+	"name": "Call of Duty: Black Ops (Canada Version)",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 9, 2010",
+	"serial_number": "BDYX",
+	"synopsis": "Black Ops immerses us in the world of covert operations during the historical period of the Cold War. An intense adventure that will leave us breathless, thanks to its spectacular cinematics, in which we will adopt the role of a Special Operations soldier behind enemy lines, in different places around the world."
+}

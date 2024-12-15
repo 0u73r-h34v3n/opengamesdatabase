@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Digital Embryo"],
+	"genres": ["Cooking", "Puzzle"],
+	"name": "Cake Mania 2: Jill's Next Adventure!",
+	"publishers": ["Majesco Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 7, 2009",
+	"serial_number": "CAKX",
+	"synopsis": "After spending most of 2006 working to re-open the Evans Bakery, sending her grandparents on an exotic Hawaiian cruise, and taking a much-needed break herself, Jill is taking her long-awaited, triumphant return to Nintendo DS in Cake Mania 2, an all-new, out-of-this-world adventure!"
+}

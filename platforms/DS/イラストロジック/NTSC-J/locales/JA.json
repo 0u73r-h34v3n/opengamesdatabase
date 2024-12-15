@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "イラストロジック",
+	"synopsis": "数字をヒントにマス目を塗る、王道ロジックパズルです。 5つのカテゴリに分かれた問題が全部で180問、4枚の問題を組み合わせることで巨大な絵柄が出来上がる「あわせるロジック」を20問、全200問を収録しています。"
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Prope"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "Ivy the Kiwi? Mini",
+	"publishers": ["XSEED Games"],
+	"release_date": "August 11, 2010",
+	"serial_number": "KIKX",
+	"synopsis": "Ivy is on a search for her mother and she needs your help! Help guide Ivy by stretching vines and protecting her from treacherous terrain and mean animals that stand in her way. She's a bird, but she can't fly, and she's going to need all the help she can get if she's going to find her mother. Will Ivy find her mother? More than 50 stages provide loads of fun for the whole family."
+}

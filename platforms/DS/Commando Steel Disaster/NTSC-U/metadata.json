@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Shooter"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Commando: Steel Disaster",
+	"publishers": ["Cinemax"],
+	"release_date": "August 9, 2012",
+	"serial_number": "KC7E",
+	"synopsis": "Commando: Steel Disaster is a shooting game based on a futuristic military theme. Various sectors of a military group report being attacked by some of their own war machines and that a terrorist organization led by a man named Rattlesnake is at the center of each attack. A commando and vehicle specialist code-named Storm is assigned to enter each affected area and progressively stop Rattlesnake’s ambitions. Features * Excellent visuals and game graphics for an effective appearance! * Very fluent and smooth gameplay! * Very intense battle scenes!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "G.G. Series BLACK X BLOCK",
+	"synopsis": "Create a path to the goal gate found in each stage by taking, rotating and placing the black blocks found throughout each level to make a stairway-like path to your destination. Avoid falling on red blocks or getting caught under falling blocks while thinking your way through this intellectual puzzle game as the time limit counts down. If you can't find a way, you can give up and start the stage over, but at a cost of one life. If all lives are lost, the game is over. Easy, Normal and Hard difficulty can be selected."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Castle Conqueror - Revolution",
+	"publishers": ["CIRCLE Ent."],
+	"release_date": "October 20, 2011",
+	"serial_number": "KQNE",
+	"synopsis": "You are a member of a family of military geniuses who came from the Empire, and lived on a beautiful island for many years. The Empire then arrived on the island and now control everything, and are seeking valuable resources and gold. They have ruined the island's environment and have hunted down and killed the tribal people, some of whom are your friends. You must now stop the Empire and protect your people by becoming a commander and leading your people against the evil Empire. This is a revolution for you and the entire island! This is our lovely island, and we will never allow the Empire to ruin it! Game Features: - RTS/RPG elements - Advanced AI - New mode of difficulty - Set tactics for each battle and multiple battles to join during a war - Allies are at the ready to battle your enemies - Obtain coins to research new techniques that upgrade abilities - Many more features await your discovery"
+}

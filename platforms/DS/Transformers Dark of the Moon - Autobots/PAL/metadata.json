@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Behaviour Interactive"],
+	"genres": ["Action", "Adventure"],
+	"name": "Transformers: Dark of the Moon - Autobots",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 24, 2011",
+	"serial_number": "BXEP",
+	"synopsis": "It has been three years since MEGATRON and the DECEPTICONS last threatened the world. Earth's leaders believe that MEGATRON has fled the planet in defeat-but OPTIMUS PRIME knows better."
+}

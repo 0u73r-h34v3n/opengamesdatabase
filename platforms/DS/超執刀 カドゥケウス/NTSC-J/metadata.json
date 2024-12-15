@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Simulation"],
+	"name": "超執刀 カドゥケウス",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "June 16, 2005",
+	"serial_number": "AKDJ",
+	"synopsis": "Got an urge to perform some surgery? Now you can try your hand at a selection of complicated medical procedures in this brilliantly quirky hospital simulation!"
+}

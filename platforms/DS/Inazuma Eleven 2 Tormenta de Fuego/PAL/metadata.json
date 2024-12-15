@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEVEL-5"],
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"locales": ["ES"],
+	"name": "Inazuma Eleven 2: Tormenta de Fuego",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 16, 2012",
+	"serial_number": "BEES",
+	"synopsis": "Inazuma Eleven 2 ofrece una mezcla \"galáctica\" de rol y fútbol."
+}

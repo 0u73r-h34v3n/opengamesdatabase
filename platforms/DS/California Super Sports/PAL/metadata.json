@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cypronia"],
+	"genres": ["Sports"],
+	"name": "California Super Sports",
+	"publishers": ["Cypronia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 4, 2013",
+	"serial_number": "K22P",
+	"synopsis": "California Super Sports is a collection of six unique games that are popular in the U.S.: croquet, dodgeball, lawndarts, rollerblade, shuffleboard arcade and target football. It’s located in sunny California, offering lots of fun and various experiences with a mixture of action, racing and tactical games."
+}

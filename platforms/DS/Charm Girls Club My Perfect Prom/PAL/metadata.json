@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games"],
+	"genres": ["Business Simulation", "Management Simulation", "Simulation"],
+	"name": "Charm Girls Club: My Perfect Prom",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 28, 2009",
+	"serial_number": "BCPX",
+	"synopsis": "In Charm Girls Club My Perfect Prom for Nintendo DS, players go through the thrills and drama of planning, fundraising, decorating, getting ready and attending the big night!"
+}

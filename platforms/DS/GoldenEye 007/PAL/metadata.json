@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Arcade", "First-Person Shooter"],
+	"locales": ["DE", "PT"],
+	"name": "GoldenEye 007",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "November 5, 2010",
+	"serial_number": "BJCD",
+	"synopsis": "The GoldenEye story comes to life once again with an updated single player storyline featuring Daniel Craig as Bond and wrltten by Bruce Feirstein, the screenwriterfor the original movie. Surprise enemies covertly or engage in a full on firefight and use Bond's latest gadget to uncover intel an augmented reality as you relive all the classic GoldenEye movie moments. lnfiltrate the dam and destroy the facility; chase Ourumov in the tank through the streets of St. Petersburgh and investigate the secret jungle base."
+}

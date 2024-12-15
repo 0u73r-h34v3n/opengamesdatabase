@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"name": "뉴 슈퍼 마리오브라더스",
+	"publishers": ["Nintendo"],
+	"release_date": "March 8, 2007",
+	"serial_number": "A2DK",
+	"synopsis": "The first all-new 2D Mario platformer since Super Mario World has arrived!"
+}

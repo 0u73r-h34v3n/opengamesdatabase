@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amble"],
+	"genres": ["Action", "Adventure", "Role-Playing"],
+	"name": "メタルファイト ベイブレード　頂上決戦!ビッグバン・ブレーダーズ",
+	"publishers": ["Hudson Soft"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 2, 2010",
+	"serial_number": "BRZJ",
+	"synopsis": "Players can let rip with single-player fun or duel with friends in this spinning top combat game for Nintendo DS."
+}

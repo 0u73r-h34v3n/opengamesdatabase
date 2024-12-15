@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Health", "Software", "Traditional"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Nintendo Countdown Calendar",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 19, 2010",
+	"serial_number": "KAUV",
+	"synopsis": "These days we all lead increasingly busy lives. Nintendo Countdown Calendar is an easy, fun way to keep track of not only urgent appointments but also to remind you about life's small yet important tasks. You can organise your day-to-day 'Events' by category, selecting from either School (such as trips, homework deadlines), Work (meetings, projects) or Everyday (doctor's appointments, holidays). You can even add your own Custom Events using handwritten notes via the Touch Screen. What's more, each time you start the calendar, a useful reminder tells you how many days are left until your added event! The software can be used until 2099, including important dates like public holidays (some countries only, not all holidays) and phases of the moon. You can even leave yourself a quick written reminder which will appear the next time you use the software. With Nintendo Countdown Calendar, you will have no excuse to forget another birthday!"
+}

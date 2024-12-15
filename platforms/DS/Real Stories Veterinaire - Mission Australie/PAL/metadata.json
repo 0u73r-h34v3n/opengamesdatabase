@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Radon Labs"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["FR"],
+	"name": "Real Stories: Veterinaire - Mission Australie",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 19, 2009",
+	"serial_number": "CTDF",
+	"synopsis": "Préparez-vous pour une aventure dans votre propre clinique vétérinaire pour animaux de compagnie en Australie ! Votre travail consiste à prendre soin et à aimer tous les animaux sauvages en Australie et à les ramener à la santé."
+}

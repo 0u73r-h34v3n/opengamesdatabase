@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Arcade", "Racing"],
+	"name": "Cocoto Racers",
+	"publishers": ["Midway Games", "Tradewest"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 19, 2007",
+	"serial_number": "YQRP",
+	"synopsis": "Play Cocoto and his friends in devilish races! Choose among 12 characters and their crazy karts! 4 play modes from 1 to 4 players: championship, simple race, battle and time trial. Beat your opponents with lots of devastating attacks!"
+}

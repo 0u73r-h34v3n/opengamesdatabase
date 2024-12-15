@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "PT"],
+	"name": "G.G Series CONVEYOR TOY PACKING",
+	"publishers": ["Goodvision Corporation"],
+	"release_date": "June 11, 2015",
+	"serial_number": "KH5E",
+	"synopsis": "Deadlines and shipping schedules are coming up and your boss is pushing the Conveyor Toy Packing factory into high gear. Be sure to match boxes with the same colored toys as the conveyor belt continuously feeds you stuffed toy penguins. Pack as many of the same colored penguins into one box for higher combos. Keep up the pace and watch out for the flashing light which lets you know to be careful not to let anything fall off the conveyor belt to the right as you try to aim for the highest score and the record of most packed in one box!"
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Arcade", "Shoot 'Em Up"],
+	"name": "Galaxy Saver",
+	"publishers": ["G-Style"],
+	"release_date": "January 3, 2013",
+	"serial_number": "KBNE",
+	"synopsis": "Take on wave after wave of invading attacks as you protect the mothership from 360 degrees of enemy bombardment. Circle around the mothership to form a perimeter, blasting the incoming alien ships with guns and missiles as they swarm in from all directions. Blast everything in sight as the aliens attack with rush attacks, stealth attacks, swarms, and tracker beams, surrounding you from all directions. Recruit partnership ships to help you fend off the invaders or team up with a friend using DS Wireless Communications. Hold off the hordes of aliens while your mothership recharges its warp drive in a series of steps that edge you closer to earth, where the final battle awaits."
+}

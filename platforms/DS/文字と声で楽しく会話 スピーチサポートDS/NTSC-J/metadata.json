@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "文字と声で楽しく会話 スピーチサポートDS",
+	"publishers": ["ペンタスネット"],
+	"release_date": "March 30, 2011",
+	"serial_number": "KJNJ"
+}

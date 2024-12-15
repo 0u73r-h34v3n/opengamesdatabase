@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Successfully Learning Mathematics Year 5",
+	"publishers": ["Tivola"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 8, 2012",
+	"serial_number": "KKXP",
+	"synopsis": "In \"Successfully Learning: Mathematics, Year 5\", pupils will solve exciting maths problems with the little vampire Freddy to learn maths in a playful way. The little vampire Freddy motivates the children and helps with tips. All problems are based on the current curriculum for maths. You can play \"Successfully Learning: Mathematics, Year 5\" in German, English, Spanish, French, Italian and Turkish."
+}

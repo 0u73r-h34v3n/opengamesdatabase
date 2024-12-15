@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action Rpg"],
+	"name": "Anonymous Notes 1 - From The Abyss",
+	"publishers": ["Sonic Powered"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "April 4, 2011",
+	"serial_number": "KVIE",
+	"synopsis": "A real action RPG with preeminent exhilaration set inside an infinitely-extending dungeon. Sweep away the monsters wriggling in many places and get at defeating a strong boss monster lurking at the deepest portion of the dungeon. Even after the boss monster is defeated, the dungeon re-creates itself using an automatic system, so the player can try new games over and over. Using the skill called Soul Capture, the male character can take away the magic and other skills from the monsters, as well as weapons and shields to power up. It is very exhilarating to strengthen the character combining the equipments and skills, then crushing the monsters in a sweep. The player can enjoy the simple, and yet profound, world of From The Abyss, Anonymous Notes."
+}

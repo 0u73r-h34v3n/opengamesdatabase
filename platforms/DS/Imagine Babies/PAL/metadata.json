@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact"],
+	"genres": ["Life Simulation", "Management Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Babies",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 8, 2007",
+	"serial_number": "YIBP",
+	"synopsis": "Get ready for the challenge of babysitting without all the real-life clean-up! In Imagine Babies, you’ll have your hands full of little tykes, not to mention household chores, all for the sake of making some extra money."
+}

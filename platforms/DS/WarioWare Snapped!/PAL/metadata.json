@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Party"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "WarioWare: Snapped!",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 3, 2009",
+	"serial_number": "KUWV",
+	"synopsis": "Wario returns with more manic minigames made especially for Nintendo DSi! WarioWare: Snapped! uses the internal camera to literally make you the star of the show! Take part in wacky challenges simply by moving your face and body as you fly along four wild roller coasters, hosted by Wario and his wacky pals. While Wario’s games are all about big movements, Mona’s require more dexterity. Kat & Ana’s challenges are played with a friend for double hilarity! Wario has a few tricks up his sleeve that keep the fun times flowing even after you've finished moving!"
+}

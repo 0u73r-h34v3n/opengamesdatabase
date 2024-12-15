@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Electroplankton - Trapy",
+	"publishers": ["Nintendo"],
+	"release_date": "November 9, 2009",
+	"serial_number": "KEAE",
+	"synopsis": "A strange electronic sea awaits you. In this sea, you’ll encounter unique species of tiny Electroplankton that respond to your touch and voice to create unforgettable sounds and melodies. Enjoy getting to know these fascinating plankton as you relax to their sights and sounds! Trapy plankton make sounds as they swim over graceful lines made up of linked triangles. The creatures follow the lines you trace along the water. There are six types of Trapy in all, each with a unique color and sound. All Trapy plankton produce different tones depending on the direction they swim. They produce the lowest-pitched sounds when they swim to the right and produce higher-pitched sounds as their path veers to the left."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Puzzle"],
+	"locales": ["ES"],
+	"name": "Mario vs. Donkey Kong 2: March of the Minis",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 9, 2007",
+	"serial_number": "AMQP",
+	"synopsis": "In the first Mario vs. Donkey Kong, Mario was trying to find all the Mini Marios – but this time, it’s up to them to save the day!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mentor Interactive"],
+	"genres": ["Board Game", "Chess", "Strategy"],
+	"locales": ["DE"],
+	"name": "Schach Attacke",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 17, 2007",
+	"serial_number": "YQCD",
+	"synopsis": "Machen Sie sich bereit für eine unterhaltsame und unterhaltsame Art, das anspruchsvollste Spiel der Welt zu erlernen! Spieler können wählen, ob sie die Clubs „Weiße Elefanten“ oder „Schwarze Schafe“ in einem aufregenden Abenteuer mit herausfordernden Interaktionen und Minispielen anführen möchten, in denen sie die verschiedenen Schachfiguren und ihre Spezialzüge lernen und üben können."
+}

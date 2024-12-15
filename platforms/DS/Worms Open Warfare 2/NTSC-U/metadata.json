@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Team17", "Two Tribes"],
+	"genres": ["Strategy", "Turn-Based Strategy"],
+	"name": "Worms: Open Warfare 2",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "September 4, 2007",
+	"serial_number": "AW2E",
+	"synopsis": "Worms might be small, but they pack a powerful punch! Join the factions of these slimy burrowers in some cold-blooded warfare in Worms: Open Warfare 2 for Nintendo DS."
+}

@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "PT"],
+	"name": "G.G Series THE LAST KNIGHT",
+	"publishers": ["Genterprise"],
+	"release_date": "June 25, 2015",
+	"serial_number": "K5ME",
+	"synopsis": "You are the last of the knightly order who still followed the ways of chivalry on a mission to brave the depths of the dungeon. To reach your quest's end you must brave the many perilous creatures of the deep. However, the knight's prowess with the sword is renowned and will be relied on as you fight your way to your goal. Ancient powers will be found along the way which will aid your attack skill or protection as well as recover you from your wounds, but beware of the giant creatures who rule over this vast underworld as you fight your way to the final battle as the Last Knight!"
+}

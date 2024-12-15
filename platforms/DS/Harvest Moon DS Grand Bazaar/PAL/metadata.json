@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"name": "Harvest Moon DS: Grand Bazaar",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2011",
+	"serial_number": "CB9P",
+	"synopsis": "Zephyr Town's bazaar was once the grandest in the world, drawing customers and peddlers from all four corners of the Earth. These days, though, the bazaar has more tumbleweeds than customers. It's up to the player to turn its fortunes around!"
+}

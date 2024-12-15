@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Crazy Golf",
+	"publishers": ["dtp entertainment"],
+	"release_date": "May 3, 2010",
+	"serial_number": "KZGE",
+	"synopsis": "Welcome to \"Crazy Golf\"! Experience the world's wackiest miniature golf courses! Seven different courses with six different holes will put your skills to the test. Guide your ball to the hole, navigating tricky corners and avoiding wacky obstacles on your way. The accurate controls give you complete control over the ball! Play alone or challenge your friends in multiplayer mode and show them who's the true champ!"
+}

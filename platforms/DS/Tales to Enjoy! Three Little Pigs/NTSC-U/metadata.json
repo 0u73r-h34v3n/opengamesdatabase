@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"name": "Tales to Enjoy! Three Little Pigs",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 19, 2013",
+	"serial_number": "KZ7E",
+	"synopsis": "The game is a series of interactive activities based around the theme of the story about three little pigs who try to build their own houses and have problems with the local wolf. Which of the pigs you may ask gets the better of the wolf and gets to live happily ever after ......... Play the game and find out!! - An easy to use interface allows the youngest of children to navigate through choices as the entire interface is voice-over guided. - In one of the modes \"Tell your own tale,\" children can animate all objects in the story world and either tell the story or invent one of their own. - Increasing difficulty of the minigames - Interactive classic story - Voice-over guided interface and storytelling for the youngest children - Studio recorded voice over’s with professional actors"
+}

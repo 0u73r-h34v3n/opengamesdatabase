@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Ferryman Puzzle",
+	"publishers": ["Engine Software"],
+	"release_date": "January 28, 2011",
+	"serial_number": "KFEP",
+	"synopsis": "Jiang is one of the best ferrymen in the world and transports everything over the river. Master Fu has offered him a large sum of money to transport all his wares to the other side of the river. A big puzzle, since there are foxes and sheep amongst his goods, and foxes love to eat sheep. Can you help Jiang to get everything across safely?"
+}

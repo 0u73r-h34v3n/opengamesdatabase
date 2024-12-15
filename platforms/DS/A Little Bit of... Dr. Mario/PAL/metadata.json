@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arika", "Nintendo"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "A Little Bit of... Dr. Mario",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 1, 2009",
+	"serial_number": "KD9V",
+	"synopsis": "Dr. Mario is back, to cure your puzzle fever! A Little Bit of... Dr. Mario brings you this classic game in an easy-to-digest portable form for your Nintendo DSi! Enjoy the original inspiration for Germ Buster (as seen in More Brain Training from Dr Kawashima). Simply defeat all the viruses in the bottle by lining up coloured capsules that match the colour of the viruses. Watch out, because if the bottle fills to the brim with capsules, it’s Game Over! Choose Classic Mode to play solo, or battle against the computer in Vs CPU Mode in a race to clear all the viruses first. You can also set the number of viruses and game speed, to tune the difficulty level to your liking. Please note that elements of this software may have been featured in previously released software."
+}

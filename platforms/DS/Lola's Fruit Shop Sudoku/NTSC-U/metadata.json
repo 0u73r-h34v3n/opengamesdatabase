@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational", "Puzzle"],
+	"name": "Lola's Fruit Shop Sudoku",
+	"publishers": ["BeiZ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 21, 2012",
+	"serial_number": "KOFE",
+	"synopsis": "Lola Panda does it again - making the development of logical thinking skills into a fun activity! Now kids can enjoy the fun challenge of Sudoku in a form especially designed for them. Lola’s Fruit Shop Sudoku is suitable for kids up to the age of eight or nine!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artificial Mind and Movement"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["NL"],
+	"name": "The Golden Compass: The Official Videogame",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 30, 2007",
+	"serial_number": "A5AX",
+	"synopsis": "Play as the rebellious Lyra, her demon-companion Pan, and the mighty armoured Ice Bear Ioren as you embark on an epic adventure."
+}

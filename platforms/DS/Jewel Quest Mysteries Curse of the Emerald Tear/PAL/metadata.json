@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc.", "iWin"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Quest Mysteries: Curse of the Emerald Tear",
+	"publishers": ["GSP"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 28, 2010",
+	"serial_number": "BJYP",
+	"synopsis": "Welcome to another sequel in the popular Jewel Quest puzzle game series. In Jewel Quest Mysteries, Rupert and Emma are plunged into the land of ancient intrigue, Egypt. Seek out treasures and jewels, hidden within stunning gardens and relic-laden palaces. Swap jewels to turn tiles gold in classic Jewel Quest boards, and decipher puzzles of logic and wit. Immerse yourself in this hidden object game shrouded in the lore of Jewel Quest and the mystique of ancient Egypt. It's challenging, fun, and addictive."
+}

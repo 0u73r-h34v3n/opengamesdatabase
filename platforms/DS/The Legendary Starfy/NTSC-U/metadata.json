@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOSE"],
+	"genres": ["2d Platformer", "Action", "Platformer"],
+	"name": "The Legendary Starfy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 7, 2009",
+	"serial_number": "YSSE",
+	"synopsis": "Starfy... A Living Legend Bold hero of countless adventures. Prince of Pufftop Kingdom. Master of spectacular special moves. It's no wonder why people call him the legendary Starfy!"
+}

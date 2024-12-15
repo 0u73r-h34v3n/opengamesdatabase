@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Party", "Sports"],
+	"locales": ["ES"],
+	"name": "Mario & Sonic at the Olympic Games",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 8, 2008",
+	"serial_number": "AY9P",
+	"synopsis": "Some of the most athletic video game characters of all time step out of their traditional worlds and stages and step onto the world’s biggest stage: the Olympic Games!"
+}

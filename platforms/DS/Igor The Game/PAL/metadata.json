@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artefacts Studio"],
+	"genres": ["Action", "Fighting"],
+	"name": "Igor: The Game",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 5, 2008",
+	"serial_number": "CI5P",
+	"synopsis": "Welcome to Malaria, where every year the 13 great Evil Scientists compete to see who will win the annual invention fair! Igor has the chance to be the first Evil Sidekick to win it but his great monster invention, Eva, has been kidnapped! Can you save her in time? If you do, you may become the most Evil Scientist in the land!"
+}

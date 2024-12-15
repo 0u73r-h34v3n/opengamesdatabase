@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"name": "Madagascar 2: Escape 2 Africa",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 28, 2008",
+	"serial_number": "CMGP",
+	"synopsis": "Join Alex the lion, Marty the Zebra, Melman the Giraffe, Gloria the Hippo and their entire madcap Madagascar™ crew on a whole new action-packed journey to save the African savannah in the Madagascar: Escape 2 Africa video game."
+}

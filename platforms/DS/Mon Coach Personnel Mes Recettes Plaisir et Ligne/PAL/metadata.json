@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"locales": ["FR"],
+	"name": "Mon Coach Personnel: Mes Recettes Plaisir et Ligne",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 6, 2009",
+	"serial_number": "VCKF",
+	"synopsis": "Avec plus de 240 recettes créées par une école culinaire et en collaboration avec une nutritionniste de renom, Mon Coach Personnel: Mes Recettes Plaisir et Ligne vous propose des trucs et astuces pour créer des repas sains et délicieux qui raviront vos amis et votre famille."
+}

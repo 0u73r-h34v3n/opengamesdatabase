@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Boom Boom Squaries",
+	"publishers": ["Gamelion"],
+	"release_date": "January 28, 2011",
+	"serial_number": "KBMV",
+	"synopsis": "Furries are cute beings that enjoy rolling around in the sun all day long. But stone-cold Squaries, hating everything that is round and fluffy, attack! Now it is up to you to create chain reactions that will pop the invaders. Prove your skill in 4 different game modes: CLASSIC, CHALLENGE, TIME TRIAL and ENDLESS. Use Squaries' special abilities like gravity, air blast and split to plan your blasts for maximum efficiency!"
+}

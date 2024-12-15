@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Snowboard Xtreme",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "January 3, 2013",
+	"serial_number": "KX5E",
+	"synopsis": "Plough through the snow in extremely dangerous settings! Snowboard Xtreme offers a race against the clock through a stage filled with dangers in which you will need a lot of skill, because time is not on your side. To do so, try to take full advantage of the terrain. You also earn extra time by passing through the flags correctly. Beat your friends and family on the Ranking and reach Number 1. Arcade game. Learn to use the snowboard. Ranking to compete against friends."
+}

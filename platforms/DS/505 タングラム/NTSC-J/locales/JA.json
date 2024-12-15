@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "505 タングラム",
+	"synopsis": "7つの「タン」を使い505種類のタングラムを解いていくパズルゲームです。 タッチペンを使いタンをシルエットに合うように回転させはめていきます。シルエットの形は「人物」「動物」「オブジェ」「形」「文字」のカテゴリーに分けられており、さまざまな形のタングラムが詰まっています。"
+}

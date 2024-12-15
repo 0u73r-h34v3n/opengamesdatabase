@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["RedLynx"],
+	"genres": ["Strategy"],
+	"locales": ["ES", "FR"],
+	"name": "Warhammer 40,000: Squad Command",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "December 17, 2007",
+	"serial_number": "AW4E",
+	"synopsis": "Line up on a futuristic battlefield and get ready for a war of wits in which only the best strategists will survive. Warhammer 40,000: Squad Command on Nintendo DS puts you in charge of an elite group of marines as you clash with ruthless enemies in turn-based warfare. Take control of a powerful army via the Touch Screen and engage in turn-based combat across 13 huge maps. Your job is to guide your Space Marines safely through 13 massive missions, losing yourself in a cinematic storyline as you battle against the evil Chaos Space Marines. The top screen of your DS will display a map of the battlefield and details of where your troops and enemies are positioned, while the Touch Screen will show the main action and give you the power to control your marines with simple taps of the stylus. All of the 3D battlefields you step onto are fully destructible, which means the landscape will constantly change and ensure no two games are the same. Ripping through your surroundings and wiping out your enemies is made all the more satisfying by the inclusion of more than 20 popular weapons from the Warhammer 40,000 universe, including the Bolter, Plasma Gun and Power Fist. On top of the single player action, Warhammer 40,000: Squad Command contains a comprehensive multiplayer mode that lets you battle it out with others locally or online. Compete with up to seven other players as you fight as either the Forces of Chaos or Imperium army across nine unique multiplayer maps."
+}

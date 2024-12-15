@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward"],
+	"genres": ["Simulation"],
+	"name": "iCarly: Groovy Foodie!",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 7, 2012",
+	"serial_number": "TCLP",
+	"synopsis": "In iCarly: Groovy Foodie!, Carly and Sam get in trouble and must complete community service by making their imaginative food creations. Fans of the series can play as both Carly and Sam, and interact with the cast, as they share special skills that tie into each character's attributes from the show."
+}

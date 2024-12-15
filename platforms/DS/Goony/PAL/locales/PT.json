@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Goony",
+	"synopsis": "Goony is a one-button arcade game for casual and core gamers. You control Goony, a jelly-like creature, who is running down a road with hazardous obstacles. The goal of the game is to stay alive for as long as possible. If you fall off the road or fall from a high place, you lose the game. Goony is constantly on the move. He goes either left or right. You can switch the direction by simply pressing the Control Pad. You can switch the direction by simply pressing the DSi button. Special blocks, which can help you, are scattered across the playfield. The playfield is infinitely long and lasts until you make a mistake. The number of steps you took is your final score. Features: - Randomly generated, infinitely long playfield - Draw your own blocks using the built-in Block editor - Exchange user generated blocks locally or online via QR Code - Race against a buddy on the same system in multiplayer mode"
+}

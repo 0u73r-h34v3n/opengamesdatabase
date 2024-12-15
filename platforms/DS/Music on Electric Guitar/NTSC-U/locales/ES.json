@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Music on: Electric Guitar",
+	"synopsis": "¡Una guitarra eléctrica en tu bolsillo! Transforma tu Nintendo DSi en la más increíble guitarra eléctrica y tu lápiz táctil en una púa. Alucina con lo fácil que es tocar tus canciones favoritas, aunque la música parezca no ser lo tuyo. Características: * Pedales de efecto: Distorsión, Flanger y Delay - Ordenación libre y resultado sonoro real - Activación individual - 3 parámetros de ajuste - Representación sonora a tiempo real * Pantalla de Interpretación Avanzada - Indicada para melodías, arpegios o variaciones de acordes - Función “Solo”, limita el sonido a la última cuerda rasgada - Función de transposición de 1 octava - 7 transposiciones de nota en cada cuerda - Vibrato * 32 acordes seleccionables en el Panel de Control Y además: * +950 acordes * Representación gráfica y sonora del acorde * Detección de la intensidad del rasgueo * Bloqueo de acordes * Palm Mute * Efectos sonoros realistas * Grabación de 10 sesiones (acordes y pedales)"
+}

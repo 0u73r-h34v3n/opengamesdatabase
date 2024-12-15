@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Treasure Hunter X",
+	"publishers": ["Agetec"],
+	"release_date": "August 29, 2013",
+	"serial_number": "K4EP",
+	"synopsis": "Many untouched caverns still exist in the world, waiting for the one brave enough to explore them. Within them lie vast troves of treasure and rare artifacts. Become Tyrol the treasure hunter, collect treasures and escape from the caverns. Be warned though, there are creatures lurking in the depths of the caverns and the element of nature is against you. Use your pickaxe wisely so you do not get yourself trapped and lost forever within the darkness of the caverns. Can Tyrol collect enough treasure in order to win the heart of the woman he loves? Features: - Explore various caverns. - Use items to assist your exploration. - Encounter a variety of monsters and creatures. - Collect rare and priceless artefacts."
+}

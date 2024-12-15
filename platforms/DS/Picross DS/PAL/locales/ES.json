@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Picross DS",
+	"synopsis": "Empezaremos por explicarte que la palabra \"Picross\" es una combinación de \"picture\" ('dibujo' en inglés) y \"crossword\" ('crucigrama' en inglés). Los puzles de Picross son cuadrículas con casillas que tienes que rellenar con cuadrados y cruces."
+}

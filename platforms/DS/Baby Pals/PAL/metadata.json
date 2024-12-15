@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Brain Toys"],
+	"genres": ["Life Simulation", "Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Baby Pals",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 7, 2008",
+	"serial_number": "YBRP",
+	"synopsis": "Enjoy hours of care and pampering for your baby with Baby Pals. The game in which you can do all the fun things that parents do to take care of their child."
+}

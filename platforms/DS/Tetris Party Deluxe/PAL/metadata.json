@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft", "Tetris Online"],
+	"genres": ["Party", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Tetris Party Deluxe",
+	"publishers": ["Nintendo", "Tetris Online"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 3, 2010",
+	"serial_number": "B4TP",
+	"synopsis": "See Nintendo of Europe's official UK site for Tetris Party Deluxe on Wii and Nintendo DS. Enjoy the world-famous Tetris game and over 20 other great Tetris game modes. Play with friends at home or online via Nintendo Wi-Fi Connection."
+}

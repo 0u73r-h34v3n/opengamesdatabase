@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Jupiter Corporation"],
+	"genres": ["Action", "Role-Playing"],
+	"locales": ["DE", "ES", "FR"],
+	"name": "Spectrobes",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 16, 2007",
+	"serial_number": "ASUP",
+	"synopsis": "A vicious horde of alien creatures known as Krawl are threatening the galaxy and there's only one chance to stop them - resurrect the Krawl's natural enemy, powerful creatures known as Spectrobes. As Junior Planetary Patrol officer Rallen, it falls to you to track down Spectrobe fossils, extract them from the rock without damaging them and bring the Spectrode back to life. Once a Spectrode has been extracted you must carefully feed and train it so that it evolves into a fully fledged fighter fit enough to take on the Krawl. The future of the galaxy is in your hands! Each Spectrobes game contains four exclusive code input cards. Through an innovative use of the DS touch screen, players can use the cards to unlock special creatures and items, and trade and collect new cards with friends.•Engage in real-time battles with Rallen and his team of Spectrobes against the evil Krawl•Unleash each Spectrobe's special attack or combine attacks of many Spectrobes for a stunning combo assault•Excavate Spectrobes from rocks using the stylus and blow into the DS microphone to clear away dust•Spectrobes awaken at the sound of your voice. Train them and watch their powers grow•Swap your Spectrobes and items with friends and battle in wireless tournaments"
+}

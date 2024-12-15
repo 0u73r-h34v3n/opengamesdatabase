@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Ｔｏｕｃｈ！　ボンバーマンランド",
+	"publishers": ["Hudson Soft"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "July 20, 2006",
+	"serial_number": "ABXJ",
+	"synopsis": "Bomberman Land Touch! combines the classic multiplayer battling that Bomberman is famous for, plus a brand new touch-controlled adventure element made especially for Nintendo DS."
+}

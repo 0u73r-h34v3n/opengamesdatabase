@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Petz Hamster Superstar",
+	"publishers": ["Ubisoft"],
+	"release_date": "September 17, 2010",
+	"serial_number": "KP3V",
+	"synopsis": "Adopt your very own family of hamsters! Care for them, teach them fun tricks, and unlock toys and accessories to give them lots of love! • Care for your hamsters by feeding them, playing with them and keeping them clean. • Discover your hamsters’ unique personalities—watch them react with their cute and funny facial expressions! • Teach your hamsters fun activities such as bowling or running on ramps, and watch them progress. • Earn coins you can spend at the store to unlock new toys and accessories. Please note that elements of this software may have been featured in previously released software."
+}

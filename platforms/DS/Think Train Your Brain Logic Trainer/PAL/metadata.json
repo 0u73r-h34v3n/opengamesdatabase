@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts Software GmbH"],
+	"genres": ["Educational", "Puzzle"],
+	"name": "Think: Train Your Brain: Logic Trainer",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2008",
+	"serial_number": "YTLP",
+	"synopsis": "Think outside the box and improve your mental fitness! This original brain training programme helps players develop a wide range of thinking skills in imaginative and creative ways."
+}

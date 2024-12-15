@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["White Birds Productions"],
+	"genres": ["Adventure"],
+	"locales": ["DE"],
+	"name": "Benoit Sokal - Last King of Africa",
+	"publishers": ["Focus Home Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 28, 2008",
+	"serial_number": "CKAP"
+}

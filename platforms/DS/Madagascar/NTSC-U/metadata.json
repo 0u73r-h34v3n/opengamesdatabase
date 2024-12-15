@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Action", "Platformer"],
+	"name": "Madagascar",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 23, 2005",
+	"serial_number": "AMGE",
+	"synopsis": "Recover your animal instinct! Fight for your survival, embody the characters of the film and overcome all kinds of obstacles while facing dangerous enemies."
+}

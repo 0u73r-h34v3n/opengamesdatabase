@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "プチコンmkII",
+	"synopsis": "ニンテンドーDSi用BASIC『プチコン』がさらにパワーアップしました。 前作のお手軽さはそのままに、MMLによる作曲命令やTALK命令による音声合成もサポート。作ったプログラムはSDカードへの保存とQRコード読み込みで友だちに渡すこともできます。"
+}

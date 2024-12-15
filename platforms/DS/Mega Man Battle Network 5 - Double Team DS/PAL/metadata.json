@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Role-Playing"],
+	"name": "Mega Man Battle Network 5 - Double Team DS",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 14, 2006",
+	"serial_number": "A5TP",
+	"synopsis": "Join Mega Man (TM) and friends as they journey into the heart of the Internet to battle the malevolent Nebula organization."
+}

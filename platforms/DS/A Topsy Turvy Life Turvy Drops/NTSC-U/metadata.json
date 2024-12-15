@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "A Topsy Turvy Life:  Turvy Drops",
+	"publishers": ["TECMO KOEI GAMES"],
+	"release_date": "May 17, 2010",
+	"serial_number": "K3ME",
+	"synopsis": "Turn the Nintendo DSi™ system upside down! Draw blocks on the Touch Screen to fill the spaces below in this topsy turvy take on puzzle games. Play \"Endless Mode\" to see just how many points you can get as the blocks on the bottom screen fill faster and faster. The more blocks you clear at once, the higher your score! Play \"Puzzle Mode\" to test your brain against 30 mind-bending puzzles! Clear all the blocks within the time and turn limits. Can you figure the puzzles out before the time is up? Turn the turvys topsy with A Topsy Turvy Life: Turvy Drops!"
+}

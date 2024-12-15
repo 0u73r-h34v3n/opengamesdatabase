@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["PQube"],
+	"genres": ["Adventure", "Hidden Object", "Puzzle"],
+	"name": "Hidden Photo",
+	"publishers": ["Zen United"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 8, 2011",
+	"serial_number": "DD3P",
+	"synopsis": "The first and ONLY game to make such innovative and full use of the Nintendo DSi Camera feature! In Hidden Photo it’s not just pictures of your own face that goes into the game, but your whole world – landscapes, buildings, objects, friends, pets… Anything you can photograph!"
+}

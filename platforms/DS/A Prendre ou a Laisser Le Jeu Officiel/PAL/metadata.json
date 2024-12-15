@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artefacts Studio"],
+	"genres": ["Trivia"],
+	"name": "A Prendre ou a Laisser: Le Jeu Officiel",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 21, 2007",
+	"serial_number": "YLAF",
+	"synopsis": "Jouez au jeu qui rend la nation accro ! De beaux modèles, un mystérieux banquier et bien sûr, Howie ! Les règles sont simples. Choisissez une mallette puis jouez à un jeu de nerfs avec le tristement célèbre banquier."
+}

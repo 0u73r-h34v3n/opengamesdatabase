@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Bright Light"],
+	"genres": ["Action", "Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "Zubo",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 3, 2008",
+	"serial_number": "YWZP",
+	"synopsis": "Launched in the 3D world of Zubalon, players are introduced to the game's colorful and humorous stars, the Zubos. While traveling through the game, players can be friends with any Zubo they meet along the way, feeding and nurturing them, helping them gain skills and strength, and assisting them in pursuing evil zombos in strategic battles with innovative rhythm mechanics. of action."
+}

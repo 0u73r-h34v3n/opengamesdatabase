@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Educational"],
+	"name": "東北大学未来科学技術共同研究センター川島隆太教授監修　もっと脳を鍛える大人のＤＳトレーニング",
+	"publishers": ["Nintendo"],
+	"release_date": "December 29, 2005",
+	"serial_number": "ANMJ",
+	"synopsis": "Making use of the DS Touch Screen, both Brain Training titles call on you to get your grey matter in gear by completing fun challenges that test your mental awareness and memory."
+}

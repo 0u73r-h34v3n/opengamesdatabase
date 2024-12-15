@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Suzak"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DE", "ES"],
+	"name": "Wario: Master of Disguise",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 8, 2007",
+	"serial_number": "AWAP",
+	"synopsis": "When Wario gets his mitts on a magic wand that can change his identity, will the thieving fiend become a master of disguise or a master of disaster?"
+}

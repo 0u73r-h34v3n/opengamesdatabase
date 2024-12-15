@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Dragon Quest Wars",
+	"publishers": ["Inc.", "Square Enix"],
+	"release_date": "September 28, 2009",
+	"serial_number": "KDQE",
+	"synopsis": "DRAGON QUEST WARS is a Nintendo DSiWare grid-based strategy game featuring all of your favorite, quirky DRAGON QUEST monsters. Choose from several modes and get ready for battle in pure DRAGON QUEST fashion! While the rules are simple, strategy is the key to victory. Features single-player and DS Wireless Play, as well as battles with foes worldwide via Nintendo Wi-Fi Connection."
+}

@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Blockado - Puzzle Island",
+	"publishers": ["Bitfield"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 18, 2011",
+	"serial_number": "KZ4E",
+	"synopsis": "This is a thrilling puzzle game for casual and advanced players alike. Help Valerie escape a mysterious island by solving puzzles to uncover hidden clues about the island’s past. Simply move the treasure chest to the exit field. But beware – other stones will block the way. Magnetic, spring and twin stones will challenge you as you progress."
+}

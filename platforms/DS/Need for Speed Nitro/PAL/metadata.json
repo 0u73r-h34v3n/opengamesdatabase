@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Montreal"],
+	"genres": ["Action", "Racing"],
+	"locales": ["ES"],
+	"name": "Need for Speed: Nitro",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 4, 2009",
+	"serial_number": "BNNP",
+	"synopsis": "Customise your car, take corners at 200 mph, and own your opponents. Need for Speed NITRO delivers the fun and exhilaration of high-speed racing with deep and challenging gameplay, where racing skills are not the only way to victory."
+}

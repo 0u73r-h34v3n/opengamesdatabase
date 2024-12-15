@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD", "indieszero"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"locales": ["IT"],
+	"name": "La guida in cucina: Che si mangia oggi?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 20, 2008",
+	"serial_number": "CNVI",
+	"synopsis": "Porta una ventata d'aria fresca nella tua cucina con La guida in cucina: che si mangia oggi? per Nintendo DS! Con centinaia di ricette da tutto il mondo, istruzioni dettagliate su come preparare ogni piatto e molto altro ancora sempre a portata di mano, La guida in cucina è molto più che un semplice libro di ricette. È il tuo personale assistente cuoco a tutto tondo!"
+}

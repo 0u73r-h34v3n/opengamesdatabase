@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["5th Cell"],
+	"genres": ["Action", "Drawing", "Platformer"],
+	"locales": ["ES"],
+	"name": "Drawn to Life",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 21, 2007",
+	"serial_number": "YDWP",
+	"synopsis": "Create a masterpiece then watch as it becomes part of the game in the DS adventure Drawn to Life. Making the most of the DS Stylus, the game invites you - the “creator” – to draw everything from your own unique character to the weapons and tools they will use on their quest to save a village locked in eternal winter."
+}

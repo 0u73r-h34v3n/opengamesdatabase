@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Spot The Difference",
+	"synopsis": "Die Fotos erscheinen auf beiden Bildschirmen. Du musst in einem bestimmten Zeitraum alle Unterschiede im Hauptfoto finden. Wenn du sämtliche Unterschiede innerhalb der vorgegebenen Zeit findest, dann erhältst du je nach deiner Leistung Bronze-, Silber- oder Gold-Pokale. Das Spiel bietet 160 Fotos namhafter Fotografen, mit mehr als 1000 Unterschiedskombinationen, die du in den Bildern finden kannst. Deutscher Bildschirmtext."
+}

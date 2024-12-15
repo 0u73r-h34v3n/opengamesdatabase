@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Slitherine"],
+	"genres": ["Strategy", "Turn-Based Strategy", "Wargame"],
+	"locales": ["ES"],
+	"name": "Military History: Commander - Europe at War",
+	"publishers": ["Slitherine"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 20, 2009",
+	"serial_number": "C5CP",
+	"synopsis": "In a time when men died for conquest or freedom. Only a few men would make the difference between defeat and victory."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "ELECTROPLANKTON Marine-Crystals",
+	"publishers": ["Nintendo"],
+	"release_date": "February 26, 2010",
+	"serial_number": "KEHV",
+	"synopsis": "Dive into a unique audio-visual experience where technology meets art. Created by multimedia musician Toshio Iwai, Electroplankton are living aquatic 'instruments' that you interact with to produce a variety of sounds and images limited only by your imagination! Resembling snowflakes, Marine-Crystal plankton float on water in clusters of 35. When touched, they spin and produce vibrant sounds, and grow in size if they are tapped repeatedly. They are born in one of four geometric shapes: triangle, square, pentagon and hexagon; and their tone changes depending on their shape. Use Performance mode to create your own unique compositions, or relax with Audience mode and let the Electroplankton run wild. Please note that elements of this software may have been featured in previously-released software."
+}

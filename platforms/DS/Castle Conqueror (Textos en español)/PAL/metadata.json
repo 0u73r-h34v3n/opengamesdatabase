@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Strategy"],
+	"locales": ["ES"],
+	"name": "Castle Conqueror (Textos en español)",
+	"publishers": ["CIRCLE Ent."],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 18, 2011",
+	"serial_number": "KCNS",
+	"synopsis": "Castle Conqueror es un juego de estrategia en tiempo real para jugadores ocasionales. Encarna al oficial del ejército encargado de expulsar a las huestes invasoras y salvar las vidas de los súbditos. Lidera a tus soldados hacia la batalla, asedia los castillos enemigos y suma victorias hasta recuperar el control del reino. El juego consta de cinco capítulos, cada uno con 10 fases. Los oficiales disponibles, Max e Irisa, tienen cartas con diferentes efectos. Las cartas de oro que recibes al final de las fases te servirán para mejorar tus habilidades o adquirir objetos. Textos de pantalla en español."
+}

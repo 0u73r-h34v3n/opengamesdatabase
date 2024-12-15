@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Cards", "Strategy", "Turn-Based Strategy"],
+	"locales": ["ES"],
+	"name": "Yu-Gi-Oh!: World Championship 2008",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 28, 2008",
+	"serial_number": "YG8P",
+	"synopsis": "The tournament dueling is back with the official software of the 2008 Yu-Gi-Oh! World Tournament."
+}

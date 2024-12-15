@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Brain Drain",
+	"synopsis": "Brain Drain é um jogo de puzzles divertido e viciante. Tens de colocar os elementos de um puzzle desordenado de acordo com um determinado modelo. Existem três modos de jogo: Challenge tem 200 puzzles fixos com tempos recorde predefinidos a resolver e a bater, Race tem quatro níveis de dificuldade, uma quantidade de puzzles e de tempos recorde a bater, Random tem resolução de puzzles aleatória e relaxada, com opções infinitas...Nota que elementos deste software poderão ter aparecido em software lançado anteriormente."
+}

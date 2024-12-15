@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tectoy Digital"],
+	"genres": ["Football", "Sports"],
+	"name": "Sam Power: Footballer",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 13, 2009",
+	"serial_number": "CJIP",
+	"synopsis": "Play Sam, a young boy dreaming of being a soccer star and walk on a real professional soccer player's steps! He will start his career in a small club. Thanks to training sessions and the building of strong relationships with his teammates and coach, he will impress the supporters and scouts from bigger clubs. Get ready to set new records and climb each step up to the World Cup!Develop your football skills as you evolve on your career from sitting on the bench to winning the World Cup! Enjoy playing soccer through 8 mini-games, each one adapted from real training exercises with the methodology used in traditional schools to teach football to children."
+}

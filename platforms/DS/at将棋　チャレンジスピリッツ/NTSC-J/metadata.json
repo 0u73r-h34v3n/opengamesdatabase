@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "at将棋　チャレンジスピリッツ",
+	"publishers": ["タスケ"],
+	"release_date": "October 7, 2009",
+	"serial_number": "K4GJ",
+	"synopsis": "Lit. :at Shogi Challenge Spirits\""
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tom Create"],
+	"genres": ["Action", "Puzzle"],
+	"name": "GO Series - Earth Saver",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 7, 2011",
+	"serial_number": "KB8E",
+	"synopsis": "GO Series presents EARTH SAVER from Tom Create. EARTH IS DOOMED! A meteorite is headed straight for Earth! Land your spaceship on the meteorite and set explosives to break off pieces so they break up in the Earth's atmosphere. Chunks of meteorite that are too big will smash into Earth wiping out mankind! Plant bombs, create chain reactions, wipe out any alien life forms in the way and save the Earth!"
+}

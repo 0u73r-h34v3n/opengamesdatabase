@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sega"],
+	"genres": ["Party", "Sports"],
+	"name": "マリオ＆ソニック AT 北京オリンピック",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "January 17, 2008",
+	"serial_number": "AY9J",
+	"synopsis": "Some of the most athletic video game characters of all time step out of their traditional worlds and stages and step onto the world’s biggest stage: the Olympic Games!"
+}

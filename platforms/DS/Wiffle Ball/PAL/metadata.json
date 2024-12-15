@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Skyworks Technologies"],
+	"genres": ["Arcade", "Baseball", "Sports"],
+	"name": "Wiffle Ball",
+	"publishers": ["DSI Games", "ZOO Digital Publishing"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 25, 2007",
+	"serial_number": "AWBP",
+	"synopsis": "For more than 50 years, the name WIFFLE has come to mean good, safe, baseball fun! Now, America's favorite backyard and city-street past time comes to your handheld video game system! It's WIFFLE ball like you've never seen it before! Power up your Nintendo DS system and get ready for the crazy curves, the mighty swings, and the frenzied fun... that is WIFFLE ball!"
+}

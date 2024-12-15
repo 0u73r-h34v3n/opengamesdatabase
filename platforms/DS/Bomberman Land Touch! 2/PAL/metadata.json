@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Bomberman Land Touch! 2",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 14, 2008",
+	"serial_number": "YB2P",
+	"synopsis": "Darkness has fallen on Bomberman Land... only you can help Bomberman regain peace. After his success in Bomberman Land Touch, Bomberman returns with more adventures and mini-games, combining new features with all the fun that has made this saga one of the most popular among players around the world. Join Bomberman in another action-packed adventure!"
+}

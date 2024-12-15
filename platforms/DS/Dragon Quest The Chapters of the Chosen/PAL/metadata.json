@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Square Enix"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES"],
+	"name": "Dragon Quest: The Chapters of the Chosen",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 11, 2008",
+	"serial_number": "YIVP",
+	"synopsis": "Dragon Quest: The Chapters of the Chosen is a feature-packed remake of one of the best-selling adventure games ever made. Now, for the first time in Europe, you can experience this timeless classic only on Nintendo DS."
+}

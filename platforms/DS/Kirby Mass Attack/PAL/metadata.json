@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES"],
+	"name": "Kirby Mass Attack",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 28, 2011",
+	"serial_number": "TADP",
+	"synopsis": "When Kirby is split into multiple versions of himself, a whole new kind of fun can begin! Control multiple versions of Kirby on the Nintendo DS Touch Screen and discover new ways to save the day with the iconic hero."
+}

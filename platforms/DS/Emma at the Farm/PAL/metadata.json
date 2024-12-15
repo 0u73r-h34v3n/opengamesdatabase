@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Otaboo"],
+	"genres": ["Adventure", "Arcade", "Simulation"],
+	"locales": ["ES"],
+	"name": "Emma at the Farm",
+	"publishers": ["Nobilis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 20, 2007",
+	"serial_number": "YM9P",
+	"synopsis": "Join Emma, and her dog Pickles, as she spends the day at Uncle Jules' farm. However, everything quickly turns into an uproar as the chicks have gone missing, the piglets have run away, the eggs must be collected, the cows must be milked, along with all of the other chores. Only you can help Emma put things right again!"
+}

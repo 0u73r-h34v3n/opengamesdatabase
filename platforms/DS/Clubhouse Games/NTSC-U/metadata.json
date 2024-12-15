@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Agenda"],
+	"genres": ["Compilation", "Health", "Party", "Simulation"],
+	"name": "Clubhouse Games",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 9, 2006",
+	"serial_number": "ATDE",
+	"synopsis": "It's game night and everyone's invited! With over forty games to choose from, Clubhouse Games is a portable games chest for everyone!"
+}

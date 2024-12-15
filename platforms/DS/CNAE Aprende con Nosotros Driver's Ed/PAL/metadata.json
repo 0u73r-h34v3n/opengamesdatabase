@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Trine Games"],
+	"genres": ["Educational"],
+	"locales": ["ES"],
+	"name": "CNAE Aprende con Nosotros: Driver's Ed",
+	"publishers": ["JoWooD Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 8, 2009",
+	"serial_number": "CCES",
+	"synopsis": "Driver's Ed te enseña las normas de la carretera y te ayudará a aprobar el examen del permiso de conducir."
+}

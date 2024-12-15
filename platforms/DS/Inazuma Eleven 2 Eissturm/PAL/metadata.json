@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"locales": ["DE"],
+	"name": "Inazuma Eleven 2: Eissturm",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 18, 2012",
+	"serial_number": "BEBD",
+	"synopsis": "Wähle bei Inazuma Eleven 2 aus über 1.500 Spielern, und stelle die ultimative Fußball-Mannschaft zusammen, die es mit Außerirdischen aufnehmen kann!"
+}

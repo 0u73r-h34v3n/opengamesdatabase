@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ソリティア コレクション",
+	"publishers": ["インテンス"],
+	"release_date": "February 6, 2013",
+	"serial_number": "K4IJ",
+	"synopsis": "Lit. \"Solitaire Collection\" a.k.a. 24/7 Solitaire (NTSC-U, PAL)"
+}

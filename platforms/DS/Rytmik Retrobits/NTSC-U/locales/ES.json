@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Rytmik Retrobits",
+	"synopsis": "Rytmik Retrobits es una aplicación para crear temas rítmicos y melódicos, y también para componer canciones enteras. Su interfaz de usuario combina la rapidez y la práctica disposición de las cajas de ritmos clásicas con la flexibilidad de los populares temas y una moderna biblioteca de sonidos. Además, llega con una cuidadosa selección de más de 180 muestras retro auténticos de batería electrónica, percusión, bajo, instrumentos melódicos y efectos de computadoras de 8 y 16 bits y consolas clásicas. Usted puede crear rápida y fácilmente la piedra de construcción básica - un clip de audio. Se compone de notas musicales para un máximo de cuatro instrumentos que se podrán incorporar, seleccionar su ubicación en el campo estéreo, y modificar su volumen, retroceso, reproducción aleatoria y la polifónica, coro / ampliación de efecto estéreo eco, y arpegiador. Arbitrariamente, se pueden combinar hasta 128 clips de este tipo en cuatro pistas y crear piezas complejas de música."
+}

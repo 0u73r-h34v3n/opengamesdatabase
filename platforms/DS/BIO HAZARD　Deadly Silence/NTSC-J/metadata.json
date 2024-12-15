@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "BIO HAZARD　Deadly Silence",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "D"
+		}
+	],
+	"release_date": "January 19, 2006",
+	"serial_number": "ABHJ",
+	"synopsis": "Join S.T.A.R.S. members Jill Valentine and Chris Redfield in this startling remake of the original Resident Evil adventure."
+}

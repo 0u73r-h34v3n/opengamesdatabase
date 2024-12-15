@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Trailblaze: Puzzle Incinerator",
+	"publishers": ["Nintendo"],
+	"release_date": "September 10, 2010",
+	"serial_number": "K4KV",
+	"synopsis": "Blaze a path across the galaxy in this unique puzzle game. Holding the Nintendo DSi vertically, you must plot a route for your Flametail pod, using its red hot exhaust trail to burn through obstacles on your way to the next planet. Manoeuvre around a maze of blocks to burn them away as your pod passes by to clear the stage. Fortunately, there are plentiful power-ups and items such as the Bomb to blast a wide radius, or Radar which grants you a map to aid your route. In the main Space Tour mode, journey from Earth into outer space on a block-burning and brain-busting voyage. Or set yourself a challenge against the clock in Time Limit mode. Plus – if you achieve a high score, you can even take a photo of yourself with the inner camera of the Nintendo DSi system and show off your winning smile!"
+}

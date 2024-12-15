@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Maxis"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "SimAnimals Africa",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 30, 2009",
+	"serial_number": "C27P",
+	"synopsis": "Journey to the heart of Africa where you control the wild kingdom! Interact with exotic animals in the wild including lions, elephants, gorillas and more as you explore the jungles and savannas of Africa."
+}

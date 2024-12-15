@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tivola"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Lernerfolg Grundschule: Englisch",
+	"publishers": ["Tivola"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 16, 2008",
+	"serial_number": "CLEX",
+	"synopsis": "Willkommen zu einem aufregenden Lernabenteuer mit \"Lernerfolg Grundschule: Englisch\"! Mach dich bereit, in eine Welt voller Spaß und Entdeckungen einzutauchen, während du deine Englischkenntnisse auf eine einzigartige Weise verfeinerst."
+}

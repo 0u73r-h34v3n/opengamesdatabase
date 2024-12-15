@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gameloft"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "Real Football 2009",
+	"publishers": ["Gameloft", "Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 8, 2008",
+	"serial_number": "CRFP",
+	"synopsis": "Live the football season to the max with Real Football 2009 on Nintendo DS and DSiWare. It will offer you a never-before-seen football experience with revolutionary yet accessible Touch Screen controls. Take photos of anything you want and turn them into your own customised ball, team flag or make yourself into your favourite player. With 198 teams using real players’ names, realistic opponent behaviors and advanced 3D graphics, you’ll feel like a real professional football player. Take your best shot!"
+}

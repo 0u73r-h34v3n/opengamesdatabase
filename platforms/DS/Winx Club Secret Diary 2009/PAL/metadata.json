@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Team 3 Games"],
+	"genres": ["Simulation"],
+	"name": "Winx Club: Secret Diary 2009",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 26, 2009",
+	"serial_number": "YGDP",
+	"synopsis": "Step into the enchanted world of Winx Club with the Secret Diary 2009 for Nintendo DS! Join Bloom, Stella, Flora, and the rest of the fairy gang as they embark on magical adventures and unforgettable quests, and write them in your own personal diary!"
+}

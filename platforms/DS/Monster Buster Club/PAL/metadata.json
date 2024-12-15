@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Arcade"],
+	"name": "Monster Buster Club",
+	"publishers": ["Nordcurrent"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 4, 2011",
+	"serial_number": "KXBP",
+	"synopsis": "Earth is about to be invaded by evil aliens and their first stop is Singletown. As long as they're around to save the day, the Monster Buster Club refuse to let this happen! Join Cathy, Danny, Sam and Chris on an exciting adventure based on the hit animated TV series Monster Buster Club and stop these troublemakers from taking over. As you search for the villainous Nosidda, you and the MBC team will battle aliens outside the school, race your car through the streets of Singletown, solve puzzles, dive underground, engage in air battles and even visit outer space! Features - A highly interactive world straight from the popular TV series! - Exciting gameplay that challenges your speed, timing, and puzzle-solving abilities! - A wide variety of puzzles and challenges to overcome using the Nintendo DS stylus! - Play as any of 4 MBC characters: Cathy, Danny, Chris and Sam!"
+}

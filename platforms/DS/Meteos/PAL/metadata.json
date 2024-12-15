@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Q Entertainment"],
+	"genres": ["Puzzle"],
+	"name": "Meteos",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 23, 2005",
+	"serial_number": "AMTP",
+	"synopsis": "An evil planet named Meteo is sending storms of world-ending meteors across the galaxy, and only your puzzle skills can stop them!"
+}

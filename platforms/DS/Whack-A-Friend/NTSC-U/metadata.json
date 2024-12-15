@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ICM"],
+	"name": "Whack-A-Friend",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "May 9, 2011",
+	"serial_number": "KWQE",
+	"synopsis": "Players are able to use their Nintendo DSi™ systems to capture a picture of a friend or anything else they desire. The picture will be then used in targets that pop up from various holes. Players must use the stylus to tap them back into their holes. The faster this can be done - without making mistakes - the more combos are achieved. As players continue to earn combos, the picture on the top screen will begin to display graphical changes such as bruises, bugs, black eyes, bandages and scars. The simple game design and easy, intuitive controls make it a game that the whole family can enjoy."
+}

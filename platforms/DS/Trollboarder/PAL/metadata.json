@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Trollboarder",
+	"publishers": ["VERSTRAETEN"],
+	"release_date": "April 8, 2011",
+	"serial_number": "KB7P",
+	"synopsis": "Descend the slopes in the craziest snowboard game in history! What happens when the dragons’ treasures are stolen by goblins when you were in charge of watching over them? The dragons become furious and you must recover all of the treasures as fast as possible. Control the last guardian on his snowboard and take part in frantic races to recover the stolen coins. Perform your best tricks to gain the favours of the dragons and to discover the invisible chests."
+}

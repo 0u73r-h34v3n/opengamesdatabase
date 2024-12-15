@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Adventure", "Role-Playing"],
+	"name": "Elebits: The Adventures of Kai and Zero",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "June 1, 2009",
+	"serial_number": "YERE",
+	"synopsis": "Enter into an extraordinary game of hide and seek in this exciting sequel to Elebits! Kai and Zero have been swept off to a magical land and must finish the challenges ahead, to get back home."
+}

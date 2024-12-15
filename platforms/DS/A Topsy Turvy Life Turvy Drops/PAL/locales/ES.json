@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "A Topsy Turvy Life Turvy Drops",
+	"synopsis": "Turvy Drops es un juego en el que hay que coger bloques y dejarlos caer en los espacios inferiores. Al completar una fila de bloques en la pantalla inferior, estos desaparecerán. ● Endless Mode La dificultad de los niveles aumenta a medida que avanza el juego. Elimina todos los bloques de la pantalla inferior para pasar al siguiente nivel. ● Puzzle Mode Para pasar al siguiente puzle hay que eliminar todos los bloques de la pantalla inferior. Cada fase tiene un límite de tiempo, así como un número de \"STEP\". El juego finaliza si no consigues eliminar todos los bloques de la pantalla inferior antes de que termine el tiempo. Textos de pantalla en inglés."
+}

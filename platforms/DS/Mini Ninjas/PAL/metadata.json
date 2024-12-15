@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Magic Pockets"],
+	"genres": ["Action", "Adventure"],
+	"name": "Mini Ninjas",
+	"publishers": ["Eidos Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 11, 2009",
+	"serial_number": "YNJP",
+	"synopsis": "Prepare yourself for a Ninja adventure like you have never seen before! Join Hiro, the smallest hero on the biggest adventure, as he embarks on an epic and electrifying quest to restore harmony to a world on the brink of chaos."
+}

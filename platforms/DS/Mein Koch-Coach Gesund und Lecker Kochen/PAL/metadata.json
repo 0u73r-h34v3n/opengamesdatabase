@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"locales": ["DE"],
+	"name": "Mein Koch-Coach: Gesund und Lecker Kochen",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 6, 2009",
+	"serial_number": "VCKD",
+	"synopsis": "Mit mehr als 240 Rezepten, die von einer Kochschule und in Zusammenarbeit mit einem renommierten Ernährungswissenschaftler erstellt wurden, bietet Ihnen „Mein Koch-Coach: Gesund und Lecker Kochen“ Tipps und Tricks für die Zubereitung gesunder und köstlicher Mahlzeiten, die Freunde und Familie begeistern werden."
+}

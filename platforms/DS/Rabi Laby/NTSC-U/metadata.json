@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Silver Star Japan"],
+	"genres": ["Action", "Adventure", "Puzzle", "Strategy"],
+	"name": "Rabi Laby",
+	"publishers": ["AGETEC"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 14, 2011",
+	"serial_number": "KLBE",
+	"synopsis": "Alice is a confident young girl who adores her fluffy pet rabbit called Rabi. One day, Alice was looking for Rabi and finally found him just before he jumped into a small hole in a tree. Without thinking twice, Alice jumped in after him... and that's where their magical adventure begins! Alice and Rabi encounter intriguing animals and creatures that may lead them to the exit or stop them from escaping. Together they will explore and discover things unlike anything they've ever seen before! They must work as a team to find the key and escape each area of the mighty labyrinth. Both Alice and Rabi have their own unique abilities, so you must switch between them in order to complete each area and ultimately escape the labyrinth's grasp."
+}

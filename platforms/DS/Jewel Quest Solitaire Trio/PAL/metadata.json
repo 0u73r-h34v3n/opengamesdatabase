@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inc.", "iWin"],
+	"genres": ["Cards", "Compilation", "Puzzle"],
+	"name": "Jewel Quest Solitaire Trio",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 25, 2011",
+	"serial_number": "CNAX",
+	"synopsis": "Triple The Solitaire Fun! Love Solitaire? Jewel Quest: Solitaire Trio brings together Jewel Quest Solitaire I, Jewel Quest Solitaire II and Jewel Quest Solitaire III all into one package! Enjoy Tri-peaks, Nester and Klondike with Jewel Quest jewel board mini games in between!"
+}

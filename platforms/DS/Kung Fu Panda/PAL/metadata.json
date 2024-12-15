@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Kung Fu Panda",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "June 27, 2008",
+	"serial_number": "YKFS",
+	"synopsis": "¡Embárcate en una aventura épica llena de acción de la película Kung Fu Panda y más allá!"
+}

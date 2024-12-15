@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing", "Strategy"],
+	"locales": ["JA"],
+	"name": "ポケットモンスターブラック",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "September 18, 2010",
+	"serial_number": "IRBJ",
+	"synopsis": "The new Unova region is waiting - your task, to catch 'em all and become the best Pokémon Trainer you can! With over 150 new Pokémon to encounter, changing seasons and new connectivity modes, Pokémon Black Version offers a fresh challenge!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software B.V."],
+	"genres": ["Karaoke", "Music", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Just SING! National Anthems",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 28, 2010",
+	"serial_number": "KJSP",
+	"synopsis": "It is the greatest sporting event of 2010 - the World Cup! All eyes are on South Africa, all EARS are on you - in the karaoke game of the year! Enter the hallowed turf and display your talent by singing the National Anthems! There are 5 National Anthems to choose from: Germany, England, France, Italy and the Netherlands. Just sing into the Nintendo DSi microphone! So, lace up your boots and step out onto the pitch - to sing!"
+}

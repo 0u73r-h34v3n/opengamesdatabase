@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firebrand Games"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "TrackMania DS",
+	"publishers": ["Focus Home Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 30, 2008",
+	"serial_number": "CTRP",
+	"synopsis": "Get ready for the thrill of high-speed racing in the palm of your hand with Trackmania DS! Design your own challenging tracks, compete in exciting game modes, and unlock a variety of vehicles to conquer the craziest circuits. Experience the trackside adrenaline anywhere, anytime on your Nintendo DS! Speed, creativity, and fun await you in Trackmania DS!"
+}

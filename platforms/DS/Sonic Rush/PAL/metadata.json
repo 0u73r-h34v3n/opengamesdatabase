@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sonic Team"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES"],
+	"name": "Sonic Rush",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 28, 2007",
+	"serial_number": "ASCP",
+	"synopsis": "Lace up your running shoes and take Sonic for a spin in a blisteringly fast adventure that’s sure to leave you breathless! Sonic Rush Adventure puts you in control of the fastest thing on two legs as he sprints his way through seven action-packed islands collecting precious rings and battling a band of unruly pirates."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Arcade", "Compilation"],
+	"locales": ["JA"],
+	"name": "コナミアーケードコレクション",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "March 15, 2007",
+	"serial_number": "A5KJ",
+	"synopsis": "A selection of 15 of Konami's most popular arcade games!"
+}

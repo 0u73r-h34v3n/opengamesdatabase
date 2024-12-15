@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Zinkia"],
+	"genres": ["Action"],
+	"name": "Hello, Pocoyo!",
+	"publishers": ["Virgin Play"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 27, 2008",
+	"serial_number": "CYPP",
+	"synopsis": "Put your skills and imagination to the test and join Pocoyo and his friends (Colour them in the manual) in an adventure full of fun and surprises."
+}

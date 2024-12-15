@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Crazy Pinball",
+	"publishers": ["dtp entertainment"],
+	"release_date": "July 23, 2010",
+	"serial_number": "KCIV",
+	"synopsis": "Fun and action - just like at the arcade! 5 fantastic tables and plenty of themes for awesome variety! Go hunting for points with the Safari Flipper, or zoom from one goal to the next with the incredible Deep Sea Flipper! Set records that will blow your friends away! Crazy Pinball – the ultimate in portable pinball! Please note that elements of this software may have been featured in previously released software."
+}

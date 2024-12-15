@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GlobZ"],
+	"genres": ["Puzzle", "Sports", "Strategy"],
+	"name": "Globulos Party",
+	"publishers": ["GlobZ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 1, 2010",
+	"serial_number": "KGSE",
+	"synopsis": "Globulos Party is a collection of minigames that are very simple to understand and fun to master! The 20 games on offer are: 4-Square, Arena, Basket, Bomber, Bomber-King, Croquet, Darts, Darts-King, Football, Funky-Football, Ice Hockey, Monster, Pétanque, Pinball, Rally, Rugby, Snooker, Sumo, Tic-Tac-Toe, Volley. Enjoy more than 15 hours of solo fun and near limitless replay value thanks to three multiplayer game modes. You'd better practice if you want to be the best!Please note that elements of this software may have been featured in previously released software."
+}

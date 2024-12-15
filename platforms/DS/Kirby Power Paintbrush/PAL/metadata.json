@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory", "Inc."],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Kirby: Power Paintbrush",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 25, 2005",
+	"serial_number": "ATKP",
+	"synopsis": "Roll with it! Kirby’s been cursed by a wicked witch and transformed into a ball. And to make matters worse, Dreamland has been turned into a painting."
+}

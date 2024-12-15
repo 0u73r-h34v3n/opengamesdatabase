@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cerasus Media"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Master: Cradle of Rome",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CRAX",
+	"synopsis": "Build the heart of the Ancient Roman Empire and become its Emperor! This legendary city was one of the most beautiful and powerful capitals to have ever existed in the ancient world! Resurrect the masterpieces of Roman architecture."
+}

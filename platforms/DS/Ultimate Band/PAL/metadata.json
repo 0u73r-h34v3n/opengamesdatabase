@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Fall Line Studio"],
+	"genres": ["Music", "Rhythm"],
+	"name": "Ultimate Band",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 9, 2009",
+	"serial_number": "CUBP",
+	"synopsis": "Become a rock star with Ultimate Band! You could perform classics alongside current hits in this fun and intuitive game."
+}

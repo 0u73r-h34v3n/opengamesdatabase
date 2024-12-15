@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "ACTシリーズ単語帳 日中編",
+	"publishers": ["デジタル・メディア・ラボ"],
+	"release_date": "November 11, 2009",
+	"serial_number": "KCSJ"
+}

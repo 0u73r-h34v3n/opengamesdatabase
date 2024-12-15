@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Board Game", "Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Lost Treasures of Alexandria",
+	"publishers": ["MSL"],
+	"release_date": "May 22, 2014",
+	"serial_number": "K5BE",
+	"synopsis": "Few are aware, and mainstream science seems to ignore the fact, that some almost perfectly spherical metal spheres were found buried deep in various mines in Africa. The spheres have three concentric rings etched around their circumference, which appear to be neither natural nor man-made. So what are these anachronisms doing in rock strata dating back over a million years? Is it possible that the first civilizations could be millions of years old?"
+}

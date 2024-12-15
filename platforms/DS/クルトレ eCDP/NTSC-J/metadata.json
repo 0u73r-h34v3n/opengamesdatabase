@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["N6"],
+	"genres": [
+		"Business Simulation",
+		"Cooking",
+		"Management Simulation",
+		"Simulation"
+	],
+	"locales": ["JA"],
+	"name": "クルトレ eCDP",
+	"publishers": ["McDonald's"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "February 6, 2009",
+	"serial_number": "CRUJ",
+	"synopsis": "The happiness of the customers are waiting after your growth on the experience! For becoming an \"expert\", it is better to go for it while having fun. For polishing your skills, it's better to do so in an easy way. The first ever developed Crew Training Software for Nintendo DS. Growing your experience of the McDonald's Crew makes your future better!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo", "Tenyo"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "A Little Bit of... Magic Made Fun: Mind Probe",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 25, 2009",
+	"serial_number": "KMIP",
+	"synopsis": "Impress your friends with mesmerising magic using A Little Bit of... Magic Made Fun – a collection of easy-to-perform tricks that you can carry wherever you go! Mind Probe uses the Nintendo DSi system's built-in microphone in magical new ways! Ask a spectator to write down the names of six people, including someone they really like, and then ask them to read the names into the microphone. Amazingly, the software will detect who the spectator's favourite is! This trick can also reveal spectators' other likes and dislikes - for example, their favourite foods or films. You can even experiment and use the trick as a lie detector!"
+}

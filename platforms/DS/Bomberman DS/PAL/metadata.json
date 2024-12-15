@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Action"],
+	"locales": ["ES"],
+	"name": "Bomberman DS",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 30, 2005",
+	"serial_number": "ABMP",
+	"synopsis": "When it comes to explosive multiplayer action, you can’t do better than Bomberman."
+}

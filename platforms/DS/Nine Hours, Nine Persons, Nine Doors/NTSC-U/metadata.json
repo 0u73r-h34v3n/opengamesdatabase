@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Chunsoft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Nine Hours, Nine Persons, Nine Doors",
+	"publishers": ["Aksys Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "M"
+		}
+	],
+	"release_date": "November 16, 2010",
+	"serial_number": "BSKE",
+	"synopsis": "Junpei, a fairly normal college student finds himself involved in a deadly conspiracy that he couldn't have possibly imagined. He awakes aboard an old passenger ferry, dazed and confused he stumbles around the room trying to reclaim his memories. First thing he noticed was a number roughly drawn on the cabin's door. A bright red number 5. Junpei's memory then returned and he remembered what happened right before becoming unconscious! A mysterious person with a gas mask crossed his mind. He remembered the haunting words he spoke, I'm gonna make you play the game, the Nonary Game' the game of life or death\"."
+}

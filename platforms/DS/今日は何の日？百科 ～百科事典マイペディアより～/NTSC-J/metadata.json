@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "今日は何の日？百科 ～百科事典マイペディアより～",
+	"publishers": ["IEインスティテュート"],
+	"release_date": "February 24, 2010",
+	"serial_number": "K47J",
+	"synopsis": "Lit. \"What day is it today? Encyclopedia - From Mypedia Encyclopedia\""
+}

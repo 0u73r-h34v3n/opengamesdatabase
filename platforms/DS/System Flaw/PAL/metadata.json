@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact"],
+	"genres": ["Action", "Shoot 'Em Up", "Shooter"],
+	"name": "System: Flaw",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 21, 2011",
+	"serial_number": "DSYP",
+	"synopsis": "This innovative, action shooter uses the DSi camera to turn your surroundings into the playing environment, and your DSi into a weapon against attacking enemies! Truly unique and totally physical, with 100 levels of action and 360 degrees of intensity, Flaw is the future of handheld gaming excitement."
+}

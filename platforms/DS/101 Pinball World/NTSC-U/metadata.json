@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "101 Pinball World",
+	"publishers": ["Selectsoft"],
+	"release_date": "January 12, 2012",
+	"serial_number": "KIIE",
+	"synopsis": "Get ready for fast-paced pinball action with a twist! Complete special objectives to earn fun bonuses as you shoot your ball through pipes, up ramps and around mind-blowing obstacles. Choose from two game modes, Quick Play and Random, and blast through over 100 fun tables on four exciting worlds filled with eye-popping details. Be a pinball wiz in Wizard World, go on a galactic adventure in Alien Spaceship, enjoy a spooky trip through Halloween and become a buccaneer in Pirate's Bay. Rack up enough points to top the High Scores and you'll be the pinball champ! Features: • 101 amazing tables in four unique worlds • Three player profiles and High Scores list • Classic pinball gameplay enhanced with beautiful graphics • Multiple special objectives earn extra points and power-ups • Fun bonuses include table tilt, slow ball, and immunity"
+}

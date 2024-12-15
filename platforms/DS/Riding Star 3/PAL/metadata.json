@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["DTP Young Entertainment"],
+	"genres": ["Racing", "Simulation", "Virtual Pet"],
+	"name": "Riding Star 3",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 30, 2007",
+	"serial_number": "YRDP",
+	"synopsis": "Can You Become The Next Riding Star In This World Class Equestrian Simulation? Jump right in, or follow the fully detailed tutorial to learn how to ride, compete and care for your horses. Live your dream and become a riding star. Train for prestigious tournaments and take part in jumping, dressage and cross country events. Look after your horse lovingly in its stall; as only together you will win! Enjoy atmospheric rides at twilight, take part in exciting competitions under a starry sky, or experience the spectacle of the Aachen world famous stadium that has been faithfully recreated in this game."
+}

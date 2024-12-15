@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games"],
+	"genres": ["Simulation"],
+	"locales": ["DE", "ES"],
+	"name": "The Urbz: Sims in the City",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "ASIP",
+	"synopsis": "The Sims go inner-city – on Nintendo DS! With gameplay that demands the player attempts to elevate his social standing, this isn’t your average videogame."
+}

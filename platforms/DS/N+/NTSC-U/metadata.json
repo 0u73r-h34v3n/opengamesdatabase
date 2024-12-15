@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Metanet Software Inc.", "SilverBirch Studios"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"name": "N+",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 26, 2008",
+	"serial_number": "YNXE",
+	"synopsis": "In a futuristic world of inadvertently homicidal robots, a daring ninja must use deft acrobatic skill and guts of steel to survive."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Action Rpg", "Adventure", "Fantasy", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Pokémon Edición Diamante",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 27, 2007",
+	"serial_number": "ADAS",
+	"synopsis": "¡La nueva generación de Pokémon se prepara para conquistar todas las consolas Nintendo DS con Pokémon Diamante y Pokémon Perla!"
+}

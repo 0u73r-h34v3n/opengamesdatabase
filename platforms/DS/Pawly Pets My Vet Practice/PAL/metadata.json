@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Business Simulation", "Simulation", "Virtual Pet"],
+	"name": "Pawly Pets: My Vet Practice",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 2, 2007",
+	"serial_number": "AQVX",
+	"synopsis": "You love animals and they love you! Congratulations! You're the owner of your very own Pawly Pets Clinic! It's your job to nurture and love all of the animals to bring them back to health. Grow your vet clinic into a thriving business and become every animal's best friend!"
+}

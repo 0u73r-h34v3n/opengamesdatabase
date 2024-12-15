@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Platformer", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Castlevania: Order of Ecclesia",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 28, 2008",
+	"serial_number": "YR9P",
+	"synopsis": "Join Shanoa on the road to heroism in Castlevania: Order of Ecclesia – a game you can sink your teeth into!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["7 Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Shrek Tercero",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 22, 2007",
+	"serial_number": "A3SS",
+	"synopsis": "Salva Muy Muy Lejano y acompaña a Shrek y a sus amigos en una misión que va más allá de la película en este divertido y desquiciado cuento de hadas. Juega con tus personajes favoritos y con sus nuevos amigos de la película, que disponen de habilidades únicas y espectaculares movimientos. Viaja por lugares conocidos, como Muy Muy Lejano, y explora nuevos escenarios del universo de Shrek. Lucha con un gran elenco de villanos novedosos, como el enorme dragón de hielo, el musical Capitán Garfio y el taimado Príncipe Encantador."
+}

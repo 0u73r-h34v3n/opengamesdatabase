@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "First-Person Shooter", "Shooter"],
+	"name": "Call of Duty: Modern Warfare 3 - Defiance (Canada Version)",
+	"publishers": ["Activision"],
+	"release_date": "September 22, 2011",
+	"serial_number": "B5BL",
+	"synopsis": "One man pushes the free world to the brink as Modern Warfare crashes the borders of the most powerful nations on Earth. This campaign is not about flushing out terrorists in far-away locales. It's a desperate fight to survive, right on the homefront."
+}

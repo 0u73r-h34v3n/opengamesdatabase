@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vanpool"],
+	"genres": ["Coaching", "Exercise", "Fitness", "Health"],
+	"locales": ["ES"],
+	"name": "Let's Yoga!",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 16, 2007",
+	"serial_number": "AY5P",
+	"synopsis": "Let's Yoga makes it so easy to learn yoga that you'll feel like you have your very own personal instructor. You can set your DS down next to you and let the vocal instructions tell you exactly what to do, or just read the subtitles."
+}

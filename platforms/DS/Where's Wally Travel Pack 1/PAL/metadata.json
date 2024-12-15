@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Where's Wally? Travel Pack 1",
+	"publishers": ["Ludia"],
+	"release_date": "August 27, 2010",
+	"serial_number": "KOIV",
+	"synopsis": "Begin the search for Wally, his friends and more in Travel Pack 1! Based on the hit publishing series, Where's Wally? The Fantastic Journey Travel Pack 1 is the ultimate SEARCH & FIND FUN inside the magical worlds of The Gobbling Gluttons, The Battling Monks and The Carpet Flyers. Challenge friends or play solo as you search for hidden items, and be ready for surprises and sabotage to fuel the fun!"
+}

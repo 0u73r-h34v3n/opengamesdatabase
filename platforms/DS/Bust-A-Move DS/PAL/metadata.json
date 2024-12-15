@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Happy Happening"],
+	"genres": ["Puzzle"],
+	"name": "Bust-A-Move DS",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 3, 2006",
+	"serial_number": "ABTP",
+	"synopsis": "This time Bub and Bob return to center stage as they fling bubbles from the bottom screen to the top in an attempt to match 3 bubbles causing them to pop."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts Software"],
+	"genres": ["Board Game", "Strategy", "Turn-Based Strategy"],
+	"name": "Carcassonne",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2009",
+	"serial_number": "BCAP",
+	"synopsis": "Master strategy in the medieval world! In the classic board game Carcassonne, the medieval countryside thrives as you and your opponents place tiles and complete towns, roads, and farms while competing to amass the most points. Own the largest towns, longest roads, and biggest farms."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "젤다의 전설 - 몽환의 모래시계",
+	"regions": ["NTSC-K"]
+}

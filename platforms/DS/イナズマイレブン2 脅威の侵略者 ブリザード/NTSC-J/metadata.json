@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Football", "Role-Playing", "Sports"],
+	"name": "イナズマイレブン2 脅威の侵略者 ブリザード",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "October 1, 2009",
+	"serial_number": "BEBJ",
+	"synopsis": "Choose from over 1,500 players and create the ultimate alien-beating football team in Inazuma Eleven 2!"
+}

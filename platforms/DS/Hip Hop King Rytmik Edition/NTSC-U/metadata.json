@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Hip Hop King: Rytmik Edition",
+	"publishers": ["Cinemax"],
+	"release_date": "January 12, 2012",
+	"serial_number": "KRVE",
+	"synopsis": "Hip Hop King is an application for creating rhythmical and melodic themes and for composing whole songs. Its user interface blends the fast and well-arranged interface of classic drum machines with flexible pattern interface of popular trackers and with modern sound library. It contains more than 170 carefully selected sound samples of drums, percussions, bass, melodic instruments and gramophone scratches. With Hip Hop King you can quickly and easily create the basic building block – an audio clip. It consists of musical notations for up to four instruments that you may transpose or select their location in the stereo field. You can also modify their volume, reverse, shuffle (rhythm twist), and polyphony (with extended polyphony handling), or use a chorus/widening stereo effect and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music."
+}

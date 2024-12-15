@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Inti Creates"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "¡Shin chan contra los Plastas!",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 14, 2009",
+	"serial_number": "CL4S",
+	"synopsis": "¡El reino subterráneo de Plastilandia ha decidido invadir la superficie del planeta! ¡Los invasores planean unir ambos reinos y reblandecer el nuestro para poder vivir en la \"blandura ideal\"! ¡Con la ayuda de los plastipoderes que le otorga una niña que conoce en Plastilandia, Shin chan se embarca en una gran aventura para frenar a los malvados invasores!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["EA Sports"],
+	"genres": ["Soccer", "Sports"],
+	"name": "FIFA Soccer 11",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 8, 2010",
+	"serial_number": "VELE",
+	"synopsis": "FIFA 11 reinvents player authenticity - on and off the ball - for every player and at every position on the pitch with Personality+, an all-new feature that sees individual abilities reflected in game, enabling clear differentiation for every player."
+}

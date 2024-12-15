@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Frogwares"],
+	"genres": ["Adventure", "Point-And-Click", "Puzzle"],
+	"name": "Sherlock Holmes and the Mystery of Osborne House",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "January 4, 2011",
+	"serial_number": "B46E",
+	"synopsis": "In this brand new big adventure, especially designed for Nintendo's handheld system, you play as the famous detective Sherlock Holmes and you will have to shed some light on curious events."
+}

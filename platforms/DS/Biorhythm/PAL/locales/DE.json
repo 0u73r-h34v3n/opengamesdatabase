@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Biorhythm",
+	"synopsis": "Diese Anwendung dient hauptsächlich als elektronisches Hilfsmittel zur Ermittlung von Biorhythmen. Ein Anwender kann seine jeweils aktuellen Werte der intellektuellen, emotionalen und körperlichen Kurve errechnen und sich deren Graphen anzeigen lassen oder seine Werte für ein bestimmtes Datum herausfinden. Außerdem kann man mit dieser Anwendung einen Prozentwert für Partnerschaftsharmonie herausfinden und als Bonus ein verstecktes Spiel spielen. Biorhythmus-Modelle verwenden drei Zyklen: einen 23-tägigen \"körperlichen\" Zyklus, einen 28-tägigen \"emotionalen Zyklus\" und einen 33-tägigen \"intellektuellen Zyklus\". Jeder dieser Zyklen schwankt in Form einer Sinuskurve zwischen einem Hoch- und einem Niedrigwert. Tage, an denen die Null-Linie gekreuzt wird, werden als \"kritische Tage\" bezeichnet, die von besonderen Risiken und Unsicherheiten geprägt sind. Englischer Bildschirmtext."
+}

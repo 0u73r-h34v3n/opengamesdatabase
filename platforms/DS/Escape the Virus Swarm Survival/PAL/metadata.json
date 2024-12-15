@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["FUN UNIT"],
+	"genres": ["Arcade", "Puzzle", "Strategy"],
+	"name": "Escape the Virus: Swarm Survival",
+	"publishers": ["Teyon"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 5, 2012",
+	"serial_number": "KXEP",
+	"synopsis": "Dodge, weave around and jump to link all the pieces of DNA and build the longest chain ever, all while fighting off vicious viruses! Look at your surroundings and get one-off bonuses, such as a vaccine or a micro-world equivalent of a rocket-launcher! Put your survival skills to the test in this reflex-awakening action title featuring 2 modes of gameplay!"
+}

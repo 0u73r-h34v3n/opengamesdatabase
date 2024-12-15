@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Party"],
+	"locales": ["ES"],
+	"name": "Lucky Luke: The Daltons",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2008",
+	"serial_number": "CD7P",
+	"synopsis": "While some of them are laundering money, literally putting any object they find into a washing machine to get money in exchange, others eat everything they can to \"shape\" the process. Whatever the dream, the Dalton Brothers always have two things in common: their love for their mother and their ability to cause spectacular accidents wherever they go: to the bank, to jail or even to the casino."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["1st Playable Productions"],
+	"genres": ["Adventure", "Point-And-Click"],
+	"name": "Club Penguin Elite Penguin Force",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 25, 2008",
+	"serial_number": "CLPE",
+	"synopsis": "Join the Elite Penguin Force, a special group of penguins that protect the Club Penguin island from mysterious threats. As you progress in your training, you will discover hidden secrets and solve challenging puzzles throughout the island. Explore iconic locations like the Bay, Plaza, and Nevisca Mountain, while interacting with your friends and making new allies!"
+}

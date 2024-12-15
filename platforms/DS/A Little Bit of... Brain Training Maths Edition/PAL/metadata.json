@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Educational", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "A Little Bit of... Brain Training Maths Edition",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 19, 2009",
+	"serial_number": "KNRV",
+	"synopsis": "Dr Kawashima brings his popular brain exercise software to Nintendo DSi, with fun, new features and the return of many Brain Training favourites! A Little Bit of... Dr Kawashima’s Brain Training: Maths Edition features mathematical challenges and other fun exercises that you can use regularly to keep your brain sharp in just a few minutes a day. As well as training with maths-oriented exercises, you can also relax with a game of Germ Buster. Or try the new Themes Mode, where you can practise your acting and drawing skills using Nintendo DSi's camera functionality, Touch Screen and microphone! Screen text can be set to English, German, French, Spanish or Italian. The language displayed during the use of the software does not depend on the one set on the console, rather the one selected in the software at the first start-up. (Please note that elements of this software may have been featured in previously-released software.) * Within the context of this software, \"Brain Age\" refers only to a game score. It is not a scientific value."
+}

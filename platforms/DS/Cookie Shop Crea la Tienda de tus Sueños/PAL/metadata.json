@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TDK Core"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Cookie Shop: Crea la Tienda de tus Sueños",
+	"publishers": ["Nobilis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 27, 2009",
+	"serial_number": "ACIS",
+	"synopsis": "Ahora ya puedes crear la tienda de tus sueños en tu Nintendo DS con Cookie Shop! Descubre el nuevo Cookie Shop donde podrás mejorar tus recetas, decorar tu tienda al gusto de tus clientes, controlar tus ventas y proveedores y ¡muchas cosas más! Siente la emoción de crear tu primer negocio y diviertete a tope en un mundo monisimo lleno de encantadoras criaturas., los Chocodogs y Chococats."
+}

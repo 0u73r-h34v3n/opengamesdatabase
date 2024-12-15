@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Rytmik World Music",
+	"publishers": ["Cinemax"],
+	"release_date": "December 13, 2012",
+	"serial_number": "KYHE",
+	"synopsis": "Rytmik World Music is an application for creating rhythmical and melodic themes and for composing whole songs. Library contains 117 carefully picked authentic sounds of ethnic drums, percussions, plucked, mallet, bowed and wind instruments, complemented with a selection of synth drums, basses and pads, creating together a strong and creative mix of sounds and rhythms for your compositions not just from the sphere of world music. Compositions being played are visualized on the upper screen in the classical demoscene style with 20 types of visualization to choose from."
+}

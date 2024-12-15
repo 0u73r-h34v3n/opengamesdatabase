@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games"],
+	"genres": ["Action"],
+	"name": "Marvel Super Hero Squad: The Infinity Gauntlet",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 19, 2010",
+	"serial_number": "BNYY",
+	"synopsis": "Who will save you today? SUPER HERO SQUAD! Become the Hero in the midst of a mad race to find the missing pieces of the Infinity Sword. Fight against Doctor Doom and the evil villains who want to destroy the universe!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Phineas and Ferb Across the 2nd Dimension",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "March 8, 2011",
+	"serial_number": "B5VE",
+	"synopsis": "Phineas and Ferb have discovered a new dimension. In it, Dr. Doofenshmirtz is totally evil! Save the world from the doctor's dastardly plans as only Phineas and Ferb can - by using goofball gadgets - in this game based on the Disney Channel original movie."
+}

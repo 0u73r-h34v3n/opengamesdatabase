@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"locales": ["DE", "FR", "NL"],
+	"name": "Star Wars: Episode III - Revenge of the Sith",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "May 5, 2005",
+	"serial_number": "ASTP",
+	"synopsis": "Light side or Dark? Obi-Wan or Anakin? Make your choice wisely, for it will dominate your destiny."
+}

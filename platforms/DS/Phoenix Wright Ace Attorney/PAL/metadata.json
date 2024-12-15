@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Adventure", "Simulation"],
+	"locales": ["DE", "ES", "IT"],
+	"name": "Phoenix Wright Ace Attorney",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "January 12, 2007",
+	"serial_number": "AGYX",
+	"synopsis": "Looking for your objection to be sustained? Have a thing for cross-examining witnesses?"
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure"],
+	"name": "Last Window - The Secret of Cape West",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 17, 2010",
+	"serial_number": "YLUP",
+	"synopsis": "See Nintendo of Europe's official UK site for Last Window: The Secret of Cape West on Nintendo DS. Enjoy puzzling out the mystery behind Kyle Hyde's past and solving the crime in an adventure developed by Nintendo and Cing."
+}

@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Racing", "Sports"],
+	"locales": ["ES", "PT"],
+	"name": "G.G Series THROW OUT",
+	"publishers": ["Genterprise"],
+	"release_date": "June 25, 2015",
+	"serial_number": "K3OE",
+	"synopsis": "Choose your robotic team in a 4 on 4 handball match. Each team has their different strengths. Select between Tournament and Team Battle mode. Use tackles or powerful throws to knock down opponents as you push your way down the field. Jump and shoot for the goal with \"Killer\" throws, or if you can time it just right, the \"Super Killer\" throw which plows through any opponents and any unprepared goal keeper in its range. Aim to get the higher score before the time runs out to continue to the next stage. It's robot stadium style handball action at its best!"
+}

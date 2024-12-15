@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"name": "スーパースクリブルノーツ",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "October 13, 2011",
+	"serial_number": "BH2J",
+	"synopsis": "Super Scribblenauts for Nintendo DS builds on the ground-breaking original, offering more ways to solve the puzzles in your path by simply writing whatever pops into your head."
+}

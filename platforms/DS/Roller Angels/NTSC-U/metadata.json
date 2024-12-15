@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ICM"],
+	"genres": ["Action", "Adventure"],
+	"name": "Roller Angels",
+	"publishers": ["Agetec"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "July 7, 2011",
+	"serial_number": "KRLE",
+	"synopsis": "Roller Angels is a side-scrolling platform game in which an alien race known as the Monodrones is stealing the town’s precious colors. It’s up to the Roller Angels to roll into action and restore color to their beloved town. With the help of Dr. Lionel, who developed a special spray paint, the angels use the spray paint to bring color back."
+}

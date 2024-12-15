@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "PT"],
+	"name": "G.G Series DRILLING ATTACK!!",
+	"publishers": ["Goodvision Corporation"],
+	"release_date": "June 25, 2015",
+	"serial_number": "KDAE",
+	"synopsis": "Run, jump and drill your way through a maze full of enemies and danger deep beneath the Earth's surface. Many robotic enemies stand in the way of you and the goal to rid the subterranean world of these machines. Transform and dash through breakable rock and make use of your ultimate power, the Drilling Attack!! Keep an eye out for recovery items and the key card which unlocks the exit which you must get to in each stage. Stay vigilant as a large boss will be waiting for you at the end of every few stages."
+}

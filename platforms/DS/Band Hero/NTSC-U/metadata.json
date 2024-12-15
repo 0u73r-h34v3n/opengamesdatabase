@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vicarious Visions"],
+	"genres": ["Music", "Rhythm"],
+	"name": "Band Hero",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "November 3, 2009",
+	"serial_number": "BGHE",
+	"synopsis": "This holiday season, the biggest music event of the year will hit living rooms around the world as family and friends come together to ascend the virtual stage and rock their way to superstardom with Band Hero. Brought to you by the makers of Guitar Hero, one of the best-selling video game franchises of all time, Band Hero features the hottest chart-topping hits from everyone's favorite bands including No Doubt, Nelly Furtado, Lily Allen, The All-American Rejects and Jackson 5. Headlined by some of the biggest names in music as in-game artists and playable characters, Band Hero is the ultimate party game where players of all ages will be able to experience the signature, easy-to-learn but difficult-to-master Guitar Hero gameplay."
+}

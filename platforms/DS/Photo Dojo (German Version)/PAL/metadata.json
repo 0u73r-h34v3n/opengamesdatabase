@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Fighting", "Simulation"],
+	"locales": ["DE", "FR", "IT"],
+	"name": "Photo Dojo (German Version)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "March 19, 2010",
+	"serial_number": "KPBD"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Opera Software"],
+	"genres": ["Software"],
+	"locales": ["ES"],
+	"name": "Nintendo DSi Browser",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 3, 2009",
+	"serial_number": "HNGP",
+	"synopsis": "This version of the popular Opera browser is made specifically for Nintendo DSi systems, and uses both screens of the Nintendo DSi and its Touch Screen technology to offer a comfortable, speedy and straightforward surfing experience. You can navigate web pages with your stylus and enter text whenever the need arises by using the on-screen keyboard or built-in handwriting recognition."
+}

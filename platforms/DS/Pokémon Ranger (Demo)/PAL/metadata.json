@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["HAL Laboratory", "Inc."],
+	"genres": ["Action", "Adventure", "Demo", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Pokémon Ranger (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 13, 2007",
+	"serial_number": "A79P",
+	"synopsis": "In Pokémon Ranger, instead of playing a Pokémon Trainer you play a Ranger, responsible for protecting Pokémon in the wild. Capturing Pokémon is also handled in a whole new way; using a Capture Styler you must catch Pokémon by quickly drawing circles around them with your stylus."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AlphaDream"],
+	"genres": ["Action", "Educational", "Puzzle"],
+	"name": "Hi! Hamtaro: Ham-Ham Challenge",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 23, 2008",
+	"serial_number": "A8CP",
+	"synopsis": "Join Hamtaro and all his friends in a variety of fun and educational brain-training games. Children will develop their memory, word comprehension, math skills and many other abilities as they play through 12 engaging, interactive games. Parents can monitor their childs growing abilities, adjust the difficulty level to match their childs skills, and reward them with special items. Hamtaro and his friends make learning fun!"
+}

@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Toy Story 3",
+	"release_date": "January 1, 2010",
+	"serial_number": "VT3X",
+	"synopsis": "An action adventure video game for the Nintendo DS which is based on the Toy Story 3 movie. Play Buzz Lightyear or Sheriff Woody and leap into a colourful world of childhood dreams."
+}

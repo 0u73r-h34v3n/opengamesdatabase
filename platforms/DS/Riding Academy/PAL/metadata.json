@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vivid Games"],
+	"genres": ["Simulation", "Sports", "Virtual Pet"],
+	"locales": ["FR", "IT"],
+	"name": "Riding Academy",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 13, 2009",
+	"serial_number": "CDYX",
+	"synopsis": "Join an elite riding academy and prove yourself as a rider! Learn from famous teachers around the world to train your horse in jumping, dressage and Western riding! Take part in many exciting missions with your group of friends and show everyone what you are capable of!"
+}

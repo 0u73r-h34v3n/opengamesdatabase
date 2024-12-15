@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Joindots GmbH"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "4 Elements",
+	"publishers": ["Joindots GmbH"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 9, 2014",
+	"serial_number": "K7AV",
+	"synopsis": "Get ready for an adventure of a lifetime as you reawaken the 4 elements. Rescue a long-forgotten kingdom and its inhabitants from their dismal fate, by making long chains of matching symbols and solving a variety of tricky and exciting tasks. Take advantage of a number of bonuses and set the power of the elements free. - 64 challenging levels, plus bonus levels (Hidden Object, Spot the Difference) - Clever match-3 game mechanics - Levels which stretch over both screens - Scroll around the entire level to make even longer matches - Great story set in an enchanting fabled world"
+}

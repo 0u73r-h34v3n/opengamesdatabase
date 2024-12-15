@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["DE"],
+	"name": "Professor Layton und die Schatulle der Pandora",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "YLTD",
+	"synopsis": "Professor Layton und die Schatulle der Pandora bietet ein fesselndes neues Mysterienspiel sowie 150 neue Denksportaufgaben, Rätsel und Logik-Puzzles, die alle Spieler herausfordern und begeistern werden."
+}

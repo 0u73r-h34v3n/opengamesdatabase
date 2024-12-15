@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Level-5"],
+	"genres": ["Adventure", "Puzzle"],
+	"locales": ["NL"],
+	"name": "Professor Layton en de melodie van het spook",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 25, 2011",
+	"serial_number": "BLFH",
+	"synopsis": "Ontrafel met Professor layton een nieuw mysterie. Dit spannende puzzelspel bevat 170+ puzzels en nieuwe minigames om je grijze cellen urenlang bezig te houden tijdens je speurtocht naar de waarheid in het stadje Misthallery."
+}

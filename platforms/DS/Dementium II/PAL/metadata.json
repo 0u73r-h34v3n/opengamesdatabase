@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Renegade Kid"],
+	"genres": ["Action", "Adventure", "Horror", "Survival Horror"],
+	"locales": ["ES"],
+	"name": "Dementium II",
+	"publishers": ["SouthPeak Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "18"
+		}
+	],
+	"release_date": "June 25, 2010",
+	"serial_number": "BDEP",
+	"synopsis": "Enter the terrifying world of Dementium II where all may not be as it seems. Experience this chilling survival horror game for the Nintendo DS where you must attempt to escape a sinister treatment centre with your life and your sanity intact."
+}

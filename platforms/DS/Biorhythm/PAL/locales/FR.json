@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Biorhythm",
+	"synopsis": "Cette application simule le comportement d’un appareil électronique dédié au calcul du biorythme. L’utilisateur peut ainsi obtenir une mesure instantanée de ses courbes intellectuelles, émotionnelles et physiques, accompagnées des diagrammes correspondants, ou encore vérifier leur valeur à une date donnée. Cette application permet également de déterminer le pourcentage d’harmonie d’une relation, et contient un jeu caché en bonus. Les modèles de biorythme sont basés sur trois cycles : un cycle physique de 23 jours, un cycle émotionnel de 28 jours, et un cycle intellectuel de 33 jours. Chacun de ces cycles varie de manière sinusoïdale entre des extrêmes supérieurs et inférieurs, les jours où le cycle traverse la ligne des zéros étant décrits comme critiques, présentant un risque et une incertitude plus élevés. Texte écran en anglais."
+}

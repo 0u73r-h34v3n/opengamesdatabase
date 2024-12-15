@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Action", "Fighting"],
+	"name": "Ninja Reflex",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 14, 2008",
+	"serial_number": "YNIP",
+	"synopsis": "Master the art of speed to become a ninja! \"Welcome to my dojo. You have come to learn martial arts. If your heart and mind are open, I will share my knowledge with you. Here you will learn to move like a tiger and strike like a dragon. Let's see if you can become a ninja!\""
+}

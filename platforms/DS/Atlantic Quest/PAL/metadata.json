@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["rokapublish"],
+	"genres": ["Puzzle"],
+	"name": "Atlantic Quest",
+	"publishers": ["Purple Hills"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 29, 2013",
+	"serial_number": "B6QY",
+	"synopsis": "Immerse yourself in the kingdom of the seas and help free the ocean's inhabitants from an oil spill."
+}

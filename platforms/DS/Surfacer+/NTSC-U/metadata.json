@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["LEXIS NUMÉRIQUE"],
+	"genres": ["Puzzle", "Strategy"],
+	"name": "Surfacer+",
+	"publishers": ["LEXIS NUMÉRIQUE"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 10, 2011",
+	"serial_number": "KOWE",
+	"synopsis": "Surfacer+ is easy to pick up and has totally innovative gameplay. You’ll be surprised! Suitable for all gamers – occasional and hardcore alike.Fill the screen by producing white flowers with your stylus. Control the size of your flowers and use the bonuses at the right moment. Watch out for enemies who pounce from either side of the screen."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward"],
+	"genres": ["2d Platformer", "Action", "Platformer"],
+	"name": "American Dragon: Jake Long",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 13, 2006",
+	"serial_number": "ARDP",
+	"synopsis": "Jake Long's most fierce enemy, Dark Dragon, takes Rose, Jake's love interest, hostage in order to cause Jake's destruction in Disney's American Dragon: Jake Long."
+}

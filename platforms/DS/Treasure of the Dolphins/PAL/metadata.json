@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Arts Software"],
+	"genres": ["Adventure"],
+	"locales": ["DE", "ES"],
+	"name": "Treasure of the Dolphins",
+	"publishers": ["Tivola"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 20, 2012",
+	"serial_number": "CZJP",
+	"synopsis": "Dive into adventure with \"The Treasure of the Dolphins\" for Nintendo DS! Spend your holiday on the Caribbean island of Tirimoa, teaming up with dolphins Tiri and Moa at a rescue centre. Each day brings new tasks from friendly islanders and a thrilling quest for a legendary pirate treasure. Explore, solve mysteries, and uncover lost gold in this exciting adventure!"
+}

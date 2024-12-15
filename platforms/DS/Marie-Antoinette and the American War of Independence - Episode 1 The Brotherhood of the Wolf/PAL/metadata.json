@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Némopolis"],
+	"genres": ["Educational"],
+	"name": "Marie-Antoinette and the American War of Independence - Episode 1: The Brotherhood of the Wolf",
+	"publishers": ["Némopolis"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 30, 2010",
+	"serial_number": "BA5P",
+	"synopsis": "Unmask the traitors around you and save the Queen! Along with Oscar you find yourself in the year 1781, plunged right into the middle of the American War of Independence. Throw yourself into a breathtaking investigation that's composed of diplomatic intrigue, naval battles and sinister plots!"
+}

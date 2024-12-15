@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Morgen Studios"],
+	"genres": ["Action", "Adventure"],
+	"name": "Playmobil Interactive - Knights",
+	"publishers": ["DreamCatcher Interactive", "The Adventure Company"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 12, 2010",
+	"serial_number": "CIYE",
+	"synopsis": "Become a hero of legend having epic fantasy fun all within the Playmobil universe! The kingdom is in danger! The evil magician FlimFlam and his dark knights have pillaged the land by might and magic and captured all of the King's knights. Only you, a radish farmer with dreams of being a hero, can save the kingdom by stealing the Magical Sword of legends from FlimFlam and restoring peace to the Kingdom. Join our hero on his journey through this lush world, complete quests for riches and fame, buy weapons and dragons to help you defeat the forces of evil, and become the hero of your dreams."
+}

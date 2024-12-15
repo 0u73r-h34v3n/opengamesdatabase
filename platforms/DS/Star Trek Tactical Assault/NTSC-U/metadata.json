@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Quicksilver Software"],
+	"genres": ["Action", "Strategy"],
+	"name": "Star Trek: Tactical Assault",
+	"publishers": ["Bethesda Softworks", "Mud Duck Productions", "Vir2L Studios"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 26, 2006",
+	"serial_number": "ATJE",
+	"synopsis": "Boldly go where no Star Trek game has gone before! Take your place in the captain's chair of a Federation or Klingon starship at the height of the Human-Klingon conflict."
+}

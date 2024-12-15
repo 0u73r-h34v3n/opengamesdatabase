@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["2d Platformer", "Action", "Platformer"],
+	"locales": ["ES"],
+	"name": "Enchanted",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 20, 2007",
+	"serial_number": "YECP",
+	"synopsis": "Inspired by the Walt Disney Pictures film, \"Enchanted\" invites you to live the fairy tale in animated Andalasia and wear your tiara in real world New York City. Play as Giselle, Prince Edward and Pip to relive key moments of the film as well as discover new adventures. Now you too can find your own Happily Ever After."
+}

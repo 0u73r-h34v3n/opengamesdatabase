@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Puzzle Bobble Galaxy",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 28, 2009",
+	"serial_number": "CB6P",
+	"synopsis": "Test your bubble-popping skills to bursting point in the colourful and challenging Puzzle Bobble Galaxy for Nintendo DS."
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Don't Cross The Line",
+	"synopsis": "Don’t Cross The Line est un jeu de réflexion où le joueur doit lier de différentes cases, d’une boîte identique à une autre, sans traverser les lignes déjà dessinées. Il y a environ 50 niveaux en total. En fonction de sa vitesse en terminant chaque étape, le joueur sera récompensé par une médaille: soit de bronze, soit d’argent, soit d’or. Afin de déverrouiller les étapes ultérieures, le joueur aura dû obtenir un certain rang lors des étapes précédentes pour avancer. Pourrez-vous déjouer les énigmes en question et remporter les médailles d’or? Rappelez-vous, Don’t Cross The Line!"
+}

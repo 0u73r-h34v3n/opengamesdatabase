@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Ball Fighter",
+	"synopsis": "Ball Fighter è un gioco entusiasmante in cui hai il compito di raggruppare le palline dello stesso colore per farle sparire dal tavolo. Sbrigati! Devi fare in fretta prima che le palline riempiano l'intero tavolo. Per ottenere punti extra o per complicare le cose al tuo avversario è possibile creare delle catene di palline. In modalità multigiocatore, le palline distrutte da te saranno trasferite al tavolo dell'avversario, complicandogli il gioco. Esistono inoltre bonus, come ad esempio: una bomba, un razzo o un pennello, utili a distruggere o dipingere l'intera catena di palline dello stesso colore. Prova una delle diverse opzioni di gioco (Arcade, Survival, Rompicapo, Giocatore contro CPU) scegliendo tra la modalità giocatore singolo oppure la modalità per due giocatori su una sola console Nintendo DSi! Il testo all'interno del gioco è in italiano."
+}

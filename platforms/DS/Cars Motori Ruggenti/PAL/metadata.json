@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Helixe"],
+	"genres": ["Racing"],
+	"locales": ["IT"],
+	"name": "Cars: Motori Ruggenti",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 14, 2006",
+	"serial_number": "ACZI",
+	"synopsis": "Accendete i motori e tenetevi forte, è di nuovo la stagione della Piston Cup. Saetta McQueen scopre presto che la nuova stagione riporta in scena una vecchia nemesi, Chick Hicks. Aiutate Saetta e i suoi amici di Radiator Springs attraverso una serie di minigiochi ad alto numero di ottani per competere infine nella Piston Cup."
+}

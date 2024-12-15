@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Delbo",
+	"synopsis": "『Delbo』は、画面下方よりオーブを発射し、上方より迫り来るオーブを次々と消して行くシューティングパズルゲームです。 画面上部に配置されているオーブは、隣接するオーブが消えるときに同色であれば連鎖して消えて行きます。 自らオーブの列を引き出し、同色のオーブを並べて大連鎖させることも可能です。 また、ミステリーメーターが溜まると出現する「ミステリーボール」を使えば、画面上にある同色のオーブ全てを一掃することも可能です。"
+}

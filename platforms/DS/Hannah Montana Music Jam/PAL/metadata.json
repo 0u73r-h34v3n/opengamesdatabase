@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Gorilla Games"],
+	"genres": ["Action", "Music", "Rhythm"],
+	"name": "Hannah Montana: Music Jam",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 13, 2008",
+	"serial_number": "YH2X",
+	"synopsis": "It's a superstar showdown! Play as Hannah to win the Music Jam Online video competition."
+}

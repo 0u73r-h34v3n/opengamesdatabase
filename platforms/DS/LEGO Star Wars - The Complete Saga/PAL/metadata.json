@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Traveller's Tales"],
+	"genres": ["Action", "Adventure"],
+	"name": "LEGO Star Wars - The Complete Saga",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 1, 2007",
+	"serial_number": "YLGP",
+	"synopsis": "Grab your light saber and depart for a galaxy far, far, away with Lego Star Wars: The Complete Saga on Nintendo DS!"
+}

@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Hip Hop King: Rytmik Edition",
+	"synopsis": "Hip Hop King est une application qui vous permet de créer des thèmes rythmiques ou mélodiques et de composer des chansons entières. Son interface combine le contrôle d’une boîte à rythme classique avec la fonctionnalité d’un tracker et la modernité d’une banque son. Elle contient au total plus de 170 échantillons soigneusement sélectionnés de batterie, percussions, basse, instruments mélodiques et scratchs. Avec Hip Hop King vous pouvez créer rapidement et facilement le bloc de base - un clip audio. Il est composé de notations musicales pour quatre instruments que vous pouvez transposer ou choisir leur emplacement dans le champ stéréo. Vous pouvez également modifier leur volume, inversion, torsion du rythme, et la polyphonie (avec la manipulation de polyphonie étendue), ou utiliser un chorus / effet stéréo élargissement et l'écho. Vous pouvez combiner jusqu’à 128 morceaux au hasard sur ces quatre pistes et créer des pièces complexes de musique."
+}

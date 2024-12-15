@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES"],
+	"name": "Castlevania: Dawn of Sorrow",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "September 29, 2005",
+	"serial_number": "ACVP",
+	"synopsis": "Konami's latest blood-sucker hunting session is set in the year 2036, where the heroic Soma Cruz finds himself battling an evil cult which plans to bring Dracula back from the grave once more."
+}

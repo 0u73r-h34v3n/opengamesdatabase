@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "PT"],
+	"name": "G.G. Series EXCITING RIVER",
+	"publishers": ["Goodvision Corporation"],
+	"release_date": "June 4, 2015",
+	"serial_number": "KERE",
+	"synopsis": "Time the L and R buttons to move the kayak. Be careful not to capsize or slow down by avoiding obstacles like driftwood, rocks or other kayaks throughout each course. Keep paddling too so your kayak is not carried away in areas of fast flowing water. If you can keep a good timing when rowing with the L and R buttons, you'll be able to keep up your speed and pass other kayaks more easily. You can also collect charge items for your boost power which allows you to kayak at high speed and smash through any obstacles on the Exciting River!"
+}

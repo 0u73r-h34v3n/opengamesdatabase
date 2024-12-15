@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Prope"],
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "GO Series Ivy the Kiwi? Mini",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 19, 2010",
+	"serial_number": "KIKV",
+	"synopsis": "GO Series presents Ivy the Kiwi? Mini. Ivy the Kiwi? is a new game designed by Yuji Naka, the creator of Sonic, developed by PROPE. Draw lines using the stylus to guide Ivy on her way home as she bounces, spins and smashes her way past obstacles. Includes 50 levels with beautiful graphics in a hand-drawn storybook style. Please note that elements of this software may have been featured in previously released software. Game & Manual: English, French, German, Spanish, Italian"
+}

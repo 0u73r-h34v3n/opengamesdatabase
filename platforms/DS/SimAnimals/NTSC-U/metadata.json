@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts"],
+	"genres": ["Management Simulation", "Simulation", "Virtual Pet"],
+	"name": "SimAnimals",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 27, 2009",
+	"serial_number": "CM3E",
+	"synopsis": "In SimAnimals™, embrace all the adventure, fun, and mischief that await you in the vast forest. You have the power to reach out and touch, pick up and move everything in the forest from squirrels and foxes to trees and flowers. Make your wild animals happy and maintain a forest that lets them flourish as you venture further into the forest than you've ever been before!"
+}

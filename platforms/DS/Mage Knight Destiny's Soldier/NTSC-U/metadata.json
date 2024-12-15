@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Big Blue Bubble Inc."],
+	"genres": [
+		"Action",
+		"Action Rpg",
+		"Role-Playing",
+		"Strategy",
+		"Strategy Rpg"
+	],
+	"name": "Mage Knight: Destiny's Soldier",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "September 29, 2006",
+	"serial_number": "AMPE",
+	"synopsis": "The year is 435 Tz, and every faction in the Land is at war, and if it continues there won't be much Land left to fight over."
+}

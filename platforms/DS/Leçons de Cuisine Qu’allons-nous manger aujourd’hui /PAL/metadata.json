@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD", "indieszero"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"locales": ["FR"],
+	"name": "Leçons de Cuisine : Qu’allons-nous manger aujourd’hui ?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 20, 2008",
+	"serial_number": "CNVF",
+	"synopsis": "Enfilez votre toque de chef cuistot avec Leçons de Cuisine - Qu’allons-nous manger aujourd’hui ? sur Nintendo DS ! Grâce à ses centaines de recettes du monde entier, l'explication pas à pas de chacune d'entre elles et bien d'autres ingrédients non négligeables, Leçons de Cuisine est bien plus qu'un livre de cuisine. C'est un véritable aide de cuisine!"
+}

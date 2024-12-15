@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Magellan"],
+	"genres": ["Puzzle"],
+	"name": "WordJong Arcade",
+	"publishers": ["Magellan"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 15, 2011",
+	"serial_number": "K2AE",
+	"synopsis": "WordJong mixes Mahjong solitaire and word play. Use letter tiles to create words. WordJong Arcade has 2 new ways to play, ARCADE and YIN-YANG. In Arcade Mode, use power-ups, multipliers and long word bonuses to get amazing high scores. Spell your way through 8 levels of action. Can you reach the final dragon level and win? In Yin Yang Mode, test your skills by using only White or Black letter tiles to score. The target color changes each turn, so be sure to plan ahead. Play solo, or challenge a friend with pass-and-play! There are 12 achievements to earn, tons of puzzle shapes and tracking for all high-scores and game stats. For addictive, unique, word-forming fun try WordJong Arcade today!"
+}

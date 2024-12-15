@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tecmo"],
+	"genres": ["Adventure", "Horror"],
+	"locales": ["JA"],
+	"name": "DS西村京太郎サスペンス２　新探偵シリーズ　金沢・函館・極寒の峡谷　復讐の影",
+	"publishers": ["Tecmo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "C"
+		}
+	],
+	"release_date": "November 13, 2008",
+	"serial_number": "C6RJ"
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["magic pockets"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"locales": ["ES"],
+	"name": "Imagine Dream Resort",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 27, 2010",
+	"serial_number": "VIDV",
+	"synopsis": "Manage a beachfront resort on a magnificent tropical island and expand it into a luxury vacation spot!"
+}

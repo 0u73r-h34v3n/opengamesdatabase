@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Strategy"],
+	"name": "Advance Wars - Days of Ruin",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "January 21, 2008",
+	"serial_number": "YW2E",
+	"synopsis": "New COs Take Control The Commanding Officers (COs) of the previous Advance Wars sagas met the same fate as most of the world’s population in the cataclysmic events that directly preceded Advance Wars: Dark Conflict."
+}

@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Software"],
+	"name": "MySims Camera",
+	"publishers": ["Electronic Arts"],
+	"release_date": "September 21, 2009",
+	"serial_number": "KMYE",
+	"synopsis": "MySims Camera is a Nintendo DSi camera application that utilizes popular MySims characters. You can take photos and overlay 3D MySims characters to bring them into the real world. The 3D characters can be animated, moved, scaled, rotated and cropped. You can also draw on the photos with the stylus or use the stamp tool to add more art and style. Create a unique frame and save the photos to the Nintendo DSi photo album to share with friends. With MySims Camera, you make picture taking with the MySims a fun creative experience for the entire family."
+}

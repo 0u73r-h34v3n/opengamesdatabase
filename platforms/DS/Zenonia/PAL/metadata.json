@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["GAMEVIL"],
+	"genres": ["Action", "Adventure", "Role-Playing", "Strategy", "Strategy Rpg"],
+	"name": "Zenonia",
+	"publishers": ["GAMEVIL"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "December 24, 2010",
+	"serial_number": "KZAV",
+	"synopsis": "ZENONIA features anime style characters and graphics with numerous quests following an epic storyline which offers playing time of over 40 hours to conquer the quests. The player can choose from 3 different classes; warrior, paladin and assassin, and customize attributes. The game provides hundreds of different weapons and skill trees. The game also provides items that can be collected from 5 different classes (normal, magic, rare, unique and epic) to enchant or combine them for upgrades. Please note that elements of this software may have been featured in previously released software."
+}

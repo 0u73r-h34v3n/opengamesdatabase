@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Morgen Studios"],
+	"genres": ["Board Game", "Chess", "Educational"],
+	"name": "Learn to Play Chess with Fritz & Chesster",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 6, 2009",
+	"serial_number": "CHEP",
+	"synopsis": "Help! The mean King Black is challenging Prince Fritz to a chess duel. This causes him to sweat in the Intelligym for brain training, together with this cousin Bianca. The ingenious chess coach Chesster shows them all important chess tips and tricks, making them fit for the duel. You want to join them? The prize-winning chess adventure - finally for Nintendo DS!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtual Playground"],
+	"genres": ["Adventure", "Puzzle"],
+	"name": "Halloween: Trick or Treat",
+	"publishers": ["Microvalue"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 27, 2011",
+	"serial_number": "KZHE",
+	"synopsis": "Go “Trick or Treating” with Mike and Sally in this fun-packed, all-action Halloween game. Collect lots of treats and even get tricked along the way. Bump into friendly ghosts, wicked witches, scary skulls & flapping bats! Explore the Haunted House of a nutty professor. Get trapped in, then escape from, a witch’s house in the Pumpkin Forest. Play the game over and over to get a higher score than your family and friends - but be careful you don’t get tricked too often... Ha ha ha haaaaaah!"
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "悪魔城ドラキュラー蒼月の十字架ー",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "May 28, 2005",
+	"serial_number": "ACVJ",
+	"synopsis": "Konami's latest blood-sucker hunting session is set in the year 2036, where the heroic Soma Cruz finds himself battling an evil cult which plans to bring Dracula back from the grave once more."
+}

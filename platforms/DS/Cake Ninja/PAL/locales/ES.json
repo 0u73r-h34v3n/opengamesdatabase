@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Cake Ninja",
+	"synopsis": "Un sencillo juego que consiste en hacer trazos con el lápiz por la pantalla táctil para cortar las tartas en pedacitos como un verdadero guerrero ninja. ¡Es facilísimo! Cuantos más trozos logres cortar, más tiempo sobrevivirás y mayor será la puntuación. ¿Cuánto aguantarás? Puedes desafiar a tus amigos en partidas multijugador, para demostrar a todos quién es el mejor. Principales características: - Forma de juego sencilla y adictiva. - Gráficos en 3D a todo color. - Reconocimiento preciso de los movimientos. - Exigente modo multijugador."
+}

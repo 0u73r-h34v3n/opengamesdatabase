@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Metal Torrent",
+	"publishers": ["Nintendo"],
+	"release_date": "May 7, 2010",
+	"serial_number": "K59V",
+	"synopsis": "Prepare yourself for one of the most intense shoot ‘em ups to hit Nintendo DSiWare. Your mission is simple: get the highest score possible, across eight phases of fierce vertical-scrolling action. Choose from two powerful craft: Red Orion and Blue Nova, tailored for novice or experienced players. Both ships have standard blasters for unlimited fire, as well as special weapons unique to each craft. Special weapons drain your energy gauge, though, so think before you fire! Collect cubes dropped by destroyed enemies to refill your energy gauge and increase your score. Skilled pilots can boost their scores even further by collecting chains of consecutive cubes without missing any. Once you've blasted your way to a score you're proud of, you can use Nintendo Wi-Fi Connection to upload it to the online leaderboards and compare it with players across the world. You can also view replays of top-ranking players’ games and learn from the best!"
+}

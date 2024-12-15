@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Telegraph Sudoku & Kakuro",
+	"synopsis": "Jouez aux puzzles numériques du «Daily Telegraph» comme vous n’y avez jamais joué auparavant! Découvrez plus de 500 grilles reparties en différents types de puzzles. Des heures et des heures de jeu! *Sudoku: (9x9) Grilles classiques de Sudoku avec 4 niveaux de difficulté. *Mini-Sudoku: (6x6) Petites Grilles faciles et rapides. *Sudoku-X: (9x9) Grilles dont les diagonales doivent également être remplie par tous les chiffres de 1 à 9. *Jigsaw Sudoku: (9x9) Grilles présentant des formes particulières. *Kakuro: Grace à son interface ergonomique et sa manipulation intuitive, ce jeu dépasse l’expérience classique de la version papier. Parmi les fonctionnalités principales: - Enregistrement des meilleurs temps dans le «Mur de la gloire». - Aide interactive afin de ne jamais rester bloqué! - Sauvegarde automatique: Arrêtez et reprenez votre partie quand vous le désirez!"
+}

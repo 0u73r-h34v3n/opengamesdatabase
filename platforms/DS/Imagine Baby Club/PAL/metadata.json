@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Baby Club",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 19, 2008",
+	"serial_number": "CIZP",
+	"synopsis": "Become a young nanny who has just arrived in a charming town and must care for various children. Earn the trust of their parents and watch the babies develop as they learn to grasp objects, interact with people, and even take their first steps!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Coaching", "Educational", "Health", "Puzzle"],
+	"locales": ["ES"],
+	"name": "Big Brain Academy",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 7, 2006",
+	"serial_number": "AYAP",
+	"synopsis": "Work your grey matter and find out who has the ‘biggest’ brain! Big Brain Academy includes five fun categories of game – Think, Memorise, Analyse, Compute and Examine – which each test a different skill! Complete the tests to receive your ‘brain weight’ score, then keep on exercising your mind in the Practice mode, to work those areas where it might need improvement. You can see what kind of profession is best suited to your brain, and even find out if you match up with a famous historical person!"
+}

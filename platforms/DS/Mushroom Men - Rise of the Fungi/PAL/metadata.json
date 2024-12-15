@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Mushroom Men - Rise of the Fungi",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "March 20, 2009",
+	"serial_number": "CMRP",
+	"synopsis": "As night falls, a strange green glow can be seen in the skies. Larger and larger it grows, until the full extent of its source becomes apparent – an intergalactic meteor, spewing noxious green gas, and plummeting towards the earth’s surface!"
+}

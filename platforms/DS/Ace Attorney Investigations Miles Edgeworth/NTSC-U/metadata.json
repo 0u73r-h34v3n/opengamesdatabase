@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Capcom"],
+	"genres": ["Adventure", "Strategy"],
+	"name": "Ace Attorney Investigations: Miles Edgeworth",
+	"publishers": ["Capcom"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "February 16, 2010",
+	"serial_number": "C32E",
+	"synopsis": "Want to prove you've got what it takes to solve a crime? Think you've got sleuthing chops? Then check out Ace Attorney Investigations: Miles Edgeworth and be the one who works out whodunnit in a series of intriguing new cases."
+}

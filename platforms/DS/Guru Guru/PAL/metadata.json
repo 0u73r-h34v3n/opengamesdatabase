@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["BeeWorks"],
+	"genres": ["Action", "Sports"],
+	"name": "Guru Guru",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 30, 2007",
+	"serial_number": "AGRP",
+	"synopsis": "In this comical action game players take control of Straw, an apprentice witch. As you work your way through the game's 2D stages, you make use of \"Familiars\", white-coloured, three-tiered characters who can apparently understand human beings. Familiars substitutes for a ball in the game, and you work your way through the stages by throwing them around!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Team Ninja"],
+	"genres": ["Action"],
+	"locales": ["DE"],
+	"name": "Ninja Gaiden - Dragon Sword",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "June 27, 2008",
+	"serial_number": "YNGP",
+	"synopsis": "Step into the shoes of a martial arts master and battle to save the world from eternal darkness in Ninja Gaiden Dragon Sword."
+}

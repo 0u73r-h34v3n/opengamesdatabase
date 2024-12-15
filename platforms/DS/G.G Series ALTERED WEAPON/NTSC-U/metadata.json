@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES", "PT"],
+	"name": "G.G Series ALTERED WEAPON",
+	"publishers": ["Genterprise"],
+	"release_date": "June 4, 2015",
+	"serial_number": "K2ZE",
+	"synopsis": "Change from vehicle to robot and back while fending off enemy machines. Infiltrate deep into enemy robot factories. While in robot form use your jumping boost rocket to reach high places with the ability to angle your fire in different directions with your machine gun. When in vehicle mode, use the long range cannon to deal heavy damage from afar and high speed driving to jump across wide obstacles. Avoid enemy fire and collect health items throughout each stage to survive in order to defeat a powerful boss at the end of each stage. Unleash the power of the Altered Weapon!"
+}

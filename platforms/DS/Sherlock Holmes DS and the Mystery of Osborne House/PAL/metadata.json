@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Frogwares"],
+	"genres": ["Adventure", "Point-And-Click", "Puzzle"],
+	"name": "Sherlock Holmes DS and the Mystery of Osborne House",
+	"publishers": ["Focus Home Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 25, 2010",
+	"serial_number": "B46P",
+	"synopsis": "In this brand new big adventure, especially designed for Nintendo DS, you play as the famous detective Sherlock Holmes and you will have to shed some light on curious events."
+}

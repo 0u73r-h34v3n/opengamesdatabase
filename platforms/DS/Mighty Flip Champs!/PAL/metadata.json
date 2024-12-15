@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward Technologies"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mighty Flip Champs!",
+	"publishers": ["WayForward Technologies"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 27, 2009",
+	"serial_number": "KMGV",
+	"synopsis": "Are you ready to become a Mighty Flip Champ? Take control of Alta, and Page Flip through a series of action packed mazes! The Touch Screen reflects a preview of the next chamber, and shows Alta's projected destination within it. When it's time to flip, use Alta's Magical Warp Wand to replace her world with the next one. Will she land safely on solid ground, or be crushed under it? By cycling endlessly through room after brain busting room, you'll match wits with some of the most devious traps in puzzle/platforming history!"
+}

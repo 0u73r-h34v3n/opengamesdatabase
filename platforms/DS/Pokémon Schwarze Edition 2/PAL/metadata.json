@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing", "Strategy"],
+	"locales": ["DE"],
+	"name": "Pokémon Schwarze Edition 2",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 12, 2012",
+	"serial_number": "IRED",
+	"synopsis": "Tauche mit Pokémon Schwarze Edition 2 für Nintendo DS noch tiefer als zuvor in die Welt der Pokémon ein!"
+}

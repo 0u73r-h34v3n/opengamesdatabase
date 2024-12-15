@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["505 Games"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "Galactik Football",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 1, 2009",
+	"serial_number": "CXKP",
+	"synopsis": "The most important soccer championship in the galaxy has begun! Control the power of Flux to perform stunts, super moves and the most incredible tricks. Train the Snow Kids and try to lift the champion cup!"
+}

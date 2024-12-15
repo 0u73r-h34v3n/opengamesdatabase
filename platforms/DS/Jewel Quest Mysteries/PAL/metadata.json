@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Compilation", "Puzzle"],
+	"name": "Jewel Quest Mysteries",
+	"publishers": ["Inc.", "iWin"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 13, 2011",
+	"serial_number": "BJYX",
+	"synopsis": "Contains both Jewel Quest Mysteries and Mysteryville - 2 great hidden objects games in 1! In Jewel Quest Mysteries, follow Rupert and Emmas efforts to reassemble the original set of Jewel Board jewels. Each game will set the player on a world-hopping adventure, uncovering the story of each jewels place in history along the way."
+}

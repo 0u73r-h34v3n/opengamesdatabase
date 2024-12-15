@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Ubisoft Quebec"],
+	"genres": ["Arcade", "Sports", "Surfing"],
+	"locales": ["ES"],
+	"name": "Surf's Up",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 3, 2007",
+	"serial_number": "AXUX",
+	"synopsis": "Surf's Up is an exciting arcade surfing and extreme sports video game. The action is set at the annual \"Reggie Belafonte Big Z Memorial Surf Off,\" where surfers from around the world are ready to risk it all for glory."
+}

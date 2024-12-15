@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Action", "Adventure"],
+	"name": "悪魔城ドラキュラ ギャラリーオブラビリンス",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "November 16, 2006",
+	"serial_number": "ACBJ",
+	"synopsis": "From the makers of the acclaimed Dawn of Sorrow comes a brand new Castlevania adventure for Nintendo DS in which you take control of two new characters in a thrilling undead-slashing adventure set in World War II."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Epics"],
+	"genres": ["Real-Time Strategy", "Strategy"],
+	"name": "Digimon World Championship",
+	"publishers": ["Namco Bandai Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "August 26, 2008",
+	"serial_number": "YDIE",
+	"synopsis": "A legendary Digimon tournament has just been announced! As a new Digimon Tamer, you must explore the Digital World to hunt down and capture the strongest Digimon in the wild."
+}

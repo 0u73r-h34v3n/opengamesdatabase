@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Fall Line Studio"],
+	"genres": ["Role-Playing"],
+	"name": "ナルニア国物語 第2章 カスピアン王子の角笛",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "May 22, 2008",
+	"serial_number": "YQNJ",
+	"synopsis": "Return to the magical land of Narnia and join the fight to restore peace in The Chronicles of Narnia: Prince Caspian for Nintendo DS. Capturing the sense of adventure and drama of the blockbuster movie and original C.S."
+}

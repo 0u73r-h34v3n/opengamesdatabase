@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["rokapublish"],
+	"genres": ["Puzzle"],
+	"name": "Jewel Link: Atlantic Quest",
+	"publishers": ["Easy Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 6, 2012",
+	"serial_number": "B6QZ",
+	"synopsis": "Immerse yourself in the kingdom of the seas and help free the ocean's inhabitants from an oil spill."
+}

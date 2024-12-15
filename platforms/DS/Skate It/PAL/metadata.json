@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Exient Entertainment"],
+	"genres": ["Skateboarding", "Sports"],
+	"name": "Skate It",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CSVP",
+	"synopsis": "Hit the streets and sample skateboarding in an entirely new way with Skate It for Nintendo DS"
+}

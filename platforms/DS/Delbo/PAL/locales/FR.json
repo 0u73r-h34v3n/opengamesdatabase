@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Delbo",
+	"synopsis": "Delbo est un jeu de réflexion où le joueur tire des orbes depuis le bas de l'écran pour toucher les orbes descendant depuis le haut de l'écran. Lorsque la couleur des orbes descendant est la même que celle de l'orbe lancé, ils se raccordent pour s'anéantir. Facile à jouer, mais difficile à maîtriser. Texte écran en français."
+}

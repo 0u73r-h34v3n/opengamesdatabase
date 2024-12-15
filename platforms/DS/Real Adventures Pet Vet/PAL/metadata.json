@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["FrontLine Studios"],
+	"genres": ["Business Simulation", "Simulation", "Virtual Pet"],
+	"name": "Real Adventures: Pet Vet",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 19, 2007",
+	"serial_number": "YPZY",
+	"synopsis": "In Real Adventures: Pet Vet, players will learn the techniques required to diagnose and treat 23 different lovable pets, including a Yorkshire terrier, turtle, parakeet, rabbit and hamster. To do so, players must successfully administer more than 40 Touch Screen tests while interacting with stressed patients and concerned pet owners."
+}

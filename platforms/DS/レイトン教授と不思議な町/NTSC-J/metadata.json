@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Puzzle"],
+	"name": "レイトン教授と不思議な町",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "February 15, 2007",
+	"serial_number": "A5FJ",
+	"synopsis": "Put your puzzle-solving prowess to the test and play detective in an adventure where only successfully solving brainteasers will enable you to crack the case!"
+}

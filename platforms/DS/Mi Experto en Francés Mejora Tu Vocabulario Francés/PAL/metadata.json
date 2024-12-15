@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["ES"],
+	"name": "Mi Experto en Francés: Mejora Tu Vocabulario Francés",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "YIFS",
+	"synopsis": "¿Quieres pasar tus vacaciones en Francia pero no te defiendes con el idioma? ¿Necesitas mejorarlo para trabajar allí? Jugar a Mi Experto en Francés podrá ayudarte."
+}

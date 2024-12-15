@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Action", "Platformer"],
+	"name": "Cats & Dogs: The Revenge of Kitty Galore - The Videogame",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 23, 2010",
+	"serial_number": "BD3P",
+	"synopsis": "In Cats & Dogs: The Revenge of Kitty Galore, players fight Kitty Galore's agents of evil to save the day and send the bad guys packing."
+}

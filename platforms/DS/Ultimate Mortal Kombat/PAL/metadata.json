@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Other Ocean Interactive"],
+	"genres": ["Action", "Fighting"],
+	"name": "Ultimate Mortal Kombat",
+	"publishers": ["Midway Games", "Tradewest"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "18"
+		}
+	],
+	"release_date": "December 7, 2007",
+	"serial_number": "YUTP",
+	"synopsis": "Ultimate Mortal Kombat combines the visceral thrills of Ultimate Mortal Kombat 3 and the addictive puzzle action of the Puzzle Kombat component of Mortal Kombat Deception in a single DS-friendly package. With new record-keeping capability, and multiplayer Nintendo Wi-Fi Connection, players will be able take UMK anywhere for fighting action on the go."
+}

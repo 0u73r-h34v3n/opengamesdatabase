@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Arcade", "Football", "Sports"],
+	"locales": ["ES", "FR"],
+	"name": "Street Football II",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 6, 2009",
+	"serial_number": "BSFP",
+	"synopsis": "The Blues are the reigning champions but qualification for the next World Cup is not won yet. especially after the departure of the very Tek&No! Fortunately. they are quickly replaced by two new players Jérémy and Samira. With the advice of Nicolas Anelka, help the new team to stay united and face tough fighters so that it retains its champion title."
+}

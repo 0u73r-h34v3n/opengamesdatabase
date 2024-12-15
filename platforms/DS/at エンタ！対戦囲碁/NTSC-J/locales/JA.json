@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "at エンタ！対戦囲碁",
+	"synopsis": "初心者～囲碁ファンまで、誰でも気軽に遊べる囲碁ゲームです。初心者の方には、最後の一手まで囲碁ゲームを楽しんでもらえるよう、対戦相手との実力差に合わせて対局前に【手合割（ハンディキャップ）】を決めることが出来ます。基盤の選択も、9路・13路・19路から選べます。その他、ダウンロードによる対戦機能も搭載していますので、仲間との対戦が容易に楽しめます。"
+}

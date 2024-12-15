@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Escape the Virus: Shoot'Em Up!",
+	"publishers": ["Teyon"],
+	"release_date": "August 16, 2012",
+	"serial_number": "KXSP",
+	"synopsis": "The battle for micro-world domination isn’t over yet! Escape the Virus, an action puzzle series, is back with new modes. In the 'shooter mode' shoot down hordes of vicious viruses, while in the 'territory mode' prevent enemies from getting too close to certain zones. Get into the ultimate warfare and kick viruses out of the micro-world for good!"
+}

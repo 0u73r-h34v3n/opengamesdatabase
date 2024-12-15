@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artematica"],
+	"genres": ["Arcade", "Football", "Sports"],
+	"locales": ["ES", "IT"],
+	"name": "Subbuteo",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 12, 2008",
+	"serial_number": "YSJP",
+	"synopsis": "Unleash your Finger Shot! The original board game has been faithfully recreated for your Nintendo DS system. With the Nintendo DS stylus, position your team on the pitch, attack, defend, pass and shoot."
+}

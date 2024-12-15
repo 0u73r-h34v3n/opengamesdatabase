@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cooking Mama Limited"],
+	"genres": ["Compilation", "Cooking", "Simulation"],
+	"locales": ["ES"],
+	"name": "Cooking Mama World: Combo Pack - Volume 1",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 5, 2012",
+	"serial_number": "TMCP",
+	"synopsis": "Cook with your friends on Nintendo DS in the hit cooking simulation Cooking Mama, which promises an enhanced gaming experience with more recipes, twice as many mini-games as the first instalment and new multiplayer modes to challenge other users. Cooking Mama 2 features 80 recipes, including some favourites from the first instalment, and the chance to design new dishes."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mindscape"],
+	"genres": ["Educational"],
+	"locales": ["FR"],
+	"name": "Les Incollables CM1-CM2",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 19, 2008",
+	"serial_number": "YEVF",
+	"synopsis": "Et-toi, es-tu incollable ? Active les neurones pour réussir le jeu de piste et progresser dans l'aventure !"
+}

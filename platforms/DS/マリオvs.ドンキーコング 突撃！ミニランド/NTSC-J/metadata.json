@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["NST"],
+	"genres": ["Puzzle"],
+	"locales": ["JA"],
+	"name": "マリオvs.ドンキーコング 突撃！ミニランド",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "December 2, 2010",
+	"serial_number": "V2GJ",
+	"synopsis": "Join Mario as he attempts to save Pauline in Mario vs. Donkey Kong: Mini-Land Mayhem!, a puzzle game only for the Nintendo DS. Guide the Mini Marios through challenging puzzle levels to the exit door - or make your own stages in the level editor!"
+}

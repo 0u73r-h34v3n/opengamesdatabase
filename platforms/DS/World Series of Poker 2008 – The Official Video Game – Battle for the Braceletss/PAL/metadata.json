@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Farmind Ltd"],
+	"genres": ["Cards", "Poker", "Simulation", "Traditional"],
+	"name": "World Series of Poker 2008: – The Official Video Game – Battle for the Braceletss",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "January 11, 2008",
+	"serial_number": "YWBP",
+	"synopsis": "In World Series of Poker 2008: Battle for the Bracelets, players challenge over 30 of the world's top poker champions. With intense heads-up tournament play, expansive poker tutorials, and strategy clips from Phil Hellmuth's Ultimate White to Black Belt Course, players can learn from the very best in the industry and take on all opponents in real-world locations such as Las Vegas and New Orleans."
+}

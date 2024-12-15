@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOSE"],
+	"genres": ["Flight Simulation", "Simulation"],
+	"name": "Disney Planes",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 8, 2014",
+	"serial_number": "TPDY",
+	"synopsis": "Take to the skies and continue the storyline beyond the film with Dusty and other characters from the film, including Ishani, voiced by actress Priyanka Chopra; Echo, voiced by actor Anthony Edwards; and Bravo, voiced by actor Val Kilmer, as they embark on global missions, air races and grand adventures around the world."
+}

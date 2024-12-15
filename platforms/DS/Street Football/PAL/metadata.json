@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Neko Entertainment"],
+	"genres": ["Arcade", "Football", "Sports"],
+	"name": "Street Football",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 16, 2008",
+	"serial_number": "YIGP",
+	"synopsis": "Enjoy the adventures of Tag, Brains, Eloise and the twins Tek and No who, in the streets of Port Marie, discover a brand-new way of playing soccer: Street Football! Bounce off walls and make good use of your surroundings to become the first Street Football World Champion ever!"
+}

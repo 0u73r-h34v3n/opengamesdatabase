@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["DynaComware"],
+	"genres": ["Puzzle"],
+	"locales": ["ES"],
+	"name": "Puyo Pop Fever",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 21, 2006",
+	"serial_number": "APYP",
+	"synopsis": "The Puyos are falling fast! These cute, multicoloured creatures with a huge head and adorable eyes that you have to match based on their colour to make them disappear."
+}

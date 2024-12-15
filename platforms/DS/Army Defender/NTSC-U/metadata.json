@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Kaolink"],
+	"genres": ["Action"],
+	"name": "Army Defender",
+	"publishers": ["Mindscape"],
+	"release_date": "December 7, 2009",
+	"serial_number": "KAYE",
+	"synopsis": "In ARMY DEFENDER, your mission is to defend your base against hordes of invading enemies. Use all the weapons at your disposal to survive as long as possible. Standing in your way are soldiers, tanks, parachute troops, combat helicopters, fighter planes, bombers and elite forces that will do everything in their power to stop you. If the situation becomes desperate, you can always fall back on the atomic bomb to blow away the enemy invasion! You have hours of gaming to look forward to."
+}

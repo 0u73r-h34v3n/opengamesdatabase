@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Full Fat"],
+	"genres": ["Life Simulation", "Simulation", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "The Sims 2: Apartment Pets",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 29, 2008",
+	"serial_number": "CAPP",
+	"synopsis": "Live in a pet-friendly apartment! Run your very own pet spa to groom and dress your pets."
+}

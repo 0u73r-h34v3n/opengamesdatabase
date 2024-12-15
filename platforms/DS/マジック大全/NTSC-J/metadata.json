@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"name": "マジック大全",
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "November 16, 2006",
+	"serial_number": "AJQJ",
+	"synopsis": "With Magic Made Fun: Perform Tricks That Will Amaze Your Friends on Nintendo DS, you will have the power to perform mind-boggling magic tricks in no time!"
+}

@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Mario Calculator",
+	"publishers": ["Nintendo"],
+	"release_date": "June 15, 2009",
+	"serial_number": "KWFE",
+	"synopsis": "Mario and Luigi take a break from their normal adventures to dedicate their heroic talents to working with numbers. Mario Calculator features the full functionality of a traditional calculator, including a Memory key and the ability to display up to 13 digits, and adds a layer of atmosphere reminiscent of the original Super Mario Bros. Use the Unit Converter to turn one unit of measure into another (such as length, weight, volume, age, and others), or track the history of calculations you’ve performed with ease. Listen to the Mario-related sounds and watch the coins fly as calculations are performed. Now to get back to adding up those high scores..."
+}

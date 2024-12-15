@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Other Ocean Interactive"],
+	"genres": ["Adventure"],
+	"locales": ["ES"],
+	"name": "CSI: Crime Scene Investigation: Deadly Intent - The Hidden Cases",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 30, 2009",
+	"serial_number": "BCIP",
+	"synopsis": "For the first time, join the new CSI team from Season 9 on your Nintendo DS to solve the 5 new cases written in collaboration with the show's writers."
+}

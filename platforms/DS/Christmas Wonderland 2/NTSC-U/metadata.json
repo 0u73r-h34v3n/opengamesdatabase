@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtual Playground"],
+	"genres": ["Puzzle"],
+	"name": "Christmas Wonderland 2",
+	"publishers": ["Microvalue"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "December 6, 2012",
+	"serial_number": "K2WE",
+	"synopsis": "It’s Christmas time and Santa’s Elves are working non-stop to get all the toys made in time. The Workshop is buzzing with activity and Wonderland is crammed full of fabulous toys, candy canes and Nativity characters. Santa must hurry to the Grotto in the Downtown Shopping Mall to see boys and girls before he flies around the World delivering all his presents. Meanwhile, Dan and Sally go shopping at the Mall before going home to put up the Christmas decorations. They can’t wait for Santa to come down their chimney ! Can you help Santa deliver all the toys in his amazing Winter Wonderland?"
+}

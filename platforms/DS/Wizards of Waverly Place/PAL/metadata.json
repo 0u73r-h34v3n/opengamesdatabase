@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "Wizards of Waverly Place",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 28, 2009",
+	"serial_number": "CY7P",
+	"synopsis": "Something strange is going on in New York City! Meet the Wizards of Waverly Place, the video game based on the hit Disney Channel TV series."
+}

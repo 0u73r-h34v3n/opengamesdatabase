@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"name": "My Pet Hotel 2",
+	"publishers": ["DTP Young Entertainment ", "Eidos Interactive"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2008",
+	"serial_number": "AQ2X",
+	"synopsis": "My Pet Hotel 2 is the refined pet care programme for demanding players. Owners of fish, budgies, guinea pigs, rabbits, cats, dogs, horses and their young will leave their animals with you and you will return them in excellent condition of course. The more success, the more opportunities!"
+}

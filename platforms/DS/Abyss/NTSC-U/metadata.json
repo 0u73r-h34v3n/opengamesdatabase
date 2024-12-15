@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Abyss",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "August 23, 2012",
+	"serial_number": "KXGE",
+	"synopsis": "Earth, 3024. Natural resources are scarce and the survival of the human race is in danger. Desperate to find new energy resources, the ASAN creates a biomechanical robot called Nep2no that is capable of withstanding extreme depths in the hope of finding new energy sources. After many years of exploration, a new energy source is found, code named \"Gaia\". Your mission will be to find the \"Gaia\" energy stones by exploring the depths. To do so, you must control Nep2no by counteracting gravity and the surrounding darkness with the aid of a Light that will go out little by little."
+}

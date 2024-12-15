@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo Software Technology"],
+	"genres": ["Drawing", "Health", "Software"],
+	"locales": ["ES"],
+	"name": "PictoChat",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "HNEA",
+	"synopsis": "PictoChat is software embedded in the operating system of the Nintendo DSi, Nintendo DS, and Nintendo DS Lite that allows users to enjoy simplified wireless chat features. There are four chat rooms (A through D) that can hold up to 16 players in each room."
+}

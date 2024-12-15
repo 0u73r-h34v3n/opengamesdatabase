@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["PopCap"],
+	"genres": ["Action", "Strategy", "Tower Defense"],
+	"locales": ["ES"],
+	"name": "Plants vs. Zombies",
+	"publishers": ["MSL", "PopCap Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "May 6, 2011",
+	"serial_number": "BWBY",
+	"synopsis": "Get ready to soil your plants in the zombie-zapping phenomenon from PopCap! A mob of fun-loving zombies is about to invade your home, and the only defence is your arsenal of home-guardin’ plants."
+}

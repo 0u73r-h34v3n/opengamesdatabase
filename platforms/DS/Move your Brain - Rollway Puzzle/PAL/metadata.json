@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "Move your Brain - Rollway Puzzle",
+	"publishers": ["Assoria"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "January 8, 2010",
+	"serial_number": "KMOP",
+	"synopsis": "Help the ball of \"Move your Brain - Rollway Puzzle\" to find the way out of each level! To do so, solve the riddles and use your dexterity to escape your enemies without falling. While playing, tilt the system to move the ball. Collect the gold coins to open certain passages, go onto a switch to set off the mechanisms..."
+}

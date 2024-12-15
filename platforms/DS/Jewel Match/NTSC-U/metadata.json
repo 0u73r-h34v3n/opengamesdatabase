@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Jewel Match",
+	"publishers": ["Joindots"],
+	"release_date": "May 8, 2014",
+	"serial_number": "K7FE",
+	"synopsis": "A classical Match 3 game! Jewel Match challenges you with 150 smart levels! Create rows of three identical diamonds quickly and cunningly to burst them on both screens. All gold tiles disappear until the level has been won. Powerfully break out extras, use the hammer for difficult situations to smash the diamonds or create a magic storm by puffing into the microphone! 150 challenging levels across both screens Three game modes: relaxed, play out and two players Great extras with microphone support"
+}

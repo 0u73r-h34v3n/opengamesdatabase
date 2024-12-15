@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games"],
+	"genres": ["Puzzle"],
+	"name": "Bejeweled Twist",
+	"publishers": ["PopCap Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 25, 2011",
+	"serial_number": "KBEV",
+	"synopsis": "A brilliant new spin on the world’s #1 puzzle game!Spin, match, explode… wow! It’s a brilliant new way to play! Spin and match explosive gems for shockwaves of fun in this quick-play version of the award-winning PopCap game. Rotate jewels to set up electrifying combos, overcome obstacles like Locks and Bombs, and create high-voltage Flame and Lightning gems.Play the intensely fun Classic mode or take on a friend in the new 2 player Battle mode! No matter how you play, you’ll find endless ways to win!"
+}

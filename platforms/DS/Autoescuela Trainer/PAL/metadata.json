@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Firehazard Studio"],
+	"genres": ["Educational", "Trivia"],
+	"locales": ["ES"],
+	"name": "Autoescuela Trainer",
+	"publishers": ["bhv Software"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 24, 2008",
+	"serial_number": "CAWS",
+	"synopsis": "Autoescuela Trainer es un entrenador creado para conseguir una completa preparación de cara a aprobar el examen de conducir clase B, ¡y tiene la ventaja de que puedes ejercitarte allá donde estés porque es tan móvil como tu Nintendo DS!"
+}

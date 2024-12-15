@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami Computer Entertainment Hawaii"],
+	"genres": ["Role-Playing"],
+	"locales": ["JA"],
+	"name": "サバイバルキッズ～LOST in BLUE～",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "August 25, 2005",
+	"serial_number": "ASKJ",
+	"synopsis": "A mysterious island; a disastrous accident; a fight for survival! Lost in Blue is a role playing game where you'll need to work hard just to stay alive."
+}

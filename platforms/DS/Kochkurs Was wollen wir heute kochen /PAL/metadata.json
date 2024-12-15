@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD", "indieszero"],
+	"genres": ["Coaching", "Cooking", "Health"],
+	"locales": ["DE"],
+	"name": "Kochkurs: Was wollen wir heute kochen?",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 20, 2008",
+	"serial_number": "CNVD",
+	"synopsis": "Bringen Sie die Herdplatten mit \"Kochkurs: Was wollen wir heute kochen?\" für Nintendo DS zum Glühen! Mit hunderten Rezepten aus der ganzen Welt, umfassenden Details über die Zubereitung jedes Gerichts und einer Menge an interessanten Extras, ist \"Kochkurs\" viel mehr als nur ein Kochbuch. Es ist Ihr persönlicher Koch-Assistent!"
+}

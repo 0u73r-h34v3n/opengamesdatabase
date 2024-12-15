@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konsmi"],
+	"genres": ["Football", "Sports"],
+	"locales": ["ES"],
+	"name": "Pro Evolution Soccer 2008",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 28, 2008",
+	"serial_number": "YW8P",
+	"synopsis": "Select your favourite side from among the world’s most famous club and international teams, then take to the pitch and show your opponent how the beautiful game got its name. Pro Evolution Soccer 2008 rewrites the rulebook on how football games are played by giving you the freedom to dictate the action on the pitch with unprecedented precision."
+}

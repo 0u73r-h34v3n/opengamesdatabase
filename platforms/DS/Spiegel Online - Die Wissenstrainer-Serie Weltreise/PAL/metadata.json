@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["The Games Company"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Spiegel Online - Die Wissenstrainer-Serie: Weltreise",
+	"publishers": ["The Games Company"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 10, 2009",
+	"serial_number": "BY5D",
+	"synopsis": "Das All-inclusive-Paket für Globetrotter! SPIEGEL ONLINE – Weltreise ist der kompakte Reisebegleiter, der alle wichtigen Aspekte rund um das Thema Reise in einem einzigen Spaßpaket vereint. Spielerisch vermittelt SPIEGEL ONLINE – Weltreise allen Reiselustigen geographisches und länderspezifisches Wissen – vom Kofferpacken bis hin zu Geheimtipps am Zielort. Und wer eine komplette Spielrunde fehlerfrei schafft, dem winken besondere Belohnungen!"
+}

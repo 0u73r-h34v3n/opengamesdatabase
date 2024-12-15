@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Adventure in Vegas Slot Machine",
+	"publishers": ["Gamelion"],
+	"release_date": "January 7, 2011",
+	"serial_number": "KVGV",
+	"synopsis": "Try your luck playing on three slot machines: Hawaii, Treasure and Hot. The one-armed bandits in \"Adventure in Vegas: Slot Machine\" are not only uniquely themed, but also have different special table features: the number of reels, extra buttons and winning sequences. End your around-the-world trip and risk the remainder of a small fortune and luxury possessions. All you can do in Las Vegas is go for it!"
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Griptonite Games", "Maxis"],
+	"genres": [
+		"Construction Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "Spore Creatures",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 5, 2008",
+	"serial_number": "YSPP",
+	"synopsis": "Create your own unique creature and guide it on an adventure to save the galaxy in Spore Creatures for Nintendo DS!"
+}

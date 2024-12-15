@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Artoon", "Mistwalker"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"name": "Away: Shuffle Dungeon",
+	"publishers": ["Virgin Play"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 10, 2009",
+	"serial_number": "YAWP",
+	"synopsis": "For over 100 years the people of Webb village have been mysteriously disappearing one by one. Two years ago, a young man named Sword came to the village looking to settle down."
+}

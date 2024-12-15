@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Amaze Entertainment"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "LEGO Star Wars II:  The Original Trilogy",
+	"publishers": ["LucasArts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2006",
+	"serial_number": "AL7P",
+	"synopsis": "Not long ago, in a galaxy not too far away, LEGO Star Wars: The Video Game became a cult game thanks to its humorous adaptation in which the Star Wars and LEGO universes are mixed."
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Cards", "Puzzle", "Traditional"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "24/7 Solitaire",
+	"publishers": ["GameOn"],
+	"release_date": "July 12, 2010",
+	"serial_number": "K4IE",
+	"synopsis": "24/7 Solitaire features 24 variations of the most well-known and best-loved single-player card games including Klondike, Freecell, Spider, Pyramid, Yukon and 7 versions of Peg-Solitaire. Most games have custom gameplay options so you can enjoy the game with your favorite rules. On-screen instructions allow learning of new Solitaire variations. Statistics are available for players who love to track their wins. Save the game status any time for later. The game's style and interface has been designed for easy intuitive operation with the stylus or the +Control Pad. Sit back and relax... Enjoy the endless challenge and fun with this Solitaire game collection."
+}

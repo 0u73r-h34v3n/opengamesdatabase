@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Vridge"],
+	"genres": ["Adventure", "Simulation"],
+	"name": "幕末恋華 新選組 DS",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "B"
+		}
+	],
+	"release_date": "November 27, 2008",
+	"serial_number": "CCGJ",
+	"synopsis": "Join the Shinsengumi as a woman soldier! Enjoy an original story based on historical events! Your story will change depending on which soldier you date!"
+}

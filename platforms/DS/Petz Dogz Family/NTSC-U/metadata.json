@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Petz Dogz Family",
+	"publishers": ["Ubisoft"],
+	"release_date": "August 2, 2010",
+	"serial_number": "KP2E",
+	"synopsis": "There’s a whole family of dogs you can adopt and love! Take care of them, discover their unique personalities, and teach them fun tricks! • Choose from favorite breeds like Golden Retrievers and Labradors. • Give your dogs the best care: feed them, groom them, and discover their individual personalities—some will be funny, others will be shy! • Engage in fun activities with your pups, including playing with a flying disc and running obstacle courses, to turn them into talented dogs!"
+}

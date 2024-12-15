@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Taniko"],
+	"genres": ["Action", "Compilation"],
+	"locales": ["ES"],
+	"name": "Retro Atari Classics",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "ATAP",
+	"synopsis": "Timeless gameplay, transcendent new graphics! Atari have drawn upon their back catalogue to produce an audacious selection of arcade originals, complete with brand new visuals conceived by top graffiti artists."
+}

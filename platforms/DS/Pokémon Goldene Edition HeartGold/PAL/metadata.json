@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Action", "Adventure", "Role-Playing", "Strategy"],
+	"locales": ["DE"],
+	"name": "Pokémon Goldene Edition HeartGold",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 26, 2010",
+	"serial_number": "IPKD",
+	"synopsis": "Mach dich auf ein umwerfendes Abenteuer in Pokémon Goldene Edition HeartGold und Pokémon Silberne Edition SoulSilver für den Nintendo DS gefasst! Spiele als Trainer (Junge oder Mädchen) und kämpfe dich mit deinen Pokémon durch die Johto-Region, um Champion zu werden!"
+}

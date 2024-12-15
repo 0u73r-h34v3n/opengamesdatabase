@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Powerhead Games"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Catz 2",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 9, 2007",
+	"serial_number": "YC8P",
+	"synopsis": "Welcome back to the adorable world of Catz! In Catz 2, you can now pick your perfect pet companion from over 40 different breeds. Feed and play with her and pick out toys, accessories and even little outfits to make your cutie even cuter!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["SouthPeak Games"],
+	"genres": ["Arcade", "Racing"],
+	"name": "Pocoyo Racing",
+	"publishers": ["Zinkia Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 22, 2011",
+	"serial_number": "BPSP",
+	"synopsis": "Have fun with Pocoyo and his friends in exciting and challenging races! Includes multiplayer mode for 4 players!"
+}

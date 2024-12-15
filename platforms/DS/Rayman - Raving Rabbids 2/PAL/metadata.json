@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Party"],
+	"name": "Rayman - Raving Rabbids 2",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 29, 2007",
+	"serial_number": "YRRP",
+	"synopsis": "If you thought the Rabbids were hopping mad the first time they cut loose, prepare to see their insanity hitting new heights! The bunnies are back and this time they have their sights set on taking over earth!"
+}

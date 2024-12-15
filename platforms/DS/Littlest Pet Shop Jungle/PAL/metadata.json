@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Electronic Arts", "Hasbro"],
+	"genres": ["Life Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Littlest Pet Shop: Jungle",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 17, 2008",
+	"serial_number": "CPJP",
+	"synopsis": "Littlest Pet Shop brings the magic of owning your own pet shop to your home. EA brings the quirkiness and cuteness of the popular Hasbro girl-s brand to life in a new digital world. Players can explore three unique environments as they unlock new pets, playsets, accessories, and more."
+}

@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Cat Daddy Games"],
+	"genres": ["Arcade", "Party"],
+	"name": "New Carnival Funfair Games",
+	"publishers": [
+		"GameTek",
+		"Global Star Software",
+		"Rockstar Games",
+		"Take-Two Interactive"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2010",
+	"serial_number": "VC2V",
+	"synopsis": "Here's your ticket to over 30 all-new games and attractions! Bring home the midway magic with favorites like Fish Bowl Bounce, Pitch-A-Plate and Bottle Stand-Up. Enter the Haunted House if you dare and even bound around in Bumper Cars. With over 300 prizes yours for the winning...the fun never ends with New Carnival Games!"
+}

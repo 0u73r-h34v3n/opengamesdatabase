@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Gaia´s Moon",
+	"publishers": ["EnjoyUp Games"],
+	"release_date": "February 9, 2012",
+	"serial_number": "KKGP",
+	"synopsis": "Something strange is causing changes to the balance of energy in Gaia that is necessary to prolong life. To discover the cause, you must play the role of Atreyu and his magical cane Milo, whose help you will need to be able to fly. But be very careful! The whole planet has gone mad and out of control; existential chaos may ensue."
+}

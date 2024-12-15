@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Educational"],
+	"locales": ["FR"],
+	"name": "Go, Diego, Go! Safari Rescue",
+	"publishers": [
+		"GameTek",
+		"Global Star Software",
+		"Rockstar Games",
+		"Take-Two Interactive"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 3, 2008",
+	"serial_number": "YEQY",
+	"synopsis": "Travel through time with Diego and Baby Jaguar to help Maia the Maiasaura find her way back to her family in this amazing rescue adventure. You’ll have to climb rock walls, travel along monkey bars, solve puzzles and even jump on a pogo stick to help Diego’s friend find her way home on this prehistoric journey."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Visual Impact"],
+	"genres": ["Action"],
+	"name": "System Flaw Recruit",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "April 26, 2010",
+	"serial_number": "KSYE",
+	"synopsis": "This innovative action shooter uses the camera to turn your surroundings into the playing environment! Truly unique and totally physical, with 12 action levels and 360 degrees of intensity, 'Flaw' is the future of handheld gaming excitement.You have been chosen to take part in this most arduous training programme to combat the threat we call the \"Flaw\".Please note that elements of this software may have been featured in previously released software."
+}

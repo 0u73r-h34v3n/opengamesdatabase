@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nippon Ichi Software"],
+	"genres": ["Role-Playing", "Strategy", "Strategy Rpg", "Tactical Rpg"],
+	"name": "Disgaea DS",
+	"publishers": ["Nippon Ichi Software America"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "September 23, 2008",
+	"serial_number": "CDGE",
+	"synopsis": "Laharl, just woken from a two]year long nap and finds out that his father, who was the king, has passed away. In order to regain his rightful title as King of the Netherworld, Laharl sets off on a demonic adventure, but must do so with a back stabbing servant, love stupid angel, and a few disgruntled penguins who are looking for trouble."
+}

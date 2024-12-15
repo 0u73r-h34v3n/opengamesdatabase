@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Puzzle"],
+	"name": "Real Crimes: The Unicorn Killer",
+	"publishers": ["Engine Software", "MSL"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 30, 2011",
+	"serial_number": "BY6P",
+	"synopsis": "Help rookie FBI Agent Jennifer Lourdes, and veteran detective Alan Michaels catch the infamous Unicorn Killer!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["DC Studios"],
+	"genres": ["Action", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Code Lyoko",
+	"publishers": ["The Game Factory"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "AL5P",
+	"synopsis": "Embark on an epic journey that seamlessly blends action and RPG elements in \"Code Lyoko\" for Nintendo DS. Step into the shoes of Jeremy, Aelita, Ulrich, Odd, and Yumi as they grapple with both high school drama and the digital universe of Lyoko. In this captivating action RPG, players will wield the power of the Supercomputer to explore Lyoko's expansive landscapes, tackle intricate puzzles, and engage in thrilling battles against menacing computer viruses. Team up with your favorite Lyoko heroes, harness their special abilities, and delve into the enigmatic depths of the Digital Sea. With its gripping narrative, striking visuals, and authentic character interactions. Prepare to save both the virtual and real worlds, one action-packed battle at a time!"
+}

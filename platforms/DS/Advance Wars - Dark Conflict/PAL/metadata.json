@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Intelligent Systems"],
+	"genres": ["Strategy"],
+	"locales": ["DE"],
+	"name": "Advance Wars - Dark Conflict",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "January 25, 2008",
+	"serial_number": "YW2P",
+	"synopsis": "New COs Take Control The Commanding Officers (COs) of the previous Advance Wars sagas met the same fate as most of the world’s population in the cataclysmic events that directly preceded Advance Wars: Dark Conflict."
+}

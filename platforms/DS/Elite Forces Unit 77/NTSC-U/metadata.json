@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Shooter", "Strategy"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Elite Forces: Unit 77",
+	"publishers": ["Gammick Entertainment"],
+	"release_date": "December 15, 2011",
+	"serial_number": "K42E",
+	"synopsis": "A new and improved version, now with the Multiplayer function. Elite Forces: Unit 77 is an action game with basic tactical elements. Drive armored trucks and tanks, defuse mines, locate explosives, and rescue hostages. Gather your forces into a crack squad when your enemies are threatening to overwhelm you or control a single game character based on the strategic requirements. Unit 77 is comprised of four specialists with different combat skills: *Bill Matic, the \"Hacker\" *Kendra Chase, the sniper *T. K. Richter, the explosives expert *Dag Hammer, the green beret Extra features: - 12 missions, 3 scenarios - Range of combat activities - Action for 1-4 players - Excellent game controls with the stylus"
+}

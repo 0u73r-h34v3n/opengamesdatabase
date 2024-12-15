@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "Kim Possible - Kimmunicator",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 1, 2006",
+	"serial_number": "AKPP",
+	"synopsis": "Mixing crime-fighting with cheerleading may be a tough job, but Kim Possible is up to the task! In Kim Possible: Kimmunicator, join Kim in this 3-D adventure that combines frantic action with a sense of humour. The dreaded Dr."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Empire Interactive"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"name": "Animal Paradise",
+	"publishers": ["Empire Interactive", "Xplosiv"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 16, 2007",
+	"serial_number": "A8DP",
+	"synopsis": "Feed, clean, walk and play with them, but above all make them happy to earn their love. This exciting title will thrill animal lovers of all ages with its exciting mix of pets, including everything from dogs and cats to hamsters and pigs."
+}

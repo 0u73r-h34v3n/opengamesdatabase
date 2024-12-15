@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ゲームロフト"],
+	"genres": ["Football", "Simulation", "Soccer", "Sports"],
+	"locales": ["JA"],
+	"name": "リアルサッカー2010",
+	"publishers": ["ゲームロフト"],
+	"ratings": [
+		{
+			"name": "CERO",
+			"rating": "A"
+		}
+	],
+	"release_date": "May 26, 2010",
+	"serial_number": "K3XJ",
+	"synopsis": "a.k.a. Real Soccer 2010 (NTSC-U), Real Football 2010 (PAL)"
+}

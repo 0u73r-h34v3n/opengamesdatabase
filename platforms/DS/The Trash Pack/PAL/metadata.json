@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Activision"],
+	"genres": ["Arcade"],
+	"name": "The Trash Pack",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 31, 2012",
+	"serial_number": "TPAP",
+	"synopsis": "Taking out the trash has never been so much FUN! Join your favorite Trashies in litter-loaded adventures of the grossest proportions! Whether youre flinging your Trashie friends into garbage cans or driving the Garbage Truck to collect falling waste, the jobs are always dirty, dingy and disgustingly fun!"
+}

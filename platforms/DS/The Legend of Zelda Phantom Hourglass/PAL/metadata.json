@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "The Legend of Zelda: Phantom Hourglass",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "October 19, 2007",
+	"serial_number": "AZEP",
+	"synopsis": "The epic story of The Legend of Zelda: The Wind Waker continues as Link finds himself lost and alone in unknown seas in a new adventure."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Goodbye Galaxy Games"],
+	"genres": ["Action", "Platformer", "Puzzle"],
+	"name": "Flipper",
+	"publishers": ["Xform"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "February 22, 2010",
+	"serial_number": "KFPE",
+	"synopsis": "The hero of the game is a courageous young boy. You must lead him through various worlds full of obstacles to retrieve his stolen goldfish called Flipper! Get ready for a 3D puzzle platform game set over 4 different worlds, with 5 levels each! The game features beautiful pixel-art backdrops, cheerful cartoon characters and catchy music. The voxel engine technology allows you to change the environment with some cool power-ups. You can find power-ups that let you blast holes in the environment, build platforms, or restore parts you've previously destroyed. It's up to you to use the limited amount of power-ups wisely to complete each level. Flipper is a fun and challenging puzzle game that is suitable for all ages."
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle", "Role-Playing", "Strategy"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "3 Heroes: Crystal Soul",
+	"publishers": ["CIRCLE Entertainment"],
+	"release_date": "January 5, 2012",
+	"serial_number": "K3YE",
+	"synopsis": "Crystennia is an ancient kingdom that uses Crystal Soul as its main energy source. The kingdom is facing the threat of monsters created by Rune Crystals. As the Crystal Champion, you must protect the kingdom by defeating monsters, and collect various kinds of natural energy released by them. Game Features: *Puzzle based gameplay featuring RPG elements *Utilize your strategic skills to destroy bosses in battle and dominate each terrain with easy to learn controls."
+}

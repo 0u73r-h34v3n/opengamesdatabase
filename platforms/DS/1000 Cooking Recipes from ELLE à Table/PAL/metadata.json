@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["AGENDA"],
+	"genres": ["Coaching", "Cooking", "Health", "Simulation"],
+	"locales": ["DE", "ES", "FR", "IT"],
+	"name": "1000 Cooking Recipes from ELLE à Table",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 2, 2010",
+	"serial_number": "VETP",
+	"synopsis": "If you're lacking inspiration in the kitchen or just want to try a little something new then 1000 Cooking Recipes from ELLE à table is going to be a culinary boon. Your tastebuds will be eternally grateful."
+}

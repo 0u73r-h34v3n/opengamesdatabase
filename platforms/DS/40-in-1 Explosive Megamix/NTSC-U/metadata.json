@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Arcade"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "40-in-1 Explosive Megamix",
+	"publishers": ["Nordcurrent"],
+	"release_date": "February 9, 2012",
+	"serial_number": "K45E",
+	"synopsis": "Do you like arcade games like puzzles, action, and shooting games? Then this is just what you have been waiting for! 40 games in one collection! Choose between classic games like sudoku, Match-3 and cooking games or try out new and completely original fun games in various genres. Amazing graphics and unique features will provide hours and hours of fun. What could be better? - 40 minigames in different genres - Amazing graphics and unique features - High-scores tables, unlockable games, and many extra features"
+}

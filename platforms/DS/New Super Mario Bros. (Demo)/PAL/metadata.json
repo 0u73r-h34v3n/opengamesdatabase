@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Action", "Demo", "Platformer"],
+	"name": "New Super Mario Bros. (Demo)",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 14, 2006",
+	"serial_number": "A85P",
+	"synopsis": "The first all-new 2D Mario platformer since Super Mario World has arrived!"
+}

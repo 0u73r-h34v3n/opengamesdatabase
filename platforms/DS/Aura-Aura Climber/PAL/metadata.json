@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo"],
+	"genres": ["Action"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Aura-Aura Climber",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 1, 2010",
+	"serial_number": "KSRV",
+	"synopsis": "Meet gaming's newest 'star'! Aura-Aura has fallen from the sky and landed on Earth, and only you can return him to his home in the heavens. Use Aura-Aura's grapple arm to swing from grapple points floating in the clouds and reach the highest possible altitude before the timer runs out. You'll find a variety of helpful items on your way up, such as grapple arm extensions and bombs that blast you upwards. Watch out for the many enemies and hazards, though, and try not to fall; it's a long way down! There are two play modes to choose from: Score Attack and Endless Mode. In Score Attack, your aim is to reach each goal with as many points as possible. In Endless Mode, you have to climb as high as you can within a set time limit. With gameplay that's simple yet satisfying, lots of medals to unlock and classic 'just one more go' replayability, Aura-Aura Climber will bring you to new heights of fun!"
+}

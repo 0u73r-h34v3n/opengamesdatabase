@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software", "Games Factory Online"],
+	"genres": ["Board Game", "Cards"],
+	"locales": ["DE"],
+	"name": "The Original Rummikub: Brings People Together",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 16, 2009",
+	"serial_number": "C4KX",
+	"synopsis": "You can play Rummikub, the classic family game on your Nintendo DS. For more over 30 years players have loved the combination of luck, tactical thinking and tense competition. Combine the titles to create the smartest combination!"
+}

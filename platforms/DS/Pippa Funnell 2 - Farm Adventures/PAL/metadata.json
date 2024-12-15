@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtual Toys"],
+	"genres": ["Simulation", "Sports", "Virtual Pet"],
+	"locales": ["ES"],
+	"name": "Pippa Funnell 2 - Farm Adventures",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 25, 2007",
+	"serial_number": "YHZP",
+	"synopsis": "Become a world champion horse trainer and save your friend’s ranch from closure in Pippa Funnell 2: Farm Adventures."
+}

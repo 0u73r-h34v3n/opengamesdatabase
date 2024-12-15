@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["KRITZELKRATZ 3000 GmbH"],
+	"genres": ["Adventure", "Fantasy"],
+	"locales": ["DE"],
+	"name": "The Magical Unicorn",
+	"publishers": ["Tivola", "Transposia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 18, 2007",
+	"serial_number": "YSAY",
+	"synopsis": "Join Sarah in a Magical Journey! Long, long ago, humans and unicorns lived at peace with one another. But soon evil would rise from the shadows as humans began hunting unicorns for their precious horns. The unicorns would soon disappear from the magical forest, never to return again"
+}

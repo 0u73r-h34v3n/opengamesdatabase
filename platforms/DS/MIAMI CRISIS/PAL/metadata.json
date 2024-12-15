@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft Co.", "Ltd."],
+	"genres": ["Action", "Adventure"],
+	"locales": ["DE", "ES", "FR", "IT", "NL"],
+	"name": "MIAMI CRISIS",
+	"publishers": ["Hudson Entertainment", "Hudson Soft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "September 25, 2009",
+	"serial_number": "YNKP",
+	"synopsis": "If you crave the moment where a hard-bitten cop slaps the cuffs on some parasitic scumbag, if you’re the kind of person won’t stop ‘til the felons are brought to justice -even if the Police Chief would take your gun and badge- then Miami has a crisis and it needs you to solve it!"
+}

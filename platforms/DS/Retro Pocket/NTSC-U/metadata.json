@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Retro Pocket",
+	"publishers": ["UFO Interactive"],
+	"release_date": "September 20, 2012",
+	"serial_number": "KXRE",
+	"synopsis": "Retro Pocket™ is a fun and exciting video game that brings you back to the glory days of LED handhelds! Discover eight all-original LED-style games such as Kung Fu Hero, Whale Escape, Mind Your Head, Candy Factory and more! Retro Pocket™ features Game A and Game B modes in all eight games for extra gameplay variations and more high scores to obtain. Aside from the retro visuals, an all-original retro-game-inspired soundtrack awaits your ears as well! UFO Interactive Games would like to welcome you (back) into the wonderful world of Retro Pocket™!"
+}

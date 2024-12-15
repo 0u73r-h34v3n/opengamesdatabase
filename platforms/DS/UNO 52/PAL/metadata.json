@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Cards", "Party", "Poker", "Strategy"],
+	"locales": ["ES"],
+	"name": "UNO 52",
+	"publishers": ["DSI Games", "ZOO Digital Publishing"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 23, 2007",
+	"serial_number": "AU5P",
+	"synopsis": "UNO meets Poker in this amazing card game for the Nintendo DS system. Four styles of Poker play, including Solitaire and Challenge, combined with 10 different background themes means that the fast-paced card fin nevera stops."
+}

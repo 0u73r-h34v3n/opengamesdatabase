@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Music on: Drums",
+	"publishers": ["Abylight"],
+	"release_date": "December 24, 2010",
+	"serial_number": "KQDV",
+	"synopsis": "The definitive beatbox for creating songs and rhythms! With a library of 160 sounds, use your creative skills to assign them to each of the 8 tracks available per pattern, activate or deactivate each of the 16 steps that make up a track using the buttons or the stylus, and combine the 8 patterns to compose up to 64 songs. Like a professional DJ, create and play in real time! \"Music on: Drums\" includes a pre-recorded Song."
+}

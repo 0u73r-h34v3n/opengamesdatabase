@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["WayForward"],
+	"genres": ["Action", "Adventure", "Shooter"],
+	"locales": ["DE", "ES"],
+	"name": "Aliens: Infestation",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "16"
+		}
+	],
+	"release_date": "September 30, 2011",
+	"serial_number": "B79P",
+	"synopsis": "Assemble a crack battalion of Colonial Marines and take the fight to the aliens in this thrilling new take on the side-scrolling 2D shooter."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing", "Strategy"],
+	"name": "포켓몬스터 - 블랙",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "GRB",
+			"rating": "ALL"
+		}
+	],
+	"release_date": "April 21, 2011",
+	"serial_number": "IRBK",
+	"synopsis": "The new Unova region is waiting - your task, to catch 'em all and become the best Pokémon Trainer you can! With over 150 new Pokémon to encounter, changing seasons and new connectivity modes, Pokémon Black Version offers a fresh challenge!"
+}

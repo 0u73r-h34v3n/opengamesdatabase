@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Hudson Soft"],
+	"genres": ["Action", "Adventure"],
+	"name": "Bomberman Land Touch!",
+	"publishers": ["Atlus USA"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 8, 2006",
+	"serial_number": "ABXE",
+	"synopsis": "Bomberman Land Touch! combines the classic multiplayer battling that Bomberman is famous for, plus a brand new touch-controlled adventure element made especially for Nintendo DS."
+}

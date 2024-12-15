@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Marvelous Entertainment"],
+	"genres": [
+		"Business Simulation",
+		"Management Simulation",
+		"Simulation",
+		"Strategy"
+	],
+	"name": "Harvest Moon DS: Sunshine Islands",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 3, 2010",
+	"serial_number": "YB3P",
+	"synopsis": "The islands are in peril! Years ago, a powerful earthquake struck the Sunshine Islands. In Harvest Moon: Sunshine Islands, it's up to the player to raise the sunken islands by finding the magical Sun Stones."
+}

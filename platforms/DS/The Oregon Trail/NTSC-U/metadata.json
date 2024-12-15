@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Simulation"],
+	"name": "The Oregon Trail",
+	"publishers": ["Gameloft"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "December 28, 2009",
+	"serial_number": "KORE",
+	"synopsis": "Your favorite pioneering adventure game takes you on an exciting, historic, side-scrolling adventure with your Nintendo DSi™ system. Take the Oregon Trail experience further than ever before with all of the decision-making and problem-solving fun of the original game plus additional challenges. Leave your mark on America's history. Take a picture of yourself at each landmark with the Nintendo DSi system's built-in camera. You'll have your portrait and party's name printed in the Daily Oregon Trail newspaper in the game. Play eight skill-based mini-games that will impact your resources: Hunting, Fishing, River Crossing, Rafting, Wagon Repairing, Telegraph, Berry Picking and Gold Panning. Random events faced by real pioneers - such as disease, bandits and hitchhikers - and side missions add more excitement to your westward trek."
+}

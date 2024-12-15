@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Oxygen Interactive"],
+	"genres": ["Life Simulation", "Management Simulation", "Simulation"],
+	"name": "My Dress-Up",
+	"publishers": ["Oxygen Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 11, 2008",
+	"serial_number": "CDUP",
+	"synopsis": "Create your own personal avatar and pick an event to attend and dress up for. Whether it’s a day on the beach, a day on the slopes or a night at a concert with friends, dress your avatar up for any occasion. You also get requests from your friends to dress them up for events or parties!"
+}

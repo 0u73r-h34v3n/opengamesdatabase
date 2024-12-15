@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo SPD"],
+	"genres": ["Educational", "Health", "Traditional"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Mario Calculator™",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 3, 2009",
+	"serial_number": "KWFV",
+	"synopsis": "Make maths more fun with this Mario-themed calculator! Simply use the Touch Screen to enter figures and make calculations, accompanied by classic Super Mario Bros. visuals and sounds. In addition to a fully-featured calculator, Mario Calculator also includes a unit converter for converting to and from a variety of different measurements such as weight, length, speed, temperature and more. You can even convert human years to and from animal years!"
+}

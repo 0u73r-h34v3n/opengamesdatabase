@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Where's Wally? Travel Pack 2",
+	"publishers": ["Ludia"],
+	"release_date": "September 3, 2010",
+	"serial_number": "KO2V",
+	"synopsis": "Based on the hit publishing series, Where's Wally? The Fantastic Journey Travel Pack 2 is the ultimate SEARCH & FIND FUN inside the magical worlds of The Nasty Nasties, The Fighting Foresters and The Deep-Sea Divers. Challenge friends or play solo as you search for hidden items, and be ready for surprises and sabotage to fuel the fun!"
+}

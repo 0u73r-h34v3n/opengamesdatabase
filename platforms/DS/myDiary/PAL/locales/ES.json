@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "myDiary",
+	"synopsis": "myDiary es una aplicación que convierte tu consola Nintendo DSi en un diario personal. Para utilizarlo, solo tienes que abrir la consola, tocar un día y escribir lo que quieras. También podrás configurar alarmas e incluso proteger tus notas con contraseña. Haz listas de tareas por hacer, ponte recordatorios para las fechas importantes ¡y disfruta de muchas más funciones! Además, puedes personalizar myDiary con distintos colores de tinta y doce temas que puedes desbloquear. Utiliza el lápiz para escribir o garabatear lo que quieras y usa la goma para borrar. Con myDiary, todo quedará muy bien organizado. Textos de pantalla en inglés."
+}

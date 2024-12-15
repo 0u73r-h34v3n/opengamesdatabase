@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Coaching", "Educational", "Health"],
+	"locales": ["DE"],
+	"name": "Mein Franzöesisch Coach: Verbessere Dein Franzöesisch",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 23, 2007",
+	"serial_number": "CFLX",
+	"synopsis": "Möchten Sie Ihren Urlaub in Frankreich verbringen, sprechen aber die Sprache nicht? Müssen Sie es verbessern, um dort zu funktionieren? Das Spielen von Mein Franzöesisch Coach kann Ihnen helfen."
+}

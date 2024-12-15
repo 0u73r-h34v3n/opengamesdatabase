@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "3D Space Tank",
+	"publishers": ["Nintendo"],
+	"release_date": "July 16, 2010",
+	"serial_number": "KDXV",
+	"synopsis": "Space year XXXX: humanity leaves Earth for the stars... A mere 20 years later, the oppressive Kiisan Empire, led by your former commander, is threatening galactic peace. Our last hope is VIXIV, a state-of-the-art space battle tank capable of all-range surface combat and interplanetary travel. Taking control of VIXIV, you must engage in daring land and aerial combat, in thrilling first-person view, and restore peace to the galaxy! With the help of your support bot, VIX-529, travel around the Kiisa System via high-speed interplanetary warp tunnels and take to the skies or planet surfaces in all-range sections. Use the radar to track enemies and to locate vital power crystals, which allow you to open new warp tunnels and explore new planets! Complete missions and side quests to increase your rank and gain powerful new weapons to assist you in your fight for freedom!"
+}

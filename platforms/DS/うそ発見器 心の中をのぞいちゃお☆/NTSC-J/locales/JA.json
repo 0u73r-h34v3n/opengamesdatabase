@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "うそ発見器 心の中をのぞいちゃお☆",
+	"synopsis": "質問に対する声の調子を検知して、心の動揺度を量って楽しむゲームです。 ゲーム内に登録されている質問の他に、自分で質問を作って登録したり、２人プレイ時には直接相手に質問して動揺度を量ることもできます。"
+}

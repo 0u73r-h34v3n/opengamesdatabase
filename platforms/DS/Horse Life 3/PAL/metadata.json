@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Life"],
+	"genres": ["Simulation", "Virtual Pet"],
+	"locales": ["FR"],
+	"name": "Horse Life 3",
+	"publishers": ["Deep Silver"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 2, 2010",
+	"serial_number": "BH3P",
+	"synopsis": "You play as the director of a stud farm and will have to take care of your horses as best you can in order to compete and obtain different prizes."
+}

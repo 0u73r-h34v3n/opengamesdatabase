@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ODENIS Studio"],
+	"genres": ["Action", "Strategy"],
+	"name": "Glory Days - Tactical Defense",
+	"publishers": ["ODENIS Studio"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "January 17, 2011",
+	"serial_number": "KGKE",
+	"synopsis": "TIME TO GET TOUGH! The howling sandstorms blaze across the barren plains.A violent storm is brewing on the horizon.Get ready to repel the waves of enemies amidst the finely orchestrated chaos.As the ground trembles, artillery is being massed in the distance.If you are outnumbered by the enemy, move your units to high ground for a strategic advantage.Use your AAA to shoot down enemy planes and fight off tanks with your guns, sink subs with your missile launchers and master the battlefield by using the \"Big One\".Expect your units to suffer losses under enemy fire! Repair and improve them because the show must go on.When the dust settles, you may have attained glory, even if the battle is lost. EXPERIENCE 3D COMBAT ACTION VERSATILITY, RESPONSIVENESS MORE INTENSE, MORE TACTICAL"
+}

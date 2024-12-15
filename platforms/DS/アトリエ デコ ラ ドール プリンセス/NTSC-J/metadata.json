@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["JA"],
+	"name": "アトリエ デコ ラ ドール プリンセス",
+	"publishers": ["スターフィッシュ･エスディ"],
+	"release_date": "April 27, 2011",
+	"serial_number": "K2SJ",
+	"synopsis": "a.k.a. Anne's Doll Studio: Princess Collection (NTSC-U, PAL)"
+}

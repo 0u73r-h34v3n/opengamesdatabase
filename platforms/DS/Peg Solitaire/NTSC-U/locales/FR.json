@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Peg Solitaire",
+	"synopsis": "Jeu de réflexion classique, Peg Solitaire est un jeu de plateau solo qui consiste à déplacer stratégiquement des fiches sur un plateau en forme de croix doté de 33 trous. Certains solitaires se jouent avec des billes sur un plateau à trous peu profonds. Au Royaume-Uni, ce jeu s'appelle tout simplement Solitaire et les jeux de cartes s'appellent Patience. Le jeu propose différents niveaux de difficulté pour permettre aux joueurs d'étudier les techniques de jeu étape par étape: • Niveaux Tutoriel (9 étapes) • Niveaux Facile (9 étapes) • Niveaux Normal (9 étapes) • Niveaux Difficile (9 étapes) • Niveaux Expert (5 étapes)"
+}

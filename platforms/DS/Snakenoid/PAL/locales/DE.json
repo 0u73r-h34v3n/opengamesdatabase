@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Snakenoid",
+	"synopsis": "Mit dem Touchpen lenkt der Spieler eine Schlange auf dem unteren Bildschirm und versucht, einen Ball zurückzuwerfen, um die Blöcke auf dem oberen Bildschirm zu zerstören. Gleichzeitig muss die Schlange allerdings auch Gegnern ausweichen und kann Extras einsammeln, die aus den zerstörten Blöcken fallen. Ziel des Spiels ist es, alle Level mit möglichst vielen Punkten abzuschließen. Englischer Bildschirmtext."
+}

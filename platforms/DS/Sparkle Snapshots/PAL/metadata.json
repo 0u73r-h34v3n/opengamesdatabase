@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Coaching", "Drawing", "Health", "Simulation"],
+	"name": "Sparkle Snapshots",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 25, 2009",
+	"serial_number": "KHDV",
+	"synopsis": "Have fun taking photos and letting your imagination run wild with Sparkle Snapshots! Snap photos with the cameras on your Nintendo DSi, then decorate your snapshots with all kinds of frames, backgrounds, stamps and fun fashion accessories – or use the various painting tools to touch up your photos in exquisite detail! You can also change the photo settings (such as lighting conditions and lens type) to suit your image, or even use the timer to get yourself in the picture too. When you’re done, don’t forget to save your favourite images to the Nintendo DSi Camera album to share via wireless communication – or even upload to Facebook!"
+}

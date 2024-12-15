@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action"],
+	"name": "スター・ウォーズ エピソード３ シスの復讐",
+	"publishers": ["Ubisoft"],
+	"release_date": "July 28, 2005",
+	"serial_number": "ASTJ",
+	"synopsis": "Light side or Dark? Obi-Wan or Anakin? Make your choice wisely, for it will dominate your destiny."
+}

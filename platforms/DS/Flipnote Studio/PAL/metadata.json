@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Drawing", "Educational", "Health", "Software"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Flipnote Studio",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "August 14, 2009",
+	"serial_number": "KGUV",
+	"synopsis": "Jot down your thoughts for the day or let your imagination run riot with a free Nintendo DSiWare application that lets you get creative on the go. Flipnote Studio acts both as an electronic notepad and a pocket-sized animation studio with which you can conjure your own animated “Flipnotes” before sharing them with your friends – or the rest of the world. If you simply want to write yourself a reminder note or record a vocal memo, the unique features of Nintendo DSi make it easy to do so via the Touch Screen and system microphone. With every Flipnote you create stored within an easy-to-access calendar, you’ll be able to keep track of your thoughts, ideas or tasks for the day wherever you are. But that’s not the whole picture! As every Flipnote you make can consist of multiple pages, Flipnote Studio places the power to create your own unique animations in your hands. Using a versatile range of tools on the Touch Screen, you’ll be able to let your imagination run riot before sharing your creations and viewing the work of others through the Flipnote Hatena website."
+}

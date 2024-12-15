@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Frontline Studios", "Nawia Games"],
+	"genres": ["Business Simulation", "Management Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "My Pet Zoo Vet",
+	"publishers": ["505 Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 25, 2008",
+	"serial_number": "CZVP",
+	"synopsis": "There is a whole zoo full of animals to care for in My Pet: Zoo Vet. From cuddly otters to dangerous lions, they all need your help. Treat poorly penguins, tigers with tummy aches and much more. There's never a dull moment in the life of a zoo vet."
+}

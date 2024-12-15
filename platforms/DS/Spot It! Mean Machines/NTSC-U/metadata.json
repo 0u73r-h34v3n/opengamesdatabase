@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Hidden Object", "Puzzle", "Strategy"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Spot It! Mean Machines",
+	"publishers": ["Big John Games"],
+	"release_date": "November 1, 2012",
+	"serial_number": "K2UE",
+	"synopsis": "In “Spot It! Mean Machines”, players race the clock to find the hidden objects in cleverly arranged scenes. The puzzles are based on the popular “Spot-It!” book series published by Capstone Press. See how many objects you can spot in 10 different puzzles. Vibrant graphics make spotting objects fun and challenging. Players use the stylus to tap on the hidden objects and also to navigate the extra large play areas. Use the new “Zoom Out” feature to get a big picture of the puzzle. Players can compete against their friends using the “Pass Around Play” feature. Up to four players can race to find 10 objects hidden within a puzzle. Each player has to spot the objects and then pass it on to the next player. See who can get the best score! Find objects fast to score the most points. Three levels of difficulty (Easy, Medium, and Insane) provide unlimited replay value."
+}

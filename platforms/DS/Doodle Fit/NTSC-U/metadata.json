@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "Doodle Fit",
+	"publishers": ["Gamelion"],
+	"release_date": "December 22, 2011",
+	"serial_number": "KKBE",
+	"synopsis": "Doodle Fit, the best-selling puzzle game, is finally here! Your task is simple: fit the given sets of blocks into given shapes. Drag the blocks inside and outside in search of the layout that covers the whole shape. A level is complete when all blocks have been used and there's no more space free in the shape. The game features over one hundred different levels with a variety of unique shapes to play with. There are almost 550 solutions in total, which means you can enjoy near unlimited replayability."
+}

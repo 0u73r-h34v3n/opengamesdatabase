@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Genterprise"],
+	"genres": ["Puzzle", "Strategy"],
+	"locales": ["ES", "PT"],
+	"name": "G.G Series HERO PUZZLE",
+	"publishers": ["Genterprise"],
+	"release_date": "June 4, 2015",
+	"serial_number": "K5EE",
+	"synopsis": "Vanquish monsters throughout the land in this fantasy puzzle game! Combining the elements of RPG and puzzle games, the player takes the role of the Hero to strive to combine falling icons together into three or more to attack foes. Unlock different kinds of icons and attacks after defeating enemies and take down powerful bosses awaiting at the end of each stage. If the situation is too dangerous, use your recovery item to destroy all enemy icons on screen. Using your puzzle, make your way to the end of your quest and rid the realm of evil!"
+}

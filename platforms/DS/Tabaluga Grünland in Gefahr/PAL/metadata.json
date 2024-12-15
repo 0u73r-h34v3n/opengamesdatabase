@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Rocket Science Games"],
+	"genres": ["Action", "Platformer"],
+	"locales": ["DE", "FR"],
+	"name": "Tabaluga: Grünland in Gefahr",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 4, 2008",
+	"serial_number": "YTQX",
+	"synopsis": "Arktos, der Herrscher der Eiswelt, ist fuchsteufelswild! Ein mutiger kleiner Baum in Grünland lehnt sich gegen ihn auf und hört trotz Kälte und Schnee nicht auf zu wachsen und zu sprießen. Vor lauter Wut reißt Arktos den armen kleinen Baum aus. Doch in dem Loch, das der entwurzelte Baum hinter- lassen hat, finden die Einwohner von Grünland ein Drachenei. Und bald darauf schlüpft aus dem Ei ein kleiner, grüner Drache. Sein Name ist Tabaluga und seine Bestimmung ist es, Grünland vor dem fürchterlichen Arktos zu retten! Ein großes Abenteuer wartet auf Tabaluga und seine Freunde."
+}

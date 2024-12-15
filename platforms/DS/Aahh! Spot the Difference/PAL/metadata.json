@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Aahh! Spot the Difference",
+	"publishers": ["Gamelion"],
+	"release_date": "March 22, 2012",
+	"serial_number": "KVSP",
+	"synopsis": "Complete 40 challenging levels in 4 unique scenarios by spotting the differences between the upper and lower screen. But you must be quick, as most of the objects and the camera are constantly moving. You can also test your skills in three additional modes: Survival, Speed Attack and Time Attack."
+}

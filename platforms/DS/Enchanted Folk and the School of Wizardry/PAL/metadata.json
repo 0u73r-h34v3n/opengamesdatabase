@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": [
+		"Adventure",
+		"Fantasy",
+		"Life Simulation",
+		"Role-Playing",
+		"Simulation"
+	],
+	"locales": ["ES"],
+	"name": "Enchanted Folk and the School of Wizardry",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 13, 2009",
+	"serial_number": "YNNP",
+	"synopsis": "School was never meant to be this much fun! Enrol as a new student at the Magic Academy and any lingering memories of dull lessons and boring homework will be banished forever."
+}

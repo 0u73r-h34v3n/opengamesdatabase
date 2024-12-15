@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["5th Cell"],
+	"genres": ["Action", "Drawing", "Platformer"],
+	"name": "Drawn to Life: The Next Chapter",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "October 27, 2009",
+	"serial_number": "BDRE",
+	"synopsis": "Drawn to Life: The Next Chapter is an action adventure where the world is built from your imagination! Draw your own hero and collect colour droplets to repaint the world of the Raposa people with colour!"
+}

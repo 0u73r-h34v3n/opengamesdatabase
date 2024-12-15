@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Educational"],
+	"name": "Tales to Enjoy! The Ugly Duckling",
+	"publishers": ["Enjoy Gaming"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 19, 2013",
+	"serial_number": "KZ8E",
+	"synopsis": "Each book is filled with features to entertain children while helping them to learn and stimulate their imagination. A series of interactive activities are based around the theme of the story about an ugly-looking duckling who tries to find his position in life while other animals are not as kind as they could be about his appearance. - An easy to use interface allows the youngest of children to navigate through choices as the entire interface is voice-over guided. - In one of the modes \"Tell your own tale,\" children can animate all objects in the story world and either tell the story or invent one of their own. - Increasing difficulty of the minigames - Interactive classic story - Voice-over guided interface and storytelling for the youngest children - Studio recorded voice over’s with professional actors"
+}

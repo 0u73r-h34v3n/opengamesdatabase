@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Platformer"],
+	"name": "Jump Trials",
+	"publishers": ["G-STYLE"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "November 15, 2012",
+	"serial_number": "KJPE",
+	"synopsis": "The popular platform game Jump Trials is finally making its way to American shores this Fall. Jump Trials is a platform game that will test your control skills to the limit. Run and jump as fast as you can across an obstacle course of platforms to reach the goal within a 10 second time limit. Each stage is a different challenge with obstacles including spikes, moving platforms and conveyor belts. Fail to reach the goal within 10 seconds or touch a spike and it's game over. There are two modes of play: Trials Mode and Challenge Mode. Trials Mode Test yourself over 100 stages. Starting from level 10, make your way up to level 1, completing 10 stages in each level. There is a 10 second time limit in each stage. Clear a stage by jumping on the goal switch before the time runs out. If you clear all 10 stages in a level you'll move up a level where you'll tackle more demanding stages. Challenge Mode In Challenge Mode you'll find three medals in each stage. The higher the value the more difficult it is to reach, starting with bronze, then silver then gold. See if you can reach all three medals and make it to the goal within the 10 second limit! You'll be awarded a bronze, silver or gold crown for each stage depending on how many medals you managed to collect. Do you have what it takes to get gold crowns on all 100 stages?"
+}

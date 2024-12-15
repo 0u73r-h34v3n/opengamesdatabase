@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Snakenoid Deluxe",
+	"synopsis": "Ce jeu est un savant mélange des grands classiques. Le joueur se sert du stylet pour contrôler un serpent sur l’écran inférieur et il essaie de l’utiliser pour faire rebondir la balle, détruisant ainsi les blocs sur l’écran supérieur. Les blocs sont assemblés de maniere différente a chaque niveau. Le serpent doit éviter ses ennemis et peut ramasser des bonus qui sortent des blocs détruits. Le but du jeu est de terminer tous les niveaux avec le plus de points possible. Le serpent contrôlé par le joueur est formé de segments souples reliés entre eux et qui font rebondir la balle."
+}

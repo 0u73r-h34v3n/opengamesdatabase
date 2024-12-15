@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tose"],
+	"genres": ["Action", "Adventure", "Puzzle", "Role-Playing"],
+	"name": "MySims Agents",
+	"publishers": ["Electronic Arts"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "September 29, 2009",
+	"serial_number": "C38E",
+	"synopsis": "Solve the mystery! Look for clues. Solve fantastic puzzles. Sharpen your skills with mini-games. In MySims Agents players take on the role of a special agent on a mission to uncover and foil the sinister plans of Morcubus, the corrupt CEO of MorcuCorp. Players will search for clues and solve cases across the city and far beyond as they piece together his nefarious plans."
+}

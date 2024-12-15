@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Suzak"],
+	"genres": ["Action", "Fighting"],
+	"name": "GO Series Fatal Blow",
+	"publishers": ["Gamebridge"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 5, 2010",
+	"serial_number": "KOGP",
+	"synopsis": "GO Series presents Fatal Blow from Suzak.Confront an evil army and save the day in this superhero fighting game. Each time you defeat an enemy with a Hero Attack, the Hero Gauge increases: use simple button commands to charge up the Hero Gauge and unleash powerful Superhero Attacks on your foes. Continue to land Hero Attacks to keep the Hero Gauge charged and perform a devastating chain of Superhero Attacks!"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Art Co. Ltd"],
+	"genres": ["Action", "Adventure"],
+	"name": "Coraline",
+	"publishers": ["D3 Publisher"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 27, 2009",
+	"serial_number": "CRLE",
+	"synopsis": "The only videogame based on the movie, Coraline will allow players to explore and interact with such immersive 3-D environments from the movie as the Pink Palace, with its nooks and crannies and apartments, and the unpredictable Other World. Players will engage in unique mini-games and adventures with Coraline’s friends Wybie and Cat as they collect items that will unlock the mysteries of the Other World."
+}

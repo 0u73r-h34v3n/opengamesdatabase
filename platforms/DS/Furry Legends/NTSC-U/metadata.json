@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure", "Platformer"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Furry Legends",
+	"publishers": ["Gamelion"],
+	"release_date": "October 13, 2011",
+	"serial_number": "K4RE",
+	"synopsis": "Furry Legends is a fantasy adventure game based on the WiiWare title of the same name. The environment and puzzles in Furry Legends are driven by real-time physics, featuring moving bridges, falling stones, rotating elevators, and much more. Experience the adventure rolling through furry lands, scary caves, evil pyramids, and even another dimension! Collect points, solve the puzzles, avoid death traps! Prepare to take on legions of evil Triangles and do battle in an ultimate boss fight. Jump into the world of Furry Legends! In the Furry Legends world, everything is a bit crazy!"
+}

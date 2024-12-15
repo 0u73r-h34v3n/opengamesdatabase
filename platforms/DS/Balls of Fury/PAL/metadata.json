@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Black Lantern Studios"],
+	"genres": ["Sports", "Table Tennis"],
+	"locales": ["ES"],
+	"name": "Balls of Fury",
+	"publishers": ["DSI Games", "ZOO Digital Publishing"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 19, 2007",
+	"serial_number": "YBLP",
+	"synopsis": "Welcome to the unsanctioned, underground world of ping-pong tournaments. Down-and-out former professional ping-pong phenom Randy Daytona is sucked into this maelstorm when FBI Agent Ernie Rodriguez recruits him for a secret mission. Randy is determined to bounce back and win, and to smoke out his father's killer -- arch fiend Feng."
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["KRITZELKRATZ 3000 GmbH"],
+	"genres": ["Educational"],
+	"locales": ["DE"],
+	"name": "Englisch Macht Spass: Eine Reise nach London!",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 29, 2008",
+	"serial_number": "CEQD",
+	"synopsis": "Willkommen in London! Hier macht Englischlernen Spaß!"
+}

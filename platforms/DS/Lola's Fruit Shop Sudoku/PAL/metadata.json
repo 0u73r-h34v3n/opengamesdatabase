@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Lola's Fruit Shop Sudoku",
+	"publishers": ["BeiZ"],
+	"release_date": "June 28, 2012",
+	"serial_number": "KOFP",
+	"synopsis": "Lola Panda does it again – making it fun to develop logical thinking! Now kids can enjoy the fun and challenge of Sudoku in a form especially designed for them. Lola’s Fruit Shop Sudoku game is playable even by 4 year old children, yet still challenging enough for 8-9 year old kids."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Keen Games"],
+	"genres": ["3d Platformer", "Action", "Platformer"],
+	"name": "G-Force",
+	"publishers": ["Buena Vista Games", "Disney Interactive Studios"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "July 31, 2009",
+	"serial_number": "CFAP",
+	"synopsis": "In G-Force we will get into the shoes of little Darwin, the leader of G-Force; as well as that of Mooch, the fly expert in surveillance and espionage. Darwin and Mooch, along with the rest of their G-Force companions, will use their high-tech equipment, their mastery in the art of infiltration, and their teamwork to save the world from the clutches of an ever-evil robotic army."
+}

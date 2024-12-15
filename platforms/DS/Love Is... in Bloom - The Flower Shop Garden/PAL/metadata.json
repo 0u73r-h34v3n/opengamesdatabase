@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["ZOO Digital Publishing"],
+	"genres": ["Business Simulation", "Simulation"],
+	"name": "Love Is... in Bloom - The Flower Shop Garden",
+	"publishers": ["ZOO Digital Publishing", "Zushi Games"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "April 9, 2009",
+	"serial_number": "CL3P",
+	"synopsis": "\"love is...\" follows a young couple's growing relationship while working together to create a successful florist business. Grow, nurture and collect flowers to sell in their shop, and make their love blossom!"
+}

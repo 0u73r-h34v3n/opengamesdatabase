@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["5th Cell"],
+	"genres": ["Strategy"],
+	"locales": ["DE", "ES"],
+	"name": "Lock's Quest",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "September 26, 2008",
+	"serial_number": "CSPP",
+	"synopsis": "Face the full force of a robot invasion and defend your kingdom using both brains and brawn in Lock’s Quest for Nintendo DS."
+}

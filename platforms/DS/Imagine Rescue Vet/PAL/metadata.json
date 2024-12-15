@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Lexis Numérique", "Ubisoft", "Virtual Toys"],
+	"genres": ["Business Simulation", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Rescue Vet",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "June 23, 2010",
+	"serial_number": "VPVV",
+	"synopsis": "Diagnose and treat a wide variety of animals that come through your hospital: dogs, cats, rabbits, foals, tiger cubs, pandas, even baby seals!"
+}

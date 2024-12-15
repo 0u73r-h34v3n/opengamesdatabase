@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Konami"],
+	"genres": ["Adventure", "Role-Playing"],
+	"name": "Eledees: The Adventures of Kai and Zero",
+	"publishers": ["Konami"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 20, 2009",
+	"serial_number": "YERP",
+	"synopsis": "Enter into an extraordinary game of hide and seek in this exciting sequel to Eledees! Kai and Zero have been swept off to a magical land and must finish the challenges ahead, to get back home."
+}

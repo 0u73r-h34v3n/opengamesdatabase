@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["THQ"],
+	"genres": ["Skateboarding", "Snowboarding", "Sports", "Surfing"],
+	"locales": ["ES"],
+	"name": "SpongeBob's Surf & Skate: Roadtrip",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 11, 2011",
+	"serial_number": "B6BP",
+	"synopsis": "Hit the sand and surf with SpongeBob and his best friend, Patrick, for some super boarding escapades! Ride mondo waves and winding waterways, and skate gnarly seaside streets and ramps for hours of challenges that'll test your awesome boarding skills."
+}

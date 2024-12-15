@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["n-Space"],
+	"genres": ["Action", "Arcade", "Shooter", "Third-Person Shooter"],
+	"locales": ["ES"],
+	"name": "Star Wars Battlefront: Elite Squadron",
+	"publishers": ["LucasArts"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "November 6, 2009",
+	"serial_number": "CSWX",
+	"synopsis": "Star Wars Battlefront is back and bigger than ever on the Nintendo DS!"
+}

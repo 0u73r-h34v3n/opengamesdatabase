@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Nintendo EAD"],
+	"genres": ["Health", "Music", "Rhythm"],
+	"locales": ["ES"],
+	"name": "Rhythm Paradise",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 29, 2009",
+	"serial_number": "YLZX",
+	"synopsis": "Have you got rhythm? Some people are born with it, others try to learn it and the rest just watch from the sidelines. Until now! Even people who reckon they have two left feet can tap along to the beat in the zaniest game this side of nirvana – it’s Rhythm Paradise on Nintendo DS!"
+}

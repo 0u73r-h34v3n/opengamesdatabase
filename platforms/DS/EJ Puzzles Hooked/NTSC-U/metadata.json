@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Puzzle"],
+	"name": "EJ Puzzles: Hooked",
+	"publishers": ["Electron Jump Games"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E"
+		}
+	],
+	"release_date": "January 10, 2011",
+	"serial_number": "KHWE",
+	"synopsis": "Can you catch all the fish? Take control of your fishing boat and search the waters for the freshest fish. Be careful to catch them in the right order. If you land a fish that's too big too soon, you'll break your line. The chef is waiting for your delivery, so get out there and catch all the fish you can. EJ Puzzles: Hooked is a brain teaser with a fishing theme. Search the waters with your fish scanner. If you find a fish you can't handle yet, mark its location with a marker buoy and come back later. Your goal is to catch all the fish on the map. There are many maps to play, and each map changes every time. Can you beat them all?"
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["TOSE"],
+	"genres": ["Board Game", "Cards", "Poker", "Simulation", "Strategy"],
+	"name": "SEGA Casino",
+	"publishers": ["Sega"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "18"
+		}
+	],
+	"release_date": "February 3, 2006",
+	"serial_number": "ACAP",
+	"synopsis": "SEGA Casino deals out plenty of gambling action for gamers on-the-go with a casino experience that features five games, and six unlockable games. Players can place their bets on SEGA Casino's Roulette, Craps, Baccarat, and other unlockable games, including Chuck-a-Luck, Keno, and three Video Poker variants (Jacks or Better, Double Bonus, and Deuces Wild)."
+}

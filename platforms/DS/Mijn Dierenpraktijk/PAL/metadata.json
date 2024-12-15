@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Independent Arts"],
+	"genres": ["Business Simulation", "Simulation", "Virtual Pet"],
+	"locales": ["NL"],
+	"name": "Mijn Dierenpraktijk",
+	"publishers": ["Mindscape"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 2, 2007",
+	"serial_number": "AQVY",
+	"synopsis": "Help je vriendjes op de been! Onderzoek je dierenpatiënten nauwkeurig, stel een diagnose en geef ze daarna de juiste behandeling. Vergroot de faam van je praktijk in je omgeving door het inzetten van reclameactiviteiten. Want hoe meer dierenpatiënten hoe sneller je jouw praktijk verder kunt uitbreiden met extra onderkomens voor de dieren."
+}

@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Jupiter Corporation"],
+	"genres": ["Role-Playing"],
+	"name": "The World Ends with You",
+	"publishers": ["Square Enix"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "T"
+		}
+	],
+	"release_date": "April 22, 2008",
+	"serial_number": "AWLE",
+	"synopsis": "It’s a race against the clock. A catastrophe of apocalyptic proportions is bearing down on Tokyo. Can you avert disaster or will the world meet its end?"
+}

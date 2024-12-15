@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Virtuos"],
+	"genres": ["Racing"],
+	"locales": ["ES"],
+	"name": "Super Star Kartz",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 18, 2011",
+	"serial_number": "BZAP",
+	"synopsis": "Race as your favourite DreamWorks Animation characters as they speed, jump, power-up and boost through wacky, wild and wondrous kart courses and compete to be the first to cross the finish line. Amazing stunts, awesome tricks and unique weaponry lets players outrace and outwit their opponents all while enjoying hilarious commentary by King Julien, the game’s announcer."
+}

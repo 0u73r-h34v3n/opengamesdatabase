@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Smack Down Productions"],
+	"genres": ["Simulation", "Sports", "Virtual Pet"],
+	"locales": ["DE"],
+	"name": "Riding Academy: The Deciding Tournament",
+	"publishers": ["DTP Young Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 4, 2008",
+	"serial_number": "CJXP",
+	"synopsis": "Ride Into Adventure! In Riding Academy, you step into the shoes of Pauline, a student at the nation's top riding school. Spend your summer days caring for your horse, training with the best coaches, and filling your shelf with trophies from renowned tournaments!"
+}

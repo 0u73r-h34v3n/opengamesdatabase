@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Jet Black Games"],
+	"genres": ["Business Simulation", "Drawing", "Simulation"],
+	"locales": ["ES"],
+	"name": "Imagine Artist",
+	"publishers": ["Ubisoft"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "October 16, 2009",
+	"serial_number": "VATV",
+	"synopsis": "Become a world famous artist! Learn to draw, paint and create collages through various fun mini-games and lessons."
+}

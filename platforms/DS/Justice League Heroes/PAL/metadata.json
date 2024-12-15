@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Sensory Sweep"],
+	"genres": ["Action", "Action Rpg", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Justice League Heroes",
+	"publishers": ["Warner Bros. Interactive Entertainment"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "December 8, 2006",
+	"serial_number": "AJLP",
+	"synopsis": "NO ONE ELSE IS IN THEIR LEAGUE! Play as the world's most powerful heroes, including SUPERMAN, BATMAN, the FLASH and WONDER WOMAN"
+}

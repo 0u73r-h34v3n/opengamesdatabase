@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Rainbow S.p.A."],
+	"genres": ["Adventure", "Music"],
+	"locales": ["ES"],
+	"name": "Winx Club: Rockstars",
+	"publishers": ["Namco Bandai Partners", "Rainbow S.p.A."],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 26, 2010",
+	"serial_number": "BW3P",
+	"synopsis": "Our fairy friends embark on a new kind of adventure, unleashing their magical talents on guitars and microphones, and unleashing their unique style on stage."
+}

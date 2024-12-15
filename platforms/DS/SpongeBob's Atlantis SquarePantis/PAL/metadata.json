@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Altron"],
+	"genres": ["Action", "Adventure"],
+	"locales": ["ES"],
+	"name": "SpongeBob's Atlantis SquarePantis",
+	"publishers": ["Play THQ", "THQ"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 29, 2008",
+	"serial_number": "AL3Y",
+	"synopsis": "Holy algae! SpongeBob and Patrick tumble upon the lost magical amulet that will take them to the legendary city of Atlantis."
+}

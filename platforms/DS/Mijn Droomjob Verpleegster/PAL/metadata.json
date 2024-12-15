@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Mobile Interactions Group"],
+	"genres": ["Business Simulation", "Puzzle", "Simulation"],
+	"locales": ["NL"],
+	"name": "Mijn Droomjob: Verpleegster",
+	"publishers": ["Atari (Infogrames)", "Transposia"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 21, 2008",
+	"serial_number": "CEEX",
+	"synopsis": "Marie heeft net haar verpleegsteropleiding afgewerkt en gaat nu in een ziekenhuis werken. Verzorg samen patiënten met uiteenlopende klachten : verzwikking, scherven in de arm, insectensteken, allergie, hartproblemen. Praat met de patiënten, luister goed naar hun problemen en kies de juiste geneesmiddelen en behandeling. Neem bijvoorbeeld röntgenfoto's en leg gipsverbanden. Leer alles over het menselijk lichaam, slaag voor de vier examens en word een echte verpleegster!"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["INTELLIGENT SYSTEMS"],
+	"genres": ["Puzzle"],
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "A Little Bit of... Puzzle League",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "July 17, 2009",
+	"serial_number": "KPNV",
+	"synopsis": "The ever-popular Puzzle League comes to Nintendo DSiWare! Like all good puzzlers, the concept is simple: connect blocks of the same colour to clear them from the screen, and prevent your stack from becoming too high. There are four single player modes to choose from: Endless (survive to earn a top score), Clear (eliminate all blocks above the line), Score Attack (score as high as possible in two minutes), and Vs. COM (use items and combos to attack a computer opponent). You can choose from a variety of background music to get you ‘in the zone’, and even play in horizontal or vertical mode, holding the Nintendo DSi normally or like a book. Whichever way you play, you’re guaranteed maximum fun! Please note that elements of this software may have been featured in previously released software."
+}

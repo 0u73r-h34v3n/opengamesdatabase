@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Adventure"],
+	"name": "Green Lantern - Rise of the Manhunters",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "June 10, 2011",
+	"serial_number": "BGIP",
+	"synopsis": "Green Lantern: Rise of the Manhunters is an action/adventure title from WB Games and Griptonite Games. Play as Hal Jordan, the first ever human Green Lantern, and take on hordes of android enemies with your power ring and your imagination alone!"
+}

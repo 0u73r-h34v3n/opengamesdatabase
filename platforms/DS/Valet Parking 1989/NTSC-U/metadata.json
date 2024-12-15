@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Racing"],
+	"name": "Valet Parking 1989",
+	"publishers": ["Zordix"],
+	"ratings": [
+		{
+			"name": "ESRB",
+			"rating": "E10+"
+		}
+	],
+	"release_date": "May 30, 2011",
+	"serial_number": "KVPE",
+	"synopsis": "Valet Parking 1989 combines fun driving with the humour and style of the late 80s. Park and deliver cars as fast as possible in this time management puzzle game. The setting is California where glamorous celebrities let you park their radical sports cars and luxurious limousines. Play the movie-like story mode to unlock levels for endless play. Earn money to buy a cool car and drive to the beach in style. Don't let the VIP guests wait any longer, get your waistcoat on and push the pedal to the metal!"
+}

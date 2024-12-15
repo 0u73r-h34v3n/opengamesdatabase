@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Art Style - BOXLIFE",
+	"publishers": ["Nintendo"],
+	"release_date": "July 10, 2009",
+	"serial_number": "KAHV",
+	"synopsis": "The Art Style series brings you unique, simple-to-play games with striking visuals and immersive sound. BOXLIFE is a unique puzzle game that involves building boxes as quickly and carefully as possible. Simply use the Touch Screen to cut and fold paper into shapes that make boxes when folded, using the stylus. In R&D Mode, discover the many different patterns that form boxes, and use them to cut and construct boxes against the clock. In Factory Mode, turn a profit by making as many boxes as you can in a set time, using an endless sheet of paper. But wasted paper means lost cash, and less to spend on items for your home. So you’d better box clever; you’ve got your work cut out!"
+}

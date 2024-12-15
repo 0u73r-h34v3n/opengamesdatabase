@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Tivola"],
+	"genres": ["Management Simulation", "Simulation", "Virtual Pet"],
+	"name": "Emily: My Dog Paradise",
+	"publishers": ["Atari (Infogrames)"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "December 17, 2008",
+	"serial_number": "YR6P",
+	"synopsis": "Make your dreams come true! Welcome to your very own puppy farm! Take care of your new four-legged guests by providing them with food, water and shelter and then get to know the dogs by playing with them. The better you carry out your tasks and run the business, the more popular your puppy farm will be!"
+}

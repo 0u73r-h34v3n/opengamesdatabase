@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Golf", "Sports"],
+	"name": "Tiger Woods PGA Tour",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 11, 2005",
+	"serial_number": "ATWP",
+	"synopsis": "Take to the tees on Nintendo DS! Play against pros like Vijay Singh, Jack Nicklaus and Tiger Woods himself – or tee off against your friends, with up to four players competing in a multiplayer game."
+}

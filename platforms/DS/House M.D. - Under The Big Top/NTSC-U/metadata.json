@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["ES", "FR", "PT"],
+	"name": "House M.D. - Under The Big Top",
+	"publishers": ["Legacy Interactive"],
+	"release_date": "December 1, 2011",
+	"serial_number": "KIJE",
+	"synopsis": "Whenever a patient is dying and no one can find any answers, the elite Diagnostic Medicine department at Princeton-Plainsboro Hospital must follow all leads to uncover the truth. Patients and family members lie to protect their own peculiar secrets, and sometimes the most unlikely clues can lead to answers. Dr. Gregory House and his team race to unravel an all-new medical mystery. A middle-aged circus manager is strangled by a horse, leading to a rash of unconnected symptoms. Track down the correct diagnosis by interviewing and examining the patient, running lab tests, and even performing surgery. Every piece of evidence reveals part of the solution, so careful observation and analysis is key. The clock is ticking, but be prepared for multiple twists and turns before you solve the case."
+}

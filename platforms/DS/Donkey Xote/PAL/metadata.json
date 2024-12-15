@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Revistronic"],
+	"genres": ["Arcade", "Party"],
+	"locales": ["ES"],
+	"name": "Donkey Xote",
+	"publishers": ["Virgin Play"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "November 14, 2008",
+	"serial_number": "YDXP",
+	"synopsis": "Get ready to party with Donkey Xote for Nintendo DS! Join Rucio the donkey and his friends in this hilarious and action-packed party game adventure!"
+}

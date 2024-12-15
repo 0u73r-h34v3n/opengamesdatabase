@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Game Freak"],
+	"genres": ["Adventure", "Role-Playing"],
+	"locales": ["ES"],
+	"name": "Pokémon Edición Platino",
+	"publishers": ["Nintendo"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "May 22, 2009",
+	"serial_number": "CPUS",
+	"synopsis": "Sinnoh espera la llegada de un héroe que lo salve del malévolo plan del Equipo Galaxia. En Pokémon Edición Platino para Nintendo DS, solo tú tienes el poder de arreglar una situación desesperada."
+}

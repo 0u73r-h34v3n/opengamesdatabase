@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Puzzle"],
+	"name": "Magic Encyclopedia 3: Illusions",
+	"publishers": ["Engine Software", "MSL"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "September 26, 2012",
+	"serial_number": "BNWP",
+	"synopsis": "What you see is not always what you get in Magic Encyclopedia 3: Illusions, a new hidden object adventure with an extra layer of visual trickery. When Catherine receives word of an attack on the Magic Academy, she sets out to save her school from a fate worse than foreclosure."
+}

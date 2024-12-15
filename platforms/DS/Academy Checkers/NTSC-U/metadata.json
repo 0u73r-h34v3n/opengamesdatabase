@@ -1,0 +1,10 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Board Game", "Traditional"],
+	"locales": ["ES", "FR", "PT"],
+	"name": "Academy Checkers",
+	"publishers": ["Gamelion"],
+	"release_date": "October 27, 2011",
+	"serial_number": "K4QE",
+	"synopsis": "The world’s most famous board game for two players is now joining our Academy. If there's no one around to compete with, there's no need to worry: skillful AI players will gladly play with you in two Checkers variants: English Checkers and International Draughts. And both of those variants are available in three different difficulty modes too! Compete in the League Mode if you want to try your hand at proving you're the Checkers Champ. Collect achievements and you will become a real Checkers Master!"
+}

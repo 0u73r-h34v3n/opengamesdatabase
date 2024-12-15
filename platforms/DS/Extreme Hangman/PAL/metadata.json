@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"locales": ["DE", "ES", "FR", "IT", "NL", "PT"],
+	"name": "Extreme Hangman",
+	"publishers": ["Gamelion"],
+	"release_date": "July 2, 2010",
+	"serial_number": "KEXV",
+	"synopsis": "There's never been a Hangman game like this before! Taking place in various settings, the gamer's mission is to save the Hangman from his enemies by guessing the hidden word correctly. By guessing incorrectly, he is put one step closer to being shot, strangled, erased, or hanged by his enemies. Play single game or challenge your friend to a duel. Extreme Hangman features 7 different fun animations, over 2000 words in various categories, and 3 difficulty levels."
+}

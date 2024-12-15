@@ -1,0 +1,5 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"name": "Absolute Chess",
+	"synopsis": "Ce jeu d’échecs simple à comprendre vous explique tout, des règles de base aux stratégies d’attaque qui vous permettront de progresser dans la partie. Il y a deux modes de jeu. En mode Free Play, vous pouvez jouer contre une gamme de personnages prédéfinis, d’un jeune enfant à un vieillard grincheux. Le mode Challenge offre aux joueurs des niveaux multiples et des missions à accomplir. Les fonctions d’assistance-joueur incluent un outil qui indique les déplacements possibles pour le joueur et son adversaire, ainsi qu’une fonction qui permet d’annuler le déplacement précédant. Vous pouvez également faire des parties contre des amis grâce au téléchargement DS."
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Adventure", "Strategy"],
+	"name": "LEGO Ninjago - The Videogame",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "April 15, 2011",
+	"serial_number": "BVYP",
+	"synopsis": "Enter a world of combat, magic and multiplayer competition with LEGO Ninjago: The Videogame; where strategic thinking and the block-rocking fun of the LEGO universe collide!"
+}

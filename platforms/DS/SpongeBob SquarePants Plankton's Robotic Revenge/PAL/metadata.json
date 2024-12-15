@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Engine Software"],
+	"genres": ["Action"],
+	"locales": ["ES"],
+	"name": "SpongeBob SquarePants: Plankton's Robotic Revenge",
+	"publishers": ["Activision"],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "7"
+		}
+	],
+	"release_date": "November 1, 2013",
+	"serial_number": "TLUP",
+	"synopsis": "Whoooooo lives in a pineapple under the sea? SpongeBob SquarePants! Get ready to join our favourite under-the-sea gang in SpongeBob SquarePants: Plankton's Robotic Revenge. In this original story, Bikini Bottom’s very own Sheldon J. Plankton, known for his obsession with stealing the Krusty Krab’s secret formula, has new plans to build a mechanised army, threatening the serene seas of Bikini Bottom. Join SpongeBob and his friends as they stop Plankton’s evil plan and protect the prized Krabby Patty Formula."
+}

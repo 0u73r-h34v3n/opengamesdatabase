@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Role-Playing"],
+	"name": "Final Fantasy - The 4 Heroes of Light",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "12"
+		}
+	],
+	"release_date": "October 8, 2010",
+	"serial_number": "BFXP",
+	"synopsis": "FINAL FANTASY THE 4 HEROES OF LIGHT is a JRPG that you can play solo or with up to three friends. It combines romantic storybook graphics with the technology of the Nintendo DS to create a neo-classical take on the RPG genre."
+}

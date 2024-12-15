@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"genres": ["Action", "Platformer"],
+	"name": "Sonic Classic Collection",
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "March 12, 2010",
+	"serial_number": "VSOV",
+	"synopsis": "Sonic Classic Collection brings the original Mega Drive games all together in one place for your delectation! The new 'save anywhere' feature and collectable artwork make it a must for both old and new fans!"
+}

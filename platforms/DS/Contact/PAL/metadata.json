@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"developers": ["Grasshopper"],
+	"genres": ["Role-Playing"],
+	"locales": ["ES"],
+	"name": "Contact",
+	"publishers": [
+		"Marvelous Entertainment",
+		"Pack-In-Video",
+		"Rising Star Games",
+		"Victor Entertainment"
+	],
+	"ratings": [
+		{
+			"name": "PEGI",
+			"rating": "3"
+		}
+	],
+	"release_date": "February 2, 2007",
+	"serial_number": "ACOP",
+	"synopsis": "When a professor crash-lands his spaceship on Earth after an attack by another ship, he accidentally abducts a young boy called Terry."
+}
