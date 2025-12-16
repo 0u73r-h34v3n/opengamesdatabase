@@ -15,38 +15,39 @@ async function hasGameRegionsInformation(
 
 	const regionsInformationState: Record<string, boolean> = {};
 
-	for (const region of regions) {
-		const hasFolder = await exists(`${route}/${region}`);
+	await Promise.all(
+		regions.map(async (region) => {
+			const hasFolder = await exists(`${route}/${region}`);
 
-		if (!hasFolder) {
-			regionsInformationState[region] = hasFolder;
+			if (!hasFolder) {
+				regionsInformationState[region] = hasFolder;
+				return;
+			}
 
-			continue;
-		}
+			const hasRegionMetadataFile = await exists(
+				`${route}/${region}/metadata.json`,
+			);
 
-		const hasRegionMetadataFile = await exists(
-			`${route}/${region}/metadata.json`,
-		);
-
-		regionsInformationState[region] = hasRegionMetadataFile;
-	}
+			regionsInformationState[region] = hasRegionMetadataFile;
+		}),
+	);
 
 	return regionsInformationState;
 }
 
-const EMULATORS = ["PCSX2"];
+const EMULATORS = ["PCSX2", "RPCS3", "Dolphin", "Citra", "Yuzu", "PPSSPP"];
+
 async function getEmulatorsListInFolder(route: string) {
-	const emulatorsListInFolder = [];
+	const results = await Promise.all(
+		EMULATORS.map(async (emulator) => {
+			const hasEmulatorFile = await exists(`${route}/${emulator}.json`);
+			return hasEmulatorFile ? emulator : null;
+		}),
+	);
 
-	for (const emulator of EMULATORS) {
-		const hasEmulatorFile = await exists(`${route}/${emulator}.json`);
-
-		if (!hasEmulatorFile) {
-			continue;
-		}
-
-		emulatorsListInFolder.push(emulator);
-	}
+	const emulatorsListInFolder = results.filter(
+		(emulator) => emulator !== null,
+	) as string[];
 
 	if (emulatorsListInFolder.length === 0) {
 		return undefined;
@@ -56,68 +57,88 @@ async function getEmulatorsListInFolder(route: string) {
 }
 
 (async () => {
-	const platformsList = await readdir("./platforms", { withFileTypes: true });
-	const platforms: Record<string, Record<string, GameMap>> = {};
+	try {
+		const platformsList = await readdir("./platforms", { withFileTypes: true });
+		const platforms: Record<string, Record<string, GameMap>> = {};
 
-	for (const platform of platformsList) {
-		if (!platform.isDirectory()) {
-			continue;
-		}
-
-		const { path, name } = platform;
-
-		if (!platforms[name]) {
-			platforms[name] = {};
-		}
-
-		const gamesFoldersList = await readdir(`${path}/${name}`, {
-			withFileTypes: true,
-		});
-
-		const sortedGamesFoldersList = gamesFoldersList.sort((a, b) =>
-			a.name.toLowerCase().localeCompare(b.name.toLowerCase()),
-		);
-
-		for (const gameFolder of sortedGamesFoldersList) {
-			if (!gameFolder.isDirectory()) {
+		for (const platform of platformsList) {
+			if (!platform.isDirectory()) {
 				continue;
 			}
 
-			const { path: gameFolderPath, name: gameFolderName } = gameFolder;
-			const gameFolderRoute = `${gameFolderPath}/${gameFolderName}`;
+			const { path, name } = platform;
 
-			const gameMetadata = await Bun.file(
-				`${gameFolderRoute}/metadata.json`,
-			).json();
+			if (!platforms[name]) {
+				platforms[name] = {};
+			}
 
-			const { name: gameName } = gameMetadata;
+			const gamesFoldersList = await readdir(`${path}/${name}`, {
+				withFileTypes: true,
+			});
 
-			const regionInformation = await hasGameRegionsInformation(
-				gameFolderRoute,
-				gameMetadata?.regions,
+			const sortedGamesFoldersList = gamesFoldersList.sort((a, b) =>
+				a.name.toLowerCase().localeCompare(b.name.toLowerCase()),
 			);
 
-			const emulatorsListInFolder =
-				await getEmulatorsListInFolder(gameFolderRoute);
+			await Promise.all(
+				sortedGamesFoldersList.map(async (gameFolder) => {
+					if (!gameFolder.isDirectory()) {
+						return;
+					}
 
-			platforms[name][gameName] = {
-				emulators: emulatorsListInFolder,
-				folder: gameFolder.name,
-				...regionInformation,
-			};
+					const { path: gameFolderPath, name: gameFolderName } = gameFolder;
+					const gameFolderRoute = `${gameFolderPath}/${gameFolderName}`;
+
+					try {
+						const gameMetadata = await Bun.file(
+							`${gameFolderRoute}/metadata.json`,
+						).json();
+
+						const { name: gameName } = gameMetadata;
+
+						const [regionInformation, emulatorsListInFolder] =
+							await Promise.all([
+								hasGameRegionsInformation(
+									gameFolderRoute,
+									gameMetadata?.regions,
+								),
+								getEmulatorsListInFolder(gameFolderRoute),
+							]);
+
+						platforms[name][gameName] = {
+							emulators: emulatorsListInFolder,
+							folder: gameFolder.name,
+							...regionInformation,
+						};
+					} catch (error) {
+						console.error(
+							`Error processing ${gameFolderRoute}/metadata.json:`,
+							error instanceof Error ? error.message : error,
+						);
+					}
+				}),
+			);
+
+			if (!platforms[name]) {
+				continue;
+			}
+
+			if (Object.keys(platforms[name]).length === 0) {
+				continue;
+			}
+
+			await Bun.write(
+				`./platforms/${name}/map.json`,
+				JSON.stringify(platforms[name], null, 2),
+			);
+
+			console.log(`✓ Generated map for ${name} (${Object.keys(platforms[name]).length} games)`);
 		}
 
-		if (!platforms[name]) {
-			continue;
-		}
-
-		if (Object.keys(platforms[name]).length === 0) {
-			continue;
-		}
-
-		await Bun.write(
-			`./platforms/${name}/map.json`,
-			JSON.stringify(platforms[name], null, 2),
-		);
+		console.log("\n✅ All platform maps generated successfully!");
+		process.exit(0);
+	} catch (error) {
+		console.error("❌ Fatal error:", error instanceof Error ? error.message : error);
+		process.exit(1);
 	}
 })();
