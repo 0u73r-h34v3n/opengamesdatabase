@@ -1,23 +1,59 @@
 {
 	"$schema": "https://json-schema.org/draft/2020-12/schema",
-	"description": "Emulator Information about game",
+	"$id": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/emulator_information_schema.json",
+	"title": "Open Games Database - Emulator Information Schema",
+	"description": "JSON Schema for emulator-specific game information and compatibility data",
 	"type": "object",
 	"properties": {
 		"$schema": {
-			"type": "string"
+			"type": "string",
+			"description": "Reference to this JSON Schema"
 		},
 		"compatibility": {
 			"type": "string",
-			"enum": ["UNKNOWN", "UNSUPPORTED", "PLAYABLE", "PERFECT"]
+			"enum": ["UNKNOWN", "UNSUPPORTED", "PLAYABLE", "PERFECT"],
+			"description": "Game compatibility status with the emulator",
+			"default": "UNKNOWN"
+		},
+		"compatibility_notes": {
+			"type": "string",
+			"description": "Additional notes about compatibility, known issues, or required settings",
+			"minLength": 1,
+			"maxLength": 500
+		},
+		"tested_version": {
+			"type": "string",
+			"description": "Emulator version this compatibility status was tested with",
+			"minLength": 1,
+			"pattern": "^[0-9]+\\.[0-9]+.*$"
 		},
 		"retro_achievements": {
 			"type": "object",
+			"description": "RetroAchievements integration information",
 			"properties": {
 				"id": {
-					"type": "integer"
+					"type": "integer",
+					"description": "RetroAchievements game ID",
+					"minimum": 1
+				},
+				"total_achievements": {
+					"type": "integer",
+					"description": "Total number of achievements available",
+					"minimum": 0
+				},
+				"total_points": {
+					"type": "integer",
+					"description": "Total achievement points available",
+					"minimum": 0
 				}
 			},
-			"required": ["id"]
+			"required": ["id"],
+			"additionalProperties": false
+		},
+		"recommended_settings": {
+			"type": "object",
+			"description": "Recommended emulator settings for optimal performance",
+			"additionalProperties": true
 		}
 	},
 	"additionalProperties": false

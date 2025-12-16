@@ -1,34 +1,68 @@
 {
 	"$schema": "https://json-schema.org/draft/2020-12/schema",
-	"description": "Games Metadata Scheme",
+	"$id": "https://raw.githubusercontent.com/0u73r-h34v3n/opengamesdatabase/refs/heads/master/shared/metadata_schema.json",
+	"title": "Open Games Database - Metadata Schema",
+	"description": "JSON Schema for video game metadata in the Open Games Database",
 	"type": "object",
 	"properties": {
 		"$schema": {
-			"type": "string"
+			"type": "string",
+			"description": "Reference to this JSON Schema"
 		},
 		"acronyms": {
 			"type": "array",
-			"items": { "type": "string" }
+			"description": "Common acronyms or abbreviations for the game title",
+			"items": {
+				"type": "string",
+				"minLength": 1,
+				"pattern": "^[A-Z0-9][A-Z0-9 :&'-]*$"
+			},
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"aliases": {
 			"type": "array",
-			"items": { "type": "string" }
+			"description": "Alternative names or titles for the game (including localized titles)",
+			"items": {
+				"type": "string",
+				"minLength": 1
+			},
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"developers": {
 			"type": "array",
-			"items": { "type": "string" }
+			"description": "Companies or individuals who developed the game",
+			"items": {
+				"type": "string",
+				"minLength": 1
+			},
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"franchise": {
-			"type": "string"
+			"type": "string",
+			"description": "The franchise or series this game belongs to",
+			"minLength": 1
 		},
 		"genres": {
 			"type": "array",
-			"items": { "type": "string" }
+			"description": "Game genres and categories",
+			"items": {
+				"type": "string",
+				"minLength": 1
+			},
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"locales": {
 			"type": "array",
 			"items": {
 				"anyOf": [
+					{
+						"const": "EN",
+						"description": "English"
+					},
 					{
 						"const": "DE",
 						"description": "German"
@@ -43,7 +77,7 @@
 					},
 					{
 						"const": "IT",
-						"description": "Italy"
+						"description": "Italian"
 					},
 					{
 						"const": "JA",
@@ -68,35 +102,100 @@
 					{
 						"const": "UK",
 						"description": "Ukrainian"
+					},
+					{
+						"const": "ZH",
+						"description": "Chinese"
+					},
+					{
+						"const": "ZH-CN",
+						"description": "Chinese (Simplified)"
+					},
+					{
+						"const": "ZH-TW",
+						"description": "Chinese (Traditional)"
+					},
+					{
+						"const": "NL",
+						"description": "Dutch"
+					},
+					{
+						"const": "SV",
+						"description": "Swedish"
+					},
+					{
+						"const": "DA",
+						"description": "Danish"
+					},
+					{
+						"const": "FI",
+						"description": "Finnish"
+					},
+					{
+						"const": "NO",
+						"description": "Norwegian"
+					},
+					{
+						"const": "AR",
+						"description": "Arabic"
+					},
+					{
+						"const": "TR",
+						"description": "Turkish"
+					},
+					{
+						"const": "CS",
+						"description": "Czech"
+					},
+					{
+						"const": "HU",
+						"description": "Hungarian"
+					},
+					{
+						"const": "EL",
+						"description": "Greek"
 					}
 				]
 			}
 		},
 		"name": {
-			"type": "string"
+			"type": "string",
+			"description": "Official title of the game",
+			"minLength": 1,
+			"maxLength": 200
 		},
 		"publishers": {
 			"type": "array",
-			"items": { "type": "string" }
+			"description": "Companies that published or distributed the game",
+			"items": {
+				"type": "string",
+				"minLength": 1
+			},
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"ratings": {
 			"type": "array",
+			"description": "Age ratings and content ratings from various rating organizations",
 			"items": {
 				"type": "object",
 				"properties": {
 					"name": {
 						"type": "string",
-						"description": "The name of the rating organization or system."
+						"description": "The name of the rating organization or system (e.g., ESRB, PEGI, CERO)",
+						"minLength": 1
 					},
 					"rating": {
 						"type": "string",
-						"description": "The rating value associated with the game."
+						"description": "The rating value associated with the game (e.g., E10+, 12, B)",
+						"minLength": 1
 					}
 				},
 				"required": ["name", "rating"],
 				"additionalProperties": false
 			},
-			"description": "An array of rating objects, each containing a name and rating value."
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"regions": {
 			"type": "array",
@@ -195,45 +294,57 @@
 		},
 		"release_date": {
 			"type": "string",
-			"pattern": "^(January|February|March|April|May|June|July|August|September|October|November|December) \\d{1,2}, \\d{4}$",
-			"description": "Game release date"
+			"pattern": "^(January|February|March|April|May|June|July|August|September|October|November|December) ([1-9]|[12][0-9]|3[01]), (19[0-9]{2}|20[0-9]{2}|21[0-9]{2})$",
+			"description": "Game release date in format: 'Month Day, Year' (e.g., 'March 3, 2017')",
+			"examples": ["March 3, 2017", "November 21, 1998", "January 1, 2020"]
 		},
 		"reviews": {
 			"type": "array",
+			"description": "Reviews and scores from gaming publications and websites",
 			"items": {
 				"type": "object",
 				"properties": {
 					"name": {
 						"type": "string",
-						"description": "The name of the review source or platform."
+						"description": "The name of the review source or platform (e.g., IGN, Metacritic, GameSpot)",
+						"minLength": 1
 					},
 					"url": {
 						"type": "string",
-						"description": "The URL to the review or review platform."
+						"format": "uri",
+						"description": "The URL to the review or review platform",
+						"pattern": "^https?://.+"
 					},
 					"score": {
 						"type": "number",
 						"minimum": 0,
-						"maximum": 100,
-						"description": "The score given by the review platform (e.g., from 0 to 100)."
+						"description": "The score given by the review platform (normalized if max_score is provided)"
 					},
 					"max_score": {
 						"type": "number",
-						"description": "Max score given by the review platform (e.g., 5, 10 or 100)"
+						"minimum": 1,
+						"description": "Maximum possible score for this review system (e.g., 5, 10, or 100)",
+						"examples": [5, 10, 100]
 					}
 				},
 				"required": ["name", "url", "score"],
 				"additionalProperties": false
 			},
-			"description": "An array of review objects, each containing a review platform name, URL, and score."
+			"uniqueItems": true,
+			"minItems": 1
 		},
 		"serial_number": {
 			"type": "string",
-			"description": "A serial number is a unique identifier assigned to an individual item or product. It serves as a means of identification and helps distinguish one item from another."
+			"description": "Unique product identifier or serial code assigned to the game (e.g., SLUS-01234, CTR-P-ABCD)",
+			"minLength": 1,
+			"maxLength": 50,
+			"pattern": "^[A-Z0-9][A-Z0-9-_ ]*$"
 		},
 		"synopsis": {
 			"type": "string",
-			"description": "Comprehensive but concise description of the main elements of the content without excessive detail."
+			"description": "Brief description of the game's story, gameplay, and main features",
+			"minLength": 1,
+			"maxLength": 2000
 		}
 	},
 	"required": ["name"],
