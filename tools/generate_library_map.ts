@@ -76,12 +76,10 @@ async function getEmulatorsListInFolder(route: string) {
 				withFileTypes: true,
 			});
 
-			const sortedGamesFoldersList = gamesFoldersList.sort((a, b) =>
-				a.name.toLowerCase().localeCompare(b.name.toLowerCase()),
-			);
+			const gamesData: Array<{ gameName: string; gameMap: GameMap }> = [];
 
 			await Promise.all(
-				sortedGamesFoldersList.map(async (gameFolder) => {
+				gamesFoldersList.map(async (gameFolder) => {
 					if (!gameFolder.isDirectory()) {
 						return;
 					}
@@ -105,11 +103,23 @@ async function getEmulatorsListInFolder(route: string) {
 								getEmulatorsListInFolder(gameFolderRoute),
 							]);
 
-						platforms[name][gameName] = {
-							emulators: emulatorsListInFolder,
-							folder: gameFolder.name,
-							...regionInformation,
-						};
+						const sortedRegionInformation = Object.keys(regionInformation)
+							.sort()
+							.reduce((acc, key) => {
+								acc[key] = regionInformation[key];
+								return acc;
+							}, {} as Record<string, boolean>);
+
+					const gameMap = {
+						folder: gameFolder.name,
+						...(emulatorsListInFolder ? { emulators: emulatorsListInFolder } : {}),
+						...sortedRegionInformation,
+					} as GameMap;
+
+						gamesData.push({
+							gameName,
+							gameMap,
+						});
 					} catch (error) {
 						console.error(
 							`Error processing ${gameFolderRoute}/metadata.json:`,
@@ -118,6 +128,22 @@ async function getEmulatorsListInFolder(route: string) {
 					}
 				}),
 			);
+
+			gamesData.sort((a, b) => {
+				// Primary sort: case-insensitive, locale-aware
+				const primaryCompare = a.gameName.localeCompare(b.gameName, undefined, { sensitivity: 'base' });
+
+				if (primaryCompare !== 0) {
+					return primaryCompare;
+				}
+
+				// Secondary sort: case-sensitive for stable ordering when names differ only in case
+				return a.gameName.localeCompare(b.gameName);
+			});
+
+			for (const { gameName, gameMap } of gamesData) {
+				platforms[name][gameName] = gameMap;
+			}
 
 			if (!platforms[name]) {
 				continue;
